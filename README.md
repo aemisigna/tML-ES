@@ -63,7 +63,7 @@ El equipo y la comunidad de tML ES están en Discord. Es el lugar donde coordina
 
 ---
 
-## Equipo
+## Equipo de desarrollo
 
 **tML ES Team** — Desarrollo del mod y las traducciones.
 
@@ -76,6 +76,13 @@ El equipo y la comunidad de tML ES están en Discord. Es el lugar donde coordina
 | **all_xozzin** | Diseño del icono del mod; pixel art |
 
 ---
+
+## Equipo de contribución
+Este proyecto existe en su estado actual gracias a todas las personas que han contribuido:
+
+<a href="https://github.com/aemisigna/tML-ES/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aemisigna/tML-ES" />
+</a>
 
 ## Licencia
 
