@@ -2,6 +2,9 @@
 
 Gracias por tu interés en contribuir. Esta guía cubre todo lo necesario para que tu aporte sea coherente con el estilo del proyecto y pase la revisión sin problemas.
 
+> [!NOTE]
+> ¿Primera vez usando GitHub o nunca hiciste un fork? Empieza por **[Cómo hacer fork y abrir tu primera Pull Request](HOW_TO_FORK.md)** — es una guía paso a paso con capturas. Vuelve a esta página para las reglas de traducción una vez que ya tengas tu fork listo.
+
 ---
 
 ## Requisitos previos
@@ -56,11 +59,13 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 
 | Mod | Estado |
 |-----|--------|
-| Calamity Mod | En progreso — consultar disponibilidad por categoría |
-| Wrath of the Gods | En progreso — consultar disponibilidad por categoría |
-| Fargo's Mutant Mod | En progreso |
-| Fargo's Souls Mod | En progreso |
-| Split | Pendiente — no se acepta aún |
+| Calamity Mod | ✅ |
+| Infernum Mode | ✅ |
+| Wrath of the Gods | ✅ |
+| Fargo's Mutant Mod | ✅ |
+| Fargo's Souls Mod | ✅ |
+| Fargo's Souls DLC | ✅ |
+| Split | Pendiente |
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
@@ -76,6 +81,8 @@ Trabajar en un archivo que no está disponible puede resultar en que tu aporte n
 
 > [!TIP]
 > Si es tu primera vez usando GitHub, el flujo es: Fork → editar archivos en tu fork (desde el navegador o descargando el repositorio) → abrir Pull Request. No necesitas conocimientos avanzados de Git. Si tienes dudas, consulta en Discord y te orientamos.
+>
+> Guía paso a paso con capturas de pantalla: **[Cómo hacer fork y abrir tu primera Pull Request](HOW_TO_FORK.md)**.
 
 > [!IMPORTANT]
 > El CI ejecutará una validación de sintaxis HJSON automáticamente al abrir la PR. Si hay errores de formato, el CI aparecerá en rojo y la PR no será revisada hasta que estén corregidos.
@@ -109,36 +116,18 @@ Las descripciones y tooltips siempre van en sentence case independientemente del
 
 ### 3. Nombres propios — ¿traducir o no?
 
-- **Nombres de personaje sin traducción establecida**: no se traducen. `Calamitas`, `Draedon`, `Solyn` se mantienen igual.
-- **Nombres descriptivos**: se traducen respetando la convención de mayúsculas del mod. `Desert Scourge` → `Azote del Desierto`, `Giant Clam` → `Almeja Gigante`.
-- **Nombres de cóctel, cultura o marca** (frecuentes en Calamity): se mantienen en inglés si no tienen equivalente establecido en español (`Bloody Mary`, `Everclear`).
+- **Nombres de personaje sin traducción establecida**: no se traducen.
+- **Nombres descriptivos**: se traducen respetando la convención de mayúsculas del mod.
+- **Nombres de cóctel, cultura o marca** (frecuentes en Calamity): se mantienen en inglés si no tienen equivalente establecido en español.
 - **Ante cualquier duda**: consulta en Discord antes de inventar una traducción, para no generar inconsistencias.
+
+La lista completa de nombres ya establecidos está en **[GLOSSARY.md](GLOSSARY.md#nombres-propios)**.
 
 ### 4. Vocabulario consistente
 
-Usa siempre los mismos términos para las mismas mecánicas. Algunos establecidos:
+Usa siempre los mismos términos para las mismas mecánicas. La lista completa de términos establecidos está en **[GLOSSARY.md](GLOSSARY.md#mecánicas-y-términos-generales)**.
 
-| Inglés | Español |
-|--------|---------|
-| Life / Health | Vida |
-| Mana | Maná |
-| Defense | Defensa |
-| Damage | Daño |
-| Knockback | Retroceso |
-| Crit chance | Probabilidad de crítico |
-| Boss | Jefe |
-| Debuff | Efecto negativo |
-| Buff | Mejora |
-| Rogue | Pícaro |
-| True melee | Cuerpo a cuerpo puro |
-| Stealth | Sigilo |
-| Stealth strike | Golpe furtivo |
-| Immunity | Inmunidad |
-| Projectile | Proyectil |
-| Minion | Súbdito |
-| Sentry | Centinela |
-
-> Si encuentras un término recurrente que no está en esta tabla, propón su entrada en Discord para unificarlo antes de usarlo.
+> Si encuentras un término recurrente que no está en el glosario, propón su entrada en Discord para unificarlo antes de usarlo.
 
 ### 5. Puntuación y formato
 

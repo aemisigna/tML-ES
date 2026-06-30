@@ -25,6 +25,7 @@
 
 ### [Encontré un **error**](https://discord.gg/Z43xMxKdXZ) (Reportar por Discord)
 
+### [Nunca usé GitHub](HOW_TO_FORK.md) (Guía de fork y Pull Request paso a paso)
 ---
 
 ## Este repositorio

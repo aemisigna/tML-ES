@@ -1,0 +1,29 @@
+name: Validar sintaxis HJSON
+
+on:
+  pull_request:
+    paths:
+      - 'Localization/**/*.hjson'
+  push:
+    branches: [main]
+    paths:
+      - 'Localization/**/*.hjson'
+
+jobs:
+  validate:
+    name: Validar archivos HJSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar parser HJSON
+        run: npm install hjson@3.2.2 --no-save
+
+      - name: Validar archivos
+        run: node .github/scripts/validate-hjson.js Localization
