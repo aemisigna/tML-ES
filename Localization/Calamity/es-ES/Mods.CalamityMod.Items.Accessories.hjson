@@ -89,7 +89,7 @@ AmalgamatedBrain: {
 		Recibir daño confunde a los enemigos cercanos e invoca un merodeador tenebroso
 		El merodeador tenebroso vuela sobre ti y explota en varias nubes de lluvia sombría
 		{$Common.DodgeProvided}
-		Tras esquivar, el daño de invocación y la probabilidad de crítico aumentan un 10%
+		Tras esquivar, el daño de invocación y la probabilidad de ataque crítico aumentan un 10%
 		'''
 	HoldShiftTooltip: "{$Common.DodgeInformation}"
 }
@@ -432,7 +432,7 @@ CoinofDeceit: {
 	Tooltip:
 		'''
 		Los golpes furtivos solo consumen el 90% de tu sigilo máximo
-		6% de probabilidad de crítico de pícaro aumentada
+		6% de probabilidad de ataque crítico de pícaro aumentada
 		'''
 }
 
@@ -489,18 +489,18 @@ DaawnlightSpiritOrigin: {
 	Tooltip:
 		'''
 		Todas las armas a distancia pueden hacer supercrítico cuando la probabilidad de ataque crítico supera el 100%
-		Marca a los enemigos y jefes con dianas que aumentan la probabilidad de crítico al golpearlos
-		La probabilidad de crítico extra se desvanece rápidamente con el tiempo
+		Marca a los enemigos y jefes con dianas que aumentan la probabilidad de ataque crítico al golpearlos
+		La probabilidad de ataque crítico extra se desvanece rápidamente con el tiempo
 		Invoca un espíritu heroico de otro mundo si la visibilidad está activada o en ranuras de apariencia
 		'''
 	HoldShiftTooltip:
 		'''
 		Todas las armas a distancia pueden hacer supercrítico cuando la probabilidad de ataque crítico supera el 100%
 		Marca a los enemigos y jefes cercanos con dianas que desaparecen poco después de ser golpeadas
-		Los ataques a distancia que golpeen las dianas aumentan la probabilidad de crítico
+		Los ataques a distancia que golpeen las dianas aumentan la probabilidad de ataque crítico
 		Los proyectiles grandes y las explosiones no pueden golpear las dianas
-		Las armas más lentas otorgan un mayor aumento de probabilidad de crítico al golpear
-		La probabilidad de crítico extra se desvanece rápidamente con el tiempo
+		Las armas más lentas otorgan un mayor aumento de probabilidad de ataque crítico al golpear
+		La probabilidad de ataque crítico extra se desvanece rápidamente con el tiempo
 		Cuanto mayor sea el impulso, más rápido se desvanece
 		Invoca un espíritu heroico de otro mundo si la visibilidad está activada o en ranuras de apariencia
 		'''
@@ -514,7 +514,7 @@ DarkMatterSheath: {
 		+10 de sigilo máximo
 		La generación de sigilo se potencia al moverse si no estás atacando
 		Los golpes furtivos solo consumen el 50% de tu sigilo máximo
-		6% de daño de pícaro y probabilidad de crítico de pícaro aumentados
+		6% de daño de pícaro y probabilidad de ataque crítico de pícaro aumentados
 		'''
 }
 
@@ -652,7 +652,7 @@ EclipseMirror: {
 	Tooltip:
 		'''
 		+10 de sigilo máximo
-		6% de daño de pícaro y probabilidad de crítico de pícaro aumentados
+		6% de daño de pícaro y probabilidad de ataque crítico de pícaro aumentados
 		Los enemigos tienen menos probabilidades de atacarte, incluso en el abismo
 		El sigilo se genera un 25% más rápido estando quieto y se potencia al moverse si no estás atacando
 		Los golpes furtivos solo consumen el 50% de tu sigilo máximo
@@ -767,7 +767,7 @@ FeatherCrown: {
 		'''
 		Invoca una [c/81B7F7:Pluma Celeste] cada 2 segundos, hasta un máximo de 5
 		Cada [c/81B7F7:Pluma Celeste] aumenta el daño mágico un 2% y reduce el coste de maná un 1%
-		Con 5 plumas, aumenta la probabilidad de crítico mágico un 5% y todos los ataques mágicos infligen [cbuff:CalamityMod/StaticDischarge]
+		Con 5 plumas, aumenta la probabilidad de ataque crítico mágico un 5% y todos los ataques mágicos infligen [cbuff:CalamityMod/StaticDischarge]
 		Quedarse sin maná o beber una poción de maná pierde todas las plumas
 		Tras perder una pluma, no se pueden obtener plumas nuevas durante 5 segundos
 		Las plumas son transparentes y silenciosas si la visibilidad está desactivada
@@ -924,7 +924,7 @@ GloveOfPrecision: {
 	Tooltip:
 		'''
 		Reduce la velocidad de ataque de pícaro un 15%
-		Aumenta el daño y la probabilidad de crítico de pícaro un 10%, y la velocidad un 15%
+		Aumenta el daño y la probabilidad de ataque crítico de pícaro un 10%, y la velocidad un 15%
 		'''
 }
 
@@ -1179,7 +1179,7 @@ MoonstoneCrown: {
 		Invoca un [c/27F5E0:Sigilo Lunar] cada 2 segundos, hasta un máximo de 10
 		Cada [c/27F5E0:Sigilo Lunar] aumenta el daño mágico un 2% y reduce el coste de maná un 1%
 		Con 5 sigilos, aumenta la regeneración de maná en +5 PM/s
-		Con 10 sigilos, aumenta la probabilidad de crítico mágico un 10% y todos los ataques mágicos infligen [cbuff:CalamityMod/Nightwither]
+		Con 10 sigilos, aumenta la probabilidad de ataque crítico mágico un 10% y todos los ataques mágicos infligen [cbuff:CalamityMod/Nightwither]
 		Quedarse sin maná o usar una poción de maná rompe todos los sigilos
 		Tras romper un sigilo, no pueden aparecer sigilos nuevos durante 5 segundos
 		Los sigilos son transparentes y silenciosos si la visibilidad está desactivada
@@ -1199,7 +1199,7 @@ Nanotech: {
 		Los golpes furtivos invocan nanohaces y chispas al golpear enemigos
 		Los golpes furtivos tienen robo de vida, +15 de penetración de armadura e infligen un 5% más de daño
 		15% de daño de pícaro y 15% de velocidad de pícaro aumentados
-		Los golpes furtivos otorgan robo de vida y un 10% de probabilidad de crítico a los golpes no furtivos durante 10 segundos
+		Los golpes furtivos otorgan robo de vida y un 10% de probabilidad de ataque crítico a los golpes no furtivos durante 10 segundos
 		'''
 }
 
@@ -1464,7 +1464,7 @@ RadiantOoze: {
 
 RaidersTalisman: {
 	DisplayName: Talismán del Saqueador
-	Tooltip: Los golpes furtivos otorgan un 15% de probabilidad de crítico a los golpes no furtivos durante 10 segundos
+	Tooltip: Los golpes furtivos otorgan un 15% de probabilidad de ataque crítico a los golpes no furtivos durante 10 segundos
 }
 
 RampartofDeities: {
@@ -1554,7 +1554,7 @@ RuinMedallion: {
 	Tooltip:
 		'''
 		Los golpes furtivos solo consumen el 75% de tu sigilo máximo
-		6% de daño de pícaro y probabilidad de crítico de pícaro aumentados
+		6% de daño de pícaro y probabilidad de ataque crítico de pícaro aumentados
 		'''
 }
 
@@ -1583,7 +1583,7 @@ ScionsCurio: {
 	Tooltip:
 		'''
 		Los golpes a distancia aumentan la efectividad de [cbuff:CalamityMod/Irradiated]
-		El daño a lo largo del tiempo de [cbuff:CalamityMod/Irradiated] escala con tu daño a distancia y probabilidad de crítico
+		El daño a lo largo del tiempo de [cbuff:CalamityMod/Irradiated] escala con tu daño a distancia y probabilidad de ataque crítico
 		Al morir, los enemigos explotan propagando [cbuff:CalamityMod/Irradiated]
 		Recibir daño hace que la curiosidad explote en represalia
 		Daño actual de [cbuff:CalamityMod/Irradiated]: [DAMAGE]
@@ -1930,7 +1930,7 @@ TheAmalgam: {
 		Recibir daño confunde a los enemigos cercanos e invoca un merodeador tenebroso
 		El merodeador tenebroso vuela sobre ti y explota en varias nubes de lluvia sombría
 		{$Common.DodgeProvided}
-		Tras esquivar, el daño de invocación y la probabilidad de crítico aumentan un 10%
+		Tras esquivar, el daño de invocación y la probabilidad de ataque crítico aumentan un 10%
 		'No tienes ni idea de cómo sigue unido'
 		'''
 	HoldShiftTooltip: "{$Common.DodgeInformation}"
@@ -2103,7 +2103,7 @@ VampiricTalisman: {
 	Tooltip:
 		'''
 		Los críticos de pícaro roban vida a los enemigos
-		Los golpes furtivos otorgan un 15% de probabilidad de crítico y mayor robo de vida a los golpes no furtivos durante 10 segundos
+		Los golpes furtivos otorgan un 15% de probabilidad de ataque crítico y mayor robo de vida a los golpes no furtivos durante 10 segundos
 		Los golpes furtivos infligen [cbuff:CalamityMod/HeavyBleeding] y [cbuff:CalamityMod/ArmorCrunch] e infligen un 8% más de daño
 		'Poseer el talismán te hace anhelar sangre'
 		'''

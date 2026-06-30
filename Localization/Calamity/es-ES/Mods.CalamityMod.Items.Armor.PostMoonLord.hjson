@@ -213,7 +213,7 @@ BloodflareHeadMelee: {
 	SetBonusEffect:
 		'''
 		Tras golpear a un enemigo {0} veces con ataques cuerpo a cuerpo verdaderos, entrarás en frenesí de sangre durante {1} segundos
-		Durante este tiempo ganarás un {2}% de daño cuerpo a cuerpo y probabilidad de crítico aumentados, y un {3}% de daño por contacto reducido
+		Durante este tiempo ganarás un {2}% de daño cuerpo a cuerpo y probabilidad de ataque crítico aumentados, y un {3}% de daño por contacto reducido
 		Este efecto tiene un tiempo de espera de {4} segundos
 		{$BloodflareBodyArmor.CommonSetBonus}
 		'''
@@ -477,7 +477,7 @@ GodSlayerHeadRogue: {
 		'''
 	SetBonusEffect:
 		'''
-		{0}% de daño de pícaro, probabilidad de crítico y velocidad aumentados cuando tienes la salud al máximo
+		{0}% de daño de pícaro, probabilidad de ataque crítico y velocidad aumentados cuando tienes la salud al máximo
 		Mayor duración de invencibilidad cuando recibes más de {1} de daño en un solo golpe
 		{$GodSlayerChestplate.CommonSetBonus@2}
 		'''

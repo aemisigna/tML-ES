@@ -1167,7 +1167,7 @@ SomaPrime: {
 	DisplayName: Soma Prime
 	Tooltip:
 		'''
-		Esta arma puede supercriticar si su probabilidad de crítico supera el 100%
+		Esta arma puede supercriticar si su probabilidad de ataque crítico supera el 100%
 		Todas las balas disparadas tienen 5% de probabilidad de infligir [cbuff:CalamityMod/Shred], una penalización de sangrado acumulable
 		Los golpes críticos causan 3x daño en lugar de 2x por defecto y tienen 30% de probabilidad de infligir [cbuff:CalamityMod/Shred]
 		[cbuff:CalamityMod/Shred] causa 600 DPS por acumulación y escala con tus estadísticas de distancia

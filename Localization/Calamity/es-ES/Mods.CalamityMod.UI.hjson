@@ -111,7 +111,7 @@ Cooldowns: {
 	ChaosState: Enfriamiento de Teletransportación
 	DarklightEnergy: Energía de Luz Oscura
 	DivineBless: Enfriamiento de Bendición Divina
-	DSOCritCooldown: Probabilidad de Crítico Extra
+	DSOCritCooldown: probabilidad de ataque crítico Extra
 	ParryCooldown: Enfriamiento de Parry
 	ElementalMastery: Maestría Elemental
 	FleshTotem: Enfriamiento de Reducción de Daño de Contacto
@@ -141,7 +141,7 @@ Cooldowns: {
 	PrismaticLaser: Enfriamiento de Andanada Láser Prismática
 	ProfanedSoulShieldDurability: Durabilidad del Escudo del Alma Profanada
 	ProfanedSoulShieldRecharge: Recarga del Escudo del Alma Profanada
-	RaidersBoost: Probabilidad de Crítico Extra
+	RaidersBoost: probabilidad de ataque crítico Extra
 	RelicOfResilienceCooldown: Enfriamiento de la Reliquia de Resiliencia
 	RogueBooster: Enfriamiento del Potenciador de Pícaro
 	SandCloak: Enfriamiento de Capa de Arena

@@ -18,7 +18,7 @@ AerospecHeadMagic: {
 	SetBonus:
 		'''
 		{$CommonItemTooltip.PercentReducedManaCost}
-		{1}% de velocidad de movimiento y probabilidad de crítico mágico aumentadas
+		{1}% de velocidad de movimiento y probabilidad de ataque crítico mágico aumentadas
 		{$AerospecBreastplate.CommonSetBonus@2}
 		'''
 }
@@ -29,7 +29,7 @@ AerospecHeadRogue: {
 	SetBonus:
 		'''
 		{$Common.RogueStealth}
-		{1}% de velocidad de movimiento y probabilidad de crítico de pícaro aumentadas
+		{1}% de velocidad de movimiento y probabilidad de ataque crítico de pícaro aumentadas
 		{$AerospecBreastplate.CommonSetBonus@2}
 		'''
 }
@@ -39,7 +39,7 @@ AerospecHeadMelee: {
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedMeleeDamage}"
 	SetBonus:
 		'''
-		{0}% de velocidad de movimiento y probabilidad de crítico cuerpo a cuerpo aumentadas
+		{0}% de velocidad de movimiento y probabilidad de ataque crítico cuerpo a cuerpo aumentadas
 		{$Common.AggroBoost}
 		{$AerospecBreastplate.CommonSetBonus@1}
 		'''
@@ -62,7 +62,7 @@ AerospecHeadRanged: {
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
 	SetBonus:
 		'''
-		{0}% de velocidad de movimiento y probabilidad de crítico a distancia aumentadas
+		{0}% de velocidad de movimiento y probabilidad de ataque crítico a distancia aumentadas
 		{$AerospecBreastplate.CommonSetBonus@1}
 		'''
 }

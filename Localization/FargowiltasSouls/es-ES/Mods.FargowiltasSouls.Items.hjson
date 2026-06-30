@@ -916,7 +916,7 @@ TerraForce: {
 		'''
 		[i:FargowiltasSouls/CopperEnchant] [i:FargowiltasSouls/ObsidianEnchant] [i:FargowiltasSouls/LeadEnchant] Los golpes críticos a veces disparan un rayo que explota al impactar e inflige un Envenenamiento por Plomo más fuerte
 		[i:FargowiltasSouls/SilverEnchant] El Parry de Guardia anula hasta 200 de daño, los parries exitosos disparan un rayo al instante
-		[i:FargowiltasSouls/TinEnchant] Fija la probabilidad de crítico de Estaño en 75%, aumentando un 25% hasta el 100% cada vez que se dispara un rayo
+		[i:FargowiltasSouls/TinEnchant] Fija la probabilidad de ataque crítico de Estaño en 75%, aumentando un 25% hasta el 100% cada vez que se dispara un rayo
 		[i:FargowiltasSouls/LeadEnchant] Recibes un 60% menos de daño con el tiempo
 		[i:FargowiltasSouls/TungstenEnchant] Aumenta el tamaño de las armas cuerpo a cuerpo en un 50% y el alcance de látigo en un 20%
 		[i:FargowiltasSouls/IronEnchant] Recoger un objeto o coleccionable aumenta la reducción de daño en un 20% durante 5 segundos, aumenta el alcance de recogida de objetos
@@ -3335,7 +3335,7 @@ RoseTintedVisor: {
 	Tooltip:
 		'''
 		Dispara hasta 6 láseres al soltar, según el tiempo de carga
-		Tiene probabilidad de crítico adicional según los láseres cargados, hasta 100%
+		Tiene probabilidad de ataque crítico adicional según los láseres cargados, hasta 100%
 		'''
 }
 

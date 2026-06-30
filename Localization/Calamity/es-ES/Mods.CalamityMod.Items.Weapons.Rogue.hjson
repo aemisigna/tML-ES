@@ -376,7 +376,7 @@ ElephantKiller: {
 		'''
 		Puede lanzarse para ganar [STEALTHGAIN]% del sigilo máximo al golpear
 		<right> para gastar [STEALTHCOST]% del sigilo máximo y disparar el arma con daño aumentado
-		Todos los disparos siempre dan golpe crítico, y la probabilidad de crítico aumenta el daño crítico
+		Todos los disparos siempre dan golpe crítico, y la probabilidad de ataque crítico aumenta el daño crítico
 		Los golpes furtivos disparan un [c/87CEFA:Elefante Espectral] desde el arma
 		Los disparos que pasan por el [c/87CEFA:Elefante Espectral] son redirigidos y potenciados enormemente
 		[c/D4827A:La generación natural de sigilo y el daño de sigilo están desactivados al sostener esta arma]
@@ -809,7 +809,7 @@ NanoblackReaper: {
 		Cada teselación nanoscura emite un golpe de energía de punto cero instantáneo
 		Los golpes de energía de punto cero tienen 150 de penetración de armadura y apuntarán a jefes siempre que sea posible
 		Suelta <left> justo cuando la guadaña empiece a volver para cortar al enemigo más cercano a tu cursor a la velocidad de la luz
-		Los cortes a velocidad de la luz tienen 150 de penetración de armadura. Si se sincronizan en una ventana de 4 fotogramas, hacen supercrítico con +100% de probabilidad de crítico
+		Los cortes a velocidad de la luz tienen 150 de penetración de armadura. Si se sincronizan en una ventana de 4 fotogramas, hacen supercrítico con +100% de probabilidad de ataque crítico
 		<right> con suficiente sigilo para aumentar enormemente la velocidad de ataque por un corto tiempo
 		Las guadañas lanzadas durante las ráfagas emiten golpes de energía sobrecargados pero no pueden recuperarse manualmente
 		'''
