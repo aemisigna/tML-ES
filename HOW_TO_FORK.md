@@ -95,15 +95,26 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 ## 7. Qué sucede después de abrir la PR
 
-1. El **CI** se ejecuta automáticamente y valida la sintaxis HJSON. Si falla, aparecerá una cruz roja — revisa el registro del check para ver qué línea tiene el error.
+1. El **CI** valida la sintaxis HJSON. Si falla, aparecerá una cruz roja — revisa el registro del check para ver qué línea tiene el error.
 
    ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/09-ci-status.png)
 
+   > [!NOTE]
+   > Si es tu primera PR en este repositorio, es posible que veas **"Workflow awaiting approval"** en vez del check corriendo — GitHub bloquea por defecto la primera ejecución de un colaborador nuevo hasta que alguien del equipo la apruebe. No es un error tuyo; solo espera a que el equipo lo apruebe. Desde tu segunda PR en adelante corre automático.
+
 2. Con el CI en verde, el equipo de tML ES revisa el contenido siguiendo el [proceso de revisión](CONTRIBUTING.md#proceso-de-revisión).
+
+   ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/10-ci-approved.png)
+
 3. Si te piden cambios, los comentarios aparecerán directamente en la PR. Para responder:
    - Vuelve a tu fork, edita el mismo archivo de nuevo (paso 4) y haz commit.
    - Ese nuevo commit se agrega automáticamente a la misma Pull Request — no es necesario abrir una nueva.
-4. Cuando todo esté aprobado, el equipo integra (`merge`) tu PR al repositorio principal.
+
+   ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/11-pr-denied.png)
+
+4. Cuando todo esté aprobado, el equipo integrará (`merge`) tu PR con los cambios al repositorio principal en producción (Workshop).
+
+   ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/12-pr-done.png)
 
 ---
 
@@ -114,7 +125,7 @@ Con el tiempo, el repositorio original avanza con cambios de otros contribuidore
 1. En tu fork, ve a la pestaña principal del código.
 2. Si tu fork está atrasado, verás: **"This branch is X commits behind aemisigna:main"** con un botón **Sync fork**.
 
-   ![Botón Sync fork para actualizar tu copia con el repositorio original](docs/images/fork-pr/10-sync-fork.png)
+   ![Botón Sync fork para actualizar tu copia con el repositorio original](docs/images/fork-pr/13-outdated.png)
 
 3. Haz clic en **Sync fork → Update branch**.
 
