@@ -1,0 +1,613 @@
+FootballZombie.DisplayName: Football Zombie
+Moonwalker.DisplayName: Moonwalker
+RebelliousWisp.DisplayName: Rebellious Wisp
+FreeSoul.DisplayName: Free Soul
+FunkySoul.DisplayName: Funky Soul
+Husk.DisplayName: Husk
+ShadowCaster.DisplayName: Shadow Caster
+SpikedLavaSlime.DisplayName: Spiked Lava Slime
+
+Astrologist: {
+	DisplayName: Astrologist
+
+	TownNPCMood: {
+		Content: Don't know about the others, but I'm fine with everything.
+		NoHome: A little house, please? ...shouldn't I come to you for that?
+		FarFromHome: I know certain someone loves to sleep outside, but I prefer to have a wooden box of my own.
+		LoveSpace: I haven't had that much space since... Boy, I've NEVER had that much space!
+		DislikeCrowded: Get rid of the crowd, please.
+		HateCrowded: So cramped in here, it's like I'm back on the Nexus.
+		LoveBiome: I love {BiomeName}. The sky is the clearest here!
+		LikeBiome: "{BiomeName}... There aren't any attractive wizards here, but it's not bad either."
+		DislikeBiome: "{BiomeName} is not my thing. I confuse snow with stars."
+		HateBiome: "{BiomeName}?! Count me out!"
+		LoveNPC: "{NPCName}... Now HE's got some aura."
+		LikeNPC: I like {NPCName}. Old people are the best!
+		DislikeNPC: "{NPCName} Kinda annoys me."
+		HateNPC: "{NPCName} is a walking reminder of everything I didn't like about the Nexus."
+		LikeNPC_Princess: "{NPCName}? Well, ain't she just adorable?"
+		Princess_LovesNPC: "{NPCName} - now she's something else!"
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+AstrologistBad: {
+	DisplayName: Menacing Person
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+Collector: {
+	DisplayName: Collector
+
+	TownNPCMood: {
+		Content: It ain't that bad, I guess. Congratulations.
+		NoHome: Am I supposed to sleep on the grass? My poor back...
+		FarFromHome: How far am I supposed to walk? Uhh, can't you just order space uber for me or something?
+		LoveSpace: It's desolate out there, just the way I like it.
+		DislikeCrowded: There's too many people here. People who don't take my orders.
+		HateCrowded: Too many people making fun of me around, it's horrible!
+		LoveBiome: "{BiomeName} makes me feel right at home."
+		LikeBiome: You know, {BiomeName} ain't that bad.
+		DislikeBiome: Ugh, {BiomeName}, it stinks out there.
+		HateBiome: "{BiomeName}? I should evacuate immediately."
+		LoveNPC: Love {NPCName}! I hate Christmas too!
+		LikeNPC: "{NPCName} is a good fella. He's got money!"
+		DislikeNPC: This world would look much better without grass, and {NPCName} has to agree with me!
+		HateNPC: "{NPCName} has no idea what he's talking about. No one understands Terraria better than me!"
+		LikeNPC_Princess: Pfft... {NPCName} seriously thinks she's better than everyone?
+		Princess_LovesNPC: "{NPCName}... Please, not now."
+	}
+
+	Census.SpawnCondition: Conditions unknown
+	RecipeBrowser.ExchangeTip: Exchange with Genoshi
+}
+
+CollectorTeleport.DisplayName: Genoshi
+
+Commando: {
+	DisplayName: Commando
+
+	Names: {
+		0: Ooo
+		1: Grey
+		2: Ford
+		3: Zaphod
+		4: Douglas
+		5: Marvin
+		6: Slartibartfast
+	}
+
+	TownNPCMood: {
+		Content: After all this time, I can confidently say... I feel good!
+		NoHome: I know I'm not in the best position right now... But I can hope for a shelter, right?
+		FarFromHome: Oh, shoot! Hope I'm not lost again!
+		LoveSpace: It's so spacious here! Suspiciously spacious...
+		DislikeCrowded: Have there always been so many people here, or it's just me?
+		HateCrowded: I'm afraid even a space suit won't protect me from how quickly the air is being used up here...
+		LoveBiome: I love {BiomeName}. Snowflakes remind me of the stars!
+		LikeBiome: I like {BiomeName}. It's just like Mars!
+		DislikeBiome: "{BiomeName}... It's too weird here, even for me."
+		HateBiome: "{BiomeName} scares me, I think I saw that spying drone again..."
+		LoveNPC: "{NPCName} understands me like no one else... He's as much a traitor as I am!"
+		LikeNPC: "{NPCName} always finds a common ground with people who don't look like people..."
+		DislikeNPC: It's hard for me to choose someone I don't like, but if no one likes {NPCName}, then neither do I.
+		HateNPC: Please explain to Santa that I'm not going to steal Christmas! That was not a part of my mission!
+		LikeNPC_Princess: "{NPCName} believes that everyone deserves happiness. Even aliens like me!"
+		Princess_LovesNPC: "{NPCName} is the friend we've been missing all along!"
+	}
+
+	Start: Oh, I'm so sorry.. There are so many wholesome people in your world, all these meetings, parties, games, and you're always so cheerful, so.. naive.. On my home planet, you could only dream of such a peaceful life. I just wanted to be a part of your big family!
+	BloodMoon: It's kinda scary outside. I thought brain eating went out of human fashion a couple of centuries ago.
+	Party: I'm tired of everyone offering me a drink. Like I can just remove my space helmet to taste it without dying from oxygen poisoning!
+
+	Talk: {
+		0: Aloha! Isn't that how you, humans, greet each other?
+		1: Oh, here you are! Do you need something?
+		2: If a robot repairs another robot, would you rather call it a mechanic or a doctor?.. Oh, hi there! Sorry, I've been thinking...
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+Magician: {
+	DisplayName: Magician
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+MenaceNPC: {
+	DisplayName: Menace
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+MirageNPC: {
+	DisplayName: Strange communicator
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+MirageNPC2: {
+	DisplayName: Mirage
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+Shutterbug: {
+	DisplayName: Shutterbug
+
+	TownNPCMood: {
+		Content: Eh. Could be worse.
+		NoHome: Would be sweet to have my own living space.
+		LoveSpace: I appreciate quiet.
+		FarFromHome: Doesn't look like a house to me.
+		DislikeCrowded: Can you take all these loafers somewhere far, far away?
+		HateCrowded: There are too many people here. How many content mods have you installed?!
+		LoveBiome: Love {BiomeName}. If I live here, I'll catch your eye more often, which means you won't forget to take more clips and get rewards.
+		LikeBiome: Sure, {BiomeName} is one of the biomes.
+		DislikeBiome: You know, I'm pretty sure there is some clever and logical reason why I don't like {BiomeName}. I just haven't figured it out yet.
+		HateBiome: Oh, {BiomeName}... Should I even begin?
+		LikeNPC: "{NPCName} is cool. Bet we share the same political views."
+		DislikeNPC: Of all the guests from other worlds, {NPCName} makes the least sense.
+		HateNPC: And... I can't stand tall people. Seriously, if {NPCName} calls me baby doll again, I'll exterminate her!
+		LoveNPC: I love {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+TwilightWalker: {
+	DisplayName: Twilight Walker
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+Vulcan: {
+	DisplayName: Vulcan
+	Start: So, you're the one who defeated that naughty candle, I see. How delightful! I'm Vulcan, the blacksmith, so if you need to reforge your armour, speak to me!
+	Cup: Oh, smokes... How did you... Wherever you found this, put it back! It's nothing but trouble!
+	PoorUnfortunateSoul: Hey! I definitely remember those! They are usually channelled with some item and serve as, well... a live hard drive! They divide your brain into fractions and allow you to store only the most important things in your memory, taking away useless stuff. The aristocrats took them to meetings to retain boring information while sleeping. But, don't worry, they're harmless! ...it just depends on the owner.
+	Nickname: Same name, huh? Easier to remember.
+
+	Buttons: {
+		Reforge: Reforge
+		Lore: Lore
+	}
+
+	Chat: {
+		1: Hello there! Hope nobody was following you. Need anything reforged?
+		2: Oh, don't make a sad face. Just ignore all of your problems, they are far away, and you are here. Look at me, I'm completely calm. They're never gonna find us. Right?
+		3: Don't worry, it's okay to be hated. Only those who are worse think bad things about us. Those who are better than us... they just don't care!
+		4: No-no-no, I'd rather stay here. Not in the mood to turn into a huge monstrous skull today.
+		5: I'm not as good a blacksmith as I used to be. All because of that damned candle... I hope she learns her lesson.
+		6: If you need to reforge your armor, speak to me!
+		7: Have you noticed that some characters are significantly smaller or larger than others? No, this is not due to lack of style and bad taste, mostly. It's just sand people are born huge and shapeless, and their bodies compress with age, filling up with experience and trauma. So yes, those who want to lose weight may prefer to watch some snotty melodramas instead of a healthy diet and gym. Unbelievable!
+	}
+
+	LoreStart: Oh, hello again! So... it looks like you put an end to her mischiefs, and the vessel won't cause any more trouble? In that case, I can finally tell you my story. It's sad, so get your napkins ready.
+
+	Lore: {
+		0: You know, I wasn't always this desperate. I had a joyful, carefree life, but one day everything has gone to the dogs. I had to hide from the Nexus people in some boring caves deep underground. No matter how many weapons I forged and how many things I built, there was no one around to evaluate my work! And then I got a terrible idea.
+		1: I picked up wax and ashes and made a sculpture, linked it to this place so it couldn't escape and be found by someone outside, and brought it to life using my cup with living flame. Seemed like a great plan, the perfect friend who wouldn't betray you and would support any of your ventures...
+		2: Of course, if you've read enough books and watched enough movies, you know what's wrong with a story like this. She turned out to be too intrusive, too coarse and rough and irritating and was getting everywhere! And since I linked her to the underworld, I'd be stuck with her forever!
+		3: I couldn't take her life without her will, but I needed to keep her away... Then I came up with another brilliant idea, I collected bones and stones and made another living sculpture. It seemed to me that the only way to get rid of that candle was to shift her focus, so I made him strong, hot, and came up with a crazy epic lore to get her attention.
+		4: When I thought I was finally alone, he came to me, exhausted and depressed: apparently, even with his patience, he couldn't stand her shenanigans. I was about to make another statue to cure his depression, but then realized that I'd already spent all the flame on those two.
+		5: Later that night, he broke into my floor, ripped his flame out of his chest in the most dramatic way possible, put it back in the cup and tied it with chains into a knot, leaving only a pile of stones behind. I'd never seen my candle in such a rage, she couldn't believe that her beloved just disappeared, and blamed me for his imprisonment.
+		6: She ruined my ruins, took the cup along with a huge cage and a set of keys, and went deep underground... I don't know what she was trying to do, maybe fake her escape to ingratiate herself with some stranger... Well, if you wanna hear this story again, just ask, I have nothing much to do anyway.
+	}
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+SheepNPC.DisplayName: Sheep
+Breathtaker.DisplayName: Breathtaker
+Idler.DisplayName: Idler
+Latopus.DisplayName: Latopus
+OverloaderBody.DisplayName: Overloader
+OverloaderHead.DisplayName: Overloader
+OverloaderTail.DisplayName: Overloader
+Savage.DisplayName: Savage
+TectonicMimic.DisplayName: Tectonic Mimic
+Toiler.DisplayName: Toiler
+Unfairy.DisplayName: Unfairy
+BoneSerpentBody.DisplayName: Female Bone Serpent
+BoneSerpentHead.DisplayName: Female Bone Serpent
+BoneSerpentTail.DisplayName: Female Bone Serpent
+
+CommandoBoss: {
+	DisplayName: Commando
+	Revealed: Oh.. snap! My disquise! My beautiful disquise!
+}
+
+Insurgent: {
+	DisplayName: Insurgent
+	Summon: The Insurgent has awoken!
+}
+
+InsurgentDefeated.DisplayName: Insurgent
+
+Menace: {
+	DisplayName: Menace
+	DeathMessage: Ha! Nothing bad ever happens to the Menace!
+
+	Escape: {
+		1: <Menace> Next time, weakling!
+		2: <Menace> Don't even think about giving in!
+	}
+}
+
+MenaceDefeated.DisplayName: Menace
+MirageDefeated.DisplayName: Mirage
+OneShotFall.DisplayName: One-Shot
+OneShotIcePrison.DisplayName: Ice Prison
+OneShotSpawn.DisplayName: One-Shot
+
+OneShot: {
+	DisplayName: One-Shot
+	Summon: The One-Shot has awoken!
+	Defeat: One-Shot has been defeated!
+}
+
+ParaffinDefeated.DisplayName: Paraffin
+
+ParaffinStalker: {
+	DisplayName: Paraffin
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+SethDefeated.DisplayName: Seth
+SpiritOfCaptivity.DisplayName: Chained Specter
+TheSpiritAnchor.DisplayName: Orb of Inspiration
+TheSpiritDefeated.DisplayName: Spirit
+UltimateSethDefeated.DisplayName: Seth
+CaveImp.DisplayName: Cave Imp
+Hobgoblin.DisplayName: Hobgoblin
+Sentinel.DisplayName: Sentinel
+Decaying.DisplayName: Decaying
+Stalker.DisplayName: Stalker
+Fortress.DisplayName: Fortress
+Magneto.DisplayName: Magneto
+Echo.DisplayName: Whisperer
+Fairyfly.DisplayName: Fairyfly
+ShinyPixie.DisplayName: Shiny Pixie
+SkeletonJester.DisplayName: Skeleton Jester
+GreatToxicSludge.DisplayName: Great Toxic Sludge
+MudBrain.DisplayName: Glowing Heart
+Sarracenia.DisplayName: Sarracenia
+GoldenDrone.DisplayName: Golden Drone
+PurpleDrone.DisplayName: Purple Drone
+Colossus.DisplayName: Colossus
+ColossusDeath.DisplayName: Colossus
+Darknut.DisplayName: Darknut
+Garghoul.DisplayName: Garghoul
+Jumpkin.DisplayName: Jumpkin
+Knocker.DisplayName: Knocker
+MindFlayer.DisplayName: Mind Flayer
+Threater.DisplayName: Threater
+Troll.DisplayName: Trollo
+TrollDeath.DisplayName: Trollo
+Crabcannon.DisplayName: Mortarcrab
+GlassButterfly.DisplayName: Glass Butterfly
+FacelessPirate.DisplayName: Faceless Pirate
+HauntedAnchor.DisplayName: Haunted Anchor
+HeadlessPirate.DisplayName: Headless Pirate
+HeadlessPirateExplode.DisplayName: Headless Pirate
+Muskeleton.DisplayName: Muskeleton
+Thriller.DisplayName: Thriller
+Witness.DisplayName: Witness
+Combuster.DisplayName: Combuster
+PossessedShadowArmor.DisplayName: Possessed Shadow Armor
+PossessedFrostArmor.DisplayName: Possessed Frost Armor
+
+TectonicCage: {
+	DisplayName: Tectonic Cage
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LoveBiome: I love {BiomeName}.
+		LikeBiome: I like {BiomeName}.
+		DislikeBiome: I dislike {BiomeName}.
+		HateBiome: I hate {BiomeName}.
+		LoveNPC: I love {NPCName}.
+		LikeNPC: I like {NPCName}.
+		DislikeNPC: I dislike {NPCName}.
+		HateNPC: I hate {NPCName}.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+ParaffinRejected.DisplayName: Paraffin Rejected
+ParaffinReleased.DisplayName: Paraffin Released
+TheSpiritSpawn.DisplayName: The Spirit Spawn
+FortressBall.DisplayName: Fortress Ball
+LatopusGold.DisplayName: Gold Lapotus
+
+TheSpirit: {
+	DisplayName: The Spirit
+
+	Dialogues: {
+		Call: Connecting... Please, stay on the line...
+		Summon_1: The Spirit has joined!
+		Summon_2: The Spirit has arrived!
+		Downed: The Spirit has been defeated!
+		Treat_1: Stop right there, criminal scum, and prepare for justice!
+		Treat_2: Oh shoes, my transmitter is dead! Do you even know how expensive this stuff is these days?
+		Treat_3: I'll report that! I'll report everything!
+		Escape: <Spirit> Good night, everybody!
+	}
+
+	Confusion: Spirit is... perplexed?
+
+	DefeatDialogues: {
+		Start: I thought it would be easier... Hey, you don't look like a space pirate! Of course you're not! Did I... Ooh! I just got it all mixed up?... But my transmitter got a signal from here... Now it's absolutely irretrievably destroyed! How do I get back now...
+		StartConfirm: I'm sorry...
+
+		Talk: {
+			0: The carbon-based life-form is trying to relate to me. What should I do?
+			1: I'm in the middle of something...
+			2: Don't mind me, I'm just waiting for some thought to cross my mind.
+			3: Do you hear this music? Sounds kinda ominous, like something serious is gonna happen.
+			4: So many answers and so few questions!
+		}
+	}
+}
+
+MirageOscarNPC: {
+	DisplayName: Mirage & Oscar
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I hate not having a home.
+		FarFromHome: I am too far from home.
+		LoveSpace: I love having so much space.
+		DislikeCrowded: I dislike how crowded I am.
+		HateCrowded: I hate how crowded I am.
+		LikeNPC_Princess: I like {NPCName}.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+}
+
+SpiritNPC.DisplayName: Busy Spirit
+MenacingPerson.DisplayName: Menacing Person
+
+Paraffin: {
+	DisplayName: Paraffin
+
+	Rejected: {
+		1: How could it be?... Was I not good enough for you?
+		2: No one... No one dares to reject Paraffin!
+	}
+
+	Defeat: {
+		1: Paraffin has been defeated!
+		2: Paraffin's blasting off again!
+		3: The Underworld Domain has calmed down...
+	}
+
+	Summon: {
+		1: Paraffin has awoken!
+		2: Paraffin strikes back!
+	}
+
+	Unleashed: Ancient evil has been unleashed...
+}
+
+Seth: {
+	DisplayName: Seth
+
+	HeatSnapDeath: {
+		1: Seth was melted away...
+		2: Seth bites the dust...
+		3: Seth wasn't worthy...
+	}
+
+	Summon: {
+		1: Seth has arrived!
+		2: The Unchained has awoken!
+	}
+
+	Defeat: {
+		1: Seth has been defeated!
+		2: The Unchained has been defeated!
+	}
+
+	Approaching: The sunstorm is approaching...
+
+	Taunt: {
+		1: <Seth> Vermin.
+		2: <Seth> Submit, vermin.
+		3: <Seth> You are nothing.
+		4: <Seth> Scum.
+		5: <Seth> Break beneath me.
+		6: <Seth> Your body will shatter.
+		7: <Seth> Now is the time to fear.
+		8: <Seth> Weak.
+		9: <Seth> Scream, vermin.
+		10: <Seth> Mistake.
+	}
+
+	Fail: {
+		1: The Temple Sun hasn't risen. Don't rush it.
+		2: The Temple Sun hasn't risen. Slay its guardian.
+		3: The Temple Sun hasn't risen. The Golem must be defeated.
+		4: The Temple Sun hasn't risen. You're not ready.
+	}
+}
+
+NewMenace.DisplayName: New Menace
+
+Mirage: {
+	DisplayName: Mirage
+
+	Summon: {
+		1: Mirage has awoken!
+		2: Challenge accepted...
+	}
+
+	Defeated: Mirage has been defeated!
+	Retreat: Mirage has better business during the day...
+}
+
+VulcanNPC.DisplayName: Vulcan
+
+Angler: {
+	QuestFish: {
+		AuroraBorealis: Aurora borealis? At this time of year? At this time of day? Localized entirely in my fishbowl? Oh yeah, make sure that happens! It will make the most beautiful night light the world has ever seen.
+		Blockfish: I don't know where this ship came from, but the energy coming from it causes all living things in the area to turn into ice! It's simply impossible for me to fish in such conditions, good to have you around. If you catch anything, bring it to me, and I'll reward you.
+	}
+
+	FishLocation.StrandedShip: Caught in the Stranded Ship
+}
+
+TheSpiritFrend.DisplayName: The Spirit

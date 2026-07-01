@@ -1,0 +1,666 @@
+MorgensternBluePro.DisplayName: Morgenstern Blue Pro
+MorgensternGreenPro.DisplayName: Morgenstern Green Pro
+MorgensternMoltenPro.DisplayName: Morgenstern Molten Pro
+MorgensternPro.DisplayName: Morgenstern Pro
+MorgensternRedPro.DisplayName: Morgenstern Red Pro
+SacrificialBandSpirit.DisplayName: Sacrificial Band Spirit
+ElementalCreation.DisplayName: Elemental Creation
+DiamondShipSound.DisplayName: Diamond Ship Sound
+DamnedCatcherBobber.DisplayName: Damned Catcher Bobber
+BlazingWhipProjectile.DisplayName: Blazing Whip
+CrablingHookProjectile.DisplayName: Crabling Hook
+TrappersHookProjectile.DisplayName: Trapper's Hook
+RedHotSolutionPro.DisplayName: Red Hot Solution Pro
+MoonwalkerStar.DisplayName: Moonwalker Star
+LavaSpike.DisplayName: Lava Spike
+GarlicProj.DisplayName: Garlic Proj
+MenaceSpawn.DisplayName: Menace Spawn
+MenacingStar.DisplayName: Menacing Star
+MenacingStar2.DisplayName: Menacing Star
+ShutterbugPhoto.DisplayName: Shutterbug Photo
+TwilightWalker_MagicBook.DisplayName: Twilight Walker_ Magic Book
+BlueCrescentPet.DisplayName: Blue Crescent Pet
+BlueFallenMoon.DisplayName: Blue Fallen Moon
+GreenCrescentPet.DisplayName: Green Crescent Pet
+GreenFallenMoon.DisplayName: Green Fallen Moon
+LuckyMoonPet.DisplayName: Lucky Moon Pet
+PinkCrescentPet.DisplayName: Pink Crescent Pet
+PinkFallenMoon.DisplayName: Pink Fallen Moon
+YellowCrescentPet.DisplayName: Yellow Crescent Pet
+YellowFallenMoon.DisplayName: Yellow Fallen Moon
+FunkyMirrorPet.DisplayName: Funky Mirror Pet
+SunnyPet.DisplayName: Sunny Pet
+VioletPet.DisplayName: Violet Pet
+PhotoRifleHeld.DisplayName: Photo Rifle Held
+SnapshotProjectile.DisplayName: Snapshot Projectile
+AstrolotlPet.DisplayName: Astrolotl Pet
+FrogletPet.DisplayName: Froglet Pet
+SpooksterPet.DisplayName: Spookster Pet
+StarfaceJrPet.DisplayName: Starface Jr Pet
+ThickBoulderLihzahrdProj.DisplayName: Thick Boulder
+ThickBoulderProj.DisplayName: Thick Boulder
+MonsterCageProj.DisplayName: Monster Cage Proj
+PrismaticBulletProj.DisplayName: Prismatic Bullet Proj
+LunarflarePillar.DisplayName: Lunarflare Pillar
+MoonSnap.DisplayName: Moon Snap
+ShatteringDesignFade.DisplayName: Shattering Design Fade
+ShatteringDesignFinisher.DisplayName: Shattering Design Finisher
+ShatteringDesignProjectile.DisplayName: Shattering Design Projectile
+ThornyGreatswordProjectile.DisplayName: Thorny Greatsword Projectile
+ThornyGreatswordSeed.DisplayName: Thorny Greatsword Seed
+WeHaveTechnologyDecal.DisplayName: We Have Technology Decal
+WeHaveTechnologyProjectile.DisplayName: We Have Technology Projectile
+ZirconCrystal.DisplayName: Zircon Crystal
+ZirconWasterProjectile.DisplayName: Zircon Waster Projectile
+ButterflyStrikeBlue.DisplayName: Butterfly Strike Blue
+ButterflyStrikeGreen.DisplayName: Butterfly Strike Green
+ButterflyStrikePink.DisplayName: Butterfly Strike Pink
+ButterflyStrikeYellow.DisplayName: Butterfly Strike Yellow
+SearingEmberProj.DisplayName: Searing Ember Proj
+Pyromancy.DisplayName: Pyromancy
+PyromancyDark.DisplayName: Pyromancy
+BlazerangProj.DisplayName: Blazerang Proj
+BlazerangRipple.DisplayName: Blazerang Ripple
+BouncerProj.DisplayName: Bouncer Proj
+PinkBouncerProj.DisplayName: Pink Bouncer Proj
+FishbonePro.DisplayName: Fishbone Pro
+NightDiscLaser.DisplayName: Night Disc Laser
+NightDiscProj.DisplayName: Night Disc Proj
+PursuerProj.DisplayName: Pursuer Proj
+RodOfDreadExplosion.DisplayName: Rod Of Dread Explosion
+RodOfDreadProj.DisplayName: Rod Of Dread Proj
+RodOfDreadRune.DisplayName: Mystic Sphere
+TheEclipseProj.DisplayName: The Eclipse Proj
+TheEclipseSun.DisplayName: Sun
+TwisterIce.DisplayName: Twister Ice
+TwisterProj.DisplayName: Twister Proj
+FlakCannonProj.DisplayName: Flak Cannon Proj
+SuperFlakCannonProj.DisplayName: Super Flak Cannon Proj
+RedArrow.DisplayName: Red Arrow
+BallofFleshMissilePro.DisplayName: Ball of Flesh
+BallofFleshProj.DisplayName: Ball of Flesh
+EyesoreProj.DisplayName: Eyesore
+FrostflakeFanProj.DisplayName: Frostflake Fan Proj
+SupportGunProj.DisplayName: Support Gun Proj
+RagnarokProj.DisplayName: Ragnarok Proj
+ReflexBowProj.DisplayName: Reflex Bow Proj
+WeatherRocketProj.DisplayName: Weather Rocket Proj
+DazzlerBolt.DisplayName: Dazzler Bolt
+DazzlerBoltEffect.DisplayName: Bad karma
+DragonslayerArrow.DisplayName: Dragonslayer Arrow
+DragonslayerEffect.DisplayName: Black Arrow
+FlareArrow.DisplayName: Flare Arrow
+FlareArrowSpirit.DisplayName: Flare Arrow
+GoldenArrow.DisplayName: Golden Arrow
+HailArrow.DisplayName: Hail Arrow
+LightningArrow.DisplayName: Lightning Arrow
+MarkedArrow.DisplayName: Marked Arrow
+PrecipitationArrow.DisplayName: Precipitation Arrow
+StormArrowB.DisplayName: Storm Arrow
+StormArrowC.DisplayName: Storm Arrow
+TracingArrow.DisplayName: Tracing Arrow
+Blunderbuss.DisplayName: Blunderbuss
+FlareBolt.DisplayName: Flare Bolt
+FlareBoltClone.DisplayName: Flare Bolt Clone
+Axe.DisplayName: Axe
+BadJesterArrow.DisplayName: Bad Jester Arrow
+BarrelExplosion.DisplayName: Barrel Explosion
+BasaltEruption.DisplayName: Basalt Eruption
+BasaltEruption2.DisplayName: Basalt Eruption2
+BatPotSpawn.DisplayName: Bat Pot Spawn
+Balls.DisplayName: Solar Zenith
+ChaseHand.DisplayName: Chase Hand
+ChaseHandPunch.DisplayName: Chase Hand Punch
+ChaseKnifeTelegraph.DisplayName: Chase Knife Telegraph
+ChaseVoid.DisplayName: Chase Void
+ChaseVoidKnife.DisplayName: Chase Void Knife
+ChaseVoidTelegraph.DisplayName: Chase Void Telegraph
+DeathSwirl.DisplayName: Scorching Swirl
+FieryDagger.DisplayName: Fiery Dagger
+FieryKnife.DisplayName: Fiery Knife
+FlamingEdge.DisplayName: Flaming Edge
+Hailstorm.DisplayName: Ash Spiral
+HeatBomb.DisplayName: Heat Bomb
+HeatClover.DisplayName: Heat Clover
+HeatSnap.DisplayName: Heat Snap
+BigDeathBone.DisplayName: Grim Bone
+DeathBone.DisplayName: Death Bone
+InsurgentExplosion.DisplayName: Insurgent Explosion
+NocturnalFlare.DisplayName: Nocturnal Flare
+RebelliousSkull.DisplayName: Rebellious Skull
+RebelliousSkull2.DisplayName: Rebellious Skull2
+RebelSkull.DisplayName: Skull
+KillerHand.DisplayName: Killer Hand
+BlueStar.DisplayName: Blue Star
+BlueStarMini.DisplayName: Blue Star Mini
+BouncyMenaceStar.DisplayName: Menacing Star
+IceBlock.DisplayName: Frost Chunk
+IceBowling.DisplayName: Ice Bowling
+MenacingKnife.DisplayName: Menacing Knife
+MenacingUmbrella.DisplayName: Menacing Umbrella
+MoonBounce.DisplayName: Moon Bounce
+RollingStar.DisplayName: Rolling Star
+ShiningStar.DisplayName: Shining Star
+SwirlingStar.DisplayName: Swirling Star
+MinigunSolarApex.DisplayName: Minigun Solar Apex
+Butterflies.DisplayName: Butterfly
+MirageSpawn.DisplayName: Mirage Spawn
+MirrorAmethyst.DisplayName: Mirror Bolt
+MirrorDiamond.DisplayName: Mirror Bolt
+MirrorEmerald.DisplayName: Mirror Bolt
+MirrorRuby.DisplayName: Mirror Bolt
+MirrorSapphire.DisplayName: Mirror Bolt
+MirrorTopaz.DisplayName: Mirror Bolt
+SinisterButterfly.DisplayName: Sinister Butterfly
+StormArrow.DisplayName: Storm Arrow
+Elec.DisplayName: Elec
+FrostEffect.DisplayName: Frost Effect
+FrostExplo.DisplayName: Frost Shot
+FrostMark.DisplayName: Frost Mark
+FrostMine.DisplayName: Frost Mine
+FrostMineAlt.DisplayName: Frost Mine
+FrostSpark.DisplayName: Frost Spark
+FrostWave.DisplayName: Ice barrage
+OneshotBomb.DisplayName: Befrosted Bomb
+OneshotHolowave.DisplayName: Holowave
+SnowWave.DisplayName: Snow Wave
+ParaffinCoughBig.DisplayName: Skill Issue
+ParaffinCoughSmall.DisplayName: Paraffin's Something
+ParaffinFist.DisplayName: Paraffin Fist
+ParaffinFlamingBolt.DisplayName: Paraffin's Cool Fireball
+ParaffinNote.DisplayName: Paraffin's Note
+ParaffinNote2.DisplayName: Paraffin's Note
+ParaffinRing.DisplayName: Paraffin Ring
+ParaffinRingShot.DisplayName: Paraffin's Ring
+ParaffinSpawn.DisplayName: Paraffin Spawn
+ParaffinSpawnCage.DisplayName: Paraffin Spawn Cage
+SeetheCopeKnife.DisplayName: Seethe Cope Knife
+ShotgunSolarApex.DisplayName: Shotgun Solar Apex
+SonicHand.DisplayName: Sonic Hand
+SonicWave.DisplayName: Burning Beam
+BladewavePro.DisplayName: Dark Wave
+SpiritFire.DisplayName: Spirit's Flame
+SpiritFireAlt.DisplayName: Spirit's Flame
+SpiritFireSphere.DisplayName: Spirit's Fire Sphere
+SpiritFragileFireSphere.DisplayName: Spirit's Fire Sphere
+SpiritFragileIceSphere.DisplayName: Spirit's Ice Sphere
+SpiritFragileKnifeSphere.DisplayName: Spirit's Knife Sphere
+SpiritIce.DisplayName: Spirit's Ice
+SpiritIceAlt.DisplayName: Spirit's Ice
+SpiritIceSphere.DisplayName: Spirit's Ice Sphere
+SpiritKnife.DisplayName: Spirit's Knife
+SpiritKnifeAlt.DisplayName: Spirit's Knife
+SpiritKnifeSphere.DisplayName: Spirit's Knife Sphere
+SpiritScissors.DisplayName: Scissors
+UFOBomb.DisplayName: Alien Bomb
+UltimateChaseKnifeTelegraph.DisplayName: Ultimate Chase Knife Telegraph
+UltimateRay.DisplayName: Ultimate Ray
+VoidKnife.DisplayName: Void Knife
+BreathtakerShard.DisplayName: Breathtaker
+Bubble.DisplayName: Bubble
+CaveImpFire2.DisplayName: Fire Trail
+ColossusBoom.DisplayName: Unpleasant Explosion
+ColossusLaser.DisplayName: Laserball
+CombustingOrb.DisplayName: Combusting Orb
+CommonExplosion.DisplayName: Common Explosion
+CrabBomb.DisplayName: Crab Bomb
+CrystalShout.DisplayName: Crystal Shout
+EvilSmoke.DisplayName: Evil Smoke
+GiantSpike.DisplayName: Giant Spike
+GoldenBombPro.DisplayName: Golden Bomb
+GoldenDynamitePro.DisplayName: Golden Dynamite
+GoldenGelBomb.DisplayName: Golden Gel Bomb
+HoneyBlob.DisplayName: Honey Blob
+MagnetoDeathBone.DisplayName: Magneto Death Bone
+MuskeletonKnife.DisplayName: Muskeleton Knife
+NutSword.DisplayName: Dark Blade
+PlantShot.DisplayName: Plant essense
+PurpleGelBomb.DisplayName: Purple Gel Bomb
+SentinelFireball.DisplayName: Purple Star
+TrollBoomerang.DisplayName: Hobgoblin's Boomerang
+WitnessExplode.DisplayName: Witness Explode
+YellowBone.DisplayName: Yellow Bone
+AlbedoBolt.DisplayName: Albedo Bolt
+AstralMayhemBolt.DisplayName: Astral Mayhem Bolt
+AstralSpike.DisplayName: Astral Spike
+BlazingRiffNote.DisplayName: Blazing Riff Note
+BlazingRiffPro.DisplayName: Blazing Riff
+BlazingScopeBoom.DisplayName: Pleasant Explosion
+BlizzardSwirl.DisplayName: Blizzard Swirl
+BloodyBolt.DisplayName: Bloody Bolt
+BloodyStreamProj.DisplayName: Bloody Stream
+ColdFrontShard.DisplayName: Cold Front Shard
+ConstellationBolt.DisplayName: Constellation
+CrabCannonProj.DisplayName: Crabikaze
+EyeOfBelialPro.DisplayName: Eye of Belial
+FirecasterSpellball.DisplayName: Fireball
+FirecasterSpellshot.DisplayName: Firecaster Spellshot
+FullColorAmethyst.DisplayName: Full Color Amethyst
+FullColorBoom.DisplayName: Full Color Boom
+FullColorDiamond.DisplayName: Full Color Diamond
+FullColorEmerald.DisplayName: Full Color Emerald
+FullColorRuby.DisplayName: Full Color Ruby
+FullColorSapphire.DisplayName: Full Color Sapphire
+FullColorTopaz.DisplayName: Full Color Topaz
+GalacticZap.DisplayName: Galactic Zap
+GreenPulse.DisplayName: Green Lightning
+KillerWandBubble.DisplayName: Killer Wand Bubble
+Landcrusher.DisplayName: Statue
+MagicBookCrystalStorm.DisplayName: Magic Book Crystal Storm
+MagicBookDemonScythe.DisplayName: Magic Book Demon Scythe
+MagicBookWaterbolt.DisplayName: Magic Book Waterbolt
+ManaBolt.DisplayName: Tear Bolt
+ManaStaff.DisplayName: Tearstone Scepter
+MassDestructionLaser.DisplayName: Mass Destruction
+MassDestructionOld.DisplayName: Mass Destruction Old
+Monolith.DisplayName: Monolith
+NexusDollor.DisplayName: Nexus Dollor
+NexusWallet.DisplayName: Nexus Wallet
+OvertakerBlade.DisplayName: Overtaking Blade
+OvertakerSpawner.DisplayName: Overtaker Spawner
+Patromancy.DisplayName: Patromancy
+PointOfViewFirePro.DisplayName: Point Of View Fire Pro
+PointOfViewPro.DisplayName: Point Of View Pro
+PrimeLaser.DisplayName: Laser
+PrimeLaserButMelee.DisplayName: Laser
+ScepterSpellball.DisplayName: Magic Orb
+ScepterSpellshot.DisplayName: Spellshot
+SnowSpellball.DisplayName: Snow Ring
+SolarisBolt.DisplayName: Solaris Bolt
+SolarisRune.DisplayName: Solaris Rune
+SOWPro.DisplayName: Swarm of Wrath
+Starr.DisplayName: Star
+StepFlamesAmethyst.DisplayName: Flame
+StepFlamesDiamond.DisplayName: Flame
+StepFlamesEmerald.DisplayName: Flame
+StepFlamesRainbow.DisplayName: Rainbow Star
+StepFlamesRuby.DisplayName: Flame
+StepFlamesSapphire.DisplayName: Flame
+StepFlamesTopaz.DisplayName: Flame
+DeadMansSawProjectile.DisplayName: Saw
+SwapperShot.DisplayName: Swapper Shot
+TrueColorRay.DisplayName: True Color Ray
+ArcticOscillationProj.DisplayName: "{$Mods.Split.Items.ArcticOscillation.DisplayName}"
+ArcticStar.DisplayName: Glacier Star
+BallisticSpearProj.DisplayName: "{$Mods.Split.Items.BallisticSpear.DisplayName}"
+BonePlagueBone.DisplayName: Bone Plague Bone
+BurnMyDreadProj.DisplayName: Dreadful Star
+BurnMyDreadFlame.DisplayName: Pyro
+BuryTheLight.DisplayName: Bury The Light
+CeremonialKnife.DisplayName: Ceremonial Knife
+ChikageSlash.DisplayName: "{$Mods.Split.Items.Chikage.DisplayName}"
+DeliciousSaturnBlade.DisplayName: Delicious Saturn Blade
+DeliciousSaturnProj.DisplayName: "{$Mods.Split.Items.DeliciousSaturn.DisplayName}"
+DragonLegacyBlue.DisplayName: Dragon Legacy Blue
+DragonLegacyRed.DisplayName: Dragon Legacy Red
+DragunYoyo.DisplayName: Dragun Yoyo
+FlamaxeExplosion.DisplayName: Explosion
+FlamaxeProj.DisplayName: "{$Mods.Split.Items.Flamaxe.DisplayName}"
+ForestEchoProj.DisplayName: Forest Echo
+FrigidBeam.DisplayName: Frigid Beam
+GlasserangProj.DisplayName: "{$Mods.Split.Items.Glasserang.DisplayName}"
+GlasserangShard.DisplayName: Glasserang Shard
+GlowingBone.DisplayName: Glowing Bone
+GoldenSickleProj.DisplayName: "{$Mods.Split.Items.GoldenSickle.DisplayName}"
+AntarcticOscillationBeam.DisplayName: Glacier Beam
+AntarcticOscillationBlade.DisplayName: Antarctic Oscillation Blade
+AntarcticStar.DisplayName: Glacier Star
+BonePlagueBlade.DisplayName: Bone Plague Blade
+CactusClaymoreBlade.DisplayName: Cactus Claymore Blade
+DragonFishBlade.DisplayName: Dragon Fish Blade
+EccentricBeam.DisplayName: Dark Beam
+EccentricScissorsBlade.DisplayName: Eccentric Scissors Blade
+FireWavePro.DisplayName: Fire Wave
+GoldClaymoreBlade.DisplayName: Gold Claymore Blade
+Haemorain.DisplayName: Haemorain
+LaserbrandBlade.DisplayName: Laserbrand Blade
+LaserbrandStar.DisplayName: Glacier Star
+LeviathanBlade.DisplayName: Leviathan Blade
+MementoMoriBlade.DisplayName: Memento Mori Blade
+MoondialBlade.DisplayName: Moondial Blade
+MoondialWave.DisplayName: Moondial Wave
+PlatinumClaymoreBlade.DisplayName: Platinum Claymore Blade
+QliphothBeam.DisplayName: Blaze Beam
+QliphothCutterBlade.DisplayName: Qliphoth Cutter Blade
+RealitySlicerBlade.DisplayName: Reality Slicer Blade
+SchwarzweltBlade.DisplayName: Schwarzwelt Blade
+SchwarzweltKnife.DisplayName: Schwarzwelt Knife
+ScourgeBlade.DisplayName: Scourge Blade
+SummitBreakerBlade.DisplayName: Summit Breaker Blade
+SummitBreakerBoulder.DisplayName: Summit Breaker Boulder
+ZweihanderBlade.DisplayName: Zweihander Blade
+HellgazeHeld.DisplayName: Hellgaze Held
+HellgazeNote.DisplayName: Hellgaze Note
+HermesHeld.DisplayName: Hermes Held
+HermesDash.DisplayName: Hermes Dash
+KingsBountyThrown.DisplayName: "{$Mods.Split.Items.KingsBounty.DisplayName}"
+MagnetYoyoThrown.DisplayName: "{$Mods.Split.Items.MagnetYoyo.DisplayName}"
+OnyxxProjectile.DisplayName: Onyxx Projectile
+OnyxxSpectre.DisplayName: Onyxx Spectre
+PossessedSaber.DisplayName: Possessed Saber
+PurpleRay.DisplayName: Hyper Ray
+Baseball.DisplayName: Baseball
+BaseballBee.DisplayName: Baseball Bee
+BaseballCrab.DisplayName: Baseball Crab
+BaseballDaisy.DisplayName: Baseball Daisy
+BaseballEoc.DisplayName: Baseball Eoc
+BaseballFart.DisplayName: Baseball Fart
+BaseballFire.DisplayName: Baseball Fire
+BaseballFrost.DisplayName: Baseball Frost
+BaseballHyper.DisplayName: Baseball Hyper
+BaseballHyperRay.DisplayName: Hyper Ray
+BaseballIvory.DisplayName: Baseball Ivory
+BaseballNitro.DisplayName: Baseball Nitro
+BaseballSaw.DisplayName: Baseball Saw
+BaseballWooden.DisplayName: Baseball Wooden
+ChilblainShard.DisplayName: Chilblain Shard
+CrabWaterExplosion.DisplayName: Crab Water Explosion
+InstigatorBoom.DisplayName: Explosion
+MorgensternBlueBoom.DisplayName: Explosion
+MorgensternGreenBoom.DisplayName: Explosion
+MorgensternRedBoom.DisplayName: Explosion
+NitroSwirl.DisplayName: Nitro Swirl
+RacquetSlash.DisplayName: Racquet
+StarExplosion.DisplayName: Explosion
+RimeBladeProj.DisplayName: Rime Blade Proj
+SkeletonWarrior.DisplayName: Skeleton Warrior
+SkeletonWarrior2.DisplayName: Skeleton Warrior2
+SkeletonWarriorStar.DisplayName: Scarlet Star
+Skullshot.DisplayName: Skullshot
+Solstice.DisplayName: Solstice
+SolsticeBlade.DisplayName: Solstice Blade
+SparkyBolt.DisplayName: Sparky Bolt
+SparkyRay.DisplayName: Hyper Ray
+StarlightBreakerPentagram.DisplayName: Starlight Breaker Pentagram
+StarlightBreakerRay.DisplayName: Starlight Breaker Ray
+StarlightBreakerSpark.DisplayName: Starlight Breaker Spark
+StarlightBreakerSpear.DisplayName: Starlight Breaker Spear
+StarlightBreakerWave.DisplayName: Starlight Breaker Wave
+StellaFortunaYoyo.DisplayName: "{$Mods.Split.Items.StellaFortuna.DisplayName}"
+StellarFortuneBolt.DisplayName: Stellar Fortune Bolt
+StellaYoyo.DisplayName: "{$Mods.Split.Items.Stella.DisplayName}"
+SummitEarthBlade.DisplayName: Summit Earth Blade
+SummitShard.DisplayName: Summit Shard
+SummitSlash.DisplayName: Summit Slash
+TerracquetFlower.DisplayName: Terracquet Flower
+TroglodyteProj.DisplayName: "{$Mods.Split.Items.Troglodyte.DisplayName}"
+WarfareProj.DisplayName: "{$Mods.Split.Items.Warfare.DisplayName}"
+WelkingProj.DisplayName: "{$Mods.Split.Items.Welking.DisplayName}"
+WelkingSpectre.DisplayName: "{$Mods.Split.Items.Welking.DisplayName}"
+WindfallPro.DisplayName: "{$Mods.Split.Items.Windfall.DisplayName}"
+WindfallThunder.DisplayName: Windfall Thunder
+ZirconSpearSpectre.DisplayName: "{$Mods.Split.Items.ZirconSpear.DisplayName}"
+ZirconSpearReal.DisplayName: "{$Mods.Split.Items.ZirconSpear.DisplayName}"
+MiniBlunderbuss.DisplayName: Mini Blunderbuss
+EmeraldSpirit.DisplayName: Emerald Spirit
+EonSkull.DisplayName: Skull
+FlandreBlood.DisplayName: Flandre Blood
+FortuneReading.DisplayName: Fortune Reading
+SupportRune.DisplayName: Support Rune
+TeapotHealing.DisplayName: Teapot Healing
+TroublesomeVesselProj.DisplayName: Nothing but trouble
+InkDemonPet.DisplayName: Ink Demon Pet
+JackFrostPet.DisplayName: Jack Frost Pet
+LifeGal.DisplayName: Life Gal
+LunaPet.DisplayName: Luna Pet
+ManaGal.DisplayName: Mana Gal
+UnpixiePet.DisplayName: Unpixie Pet
+WitnessPet.DisplayName: Witness Pet
+AngryNimbus.DisplayName: Angry Nimbus
+BubbleFriendly.DisplayName: Bubble
+FireSaltsPro.DisplayName: Fire Salts
+Fireshot.DisplayName: Fireshot
+FireshotEffect.DisplayName: Fireshot Effect
+HailThorn.DisplayName: Hail Thorn
+HeartmelterProj.DisplayName: Heartmelter Proj
+Holowave.DisplayName: Holowave
+PiercingHolowave.DisplayName: Piercing Holowave
+TracingHolowave.DisplayName: Tracing Holowave
+Macro.DisplayName: Macro
+MonsoonRocket.DisplayName: Monsoon Rocket
+OverflowBolt.DisplayName: Tectonic Arrow
+OvergrowthFlower.DisplayName: Overgrowth Flower
+PiercingBullet.DisplayName: Piercing Bullet
+RagnarokArrow.DisplayName: Ragnarok Arrow
+RagnarokBoom.DisplayName: Ragnarok Boom
+ReflexArrow.DisplayName: Reflex Arrow
+ReflexArrowBlue.DisplayName: Reflex Arrow Blue
+ReflexShard.DisplayName: Reflex Shard
+RocketStar.DisplayName: Rocket Star
+SnowFlak.DisplayName: Snow Flak
+Starbreaker.DisplayName: Starbreaker
+StarstormArrow.DisplayName: Starstorm Arrow
+StarstormBolt.DisplayName: Starstorm Bolt
+StarstormBurst.DisplayName: Starstorm Burst
+StarstormShard.DisplayName: Starstorm Shard
+SwitcherRocket.DisplayName: Switcher Rocket
+TheEnforcer.DisplayName: The Enforcer
+TrifestaProj.DisplayName: Trifesta Proj
+TriggerFlare.DisplayName: Trigger Flare
+VulcanChaingunPro.DisplayName: Vulcan Chaingun Pro
+ZirconReflexBow.DisplayName: Zircon Reflex Bow
+AdvancedTurretSentry.DisplayName: Advanced Turret Sentry
+Aeyh.DisplayName: Aeyh
+AeyhBolt.DisplayName: Aeyh Bolt
+AlbedoCrystal.DisplayName: Albedo Crystal
+BigFungusSentry.DisplayName: Big Fungus Sentry
+Cirno.DisplayName: Cirno
+CirnoBolt.DisplayName: Cirno Bolt
+Firefly.DisplayName: Firefly
+Flandre.DisplayName: Flandre
+FlandreWave.DisplayName: Flandre Wave
+Ghost.DisplayName: Ghost
+Mimi.DisplayName: Mimi
+MimiProjectile.DisplayName: Mimi Projectile
+MoonSaucerLaser.DisplayName: Laser
+MoonSaucerSentry.DisplayName: Moon Saucer Sentry
+Razorfrost.DisplayName: Razorfrost
+SprinklerPro.DisplayName: Sprinkler Pro
+SummonedStar.DisplayName: Summoned Star
+TurretSentry.DisplayName: Turret Sentry
+Utsuho.DisplayName: Utsuho
+UtsuhoSunbolt.DisplayName: Utsuho Sunbolt
+UtsuhoSunboltExplosion.DisplayName: Utsuho Sunbolt Explosion
+Vinemonger.DisplayName: Vinemonger
+VinemongerStem.DisplayName: Vinemonger Stem
+VolcanicHammer.DisplayName: Volcanic Hammer
+ShadowSpellshot.DisplayName: Shadow Spellshot
+ShadowScepterHeld.DisplayName: Shadow Scepter Held
+ShadowScepterTotem.DisplayName: Shadow Scepter Totem
+FirecasterScepterHeld.DisplayName: Firecaster Scepter Held
+FirecasterExplosion.DisplayName: Firecaster Explosion
+FirecasterTotem.DisplayName: Firecaster Totem
+RedPatchStrike.DisplayName: Red Patch Strike
+SnowSpellshot.DisplayName: Snow Spellshot
+Superflake.DisplayName: Superflake
+SnowHalationHeld.DisplayName: Snow Halation Held
+SnowHalationTotem.DisplayName: Snow Halation Totem
+CinnabarPillarBlade.DisplayName: Cinnabar Pillar Blade
+CinnabarPillarCritWave.DisplayName: Cinnabar Pillar Crit Wave
+IronSledgehammerProjectile.DisplayName: Iron Sledgehammer Projectile
+LeadSledgehammerProjectile.DisplayName: Lead Sledgehammer Projectile
+DeflectorBullet.DisplayName: Deflector Bullet
+DeflectorProjectile.DisplayName: Deflector Projectile
+SolsticeProjectile.DisplayName: Solstice Projectile
+SolsticeSpin.DisplayName: Solstice Spin
+SolsticeStab.DisplayName: Solstice Stab
+SolarApex.DisplayName: Solar Apex
+SolsticeCharge.DisplayName: Solstice Charge
+SolarApexHitbox.DisplayName: Solar Apex Hitbox
+SunstormBeam.DisplayName: Sunstorm Beam
+VoidBolt.DisplayName: Void Bolt
+MonsoonHeld.DisplayName: Monsoon Held
+WingedSpearProjectile.DisplayName: Winged Spear Projectile
+WingedStream.DisplayName: Winged Stream
+PoisonBreakProjectile.DisplayName: Poison Break Projectile
+PoisonStream.DisplayName: Poison Stream
+MusketronHeld.DisplayName: Musketron Held
+MusketronSpin.DisplayName: Musketron Spin
+SpectreBone.DisplayName: Spectre Bone
+GoopProjectile.DisplayName: Goop Projectile
+CeremonialKnifeProjectile.DisplayName: Ceremonial Knife Projectile
+CeremonialKnifeSummon.DisplayName: Ceremonial Knife Summon
+CeremonialSawblade.DisplayName: Ceremonial Sawblade
+NightsBaneProjectile.DisplayName: Nights Bane Projectile
+HelicalShell.DisplayName: Helical Shell
+HelicalContraption.DisplayName: Helical Contraption
+HelicalBullet.DisplayName: Helical Bullet
+HelicalShellPickup.DisplayName: Helical Shell Pickup
+AncientSolsticeProj.DisplayName: "{$ItemName.AncientSolstice}"
+AnthemOfWarProj.DisplayName: "{$ItemName.AnthemOfWar}"
+SongOfTheSirenProj.DisplayName: "{$ItemName.SongOfTheSiren}"
+TraitorsRequiemProj.DisplayName: "{$ItemName.TraitorsRequiem}"
+TraitorsRequiemStrike.DisplayName: Traitor's Requiem Strike
+BubbleShieldProjectile.DisplayName: Bubble Shield Projectile
+GravekeeperMoth.DisplayName: Gravekeeper Moth
+DynamiteCrab.DisplayName: Dynamite Crab
+CrabWhipProjectile.DisplayName: Crab Whip Projectile
+SparkyProjectile.DisplayName: Sparky Projectile
+SparkyZap.DisplayName: Sparky Zap
+BlueCrabWhipProjectile.DisplayName: Blue Crab Whip Projectile
+GrapplePointProjectile.DisplayName: Grapple Point Projectile
+TestGoop.DisplayName: Test Goop
+Arachnicannon.DisplayName: Arachnicannon
+ArachnicannonProjectile.DisplayName: Arachnicannon Projectile
+SpiderGoop.DisplayName: Spider Goop
+SpiderGoopWave.DisplayName: Spider Goop Wave
+IcePhantom.DisplayName: Ice Phantom
+AntarcticBeam.DisplayName: Antarctic Beam
+HighlighterExplosionProj.DisplayName: Highlighter Explosion Proj
+HighlighterProj.DisplayName: Highlighter Proj
+PointOfViewExplosionProj.DisplayName: Point Of View Explosion Proj
+PointOfViewProj.DisplayName: Point Of View Proj
+TomeOfDarkPyromancyProj.DisplayName: Tome Of Dark Pyromancy Proj
+TomeOfPyromancyProj.DisplayName: Tome Of Pyromancy Proj
+EccentricRift.DisplayName: Eccentric Rift
+QuantumLeap.DisplayName: Quantum Leap
+ArchaicBolt.DisplayName: Archaic Bolt
+ArchaicShard.DisplayName: Archaic Shard
+TheArchitectBlade.DisplayName: The Architect Blade
+EquilibriumManifestation.DisplayName: Equilibrium Manifestation
+EchoOfParadiseHeld.DisplayName: Echo Of Paradise Held
+EchoOfParadiseHeldLeft.DisplayName: Echo Of Paradise Held Left
+EchoOfParadiseHeldRight.DisplayName: Echo Of Paradise Held Right
+PiercingBulletProj.DisplayName: Piercing Bullet Proj
+SolRune.DisplayName: Sol Rune
+SolBolt.DisplayName: Sol Bolt
+SpiritFragileMagicSphere.DisplayName: Spirit Fragile Magic Sphere
+SpiritMagicSphere.DisplayName: Spirit Magic Sphere
+MacroProj.DisplayName: Macro Proj
+TheEnforcerProj.DisplayName: The Enforcer Proj
+BallistickHeld.DisplayName: Ballistick Held
+LandcrusherProj.DisplayName: Landcrusher Proj
+ManaStaffProj.DisplayName: Mana Staff Proj
+MassDestructionOldProj.DisplayName: Mass Destruction Old Proj
+SkullTransformation.DisplayName: Skull Transformation
+BallistickDash.DisplayName: Ballistick Dash
+StarbreakerProj.DisplayName: Starbreaker Proj
+ZephyrDash.DisplayName: Zephyr Dash
+ZephyrHeld.DisplayName: Zephyr Held
+DragonslayerArrowProj.DisplayName: Dragonslayer Arrow Proj
+TracingArrowProj.DisplayName: Tracing Arrow Proj
+BikeSnap.DisplayName: Bike Snap
+MasterSpiritPet.DisplayName: Master Spirit Pet
+DemonCompendiumPet.DisplayName: Demon Compendium Pet
+BloodyStreamHeld.DisplayName: Bloody Stream Held
+DangerBloodyBolt.DisplayName: Danger Bloody Bolt
+TearfulBolt.DisplayName: Tearful Bolt
+TearfulScepterHeld.DisplayName: Tearful Scepter Held
+AstralCharge.DisplayName: Astral Charge
+AstralMayhemExplosion.DisplayName: Astral Mayhem Explosion
+RazzleDazzleHeld.DisplayName: Razzle Dazzle Held
+DazzleZap.DisplayName: Dazzle Zap
+SwarmOfWrathBolt.DisplayName: Swarm Of Wrath Bolt
+EyeOfBelialBolt.DisplayName: Eye Of Belial Bolt
+EyeOfBelialHeld.DisplayName: Eye Of Belial Held
+KillerWandExplosion.DisplayName: Killer Wand Explosion
+CrabBolt.DisplayName: Crab Bolt
+MineCrab.DisplayName: Mine Crab
+MineCrabOdd.DisplayName: Mine Crab Odd
+CrabBoltAlbino.DisplayName: Crab Bolt Albino
+MineCrabAlbino.DisplayName: Mine Crab Albino
+MineCrabOddAlbino.DisplayName: Mine Crab Odd Albino
+FireWaveProj.DisplayName: Fire Wave Proj
+AstrologistNPCProjectile.DisplayName: Astrologist N P C Projectile
+AstrologistNPCProjectile2.DisplayName: Astrologist N P C Projectile2
+TwilightBolt.DisplayName: Twilight Bolt
+MenaceBossSpawnProjectile.DisplayName: Menace Boss Spawn Projectile
+DeadMansSawBolt.DisplayName: Dead Mans Saw Bolt
+BlazingRiffAnthem.DisplayName: Blazing Riff Anthem
+GalaxiaBolt.DisplayName: Galaxia Bolt
+ZweihanderKnockback.DisplayName: Zweihander Knockback
+ZweihanderKnockbackImpact.DisplayName: Zweihander Knockback Impact
+WalterHeld.DisplayName: Walter Held
+HoloclipWave.DisplayName: Holoclip Wave
+WalterBoom.DisplayName: Walter Boom
+HoloclipBoom.DisplayName: Holoclip Boom
+HoloclipBolt.DisplayName: Holoclip Bolt
+MonolithBolt.DisplayName: Monolith Bolt
+MonolithShield.DisplayName: Monolith Shield
+EccentricScissorsParry.DisplayName: Eccentric Scissors Parry
+NexusStrip.DisplayName: Nexus Strip
+MoonWheel.DisplayName: Moon Wheel
+MementoMoriDrill.DisplayName: Memento Mori Drill
+MementoMoriSpin.DisplayName: Memento Mori Spin
+Overblade.DisplayName: Overblade
+OvertakerHeld.DisplayName: Overtaker Held
+BewitchedStepFlame.DisplayName: Bewitched Step Flame
+StarshroomSeed.DisplayName: Starshroom Seed
+AfterlifeAnchorWhip.DisplayName: Afterlife Anchor Whip
+StrandedWhipProjectile.DisplayName: Stranded Whip Projectile
+GellersonJr.DisplayName: Gellerson Jr
+GelFart.DisplayName: Gel Fart
+GellitaJr.DisplayName: Gellita Jr
+TurretBullet.DisplayName: Turret Bullet
+VinemongerHead.DisplayName: Vinemonger Head
+JellyBubble.DisplayName: Jelly Bubble
+SpaceJellyfishSummon.DisplayName: Space Jellyfish Summon
+BigFungusSentryOld.DisplayName: Big Fungus Sentry Old
+MushroomSmash.DisplayName: Mushroom Smash
+AlbedoSentry.DisplayName: Albedo Sentry
+CrystalStrike.DisplayName: Crystal Strike
+SprinklerSentry.DisplayName: Sprinkler Sentry
+SprinklerSpray.DisplayName: Sprinkler Spray
+ChikageBlade.DisplayName: Chikage Blade
+ChikageDash.DisplayName: Chikage Dash
+ChikageSheath.DisplayName: Chikage Sheath
+WindfallGroundedSpectre.DisplayName: Windfall Grounded Spectre
+WindfallSpear.DisplayName: Windfall Spear
+WindfallSpearPlunge.DisplayName: Windfall Spear Plunge
+WindfallSpearSwing.DisplayName: Windfall Spear Swing
+MagmaFangArrow.DisplayName: Magma Fang Arrow
+MotorbugPet.DisplayName: Motorbug Pet
+IceSlamBlast.DisplayName: Ice Slam Blast
+MenaceFrostWave.DisplayName: Menace Frost Wave
+EpicIceSlamBlast.DisplayName: Epic Ice Slam Blast
+MoonBoulder.DisplayName: Moon Boulder
+MenaceStarfall.DisplayName: Menace Starfall
+QliphothCutterParry.DisplayName: Qliphoth Cutter Parry
+SunStrike.DisplayName: Sun Strike
+DiamondResonance.DisplayName: Diamond Resonance
+MirrorBolt.DisplayName: Mirror Bolt
+DrizzleArrow.DisplayName: Drizzle Arrow
+PrecipitationBoom.DisplayName: Precipitation Boom
+SwitcherBoom.DisplayName: Switcher Boom
+MasterParaffinPet.DisplayName: Master Paraffin Pet
+FrostyGloveHeld.DisplayName: Frosty Glove Held
+Smallball.DisplayName: Smallball
+MothShockwave.DisplayName: Moth Shockwave
+WindfallMoth.DisplayName: Windfall Moth
+MasterMiragePet.DisplayName: Master Mirage Pet
+CinnabarBoom.DisplayName: Cinnabar Boom
+JohnRimebreaker.DisplayName: John Rimebreaker
+JohnRimebreakerCheer.DisplayName: John Rimebreaker Cheer
+BigGaboongaHeld.DisplayName: Big Gaboonga Held
+BigJuicyMeat.DisplayName: Big Juicy Meat
+Meatslice.DisplayName: Meatslice
+MeatBlast.DisplayName: Meat Blast
+MementoMoriDrain.DisplayName: Memento Mori Drain
+MementoChain.DisplayName: Memento Chain
+MeleeVivereLunge.DisplayName: Melee Vivere Lunge
+MeleeVivereSlash.DisplayName: Melee Vivere Slash
+GenericTileExplosion.DisplayName: Generic Tile Explosion
+MementoVivereLunge.DisplayName: Memento Vivere Lunge
+MementoVivereSlash.DisplayName: Memento Vivere Slash
+MemorySoapProjectile.DisplayName: Memory Soap Projectile
+DragunBullet.DisplayName: Dragun Bullet

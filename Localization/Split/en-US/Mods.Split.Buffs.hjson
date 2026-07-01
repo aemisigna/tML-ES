@@ -1,0 +1,739 @@
+ShadowScepterBuff: {
+	DisplayName: Secret of the Shadows
+	Description: Restore mana upon dealing damage
+}
+
+FirecasterBlessing: {
+	DisplayName: Firecaster's Blessing
+	Description: Increases all stats
+}
+
+FightingColdBuff: {
+	DisplayName: Fighting Cold
+	Description: Increases armor penetration
+}
+
+LunarflareBuff: {
+	DisplayName: Lunar Flare
+	Description:
+		'''
+		Shattering Design's attacks are improved
+		A powerful finisher move is approaching...
+		'''
+}
+
+HeavyMetalBuff: {
+	DisplayName: Heavy Metal
+	Description:
+		'''
+		Grants heavy melee bonuses of {0}
+		- Immunity to knockback.
+		- Increases defense by {1}.
+		{2}
+		'''
+}
+
+AttractionBuff: {
+	DisplayName: Attraction
+	Description: Increases grab range for all items
+}
+
+GelidRegeneration: {
+	DisplayName: Gelid Regeneration
+	Description: Recovers health
+}
+
+DiligenceBuff: {
+	DisplayName: Diligence
+	Description: Increases minion attack speed by 10%
+}
+
+PurityBuff: {
+	DisplayName: Purity
+	Description: Gives temporary immunity to most debuffs
+}
+
+SolarRadianceBuff: {
+	DisplayName: Solar Radiance
+	Description: Solstice attacks release Sunstorm Beams
+}
+
+StrategicAdvantage: {
+	DisplayName: Strategic Advantage
+	Description: Increases sentry attack speed by 10%
+}
+
+CrabRave: {
+	DisplayName: Crab Rave
+	Description: Temporarily increases damage by 10%
+}
+
+CrabGrave: {
+	DisplayName: Crab Grave
+	Description: Temporarily decreases damage taken by 20%
+}
+
+GalacticallyAwesome: {
+	DisplayName: Galactically Awesome
+	Description: Enhances your magic abilities
+}
+
+TimeRuinBuff: {
+	DisplayName: Time Ruin
+	Description: Increases ranged attack speed by {0}
+}
+
+StupidMelodyBuff: {
+	DisplayName: Stupid, Catchy Melody!
+	Description: Increased melee speed, defense and regen
+}
+
+AegisBuff: {
+	DisplayName: Aegis
+	Description: Temporarily increases defense by 6
+}
+
+AgileStance: {
+	DisplayName: Agile Stance
+	Description: Increased heavy melee speed
+}
+
+AnxiousnessBuff: {
+	DisplayName: Anxiety
+	Description:
+		'''
+		Increases damage by 10% when moving
+		Decreases damage when standing still
+		'''
+}
+
+Balance: {
+	DisplayName: Perfectly balanced
+	Description: Grants immunity to knockback
+}
+
+Breakdown: {
+	DisplayName: Breakdown
+	Description: Defense is cut in half!
+}
+
+BrokenAegisBuff: {
+	DisplayName: Nemesis
+	Description: Nullifies your defense
+}
+
+AmethystCandle: {
+	DisplayName: Burning feet
+	Description: Creates the purple flames under your feet
+}
+
+DiamondCandle: {
+	DisplayName: Burning feet
+	Description:
+		'''
+		Creates the white flames under your feet
+		Flames slowly rise and can deal more damage
+		'''
+}
+
+EmeraldCandle: {
+	DisplayName: Burning feet
+	Description:
+		'''
+		Creates the green flames under your feet
+		Enemies killed by such flames, bring more gold
+		'''
+}
+
+RainbowCandle: {
+	DisplayName: Burning air
+	Description: Creates the rainbow flames on your current position
+}
+
+RubyCandle: {
+	DisplayName: Burning feet
+	Description:
+		'''
+		Creates the scarlet flames under your feet
+		Flame restores your health when dealing damage to enemies
+		'''
+}
+
+SapphireCandle: {
+	DisplayName: Burning feet
+	Description:
+		'''
+		Creates the blue flames under your feet
+		Flame restores your mana when dealing damage to enemies
+		'''
+}
+
+TopazCandle: {
+	DisplayName: Burning feet
+	Description:
+		'''
+		Creates flames under your feet
+		Each flame inflicts On Fire! debuff on enemies
+		'''
+}
+
+ChampionsShield: {
+	DisplayName: Champion's Shield
+	Description: Increases defense by 12
+}
+
+InfusionFearful: {
+	DisplayName: Soul Infusion: Fearful
+	Description: All of your weapons inflict the 'On Fire!' debuff on enemies
+}
+
+InfusionMighty: {
+	DisplayName: Soul Infusion: Mighty
+	Description: All of your weapons inflict the 'On Fire!' debuff on enemies
+}
+
+InfusionSighting: {
+	DisplayName: Soul Infusion: Sighting
+	Description: All of your weapons inflict the 'On Fire!' debuff on enemies
+}
+
+Constellated: {
+	DisplayName: Mods.Split.BuffName.Constellated
+	Description: Mods.Split.BuffDescription.Constellated
+}
+
+EtherealTeaBuff: {
+	DisplayName: Ethereal Tea
+	Description: Greater regeneration boost
+}
+
+FastRegeneration: {
+	DisplayName: Fast Regeneration
+	Description: Greatly increases your regeneration
+}
+
+FunkyTime: {
+	DisplayName: Funky Time
+	Description: Greatly increases your life & mana regeneration
+}
+
+Fury: {
+	DisplayName: Rage Quit!
+	Description: Significantly increases regular and heavy melee speed
+}
+
+GoldenTeaBuff: {
+	DisplayName: Golden Tea
+	Description: Significant regeneration boost
+}
+
+HeavyMetal: {
+	DisplayName: Heavy Metal
+	Description: Grants immunity to knockback and additional defense from heavy weapon
+}
+
+Immobilized: {
+	DisplayName: Immobilized
+	Description: You can't move
+}
+
+InsidiousAddiction: {
+	DisplayName: Insidious Addiction
+	Description:
+		'''
+		Decreases all stats
+		Run for your life!
+		'''
+}
+
+MagiciansVenomDebuff: {
+	DisplayName: Magician's Venom
+	Description: Magic cost is quadrupled
+}
+
+MarkedDebuff: {
+	DisplayName: Marked
+	Description: Marked for damage
+}
+
+MenacingAura: {
+	DisplayName: Scorching Blaze
+	Description: Quickly losing life
+}
+
+MOD: {
+	DisplayName: Master of Defense
+	Description: Grants immunity to knockback and even more defense from heavy weapon
+}
+
+OutOfBounds: {
+	DisplayName: Out Of Bounds
+	Description: Quickly losing life
+}
+
+InkDemonBuff: {
+	DisplayName: Ink Devil
+	Description: Who's laughing now?
+}
+
+JackFrostBuff: {
+	DisplayName: Jack Frost
+	Description: Heee-ya ho!
+}
+
+LifeGalBuff: {
+	DisplayName: Life Gal
+	Description: Brings hearts when you have little health left
+}
+
+LunaBuff: {
+	DisplayName: Luna
+	Description: "'Have you seen my shadow?'"
+}
+
+ManaGalBuff: {
+	DisplayName: Mana Gal
+	Description: Brings mana stars when you have little mana left
+}
+
+NimbusMountBuff: {
+	DisplayName: Angry Nimbus
+	Description: Rain down on your foes
+}
+
+UnpixieBuff: {
+	DisplayName: Pixy
+	Description: "'Don't get me in trouble!'"
+}
+
+WitnessPetBuff: {
+	DisplayName: Lil Witness
+	Description: The light-emitting jellyfish
+}
+
+PoisedStance: {
+	DisplayName: Poised Stance
+	Description: Increased heavy melee speed
+}
+
+PossessedSaberBuff: {
+	DisplayName: Possessed Saber
+	Description: "'King of slice and dice'"
+}
+
+PowerWithin: {
+	DisplayName: Power Within
+	Description: Grants immunity to knockback and increases armor penetration
+}
+
+ProtectiveReflexes: {
+	DisplayName: Protective Reflexes
+	Description: Temporarily increases defence, enemies are more likely to target you
+}
+
+ScorchingBlaze: {
+	DisplayName: Scorching Blaze
+	Description: Quickly losing life
+}
+
+SpicyBuff: {
+	DisplayName: I see (almost) everything!
+	Description: Emits an aura of light, allows you to see nearby enemies and danger sources
+}
+
+SpongyBuff: {
+	DisplayName: Fishing Frenzy
+	Description: Detects hooked fish, increases fishing skill and chance to get a crate
+}
+
+StarAscended: {
+	DisplayName: Star Ascended
+	Description: Superior Mana regeneration
+}
+
+StrongBuff: {
+	DisplayName: All out!
+	Description: Increases your knockback, damage and crit chance by 10%
+}
+
+FireflyBuff: {
+	DisplayName: Firefly
+	Description: The fireflies will fight for you
+}
+
+GhostBuff: {
+	DisplayName: Ghost
+	Description: "'You know, the whole being dead thing'"
+}
+
+IceFairyBuff: {
+	DisplayName: Ice Fairy
+	Description: "'Don't call me b-baka!'"
+}
+
+NuclearFairyBuff: {
+	DisplayName: Nuclear Fairy
+	Description: "'Who are you calling a fairy, you dum-dum?'"
+}
+
+RazorfrostBuff: {
+	DisplayName: Razorflake
+	Description: "'In cold blood'"
+}
+
+StarBuff: {
+	DisplayName: Starfield
+	Description: "'You were born under a lucky star!'"
+}
+
+TravellingPrincessBuff: {
+	DisplayName: Aeyh Companion
+	Description: "'If you wanna know my lore, check my social media profile!'"
+}
+
+VampireFairyBuff: {
+	DisplayName: Vampire Fairy
+	Description: "'I've only ever seen humans in the form of a drink...'"
+}
+
+VolcanicHammerBuff: {
+	DisplayName: Volcanic Hammer
+	Description: "'Come on and slam!'"
+}
+
+SupportRelay: {
+	DisplayName: Support Relay
+	Description: Buffs your allies
+}
+
+SupportRelayDamage: {
+	DisplayName: Support Relay: Damage
+	Description: Damage and crit rate is increased
+}
+
+SupportRelayDefense: {
+	DisplayName: Support Relay: Defense
+	Description: Defense is increased
+}
+
+SupportRelayLife: {
+	DisplayName: Support Relay: Life
+	Description: Healing is increased
+}
+
+SweetBuff: {
+	DisplayName: Sweet and calm
+	Description: Increases mining speed by 25%, increases placement speed and range, reduces enemy aggression
+}
+
+Triumph: {
+	DisplayName: Triumph
+	Description: Major improvements to all stats
+}
+
+VivifyingTeaBuff: {
+	DisplayName: Vivifying Tea
+	Description: Minor regeneration boost
+}
+
+WellForged: {
+	DisplayName: Fury Forged
+	Description: 25% chance to not consume smelting ingredients
+}
+
+Moonbounce: {
+	DisplayName: Moonbounce
+	Description: Increases your max number of minions
+}
+
+MirrorLockdown: {
+	DisplayName: Unholy Essence
+	Description: You can't see your own reflection...
+}
+
+BlueCrescentMoon: {
+	DisplayName: Blue Crescent Moon
+	Description: "'But a piece of the whole.'"
+}
+
+GreenCrescentMoon: {
+	DisplayName: Green Crescent Moon
+	Description: "'But a piece of the whole.'"
+}
+
+LuckyMoonBuff: {
+	DisplayName: Lucky Moon
+	Description: Changes its appearance depending on the moon phase
+}
+
+PinkCrescentMoon: {
+	DisplayName: Pink Crescent Moon
+	Description: "'But a piece of the whole.'"
+}
+
+YellowCrescentMoon: {
+	DisplayName: Yellow Crescent Moon
+	Description: "'But a piece of the whole.'"
+}
+
+FunkyMirrorPetBuff: {
+	DisplayName: Possessed Mirror
+	Description: "'Life in captivity ain't that bad!'"
+}
+
+SunnyBuff: {
+	DisplayName: Mr. Sunny
+	Description: "'The world is indeed revolving...'"
+}
+
+VioletBuff: {
+	DisplayName: Vi
+	Description: "'I'm not some random bee!'"
+}
+
+AstrolotlBuff: {
+	DisplayName: Astrolotl
+	Description: "'It's hard to overstate my satisfaction'"
+}
+
+FrogletBuff: {
+	DisplayName: Froglet
+	Description: "'Whatcha doin'?'"
+}
+
+SpooksterBuff: {
+	DisplayName: Spookster
+	Description: "'Ooga Booga!'"
+}
+
+StarfaceJrBuff: {
+	DisplayName: Starface Jr.
+	Description: I don't belong to any social group, I'm an individual character!
+}
+
+SheepMountBuff: {
+	DisplayName: Fellow Sheep
+	Description: "'Leave me alone!'"
+}
+
+HouseOfEvil: {
+	DisplayName: House Of Evil
+	Description: Prevents various travelling NPCs from spawning
+}
+
+MasterOfDefense: {
+	DisplayName: Master Of Defense
+	Description: Mods.Split.Buffs.MasterOfDefense.Description
+}
+
+ZapCooldown: {
+	DisplayName: Zap Cooldown
+	Description: Mods.Split.Buffs.ZapCooldown.Description
+}
+
+ZapTagDebuff: {
+	DisplayName: Zap Tag Debuff
+	Description: Mods.Split.Buffs.ZapTagDebuff.Description
+}
+
+PoisonBreakBuff: {
+	DisplayName: Toxic Rush
+	Description: Increases attack speed of Poison Break for every inflicted debuff
+}
+
+TheHummerBuff: {
+	DisplayName: The Hummer
+	Description: "'I'm gonna burn a hole in the road!'"
+}
+
+MasterSpiritBuff: {
+	DisplayName: Miss Spirit
+	Description: "'Yeah 'cuz you're my rockstar!'"
+}
+
+DemonCompendiumBuff: {
+	DisplayName: Demon Compendium
+	Description: "'... where Demons gather.'"
+}
+
+MonolithBuff: {
+	DisplayName: Monolith's Protection
+	Description: Next time damage is taken, it is halved and you ignore knockback
+}
+
+EccentricBuff: {
+	DisplayName: Infinite Resolve
+	Description: Your next scissor hits are enhanced
+}
+
+GelidStarPower: {
+	DisplayName: Gelid Star Power
+	Description: "[fx/mof:Mana Overflow] is improved"
+}
+
+MoonWheelBuff: {
+	DisplayName: Heroes' Gaze
+	Description: Power of friendship grants you
+	And: and
+	Melee: defense
+	Ranged: speed
+	Magic: life regeneration
+	Summon: weapon speed
+}
+
+StarsignBuff: {
+	DisplayName: Starsign
+	Description: Magic critical strike chance is increased
+}
+
+OverbladeBuff: {
+	DisplayName: Overblades
+	Description: Celestial Swords will obey your commands...
+	DisplayNameNight: Night Falls...
+	DescriptionNight: Swords will attack enemies as they see fit, restoring mana
+}
+
+BewitchedStepBuff: {
+	DisplayName: Bewitching Step
+	Description: Your magic ignites the ground under your feet
+}
+
+StargazerBuff: {
+	DisplayName: Stargazing Presence
+	Description: The air around you feels colorful...
+}
+
+SpiritWrathBuff: {
+	DisplayName: Spirit Wrath
+	Description: Your minion and whip speed is increased
+}
+
+AfterlifeLifeDebtDebuff: {
+	DisplayName: Afterlife Life Debt Debuff
+	Description: Mods.Split.Buffs.AfterlifeLifeDebtDebuff.Description
+}
+
+AfterlifeTagDebuff: {
+	DisplayName: Afterlife Tag Debuff
+	Description: Mods.Split.Buffs.AfterlifeTagDebuff.Description
+}
+
+ReverberationBuff: {
+	DisplayName: Glacial Reverberation
+	Description:
+		'''
+		Summoned minions attack speed is increased
+		Close range minions enjoy doubled speed increase
+		'''
+}
+
+StrandedWhipTagDebuff: {
+	DisplayName: Stranded Whip Tag Debuff
+	Description: Mods.Split.Buffs.StrandedWhipTagDebuff.Description
+}
+
+JellyBondBuff: {
+	DisplayName: Jelly Bond
+	Description: Jelly Armor is greatly empowered
+}
+
+DevouringHunt: {
+	DisplayName: Devouring Hunt
+	Description:
+		'''
+		{$CommonItemTooltip.IncreasesWhipRangeByPercent} and speed by {1}%
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@2}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@3}
+		Increased health regeneration
+		'The Void lingers...'
+		'''
+}
+
+GelTagDebuff: {
+	DisplayName: Gel Tag Debuff
+	Description: Mods.Split.Buffs.GelTagDebuff.Description
+}
+
+SpaceJellyfishBuff: {
+	DisplayName: Friends from the Future
+	Description: They're here to gel your foes up!
+}
+
+ShroomedDebuff: {
+	DisplayName: Shroomed Debuff
+	Description: Mods.Split.Buffs.ShroomedDebuff.Description
+}
+
+CrabWhipTagDebuff: {
+	DisplayName: Crab Whip Tag Debuff
+	Description: Mods.Split.Buffs.CrabWhipTagDebuff.Description
+}
+
+MotorbugPetBuff: {
+	DisplayName: My Little Killing Machine
+	Description: "'I am a tool of the Lord. Destroying me, is, blasphemy.'"
+}
+
+SunStrikeBuff: {
+	DisplayName: Sun Strike
+	Description: Your next attacks will release squirming sun beams
+}
+
+StarshroomBuff: {
+	DisplayName: Starshroomed
+	Description: Slowly regenerates health, as long as you're close to sentries
+}
+
+StunlockedDebuff: {
+	DisplayName: Stunlocked Debuff
+	Description: Mods.Split.Buffs.StunlockedDebuff.Description
+}
+
+StunlockDebuff: {
+	DisplayName: Stunlock Debuff
+	Description: Mods.Split.Buffs.StunlockDebuff.Description
+}
+
+MasterParaffinPetBuff: {
+	DisplayName: Inconspicuous Looking Candle
+	Description: "'Clearly, you don't own an airfryer...'"
+}
+
+MasterMiragePetBuff: {
+	DisplayName: The Dearest Memory
+	Description: "'Oh, the misery...'"
+}
+
+RimeBreakerBuff: {
+	DisplayName: Icebreak
+	Description: Increases damage and crit of your next heavy melee attack
+
+	Epic: {
+		DisplayName: Epic Strike
+		Description:
+			'''
+			Your next heavy melee attack will be doubled
+			'It's time to put 'em down!'
+			'''
+	}
+}
+
+EyesoreTagDebuff: {
+	DisplayName: Eyesore Tag Debuff
+	Description: Mods.Split.Buffs.EyesoreTagDebuff.Description
+}
+
+MetalcoreBuff: {
+	DisplayName: Metalcore
+	Description: Grants immunity to knockback and increases armor penetration
+}
+
+BreakdownBuff: {
+	DisplayName: Breakdown Buff
+	Description: Mods.Split.Buffs.BreakdownBuff.Description
+}
+
+WrathOfTheMaskBuff: {
+	DisplayName: Wrath of the Mask
+	Description: Effects of the Mask of Evil are doubled
+}

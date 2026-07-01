@@ -1,0 +1,70 @@
+HiddenGoldenChest: {
+	ContainerName: Hidden Golden Chest
+	MapEntry: Hidden Golden Chest
+}
+
+PorkChest: {
+	ContainerName: Pork Chest
+	MapEntry: Pork Chest
+}
+
+FrostbiteBarrel: {
+	ContainerName: Frostbite Barrel
+	MapEntry: Frostbite Barrel
+}
+
+FrostbiteWoodChest: {
+	ContainerName: Hidden Golden Chest
+	MapEntry: Frostbite Wood Chest
+}
+
+FrostbiteWoodDresserTile.ContainerName: Frostbite Wood Dresser
+
+ChampionChestTile: {
+	ContainerName: Champion Chest
+	MapEntry: Champion Chest
+	MapEntryLocked: Locked Champion Chest
+}
+
+TectonicChest: {
+	ContainerName: Tectonic Chest
+	MapEntry: Tectonic Chest
+	MapEntryLocked: Locked Tectonic Chest
+}
+
+LordsCog.MapEntry: Lord's Cog
+FrostbiteCrateTile.MapEntry: Crate
+Banners.MapEntry: Banner
+Amplifier.MapEntry: Amplifier
+BlastForge.MapEntry: Blast Forge
+StoneofInspiration.MapEntry: Stone of Inspiration
+CoolwellTile.MapEntry: Coolwell
+CriminalStatueTile.MapEntry: Statue
+GoodwellTile.MapEntry: Goodwell
+HiddenGoldenChest_Locked.MapEntry: Locked Chest
+KitCatClockTile.MapEntry: Kit Cat Clock
+MusicBoxes.MapEntry: Music Box
+HiddenGoldenChest_Trapped.MapEntry: Hidden Golden Chest
+PorkChest_Trapped.MapEntry: Pork Chest
+FrostbiteWoodChest_Trapped.MapEntry: Frostbite Wood Chest
+TectonicChest_Trapped.MapEntry: Tectonic Chest
+BatPot.MapEntry: Big Pot
+CultistStatueTile.MapEntry: Statue
+HolographicBoardTile.MapEntry: Holographic Board
+HuskStatueTile.MapEntry: Statue
+KeystoneTile.MapEntry: Keystone
+OceanAltar.MapEntry: Ocean Beacon
+RevealingSignTile.MapEntry: Revealing Sign
+RoundCactus.MapEntry: Round Cactus
+ShovelStatueTile.MapEntry: Statue
+TeslaTowerTile.MapEntry: Tesla Tower
+WarningSignTile.MapEntry: Warning Sign
+FrostbiteSapling.MapEntry: Frostbite Sapling
+FrozenGravestoneTile.MapEntry: Frozen Gravestone
+FrostbiteWoodBedTile.MapEntry: Example Bed
+FrostbiteWoodWorkbenchTile.MapEntry: Frostbite Workbench
+BasaltitePot.MapEntry: Basaltite Pot
+BasaltitePot2.MapEntry: Explosive Basaltite Pot
+ChampionChestTile_Locked.MapEntry: Locked Champion Chest
+MonsterCageTile.MapEntry: Monster Cage
+TectonicChest_Locked.MapEntry: Tectonic Chest

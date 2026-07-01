@@ -1,0 +1,201 @@
+Common: {
+	PercentIncreasedManaOverflow: "{0}% increased mana overflow"
+	PercentIncreasedSentryDamage: "{0}% increased sentry damage"
+	PercrentIncreasedHeavyMeleeCrit: "{0}% increased heavy melee critical strike chance"
+	PercrentIncreasedHeavyMeleeSpeed: "{0}% increased heavy melee attack speed"
+	PercentIncreasedHeavyMeleeDefense: "{0}% increased heavy melee defense"
+}
+
+Sheep: {
+	Name: Sheep ({0})
+	0: Milky
+	1: Creamy
+	2: Vanilla
+	3: Lime
+	4: Sky
+	5: Violet
+	6: Pink
+	7: Chocolate
+	8: Smoky
+	9: Shadow
+	10: Lava
+	11: Phosphorus
+	12: Disco
+}
+
+Tooltip: {
+	ArmorPrefix: {
+		Rooted: Increased defense while standing still
+		Shielded: Grants knockback immunity
+		Marine: Grants the ability to swim
+		Barbed: Attackers also take damage
+		Lit: Illuminates the area around
+		Shamanic: Increases whip range by 22%
+		Elusive: Increases length of invincibility after taking damage
+		Strong: Increases max health by 20
+		Enchanted: Increases max mana by 40
+	}
+
+	ReforgeWarning: Perhaps someone else may be able to reforge this...
+}
+
+LazuriteBuff: {
+	Title: Oceanic Absorption
+	Description: If any entity in the area of attack has certain debuffs, this item will be empowered and spread the absorbed debuff onto nearby enemies.
+}
+
+InsurgentBuff: {
+	Title: Ethereal Bond
+	Description: This item allows you to consume a fraction of your health in exchange for power. Consumed health is stored as Ethereal Bond and is restored when you satisfy a certain condition, however, it is lost if you switch the item.
+}
+
+BasaltBuff: {
+	Title: Tectonic Resonance
+	Description: This item will be empowered and gain new abilities while in Underworld Domain or under certain circumstances...
+}
+
+RecipeGroup: {
+	SilverBar: Silver or Tungsten Bar
+	GoldBar: Gold or Platinum Bar
+	CobaltBar: Cobalt or Palladium Bar
+	MythrilBar: Mythril or Orichalcum Bar
+	AdamantiteBar: Adamantite or Titanium Bar
+	CooperBroadsword: Cooper or Tin Broadsword
+	IronBroadsword: Iron or Lead Broadsword
+	SilverBroadsword: Silver or Tungsten Broadsword
+	GoldBroadsword: Gold or Platinum Broadsword
+	BewitchedHats: Any gemmed hat
+	BewitchedRobes: Any gemmed robe
+	GemHooks: Any gemmed hook
+	AnyIce: Any ice
+	AnyPhasesaber: Any phaseblade
+}
+
+Supporters: {
+	Thanks: Thank you for the support, {0}!
+	CustomColors: This item uses your custom colors.
+}
+
+Dialogue: {
+	Menace: {
+		Defeat:
+			'''
+			! name Menace
+			! portrait 0 1
+			! delay 2.2
+			! pause_at 2 0.5
+			- Ha! Nothing bad ever happens to the Menace!
+			! portrait 1 1
+			! shake 20 1.0
+			! name Menace (Defeated)
+			! delay 0.2
+			...
+			! portrait 2 1
+			! delay 1
+			...
+			'''
+		Escape:
+			'''
+			! name Menace
+			! portrait 3 1
+			! delay 2
+			- Next time, weakling!
+			'''
+	}
+
+	MysteriousStranger:
+		'''
+		! name Mysterious Stranger
+		! portrait 4 0
+		! delay 2.5
+		! pause_at 9 0.5
+		- Go ahead, tell them what you saw.
+		- No one will believe you.
+		'''
+}
+
+Biomes: {
+	StrandedShipBiome: {
+		DisplayName: Stranded Ship
+		TownNPCDialogueName: the Stranded Ship
+	}
+
+	UnderworldDomainBiome: {
+		DisplayName: Underworld Domain
+		TownNPCDialogueName: the Underworld Domain
+	}
+}
+
+DamageClasses.HeavyMeleeDamageClass.DisplayName: heavy melee damage
+
+Photography: {
+	ShutterbugShop: Shutterbug's Souvenir Shop
+	ThemeTooltip:
+		'''
+		Theme: [c/{0}:{1}]
+		Double right click to open Themes folder.
+		Right click to reload user themes.
+		'''
+	PageIndicator: Page
+	PageNumber: "{0} / {1}"
+	SpecialReward: Complete 6 entries to receive a special reward!
+
+	Card: {
+		RewardAvailable: Reward is available!
+		PosterAvailable: Printable copy is available!
+		PrimeRewardAvailable: Photography page is complete!
+		CrossModAvailable: A special photography page is complete!
+		New: New!
+	}
+
+	Visit: Visit {0} to claim your rewards.
+	CameraDetection: Photogenic presence detected!
+
+	Themes: {
+		Default: Default
+		Magma: Magma
+		Stranded: Stranded
+		Crimson: Crimson
+	}
+
+	Rarity: {
+		Common: Common
+		Uncommon: Uncommon
+		Rare: Rare
+		VeryRare: Very Rare
+	}
+}
+
+BlacksmithUI: Place an armor to reforge
+MeltedHeartPopup: MaxHP
+
+Configs: {
+	SplitClientSideConfig: {
+		DisplayName: Split Client Side Config
+
+		IsDebugMenuEnabled: {
+			Label: Is Debug Menu Enabled
+			Tooltip: ""
+		}
+
+		ScreenshakeIntensity: {
+			Label: Screenshake Intensity
+			Tooltip: ""
+		}
+
+		FlashEffectsIntensity: {
+			Label: Flash Effects Intensity
+			Tooltip: ""
+		}
+
+		ContrastEffectIntensity: {
+			Label: Contrast Effect Intensity
+			Tooltip: ""
+		}
+
+		BossCameraFocus: {
+			Label: Boss Camera Focus
+			Tooltip: ""
+		}
+	}
+}

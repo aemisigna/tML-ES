@@ -1,0 +1,462 @@
+Generic.Interested: "{0} has something to tell you!"
+
+Collector: {
+	Name: Genoshi
+	Tooltip: Genoshi could be interested in that...
+	Tooltip2: Genoshi could be disturbed by that...
+	Tooltip3: Someone could be interested in that...
+	Left: Genoshi has left...
+
+	Exchange: {
+		1: See you have an Enchanted sword. Strong, fast and fires beams, classic, but you need something more reliable for your future fights. I can exchange it for the Moondial, it's strong, fast and... fires beams. Well, what else do you expect from it, to shoot rainbow cats?
+		2: You know, Spirit has some unhealthy obsession with skulls. I don't get it, she just carries them around everywhere. Not her only weird trait, but... Well, I don't wanna bore you with the details, at least for now, but I can exchange this skull for an accessory that gives a great bonus for summoners!
+		3: So, you've found an Ice feather! As far as I know, those are used to craft Frost Wings. See, I can exchange it for something special. A pair of wings that belonged to one ancient ice fairy, the strongest of its kind! What do you think?
+		4: A shadow key, huh. It's not like there's something important left to unlock with such a thing. Don't worry, I have something that will definitely come in handy. A Red Tearstone ring will greatly increase your damage when your health is low. What do you think?
+		5: I know that symbol! Looks like an outdated coin from the Nexus, but, how did it end up here? If only... Oh.. No way! You actually found the guy that coin belonged to? We spent so much time searching for that prick, and after all his crimes he decided to escape to this exact dimension. Looks like he messed up the landing coords and ended up deep under tons of ice! Eesh.. poor fella. Guess he's having an ice time! Because he froze to death. Anyway, give me that thing and take your reward!
+		6: Tired of your old, clunky harpoon, huh? Don't worry, I think I've got something interesting for you. This rapier isn't as strong but definitely has a lot of potential!
+		7: Looking for something new? I think I've got some spear for ya! The last one I've got, actually. All the others were bought by some boring actress last year. People liked her approach to the special effects, but improper use of dust caused a lot of performance issues, so her theater was shut down. That's a very important piece of lore, you will understand later.
+		8: Honestly, I don't have any lore-friendly explanation for this. It must be some strange art project or bizarre museum exhibit. But the very fact of its existence scares the hell out of me.
+		9: Hey, what a wonderful and exotic plunger you have! Other collectors will be so jealous if I get it... Well... you like racquets, don't you? Bee happy, beecause I have something beeutiful for exchange! Buzz on!
+		10: They told me that it wasn't easy to snatch this hat from the Frog Witch of the Death City. I have no idea what this is all about, guess I just overslept and missed this show. Hope you find a use for it!
+		11: Oh, so you found this toy blaster? Quick, give it to me, I have some interstellar technology to exchange it for! And abount the magic gun you found on that undead pirate's corpse, [c/DD99FF:Walter], was it? Really, just trash it - this one is way better!
+		12: A guarding eye? Hey, that could be useful for watching my stacks of cash while these town peasants roam around... Hmm, maybe I can give you this stick Spirit concocted! It summons something quantum, I don't know, physics is not my forte. But I know that it works better when there's many targets!
+		13: What are you, a mind reader? I was just planning to go fishing, it's just so engaging and relaxing, you know? If you solve my little inventory crisis, I can give you this amazing gizmo! Back in my world, it was used to track efficiency of workers. But here, no one is working!
+		14: Finally, a masterpiece, an ordinary switch! Don't you know how taxing it is to put out torches, then reignite them again? Anyways, I used to be a big influencer back in my days. And being big means making big gigs. Sometimes, people don't follow the contractual obligations, that's when a little disciplinary action is required.
+		15: W-where did you find that? It kinda reminds me of someone's... nevermind. Since I, of course, was in position of power, I sometimes had to do feeding duty. And you remember how lazy my workers are? Uh, these peasants. Thankfully, Spirit came up with a crazy idea. Isn't this brilliant? It's a shame Gaboonga is so difficult to come by in the Nexus, so thank me for my generosity and take this! Give me the gun though.
+	}
+
+	ExchangeStart: {
+		1: Let's see what you've got!
+		2: Show me the goods, my friend!
+		3: Brought anything new?
+	}
+
+	ExchangeAbort: {
+		1: Changed your mind?
+		2: I guess you still need it for something else?
+		3: No rush.
+		4: I can wait. But not for too long.
+	}
+
+	ExchangeIndicator: {
+		Empty: "[ Pick an item to exchange. ]"
+		Confirm: "[ Confirm or deny exchange? ]"
+	}
+
+	ExchangeButton: Exchange
+	LoreButton: Lore
+	ExchangeStatus: An exchange is available!
+	BuffAccept: Yeah, right...
+	Accept: Sure
+
+	Phrase: {
+		Hello: Well, well, well. Who do we have here? And you're the one [c/DD99FF:Spirit]'s been buzzing about? Man, what a mess! Apparently, teleportation wasn't entirely successful, just look at your face... well, enough about you! I'm here to help you in this dangerous journey. Have you heard anything about the elements? Find 'em all and we'll see what we can manage.
+		Party: Party is party, but don't forget about your mission!
+		Librarian: Hey, this new librarian guy looks kinda suspicious... I think I've seen him somewhere before... Ugh, nevermind.
+		Tavernkeeper: It used to be much quieter here, I have to say. No anomalies, no travelers from other dimensions. Just look at this tavernkeep guy, he doesn't even remember how he got here! This isn't a world, it's a public thoroughfare...
+
+		Dryad: {
+			1: Hey, this Dryad of yours looks like a big deal... But shouldn't there have been hundreds of them, where are the others? I remember exactly that there were more.
+			2: Ugh, just tell your Dryad to stop showering me with her purification powder.
+		}
+
+		WantedPoster: Ah, that face again.. Haven't we talked about him already? Yes, he was a scientist, known for his stupid inventions, like the jet-slippers, or whatever that was, and everything was fine, until he began to steal resources from my fund and used forbidden technologies, which led to countless deaths in the interdimensional shipwreck! And guess who had to deal with all this madness? Okay, just... get it out of my sight. We have a lot of work ahead of us.
+		TravelingMerchant: I really appreciate {0}'s business strategy. He travels around the world in search of some exotic junk, then sells it all to his copies from other dimensions, and they do the same. Infinite wealth in infinite worlds! I'm kinda jealous.
+		Angler: Sure, there aren't many smart people around here, but I like {0}. He's a tough guy and he clearly has more knowledge than anyone in this world. No wonder he has so many fans.
+		PoorUnfortunateSoul: Poor, unfortunate soul. Huh... Don't think you'll need it, and I don't have any room for that in my collection. Although.. maybe we can find some use for it. I've heard somewhere that there's a way to free a soul by performing a special ritual. Try to throw it in lava.. no, in water! Then throw some farewell gift next to it, and spice it up with purification powder. What? I don't know what's gonna happen! Just go and check!
+		Nickname: Dude, you're late, this nickname is already registered.
+		Sus: I've been noticing some really strange things lately. Some of your townies behave more suspicious than usual, as if they were.. replaced. Spooky, huh? Keep your eyes open, maybe some of them aren't really who they are...
+		Skeletron: Having trouble finding elements? Check out that cursed old man hanging around the dungeon. He definitely possessed one!
+		OneShot: Have you seen any big sailship somewhere in an unusual place? Just asking.
+		Cup: Oh, what a wonderful bucket! Spoiler alert, there's an Element of Fire inside. Not gonna ruin the pleasure of finding a way to unlock it for you, of course.
+		Buff: Ah, you won't believe it, but I feel an extraordinary surge of strength today. I thought my insurance would never pay off. Perhaps you could do something useful too!
+	}
+
+	ExchangeTip: {
+		1: Place an item to exchange
+		2: Click the item to exchange
+	}
+
+	ExchangeReaction: {
+		1: Perfect!
+		2: Great!
+		3: Ka-chow!
+		4: Ka-ching!
+		5: Nice.
+		6: Finally.
+		7: Good choice.
+	}
+
+	GaboongaReaction: Gaboonga Blast!
+
+	Lore: {
+		1: Huh, me? I'm just as much of a traveler as you are, except I have my own personal palace, tons of subordinates and lots, LOTS of money. Don't worry, it'll all come to you someday, too.
+		2: Huh, the Nexus? You really must've been living in a cave if you haven't heard of it. Okay, in plebeian terms, the Nexus is a place where heroes from all over the world come together - merchants, scientists, architects... All those who have decided that their own world is not enough for them. Well, it's also a convenient excuse for all these weird characters to come to your world.
+		3: Huh, [c/DD99FF:the Spirit]? She's just my ward, she was tracking anomalies in your network and helping me find some villain. I don't know what suddenly prompted her to go on a mission alone, but I'm not worried about her, she's found the right world after all. I even wonder how she's planning to get out of this mess.
+		4: Huh, the I.D.E.A.? It stands for Inter-Dimensional Emergency Agency, don't mind the abbreviation, I don't like it myself. In short, the agency was formed to prevent users from overflowing their worlds with mods, as this can disrupt the sequence and totally kill the experience from each individual project. You know, since [c/DD99FF:Spirit] is sitting behind the director's chair, no one cares much. You got the idea.
+		5:
+			'''
+			Huh, the sand people? I'm surprised you're interested. Anyway, the majority of the inhabitants of the Nexus belong to mineral-based life forms. I know it sounds ridiculous, but due to our structure, we can handle teleportation much easier, which is especially important for travelers between distant worlds. One of them is standing right in front of you, and you've already met
+			[c/DD99FF:Spirit], and... Well, hope you'll never meet the others.
+			'''
+		6:
+			'''
+			Huh, the transmitters? Before one smart guy invented the PDA, travelers used some kind of 'magic mirrors' to bend space and time. But we've taken this concept further and can now travel between different worlds! Recently I gave the most sophisticated transmitter to
+			[c/DD99FF:Spirit], and she's already managed to break it! Ugh... You don't even imagine how hard it is to get a transmitter that suits her size!
+			'''
+		7: Okay, I guess I've reached the limit of my amazing and fascinating stories. If you don't understand anything, it's even better, it'll be easier to work with you. And if you don't have anything to do, I can repeat it all over again. You've got so much time, don't ya?
+	}
+
+	Talk: {
+		1: Nice to see you alive. Do you need something?
+		2: If it isn't my favorite employee! Well, how's your progress?
+		3: Oh, you will move mountains under my guidance, be sure!
+		4: You look more unpleasant every day. You should sleep more often!
+		5: I wanted to tell you something, but I forgot what.
+		6: If you find anything interesting, bring it to me. I always have some stuff to exchange.
+		7: Ah, this world sure has a lot of potential. I'm almost sad that it's gonna die very soon... Oh, what are we talking about?
+		8: Elements are the basis of progress in our modern world. They're not only for making neat guns... well, that's what we're using them for, but still, every element is also an inexhaustible source of energy! However, they're not just lying around, I'm pretty sure that the powers of this world already claimed each one. Defeat them and get our elements back!
+		9: Bring me some old junk, and I'll exchange it for some new junk.
+		10: I can't stand people who brag about their achievements, and yet can't help when you need it. Glad I found [c/DD99FF:Spirit], she's smart when it's needed and doesn't ask too many questions.
+		11: Yeah, maybe I am talking about [c/DD99FF:Spirit] too much. After all, she's my greatest accomplishment.
+		12: They say there is a person who will tell you how to survive in this land. Definitely not about me, I don't remember shit.
+	}
+}
+
+Shutterbug: {
+	Name: {
+		1: Diona
+		2: Anna
+		3: Flash
+		4: Camila
+		5: Chloe
+		6: Claire
+		7: Olya
+	}
+
+	ClipButton: Clip
+	AlbumButton: Album
+	Accept: Alright!
+	RewardAvailable: Photography reward available!
+	MagicClipAvailable: Daily Magic Clip may be claimed.
+
+	Phrase: {
+		Start: Hey! You look available. Jeez, can't you hold on to my Camera while I'm looking for my room? And maybe go take some pictures of creatures that I'm TOTALLY not afraid of messing with! Don't you worry, I'm paying for it.
+		Talk1: Would you like to take a look at my lovely album?
+		Talk2: Hrr, I told you not to bother me when I'm taking a selfie!
+		Talk3: I often fail to put a story into words. That's when photography comes in!
+		Talk4: Don't you dare break this camera! Nobody would be able to fix it here!
+		LowHealth: Wanna be my muse, eh? Sorry, I'm not into post-mortem
+		Night: I don't care if it's dark outside and you can't take a good picture, that's not an excuse!
+		BloodMoon: Come on, you're wasting your chance! Don't you see how many photogenic monsters are wandering around unphotographed?
+		TakeClip: Here, take it! Go express yourself somewhere.
+		TakeClipParty: Lucky for you, I'm feeling generous today.
+		NoClip: Like you ever gonna be lucky enough to take more than one good picture a day!
+		NoClipParty: Don't touch me while I'm partying!
+	}
+}
+
+Magician: {
+	Name: {
+		1: Arkady
+		2: Drew
+		3: Vadim
+		4: Gaston
+		5: Derpling
+		6: Kabrok
+		7: Houdini
+	}
+
+	Spawn: The Traveling Magician has arrived!
+	Despawn: The Traveling Magician has departed!
+	Accept: Sure!
+
+	Phrase: {
+		Start: Night follows day, and all my competitors are finally gone! Who am I? Just a money-hungry old man. If you have an extra penny, I'd be happy to show you some tricks!
+		Talk1: I spent many years traveling and learned a lot of tricks! You won't be disappointed!
+		Talk2: Friendship is magic? Don't make me laugh! Everybody knows that friendship is witchcraft.
+	}
+}
+
+TwilightWalker: {
+	Name: {
+		1: Charon
+		2: Minos
+		3: Pluto
+		4: Caton
+		5: Erebus
+		6: Aken
+		7: Maro
+		8: Mun
+	}
+
+	Accept: Sure...?
+
+	Phrase: {
+		Start: So, you are the new arrival... Must be very unpleasant to see your new world in such a state. Don't worry, your predecessor left some means of communication, just in case, so if you need help, or just get bored, feel free to use it. Come on, like you've never taken suspicious devices from mysterious strangers before.
+		Talk1: What's cookin', good lookin'?
+		Talk2: Good to see you again, fellow stranger!
+		Talk3: I keep wondering, where do all the monsters get so much money from?
+		Talk4: Sell your soul only to verified devil!
+		TalkSurface1: Ooh! It's so cold out here!
+		TalkSurface2: Oh.. I don't feel so good... Maybe I'm just allergic to the stars.
+		Party: Call the fire department, because this party is fire!
+		Hardmode: If you had that strange feeling that there's something big and sinister going on in the world... that's normal paranoia. Everyone in the universe gets that.
+		NewMoon: Sorry if my advice doesn't help you. I'm too busy being mysterious and suspicious.
+	}
+}
+
+AstrologistBad: {
+	Spawn: Here comes a new challenger!
+	Spawn2: Menace is taking over again!
+	Challenge: Challenge
+
+	Phrase: {
+		Start: According to old and boring history books of mine, all I need to do to become the independent ruler of this entire world is to find and defeat the Terrarian. So, wouldn't you help me find this weak vermin?
+		Talk1: Come on, if no one's gonna fight me by the end of this night, it will end very anticlimactic.
+		Talk2: What a mess! You should've at least cleaned up and prepared for my arrival! And, why do my subjects look so tired? Don't they ever rest?
+		Talk3: This world requires an architectural reform.
+	}
+}
+
+Astrologist: {
+	Name: {
+		1: Aurora
+		2: Ceres
+		3: Venus
+		4: Moon
+		5: Eclipse
+		6: Halley
+		7: Meteora
+		8: Mona
+		9: Solana
+		10: Lumina
+	}
+
+	Accept: Sure
+
+	Phrase: {
+		Start: Oh, looks like my pet possessed me again. Typical scenario. What was he even thinking. So, you're in charge here? Very well. I'll just settle here for free and sell some questionable items for exorbitant prices. Satisfied with the prospect? Perfect. Now go and kill somebody.
+		Talk1: The stars told me you have a great future ahead of you. I wouldn't flatter you like that.
+		Talk2: With great power comes great apathy.
+		Talk3: Do you still think that you can outplay your fate? Can't wait to see how it turns out.
+		Talk4: Don't you have somewhere else to be?
+		Talk5: I see some big, chunky issues in your aura. Mainly in the skill department.
+		Talk6: At least my house isn't oddly shaped, or brown.
+		Asleep: The person you are trying to reach is currently unavailable.
+	}
+}
+
+Menace: {
+	Phrase: {
+		Start: Ugh, she fell asleep? Finally! With her incredible weather powers and my political knowledge, we'd have taken over the world in no time! But she never takes my ideas seriously, she doesn't take anything seriously, just waiting for the stars to show her the right way. Look... It's obvious that you're looking for more challenge. Just say the word and I'll put on a show! C'mon, that's legal and not creepy at all!
+		Talk1: Actually, I think you're doing a great job ruling this world. Too bad you're already possessed.
+		Talk2: All you gotta do is say my name three times. Three times in a row, it must be spoken unbroken! Oh, wait, that was the other guy...
+		Talk3: Some may find possession and split personality a cheap and hackneyed trope, but hey, she deserves at least a little bit of character depth.
+	}
+}
+
+Vulcan: {
+	Accept: Sure
+	AcceptLore: Uh-oh...
+	Start: So, you're the one who defeated that naughty candle, I see. How delightful! I'm Vulcan, the blacksmith, so if you need to reforge your armour, speak to me!
+	Cup: Oh, smokes... How did you... Wherever you found this, put it back! It's nothing but trouble!
+	PoorUnfortunateSoul: Hey! I definitely remember those! They are usually channelled with some item and serve as, well... a live hard drive! They divide your brain into fractions and allow you to store only the most important things in your memory, taking away useless stuff. The aristocrats took them to meetings to retain boring information while sleeping. But, don't worry, they're harmless! ...it just depends on the owner.
+	Reforge: Reforge
+	Nickname: Same name, huh? Easier to remember.
+
+	Talk: {
+		1: Hello there! Hope nobody was following you. Need anything reforged?
+		2: Oh, don't make a sad face. Just ignore all of your problems, they are far away, and you are here. Look at me, I'm completely calm. They're never gonna find us. Right?
+		3: Don't worry, it's okay to be hated. Only those who are worse think bad things about us. Those who are better than us... they just don't care!
+		4: No-no-no, I'd rather stay here. Not in the mood to turn into a huge monstrous skull today.
+		5: I'm not as good a blacksmith as I used to be. All because of that damned candle... I hope she learns her lesson.
+		6: If you need to reforge your armor, speak to me!
+		7: Have you noticed that some characters are significantly smaller or larger than others? No, this is not due to lack of style and bad taste, mostly. It's just sand people are born huge and shapeless, and their bodies compress with age, filling up with experience and trauma. So yes, those who want to lose weight may prefer to watch some snotty melodramas instead of a healthy diet and gym. Unbelievable!
+	}
+
+	LoreButton: Lore
+	LoreStart: Oh, hello again! So... it looks like you put an end to her mischiefs, and the vessel won't cause any more trouble? In that case, I can finally tell you my story. It's sad, so get your napkins ready.
+
+	Lore: {
+		0: You know, I wasn't always this desperate. I had a joyful, carefree life, but one day everything has gone to the dogs. I had to hide from the Nexus people in some boring caves deep underground. No matter how many weapons I forged and how many things I built, there was no one around to evaluate my work! And then I got a terrible idea.
+		1: I picked up wax and ashes and made a sculpture, linked it to this place so it couldn't escape and be found by someone outside, and brought it to life using my cup with living flame. Seemed like a great plan, the perfect friend who wouldn't betray you and would support any of your ventures...
+		2: Of course, if you've read enough books and watched enough movies, you know what's wrong with a story like this. She turned out to be too intrusive, too coarse and rough and irritating and was getting everywhere! And since I linked her to the underworld, I'd be stuck with her forever!
+		3: I couldn't take her life without her will, but I needed to keep her away... Then I came up with another brilliant idea, I collected bones and stones and made another living sculpture. It seemed to me that the only way to get rid of that candle was to shift her focus, so I made him strong, hot, and came up with a crazy epic lore to get her attention.
+		4: When I thought I was finally alone, he came to me, exhausted and depressed: apparently, even with his patience, he couldn't stand her shenanigans. I was about to make another statue to cure his depression, but then realized that I'd already spent all the flame on those two.
+		5: Later that night, he broke into my floor, ripped his flame out of his chest in the most dramatic way possible, put it back in the cup and tied it with chains into a knot, leaving only a pile of stones behind. I'd never seen my candle in such a rage, she couldn't believe that her beloved just disappeared, and blamed me for his imprisonment.
+		6: She ruined my ruins, took the cup along with a huge cage and a set of keys, and went deep underground... I don't know what she was trying to do, maybe fake her escape to ingratiate herself with some stranger... Well, if you wanna hear this story again, just ask, I have nothing much to do anyway.
+	}
+}
+
+Commando: {
+	Name: {
+		1: Ooo
+		2: Grey
+		3: Ford
+		4: Zaphod
+		5: Douglas
+		6: Marvin
+		7: Slartibartfast
+		8: Goober
+	}
+
+	Start: Oh my transistors, I-I-I'm so sorry...! There're many wholesome people in your world, all the meetings, parties, games, festivity. It's just so... human and naive! Such peaceful life in unattainable on my home planet... and I just wanted to be a part of your big family!
+	Accept: You're welcome!
+
+	Talk: {
+		0: Aloha! Isn't that how you, humans, greet each other?
+		1: Oh, here you are! Do you need something?
+		2: If a robot repairs another robot, would you rather call it a mechanic or a doctor?.. Oh, hi there! Sorry, I've been thinking...
+	}
+
+	BloodMoon: It's kinda scary outside. I thought brain eating went out of human fashion a couple of centuries ago.
+	Party: I'm tired of everyone offering me a drink. Like I can just remove my space helmet to taste it without dying from oxygen poisoning!
+}
+
+Spirit: {
+	Prompt: Spirit really wants to eat!
+	BrainPowerText: Feed to acquire Brain Power!
+	BrainPowerLv: Lv.
+	Info:
+		'''
+		Obtain valuable rewards for providing food to Spirit!
+		Increase [c/DD99FF:Brain Power] to [c/DD99FF:levels 5] and [c/DD99FF:15] for special gifts...
+		'''
+
+	Food: {
+		Button: Feed
+		1: Wooooo~hooooo! Yeah, baby! That’s what I’ve been waiting for! That's what it's all about! Wooooo~
+		2: Are you sure this is edible? It looks kinda fishy...
+		3: Oh, sorry, I didn't come up with a shrimp-related quote. But I'll take it anyway!
+		4: Yummy! Come to mommy!
+		5: What is that? I'm an eater, not a drinker. The mug will do though!
+		6: "'And here they come, come, come, to the brightest thing that glitters... Mmm, fish dinners!'"
+		7: Wow, some rich food! This mission is getting better and better!
+		8: Finally some good food!
+		9: Great! Gonna wash down all the food you brought.
+		10: Cooked marshmallow? Now we're talking business, magic man!
+		11: Happy Christmas and Merry New Year!
+		12: Looks delicious! Hope it won't come alive!
+		13: Great, you're just in time! I've been thinking about sugar cookies for the last thirty minutes.
+		14: Yes. Yes! YES!
+		15: Looks like the perfect thing to fill my emotional voids with!
+		16: An apple a day keeps Genoshi away!
+		17: Fresh and ripe, although a bit too healthy for me...
+		18: So you're saying I should go on a diet?
+		19: Yummers!
+		20: Woah, you're trying to burn me alive!?
+		21: Jeez, too spicy!
+		22: So chewy, I love it! Guess you can have the pulp.
+	}
+
+	Start: Ollo, magic man! I'm trying to fix something here, I don't exactly remember what it does, but once I finish, boss would praise me for sure! You don't look like you could help me, with that little head of yours... But if you could bring me something to chew on, that would be great! I can't think on an empty stomach.
+	Start2: Ollo, magic gal! I'm trying to fix something here, I don't exactly remember what it does, but once I finish, boss would praise me for sure! You don't look like you could help me, with that little head of yours... But if you could bring me something to chew on, that would be great! I can't think on an empty stomach.
+	Accept: Deal!
+
+	Talk: {
+		0: "'Why can't we be friends, why can't we be friends...'"
+		1: One day I looked in the mirror and saw my reflection. I'd never been so disappointed.
+		2: My boss always says I'm good for nothing but nuclear astrophysics and quantum mechanics. It helps a lot, makes me forget all the unnecessary things and focus on what I know best.
+		3: Who were you expecting? The Moon Jelly Wizard?
+		4: No, I don't know who Yuyutsu is. Why are you asking me!
+		5: You'd better be careful, there's some kind of maniac lurking around, calling and killing me occasionally. I'm getting pretty tired of it!
+		6: One day I scared some stranger, and he gave me all his money. I simply adore the economic system in your world!
+		7: The only man I love is my dad. Well, anyway!
+	}
+
+	Nickname: You sure have a bad taste in nicknames.
+
+	Kebab: {
+		1: Gee, this is too much even for me! What were you thinking!?
+		2: My disappointment is immeasurable, and my appetite is ruined.
+		3: This gift is terrible. It must be destroyed!
+	}
+
+	SpiritBiome: This cave looks totally shagadelic, if I do say so myself.
+	BuffGenoshi: Genoshi's health was insignificantly increased!
+	PotReward: That was absolutely delicious, an absolute banger of gastronomy, you could say! Here, I've been tinkering with this for a while, but it's kind of useless to me since you do all the cooking anyway. And you do it damn good!
+	PotAccept: Thank you!
+	GenoshiReward: I appreciate your exorbitant contribution to my well-being, but alas, I do not see any logical reasons to continue our relationship. However, I've heard that my dear boss has already organized my search, risking his own precious life! Honestly, I don't think he will last long here, given his numerous illnesses. Aight, just, take and use this suspicious item.
+	GenoshiAccept: Sure, I guess...
+}
+
+Mirage: {
+	Start: Oh, [c/B3CCFF:Oscar], my poor Oscar... Trouble follows him wherever he goes... What happened to him... Did he lose himself? But he never intended all this madness... I can't believe it... And I won't. He made me who I am and now it's my turn to help him. I better stay here for a while. If this world is the reason of his metamorphosis, maybe the cure is somewhere here as well!
+	Accept: Accept
+
+	Talk: {
+		1: Oh, [c/B3CCFF:Oscar]... He always had trouble keeping his frizzy hair out of his face, it drove him crazy!
+		2: Oh, [c/B3CCFF:Oscar]... He promised me that someday we'd spend our vacation in another dimension.. I thought he was joking, but now we're actually stuck in another dimension... Who'd have thought?
+		3: He doesn't remember me at all, but at least he's alive.. Maybe a little rotten, frozen through, half-dead, inadequate... But, no matter what, I'll always be there for him.
+		4: We've seen better days...
+	}
+
+	Nickname: Greetings, stranger... What a wonderful name you've got... You must be really proud of yourself.
+
+	Daytime: {
+		1: There's no hurry, darling.
+		2: If we start now, my glorious patterns will merge with the bright sky and shining sunlight. How is that fair?
+		3: Sorry, but my fight looks best at night. You don't have to torment your tiny eyes.
+		4: Just wait until nightfall, silly. You have no idea how hard it is to set the right atmosphere for a battle.
+		5: Tonight, I'm throwing my talent left and right. You're lucky to witness it.
+		6: Come at night, I'll be waiting. Just kidding, I won't. The communicator should be moved around from time to time, otherwise antlions are gonna make a nest out of it.
+	}
+
+	Communicator: {
+		1: Lost? Frightened? Confused? Good, good. Mwa-ha-ha...
+		2: Just looking for an old friend... And you're looking for a fight, aren't you? If so, let me show you a few tricks.
+		3: Have you lost something too? Interesting. What if we're looking for the same thing?
+	}
+
+	Challenge: Challenge
+}
+
+TectonicCage: {
+	Message: {
+		1: A [c/FFAA99:tectonic cage], sealed with a [c/FFAA99:tectonic lock], requires a [c/FFAA99:tectonic key] to open. The sign says - [c/FF3355:'Don't unlock at any cost!']. Doubt that would stop you!
+		2: A [c/FFAA99:tectonic cage], sealed with a [c/FFAA99:tectonic lock], requires a [c/FFAA99:tectonic key] to open. The sign says - [c/FF3355:'Don't unlock until Christmas!']. Doubt that would stop you!
+	}
+
+	Unlock: Unlock
+}
+
+Paraffin: {
+	Start: Ha ha ha! Ah, free at last! It's been a long two hours in this boring cage. Name's {0}, and you just hit the jackpot, because I'm the best friend you can possibly have, whether you like it or not! Together we're gonna rock this world!
+	Nickname: That's not such a clever choice for a nickname, champ, you should try again!
+
+	Talk: {
+		1: Me? Fading away? Ha ha ha, you're so funny! As long as I have some loving dupes around, I'm an eternal flame, baby!
+		2: Gee, it sure is boring around here! Are you even planning on having fun? I'm starving!
+		3: I'm so not a villain, I have zero evil plans, No ulterior motives, Just wanna help where I can!
+		4: Oh, I always liked pushing big red buttons! They are always shoved into the most prominent places, and when you push them, something exciting happens!
+		5: What's your favorite one of my many, many outstanding traits? Mine's my humility!
+		6: Big and loud! Things gonna get big and loud!
+		7: Based? Based on what?
+		8: No, we can't hold hands, we're not that close yet. You can try hugging Breathtaker, if you're that desperate.
+		9: Did you know that if you re-join the world with the mod turned off, all the modded chests will be replaced with funny little fumo dolls? Nah, I'm just kidding, don't try it. Unless..?
+	}
+
+	Spirit: {
+		1: Hey, wait a minute! This isn't the Underworld Domain, this is the frickin' Spirit Biome from the frickin' Spirit Mod! You better get checked out by your frickin' optometrist!
+		2: Dude, this place stinks! That's why I'm always the one who chooses where to hang out.
+	}
+
+	Mad: {
+		Start: Don't you even think I forgot about your rude behavior, you moron.
+
+		Talk: {
+			1: Back for more?
+			2: Don't act like everything revolves around you. Your independence pisses me off!
+			3: Ugh, why is it so hard to find someone who just likes you and doesn't want anything in return!?
+			4: I bet in real life you're even uglier.
+			5: Come on, come on, shoot me!
+			6: I'm guessing you've got a big, wild social life, don't ya?
+		}
+	}
+
+	Botones: {
+		Reject: "[c/FF0000:Reject]"
+		Reject2: "[c/FF0000:Fight]"
+	}
+}
