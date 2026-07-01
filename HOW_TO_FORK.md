@@ -14,7 +14,17 @@ Flujo completo: **Fork → editar en tu copia → Pull Request → revisión del
 
 ---
 
-## 2. Crear tu fork
+## 2. ¿Qué es una Pull Request y qué es el CI?
+
+Estos dos términos van a aparecer todo el tiempo en esta guía, así que vale la pena entenderlos antes de empezar.
+
+**Pull Request (PR)** es una propuesta de cambio. Cuando terminas de editar un archivo en tu fork, abres una PR para decirle al equipo de tML ES: "quiero que estos cambios pasen a tu repositorio". No se aplica nada automáticamente — el equipo la revisa, puede pedir ajustes, y solo cuando la aprueba se integra (`merge`) al repositorio original.
+
+**CI (Integración Continua)** es un chequeo automático que corre apenas abres o actualizas una PR. En este proyecto, el CI valida que el archivo `es-ES` tenga sintaxis HJSON correcta (comillas, llaves, comas en su lugar) y que no falten ni sobren claves respecto al `en-US`. Es una máquina, no una persona — revisa la revisión humana del equipo, no la reemplaza. Si el CI falla, verás una cruz roja en la PR; si pasa, un check verde.
+
+---
+
+## 3. Crear tu fork
 
 1. Ve al repositorio: [github.com/aemisigna/tML-ES](https://github.com/aemisigna/tML-ES)
 2. Si no tienes cuenta de GitHub, crea una gratis en [github.com/signup](https://github.com/signup).
@@ -30,14 +40,14 @@ Flujo completo: **Fork → editar en tu copia → Pull Request → revisión del
 
 ---
 
-## 3. Encontrar el archivo que vas a traducir
+## 4. Encontrar el archivo que vas a traducir
 
 1. En tu fork, navega hasta `Localization/<Mod>/es-ES/` y busca el archivo correspondiente al `en-US` en el que vas a trabajar (revisa la [estructura de archivos](CONTRIBUTING.md#estructura-de-archivos) en `CONTRIBUTING.md` si no estás seguro de cuál es).
 2. Si el archivo `es-ES` ya existe, ábrelo. Si no existe, lo crearás en el paso siguiente.
 
 ---
 
-## 4. Editar el archivo (desde el navegador)
+## 5. Editar el archivo (desde el navegador)
 
 Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor integrado.
 
@@ -59,7 +69,7 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 ---
 
-## 5. Guardar el cambio (commit)
+## 6. Guardar el cambio (commit)
 
 1. Baja hasta el final de la página del editor.
 2. Escribe un mensaje breve que describa el cambio, por ejemplo: `Traducción: Mods.CalamityMod.Items.Weapons.Melee`.
@@ -71,7 +81,7 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 ---
 
-## 6. Abrir la Pull Request
+## 7. Abrir la Pull Request
 
 1. Después del commit, GitHub mostrará un banner: **"This branch is 1 commit ahead of aemisigna:main"** con un botón **Contribute → Open pull request**. Haz clic ahí.
 
@@ -93,7 +103,7 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 ---
 
-## 7. Qué sucede después de abrir la PR
+## 8. Qué sucede después de abrir la PR
 
 1. El **CI** valida la sintaxis HJSON. Si falla, aparecerá una cruz roja — revisa el registro del check para ver qué línea tiene el error.
 
@@ -107,7 +117,7 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
    ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/10-ci-approved.png)
 
 3. Si te piden cambios, los comentarios aparecerán directamente en la PR. Para responder:
-   - Vuelve a tu fork, edita el mismo archivo de nuevo (paso 4) y haz commit.
+   - Vuelve a tu fork, edita el mismo archivo de nuevo (paso 5) y haz commit.
    - Ese nuevo commit se agrega automáticamente a la misma Pull Request — no es necesario abrir una nueva.
 
    ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/11-pr-denied.png)
@@ -118,7 +128,7 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 ---
 
-## 8. Mantener tu fork actualizado (para tu próxima contribución)
+## 9. Mantener tu fork actualizado (para tu próxima contribución)
 
 Con el tiempo, el repositorio original avanza con cambios de otros contribuidores. Antes de empezar una traducción nueva, actualiza tu fork para evitar conflictos:
 
