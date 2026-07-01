@@ -53,6 +53,8 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
 | Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
+| Split | PENDIENTE | X
+| AlchemistNPC Lite | PENDIENTE | X
 ---
 
 ## Comunidad

@@ -66,6 +66,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Fargo's Souls Mod | ✅ | v1.7.3.9
 | Fargo's Souls DLC | ✅ | v1.2.0.26
 | Split | PENDIENTE | X
+| AlchemistNPC Lite | PENDIENTE | X
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
