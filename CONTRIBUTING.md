@@ -86,7 +86,9 @@ Trabajar en un archivo que no está disponible puede resultar en que tu aporte n
 
 > [!IMPORTANT]
 > El CI valida la sintaxis HJSON de tu PR. Si hay errores de formato, el CI aparecerá en rojo y la PR no será revisada hasta que estén corregidos.
->
+
+![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/09-ci-status.png)
+
 > Si es tu primera contribución a este repositorio, es normal que el CI quede en estado **"esperando aprobación"** (`Workflow awaiting approval`) hasta que alguien del equipo lo apruebe manualmente — es una protección estándar de GitHub para colaboradores nuevos, no un error de tu parte. A partir de tu segunda PR corre automático.
 
 ---
@@ -106,13 +108,13 @@ La norma no es la del español estándar genérico, sino la del **mod de origen*
 
 | Mod | Convención en inglés | Convención en español |
 |-----|---------------------|-----------------------|
-| Calamity | Title case: `Absolute Zero`, `Abyss Blade` | Title case: `Cero Absoluto`, `Espada del Abismo` |
+| Calamity | Title case: `Absolute Zero`, `Abyss Blade` | Title case: `Cero Absoluto`, `Filo del Abismo` |
 | Wrath of the Gods | Sentence case: `Curious hand`, `Black hole` | Sentence case: `Mano curiosa`, `Agujero negro` |
-| Terraria Vanilla | Sentence case | Sentence case: `Monolito de la luna sangrienta` |
+| Terraria Vanilla | Sentence case: `Blood moon monolith` | Sentence case: `Monolito de la luna sangrienta` |
 
 En **title case**, los artículos y preposiciones cortas (`de`, `del`, `la`, `el`, `y`) van en minúscula cuando conectan palabras, igual que sus equivalentes en inglés (`of`, `the`, `and`):
 
-> `Espada del Abismo` ✓ — `Espada Del Abismo` ✗
+> `Filo del Abismo` ✓ — `Filo Del Abismo` ✗
 
 Las descripciones y tooltips siempre van en sentence case independientemente del mod.
 
@@ -165,7 +167,7 @@ El inglés no marca género; el español sí. Cuando el ítem, criatura o habili
 ```hjson
 // Ítem con tooltip multilínea (estilo Calamity — title case)
 AbyssBlade: {
-    DisplayName: Espada del Abismo
+    DisplayName: Filo del Abismo
     Tooltip:
         '''
         Lanza una espada abisal giratoria que atraviesa enemigos y libera energía acuática al golpear un bloque
