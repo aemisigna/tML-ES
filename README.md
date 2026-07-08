@@ -42,22 +42,25 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 ---
 
 ## Mods cubiertos
+✅ = Traducción completa e implementada en el mod principal
+🟡 = Traducción completa, pendiente de implementación
+🔴 = Traducción en proceso por el equipo o un colaborador
+⚪ = Traducción sin colaboradores y no considerada por el equipo, disponible para cualquier contribuidor
 
 | Mod | Estado |
-|-----|:------:|
-| Calamity Mod | ✅ | v2.2.1
-| Calamity Mod Music | ✅ |
+|-----|--------|
+| Calamity Mod | ✅ | v2.2.1 
 | Infernum Mode | ✅ | v2.0.1.34
-| Infernum Mode Music | ✅ | 
-| Calamity: Wrath of the Gods | ✅ | v1.2.31
+| Wrath of the Gods | ✅ | v1.2.31
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
-| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
+| Fargo's Souls DLC | ✅ | v1.2.0.26
 | Calamity Overhaul | ✅ | v0.9025
 | Catalyst Mod | ✅ | v1.1.7
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
-| Split | PENDIENTE | X
-| AlchemistNPC Lite | PENDIENTE | X
+| Split | 🔴 | X
+| AlchemistNPC Lite | 🟡 | 1.9.9
+| Quality of Terraria | ⚪ | X
 ---
 
 ## Comunidad

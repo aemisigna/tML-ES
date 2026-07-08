@@ -57,6 +57,11 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 > [!IMPORTANT]
 > Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Confirma con el equipo antes de empezar.
 
+✅ = Traducción completa e implementada en el mod principal
+🟡 = Traducción completa, pendiente de implementación
+🔴 = Traducción en proceso por el equipo o un colaborador
+⚪ = Traducción sin colaboradores y no considerada por el equipo, disponible para cualquier contribuidor
+
 | Mod | Estado |
 |-----|--------|
 | Calamity Mod | ✅ | v2.2.1 
@@ -68,8 +73,10 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity Overhaul | ✅ | v0.9025
 | Catalyst Mod | ✅ | v1.1.7
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
-| Split | PENDIENTE | X
-| AlchemistNPC Lite | PENDIENTE | X
+| Split | 🔴 | X
+| AlchemistNPC Lite | 🟡 | 1.9.9
+| Quality of Terraria | ⚪ | X
+
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
