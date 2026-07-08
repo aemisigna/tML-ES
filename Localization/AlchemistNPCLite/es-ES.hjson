@@ -571,7 +571,7 @@ Mods: {
 				DisplayName: Poción de ninja
 				Tooltip:
 					'''
-					Incrementa el daño y la probabilidad de crítico en un 5%
+					Aumenta un 5% el daño y la probabilidad de ataque crítico
 					Tienes una probabilidad de esquivar los ataques y puedes escalar las paredes
 					POCIÓN NO OFICIAL DE CALAMITY
 					'''
@@ -1366,7 +1366,7 @@ Mods: {
 		Excavation1: Las capacidades mineras aumentaron considerablemente.
 		Excavation2: El área de minería está definida como
 		Excavation3: CTRL + clic derecho para eliminar el Efecto de poción
-		FishingComb1: Efecto de calma  habilitado.
+		FishingComb1: Efecto de calma habilitado.
 		FishingComb2: Efecto de calma deshabilitado.
 
 		Tiles: {
