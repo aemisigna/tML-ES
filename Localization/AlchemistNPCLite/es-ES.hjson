@@ -1261,8 +1261,8 @@ Mods: {
 		Shop1: Cajas musicales del Vanilla
 		Shop2: Cajas musicales del Vanilla #2
 		Shop3: Cajas de música del otro mundo
-		Shop4: Cajas de música modeadas (Calamity)
-		Shop5: Cajas de música modeadas (Calamity/Thorium)
+		Shop4: Cajas de música modificadas (Calamity)
+		Shop5: Cajas de música modificadas (Calamity/Thorium)
 		ShopChanger: Cambiar de tienda
 		Beethoven: Beethoven
 		Bach: Bach
@@ -1294,11 +1294,11 @@ Mods: {
 		EntryM21: ¿Hay algún nombre para el miedo a que un pastel te espíe?
 		EntryM22: ¡Me estás lastimando los oídos! ¡Baja el volumen!
 		BossDropsShop: Dropeos de jefes y Tienda de materiales 
-		BossDropsModsShop: Dropeos de jefes y Tienda de materiales modeados
+		BossDropsModsShop: Dropeos de jefes y Tienda de materiales modificados
 		VanillaTreasureBagsShop: Tienda Vanilla de bolsas del tesoro
-		ModdedTreasureBagsShop: Tienda de Bolsas del tesoro modeadas
-		ModdedTreasureBagsShop2: Tienda de Bolsas del tesoro modeadas #2
-		ModdedTreasureBagsShop3: Tienda de Bolsas del tesoro modeadas #3
+		ModdedTreasureBagsShop: Tienda de Bolsas del tesoro modificadas
+		ModdedTreasureBagsShop2: Tienda de Bolsas del tesoro modificadas #2
+		ModdedTreasureBagsShop3: Tienda de Bolsas del tesoro modificadas #3
 		Angela: Angela
 		Carmen: Carmen
 		EntryO1: ¿Cómo va tu día, jefe? ¿En qué puedo ayudarte?
@@ -1377,7 +1377,7 @@ Mods: {
 			SpecCraftPoint.MapEntry: Punto de crafteo especial
 		}
 
-		"Keybinds.Discord Buff Teleportation.DisplayName": Mejora de teletransportación de Discordia
+		"Keybinds.Discord Buff Teleportation.DisplayName": Mejora de teletransportación de la Discordia
 
 		Configs: {
 			ModConfiguration: {
