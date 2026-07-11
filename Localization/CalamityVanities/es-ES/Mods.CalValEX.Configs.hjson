@@ -1,0 +1,112 @@
+# This file contains all the translations for ModConfig elements.
+
+CalValEXConfig: {
+	DisplayName: Configuración
+
+	DisableVanityDrops: {
+		Label: Desactivar todos los drops
+		Tooltip: Desactiva todos los drops directos del mod
+	}
+
+	ConfigBossBlocks: {
+		Label: Desactivar drops de bloques de jefes
+		Tooltip: Hace que los jefes y sus bolsas ya no suelten bloques
+	}
+
+	FatDog: {
+		Label: Tamaño real
+		Tooltip: Si está activado, hace que cierta mascota sea mucho más grande
+	}
+
+	SupCombo: {
+		Label: Desfile de Espíritus Supersticiosos
+		Tooltip: Permite que la Joya Supersticiosa invoque las 11 mascotas ingredientes usadas para crearla
+	}
+
+	DragonballName: {
+		Label: Desactivar easter egg de Dragonball
+		Tooltip: Desactiva el easter egg causado por la mascota Dragonball
+	}
+
+	Polterskin: {
+		Label: Desactivar skins de la Guadaña de Juguete
+		Tooltip: Hace que la mascota de la Guadaña de Juguete use siempre su skin predeterminada
+	}
+
+	Pitbul: {
+		Label: Desactivar ladridos del Pitbull
+		Tooltip: Hace que la mascota Pitbull no ladre a enemigos raros
+	}
+
+	Headers.NPCs: NPCs
+
+	TownNPC: {
+		Label: Desactivar NPCs de pueblo
+		Tooltip: Impide que el Oráculo y la Sacerdotisa Gelatina aparezcan
+	}
+
+	IsopodBait: {
+		Label: Desactivar escalado de cebo de isópodos
+		Tooltip: Hace que los Isópodos Abisales tengan siempre el poder de cebo máximo
+	}
+
+	CritterSpawns: {
+		Label: Desactivar aparición de criaturas
+		Tooltip: Hace que todas las criaturas de Calamity's Vanities ya no aparezcan de forma natural
+	}
+
+	GroundMountLol: {
+		Label: Desactivar nerf de monturas
+		Tooltip: Desactiva la penalización de stats que otorgan las monturas terrestres
+	}
+
+	DiscordRichPresence: {
+		Label: Discord Rich Presence ([c/ffa11:¡Requiere el mod DRP!])
+		Tooltip:
+			'''
+			Si se deben inicializar los complementos de Discord Rich Presence para el mod Discord Rich Presence de Purplefin Neptuna.
+			Requiere que ese mod esté activo para que haga algo.
+			'''
+	}
+
+	OwnerOnly: {
+		Label: Acceso exclusivo a la config solo para el dueño del servidor
+		Tooltip:
+			'''
+			Recomendado para Host & Play o al hostear un servidor en la misma máquina en la que juegas.
+			Si no está activado, todos los usuarios pueden cambiar la config
+			'''
+	}
+
+	HerosPerm: {
+		Label: Permitir cambios de config de Hero's Mod vía sistema de permisos
+		Tooltip:
+			'''
+			Para quienes usan Hero's Mod en multijugador.
+			Si no está activado, todos los usuarios pueden cambiar la config
+			'''
+	}
+
+	AprilFoolsContent: {
+		Label: Contenido de April Fools
+		Tooltip: Desactiva el contenido de April Fools cuando está desactivado
+	}
+
+	UseFables: {
+		Label: Usar contenido de Calamity Fables
+		Tooltip:
+			'''
+			Mientras el mod Calamity Fables esté activo, se priorizarán sus equivalentes.
+			Por ejemplo, los drops del Azote Desértico de Calamity's Vanities saldrán del Azote Desértico de Calamity Fables en lugar del de Calamity.
+			Desactívalo para priorizar los equivalentes de Calamity.
+			'''
+	}
+}
+
+ChangeGood: Tus cambios han sido aceptados.
+HostOnly: Solo el anfitrión del servidor puede cambiar la config.
+NoPerms: No tienes el permiso adecuado asignado.
+Drops: Drops
+Pets: Mascotas
+Gameplay: Jugabilidad
+OtherHeader: Otros

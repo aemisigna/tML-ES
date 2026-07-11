@@ -1,0 +1,795 @@
+AmogusBuff: {
+	# When the april is fooled
+	DisplayName: Astronauta Stratus
+	# April fools
+	Description: amogus
+}
+
+DarksunSpiritBuff: {
+	# Light pets
+	DisplayName: Espíritus del Sol Oscuro
+	# Light pets
+	Description: ¡Los Espíritus del Sol Oscuro han decidido seguirte!
+}
+
+EnredBuff: {
+	DisplayName: Asistente Cósmico
+	Description: ¡Está aquí para ayudar!
+}
+
+DiggerBuff: {
+	DisplayName: Excavador Reconstruido
+	Description: Invoca una pieza de maquinaria excavadora para iluminar tu camino
+}
+
+GodrgeBuff: {
+	DisplayName: Godrge
+	Description: Patético.
+}
+
+HeatBuff: {
+	DisplayName: Cráneos del Caos
+	Description: Aquí para juzgarte por tus pecados... en realidad no
+}
+
+ImpBuff: {
+	DisplayName: Minimpío
+	Description: ¡Hey!
+}
+
+PhantomBuff: {
+	DisplayName: Espíritu Fantasmal Liberado
+	Description: ¡Por fin libre, pero aún te sigue!
+}
+
+ProBuff: {
+	DisplayName: La Armada Profanada
+	Description: Providencia y su ejército iluminan la oscuridad con luz sagrada
+}
+
+PylonBuff: {
+	DisplayName: Protoamplificador
+	Description: Supercarga a otros protobots
+}
+
+SeerBuff: {
+	DisplayName: Tour de Miradores
+	Description: Viendo el mundo juntos
+}
+
+SolarBunBuff: {
+	DisplayName: Conejito Solar
+	Description: Báñate bajo tu luz divina
+}
+
+SupJewelBuff: {
+	DisplayName: Joya Supersticiosa
+	Description: Lo puro es impuro
+}
+
+VanityCoreBuff: {
+	DisplayName: Núcleo de Vanidad
+	Description: ¡Todos se llevan bien!
+}
+
+YeetBuff: {
+	DisplayName: Pez Luminoso
+	Description: Un bebé patinador solar te seguirá ahora.
+}
+
+AnthozoanBuff: {
+	# Mounts
+	DisplayName: Crustáceo Cámbrico
+	# Mounts
+	Description: Este no te va a tirar rocas
+}
+
+AuricTeslaBuff: {
+	DisplayName: Tesla Áurico
+	Description:
+		'''
+		Auto de Yharim
+		Auto de Yharim
+		'''
+}
+
+BikeBuff: {
+	DisplayName: Ciclo Profanado
+	Description: Para cuando de verdad necesitas llegar a algún lado, con estilo.
+}
+
+BloodstoneCarriageBuff: {
+	DisplayName: Carruaje de Piedra de Sangre
+	Description: Hasta podrías llamarlo un mi-
+}
+
+FloatyBuff: {
+	DisplayName: Alfombra Flotante
+	Description: Advertencia: no incluye vuelo.
+}
+
+GodRiderBuff: {
+	DisplayName: Jinete de Dioses
+	Description: Surcando las mareas dimensionales
+}
+
+HadarianBuff: {
+	DisplayName: Polluelo Hadariano
+	Description: SCREEEE
+}
+
+HiveVuff: {
+	DisplayName: Mente Conglomerada
+	Description: Te juro que no es lo que crees
+}
+
+LeviathanMountBuff: {
+	DisplayName: Alevín del Leviatán
+	Description: Más te vale atrapar un pez
+}
+
+NuclearHorrorBuff: {
+	DisplayName: Horror Nuclear
+	Description: Por qué te ayuda es un misterio
+}
+
+PBGMountBuff: {
+	DisplayName: Jinete de la Plaga
+	Description: Tienes que creer en ti mismo
+}
+
+SilvaJeepBuff: {
+	DisplayName: Jeep de Silva
+	Description: Pip pip, soy un jeep
+}
+
+TractorMount: {
+	DisplayName: Tanque de Wulfrum
+	Description: ¡Avanza, soldado!
+}
+
+YharonMountBuff: {
+	DisplayName: Yharite
+	Description: ¡Por fin está aquí!
+}
+
+cloudbuff: {
+	# Elementals
+	DisplayName: Nube Pequeña
+	# Elementals
+	Description: No puede protegerte, pero lo está intentando con todas sus ganas
+}
+
+minihotebuff: {
+	DisplayName: Corazón Infantil
+	Description: Es como si estuvieras dirigiendo una guardería o algo
+}
+
+MoistBuff: {
+	DisplayName: Niña Sirena Vibrante
+	Description: No puede defenderte, pero lo está intentando con todas sus ganas
+}
+
+rarebrimlingbuff: {
+	DisplayName: Brimling Raro
+	Description: No puede protegerte, pero lo está intentando con todas sus ganas
+}
+
+RareSsandBuff: {
+	DisplayName: Elemental de Arena Pequeña
+	Description: No puede curarte, pero lo está intentando con todas sus ganas
+}
+
+SsandBuff: {
+	DisplayName: Elemental de Arena Diminuta
+	Description: No puede protegerte, pero lo está intentando con todas sus ganas
+}
+
+AresBuff: {
+	# Exos
+	DisplayName: XF-Ares de Juguete
+	# Exos
+	Description: Él aparece
+}
+
+ExoMayhemBuff: {
+	DisplayName: Exo Mecánicos de Juguete
+	Description: Proveedores de entretenimiento perfeccionados
+}
+
+ThanatosBuff: {
+	DisplayName: XM-Thanatos de Juguete
+	Description: T(oy t) han(at)os
+}
+
+TwinsBuff: {
+	DisplayName: XS-Apollo y Artemis de Juguete
+	Description: Aquí están
+}
+
+AmberBuff: {
+	# Scuttlers
+	DisplayName: Reptador de Ámbar
+	# Scuttlers
+	Description: Sigue sin soltar su gema
+}
+
+AmethystBuff: {
+	DisplayName: Reptador de Amatista
+	Description: Sigue sin soltar su gema
+}
+
+BejeweledBuff: {
+	DisplayName: Reptador Enjoyado
+	Description: Sigue sin soltar sus gemas
+}
+
+CrystalBuff: {
+	DisplayName: Reptador de Cristal
+	Description: Sigue sin soltar su cristal
+}
+
+DiamondBuff: {
+	DisplayName: Reptador de Diamante
+	Description: Sigue sin soltar su gema
+}
+
+EmeraldBuff: {
+	DisplayName: Reptador de Esmeralda
+	Description: Sigue sin soltar su gema
+}
+
+RubyBuff: {
+	DisplayName: Reptador de Rubí
+	Description: Sigue sin soltar su gema
+}
+
+SapphireBuff: {
+	DisplayName: Reptador de Zafiro
+	Description: Sigue sin soltar su gema
+}
+
+TopazBuff: {
+	DisplayName: Reptador de Topacio
+	Description: Sigue sin soltar su gema
+}
+
+AeroBuff: {
+	# Pets
+	DisplayName: Slimes Aero
+	# Pets
+	Description: Planeamos juntos
+}
+
+AndroombaBuff: {
+	DisplayName: Androomba
+	Description: ¡Nyoooom!
+}
+
+AquaBuff: {
+	DisplayName: Peste Acuática
+	Description: ¡Blaaaargh!
+}
+
+AvalonBuff: {
+	DisplayName: Guardián Profanado Ascendido
+	Description: Porque el fuego azul se ve más genial
+}
+
+BabySquidBuff: {
+	DisplayName: Calamarito
+	Description: ^-^
+}
+
+BeeBuff: {
+	DisplayName: Portador de la Plaga Reprogramado
+	Description: BEEp. Boop. Buzz.
+}
+
+BlockarozBuff: {
+	DisplayName: Un Cubo
+	Description: Lo tomo como una declaración
+}
+
+BuppyBuff: {
+	DisplayName: Buppy
+	Description: ¿Vas a lanzar esa pelota?
+}
+
+BrimberryBuff: {
+	DisplayName: Baya de Azufre
+	Description: Es un largo camino desde el infierno…
+}
+
+CalamityBABYBuff: {
+	DisplayName: Presencia de Dios
+	Description: El BEBÉ de un DIOS omnipotente te acompaña... Solo no te dejes golpear
+}
+
+CatfishBuff: {
+	DisplayName: Pezgato
+	Description: ¿Qué? Es un pez gato, ¿de qué hablas?
+}
+
+ChilledOut: {
+	DisplayName: Tipo Genial
+	Description: Un tipo realmente genial te seguirá
+}
+
+ckidbuff: {
+	DisplayName: Fresquito 2
+	Description: Cryokid boogaloo
+}
+
+ClamHermitBuff: {
+	DisplayName: Ermitaño Almeja
+	Description: Un tipo rarito
+}
+
+CnidBuff: {
+	DisplayName: Pequeño Cnidrión
+	Description: La pobre cosa realmente necesita un pañuelo...
+}
+
+CoolBlueBuff: {
+	DisplayName: Tipos Azules Geniales
+	Description: Unos doods azules muy coul
+}
+
+CrabBuff: {
+	DisplayName: Cangrejo Fúngico
+	Description: Son unos Fun-Gis bastante buenos
+}
+
+DebrisPet: {
+	DisplayName: Bichito Fantasma
+	Description: Escúchame bien, pequeño
+}
+
+DEBuff: {
+	DisplayName: Aura Oscura
+	Description: Un aura de pura nada flota cerca de ti
+}
+
+DesertBuff: {
+	DisplayName: Peste del Desierto
+	Description: Blaaaargh
+}
+
+DeusBuff: {
+	DisplayName: Astrum Demus
+	Description: Gusanoinfierno
+}
+
+DogBuff: {
+	DisplayName: El Devorador de Dioses
+	Description: Todo esto es canónico
+}
+
+Doggobuff: {
+	DisplayName: Cachorro Molesto
+	Description: Como el quinto mejor perro de Calamity
+}
+
+EggBuff: {
+	DisplayName: Huevo Huérfano
+	Description: Él... cree que eres su madre...
+}
+
+EurosBuff: {
+	DisplayName: Chibii Euros
+	Description: Chibii Euros te sigue, con cautela
+}
+
+Excalibuff: {
+	DisplayName: Claidheamh Soluis
+	Description: No puedes esperar empuñar el poder supremo solo porque alguna tarta te lanzó una espada
+}
+
+FathomEelBuff: {
+	DisplayName: Anguila Abisal
+	Description: ¡Una forma reptante se entromete!
+}
+
+FistuloidBuff: {
+	DisplayName: Fistuloide Carnoso
+	Description: Asqueroso
+}
+
+FogBuff: {
+	DisplayName: Fogbound
+	Description: Augh
+}
+
+FollyBuff: {
+	DisplayName: Dracoenjambre
+	Description: Un derivado de un derivado de un derivado de un derivado
+}
+
+GeorgeBuff: {
+	DisplayName: George
+	Description: George
+}
+
+GoozmaBuff: {
+	DisplayName: Goozma
+	Description: El último rastro de aquello que ha sido borrado del tiempo mismo...
+}
+
+GrandBuff: {
+	DisplayName: Bisnieto Tiburón
+	Description: Heredero del trono ápex
+}
+
+HivelingBuff: {
+	DisplayName: Mente de Cúmulo
+	Description: Un pequeño grupo de microorganismos te sigue
+}
+
+HoodiedolistBuff: {
+	DisplayName: Hoodiedolist
+	Description: La capa es su hogar
+}
+
+JaredBuff: {
+	DisplayName: Gusano Eidolon
+	Description: Desde las profundidades
+}
+
+JellyBuff: {
+	DisplayName: Gelatina Astral
+	Description: Una reliquia de un pasado olvidado hace mucho
+}
+
+JunkoBuff: {
+	DisplayName: Junsi
+	Description: Furia Pura
+}
+
+LumpyBuff: {
+	DisplayName: Lumpy
+	Description: Lumpy
+}
+
+MechaGeorgeBuff: {
+	DisplayName: G30RG3
+	Description: ...KDlt7S1U9x8
+}
+
+MiniBumbleBuff: {
+	DisplayName: Mini Pájaro
+	Description: Pío
+}
+
+MiniDogeBuff: {
+	DisplayName: Enjambre Asesino
+	Description: Los Bombles siguen cada uno de tus movimientos
+}
+
+MoistScourgeBuff: {
+	DisplayName: Peste de las Dunas
+	Description: Blerch
+}
+
+NuclearFuryshronBuff: {
+	DisplayName: Dukapitado
+	Description: Uno de muchos...
+}
+
+NuggetBuff: {
+	DisplayName: El Nugget de la Jungla
+	Description: ¡Rawr!
+}
+
+OmegaSquidBuff: {
+	DisplayName: Cultistas Omega
+	Description: Tus propios pequeños devotos
+}
+
+OrbBuff: {
+	DisplayName: La Dragonball
+	Description: Vibrando a velocidades intensas
+}
+
+PhageBuff: {
+	DisplayName: Enfermedad Espacial
+	Description: ¡Has sido infectado por el Aureófago joven!
+}
+
+PillagerBuff: {
+	DisplayName: Saqueador de Provincias
+	Description: ¡Es hora de destrozar y arrasar!
+}
+
+PolterBuff: {
+	DisplayName: Polter-Chan
+	Description: Poooolteeer chaaaaaaaaaaannnn
+}
+
+PuppoBuff: {
+	DisplayName: Cachorro Chihuahua
+	Description: Es un buen chico
+}
+
+ReaperBuff: {
+	DisplayName: Hombre Fortachón
+	Description: Podrías decir que esto es un... buff buff
+}
+
+RedPandaBuff: {
+	DisplayName: Tara
+	Description: Tara, la panda Tarafiante, te sigue
+}
+
+Rembuff: {
+	DisplayName: Cabeza de Sirena Flotante Decapitada Gigante
+	Description: ¡Esperando su llegada desde 2018!
+}
+
+RepurposedMonitorBuff: {
+	DisplayName: Charletron
+	Description: Incompatible pero irreemplazable
+}
+
+RoverSpindleBuff: {
+	DisplayName: Rover de Wulfrum
+	Description: Brillantez irreemplazable...
+}
+
+RustyBuff: {
+	DisplayName: Mímico Oxidado
+	Description: Menos mal que no hay más grandes
+}
+
+SadStoneBuff: {
+	DisplayName: Roca Triste
+	Description: ":("
+}
+
+ScorchingFuryshronBuff: {
+	DisplayName: Dukapitado Abrasador
+	Description: No hagan Escoria, chicos
+}
+
+ScourgeBuff: {
+	DisplayName: Pestes Gemelas
+	Description: Blaaaargh^2
+}
+
+SentiPet: {
+	DisplayName: Los Centinelas
+	Description: Los Terrores Cósmicos te vigilan
+}
+
+SepulcherBuff: {
+	DisplayName: Sepulcrito Caído
+	Description:
+		'''
+		Un constructo oscuro compuesto de las almas fallecidas hace mucho de los inocentes...
+		Lindo
+		'''
+}
+
+SepulcherBuffNeo: {
+	DisplayName: Sepulcrito
+	Description: ESTE es benevolente
+}
+
+ShartBuff: {
+	DisplayName: Los Tiburones
+	Description: No, no pueden jugar al hockey
+}
+
+SigBuff: {
+	DisplayName: Capa y Daga
+	Description: El Asesino Etéreo te cubrirá la espalda... probablemente
+}
+
+SkaterBuff: {
+	DisplayName: Ninfa Patinadora Sulfurosa
+	Description: ¡Aliméntala con burbujas ácidas para que se fortalezca!
+}
+
+SlimeBuff: {
+	DisplayName: Semidioses Slime
+	Description: Herederos del trono
+}
+
+SmaulerBuff: {
+	DisplayName: Smauler
+	Description: Chow~
+}
+
+StasisArmoredBuff: {
+	DisplayName: Dron de Estasis Blindado
+	Description: Por qué existo
+}
+
+StasisNakedBuff: {
+	DisplayName: Dron de Estasis Desnudo
+	Description: Ponte algo de ropa
+}
+
+SWPetBuff: {
+	DisplayName: Tejedorcito
+	Description: '''"Supongo que no están extintos después de todo" '''
+}
+
+TerminalRockBuff: {
+	DisplayName: Roca Mascota de Xeroc
+	Description: '''"Esto sí me saca una sonrisa..." '''
+}
+
+TUBBUFF: {
+	DisplayName: T.U.B
+	Description: Un monstruo tentacular te sigue
+}
+
+UngodlyBuff: {
+	DisplayName: Tipo Impío
+	Description: Camino a comerte los calcetines
+}
+
+WulfrumArmy: {
+	DisplayName: Ejército de Wulfrum
+	Description: Cling clang y bang
+}
+
+WyrmBuff: {
+	DisplayName: Pulgagusan Eidolon
+	Description: Puaj, está todo baboso...
+}
+
+YharimSquidBuff: {
+	DisplayName: Titán Abisal
+	Description: Ha llegado tan lejos en la vida
+}
+
+ZygoteBuff: {
+	DisplayName: Cigoto Fantasmal
+	Description: Puede que sea un poco problemático...
+}
+
+ClassicBrimmyBuff: {
+	# Transformations
+	DisplayName: Transformación de Elemental de Azufre
+	# Transformations
+	Description: Sí, puedes tocar el Agua
+}
+
+CloudTransformationBuff: {
+	DisplayName: Transformación de Elemental de Nube
+	Description: Te sientes nublado
+}
+
+ProtoRingBuff: {
+	DisplayName: Protoandrómeda
+	Description: Aún resolviendo los detalles
+}
+
+SandTransformationBuff: {
+	DisplayName: Transformación de Elemental de Arena
+	Description: je.
+}
+
+SignutTransformationBuff: {
+	DisplayName: Asesino Etéreo
+	Description: Nunca has sido tan edgy
+}
+
+AlarmClockBuff: {
+	# Pandemonium Box
+	DisplayName: Despertador
+	# Pandemonium Box
+	Description: Cuidado, podrían hacer cortocircuito
+}
+
+AlterBellBuff.DisplayName: Campana del Altar
+
+BestInstrumentBuff: {
+	DisplayName: Mejor Instrumento
+	Description: Fragmentos de tu viaje, mantenlos a salvo
+}
+
+DustChimeBuff: {
+	DisplayName: Cascabel de Polvo
+	Description: ¡La aventura comienza!
+}
+
+HarbingerOfWorkBuff: {
+	DisplayName: Heraldo del Trabajo
+	Description:
+		'''
+		Su pasión se sobrecalienta
+		Su sistema se repite
+		'''
+}
+
+MaladyBellsBuff: {
+	DisplayName: Campanas de Malestar
+	Description: Tu viaje no ha terminado, te cuidarán
+}
+
+NurseryBellsBuff: {
+	DisplayName: Campanas de Guardería
+	Description: ¡Los mejores amigos de un terrariano!
+}
+
+ScratchedGongBuff: {
+	DisplayName: Gong Rayado
+	Description: Tu magnum opus se acerca a su fin
+}
+
+SpiritDinerBuff: {
+	DisplayName: Campana del Comedor Espiritual
+	Description: Te ayudarán en tu misión
+}
+
+TubRuneBuff: {
+	DisplayName: Runa T.U.B.
+	Description: ...Nuestro mensaje final
+}
+
+VaselineBuff: {
+	DisplayName: Campana Vaselina
+	Description: Los rayos del sol brillan y siguen
+}
+
+WormBellBuff: {
+	DisplayName: Amuleto Serpenteante
+	Description: Serpenteando
+}
+
+PandoraBuff: {
+	DisplayName: Caja de Pandemonio
+	Description:
+		'''
+		Llegando demasiado tarde
+		Se acaba el tiempo 
+		'''
+}
+
+AltarBellBuff: {
+	DisplayName: Campana del Altar
+	Description: Las estrellas guiarán tu camino
+}
+
+NurseryBellBuff: {
+	DisplayName: Campana de Guardería
+	Description: Tilín-tilín
+}
+
+MorshuBuff: {
+	DisplayName: Morshu
+	Description: ¿Cuerda? ¿Gel? ¿Bombas? ¿Lo quieres? Es tuyo, amigo mío, siempre que tengas un rubí gigante...
+}
+
+DraedonCartBuff: {
+	DisplayName: Vagoneta de Draedon
+	Description: tren2
+}
+
+YhogoStickBuff: {
+	DisplayName: Pogo del Buscador de Dioses
+	Description: Estás montando un Yhogo Stick
+}
+
+BirdsculeBuff: {
+	DisplayName: Mejora Birdscule
+	Description: Mejor no dejes que te picotee el cuero cabelludo
+}
+
+DebrisMount: {
+	DisplayName: Montura de Escombros
+	Description: Antes se montaban en estas en los viejos tiempos
+}
+
+NautilusJrBuff: {
+	DisplayName: Nautilus Jr.
+	Description: Le gustan las burbujas
+}
+
+MushroomWardenBuff: {
+	DisplayName: Guardián Champiñón
+	Description: Defensor leal de los Swearshrooms
+}

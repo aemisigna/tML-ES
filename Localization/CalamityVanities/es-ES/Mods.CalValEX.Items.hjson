@@ -1,0 +1,4773 @@
+AmogusItem: {
+	# April fools!
+	DisplayName: Comunicador de Polus
+	# April fools!
+	Tooltip:
+		'''
+		Invoca a un Astronauta Stratus
+		NO OBTENIBLE FUERA DE APRIL FOOLS
+		Meter este ítem con trucos puede tener consecuencias desastrosas
+		Odia a los dinosaurios alienígenas
+		'''
+}
+
+ShadesBane: {
+	DisplayName: La Perdición de la Sombra
+	Tooltip:
+		'''
+		Hace que salgan bolas de fuego maldito de los enemigos con golpes cuerpo a cuerpo verdaderos
+		Clic derecho para liberar bolas de fuego en direcciones aleatorias junto con un dardo de ónice
+		'Espada edgy #2940358304' 
+		'''
+}
+
+Nyanthrop: {
+	DisplayName: Nyanthrop
+	Tooltip: Dispara tifones en direcciones aleatorias
+}
+
+KnowledgeMeldosaurus: {
+	DisplayName: Meldosaurus
+	Tooltip:
+		'''
+		El Meldosaurus...
+		Una temida criatura nacida de las voluntades de la decadencia. Nadie sabe por qué existe ni qué quiere...
+		¡UGH! ¡Qué alivio que se haya ido!!! ¡Tenerlo dentro me daba comezón!
+		'''
+}
+
+MeldosaurusMask: {
+	DisplayName: Máscara de Meldosaurus
+	Tooltip: ""
+}
+
+MeldosaurusTrophy: {
+	DisplayName: Trofeo de Meldosaurus
+	Tooltip: ""
+}
+
+MeldosaurusMusicBox: {
+	DisplayName: Caja de música (Meldosaurus)
+	Tooltip: ""
+}
+
+MeldosaurusBag: {
+	DisplayName: Bolsa del tesoro
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+JharimHead: {
+	DisplayName: Cabeza Decapitada de Jharim, Tirano de la Jungla
+	Tooltip:
+		'''
+		Invoca al Tirano de la Jungla
+		No funciona fuera de April Fools
+		'''
+}
+
+FogG: {
+	DisplayName: Niebla Purificada
+	Tooltip:
+		'''
+		Invoca al Fogbound
+		':Por qué:'
+		'''
+}
+
+AstJRItem: {
+	# Critters
+	DisplayName: Slime Astragelatina
+	Tooltip: ""
+}
+
+BlightolemurItem: {
+	DisplayName: Bleamur
+	Tooltip: ""
+}
+
+BlinkerItem: {
+	DisplayName: Blinker
+	Tooltip: ""
+}
+
+CrystalFlyItem: {
+	DisplayName: Mariposa Profanada
+	Tooltip: ""
+}
+
+EyedolItem: {
+	DisplayName: Eyedol
+	Tooltip: ""
+}
+
+GAstJRItem: {
+	DisplayName: Slime Astragelatina Dorado
+	Tooltip: ""
+}
+
+GodSlayerSlugItem: {
+	DisplayName: Babosa Asesina de Dioses
+	Tooltip: ""
+}
+
+GoldenIsopodItem: {
+	DisplayName: Isópodo Dorado
+	Tooltip: ""
+}
+
+GoldEyedolItem: {
+	DisplayName: Eyedol Dorado
+	Tooltip: ""
+}
+
+GoldViolemurItem: {
+	DisplayName: Violemur Dorado
+	Tooltip: ""
+}
+
+IsopodItem: {
+	DisplayName: Isópodo Abisal
+	Tooltip: ""
+}
+
+VaporoflyItem: {
+	DisplayName: Vaporofly
+	Tooltip: ""
+}
+
+NeuroFlyItem: {
+	DisplayName: Neuro Mosca
+	Tooltip: ""
+}
+
+OrthobabItem: {
+	DisplayName: Cría de Orthocera
+	Tooltip: ""
+}
+
+PerfoGrubItem: {
+	DisplayName: Larva Perforadora
+	Tooltip: ""
+}
+
+PlagueFrogItem: {
+	DisplayName: Rana Apestada
+	Tooltip: ""
+}
+
+ProvFlyItem: {
+	DisplayName: Mariposa Profanada
+	Tooltip: ""
+}
+
+SandTurtleItem: {
+	DisplayName: Tortuga de Arena
+	Tooltip: ""
+}
+
+SwearshroomItem: {
+	DisplayName: Swearshroom
+	Tooltip: ""
+}
+
+ViolemurItem: {
+	DisplayName: Violemur
+	Tooltip: ""
+}
+
+XerocodileItem: {
+	DisplayName: Xerocodile Despertado
+	Tooltip: ""
+}
+
+BlightedAstralDye: {
+	# Dyes
+	DisplayName: Tinte Etéreo
+	# Dyes
+	Tooltip: No obtenible
+}
+
+BlighedAstralPinkDye: {
+	DisplayName: Tinte Astral Marchito Púrpura
+	Tooltip: ""
+}
+
+BlighedAstralYellowDye: {
+	DisplayName: Tinte Astral Marchito Amarillo
+	Tooltip: ""
+}
+
+DraedonHologramDye: {
+	DisplayName: Tinte Holograma de Draedon
+	Tooltip: ""
+}
+
+BackpackServer: {
+	# Backs
+	DisplayName: Servidor Mochila
+	# Backs
+	Tooltip: "'Los ojos de Draedon están sobre ti' "
+}
+
+PrismShell: {
+	DisplayName: Concha Prisma
+	Tooltip: "'Qué afilado' "
+}
+
+# Balloons
+ApolloBallonSmall.DisplayName: Globo de Apollo
+
+ArtemisBalloonSmall: {
+	DisplayName: Globo de Artemis
+	Tooltip: "'Desde la Luna, Conocimiento'"
+}
+
+ApolloBalloon: {
+	DisplayName: Correa XS-03
+	Tooltip: "'Houston...'"
+}
+
+ArtemisBalloon: {
+	DisplayName: Correa XS-01
+	Tooltip: "'Cazar nunca había sido tan fácil'"
+}
+
+AuricBalloon: {
+	DisplayName: Globo Áurico
+	Tooltip: "'Tienes suerte de que no te hiciera conseguir todos los demás globos para esto.'"
+}
+
+BoB2: {
+	DisplayName: Manojo de Globos de Agua
+	Tooltip:
+		'''
+		La Chica fiestera puede atarlos por ti
+		'¿Cómo es que ninguno reventó ahí abajo?'
+		'''
+}
+
+BoxBalloon: {
+	DisplayName: Globo Cuboidal
+	Tooltip:
+		'''
+		La Chica fiestera puede atarlo por ti
+		'Sintiéndome cuadrado'
+		'''
+}
+
+ChaosBalloon: {
+	DisplayName: Globo Pez Globo
+	Tooltip:
+		'''
+		La Chica fiestera puede atarlo por ti
+		'Puede estallar en cualquier momento...'
+		'''
+}
+
+ExoTwinsBalloon: {
+	DisplayName: Manojo de Correas XS
+	Tooltip: "'sonríe.'"
+}
+
+FoilAtlantis: {
+	DisplayName: Atlantis de Aluminio
+	Tooltip: "'Una réplica miniatura inflable de la alabarda mágica'"
+}
+
+FoilSpoon: {
+	DisplayName: Cuchara de Aluminio
+	Tooltip: "'cuchara'"
+}
+
+Mirballoon: {
+	DisplayName: Globo Espejismo
+	Tooltip:
+		'''
+		La Chica fiestera puede atarlo por ti
+		'¡Mantén lejos de objetos afilados!'
+		'''
+}
+
+OldMirage: {
+	DisplayName: Globo Espejismo Antiguo
+	Tooltip:
+		'''
+		'Mantén lejos del océano'
+		'Los globos son un contaminante asqueroso'
+		'''
+}
+
+ProfanedBalloon: {
+	DisplayName: Globo Profanado
+	Tooltip: "'¡Patrocinio para Providencia!'"
+}
+
+ShuttleBalloon: {
+	DisplayName: Globo Transbordador
+	Tooltip: "'Marciano comercializable'"
+}
+
+SignusBalloon: {
+	DisplayName: Globo Farol Cósmico
+	Tooltip: "'Mantén lejos del ectoplasma'"
+}
+
+SkullBalloon: {
+	DisplayName: Globo Cráneo
+	Tooltip: "'Parece que todavía hay un cerebro dentro de este'"
+}
+
+WulfrumBalloon: {
+	DisplayName: Globo Giroscópico de Wulfrum
+	Tooltip: "'¡Estoy Usando Controles de Inclinación!'"
+}
+
+SigCape: {
+	DisplayName: Capa de Signus
+	Tooltip: Ocúltate en las sombras
+}
+
+YharimCape: {
+	DisplayName: Capa del Tirano
+	Tooltip: No es la verdadera, pero sigue siendo regia y elegante
+}
+
+YharimCapeBaby: {
+	DisplayName: Manto Áurico
+	Tooltip: "'Todavía no es la verdadera, parece un juguete de niño'"
+}
+
+DraedonHelmet: {
+	# Hats
+	DisplayName: Casco de Soldado del Arsenal
+	# Hats
+	Tooltip: Cambia de apariencia según el tipo de daño del ítem sostenido
+}
+
+Aestheticrown: {
+	DisplayName: Aestheticrest
+	Tooltip: Biteki-Chan
+}
+
+AncientAuricTeslaHelm: {
+	DisplayName: Yelmo Tesla Áurico Antiguo
+	Tooltip: Una pieza pulida de una armadura antigua
+}
+
+AncientPerennialFlower: {
+	DisplayName: Tulipán Perenne Antiguo
+	Tooltip: "'¡Soy una chica bonita!'"
+}
+
+AstrachnidCranium: {
+	DisplayName: Cráneo Astrácnido
+	Tooltip: ""
+}
+
+AstrumDeusMask: {
+	DisplayName: Máscara de Deus Marchito
+	Tooltip: "'Una estrella apagada reavivada' "
+}
+
+AureicFedora: {
+	DisplayName: Fedora Áureica
+	Tooltip: "'Solo no se la inclines a alguien directamente'"
+}
+
+BanditHat: {
+	DisplayName: Sombrero de la Bandida
+	Tooltip: ""
+}
+
+BelladonnaHat: {
+	DisplayName: Sombrero del Espíritu de Belladona
+	Tooltip: Venenoso, pero con estilo
+}
+
+BigWorm: {
+	DisplayName: Máscara del Perforador Grande
+	Tooltip: "'En la anne-delantera'"
+}
+
+BirbHat: {
+	DisplayName: Follysombrero
+	Tooltip: El sombrero único para gobernarlos a todos
+}
+
+BloodyMaryHat: {
+	DisplayName: Sombrero Bloody Mary
+	Tooltip: Sintiendo elegancia
+}
+
+CalaCirclet: {
+	DisplayName: Diadema de la Calamidad
+	Tooltip: ¿Maldita?
+}
+
+ClamMask: {
+	DisplayName: Sombrero Clamitoso
+	Tooltip: "'Eso es un typo, ¿verdad?'"
+}
+
+CoralMask: {
+	DisplayName: Máscara de Coral Eructante
+	Tooltip: "'Es hora de la gran salmuera'"
+}
+
+CosmicCone: {
+	DisplayName: El Cono Cósmico
+	Tooltip: Un sombrero tan puntiagudo que podría perforar los cielos
+}
+
+Cryocap: {
+	DisplayName: Cryocap
+	Tooltip: ¡Congelación cerebral!
+}
+
+CultistHood: {
+	DisplayName: Capucha de Asesino Cultista
+	Tooltip: ""
+}
+
+DemonshadeHood: {
+	DisplayName: Yelmo Demoniosombra Antiguo
+	Tooltip: ""
+}
+
+DevilfishMask1: {
+	DisplayName: Máscara de Pez Diablo Rizado
+	Tooltip: Edgy
+}
+
+DevilfishMask2: {
+	DisplayName: Máscara de Pez Diablo Puntiagudo
+	Tooltip: Más edgy
+}
+
+DevilfishMask3: {
+	DisplayName: Máscara de Pez Diablo Expuesto
+	Tooltip: Echando sal en la herida
+}
+
+DummyMask: {
+	DisplayName: Máscara de Dummy
+	Tooltip: El único dummy aquí eres tú
+}
+
+EarthenHelmet: {
+	DisplayName: Casco Terrestre
+	Tooltip: ""
+}
+
+EidoMask: {
+	DisplayName: Máscara de Eidolista
+	Tooltip: ""
+}
+
+FallenPaladinsHelmet: {
+	DisplayName: "Casco del Paladín Caído "
+	Tooltip: ""
+}
+
+FlakHeadCrab: {
+	DisplayName: Cangrejo Cabeza Flak
+	Tooltip: Parece que tienes un parásito
+}
+
+GammaHelmet: {
+	DisplayName: Lodo Gamma
+	Tooltip: ¡Soy radiactivo!
+}
+
+GruelingMask: {
+	DisplayName: Máscara Grueling
+	Tooltip: ¡Yaaagh!
+}
+
+MaulerMask: {
+	DisplayName: Máscara de Mauler
+	Tooltip: Destrozando caras desde los 80
+}
+
+MidWorm: {
+	DisplayName: Máscara del Perforador Mediano
+	Tooltip: "'¡Abriéndose camino hasta la cima!'"
+}
+
+OlTrashtooth: {
+	DisplayName: Ol Trashtooth
+	Tooltip: ""
+}
+
+OmegaBlue: {
+	DisplayName: Casco Omega Azul Antiguo
+	Tooltip: ¡Estás por debajo de mi atención, gusano!
+}
+
+OracleBeanie: {
+	DisplayName: Gorro del Oráculo
+	Tooltip: ""
+}
+
+PerennialFlower: {
+	DisplayName: Tulipán Perenne
+	Tooltip: "'¿Soy una chica bonita?'"
+}
+
+PolterMask: {
+	DisplayName: Máscara Rara de Polterghast
+	Tooltip: ""
+}
+
+ProfanedCultistMask: {
+	DisplayName: Máscara de Cultista Profanado
+	Tooltip: ""
+}
+
+ScornEaterMask: {
+	DisplayName: Máscara de Devorador del Desprecio
+	Tooltip: El fuego abrasador arde con fiereza
+}
+
+SeaCrown: {
+	DisplayName: Corona de la Emperatriz del Mar
+	Tooltip: Llevarla te hará sentir real
+}
+
+SlimeGodMask: {
+	DisplayName: Máscara del Núcleo del Dios Slime
+	Tooltip: ""
+}
+
+SmallWorm: {
+	DisplayName: Máscara del Perforador Pequeño
+	Tooltip: "'El más gusaniento del montón'"
+}
+
+SpectralstormHat: {
+	DisplayName: Sombrero Tormenta Espectral
+	Tooltip: "'La idea más tonta jamás enviada a sugerencias'"
+}
+
+SquidHat: {
+	DisplayName: El Sombrero Calamar
+	Tooltip: Splattershot se vende por separado
+}
+
+StonePile: {
+	DisplayName: Montón de Piedras
+	Tooltip: "'Requiere una cabeza fuerte para llevarlo'"
+}
+
+TerminalMask: {
+	DisplayName: Mascarilla Terminal
+	Tooltip:
+		'''
+		A través del derramamiento de sangre y el tumulto se alcanza una nueva visión,
+		a través de los ojos de un Dios olvidado
+		'''
+}
+
+TrueCosmicCone: {
+	DisplayName: Cono Cósmico Verdadero
+	Tooltip: "'Un sombrero cósmicamente grande tan puntiagudo que podría perforar dimensiones' "
+}
+
+UnloadedHelm: {
+	DisplayName: Yelmo Descargado
+	Tooltip: Todavía apesta
+}
+
+DraedonLeggings: {
+	# Legs
+	DisplayName: Grebas de Soldado del Arsenal
+	# Legs
+	Tooltip: ""
+}
+
+AstrachnidTentacles: {
+	DisplayName: Piernas Astrácnidas
+	Tooltip: ""
+}
+
+BrimmySpirit: {
+	DisplayName: Llamas de Azufre
+	Tooltip: ""
+}
+
+CultistLegs: {
+	DisplayName: Pantalones de Asesino Cultista
+	Tooltip: ""
+}
+
+DemonshadePants: {
+	DisplayName: Grebas Demoniosombra Antiguas
+	Tooltip: ""
+}
+
+DraedonLegs: {
+	DisplayName: Piernas de Draedon
+	Tooltip: ""
+}
+
+EarthenLeggings: {
+	DisplayName: Grebas Terrestres
+	Tooltip: ""
+}
+
+FallenPaladinsGreaves: {
+	DisplayName: "Grebas del Paladín Caído "
+	Tooltip: ""
+}
+
+PolterStockings: {
+	DisplayName: Medias Raras de Polterghast
+	Tooltip: ""
+}
+
+SignusNether: {
+	DisplayName: Espíritu Infernal
+	Tooltip: Ganando regiones infernales literales
+}
+
+TerrorLegs: {
+	DisplayName: Piernas del Terror
+	Tooltip: "'Están convulsionando'"
+}
+
+AstBandana: {
+	# Scarves
+	DisplayName: Pañuelo Astral
+	# Scarves
+	Tooltip: "'¡Moda de la Era Espacial!'"
+}
+
+BloodwormScarf: {
+	DisplayName: Bufanda de Gusano de Sangre
+	Tooltip: ¡Esa criatura sangrienta intenta enterrarse en tu cuello!
+}
+
+CosmicWormScarf: {
+	DisplayName: Bufanda del Gusano Cósmico
+	Tooltip: "'¡Moda Espaciotemporal!'"
+}
+
+DesertMedallion: {
+	DisplayName: Medallón del Desierto Económico
+	Tooltip: Porque el otro es demasiado maldito para usarlo
+}
+
+PermaScarf: {
+	DisplayName: Bufanda de Permafrost
+	Tooltip: Mantente fresco
+}
+
+ProviCrystal: {
+	DisplayName: Amuleto Impío
+	Tooltip: Un tesoro raro regalado por la diosa profanada
+}
+
+RapturedWormScarf: {
+	DisplayName: Bufanda del Gusano Extasiado
+	Tooltip: ¡Tan estilosa que dobla el tejido de la realidad!
+}
+
+SignusEmblem: {
+	DisplayName: Emblema de Signus
+	Tooltip: Contiene algo de energía abisal
+}
+
+StormBandana: {
+	DisplayName: Pañuelo de Tormenta
+	Tooltip: "'¡Moda Electrificante!'"
+}
+
+UniversalWormScarf: {
+	DisplayName: Bufanda del Gusano Universal
+	Tooltip: "'Cómetelo todo, sin doblar la realidad' "
+}
+
+YharonShackle: {
+	DisplayName: Grillete de Yharon
+	Tooltip: Apenas te queda...
+}
+
+AureusShield: {
+	# Shields
+	DisplayName: Baluarte de Aureus
+	# Shields
+	Tooltip: Más pequeño en la práctica
+}
+
+EarthShield: {
+	DisplayName: Escudo Torre del Elemental
+	Tooltip: "'¡Se ve robusto, pero en realidad es piedra blanda e inútil!'"
+}
+
+TrilobiteShield: {
+	DisplayName: Trilobroquel
+	Tooltip: "'Un escudo antiguo demasiado viejo para bloquear ataques'"
+}
+
+AresChestplate: {
+	# Shirts
+	DisplayName: Pechera Modelo XF
+	# Shirts
+	Tooltip:
+		'''
+		Invoca cuatro armas de juguete que se extienden a tu alrededor
+		'¿Qué quieres decir con que no se ven igual?!?' 
+		'''
+}
+
+DraedonChestplate: {
+	DisplayName: Pechera de Soldado del Arsenal
+	Tooltip: Cambia de apariencia según el tipo de daño del ítem sostenido
+}
+
+AstrachnidThorax: {
+	DisplayName: Tórax Astrácnido
+	Tooltip: ""
+}
+
+BelladonnaCloak: {
+	DisplayName: Capa del Espíritu de Belladona
+	Tooltip: Lo último en moda, todo natural
+}
+
+BloodyMaryDress: {
+	DisplayName: Vestido Bloody Mary
+	Tooltip: ""
+}
+
+BrimmyBody: {
+	DisplayName: Traje de Elemental de Azufre
+	Tooltip: ""
+}
+
+Cryocoat: {
+	DisplayName: Cryocoat
+	Tooltip: ""
+}
+
+CultistRobe: {
+	DisplayName: Túnica de Asesino Cultista
+	Tooltip: ""
+}
+
+DemonshadeRobe: {
+	DisplayName: Pechera Demoniosombra Antigua
+	Tooltip: ""
+}
+
+DraedonBody: {
+	DisplayName: Tórax de Draedon
+	Tooltip: ""
+}
+
+EarthenBreastplate: {
+	DisplayName: Pechera Terrestre
+	Tooltip: ""
+}
+
+FallenPaladinsPlateMail: {
+	DisplayName: Cota de Placas del Paladín Caído
+	Tooltip: ""
+}
+
+PerennialDress: {
+	DisplayName: Vestido Perenne
+	Tooltip: Floreciendo
+}
+
+Polterskirt: {
+	DisplayName: Vestido Raro de Polterghast
+	Tooltip: ""
+}
+
+ProfanedCultistRobes: {
+	DisplayName: Túnicas de Cultista Profanado
+	Tooltip: ""
+}
+
+ReaperSharkArms: {
+	DisplayName: Brazos de Tiburón Segador
+	Tooltip: ¡Ir al gimnasio nunca fue tan fácil!
+}
+
+BurningEye: {
+	# Transformations
+	DisplayName: Ojo Ardiente
+	# Transformations
+	Tooltip: Envuelve al portador en Llamas de Azufre
+}
+
+CloudWaistbelt: {
+	DisplayName: Atuendo Valkyriano
+	Tooltip: Rodea al portador con nubes
+}
+
+ProtoRing: {
+	DisplayName: Anillo Prototipo
+	Tooltip: Transforma al portador en un pequeño mech
+}
+
+SandyBangles: {
+	DisplayName: Brazaletes Arenosos
+	Tooltip: Envuelve al portador en arena
+}
+
+Signus: {
+	DisplayName: Amuleto del Crepúsculo
+	Tooltip:
+		'''
+		Transforma al portador en un espíritu infernal 
+		'Uno con el vacío'
+		'''
+}
+
+AeroWings: {
+	# Wings
+	DisplayName: Alas Aero
+	# Wings
+	Tooltip:
+		'''
+		'Es un día ventoso'
+		Velocidad horizontal: 1
+		Multiplicador de aceleración: 1
+		Tiempo de vuelo: 32 
+		'''
+}
+
+FollyWings: {
+	DisplayName: Alas Folly
+	Tooltip:
+		'''
+		'Vuela como un águila'
+		Velocidad horizontal: 9
+		Multiplicador de aceleración: 2.5
+		Tiempo de vuelo: 210 
+		'''
+}
+
+GodspeedBoosters: {
+	DisplayName: Propulsadores Velocidad Divina
+	Tooltip:
+		'''
+		'¡Propulsión devota!'
+		Velocidad horizontal: 9
+		Multiplicador de aceleración: 2.7
+		Tiempo de vuelo: 200 
+		'''
+}
+
+JunglePhoenixWings: {
+	DisplayName: Alas de Pollo
+	Tooltip:
+		'''
+		'Calientes y listas'
+		Velocidad horizontal: 11.5
+		Multiplicador de aceleración: 2.9
+		Tiempo de vuelo: 140 
+		'''
+}
+
+LeviWings: {
+	DisplayName: Alas de Aleta del Leviatán
+	Tooltip:
+		'''
+		'Flip flop'
+		Velocidad horizontal: 6.75
+		Multiplicador de aceleración: 1.4
+		Tiempo de vuelo: 120 
+		'''
+}
+
+OldVoidWings: {
+	DisplayName: Alas Revacías
+	Tooltip:
+		'''
+		'Literalmente sacado de la oscuridad'
+		Velocidad horizontal: 9
+		Multiplicador de aceleración: 2.5
+		Tiempo de vuelo: 250 
+		'''
+}
+
+OldWings: {
+	DisplayName: Alas del Viejo Duque
+	Tooltip:
+		'''
+		'¡Propulsión tóxica!'
+		Velocidad horizontal: 9.5
+		Multiplicador de aceleración: 2.7
+		Tiempo de vuelo: 190 
+		'''
+}
+
+PlaguePack: {
+	DisplayName: Beelzebooster
+	Tooltip:
+		'''
+		'Y se preguntan cómo las abejas logran despegar...'
+		Velocidad horizontal: 7.8
+		Multiplicador de aceleración: 1.9
+		Tiempo de vuelo: 170 
+		'''
+}
+
+PlaugeWings: {
+	DisplayName: Alas del Portador de la Plaga
+	Tooltip:
+		'''
+		'Nanomáquinas no incluidas'
+		Velocidad horizontal: 7.75
+		Multiplicador de aceleración: 1.5
+		Tiempo de vuelo: 150 
+		'''
+}
+
+ScryllianWings: {
+	DisplayName: Alas Scryllian
+	Tooltip:
+		'''
+		'¡LEVÁNTATE!'
+		Velocidad horizontal: 6.5
+		Multiplicador de aceleración: 1
+		Tiempo de vuelo: 60 
+		'''
+}
+
+TerminalWings: {
+	DisplayName: Alas de Termina
+	Tooltip:
+		'''
+		A través de la muerte y la destrucción se alcanzan nuevas alturas
+		en alas de una mariposa pandémica 
+		Velocidad horizontal: 1
+		Multiplicador de aceleración: 1
+		Tiempo de vuelo: 60 
+		'''
+}
+
+VoidWings: {
+	DisplayName: Alas del Vacío
+	Tooltip:
+		'''
+		'Deja que la oscuridad te lleve'
+		Velocidad horizontal: 9
+		Multiplicador de aceleración: 2.5
+		Tiempo de vuelo: 230 
+		'''
+}
+
+WulfrumHelipack: {
+	DisplayName: Helipack de Wulfrum
+	Tooltip:
+		'''
+		Extremadamente defectuoso
+		Velocidad horizontal: 0.8
+		Multiplicador de aceleración: 0.8
+		Tiempo de vuelo: 0.6 
+		'''
+}
+
+MawHook: {
+	# Hooks
+	DisplayName: Ganchocolumna Cragmaw
+	# Hooks
+	Tooltip:
+		'''
+		'¡Poder de tracción prehistórico!'
+		Alcance: 31
+		Velocidad de lanzamiento: 18
+		Velocidad de atracción: 17 
+		'''
+}
+
+MawTeeth.DisplayName: Mandíbula de las Fauces
+
+PolterHook: {
+	DisplayName: Cadenas Fantasmales
+	Tooltip:
+		'''
+		'¡Deja que las almas en sufrimiento eterno te arrastren hacia delante!'
+		Alcance: 46
+		Velocidad de lanzamiento: 16
+		Velocidad de atracción: 20 
+		'''
+}
+
+PhantomHook.DisplayName: Gancho Fantasma
+
+ProfanedEnergyHook: {
+	DisplayName: Gancho de Energía Profanada
+	Tooltip:
+		'''
+		'Tira de las cadenas sagradas'
+		Alcance: 37
+		Velocidad de lanzamiento: 16
+		Velocidad de atracción: 30 
+		'''
+}
+
+ProfanedHook.DisplayName: Gancho Profanado
+
+RavaHook: {
+	DisplayName: Garra del Devastador
+	Tooltip:
+		'''
+		'Aquí para sacarte los ojos'
+		Alcance: 43
+		Velocidad de lanzamiento: 18
+		Velocidad de atracción: 20 
+		'''
+}
+
+RavaClaw.DisplayName: Garra del Devastador
+
+ScavaHook: {
+	DisplayName: Garra del Saqueador Antigua
+	Tooltip:
+		'''
+		'¡Aquí para sacarte los ojos, estilo rúnico!'
+		Alcance: 50
+		Velocidad de lanzamiento: 19
+		Velocidad de atracción: 25 
+		'''
+}
+
+ScavaClaw.DisplayName: Garra del Saqueador
+
+XMLightningHook: {
+	DisplayName: Gancho XM-Rayo
+	Tooltip:
+		'''
+		'¡Agarra a velocidad del rayo!'
+		No se puede usar mientras el Estado de Caos está activo
+		Alcance: 60
+		Velocidad de lanzamiento: 62
+		Velocidad de atracción: 35 
+		'''
+}
+
+THanosHook.DisplayName: Gancho T Hanos
+
+ExodiumMoon: {
+	# Misc
+	DisplayName: Orbitador de Exodio
+	# Misc
+	Tooltip: Un mundo en revolución
+}
+
+AntarcticEssence: {
+	# Light Pets
+	DisplayName: Esencia Antártica
+	# Light Pets
+	Tooltip:
+		'''
+		NO OBTENIBLE
+		No hace nada por ahora 
+		'''
+}
+
+AstralBinoculars: {
+	DisplayName: Binoculares Astrales
+	# Provides a moderate amount of light in the abyss
+	Tooltip:
+		'''
+		Invoca un Tour de Miradores
+		'Puedes ver algo a lo lejos'
+		Proporciona una cantidad moderada de luz en el Abismo 
+		'''
+}
+
+ConstructionRemote: {
+	DisplayName: Control de Construcción
+	Tooltip:
+		'''
+		Invoca un pequeño excavador que te sigue e ilumina tu camino
+		¡Precaución: emparejarlo con una unidad de reparación resultará en supercarga! 
+		'''
+}
+
+CoreofVanity: {
+	DisplayName: Núcleo de Vanidad
+	Tooltip:
+		'''
+		Invoca Espíritus de Calor mascota y un Patinador Solar para que te sigan
+		'El congelado se está tomando un descanso'
+		Proporciona una gran cantidad de luz en el Abismo 
+		'''
+}
+
+CosmicBubble: {
+	DisplayName: Burbuja Cósmica
+	Tooltip:
+		'''
+		Invoca al asistente cósmico para ayudarte en tus esfuerzos
+		'La mascota de desarrollador de Enreden; sin él este mod probablemente no existiría' 
+		Proporciona una cantidad gigantesca de luz en el Abismo
+		'''
+}
+
+DarksunSigil: {
+	DisplayName: Sello del Sol Oscuro
+	Tooltip:
+		'''
+		Invoca Espíritus del Sol Oscuro para que te sigan
+		Proporciona una cantidad gigantesca de luz en el Abismo 
+		'''
+}
+
+DivineFly: {
+	DisplayName: Mosca Divina
+	Tooltip:
+		'''
+		Invoca a una Gran Entidad
+		'Ascensión'
+		Proporciona una gran cantidad de luz en el Abismo 
+		'''
+}
+
+EssenceofDisorder: {
+	DisplayName: Esencia del Desorden
+	Tooltip:
+		'''
+		Invoca un par de Espíritus de Calor para iluminar tu camino 
+		'Ven a arder conmigo' 
+		Proporciona una cantidad moderada de luz en el Abismo
+		'''
+}
+
+EssenceofYeet: {
+	DisplayName: Esencia del Yeet
+	Tooltip:
+		'''
+		Invoca un pequeño Patinador Solar
+		'Pandilla pez sol, pandilla pez sol.'
+		Proporciona una pequeña cantidad de luz en el Abismo 
+		'''
+}
+
+HolyTorch: {
+	DisplayName: La Antorcha Sagrada
+	Tooltip:
+		'''
+		Atrae a un hada molesta
+		Proporciona una gran cantidad de luz en el Abismo 
+		'''
+}
+
+PhantominaJar: {
+	DisplayName: Fantasma en un Frasco
+	Tooltip:
+		'''
+		Invoca un Espíritu Fantasmal para iluminar tu camino
+		'Ni se te ocurra.'
+		Proporciona una gran cantidad de luz en el Abismo 
+		'''
+}
+
+ProfanedHeart: {
+	DisplayName: Corazón Profanado
+	Tooltip:
+		'''
+		Invoca a una Providencia en miniatura, acompañada de sus guardianes
+		'Nada más que las más puras de las furias'
+		Proporciona una gran cantidad de luz en el Abismo 
+		'''
+}
+
+SunBun: {
+	DisplayName: Conejito Solar
+	Tooltip:
+		'''
+		Invoca al Conejito Solar
+		Aumenta un poco la aparición de conejos
+		'El conejito por encima de todos'
+		Proporciona una gran cantidad de luz en el Abismo
+		'''
+}
+
+SuperstitiousJewel: {
+	DisplayName: Joya Supersticiosa
+	Tooltip:
+		'''
+		Invoca a un Elemental, dos Runas Endotérmicas y dos Tiburones Fantasma para que te sigan, emitiendo una cantidad loca de luz
+		'Parece de cristal, pero la magia es real' 
+		Proporciona una cantidad colosal de luz en el Abismo
+		'''
+}
+
+WulfrumTransmitter: {
+	DisplayName: Transmisor de Wulfrum
+	Tooltip:
+		'''
+		Invoca un Amplificador de Wulfrum Prototipo
+		'Hace un montón de ruidos de conexión'
+		Proporciona una pequeña cantidad de luz en el Abismo 
+		'''
+}
+
+AuricCarKey: {
+	# Mounts
+	DisplayName: Llave del Auto Áurico
+	# Mounts
+	Tooltip:
+		'''
+		Invoca una montura Tesla Áurico montable
+		Reduce mortalmente la vida y el daño si hay un jefe cerca 
+		'Auto de Yharim'
+		'''
+}
+
+BloodstoneCarriageItem: {
+	DisplayName: Invitación de Piedra de Sangre
+	Tooltip:
+		'''
+		Invoca una montura Carruaje de Llamasangre montable
+		Reduce el daño y la vida mientras hay un jefe cerca 
+		'¡Una invitación a dar un alegre paseo en un vehículo hecho de los fallecidos!'
+		'''
+}
+
+CrackedFossil: {
+	DisplayName: Fósil de Cangrejo
+	Tooltip:
+		'''
+		Invoca una montura Cangrejo Anthozoan montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'Se está moviendo...'
+		'''
+}
+
+FloatyCarpetItem: {
+	DisplayName: Alfombra Flotante
+	Tooltip:
+		'''
+		Invoca una montura de alfombra flotante montable
+		'¡Una alfombra flotante hecha de un Flotador Marino de verdad!'
+		'''
+}
+
+GodRiderItem: {
+	DisplayName: Kit del Jinete de Dioses
+	Tooltip:
+		'''
+		Invoca una montura Hoverbike del Jinete de Dioses montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'Devora millas en un parpadeo'
+		'''
+}
+
+HadarianTail: {
+	DisplayName: Huevo Hadariano
+	Tooltip:
+		'''
+		Invoca una montura Hadariana montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'''
+}
+
+InfectedController: {
+	DisplayName: Joystick Enfermo
+	Tooltip:
+		'''
+		Invoca una montura Portador de la Plaga montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'Emite un zumbido de 8 bits'
+		'''
+}
+
+LeviathanEgg: {
+	DisplayName: Huevo del Leviatán
+	Tooltip:
+		'''
+		Invoca una montura Leviatán joven montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'''
+}
+
+PopUpShop: {
+	DisplayName: Tienda Emergente
+	Tooltip:
+		'''
+		Invoca una montura Morshu montable
+			Consume una Moneda de Cobre de las ranuras de monedas cada 5 segundos y se vuelve supersónica
+			Si no hay Monedas de Cobre en las ranuras, Morshu queda lisiado 
+		'''
+}
+
+ProfanedBattery: {
+	DisplayName: Núcleo de Cristal Sagrado
+	Tooltip: Núcleo cargado de un Guardián Profanado
+}
+
+ProfanedCycleItem: {
+	DisplayName: Ciclo Profanado
+	Tooltip:
+		'''
+		Invoca una montura Ciclo Profanado montable
+		Reduce drásticamente la vida y el daño si hay un jefe cerca 
+		'Cuando necesitas llegar a algún lado, con estilo'
+		'''
+}
+
+ProfanedFrame: {
+	DisplayName: Bastidor Profanado
+	Tooltip: Algún tipo de armazón antiguo
+}
+
+ProfanedWheels: {
+	DisplayName: Ruedas Ardientes
+	Tooltip: "'Ruedas hechas de pura energía profanada'"
+}
+
+RadJuice: {
+	DisplayName: Cartón Radiactivo
+	Tooltip:
+		'''
+		Invoca una montura Terror Nuclear montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'Probablemente no deberías beber esto'
+		'''
+}
+
+ShadowShedding: {
+	DisplayName: Muda de Sombra
+	Tooltip:
+		'''
+		Invoca una montura cosa de la Mente Colmena montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'¡Infestación!'
+		'''
+}
+
+SilvaJeepItem: {
+	DisplayName: Llaves del Jeep de Silva
+	Tooltip:
+		'''
+		Invoca una montura Jeep Silvano montable
+		Reduce enormemente la vida y el daño si hay un jefe cerca 
+		'Es hora de un safari'
+		'''
+}
+
+WulfrumKeys: {
+	DisplayName: Llaves de Wulfrum
+	Tooltip:
+		'''
+		Invoca una montura Tanque de Wulfrum montable
+		Reduce el daño y la vida cuando hay un jefe cerca 
+		'Ya sabes cómo operarlo... de alguna forma...'
+		'''
+}
+
+YharonsAnklet: {
+	DisplayName: Libro de Mensaje Infernal
+	Tooltip:
+		'''
+		Invoca una montura Yharon menor montable
+		'Este es mi mensaje...' 
+		'''
+}
+
+AlarmClock: {
+	# Pandemonium Box
+	DisplayName: Despertador
+	# Pandemonium Box
+	Tooltip: Piezas de repuesto para tus viajes
+}
+
+NurseryBell: {
+	DisplayName: Campana de Guardería
+	Tooltip: Nuestros mejores amigos...
+}
+
+DustChime: {
+	DisplayName: Cascabel de Polvo
+	Tooltip: ¡Los vientos del progreso!
+}
+
+BestInstrument: {
+	DisplayName: Mejor Instrumento
+	Tooltip: Piezas de tu viaje
+}
+
+HarbingerOfWork: {
+	DisplayName: Heraldo del Trabajo
+	Tooltip: ¡Se siente como amor de robot!
+}
+
+MaladyBells: {
+	DisplayName: Campanas de Malestar
+	Tooltip: ¡Empezando de nuevo!
+}
+
+SpiritDinerBell: {
+	DisplayName: Timbre Muerto
+	Tooltip: A mitad de camino
+}
+
+AltarBell: {
+	DisplayName: Campana del Altar
+	Tooltip: Los dioses de los cielos en la palma de tu mano
+}
+
+TubRune: {
+	DisplayName: Runa T.U.B.
+	Tooltip: Cambia el mundo...
+}
+
+VaselineBell: {
+	DisplayName: Campana Vaselina
+	Tooltip: "'¡De pronto cobro vida, es un renacimiento!'"
+}
+
+WormBell: {
+	DisplayName: Amuleto Serpenteante
+	Tooltip:
+		'''
+		'¿Pero te suena alguna campana?
+		¿Que no menciono el infierno?' 
+		'''
+}
+
+ScratchedGong: {
+	DisplayName: Gong Rayado
+	Tooltip:
+		'''
+		'Tu paciencia es admirable
+		Pronto serás recompensado...'
+		'''
+}
+
+PandemoniumBox: {
+	DisplayName: Caja de Pandemonio
+	Tooltip:
+		'''
+		El final de nuestro viaje, tu cénit
+		Invoca a cada mascota que hayas encontrado en tu camino
+		'Y ojalá yo fuera el único en irse'
+		'''
+}
+
+NuggetLicense: {
+	# Town pets
+	DisplayName: Licencia de Nugget
+	# Town pets
+	Tooltip: Úsala para adoptar un nugget para tu pueblo
+}
+
+BubbleMachine: {
+	# Tiles
+	DisplayName: Burbujeador Efervescente
+	# Tiles
+	Tooltip: "'Eso es, como, genial maaan'"
+}
+
+MeldBlockItem.DisplayName: Bloque Meld
+
+WulfrumPlating: {
+	DisplayName: Ladrillo de Wulfrum
+	Tooltip: ""
+}
+
+ThanatosPlating: {
+	DisplayName: Blindaje XM-05
+	Tooltip: ""
+}
+
+ThanatosPlatingVent: {
+	DisplayName: Blindaje XM-05 (Ventilación)
+	Tooltip: ""
+}
+
+MeldosaurusRelic: {
+	DisplayName: Reliquia de Meldosaurus
+	Tooltip: ""
+}
+
+BleachBallItem: {
+	DisplayName: Pelota de Playa Blanqueadora
+	Tooltip: Cuidado, podría reventar
+}
+
+ChaoticPuffball: {
+	DisplayName: Bola de Esporas Caótica
+	Tooltip: "'Probablemente no detone...'"
+}
+
+BlightedAstralPinkDye: {
+	DisplayName: Tinte Astral Marchito Rosa
+	Tooltip: ""
+}
+
+BlightedAstralYellowDye: {
+	DisplayName: Tinte Astral Marchito Amarillo
+	Tooltip: ""
+}
+
+ApolloBalloonSmall: {
+	DisplayName: Globo de Apollo
+	Tooltip: "'Agitado a ir entre bestias salvajes'"
+}
+
+Eidcape: {
+	DisplayName: Capa del Eidolista
+	Tooltip: Se oyen susurros de las profundidades a través de los tejidos de esta tela eldritch...
+}
+
+Birbhat: {
+	DisplayName: Follysombrero
+	Tooltip: "'El sombrero único para gobernarlos a todos'"
+}
+
+Calacirclet: {
+	DisplayName: Diadema de la Calamidad
+	Tooltip: "'¿Maldita?'"
+}
+
+ShroomiteVisage: {
+	DisplayName: Semblante de Piñonita
+	Tooltip: ""
+}
+
+Permascarf: {
+	DisplayName: Bufanda de Permafrost
+	Tooltip: Mantente fresco
+}
+
+Polterhook: {
+	DisplayName: Poltergancho
+	Tooltip: ""
+}
+
+MysteryPainting: {
+	DisplayName: Pintura Misteriosa
+	Tooltip: <right> para una pintura aleatoria
+}
+
+NuclearFumes: {
+	DisplayName: Humos Nucleares
+	Tooltip: "'No los inhales'"
+}
+
+OldCassette: {
+	DisplayName: Casete Viejo
+	Tooltip:
+		'''
+		Marca este ítem como favorito para activar estelas del jugador
+		'Contiene algunos episodios de anime edgy de los 90'
+		'''
+}
+
+AcidLamp: {
+	DisplayName: Lámpara Ácida
+	Tooltip:
+		'''
+		Invoca a una Ninfa Patinadora Sulfurosa
+		'Parece haber un huevo dentro'
+		'''
+}
+
+AerialiteBubble: {
+	DisplayName: Burbuja de Aerialita
+	Tooltip:
+		'''
+		Invoca a un dúo de Slimes Aero
+		'Una esfera rara cubierta de gel ligero'
+		'''
+}
+
+ArmoredScrap: {
+	DisplayName: Chatarra Blindada
+	Tooltip:
+		'''
+		Invoca a una pequeña Sonda de Estasis
+		'¡No se puede recuperar, pero atrae a una sonda amiga!'
+		'''
+}
+
+AstraEGGeldon: {
+	DisplayName: AstraEGGeldon
+	Tooltip:
+		'''
+		Invoca a una amalgama calamitosa para que te acompañe
+		'Ahora puedes dejar de preguntar cómo nací'
+		'''
+}
+
+AstralInfectedIcosahedron: {
+	DisplayName: Icosaedro Infectado Astral
+	Tooltip:
+		'''
+		Se transforma en un Aureófago
+		'¡Tira por iniciativa!'
+		'''
+}
+
+AuricBottle: {
+	DisplayName: Botella Áurica
+	Tooltip: Invoca a un Calamar Divino para que te siga
+}
+
+BambooStick: {
+	DisplayName: Extraño Palo de Bambú
+	Tooltip:
+		'''
+		Invoca a un Panda Rojo mascota
+		'Su aroma atrae a un animal único'
+		'''
+}
+
+BleuBlob: {
+	DisplayName: Bola Bleu
+	Tooltip: Invoca a unos tipos azules geniales
+}
+
+BrimberryItem: {
+	DisplayName: Baya de Azufre
+	Tooltip:
+		'''
+		Invoca a una fruta antigua
+		'A menudo usada como ofrenda a la Elemental de Azufre'
+		'''
+}
+
+BubbledFin: {
+	DisplayName: Aleta Burbujeada
+	Tooltip:
+		'''
+		Invoca a un Smauler
+		'¿Cómo llegó ahí siquiera?'
+		'''
+}
+
+BubbleGum: {
+	DisplayName: Chicle de Burbuja
+	Tooltip: Invoca a una entidad divina
+}
+
+CalamitousSoulArtifact: {
+	DisplayName: Artefacto del Alma Calamitosa
+	Tooltip:
+		'''
+		Entropía
+		Invoca a un necrópodo benevolente
+		[c/C61B40:Tras décadas arrastrándose en agonía eterna]
+		[c/C61B40:el cementerio móvil por fin encuentra un verdadero amigo.]
+		'''
+}
+
+CanofWyrms: {
+	DisplayName: Lata de Gusanos
+	Tooltip:
+		'''
+		Invoca a un Pulgagusan Eidolon
+		'Es sorprendente cómo lo profundo se adaptó a los desechos de arriba'
+		'''
+}
+
+CharredChopper: {
+	DisplayName: Cuchilla Carbonizada
+	Tooltip:
+		'''
+		Invoca a un Fishron Sulfuroso decapitado que inhaló humos de Escoria
+		'¡Un cuchillo ardiente de mil grados!'
+		'''
+}
+
+ClamHermitMedallion: {
+	DisplayName: Medallón del Ermitaño Almeja
+	Tooltip:
+		'''
+		Invoca a un Ermitaño Almeja
+		'Agararlo te deja las manos viscosas'
+		'''
+}
+
+ClawShroom: {
+	DisplayName: Garrachampiñón
+	Tooltip:
+		'''
+		Invoca a un pequeño Crabulon
+		'¡Snip snap!'
+		'''
+}
+
+CoolShades: {
+	DisplayName: Gafas Cool
+	Tooltip:
+		'''
+		Invoca a un Cryogen en miniatura
+		'Rad'
+		'''
+}
+
+CooperShortsword: {
+	DisplayName: Espada Corta Cooper
+	Tooltip:
+		'''
+		Invoca a un Cryogen pequeño de forma rara
+		'Libera el poder de lo cool'
+		'''
+}
+
+CorrodedCleaver: {
+	DisplayName: Cuchilla Corroída
+	Tooltip:
+		'''
+		Invoca a un Fishron Sulfuroso decapitado
+		'Rebanar y picar'
+		'''
+}
+
+CosmicRapture: {
+	DisplayName: Éxtasis Cósmico
+	Tooltip: Invoca al Devorador del cosmos para que te siga
+}
+
+Cube: {
+	DisplayName: Un Cubo
+	Tooltip:
+		'''
+		Invoca un cubo
+		Provoca que deidades estelares enfermas se marchiten
+		'Heil al Señor del Cubo'
+		'''
+}
+
+CursedLockpick: {
+	DisplayName: Ganzúa Maldita
+	Tooltip:
+		'''
+		Invoca a un Mímico Oxidado
+		'Oxidado y crusty'
+		'''
+}
+
+DecayingFishtail: {
+	DisplayName: Cola de Pez en Descomposición
+	Tooltip:
+		'''
+		Invoca a un pez gato mascota...?
+		'Solo una abominación de pesadilla impía querría algo tan pútrido'
+		'''
+}
+
+DeepseaLantern: {
+	DisplayName: Farol del Mar Profundo
+	Tooltip:
+		'''
+		Invoca a una Anguila Abisal
+		"'Podría atraer a una criatura en busca de comida'"
+		'''
+}
+
+DespairMask: {
+	DisplayName: Máscara de la Desesperación
+	Tooltip:
+		'''
+		Invoca a una piedra triste
+		'Apesta a depresión'
+		'''
+}
+
+DocilePheromones: {
+	DisplayName: Feromonas Dóciles
+	Tooltip:
+		'''
+		Invoca a un pequeño Enjambrador Dracónico
+		'Extracto de limón, con un toque de pimienta'
+		'''
+}
+
+DoggoCollar: {
+	DisplayName: Collar de Perrito
+	Tooltip: Invoca a un Chihuahua mascota
+}
+
+DriedLocket: {
+	DisplayName: Medallón Seco
+	Tooltip:
+		'''
+		Invoca a una Peste del Desierto
+		'Hay un gusano retorciéndose dentro'
+		'''
+}
+
+DustyBadge: {
+	DisplayName: Insignia Polvorienta
+	Tooltip:
+		'''
+		Invoca al Bisnieto del Gran Tiburón de Arena
+		'Desamparado hasta el núcleo'
+		'''
+}
+
+Eggstone: {
+	DisplayName: Piedrahuevo
+	Tooltip:
+		'''
+		Eclosiona en un bebé Bohldohr
+		'Espera, ¿¡está vivo!?'
+		'''
+}
+
+CloudCandy: {
+	DisplayName: Dulce de Nube
+	Tooltip:
+		'''
+		Invoca a un Elemental de Nube en Miniatura
+		'¡El dulce favorito de un elemental!'
+		'''
+}
+
+MiniatureElementalHeart: {
+	DisplayName: Corazón Elemental en Miniatura
+	Tooltip:
+		'''
+		Invoca a todos los Elementales en Miniatura
+		'Es como si estuvieras dirigiendo una guardería o algo...'
+		'''
+}
+
+RareBrimtulip: {
+	DisplayName: Brimtulipán Raro
+	Tooltip:
+		'''
+		Invoca a un Brimling Raro
+		'¡La flor favorita de un elemental!'
+		'''
+}
+
+SmallSandPail: {
+	DisplayName: Lámpara de Arena Pequeña
+	Tooltip:
+		'''
+		Invoca a un Elemental de Arena en Miniatura
+		'¡El juguete favorito de un elemental!'
+		'''
+}
+
+SmallSandPlushie: {
+	DisplayName: Peluche de Arena Pequeño
+	Tooltip:
+		'''
+		Invoca a un Elemental de Arena en Miniatura Raro
+		'¡El juguete favorito de un elemental!'
+		'''
+}
+
+StrangeMusicNote: {
+	DisplayName: Extraña Nota Musical
+	Tooltip:
+		'''
+		Invoca a una Niña Sirena Vibrante
+		'¡El sonido favorito de un elemental!'
+		'''
+}
+
+ExoGemstone: {
+	DisplayName: Exogema
+	Tooltip: Invoca al ensemble exo completo miniaturizado
+}
+
+GeminiMarkImplants: {
+	DisplayName: Implantes Marca Géminis
+	Tooltip:
+		'''
+		Invoca réplicas más pequeñas de las naves de vigilancia avanzadas
+		'Visión 22'
+		'''
+}
+
+GunmetalRemote: {
+	DisplayName: Control de Gunmetal Oscuro
+	Tooltip:
+		'''
+		Invoca una versión más corta y amigable del excavador de alta tecnología
+		'T Hanos'
+		'''
+}
+
+OminousCore: {
+	DisplayName: Núcleo Funesto
+	Tooltip:
+		'''
+		Invoca una variante de juguete de la monstruosidad diabólica
+		'El mecanismo en descomposición emite humos sorprendentemente amigables'
+		'''
+}
+
+ExtraFluffyFeather: {
+	DisplayName: Pluma Extra Esponjosa
+	Tooltip:
+		'''
+		Invoca a un Mini Pájaro
+		'Atrae al último de una especie'
+		'''
+}
+
+ExtraFluffyFeatherClump: {
+	DisplayName: Montón de Plumas Extra Esponjosas
+	Tooltip:
+		'''
+		Invoca bestias tan horribles que morirás
+		'ISEJFDOIJNJSNFDGUISDBJNGSDJG'
+		'''
+}
+
+Finality: {
+	DisplayName: Finalidad
+	Tooltip:
+		'''
+		Invoca a una Roca mascota
+		La piedra de antes era solo un caparazón para la verdadera creación, 
+		la primera y favorita fuente de entretenimiento del Creador
+		'''
+}
+
+FlareRune: {
+	DisplayName: Runa de Llamarada
+	Tooltip:
+		'''
+		Invoca a Avalon, un Guardián Profanado ascendido impregnado de energía profanada y cósmica
+		'WuH'
+		'''
+}
+
+FROM: {
+	DisplayName: Memoria Solo-Rana
+	Tooltip:
+		'''
+		Invoca a una entidad privada virtual
+		'¿También hay un código de serie...?'
+		'''
+}
+
+Geminga: {
+	DisplayName: Geminga
+	Tooltip:
+		'''
+		Invoca un enjambre de 11 deidades estelares menores
+		'Una estrella altamente condensada'
+		'''
+}
+
+GodSlayerDoll: {
+	DisplayName: Muñeco Asesino de Dioses
+	Tooltip:
+		'''
+		Invoca a un pequeño Asesino Cósmico, una Sonda de Estasis y una Energía Oscura
+		'Los centinelas reconocerán a un nuevo líder'
+		'''
+}
+
+HeartoftheSharks: {
+	DisplayName: Corazón de los Tiburones
+	Tooltip:
+		'''
+		Invoca a un trío de tiburones
+		'¡Es hora de la semana del tiburón!'
+		'''
+}
+
+InkyArtifact: {
+	DisplayName: Artefacto de Tinta
+	Tooltip:
+		'''
+		Invoca a un par de Cultistas Omega Azul
+		'¡Por Omega versión 50% de descuento!!'
+		'''
+}
+
+InkyPollution: {
+	DisplayName: Contaminación de Tinta
+	Tooltip:
+		'''
+		Invoca a un bebé calamar
+		'Es una lástima lo que le hacemos al medio ambiente'
+		'''
+}
+
+IonizedJellyCrystal: {
+	DisplayName: Cristal de Gelatina Ionizado
+	Tooltip:
+		'''
+		Invoca la cumbre de la evolución de los slimes
+
+
+		'¿Alguna vez oíste la tragedia de Goozma, la Deidad Amorfa? Creo que no. No es una historia que el Tirano te contaría.
+		Es una leyenda de los Overseers. Goozma era la evolución definitiva de todos los slimes, tan poderoso que podía influir en las células que componen a todos los demás slimes.
+		Incluso podía crear nuevos dioses slime, con afinidades a los biomas del mundo.
+		La energía del mundo es un camino hacia muchas habilidades que algunos consideran antinaturales.
+		Se volvió tan poderoso que lo único que temía era perder su poder, lo cual, por supuesto, terminó ocurriendo.
+		Desafortunadamente, el poder de Goozma creció tanto que se convirtió en una anomalía temporal.
+		Una anomalía temporal que un poder más allá de nuestro universo no tuvo más opción que borrar, para que nunca hubiera existido.
+		Irónico. El mismo crecimiento de poder que convirtió a Goozma en deidad en primer lugar, también fue la causa de su caída'
+		'''
+}
+
+MeatyWormTumor: {
+	DisplayName: Tumor de Gusano Carnoso
+	Tooltip:
+		'''
+		Invoca una bola de carne con un pequeño Perforador saliendo de ella
+		'Puede contener gusanos atados'
+		'''
+}
+
+MirrorMatter: {
+	DisplayName: Materia de Espejo
+	Tooltip:
+		'''
+		Invoca un pequeño trozo de Energía Oscura
+		'Siempre dicen que romper espejos trae mala suerte'
+		'''
+}
+
+MoistLocket: {
+	DisplayName: Medallón Húmedo
+	Tooltip:
+		'''
+		Invoca a una pequeña Peste Acuática
+		Le gusta jugar con pelotas de playa y peluches
+		'Hay un gusano retorciéndose dentro'
+		'''
+}
+
+NuggetinaBiscuit: {
+	DisplayName: Nugget en una Galleta
+	Tooltip:
+		'''
+		Invoca al Nugget de la Jungla
+		'¡Un manjar irresistible para cualquier nugget de la jungla!'
+		'''
+}
+
+PlaguebringerPowerCell: {
+	DisplayName: Compensación
+	Tooltip: Se puede vender por un buen precio
+}
+
+PristineExcalibur: {
+	DisplayName: Compensación
+	Tooltip: Podría venderse por un buen precio
+}
+
+ProfanedChewToy: {
+	DisplayName: Juguete de Masticar Profanado
+	Tooltip:
+		'''
+		Invoca a un tipo radical impío
+		'Parece polvoriento'
+		'''
+}
+
+PurifiedFog: {
+	DisplayName: Niebla Purificada
+	Tooltip:
+		'''
+		Invoca a una criatura de las profundidades estigias
+		'Mantenlo atado'
+		'''
+}
+
+ReaperoidPills: {
+	DisplayName: Pastillas Reaperoides
+	Tooltip:
+		'''
+		Invoca a un Segador andante
+		'Así que así se pusieron tan fortachones...'
+		'''
+}
+
+RepurposedMonitor: {
+	DisplayName: Monitor Reutilizado
+	Tooltip: Invoca a un robot de reparación defectuoso para que te siga
+}
+
+RottenHotdog: {
+	DisplayName: Hotdog Podrido
+	Tooltip:
+		'''
+		Invoca a un cachorro Pitbull
+		Ladra cuando hay enemigos raros cerca
+		'Delicioso...'
+		'''
+}
+
+RottingCalamitousArtifact: {
+	DisplayName: Artefacto Calamitoso en Descomposición
+	Tooltip:
+		'''
+		Invoca a un Sepulcrito mascota
+		'La tumba se alza'
+		'''
+}
+
+RoverSpindle: {
+	DisplayName: Eje del Rover
+	Tooltip:
+		'''
+		Invoca a un Robot de Wulfrum sospechosamente familiar
+		'Crusty'
+		'''
+}
+
+RuinedBandage: {
+	DisplayName: Venda Arruinada
+	Tooltip:
+		'''
+		Invoca a Euros
+		'le punch, le smash, and break a hand'
+		'''
+}
+
+AmberGeode: {
+	DisplayName: Geoda de Ámbar
+	Tooltip:
+		'''
+		Invoca a un Reptador de Ámbar
+		'Podría contener un reptador'
+		'''
+}
+
+AmethystGeode: {
+	DisplayName: Geoda de Amatista
+	Tooltip:
+		'''
+		Invoca a un Reptador de Amatista
+		'Puede contener un reptador'
+		'''
+}
+
+BejeweledSpike: {
+	DisplayName: Púa Enjoyada
+	Tooltip:
+		'''
+		Invoca a un Reptador Enjoyado arcoíris
+		'Una mezcla de todos los sabores en un solo paquete'
+		'''
+}
+
+CrystalGeode: {
+	DisplayName: Geoda de Cristal
+	Tooltip:
+		'''
+		Invoca a un Reptador de Cristal
+		'Podría contener un reptador'
+		'''
+}
+
+DiamondGeode: {
+	DisplayName: Geoda de Diamante
+	Tooltip:
+		'''
+		Invoca a un Reptador de Diamante
+		'Puede contener un reptador'
+		'''
+}
+
+EmeraldGeode: {
+	DisplayName: Geoda de Esmeralda
+	Tooltip:
+		'''
+		Invoca a un Reptador de Esmeralda
+		'Debería contener un reptador'
+		'''
+}
+
+RubyGeode: {
+	DisplayName: Geoda de Rubí
+	Tooltip:
+		'''
+		Invoca a un Reptador de Rubí
+		'Posiblemente contenga un reptador'
+		'''
+}
+
+SapphireGeode: {
+	DisplayName: Geoda de Zafiro
+	Tooltip:
+		'''
+		Invoca a un Reptador de Zafiro
+		'Capaz de contener un reptador'
+		'''
+}
+
+TopazGeode: {
+	DisplayName: Geoda de Topacio
+	Tooltip:
+		'''
+		Invoca a un Reptador de Topacio
+		'Potencialmente contiene un reptador'
+		'''
+}
+
+ShadowCloth: {
+	DisplayName: Tela de Sombra
+	Tooltip: Invoca a un asesino para acechar tras de ti
+}
+
+Sirember: {
+	DisplayName: ":Sirember:"
+	Tooltip:
+		'''
+		Invoca la ira de la elemental del agua
+		'Always Rember...'
+		'''
+}
+
+SkullCluster: {
+	DisplayName: Cúmulo de Cráneos
+	Tooltip:
+		'''
+		Invoca a un gólem de carne necrótica en miniatura
+		'Dos cráneos salen del montón con ojos brillantes'
+		'''
+}
+
+SlightlyMoistbutalsoSlightlyDryLocket: {
+	DisplayName: Medallón Ligeramente Húmedo, pero también Ligeramente Seco
+	Tooltip:
+		'''
+		Invoca a una Peste Ligeramente Humedecida
+		'Hay un gusano retorciéndose dentro'
+		'''
+}
+
+SlimeDeitysSoul: {
+	DisplayName: Alma de la Deidad Slime
+	Tooltip:
+		'''
+		Invoca un núcleo del Dios Slime en miniatura, orbitado por sus guardianes
+		'Ávido de poder por la podredumbre'
+		'''
+}
+
+SmolEldritchHoodie: {
+	DisplayName: Sudadera Eldritch Pequeña
+	Tooltip:
+		'''
+		Invoca a un Eidolista encapuchado
+		'La primera capucha del bebé'
+		'''
+}
+
+SoulShard: {
+	DisplayName: Fragmento de Alma
+	Tooltip:
+		'''
+		Invoca a un Gusano Eidolon para que te siga
+		'La locura del abismo resuena a través de tu carne'
+		'''
+}
+
+SpaceJunk: {
+	DisplayName: Chatarra Espacial
+	Tooltip: Invoca a la bola olvidada del meteoro astral
+}
+
+StormMedal: {
+	DisplayName: Medalla de Tormenta
+	Tooltip:
+		'''
+		Invoca a un joven Tejedor de Tormentas
+		'¿Caras o gusanos?'
+		'''
+}
+
+SunDriedShrimp: {
+	DisplayName: Camarón Secado al Sol
+	Tooltip:
+		'''
+		Invoca a un pequeño dragón del estornudo enfermo
+		'Un snack crujiente favorito de los Cnidriones'
+		'''
+}
+
+SuspiciousLookingChineseCrown: {
+	DisplayName: Corona China de Aspecto Sospechoso
+	Tooltip:
+		'''
+		Invoca a la hija pura del espectro cósmico 
+		'Ella viene'
+		'''
+}
+
+SuspiciousLookingGBC: {
+	DisplayName: GBC de Aspecto Sospechoso
+	Tooltip:
+		'''
+		Invoca a un roomba abandonado rescatado de un basurero
+		'¿Qué podría significar esto?'
+		'''
+}
+
+TheDragonball: {
+	DisplayName: La Dragonball
+	Tooltip:
+		'''
+		Invoca a un Dragonfolly esférico
+		Provoca que los clones fallidos de dragón tengan crisis de identidad
+		'Uh oh'
+		'''
+}
+
+TheSeaKingsCoin: {
+	DisplayName: La Moneda del Rey del Mar
+	Tooltip:
+		'''
+		Invoca tanto a la Peste Acuática como a la del Desierto
+		'Bendecido con poder de peste'
+		'''
+}
+
+ToyScythe: {
+	DisplayName: Guadaña de Juguete
+	Tooltip:
+		'''
+		Invoca a un pequeño Polter-Chan
+		'Pertenece a un espíritu travieso'
+		'''
+}
+
+TundraBall: {
+	DisplayName: Bola de Tundra
+	Tooltip:
+		'''
+		Invoca a un cachorro muy enojado
+		'Un juguete de masticar que se dice tiene el poder de domesticar a los perros más furiosos'
+		'''
+}
+
+UglyTentacle: {
+	DisplayName: Tentáculo Feo
+	Tooltip:
+		'''
+		Invoca a T.U.B
+		'gordo'
+		'''
+}
+
+WulfrumController: {
+	DisplayName: Panel de Control de Wulfrum
+	Tooltip: Permite al usuario controlar un ejército de mechs
+}
+
+ZygoteinaBucket: {
+	DisplayName: Cigoto en un Cubo
+	Tooltip: Invoca a un feto fantasmal antiguo
+}
+
+PutridShroom: {
+	DisplayName: Champiñón Aromático
+	Tooltip:
+		'''
+		Hace que los Crab Shrooms del gran cangrejo fúngico se vuelvan pasivos, pero también enfurezcan al ser derrotados
+		Mantiene al pequeño cangrejo fúngico en tu cabeza, incluso al moverte
+		'¿Huele a queso...?'
+		'''
+}
+
+SparrowMeat: {
+	DisplayName: Carne de Gorrión
+	Tooltip: Hay un poco de tela rosa dentro
+}
+
+Termipebbles: {
+	DisplayName: Termiguijarros
+	Tooltip:
+		'''
+		Usados para crear vanidades temáticas de Terminus
+		'NO comas.'
+		'''
+}
+
+AstralMusicBox: {
+	DisplayName: Caja de música (Marchitez Astral)
+	Tooltip: ""
+}
+
+AuricTrashCan: {
+	DisplayName: Cubo de Basura Áurico
+	Tooltip: "'He perdido el control de mi vida'"
+}
+
+TiedBoB2: {
+	DisplayName: Globos de Agua Atados
+	Tooltip: ""
+}
+
+TiedBoxBalloon: {
+	DisplayName: Globo Caja Atado
+	Tooltip: ""
+}
+
+TiedChaosBalloon: {
+	DisplayName: Globo del Caos Atado
+	Tooltip: ""
+}
+
+TiedMirageBalloon: {
+	DisplayName: Globo Espejismo Atado
+	Tooltip: ""
+}
+
+AstragellySlimeBanner: {
+	DisplayName: Estandarte de Slime Astragelatina
+	Tooltip: ""
+}
+
+BleamurBanner: {
+	DisplayName: Estandarte de Bleamur
+	Tooltip: ""
+}
+
+CalamitasBanner: {
+	DisplayName: Estandarte Maldito
+	Tooltip: ""
+}
+
+EyedolBanner: {
+	DisplayName: Estandarte de Eyedol
+	Tooltip: ""
+}
+
+GodSlayerSlugBanner: {
+	DisplayName: Estandarte de Babosa Asesina de Dioses
+	Tooltip: ""
+}
+
+IsopodBanner: {
+	DisplayName: Estandarte de Isópodo
+	Tooltip: ""
+}
+
+SandTurtleBanner: {
+	DisplayName: Estandarte de Tortuga de Arena
+	Tooltip: ""
+}
+
+VeilBanner: {
+	DisplayName: Estandarte del Velo
+	Tooltip: ¡Genial para bloquear el sol!
+}
+
+ViolemurBanner: {
+	DisplayName: Estandarte de Violemur
+	Tooltip: ""
+}
+
+XerocodileBanner: {
+	DisplayName: Estandarte de Xerocodile
+	Tooltip: ""
+}
+
+AstralClay: {
+	DisplayName: Arcilla Astral Marchita
+	Tooltip: ""
+}
+
+AstralDirt: {
+	DisplayName: Tierra Astral Marchita
+	Tooltip: ""
+}
+
+AstralHardenedSand: {
+	DisplayName: Arena Astral Marchita Endurecida
+	Tooltip: ""
+}
+
+AstralIce: {
+	DisplayName: Hielo Astral Marchito
+	Tooltip: ""
+}
+
+AstralSand: {
+	DisplayName: Arena Astral Marchita
+	Tooltip: ""
+}
+
+AstralSandstone: {
+	DisplayName: Arenisca Astral Marchita
+	Tooltip: ""
+}
+
+AstralSnow: {
+	DisplayName: Nieve Astral Marchita
+	Tooltip: ""
+}
+
+AstralTreeWood: {
+	DisplayName: Xenomonolito
+	Tooltip: ""
+}
+
+Xenostone: {
+	DisplayName: Xenopiedra
+	Tooltip: ""
+}
+
+AstralBrick: {
+	DisplayName: Ladrillo Astral Marchito
+	Tooltip: ""
+}
+
+AstralGrass: {
+	DisplayName: Semillas de Hierba Astral Marchita
+	Tooltip: Coloca hierba sobre tierra astral marchita
+}
+
+AstralPearlBlock: {
+	DisplayName: Bloque de Perla Astral
+	Tooltip: ""
+}
+
+AstralPlating: {
+	DisplayName: Revestimiento Astral
+	Tooltip: ""
+}
+
+AuricBrick: {
+	DisplayName: Ladrillo Áurico
+	Tooltip: ""
+}
+
+AzufreSludge: {
+	DisplayName: Lodo de Azufre
+	Tooltip: ""
+}
+
+BlightedEggBlock: {
+	DisplayName: Bloque de Huevo Marchito
+	Tooltip: ""
+}
+
+BloodstoneBrick: {
+	DisplayName: Ladrillo de Piedra de Sangre
+	Tooltip: ""
+}
+
+ChiseledBloodstone: {
+	DisplayName: Piedra de Sangre Cincelada
+	Tooltip: Usada para hacer muebles de Piedra de Sangre
+}
+
+EidolicSlab: {
+	DisplayName: Losa Eidólica
+	Tooltip: ""
+}
+
+FrostflakeBrick: {
+	DisplayName: Ladrillo de Escarcha
+	Tooltip: ""
+}
+
+HallowedBrick: {
+	DisplayName: Ladrillo Sagrado
+	Tooltip: ""
+}
+
+MeldBlock: {
+	DisplayName: Bloque Meld
+	Tooltip: ""
+}
+
+Necrostone: {
+	DisplayName: Necropiedra
+	Tooltip: ""
+}
+
+PhantowaxBlock: {
+	DisplayName: Bloque de Fantocera
+	Tooltip: ""
+}
+
+PlagueHiveWand: {
+	DisplayName: Varita de Colmena de la Plaga
+	Tooltip: Coloca Colmenas de la Plaga
+}
+
+PolishedAstralMonolith: {
+	DisplayName: Monolito Astral Pulido
+	Tooltip: ""
+}
+
+PolishedXenomonolith: {
+	DisplayName: Xenomonolito Pulido
+	Tooltip: ""
+}
+
+ShadowBrick: {
+	DisplayName: Ladrillo de Sombra
+	Tooltip: ""
+}
+
+AgedBlueprint: {
+	DisplayName: Plano Envejecido
+	Tooltip: ¿No distribuir?
+}
+
+AstrumAureusLog: {
+	DisplayName: Plano de Astrum Aureus
+	Tooltip: No distribuir
+}
+
+BumblebirbLog: {
+	DisplayName: "[DESCARTADO] Plano del Proyecto de Clonación de Yharon"
+	Tooltip: No distribuir
+}
+
+CalamitasLog: {
+	DisplayName: Plano del Proyecto de Clonación de Calamitas
+	Tooltip: No distribuir
+}
+
+DestroyerLog: {
+	DisplayName: Plano del Destructor
+	Tooltip: No distribuir
+}
+
+DogLog: {
+	DisplayName: Plano de Revestimiento de Cosmilita
+	Tooltip: No distribuir
+}
+
+MurasamaLog: {
+	DisplayName: Plano de Murasama
+	Tooltip: No distribuir
+}
+
+OrthoceraLog: {
+	DisplayName: Plan de Exilio de Orthocera
+	Tooltip: Por favor distribuyan
+}
+
+PlagueLog: {
+	DisplayName: Plano de la Plaga
+	Tooltip: No distribuir
+}
+
+PrimeLog: {
+	DisplayName: Plano de Esqueletrón Mayor
+	Tooltip: No distribuir
+}
+
+SamLog: {
+	DisplayName: Plano de Murasama EX
+	Tooltip: No distribuir
+}
+
+TwinsLog: {
+	DisplayName: Plano de los Gemelos
+	Tooltip: No distribuir
+}
+
+YharmorLog: {
+	DisplayName: Plano de Armadura Áurica
+	Tooltip: No distribuir
+}
+
+BoiMachine: {
+	DisplayName: Máquina Binding of Anahita
+	Tooltip:
+		'''
+		ÍTEM INCOMPLETO, EXTREMADAMENTE INESTABLE
+		Juego roguelike
+		'''
+}
+
+BrimstoneHeart: {
+	DisplayName: Corazón de Azufre Colgante
+	Tooltip: Plus Up
+}
+
+AstJar: {
+	DisplayName: Frasco de Gelatina Astral
+	Tooltip: ""
+}
+
+BleamurPerch: {
+	DisplayName: Percha de Bleamur
+	Tooltip: ""
+}
+
+BlinkerInABottle: {
+	DisplayName: Blinker en una Botella
+	Tooltip: ""
+}
+
+CrystalFlyJar: {
+	DisplayName: Frasco de Mariposa de Cristal
+	Tooltip: ""
+}
+
+EyedolTerrarium: {
+	DisplayName: Jaula de Eyedol
+	Tooltip: ""
+}
+
+GAstJar: {
+	DisplayName: Frasco de Gelatina Astral Dorada
+	Tooltip: ""
+}
+
+GoldenIsopodTerrarium: {
+	DisplayName: Jaula de Isópodo Dorado
+	Tooltip: ""
+}
+
+GoldEyedolTerrarium: {
+	DisplayName: Jaula de Eyedol Dorado
+	Tooltip: ""
+}
+
+GoldViolemurMonolith: {
+	DisplayName: Percha de Violemur Dorado
+	Tooltip: ""
+}
+
+IsopodTerrarium: {
+	DisplayName: Jaula de Isópodo
+	Tooltip: ""
+}
+
+NukeJar: {
+	DisplayName: Vaporofly en un Frasco
+	Tooltip: ""
+}
+
+OrthoJar: {
+	DisplayName: Orthocera en un Frasco
+	Tooltip: ""
+}
+
+PlagueFrogTerrarium: {
+	DisplayName: Jaula de Rana Apestada
+	Tooltip: ""
+}
+
+ProvFlyJar: {
+	DisplayName: Frasco de Mariposa Ardiente
+	Tooltip: ""
+}
+
+SandTurtleCage: {
+	DisplayName: Jaula de Tortuga de Arena
+	Tooltip: ""
+}
+
+SlugTerrarium: {
+	DisplayName: Jaula de Babosa Asesina de Dioses
+	Tooltip: ""
+}
+
+SwearshroomCage: {
+	DisplayName: Jaula de Swearshroom
+	Tooltip: ""
+}
+
+ViolemurMonolith: {
+	DisplayName: Percha de Violemur
+	Tooltip: ""
+}
+
+XerocodileCage: {
+	DisplayName: Jaula de Xerocodile
+	Tooltip: ""
+}
+
+CalamityLamp: {
+	DisplayName: Flambeau de Azufre
+	Tooltip: Algo malicioso se está gestando
+}
+
+CosmiliteChairEX: {
+	DisplayName: Silla Monobloc de Cosmilita
+	Tooltip: ""
+}
+
+DecommissionedDaedalusGolem: {
+	DisplayName: Gólem de Dédalo Desactivado
+	Tooltip: "'4.3%...'"
+}
+
+DemonShield: {
+	DisplayName: Escudo Carnero Demoníaco
+	Tooltip: "'Es demasiado grande para usarlo'"
+}
+
+DisrepairUnit: {
+	DisplayName: Unidad en Desuso
+	Tooltip: "'Estás enfermo de la cabeza'"
+}
+
+Evolution: {
+	DisplayName: Evolución de Juguete
+	Tooltip: "'Reflexionando sobre el orbe...'"
+}
+
+AgedRustGamingTable: {
+	DisplayName: Mesa de Juegos de Laboratorio Envejecida
+	Tooltip: G@m3 0n1
+}
+
+RustGamingTable: {
+	DisplayName: Mesa de Juegos de Laboratorio
+	Tooltip: ¡A jugar!
+}
+
+RustGamingTable2: {
+	DisplayName: Mesa de Juegos de Laboratorio 2
+	Tooltip: "'Técnicamente un spinoff'"
+}
+
+OldAstralBathtubItem: {
+	DisplayName: Bañera de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralBedItem: {
+	DisplayName: Cama de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralBookshelfItem: {
+	DisplayName: Librería de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralCandelabraItem: {
+	DisplayName: Candelabro de pie de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralCandleItem: {
+	DisplayName: Vela de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralChairItem: {
+	DisplayName: Silla de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralChandelierItem: {
+	DisplayName: Lámpara araña de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralChestItem: {
+	DisplayName: Cofre de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralClockItem: {
+	DisplayName: Reloj de pie de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralDoorItem: {
+	DisplayName: Puerta de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralDresserItem: {
+	DisplayName: Cómoda de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralLampItem: {
+	DisplayName: Lámpara de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralLanternItem: {
+	DisplayName: Farol de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralPianoItem: {
+	DisplayName: Órgano de Tubos de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralSinkItem: {
+	DisplayName: Fregadero de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralSofaItem: {
+	DisplayName: Banco de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralTableItem: {
+	DisplayName: Mesa de Xenomonolito
+	Tooltip: ""
+}
+
+OldAstralWorkbenchItem: {
+	DisplayName: Banco de trabajo de Xenomonolito
+	Tooltip: ""
+}
+
+AuricBathtubItem: {
+	DisplayName: Bañera Áurica
+	Tooltip: ""
+}
+
+AuricBedItem: {
+	DisplayName: Cama Áurica
+	Tooltip: ""
+}
+
+AuricBookshelfItem: {
+	DisplayName: Librería Áurica
+	Tooltip: ""
+}
+
+AuricCandelabraItem: {
+	DisplayName: Candelabro de pie Áurico
+	Tooltip: ""
+}
+
+AuricCandleItem: {
+	DisplayName: Vela Áurica
+	Tooltip: ""
+}
+
+AuricChairItem: {
+	DisplayName: Silla Áurica
+	Tooltip: ""
+}
+
+AuricChandelierItem: {
+	DisplayName: Lámpara araña Áurica
+	Tooltip: ""
+}
+
+AuricChestItem: {
+	DisplayName: Cofre Áurico
+	Tooltip: ""
+}
+
+AuricClockItem: {
+	DisplayName: Reloj de pie Áurico
+	Tooltip: ""
+}
+
+AuricDoorItem: {
+	DisplayName: Puerta Áurica
+	Tooltip: ""
+}
+
+AuricDresserItem: {
+	DisplayName: Cómoda Áurica
+	Tooltip: ""
+}
+
+AuricLampItem: {
+	DisplayName: Lámpara Áurica
+	Tooltip: ""
+}
+
+AuricLanternItem: {
+	DisplayName: Farol Áurico
+	Tooltip: ""
+}
+
+AuricManufacturer: {
+	DisplayName: Fabricadora Áurica
+	Tooltip: Usada para creaciones especiales
+}
+
+AuricPianoItem: {
+	DisplayName: Piano Áurico
+	Tooltip: ""
+}
+
+AuricPlatformItem: {
+	DisplayName: Plataforma Áurica Cincelada
+	Tooltip: ""
+}
+
+AuricSinkItem: {
+	DisplayName: Fregadero Áurico
+	Tooltip: ""
+}
+
+AuricSofaItem: {
+	DisplayName: Sofá Áurico
+	Tooltip: ""
+}
+
+AuricTableItem: {
+	DisplayName: Mesa Áurica
+	Tooltip: ""
+}
+
+AuricWorkbenchItem: {
+	DisplayName: Banco de trabajo Áurico
+	Tooltip: ""
+}
+
+BloodstoneBathtubItem: {
+	DisplayName: Bañera de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneBedItem: {
+	DisplayName: Cama de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneBookshelfItem: {
+	DisplayName: Librería de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneCandelabraItem: {
+	DisplayName: Candelabro de pie de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneCandleItem: {
+	DisplayName: Vela de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneChairItem: {
+	DisplayName: Silla de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneChandelierItem: {
+	DisplayName: Lámpara araña de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneChestItem: {
+	DisplayName: Cofre de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneClockItem: {
+	DisplayName: Reloj de pie de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneDoorItem: {
+	DisplayName: Puerta de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneDresserItem: {
+	DisplayName: Cómoda de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneLampItem: {
+	DisplayName: Lámpara de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneLanternItem: {
+	DisplayName: Farol de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstonePianoItem: {
+	DisplayName: Piano de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstonePlatformItem: {
+	DisplayName: Plataforma de Piedra de Sangre Cincelada
+	Tooltip: ""
+}
+
+BloodstoneSinkItem: {
+	DisplayName: Fregadero de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneSofaItem: {
+	DisplayName: Sofá de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneTableItem: {
+	DisplayName: Mesa de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneWorkbenchItem: {
+	DisplayName: Banco de trabajo de Piedra de Sangre
+	Tooltip: ""
+}
+
+NecroticTorch: {
+	DisplayName: Antorcha Necrótica
+	Tooltip: ""
+}
+
+Ravamper: {
+	DisplayName: Fogata Necrótica
+	Tooltip: ¡Alaben al sol!
+}
+
+PhantowaxBathtubItem: {
+	DisplayName: Bañera de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxBedItem: {
+	DisplayName: Cama de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxBookshelfItem: {
+	DisplayName: Librería de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxCandelabraItem: {
+	DisplayName: Candelabro de pie de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxCandleItem: {
+	DisplayName: Vela de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxChairItem: {
+	DisplayName: Silla de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxChandelierItem: {
+	DisplayName: Lámpara araña de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxChestItem: {
+	DisplayName: Cofre de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxClockItem: {
+	DisplayName: Reloj de pie de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxDoorItem: {
+	DisplayName: Puerta de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxDresserItem: {
+	DisplayName: Cómoda de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxLampItem: {
+	DisplayName: Lámpara de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxLanternItem: {
+	DisplayName: Farol de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxPianoItem: {
+	DisplayName: Piano de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxPlatformItem: {
+	DisplayName: Plataforma de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxSinkItem: {
+	DisplayName: Fregadero de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxSofaItem: {
+	DisplayName: Sofá de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxTableItem: {
+	DisplayName: Mesa de Fantocera
+	Tooltip: ""
+}
+
+PhantowaxWorkbenchItem: {
+	DisplayName: Banco de trabajo de Fantocera
+	Tooltip: ""
+}
+
+WulfrumGlobe: {
+	DisplayName: Globo de Wulfrum
+	Tooltip: Gira gira gira
+}
+
+HeartoftheCommunity: {
+	DisplayName: Corazón de la Comunidad
+	Tooltip: Mi mayor creación, manéjalo con cuidado
+}
+
+Help: {
+	DisplayName: Orthocera Atorada
+	Tooltip:
+		'''
+		Se le pueden dar Champiñones Verdes
+		'Ayúdame'
+		'''
+}
+
+Hesfine: {
+	DisplayName: Jacuzzi de Orthocera
+	Tooltip: "':Agarra:'"
+}
+
+JunkArt: {
+	DisplayName: Acelerador de Partículas Reconstruido
+	Tooltip: "'Reensamblado a partir de planos viejos. La flor de dentro ha crecido con vitalidad tras cinco años.'"
+}
+
+MireAquarium: {
+	DisplayName: Acuario de Mire
+	Tooltip: "'Ojalá no intente escapar...'"
+}
+
+AquaticMonolith: {
+	DisplayName: Cabeza de Leviatán Decapitada Pequeña
+	Tooltip: Por qué querrías esto siquiera
+}
+
+AuroraMonolith: {
+	DisplayName: Constructo de Frío Amargo
+	Tooltip: "'][[]][][][][[]'"
+}
+
+CalamitousMonolith: {
+	DisplayName: Cuenca de Ritual Calamitoso
+	Tooltip: El fuego danza sobre ella con intención entretenida
+}
+
+DimensionalMonolith: {
+	DisplayName: Obelisco Dimensional
+	Tooltip: Parece intentar señalar algo, sin éxito
+}
+
+ExoMonolith: {
+	DisplayName: Mecanismo de Gunmetal
+	Tooltip: ""
+}
+
+InfernalMonolith: {
+	DisplayName: Altar Infernal
+	Tooltip: La llama ruge con inutilidad
+}
+
+PlagueMonolith: {
+	DisplayName: Máquina de Diálisis de la Plaga
+	Tooltip: ""
+}
+
+UnholyMonolith: {
+	DisplayName: Fuente Profanada
+	Tooltip: "'No, no cambia el color de ningún líquido'"
+}
+
+MoulderingAltarItem: {
+	DisplayName: Altar Putrefacto
+	Tooltip: Cuenta como un altar demoníaco
+}
+
+AccidentalAbominationn: {
+	DisplayName: Hijo Renacido
+	Tooltip: "'Maple'"
+}
+
+BlazingConflict: {
+	DisplayName: Conflicto Ardiente
+	Tooltip:
+		'''
+		'Fuego vs fuego'
+		'Yharex'
+		'''
+}
+
+CalamiteaTime: {
+	DisplayName: Hora del Calamité
+	Tooltip: Original de 'caligulas,' repintado por 'Maple'
+}
+
+CalamityFriends: {
+	DisplayName: Pequeños Compañeros
+	Tooltip:
+		'''
+		'¡Amigos!'
+		'Mochi'
+		'''
+}
+
+CalamityPaint: {
+	DisplayName: Una Calamidad Antigua
+	Tooltip: "'Blockaroz'"
+}
+
+CalamityPaintRetold: {
+	DisplayName: Una Calamidad
+	Tooltip: "'IbanPlay'"
+}
+
+Clam: {
+	DisplayName: ¡Ohayou!
+	Tooltip: "'Yharex'"
+}
+
+CosmicTerror: {
+	DisplayName: Aconsejando al Devorador
+	Tooltip: "'Maple'"
+}
+
+Duality: {
+	DisplayName: Dualidad
+	Tooltip: "'Maple'"
+}
+
+EyeofXeroc: {
+	DisplayName: El Ojo de Xeroc
+	Tooltip: "'PokerFace'"
+}
+
+GallusYharus: {
+	DisplayName: Gallus Yharus
+	Tooltip:
+		'''
+		'Un gran agradecimiento a una mujer y guardiana maravillosa'
+		'Willow'
+		'''
+}
+
+LostSouls: {
+	DisplayName: Almas Perdidas
+	Tooltip:
+		'''
+		'Perdidos y asustados'
+		'Maple'
+		'''
+}
+
+ModIconPainting: {
+	DisplayName: Calamity's Vanities
+	Tooltip: "'IbanPlay y Enamoured'"
+}
+
+NotLikeHome: {
+	DisplayName: No es como en Casa
+	Tooltip:
+		'''
+		'¡Amigos!'
+		'Maple'
+		'''
+}
+
+OldModIconPainting: {
+	DisplayName: Calamity's Vanities (viejo)
+	Tooltip:
+		'''
+		'¡Viejo!!!'
+		'Yharex'
+		'''
+}
+
+OldUCMM: {
+	DisplayName: Vanilla Calamity Mod Music (viejo)
+	Tooltip:
+		'''
+		'Melodías vintage'
+		'Heart Plus Up!'
+		'''
+}
+
+Plague22: {
+	DisplayName: "22"
+	Tooltip:
+		'''
+		'Número maldito'
+		'Willow'
+		'''
+}
+
+Scourgy: {
+	DisplayName: Scourgy
+	Tooltip: "'Maple'"
+}
+
+Signut: {
+	DisplayName: Signut
+	Tooltip:
+		'''
+		'No me juzgues, estar atrapado en hielo mucho tiempo te afecta la mente'
+		'Yharex'
+		'''
+}
+
+SleepingGiant: {
+	DisplayName: Behemot Dormido
+	Tooltip: "'Maple'"
+}
+
+Snouts: {
+	DisplayName: Dukenado
+	Tooltip: "'Maple'"
+}
+
+SwearingShroom: {
+	DisplayName: Shruming
+	Tooltip: "'Maple'"
+}
+
+TheGreatSandworm: {
+	DisplayName: El Gran Gusano de Arena
+	Tooltip: "'Maple'"
+}
+
+TheYhar: {
+	DisplayName: ":THE_YHAR:"
+	Tooltip: "'Hay que admitirlo, es un tipo muy genial a pesar de sus crímenes'"
+}
+
+UCMM: {
+	DisplayName: Vanilla Calamity Mod Music
+	Tooltip:
+		'''
+		'Mundo de sonido'
+		'IbanPlay'
+		'''
+}
+
+UnholyTrip: {
+	DisplayName: Viaje Impío
+	Tooltip: "'Triangle'"
+}
+
+VVanities: {
+	DisplayName: ¡V de Vanities!
+	Tooltip:
+		'''
+		'¡V!'
+		'Willow'
+		'''
+}
+
+WilliamPainting: {
+	DisplayName: Calamity's Vanities (alt)
+	Tooltip: "'Giacomo'"
+}
+
+WormHeaven: {
+	DisplayName: Gusano hacia los Cielos
+	Tooltip:
+		'''
+		'Algún día...'
+		'Maple'
+		'''
+}
+
+Yharlamitas: {
+	DisplayName: Momento Calamity
+	Tooltip: Espera...
+}
+
+PlagueDialysis: {
+	DisplayName: Tubo de Conservación del Enjambrador
+	Tooltip: "'Sellado por la eternidad'"
+}
+
+AcidGun: {
+	DisplayName: Dispensador de Cinta Ácida
+	Tooltip: Coloca una cantidad infinita de Enredaderas Sulfurosas
+}
+
+Anemone: {
+	DisplayName: Anémona en Maceta
+	Tooltip: ""
+}
+
+AstralOldPurple: {
+	DisplayName: Xenomonolito Púrpura en Maceta
+	Tooltip: ""
+}
+
+AstralOldYellow: {
+	DisplayName: Xenomonolito Amarillo en Maceta
+	Tooltip: ""
+}
+
+BelchingCoral: {
+	DisplayName: Coral Sulfúrico
+	Tooltip: "'No metas la mano desnuda'"
+}
+
+BloodstoneRoses: {
+	DisplayName: Rosas de Piedra de Sangre
+	Tooltip: ""
+}
+
+BotanicPot: {
+	DisplayName: Bonsái Botánico
+	Tooltip: ""
+}
+
+BrainCoral: {
+	DisplayName: Coral Cerebro en Maceta
+	Tooltip: ""
+}
+
+EidolonTree: {
+	DisplayName: Árbol Eidólico
+	Tooltip: ""
+}
+
+FanCoral: {
+	DisplayName: Coral Abanico en Maceta
+	Tooltip: ""
+}
+
+FleshThing: {
+	DisplayName: Hierba Viviente
+	Tooltip: Una extraña sustancia carnosa nacida del carmesí y cuidada por Draedon
+}
+
+HolyStudedBonsai: {
+	DisplayName: Bonsái Sagrado Tachonado
+	Tooltip: ""
+}
+
+MonolithPot: {
+	DisplayName: Monolito Astral en Maceta
+	Tooltip: ""
+}
+
+NetherTree: {
+	DisplayName: Brote de Nether Retorcido
+	Tooltip: Feroz
+}
+
+NetherTreeBig: {
+	DisplayName: Árbol de Nether Retorcido
+	Tooltip: Vehemente
+}
+
+OddMushroomPot: {
+	DisplayName: Maceta de Champiñón Raro
+	Tooltip: ¡Ahora puedes cultivar tus propios hongos!... En realidad no
+}
+
+PottedDecapoditaSprout: {
+	DisplayName: Brote Decapodita en Maceta
+	Tooltip: Ten un hongo
+}
+
+SSCoral: {
+	DisplayName: Coral Hundido en Maceta
+	Tooltip: ""
+}
+
+SulphurousCactus: {
+	DisplayName: Cactus Sulfuroso en Maceta
+	Tooltip: ""
+}
+
+SulphurousPlanter: {
+	DisplayName: Macetero de Enredadera Ácida
+	Tooltip: Te deja perplejo cómo se mantienen de pie
+}
+
+TableCoral: {
+	DisplayName: Coral Mesa en Maceta
+	Tooltip: ""
+}
+
+AnahitaPlush: {
+	DisplayName: Peluche de Anahita
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ApolloPlush: {
+	DisplayName: Peluche de Apollo
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AquaticScourgePlush: {
+	DisplayName: Peluche del Azote Acuático
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AresPlush: {
+	DisplayName: Peluche de Ares
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ArtemisPlush: {
+	DisplayName: Peluche de Artemis
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AstrageldonPlush: {
+	DisplayName: Peluche de Astrageldon
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AstrumAureusPlush: {
+	DisplayName: Peluche de Astrum Aureus
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AstrumDeusPlush: {
+	DisplayName: Peluche de Astrum Deus
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+BrimstoneElementalPlush: {
+	DisplayName: Peluche de la Elemental de Azufre
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+BumblefuckPlush: {
+	DisplayName: Peluche de Dragonfolly
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+CeaselessVoidPlush: {
+	DisplayName: Peluche del Vacío Incesante
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ClonePlush: {
+	DisplayName: Peluche del Clon de Calamitas
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+CrabulonPlush: {
+	DisplayName: Peluche de Crabulon
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+CryogenPlush: {
+	DisplayName: Peluche de Cryogen
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+DesertScourgePlush: {
+	DisplayName: Peluche del Azote Desértico
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+DevourerofGodsPlush: {
+	DisplayName: Peluche del Devorador de Dioses
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+DraedonPlush: {
+	DisplayName: Peluche de Draedon
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+GiantClamPlush: {
+	DisplayName: Peluche de la Almeja Gigante
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+HiveMindPlush: {
+	DisplayName: Peluche de la Mente Colmena
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+HypnosPlush: {
+	DisplayName: Peluche de Hypnos
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+JaredPlush: {
+	DisplayName: Peluche del Gusano Primordial
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+LeviathanPlush: {
+	DisplayName: Peluche del Leviatán
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+MaulerPlush: {
+	DisplayName: Peluche de Mauler
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+NuclearTerrorPlush: {
+	DisplayName: Peluche del Terror Nuclear
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+OldDukePlush: {
+	DisplayName: Peluche del Viejo Duque
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PerforatorPlush: {
+	DisplayName: Peluche del Perforador
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PlaguebringerGoliathPlush: {
+	DisplayName: Peluche del Goliat Portador de la Plaga
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PolterghastPlush: {
+	DisplayName: Peluche de Polterghast
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ProfanedGuardianPlush: {
+	DisplayName: Peluche del Guardián Profanado
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ProvidencePlush: {
+	DisplayName: Peluche de Providencia
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+RavagerPlush: {
+	DisplayName: Peluche del Devastador
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+SandSharkPlush: {
+	DisplayName: Peluche del Gran Tiburón de Arena
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+SignusPlush: {
+	DisplayName: Peluche de Signus
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+SlimeGodPlush: {
+	DisplayName: Peluche del Dios Slime
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+StormWeaverPlush: {
+	DisplayName: Peluche del Tejedor de Tormentas
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ThanatosPlush: {
+	DisplayName: Peluche de Thanatos
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+YharonPlush: {
+	DisplayName: Peluche de Yharon
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PongMachine: {
+	DisplayName: Máquina de Pong
+	Tooltip:
+		'''
+		ÍTEM INCOMPLETO, EXTREMADAMENTE INESTABLE
+		Juego de pong
+		'''
+}
+
+RespirationShrine: {
+	DisplayName: Santuario de Respiración
+	Tooltip:
+		'''
+		Proporciona respiración infinita en el Abismo dentro de cierto radio, para las necesidades de tu base en el Abismo.
+		Desactivarlo casi al instante hará que empieces a ahogarte
+		'Básicamente trampa.'
+		'''
+}
+
+SailfishTrophy: {
+	DisplayName: Trofeo de Pez Vela
+	Tooltip:
+		'''
+		'¿Y si fueras tú 
+		el colgado en esta pared?'
+		'''
+}
+
+SchematicDisplay: {
+	DisplayName: Expositor de Esquemas
+	Tooltip:
+		'''
+		Muestra una carta
+		<right> para mostrar otra carta
+		'''
+}
+
+Se: {
+	DisplayName: Tubeman de la Entropía
+	Tooltip:
+		'''
+		Se infla en un globo Sepulcro que se agita
+		'Abraza el caos'
+		'''
+}
+
+StarstruckSynthesizer: {
+	DisplayName: Sintetizador Estelar
+	Tooltip: Usado para creaciones especiales
+}
+
+C: {
+	DisplayName: Estatua de la Calamidad
+	Tooltip: Un relato comienza
+}
+
+EyedolStatue: {
+	DisplayName: Estatua de Eyedol
+	Tooltip: ""
+}
+
+IsopodStatue: {
+	DisplayName: Estatua de Isópodo Abisal
+	Tooltip: ""
+}
+
+Knight: {
+	DisplayName: Estatua del Caballero Terrestre
+	Tooltip: "'No es legal en torneos'"
+}
+
+NukeFlyStatue: {
+	DisplayName: Estatua de Vaporofly
+	Tooltip: ""
+}
+
+PlagueFrogStatue: {
+	DisplayName: Estatua de Rana de la Plaga
+	Tooltip: ""
+}
+
+Provibust: {
+	DisplayName: Ídolo Profanado
+	Tooltip: "'Moriré por ti, mi señor'"
+}
+
+ShrineoftheTides: {
+	DisplayName: Santuario de las Mareas
+	Tooltip: Mi regalo a la Elemental del Agua
+}
+
+ViolemurStatue: {
+	DisplayName: Estatua de Violemur
+	Tooltip: ""
+}
+
+SulphurGeyser: {
+	DisplayName: Géiser de Vapor
+	Tooltip:
+		'''
+		Clic derecho para alternar entre variantes
+		'¡Peligroso! ¡Ten cuidado!'
+		'''
+}
+
+SulphuricTank: {
+	DisplayName: Tanque Sulfúrico
+	Tooltip: ZZZX93
+}
+
+SunkenLamp: {
+	DisplayName: Lámpara Hundida
+	Tooltip: Psicodélico
+}
+
+TerminusShrine: {
+	DisplayName: Santuario Terminus
+	Tooltip: Un altar hecho para sostener el artefacto apocalíptico
+}
+
+TerminusShrine2: {
+	DisplayName: Santuario Terminus Nivel 2
+	Tooltip: Un altar que sostiene un artefacto apocalíptico
+}
+
+TerminusShrine3: {
+	DisplayName: Santuario Terminus Nivel 3
+	Tooltip: El Fin.
+}
+
+Tesla: {
+	DisplayName: Bobina de Tormenta
+	Tooltip: Zap
+}
+
+VisceralAltarItem: {
+	DisplayName: Altar Visceral
+	Tooltip: Cuenta como un altar carmesí
+}
+
+VoidPortal: {
+	DisplayName: Portal del Vacío
+	Tooltip: El vacío llama
+}
+
+YellowSeaFountain: {
+	DisplayName: Fuente del Mar Amarillo
+	Tooltip: ""
+}
+
+AstralDirtWall: {
+	DisplayName: Pared de Tierra Astral Marchita
+	Tooltip: ""
+}
+
+AstralGrassWall: {
+	DisplayName: Pared de Hierba Astral Marchita
+	Tooltip: ""
+}
+
+AstralHardenedSandWall: {
+	DisplayName: Pared de Arena Astral Marchita Endurecida
+	Tooltip: ""
+}
+
+AstralIceWall: {
+	DisplayName: Pared de Hielo Astral Marchito
+	Tooltip: ""
+}
+
+AstralSandstoneWall: {
+	DisplayName: Pared de Arenisca Astral Marchita
+	Tooltip: ""
+}
+
+XenomonolithWall: {
+	DisplayName: Pared de Xenomonolito
+	Tooltip: ""
+}
+
+XenostoneWall: {
+	DisplayName: Pared de Xenopiedra
+	Tooltip: ""
+}
+
+AstralBrickWall: {
+	DisplayName: Pared de Ladrillo Astral Marchito
+	Tooltip: ""
+}
+
+AstralPearlWall: {
+	DisplayName: Pared de Perla Astral
+	Tooltip: ""
+}
+
+AstralPlatingWall: {
+	DisplayName: Pared de Revestimiento Astral
+	Tooltip: ""
+}
+
+AuricBrickWall: {
+	DisplayName: Pared de Ladrillo Áurico
+	Tooltip: ""
+}
+
+BlightedEggWall: {
+	DisplayName: Pared de Huevo Marchito
+	Tooltip: ""
+}
+
+BloodstoneBrickWall: {
+	DisplayName: Pared de Ladrillo de Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneWall: {
+	DisplayName: Pared de Piedra de Sangre
+	Tooltip: ""
+}
+
+ChiseledBloodstoneBrickWall: {
+	DisplayName: Pared de Ladrillo de Piedra de Sangre Cincelada
+	Tooltip: ""
+}
+
+EidolicSlabWall: {
+	DisplayName: Pared de Losa Eidólica
+	Tooltip: ""
+}
+
+FrostflakeWall: {
+	DisplayName: Pared de Ladrillo de Escarcha
+	Tooltip: ""
+}
+
+HallowedBrickWall: {
+	DisplayName: Pared de Ladrillo Sagrado
+	Tooltip: ""
+}
+
+NecrostoneWall: {
+	DisplayName: Pared de Necropiedra
+	Tooltip: ""
+}
+
+PhantowaxWall: {
+	DisplayName: Pared de Fantocera
+	Tooltip: ""
+}
+
+PlagueHiveWall: {
+	DisplayName: Pared de Colmena de la Plaga
+	Tooltip: ""
+}
+
+PolishedAstralMonolithWall: {
+	DisplayName: Pared de Monolito Astral Pulido
+	Tooltip: ""
+}
+
+PolishedXenomonolithWall: {
+	DisplayName: Pared de Xenomonolito Pulido
+	Tooltip: ""
+}
+
+ShadowBrickWall: {
+	DisplayName: Pared de Ladrillo de Sombra
+	Tooltip: ""
+}
+
+WulfrumPanelWall: {
+	DisplayName: Pared de Panel de Wulfrum
+	Tooltip: ""
+}
+
+XenoSolution: {
+	DisplayName: Solución Astral Marchita
+	Tooltip:
+		'''
+		Usada por el Clentaminator
+		Esparce la Marchitez Astral
+		'''
+}
+
+KnowledgeFogbound: {
+	DisplayName: Fogbound
+	Tooltip: ""
+	Lore:
+		'''
+		Sin duda uno de los seres más amenazantes de Terraria, pues incluso yo casi perdí la vida en mi encuentro con él.
+		Al prepararme para el golpe final contra el Dios de la Muerte, cobardemente separó su alma de su cuerpo con la esperanza de evadir su fin.
+		Su forma incorpórea regresó a acosarme como el Fogbound, e intentó acortar mi vida antes de que pudiera formular una retirada estratégica.
+		Afortunadamente, sin embargo, tenía una debilidad fatal: a medida que su cuerpo físico se marchitaba, también lo hacía el cerebro del que su forma fantasmal aún dependía.
+		Usando su nueva falta de ingenio a mi favor, lo conduje a una trampa cuidadosamente tendida con runas de sellado colocadas por el Archimago.
+		Fue un éxito. Sellé rápidamente al espíritu dentro del objeto más cercano a mí, y el destino dictó que mi bufón fuera un recipiente adecuado.
+		Irónico que de todos los dioses, fuera aquel cuyo dominio era la Muerte el que más temía morir.
+		'''
+	ShortTooltip:
+		'''
+		[c/E3AF40:Susurros desde lo alto danzan en tus oídos...]
+		[c/BEBEBE:Pulsa "Mayús Izquierda" para escuchar más de cerca]
+		'''
+}
+
+SulphuricDye: {
+	DisplayName: Tinte Sulfúrico
+	Tooltip: ""
+}
+
+TyrantFeed: {
+	DisplayName: Pienso del Tirano
+	Tooltip: Potasio
+}
+
+GoozmaPlush: {
+	Tooltip: ""
+	DisplayName: Peluche de Goozma
+}
+
+Aeroplate: {
+	DisplayName: Aeroplaca
+	Tooltip: ""
+}
+
+AeroplateWall: {
+	DisplayName: Pared de Aeroplaca
+	Tooltip: ""
+}
+
+ProvidenceAltar: {
+	DisplayName: Portador del Núcleo de la Diosa Profanada
+	Tooltip: Sostiene el núcleo de la Diosa Profanada
+}
+
+PolterCable: {
+	DisplayName: Cable Polter
+	Tooltip: ""
+}
+
+PolterRemote: {
+	DisplayName: Control Polter
+	Tooltip: ""
+}
+
+PolterDrawOrderer: {
+	DisplayName: Ordenador de Dibujo Polter
+	Tooltip: ""
+}
+
+PolterRemoteChainer: {
+	DisplayName: Encadenador de Control Polter
+	Tooltip: ""
+}
+
+Booger: {
+	DisplayName: Bloque del Gran Marqués
+	Tooltip: "'Moco'"
+}
+
+FriendExtinguisher: {
+	DisplayName: Extintor de Amigos
+	Tooltip: Alterna a Fanny la Llama
+}
+
+TestDye: {
+	DisplayName: Tinte de Prueba
+	Tooltip: ""
+}
+
+MireP1Plush: {
+	DisplayName: Peluche de Cragmaw Mire Blindado
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+MireP2Plush: {
+	DisplayName: Peluche de Cragmaw Mire Baboso
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+CalamitasPlush: {
+	DisplayName: Peluche de Calamitas
+	Tooltip:
+		'''
+		'Un artefacto oscuro que debe manejarse con cuidado'
+		¡Clic derecho para lanzar!
+		'''
+}
+
+ShadowPlush: {
+	DisplayName: Peluche de la Sombra Olvidada de Calamitas
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+BereftVassalPlush: {
+	DisplayName: Peluche del Vasallo Desamparado
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+Ohio: {
+	DisplayName: Ohio
+	Tooltip: "'Chroma'"
+}
+
+DraedonCart: {
+	DisplayName: Vagoneta de Draedon
+	Tooltip: "'La verdadera mayor invención de Draedon'"
+}
+
+LeviathanEXPlush: {
+	DisplayName: Peluche del Leviatán (EX)
+	Tooltip:
+		'''
+		Se puede reducir con Fulgor
+		¡Clic derecho para lanzar!
+		'''
+}
+
+YharonEXPlush: {
+	DisplayName: Peluche de Yharon (EX)
+	Tooltip:
+		'''
+		Se puede reducir con Fulgor
+		¡Clic derecho para lanzar!
+		'''
+}
+
+DevourerofGodsEXPlush: {
+	DisplayName: Peluche del Devorador de Dioses (EX)
+	Tooltip:
+		'''
+		Se puede reducir con Fulgor
+		¡Clic derecho para lanzar!
+		'''
+}
+
+ExodygenPlush: {
+	DisplayName: Peluche de Exodygen
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ExotrexiaPlush: {
+	DisplayName: Peluche de Exotrexia
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AstigmageddonPlush: {
+	DisplayName: Peluche de Astigmageddon
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+CataractacombPlush: {
+	DisplayName: Peluche de Cataractacomb
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+ConjunctivirusPlush: {
+	DisplayName: Peluche de Conjunctivirus
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PolyphemalusPlush: {
+	DisplayName: Peluche de Polyphemalus
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+YhogoStick: {
+	DisplayName: Pogo del Buscador de Dioses
+	Tooltip: "'Yharim definitivamente te odiaría por esto'"
+}
+
+AstralUndergroundMusicBox: {
+	DisplayName: Caja de música (Astral Subterráneo)
+	Tooltip: ""
+}
+
+AuricFirework: {
+	DisplayName: Fuego Artificial Áurico
+	Tooltip: Explota en fuegos artificiales con forma de casi cualquier ítem del juego
+}
+
+OgliveBranch: {
+	DisplayName: Rama Oglive
+	Tooltip: ""
+}
+
+NamelessDeityPlush: {
+	DisplayName: Peluche de la Deidad sin Nombre
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+NamelessDeityEXPlush: {
+	DisplayName: Peluche de la Deidad sin Nombre (EX)
+	Tooltip:
+		'''
+		Se puede reducir con Fulgor
+		¡Clic derecho para lanzar!
+		'''
+}
+
+BottledSulphurousWater: {
+	DisplayName: Agua Sulfurosa Embotellada
+	Tooltip: Probablemente no sea saludable beberla
+}
+
+Corruppuccino: {
+	DisplayName: Corruppuccino
+	Tooltip:
+		'''
+		Invoca a una Mente Colmena cansada y su familia
+		'¡Bebe!'
+		'''
+}
+
+EntropicNoxusPlush: {
+	DisplayName: Peluche de Noxus Entrópico
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+PaintedGoggles: {
+	DisplayName: Gafas Pintadas
+	Tooltip:
+		'''
+		Úsalas para alternar los sprites de jefes de April Fools de Calamity's Vanities
+		Solo se pueden usar en un solo jugador
+		No funciona mientras el Modo Infernum está activo
+		'''
+	Enabled: Sprites pintados forzados a activados
+	Disabled: Sprites pintados forzados a desactivados
+}
+
+MarsPlush: {
+	DisplayName: Peluche de Mars
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+Mar: {
+	DisplayName: Mar
+	Tooltip: ""
+}
+
+AvatarPlush: {
+	DisplayName: Peluche del Avatar del Vacío
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+AvatarEXPlush: {
+	DisplayName: Peluche del Avatar del Vacío (EX)
+	Tooltip:
+		'''
+		Se puede reducir con Fulgor
+		¡Clic derecho para lanzar!
+		'''
+}
+
+Fool: {
+	DisplayName: El Loco
+	Tooltip: "'Maple'"
+}
+
+FoolEX: {
+	DisplayName: El Loco (EX)
+	Tooltip: "'Maple'"
+}
+
+SignathionPlush: {
+	DisplayName: Peluche de Signathion
+	Tooltip: ¡Clic derecho para lanzar!
+}
+
+SeaguardShield: {
+	DisplayName: Escudo de Guardia Marina
+	Tooltip:
+		'''
+		'Tal vez habría ganado la pelea
+		...si su escudo no estuviera hecho de papel maché'
+		'''
+}
+
+DustyGuitar: {
+	DisplayName: Guitarra Polvorienta
+	Tooltip:
+		'''
+		'Llena de música para calmar el alma
+		y arena'
+		'''
+}
+
+WulfrumGrappler: {
+	DisplayName: Agarrador de Wulfrum
+	Tooltip:
+		'''
+		Los bloques agarrados actúan como punto de pivote desde el cual el usuario se balancea hacia delante
+		Alcance: 15
+		Velocidad de lanzamiento: 8
+		'''
+}
+
+DarklightMushroomCap: {
+	DisplayName: Sombrero de Champiñón de Luz Oscura
+	Tooltip: ""
+}
+
+MushroomCap: {
+	DisplayName: Sombrero de Champiñón
+	Tooltip: ""
+}
+
+TheGreatWaveofAcid: {
+	DisplayName: La Gran Ola de Ácido
+	Tooltip: "'Maple'"
+}
+
+Abyssus: {
+	DisplayName: Abyssus
+	Tooltip: "'Maple'"
+}
+
+MissingPoster: {
+	DisplayName: Cartel de Desaparecido
+	Tooltip: "'Maple'"
+}
+
+DivineGore: {
+	DisplayName: Sangre Divina
+	Tooltip: "'Maple'"
+}
+
+RottingLands: {
+	DisplayName: Tierras Putrefactas
+	Tooltip: "'Maple'"
+}
+
+Frozen2: {
+	DisplayName: Congelado
+	Tooltip: "'Maple'"
+}
+
+Scourgie: {
+	DisplayName: Scourgie
+	Tooltip: "'Maple'"
+}
+
+FalloftheFirstCity: {
+	DisplayName: Caída de la Primera Ciudad
+	Tooltip: "'Maple'"
+}
+
+TheClone: {
+	DisplayName: El Clon
+	Tooltip: "'Maple'"
+}
+
+TheRogueExtractor: {
+	DisplayName: Extractor Pícaro
+	Tooltip: "'Maple'"
+}
+
+RecluseoftheDeep: {
+	DisplayName: Recluso de las Profundidades
+	Tooltip: "'Maple'"
+}
+
+CommonPlague: {
+	DisplayName: Plaga Común
+	Tooltip: "'Maple'"
+}
+
+RAVAGE: {
+	DisplayName: DEVASTACIÓN
+	Tooltip: "'Maple'"
+}
+
+Strength: {
+	DisplayName: Fuerza
+	Tooltip: "'Maple'"
+}
+
+Wisdom: {
+	DisplayName: Sabiduría
+	Tooltip: "'Maple'"
+}
+
+Courage: {
+	DisplayName: Valor
+	Tooltip: "'Maple'"
+}
+
+LighttheWorldAnew: {
+	DisplayName: Ilumina el Mundo de Nuevo
+	Tooltip: "'Maple'"
+}
+
+Gateway: {
+	DisplayName: Puerta
+	Tooltip: "'Maple'"
+}
+
+Envoy: {
+	DisplayName: Enviado
+	Tooltip: "'Maple'"
+}
+
+Serpent: {
+	DisplayName: Serpiente
+	Tooltip: "'Maple'"
+}
+
+NamelessSerpent: {
+	DisplayName: Serpiente sin Nombre
+	Tooltip: "'Maple'"
+}
+
+Rebirth: {
+	DisplayName: Renacimiento
+	Tooltip: "'Maple'"
+}
+
+CalamitasPortrait: {
+	DisplayName: Retrato de Calamitas
+	Tooltip: "'Maple'"
+}
+
+CataclysmPortrait: {
+	DisplayName: Retrato de Cataclismo
+	Tooltip: "'Maple'"
+}
+
+CatastrophePortrait: {
+	DisplayName: Retrato de Catástrofe
+	Tooltip: "'Maple'"
+}
+
+Exhume: {
+	DisplayName: Exhumar
+	Tooltip: "'Maple'"
+}
+
+Constructions: {
+	DisplayName: Fabricaciones
+	Tooltip: "'Maple'"
+}
+
+TheMechsMK1: {
+	DisplayName: Los Mecánicos MK1
+	Tooltip: "'Maple'"
+}
+
+TheMechanicalGamer: {
+	DisplayName: El Gamer Mecánico
+	Tooltip: "'Maple'"
+}
+
+Goozling: {
+	DisplayName: Goozling
+	Tooltip: "'Maple'"
+}
+
+CreationoftheShadow: {
+	DisplayName: Creación de la Sombra
+	Tooltip: "'Maple'"
+}
+
+RestingPlace: {
+	DisplayName: Lugar de Descanso
+	Tooltip: "'Maple'"
+}
+
+PARRY: {
+	DisplayName: PARRY
+	Tooltip: "'Maple'"
+}
+
+Reclaimed: {
+	DisplayName: Reclamado
+	Tooltip: "'Maple'"
+}
+
+GardenoftheDead: {
+	DisplayName: Jardín de los Muertos
+	Tooltip: "'Maple'"
+}
+
+GodlyVisions: {
+	DisplayName: Visiones Divinas
+	Tooltip: "'Maple'"
+}
+
+OurFounder: {
+	DisplayName: Nuestro Fundador
+	Tooltip:
+		'''
+		Dedicado a nuestro fundador - Jamiel Wulf Rummingson
+		'Maple'
+		'''
+}
+
+LightningStruck: {
+	DisplayName: Golpeado por el Rayo
+	Tooltip: "'Maple'"
+}
+
+Patula: {
+	DisplayName: Patula
+	Tooltip: "'Maple'"
+}
+
+Kumo: {
+	DisplayName: Kumo
+	Tooltip: "'Maple'"
+}
+
+TheMarionette: {
+	DisplayName: La Marioneta
+	Tooltip: "'Maple'"
+}
+
+TheYu: {
+	DisplayName: El Yu
+	Tooltip: "'Maple'"
+}
+
+GhostLady: {
+	DisplayName: Dama Fantasma
+	Tooltip: "'Maple'"
+}
+
+SundayAfternoonCal: {
+	DisplayName: Una Tarde de Domingo en el Mundo de Calamity
+	Tooltip: "'Maple'"
+}
+
+FamiliarPot: {
+	DisplayName: Maceta Familiar
+	Tooltip: ""
+}
+
+FamiliarSkinnyPot: {
+	DisplayName: Maceta Familiar Delgada
+	Tooltip: ""
+}
+
+FamiliarTallPot: {
+	DisplayName: Maceta Familiar Alta
+	Tooltip: ""
+}
+
+FamiliarUrnPot: {
+	DisplayName: Maceta Familiar Tipo Urna
+	Tooltip: ""
+}
+
+ArcticWisteria: {
+	DisplayName: Glicina Ártica en Maceta
+	Tooltip: ""
+}
+
+CrepuscularMallow: {
+	DisplayName: Malva Crepuscular en Maceta
+	Tooltip: ""
+}
+
+EverfrostPine: {
+	DisplayName: Pino de Escarcha Eterna en Maceta
+	Tooltip: ""
+}
+
+MarrowWillow: {
+	DisplayName: Sauce de Médula en Maceta
+	Tooltip: ""
+}
+
+PaleblotBane: {
+	DisplayName: Azote Paleblot en Maceta
+	Tooltip: ""
+}
+
+SpiderPalm: {
+	DisplayName: Palma Araña en Maceta
+	Tooltip: ""
+}
+
+WulfrumBeam: {
+	DisplayName: Viga de Wulfrum
+	Tooltip: ""
+}
+
+BunkerPlatform: {
+	DisplayName: Plataforma de Búnker
+	Tooltip: ""
+}
+
+PhantoSprout: {
+	DisplayName: Brote Phanto
+	Tooltip:
+		'''
+		Invoca una montura Ciervo de Escombros Fantasma que puede volar brevemente
+		'Spookay~'
+		'''
+}
+
+MoldyWood: {
+	DisplayName: Madera Mohosa
+	Tooltip: ""
+}
+
+NautilusShell: {
+	DisplayName: Concha de Nautilus
+	Tooltip:
+		'''
+		Invoca a Nautilus Jr.
+		'Tal vez tú y yo no seamos tan distintos después de todo'
+		'''
+}
+
+KiteTestItem: {
+	DisplayName: Ítem de Prueba de Cometa
+	Tooltip: ""
+}
+
+ShatteredHeartoftheCommunity: {
+	DisplayName: Corazón de la Comunidad Destrozado
+	Tooltip:
+		'''
+		[c/C61B40:Una gran creación profanada pero inquietantemente hermosa]
+		[c/C61B40:¿Vale la pena alcanzar tal belleza con magia oscura?]
+		'''
+}
+
+MoldyHoody: {
+	DisplayName: Sudadera Mohosa
+	Tooltip:
+		'''
+		Transforma al portador en un monstruo guardián infestado de hongos
+		'Ocuparás muchísimo más espacio'
+		'''
+}
+
+AldebaranCloak: {
+	DisplayName: Capa de MiniMacDon
+	Tooltip:
+		'''
+		Victoria ganada con repetición
+		[c/#6BF0FF:- Ítem de Donante -]
+		'''
+}
+
+AldebaranHelmet: {
+	DisplayName: Yelmo de MiniMacDon
+	Tooltip:
+		'''
+		Victoria ganada con repetición
+		[c/#6BF0FF:- Ítem de Donante -]
+		'''
+}
+
+AldebaranLeggings: {
+	DisplayName: Pantalones de MiniMacDon
+	Tooltip:
+		'''
+		Victoria ganada con repetición
+		[c/#6BF0FF:- Ítem de Donante -]
+		'''
+}
+
+AldebaranVest: {
+	DisplayName: Chaleco de MiniMacDon
+	Tooltip:
+		'''
+		Victoria ganada con repetición
+		[c/#6BF0FF:- Ítem de Donante -]
+		'''
+}
+
+Brainstorm: {
+	DisplayName: Lluvia de Ideas
+	Tooltip: Dispara agujas verdes que gradualmente vuelven verdes a los enemigos golpeados
+}
+
+GreenNeedle: {
+	DisplayName: Aguja Verde
+	Tooltip: Llena de queratina
+}

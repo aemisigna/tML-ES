@@ -1,0 +1,436 @@
+# April fools!
+Meldosaurus.DisplayName: Meldosaurus
+
+Jharim: {
+	DisplayName: Tirano de la Jungla
+	NPCName: Jharim
+
+	TownNPCMood: {
+		Content: Hyuck Hyuck Hyuck, todo va bien en el mundo.
+		NoHome: POR FAVOR dame un hogar, estar en la naturaleza me da impulsos violentos.
+		LoveSpace: ¡Jharim está muy feliz, y lo único que lo mejoraría es que te arrodilles ante mí de inmediato!
+		FarFromHome: ¡Exijo que traigas al gran Jharim de vuelta a su hogar!
+		DislikeCrowded: No puedo oír mis propios pensamientos con todo el ruido que hacen estos campesinos Hyu Hyu Hyu...
+		LikeBiome: ¡Ah, el {BiomeName}, qué bueno estar de vuelta aquí!
+		LoveBiome: ¡Me encanta oler hongos!
+		DislikeBiome: ¡BRRRR BRRR BRB RBR BR BRB RB RBR BR SÁQUENME DE AQUÍ!
+		HateBiome: ¡Desprecio la mera existencia del océano! ¡Sigue gritando hacia mí!
+		LikeNPC: ¡Siempre quise ser pirata, y {NPCName} es un buen mentor!
+		LoveNPC: ¡{NPCName} me recuerda mucho a mi madre y me encanta! Madre...
+		DislikeNPC: Me niego a pagarle impuestos a {NPCName}. ¡Criatura vil!
+		HateNPC: OH NO NO NO ALEJA A ESA B- QUIERO DECIR BRUJA DE MÍ
+		LikeNPC_Princess: Jharim considera a {NPCName} una aliada digna de la nación de Jharim.
+		Princess_LovesNPC: "{NPCName} es un tipo muy gracioso."
+		HateCrowded: Odio lo abarrotado que estoy.
+	}
+
+	Chat: {
+		homeless1: Hyuck Hyuck Hyuck, hola, soy Jharim el Gran Tirano de la Jungla. Aparezco en busca de alguien que derrote a una gran bestia por mí.
+		homeless2: Esa bolsa no era muy cómoda. Creo que me comí una mosca ahí dentro.
+		homeless3: Hyuck Hyuck Hyuck, yo, como Gran Tirano de la Jungla, te ayudaré en tu misión de derrotar al Tirano de la Jungla No-Tan-Gran... ¡no haciendo nada!
+		LunarTower: Estos pilares dan miedo, y esas bolas oscuras que sueltan algunos de sus amigos son... no quiero tocar ninguna... especialmente si está en llamas, así que por favor no me dispares con armas ígneas hechas de esa cosa.
+		WITCH: ¡ALEJA A ESA BRUJA MALDITA DE MÍ!
+		SEAHOE1: ¿Cómo es que Amidias sigue vivo? Pensé que lo había quemado esa bruja TONTA.
+		SEAHOE2: ¿Cómo es que Amidias sigue vivo? Pensé que lo había quemado Soup Ree Calamitoad.
+		Draedon: ¡DRAAAAAAAAAEEEEEEEDOOOOOOOOOOOONNNNNNNNNNNNNNNNNNN SÉ LO QUE HICISTE!
+		THELORDE: ¡IMPOSTOR!
+		Yharon: Hyuck Hyuck Hyuck, ¡mi leal amigo Yharon! ¡Te ordeno que dejes de atacar! ... Supongo que no me reconoce...
+		GetBossDowned1: Es hora de que te enfrentes a él.
+		GetBossDowned2: El dios del universo... está dispuesto a enfrentarte ahora.
+		WaterElementalMinion: OoooooO Señora Pez, ¡dime! ¡Dónde están mis tacos de pescado!
+		eclipse1: Hyuck Hyuck Hyuck, por qué está tan oscuro.
+		eclipse2: Hmm, ¡YA SÉ! ¡Debería ir a pelear con una de esas polillas! ¡He peleado con un montón de polillas antes!
+		bossrush1: ¡EL CIELO SE DERRUMBA, ES EL FIN OTRA VEZ!
+		bossrush2: ¡LA POLILLA, DESATARÁ EL CAOS SOBRE MÍ Y ME LANZARÁ FUERA DE LA EXISTENCIA AAAAAHHHHHHHHHH!
+		AcidRainActive1: croac.
+		AcidRainActive2: Me siento un poco borracho ahora mismo Hyickup Hyickup. Tal vez debería dejar de beber ácido altamente tóxico...
+		PartyIsUp1: Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck Hyuck .
+		PartyIsUp2: ¡HORA DE LA FIESTAAAAAAAAAAAAAAAA HYUCK HYUCK HYUCK!
+		Day1: Hyuck Hyuck Hyuck, ¡Jharim el Grande te ordena que me consigas pescado! ... ¡¿cómo que no quieres?!
+		Day2: Yharim es un impostor, ¡YO SOY EL ÚNICO TIRANO DE LA JUNGLA!
+		Day3: HYuHck HYuHck HYuHck. ¿Por qué estoy deletreando así?
+		Day4: Cuando era más joven, torturé a una abeja durante un minuto seguido y luego le clavé clavos en el cuerpo. Fue gracioso y tuvo muchas vistas en TubeYou.
+		Night1: Está oscuro.
+		Night2: Hyuck Hyuck Hyuck, ¡las noches me recuerdan la vez que fui a la playa y casi me asesinan!
+		Night3: Me pregunto a dónde se fue mi perro mascota.
+		bloodMoon1: Corre.
+		bloodMoon2: La luna roja... una cosa maldita... En fin, ¿dónde están mis waffles, date prisa, pequeño.
+		bloodMoon3: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.
+		0: GAHUGIEGJIWEGUIEUWG
+	}
+
+	ChatButtons0: Tienda
+	ChatButtons1: "Tienda "
+	ChatButtons2: Cambiar tienda
+	ChatButtons3: Invocar
+	ButtonClicked1: Me has despertado... es hora de pagar el precio...
+	ButtonClicked2: Aún no es el momento. Solo aparecerá después de que tanto la bruja suprema como las abominaciones mecánicas hayan sido silenciadas.
+	EdgyTalk1: ¡GRAHGAHGAH POR QUÉ HARÍAS ESO!
+	EdgyTalk2: SE    VA A DESPERTAR AYUDAYUDAYUDA
+	EdgyTalk3: ORULQDORULQDORULQDORULQD
+	Bestiary: Un idiota torpe.
+	Census.SpawnCondition: Es un secreto
+}
+
+Amogus: {
+	FightTalk1: ESPERAAAAAAAAAAAAAAAA
+	FightTalk2: Esto no es abril... por qué estoy aquí...
+	FightTalk3: ¿Podría ser que... ¡¿Alguien ha estado haciendo trampa!? ¡¿INCLUSO UN IMPOSTOR?!?!?!
+	FightTalk4: Eso es bastante sospechoso, chico, ¿y sabes lo que les hacemos a los pequeños sospechosos, verdad?
+	FightTalk5: Los expulsamos.
+	CutsceneTalk1: Interesante, sobreviviste...
+	CutsceneTalk2: Probablemente hiciste trampa, la verdad, o los ataques no funcionaban bien.
+	CutsceneTalk3: En fin, supongo que me demostraste tu valía. Ponte el sombrero de piedra si quieres otra ronda.
+}
+
+Fogbound: {
+	DisplayName: Hyper Ultra Omega Fogbound DIOS EX: Edición Prepárate para lo Estigio
+	ThePhrase: Necio mortal, solo puedes presenciarme en mi plenitud en la hora de las brujas...
+}
+
+# Critters
+AstJR.DisplayName: Slime Astragelatina
+Blightolemur.DisplayName: Bleamur
+Blinker.DisplayName: Blinker
+CrystalFly.DisplayName: Mariposa Profanada
+Eyedol.DisplayName: Eyedol
+GAstJR.DisplayName: Slime Astragelatina Dorado
+GodSlayerSlug.DisplayName: Babosa Asesina de Dioses
+GoldenIsopod.DisplayName: Isópodo Dorado
+GoldEyedol.DisplayName: Eyedol Dorado
+GoldViolemur.DisplayName: Violemur Dorado
+Isopod.DisplayName: Isópodo Abisal
+NeuroFly.DisplayName: Neuro Mosca
+NukeFly.DisplayName: Vaporofly
+Orthobab.DisplayName: Cría de Orthocera
+OrthoceraApparition.DisplayName: ¿Orthocera?
+PerfoGrub.DisplayName: Larva Perforadora
+PlagueFrog.DisplayName: Rana Apestada
+ProvFly.DisplayName: Mariposa Profanada
+SandTurtle.DisplayName: Tortuga de Arena
+Swearshroom.DisplayName: Swearshroom
+Vaporofly.DisplayName: Vaporofly
+Violemur.DisplayName: Violemur
+Xerocodile.DisplayName: Xerocodile Despertado
+XerocodileSwim.DisplayName: Xerocodile Despertado
+# Town NPCs
+JellyPriestBound.DisplayName: Sacerdotisa Gelatina Atada
+
+JellyPriestNPC: {
+	DisplayName: Sacerdotisa Gelatina
+	NPCName1: Eika
+	NPCName2: Feferi
+	NPCName3: Netlia
+	NPCName4: Atollia
+	NPCName5: Melodi
+	NPCName6: Manawa
+	NPCName7: Signathia
+	NPCName8: Kanji
+	NPCName9: Mariacala
+	NPCName10: Cuboza
+	NPCName11: Nidaria
+	NPCName12: Crasqua
+	NPCName13: Kuti
+	NPCName14: Ooma
+
+	TownNPCMood: {
+		Content: Este lugar debería servir para hacer un santuario.
+		NoHome: ¡Necesito un lugar establecido donde construir y adorar!
+		LoveSpace: ¡Puedo construir mucho con todo este espacio!
+		FarFromHome: Por favor llévame de vuelta a mi hogar. Alguna de mis piezas podría romperse.
+		DislikeCrowded: La cantidad de gente aquí me pone un poco nerviosa, alguien podría romper una de mis estatuas.
+		HateCrowded: ¡No puedo construir bien con todos aquí, las cosas se rompen a diestro y siniestro!
+		LoveBiome: El {BiomeName} es bastante agradable. Siento una presencia cálida... tal vez el elemental resida aquí...
+		LikeBiome: Este lugar es pacífico; no te equivocas al construir en el {BiomeName}
+		DislikeBiome: El calor es insoportable aquí, no creo que el elemental viniera a un lugar así.
+		HateBiome: ¡Hay criaturas horribles aquí, no puedo construir nada con ellas merodeando!
+		LikeNPC: "{NPCName} y yo compartimos aprecio por las artes. Tiene buen gusto."
+		DislikeNPC: La piromanía de {NPCName} es terrible. ¡Sigo temiendo que cualquier día vuele mis plantas!
+		LikeNPC_Princess: "{NPCName} tiene unas decoraciones bonitas, me gusta su estilo."
+		Princess_LovesNPC: "{NPCName} parece ocupar un rol similar al mío, vendiendo decoraciones bonitas. ¡Espero que no me vea como competencia!"
+		LoveNPC: Me encanta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+	}
+
+	Chat: {
+		0: ¡Oh, por Xeroc! ¡Es ella! ¡Tengo que terminar los preparativos rápido!
+		00: ¡Después de todos mis preparativos, por fin está aquí! ¡Anahita de las Mareas!
+		bossed: QUÉ ES ESA HORRIBLE MONSTRUOSIDAD
+		Kuti0: ...En realidad, esa cosa es un poco linda.
+		Kuti1: ¡Aww, esa bolita flotante que tienes es adorable! ¡Me recuerda a mi magnífico hogar de la infancia! La extraño...
+		homeless1: Estar libre de esas enredaderas es genial y todo, pero necesito un lugar donde asentarme para esculpir.
+		homeless2: ¡Saludos, criatura de tierra! Emerjo de este viejo mar con la esperanza de viajar y encontrar un cierto ídolo de los viejos tiempos, de cuando el mar era un hermoso reino para muchos. ¿Tienes alguna pista de dónde podría encontrarlos?
+		WITCH1: Esa bruja... no me trae buenos recuerdos...
+		WITCH2: ¿Has oído de la destrucción de la capital del inframundo por la Bruja de Azufre? Fue toda una tragedia... ¡mucha arquitectura arruinada!
+		SEAHOE1: El gran rey del mar... he oído muchos relatos de él... ¿Y dices que lo encontraste dentro de una almeja...? Oh cielos, qué patético.
+		SEAHOE2: ¿Crees que Amidias sepa algo del ídolo del mar que busco? Parece que ese viejo caballo sabe mucho de su historia.
+		leviathan1: ¡Oh! ¿Así que encontraste la ubicación del ídolo que busco? Por favor, explícame todo en detalle, me encantaría empezar a trabajar en mis ofrendas y monumentos lo antes posible.
+		leviathan2: Por alguna razón, la presencia del ídolo se siente debilitada. Espero que no le haya pasado nada malo.
+		scal: Uff, con todas tus aventuras, ¡he llenado bastante el inventario!
+		WaterElementalMinion: ¿Lograste hacerte amigo de la gran Elemental del Agua? Estoy impresionada.
+		SirenHeart: ¡OH! Por favor, bienvenido a mi tienda. He estado preparando esto solo para ti.
+		OceanSpirit: Aww, esa pequeña es linda. Me recuerda mucho al ídolo que busco.
+		babywaterclone: Esa pequeña tiene una presencia similar, pero distinta, al ídolo que busco.
+		eclipse1: Parece aterrador ahí fuera, qué tal si te quedas dentro de mi humilde morada.
+		eclipse2: Hmm, tal vez pueda usar esos trozos de tela que tienen algunas de esas criaturas para hacer algo.
+		PartyIsUp1: ¡Las fiestas son divertidas! Ojalá algún día pueda ayudar a organizar una que capte la atención del ídolo que busco.
+		PartyIsUp2: Hay mucha celebración hoy. ¡Ojalá pueda animar las cosas con mis decoraciones!
+		Day1: Este lugar apesta a tristeza, déjame ayudarte a mejorarlo con unas hermosas decoraciones, ¿sí?
+		Day2: Ya te dije, no voy a volver a ese mar apestoso a conseguirte materiales para tus cosas... a menos que traigas un poco de monedas extra, claro.
+		Day3: Me encantaría decorar tu lugar gratis, pero necesito algunas monedas para comprar ofrendas, ¿sabes?
+		Day4: ¿Oh, de dónde saqué este delantal y estas herramientas? ¡Todo es hecho a mano por mí con recursos de por aquí! Con el tiempo y suficiente pasión aprendes a hacer estas cosas.
+		Night1: Aunque el cielo nocturno dificulta ver, algunas de mis decoraciones pueden atravesar la oscuridad con luz colorida.
+		Night2: En realidad tengo más motivación para trabajar de noche, la luna me recuerda a alguien...
+		Night3: Me pregunto si el ídolo que busco mira la luna como yo.
+		bloodMoon1: Esta no es una noche en la que me apetezca trabajar.
+		bloodMoon2: Cariño, ¿podrías vigilar los muebles? Las cosas parecen salirse de control por alguna razón.
+		bloodMoon3: El rojo siniestro del cielo no le queda bonito a la mayoría de mis decoraciones...
+		bloodMoon4: ¡Aléjate de mis estatuas!
+	}
+
+	ChatButtons1: Bloques
+	ChatButtons2: Bloques de endgame
+	ChatButtons3: General
+	ChatButtons4: Plantas
+	ChatButtons5: Bloques
+	ChatButtons0: Cambiar tienda
+	Bestiary: Una medusa que tomó un giro evolutivo extraño. Su afinidad por la construcción sinergiza con su devoción a la Elemental del Agua.
+	Census.SpawnCondition: Encuéntrala en el Mar Sulfuroso tras derrotar el primer nivel de la Lluvia Ácida
+}
+
+OracleNPC: {
+	DisplayName: Oráculo
+	NPCName1: Maddi
+	NPCName2: Tiggy
+	NPCName3: Gabriel
+	NPCName4: Lex
+	NPCName5: Gwyn
+	NPCName6: Sammy
+	NPCName7: Eve
+	NPCName8: Emily
+	NPCName9: Lilith
+	NPCName10: Rachel
+	NPCName11: Leah
+	NPCName12: Rebecca
+	NPCName13: Alex
+	NPCName14: Mabel
+
+	TownNPCMood: {
+		Content: Aquí se está bastante tranquilo.
+		NoHome: ¡Hombre, no puedo cuidar a todos mis pequeños sin un hogar de verdad!
+		LoveSpace: ¡Hay tanto espacio aquí para que TUB corra, es genial!
+		FarFromHome: No creo que TUB se sienta muy cómodo tan lejos de casa.
+		DislikeCrowded: Es un poco incómodo aquí con toda esta gente; no hay mucho espacio para mis pequeños.
+		HateCrowded: ¡Toda esta gente está asustando a TUB!
+		LikeBiome: El {BiomeName} es un lugar agradable y pacífico para que mis pequeños y yo nos instalemos.
+		DislikeBiome: El {BiomeName} no es realmente un lugar adecuado para la mayoría de mis pequeños.
+		HateBiome: Todos estos monstruos preocupan, no siento que TUB esté a salvo.
+		LikeNPC: "{NPCName} es bastante genial. Ella y TUB son buenos amigos."
+		DislikeNPC: ¡{NPCName} es un punk asqueroso que caza criaturitas por diversión, qué vil!
+		LikeNPC_Princess: "{NPCName} parece ser popular entre los animales, tiene una vibra agradable."
+		Princess_LovesNPC: Me gusta lo tranquila que es {NPCName}. ¡Su pequeño TUB también es lindo!
+		LoveBiome: Me encanta el {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+	}
+
+	Chat: {
+		homeless1: Ya sé, ya sé, no puedes hacer casas para cada uno de mis compañeros, ¿pero podrías darme una a mí?
+		homeless2: Puede que no sea muy útil para tu aventura, ¡pero créeme, mis bebés son adorables!
+		miscEquips1: "Aww... me encanta tu pequeño compañero, "
+		miscEquips11: . Cuídalo, ¿sí?
+		miscEquips2: ¡Qué monada tienes ahí, punk! Mejor cuídalo, ¿sí?
+		miscEquips3: Deberías alegrarte de que tu compañero no sea como TUB.
+		miscEquips4: Tal vez deberías empezar a guardar a tu compañero, por tu propia seguridad.
+		astro1: El otro día estaba mirando por esa zona espacial y vi un robot grande. Parecía tener algo de slime saliendo de él... me pregunto si se podría desprender con más babaza espacial o algo.
+		astro2: Sabes, si estás intentando encontrar a cierta pequeña Elemental del Agua, tal vez tengas más suerte yendo de pesca en vez de recurrir a la violencia.
+		Bumblefuck: ¡Ese pajarito de allá parece tener un montón de amiguitos que puedes recuperar!
+		WITCH: Algunos pueden temer a Calamitas, ¡pero tiene un montón de cositas lindas con ella como esos murciélagos y el necrópodo! No puede ser tan mala.
+		Wizard1: " puede parecer un viejo raro con un disfraz tonto, pero su magia es real, sin duda."
+		Wizard2: "Oye punk, ¿puedes hablar con "
+		Wizard22: ? ¡Tengo un compañero que podría gustarle!
+		expertMode1: Sabes, chico, muchos pequeños compañeros solo siguen a quienes se desafían a sí mismos. Algunos dirían que solo siguen a Expertos.
+		expertMode2: Aunque tu aventura actual da muchas oportunidades de encontrar amiguitos, ¡oí que los Expertos atraen muchos más!
+		eclipse1: ¡Me alegra que ninguno de mis amigos se vuelva tan sin mente como estos monstruos!
+		eclipse2: "Oye "
+		eclipse22: ", si ves que uno de mis bebés se pone un poco más agresivo de lo normal, por favor no le hagas daño."
+		eclipse3: ¡Oye punk! Prométeme que nos protegerás a mí y a mis compañeros, ¿sí?
+		eclipse4: Me alegra mucho que mis amigos no se estén volviendo locos en este día raro.
+		PartyIsUp1: ¡Mis monadas se lo están pasando genial en este día! ¡Deberías conseguirte una para pasártelo bien también!
+		PartyIsUp2: ¡Hoy es un gran día para conseguir un nuevo colega! Deberías conseguirte uno hoy, bro.
+		ninja: ¿Alguna vez has intentado lanzarle una estrella de metal a un slime? Oí que si lo haces suficiente, te tomará cariño
+		Day1: ¡Oye punk! Tengo unas mascotas lindas y sé que quieres comprarte una
+		Day2: Estás destinado a hacer grandes cosas, bro. Haz una ahora y dale un hogar a estos bebés.
+		Day3: ¿Cómo come mi pequeña mascota TUB? Bueno... no quieres saber eso, colega.
+		Day4: "Ser clarividente me ayuda a encontrar mascotas necesitadas y hogares para las que tengo. ¿Cuál te llevas hoy "
+		Day44: ?
+		Day5: Te estaba esperando, punk. Justo a tiempo. Ahora hablemos de esas monadas.
+		Night1: Las estrellas te observan, punk. No las defraudes.
+		Night2: Está oscuro y sombrío afuera. ¿Por qué no te compras uno de mis pequeños para animarte?
+		Night3: Nunca es tarde para conseguir uno de estos bebés. ¡Consigue uno ya, punk!
+		Night4: ¿Necesitas un compañero en estos tiempos oscuros?
+		Next: TÚ ERES EL SIGUIENTE.
+		bloodMoon1: Más te vale conseguirte uno de estos bebés, o si no.
+		bloodMoon2: No quieres saber lo que mi compañero TUB puede hacerte en estos tiempos.
+		bloodMoon3: Más te vale no interponerte entre yo y uno de mis bebés.
+		bloodMoon4: "Oye "
+		bloodMoon44: ", tal vez deberías intentar esconderte esta noche."
+		bloodMoon5: Más te vale correr esta noche, punk. TUB te busca y no se va a contener.
+		bloodMoon6: Si te gusta vivir, deberías empezar a esconderte.
+	}
+
+	ChatButtons: Adivinación
+	ButtonClicked1: ¡Esto es lo que TUB encontró con mi adivinación!
+	ButtonClicked2: ¡Perdón colega, solo una lectura por día!
+	Bestiary: Una clarividente con pasión por coleccionar pequeñas criaturas. La acompaña una criaturita blandita que creó con sus poderes místicos.
+	Census.SpawnCondition: Equipa una mascota o mascota de luz
+}
+
+OracleNPCPet_Pet.DisplayName: TUB
+
+NuggetPet: {
+	// Bc big smoke
+	NuggetNameCommon1: Melvin
+	// The headless chicken
+	NuggetNameCommon2: Mike
+	// Rango chicken
+	NuggetNameCommon3: Gordy
+	NuggetNameCommon4: Cluckin Bell
+	NuggetNameCommon5: McDonald
+	NuggetNameCommon6: Buckbeak
+	NuggetNameCommon7: Doodle
+	NuggetNameCommon8: Beaky
+	NuggetNameCommon9: Randy
+	NuggetNameCommon10: Spurs
+	NuggetNameCommon11: Pollito
+	Chat1: ¡Cloc!
+	Chat2: Pío pío
+	Chat3: Cloc cloc
+	Chat4: ¡Bawk!
+	Chat5: Pock pock
+	Chat6: Quiquiriquí
+}
+
+NuggetNugget: {
+	# Town NPCs
+	DisplayName: Nugget
+	NuggetName1: Yhary
+	NuggetName2: Kulu-Ya-Ku
+	NuggetName3: Kazooie
+	NuggetName4: Taco
+	NuggetSpawn: ¡{0} ha resurgido de las cenizas de {1}!
+	Canspawn: La licencia se teletransporta al servicio de entrega McNugget...
+	Nospace: ¡No hay suficiente espacio para un renacimiento en {0}!
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+DracoNugget: {
+	DisplayName: Nugget Draconiano
+	NuggetName1: Rocky
+	NuggetName2: Aknosom
+	NuggetName3: Pico
+	NuggetName4: Frijol
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+FollyNugget: {
+	DisplayName: Nugget Esponjoso
+	NuggetName1: Yatagarasu
+	NuggetName2: Huginn
+	NuggetName3: Munnin
+	NuggetName4: Alitas
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+GODNugget: {
+	DisplayName: Nugget Fénix
+	NuggetName1: Fiery
+	NuggetName2: Fatalis
+	NuggetName3: Guacamole
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+MammothNugget: {
+	DisplayName: Mini Nugget Mamut
+	NuggetName1: Betty
+	NuggetName2: Ibushi
+	NuggetName3: Pechuga
+	NuggetName4: Sobras
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+ShadowNugget: {
+	DisplayName: Nugget Sombra
+	NuggetName1: Darky
+	NuggetName2: Gore Magala
+	NuggetName3: JubJub
+	NuggetName4: Mole
+	Census.SpawnCondition: Usa una [i:CalValEX/NuggetLicense] comprada al Oráculo
+}
+
+MeldwyrmBody.DisplayName: Meldwyrm
+MeldwyrmHead.DisplayName: Meldwyrm
+MeldwyrmTail.DisplayName: Meldwyrm
+MeldWyrmBody.DisplayName: Cuerpo de Meldwyrm
+MeldWyrmHead.DisplayName: Cabeza de Meldwyrm
+MeldWyrmTail.DisplayName: Cola de Meldwyrm
+
+NinjaSlime: {
+	DisplayName: Slime Ninja
+	SlimeName1: Slipstream Sam
+	SlimeName2: Sasuke
+	SlimeName3: Sine
+	SlimeName4: Sekiro
+	SlimeName5: Sakura
+	SlimeName6: Slash
+	SlimeName7: Shadow
+	SlimeName8: Shade
+	SlimeName9: Shatter
+	SlimeName10: Strike
+	Census.SpawnCondition: Tiene probabilidad de aparecer al golpear cualquier slime normal con un [i:42]
+	Chat1: ¡Gooyah!
+	Chat2: ¡Splitch splotch!
+	Chat3: Herb.
+	Chat4: ¡Squaaargh!
+	Chat5: *ruidos de ahogo*
+}
+
+AstroSlime: {
+	DisplayName: Slime Astro
+	SlimeName1: Spacey
+	SlimeName2: Star
+	SlimeName3: Sky
+	SlimeName4: Sagittarius
+	SlimeName5: Saga
+	SlimeName6: Shuttle
+	SlimeName7: Saturn
+	SlimeName8: Solaris
+	SlimeName9: Spiral
+	SlimeName10: Supernova
+	SlimeName11: Sedna
+	SlimeName12: SOS
+	SlimeName13: Susy
+	Census.SpawnCondition: Golpea a Astrum Aureus con el súbdito del Bastón de Slime Abandonado
+	Chat1: ... .-.. ..- .-. .--. / ... .-.. --- .-. .--.
+	Chat2: Zip zippity zip slip slorp
+	Chat3: Bwewewowowo broooing
+}
+
+Tarr: {
+	DisplayName: Tarr
+	SlimeName1: Sugma
+	SlimeName2: Sludgetar
+	SlimeName3: Sooty
+	SlimeName4: Slabbish
+	SlimeName5: Slickster
+	SlimeName6: Swirls
+	SlimeName7: Sable
+	SlimeName8: Stickytoil
+	SlimeName9: Smoltar
+	SlimeName10: Slithergrime
+	Census.SpawnCondition: Derrota a Goozma (con Hunt of the Old God) o deja que el Dios Slime se coma un slime de pueblo (sin HotOG)
+	Chat1: ¡Grah!
+	Chat2: Grooz...
+	Chat3: It's ya boy Goozma
+	Chat4: Gronch
+}

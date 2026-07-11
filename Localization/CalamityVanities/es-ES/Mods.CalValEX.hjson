@@ -1,0 +1,78 @@
+Bestiary: {
+	GoldenIsopod: Incluso en los lugares más oscuros se pueden encontrar entidades doradas como el Isópodo Dorado.
+	GoldEyedol: Un ídolo especialmente fabricado y poseído por un espíritu. El constructo fue usado anteriormente por el propio gobernante de la capital.
+	GoldViolemur: Una variante rara de criatura. Se dice que el Violemur Dorado es una especie de líder para los demás Violemurs de la infección.
+	Orthobab: Descendientes más recientes de El Caparazonado. A pesar de su apariencia torpe, cualquiera de estos podría crecer y convertirse en algo horripilante.
+	ProvFly: Una mariposa que posee energía de una de las dos mitades del poder de una diosa ardiente.
+	PerfoGrub: Un pequeño parásito con forma de larva, la vil progenie de los Perforadores.
+	Eyedol: En el apogeo de la capital, algunos fabricaban pequeños ídolos para adorar al elemental en casa. La destrucción de la capital impregnó a algunos de magia, otorgándoles conciencia.
+	OrthoceraApparition: Un heraldo de un apocalipsis por venir. No tomes su advertencia a la ligera.
+	AstJR: Un glóbulo sensible del entorno alienígena. A diferencia de otros slimes, no posee capacidades ofensivas.
+	GAstJR: Un glóbulo sensible del entorno alienígena. A diferencia de otros slimes, no posee capacidades ofensivas.
+	Blightolemur: En otro fractal del espectro luminoso respecto a los Violemurs, los Bleamurs retozan en paz en la Marchitez Astral, mientras usan los patrones de su cola para atraer presas.
+	PlagueFrog: La plaga liberada por el científico no infectó solo a las criaturas ya hostiles. Formas de vida pacíficas como las ranas también tuvieron la desgracia de caer víctimas de ella.
+	Violemur: Pequeños mamíferos curiosos que han caído víctimas del virus extraterrestre. Los Violemurs aún conservan cierto grado de independencia, a diferencia de las demás formas de vida de la infección.
+	Swearshroom: Las esporas del gran crustáceo no están contentas de que su anfitrión haya sido destruido. Estos hongos malvados tienen tendencias psicópatas, pero son completamente inofensivos.
+	SandTurtle: Una testudina horrible y violenta con altas capacidades defensivas. Son demasiado peligrosas como para dejarlas con vida.
+	Xerocodile: Una antigua especie de reptil que solo sale durante las Lunas de Sangre. De lo contrario son demasiado frágiles para permanecer, y cualquier exposición a la luz solar es letal.
+	Vaporofly: Una antigua especie de insecto revitalizada por las aguas radiactivas.
+	Blinker: Un Destellador que se ha adaptado al entorno único de la Marchitez Astral. Son una fuente de alimento popular entre sus habitantes.
+	CrystalFly: Una mariposa que posee energía de una de las dos mitades del poder de una diosa ardiente.
+	Isopod: Un carroñero dócil que se siente como en casa en el fondo del Abismo. Se les conoce por limpiar los restos de cualquier víctima de la demás fauna del Abismo.
+	GodSlayerSlug: Imitando la apariencia purpúrea y vermiforme de los gusanos cósmicos, este pequeño bicho vaga en paz por la atmósfera superior.
+	NeuroFly: Una de las muchas criaturas que asisten a la Mente Colmena; aunque no están conectadas físicamente, comparten una conexión psíquica. Su único propósito es propagar el virus.
+	Fogbound: El alma del Dios de la Muerte; la llamamos el Fogbound. Aunque uno podría asumir lógicamente que un dios posee dos almas al consumir un Alma Áurica, no es el caso. Más bien, se fusionan en algo mayor que la suma de sus partes.
+	Meldosaurus: Evolución corrompida por los restos de los dioses oscuros. Busca la aceptación de las demás criaturas celestiales sin éxito alguno.
+	MeldwyrmHead: Un gusano parásito que buscó refugio dentro del dinosaurio alienígena. Es probable que criaturas similares ahuequen el interior de los misteriosos pilares.
+}
+
+Biomes: {
+	AstralBlight: {
+		DisplayName: Marchitez Astral
+		TownNPCDialogueName: la Marchitez Astral
+	}
+}
+
+Conditions: {
+	CalamityActive: Mientras el Calamity Mod esté activo
+	ClamDefeated: Después de derrotar a la Almeja Gigante
+	Scourge1Defeated: Después de derrotar al Azote Desértico
+	CrabulonDefeated: Después de derrotar a Crabulon
+	HiveMindDefeated: Después de derrotar a la Mente Colmena
+	PerfsDefeated: Después de derrotar a los Perforadores
+	SlimeGodDefeated: Después de derrotar al Dios Slime
+	CirnogenDefeated: Después de derrotar a Cryogen
+	Scourge2Defeated: Después de derrotar al Azote Acuático
+	BrimEleDefeated: Después de derrotar a la Elemental de Azufre
+	CalCloneDefeated: Después de derrotar al Clon de Calamitas
+	AureusDefeated: Después de derrotar a Astrum Aureus
+	LevAnaDefeated: Después de derrotar al Leviatán y a Anahita
+	GoliathDefeated: Después de derrotar al Goliat Portador de la Plaga
+	RavagerDefeated: Después de derrotar al Devastador
+	DeusDefeated: Después de derrotar a Astrum Deus
+	GuardsDefeated: Después de derrotar a los Guardianes Profanados
+	FollyDefeated: Después de derrotar a Dragonfolly
+	ProviDefeated: Después de derrotar a Providencia
+	WeaverDefeated: Después de derrotar al Tejedor de Tormentas
+	VoidDefeated: Después de derrotar al Vacío Incesante
+	SignusDefeated: Después de derrotar a Signus
+	PolterDefeated: Después de derrotar a Polterghast
+	OldDukeDefeated: Después de derrotar al Viejo Duque
+	DogDefeated: Después de derrotar al Devorador de Dioses
+	YharonDefeated: Después de derrotar a Yharon
+	ExosDefeated: Después de derrotar a los Exo Mecánicos
+	SCalDefeated: Después de derrotar a Calamitas
+	AcidGeneral: Después de completar la Lluvia Ácida de nivel 2 o en el Mar Sulfuroso
+	Evil2Defeated: Si se ha derrotado a la Mente Colmena o a los Perforadores
+	NuggetsSpawn: Si los bestiarios de Calamity y Calamity's Vanities están más del 36.5% completos o si se ha derrotado a Dragonfolly
+	DungeonBiome: Mientras estés en la Mazmorra
+	BlightBiome: Mientras estés en el bioma de la Marchitez Astral
+	UnderLabBiome: Mientras estés en el Laboratorio del Inframundo
+	JungleLabBiome: Mientras estés en el Laboratorio de la Jungla
+	BanditReal: Si la Bandida está presente
+	ArchmageReal: Si el Archimago está presente
+	SulphurousSeaBiome: En el Mar Sulfuroso
+	DesertScourgeDeath: Se obtiene al morir 3 o más veces contra el Azote Desértico en un mismo día.
+}
+
+Emotes.JharimEmote.Command: Jharim

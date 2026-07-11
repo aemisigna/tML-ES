@@ -1,0 +1,417 @@
+# Meldosaurus stuff
+MeldosaurusMusicBoxPlaced.MapEntry: Caja de música
+MeldosaurusTrophyPlaced.MapEntry: Trofeo de Meldosaurus
+AstralPalmSapling.MapEntry: Brote de Palma Astral Marchita
+AstralSapling.MapEntry: Brote Astral Marchito
+SnowAstralSapling.MapEntry: Brote Astral Marchito
+TiedBoB2Placed.MapEntry: Globos de Agua Atados
+TiedBoxBalloonPlaced.MapEntry: Globo Caja Atado
+TiedChaosBalloonPlaced.MapEntry: Globo del Caos Atado
+TiedMirageBalloonPlaced.MapEntry: Globo Espejismo Atado
+AstragellySlimeBannerPlaced.MapEntry: Estandarte de Slime Astragelatina
+BleamurBannerPlaced.MapEntry: Estandarte de Bleamur
+CalamitasBannerPlaced.MapEntry: Estandarte Maldito
+EyedolBannerPlaced.MapEntry: Estandarte de Eyedol
+GodSlayerSlugBannerPlaced.MapEntry: Estandarte de Babosa Asesina de Dioses
+IsopodBannerPlaced.MapEntry: Estandarte de Isópodo Abisal
+SandTurtleBannerPlaced.MapEntry: Estandarte de Tortuga de Arena
+VeilBannerPlaced.MapEntry: Estandarte del Velo
+ViolemurBannerPlaced.MapEntry: Estandarte de Violemur
+XerocodileBannerPlaced.MapEntry: Estandarte de Xerocodile
+AgedLogPlaced.MapEntry: Plano Envejecido
+AstrumAureusBlueprintPlaced.MapEntry: Plano de Astrum Aureus
+BumblebirbBlueprintPlaced.MapEntry: Plano del Proyecto de Clonación de Yharon
+CalamitasBlueprintPlaced.MapEntry: Plano de Calamitas
+DestroyerBlueprintPlaced.MapEntry: Plano del Destructor
+DogBlueprintPlaced.MapEntry: Plano de Revestimiento de Cosmilita
+MurasamaBlueprintPlaced.MapEntry: Plano de Murasama
+OrthoceraBlueprintPlaced.MapEntry: Plan de Exilio de Orthocera
+PlagueBlueprintPlaced.MapEntry: Plano de la Plaga
+PrimeBlueprintPlaced.MapEntry: Plano de Esqueletrón Mayor
+SamBlueprintPlaced.MapEntry: Plano de Murasama EX
+TwinsBlueprintPlaced.MapEntry: Plano de los Gemelos
+YharmorBlueprintPlaced.MapEntry: Plano de Armadura Áurica
+AstJarPlaced.MapEntry: Astrageldon en un Frasco
+BleamurPerchPlaced.MapEntry: Percha de Bleamur
+BlinkerInABottlePlaced.MapEntry: Blinker en una Botella
+GAstJarPlaced.MapEntry: Astrageldon Genial en un Frasco
+GoldViolemurMonolithPlaced.MapEntry: Percha de Violemur Dorado
+NukeJarPlaced.MapEntry: Mosca Nuclear en un Frasco
+OrthoJarPlaced.MapEntry: Orthocera en un Frasco
+ViolemurMonolithPlaced.MapEntry: Percha de Violemur
+CalamitasCofferPlaced.MapEntry: Cofre del Tesoro
+CeremonialUrnPlaced.MapEntry: Urna Ceremonial
+DraedonQuoteonQuoteBagPlaced.MapEntry: Caja de Draedon
+AgedRustGamingTablePlaced.MapEntry: Mesa de Juegos de Laboratorio Envejecida
+RustGamingTablePlaced.MapEntry: Mesa de Juegos de Laboratorio
+RustGamingTablePlaced2.MapEntry: Mesa de Juegos de Laboratorio 2
+OldAstralBathtub.MapEntry: Bañera de Xenomonolito
+OldAstralBed.MapEntry: Cama de Xenomonolito
+OldAstralBookshelf.MapEntry: Librería de Xenomonolito
+OldAstralCandelabra.MapEntry: Candelabro de pie de Xenomonolito
+OldAstralCandle.MapEntry: Vela de Xenomonolito
+OldAstralChair.MapEntry: Silla de Xenomonolito
+OldAstralChandelier.MapEntry: Lámpara araña de Xenomonolito
+
+OldAstralChest: {
+	MapEntry: Cofre de Xenomonolito
+	ContainerName: Cofre de Xenomonolito
+}
+
+OldAstralClock.MapEntry: Mods.CalValEX.MapObject.OldAstralClock
+OldAstralDoorClosed.MapEntry: Puerta de Xenomonolito
+OldAstralDoorOpen.MapEntry: Puerta de Xenomonolito
+
+OldAstralDresser: {
+	MapEntry: Cómoda de Xenomonolito
+	ContainerName: Cómoda de Xenomonolito
+}
+
+OldAstralLamp.MapEntry: Lámpara de Xenomonolito
+OldAstralLantern.MapEntry: Farol de Xenomonolito
+OldAstralPiano.MapEntry: Órgano de Tubos de Xenomonolito
+OldAstralSink.MapEntry: Fregadero de Xenomonolito
+OldAstralSofa.MapEntry: Banco de Xenomonolito
+OldAstralTable.MapEntry: Mesa de Xenomonolito
+OldAstralWorkbench.MapEntry: Banco de trabajo de Xenomonolito
+AuricBathtub.MapEntry: Bañera Áurica
+AuricBed.MapEntry: Cama Áurica
+AuricBookshelf.MapEntry: Librería Áurica
+AuricCandelabra.MapEntry: Candelabro de pie Áurico
+AuricCandle.MapEntry: Vela Áurica
+AuricChair.MapEntry: Silla Áurica
+AuricChandelier.MapEntry: Lámpara araña Áurica
+
+AuricChest: {
+	MapEntry: Cofre Áurico
+	ContainerName: Cofre Áurico
+}
+
+AuricClock.MapEntry: Mods.CalValEX.MapObject.AuricClock
+AuricDoorClosed.MapEntry: Puerta Áurica
+AuricDoorOpen.MapEntry: Puerta Áurica
+
+AuricDresser: {
+	MapEntry: Cómoda Áurica
+	ContainerName: Cómoda Áurica
+}
+
+AuricLamp.MapEntry: Lámpara Áurica
+AuricLantern.MapEntry: Farol Áurico
+AuricManufacturerPlaced.MapEntry: Fabricadora Áurica
+AuricPiano.MapEntry: Piano Áurico
+AuricSink.MapEntry: Fregadero Áurico
+AuricSofa.MapEntry: Sofá Áurico
+AuricTable.MapEntry: Mesa Áurica
+AuricWorkbench.MapEntry: Banco de trabajo Áurico
+BloodstoneBathtub.MapEntry: Bañera de Piedra de Sangre
+BloodstoneBed.MapEntry: Cama de Piedra de Sangre
+BloodstoneBookshelf.MapEntry: Librería de Piedra de Sangre
+BloodstoneCandelabra.MapEntry: Candelabro de pie de Piedra de Sangre
+BloodstoneCandle.MapEntry: Vela de Piedra de Sangre
+BloodstoneChair.MapEntry: Silla de Piedra de Sangre
+BloodstoneChandelier.MapEntry: Lámpara araña de Piedra de Sangre
+
+BloodstoneChest: {
+	MapEntry: Cofre de Piedra de Sangre
+	ContainerName: Cofre de Piedra de Sangre
+}
+
+BloodstoneClock.MapEntry: Mods.CalValEX.MapObject.BloodstoneClock
+BloodstoneDoorClosed.MapEntry: Puerta de Piedra de Sangre
+BloodstoneDoorOpen.MapEntry: Puerta de Piedra de Sangre
+
+BloodstoneDresser: {
+	MapEntry: Cómoda de Piedra de Sangre
+	ContainerName: Cómoda de Piedra de Sangre
+}
+
+BloodstoneLamp.MapEntry: Lámpara de Piedra de Sangre
+BloodstoneLantern.MapEntry: Farol de Piedra de Sangre
+BloodstonePiano.MapEntry: Piano de Piedra de Sangre
+BloodstoneSink.MapEntry: Fregadero de Piedra de Sangre
+BloodstoneSofa.MapEntry: Sofá de Piedra de Sangre
+BloodstoneTable.MapEntry: Mesa de Piedra de Sangre
+BloodstoneWorkbench.MapEntry: Banco de trabajo de Piedra de Sangre
+NecroticTorchPlaced.MapEntry: Antorcha
+RavamperPlaced.MapEntry: Fogata Necrótica
+PhantowaxBathtub.MapEntry: Bañera de Fantocera
+PhantowaxBed.MapEntry: Cama de Fantocera
+PhantowaxBookshelf.MapEntry: Librería de Fantocera
+PhantowaxCandelabra.MapEntry: Candelabro de pie de Fantocera
+PhantowaxCandle.MapEntry: Vela de Fantocera
+PhantowaxChair.MapEntry: Silla de Fantocera
+PhantowaxChandelier.MapEntry: Lámpara araña de Fantocera
+
+PhantowaxChest: {
+	MapEntry: Cofre de Fantocera
+	ContainerName: Cofre de Fantocera
+}
+
+PhantowaxClock.MapEntry: Mods.CalValEX.MapObject.PhantowaxClock
+PhantowaxDoorClosed.MapEntry: Puerta de Fantocera
+PhantowaxDoorOpen.MapEntry: Puerta de Fantocera
+
+PhantowaxDresser: {
+	MapEntry: Cómoda de Fantocera
+	ContainerName: Cómoda de Fantocera
+}
+
+PhantowaxLamp.MapEntry: Lámpara de Fantocera
+PhantowaxLantern.MapEntry: Farol de Fantocera
+PhantowaxPiano.MapEntry: Piano de Fantocera
+PhantowaxSink.MapEntry: Fregadero de Fantocera
+PhantowaxSofa.MapEntry: Sofá de Fantocera
+PhantowaxTable.MapEntry: Mesa de Fantocera
+PhantowaxWorkbench.MapEntry: Banco de trabajo de Fantocera
+WulfrumBathtub.MapEntry: Bañera de Wulfrum
+WulfrumBed.MapEntry: Cama de Wulfrum
+WulfrumBookshelf.MapEntry: Librería de Wulfrum
+WulfrumCandelabra.MapEntry: Candelabro de pie de Wulfrum
+WulfrumCandle.MapEntry: Vela de Wulfrum
+WulfrumChair.MapEntry: Silla de Wulfrum
+WulfrumChandelier.MapEntry: Lámpara araña de Wulfrum
+
+WulfrumChest: {
+	MapEntry: Cofre de Wulfrum
+	ContainerName: Cofre de Wulfrum
+}
+
+WulfrumClock.MapEntry: Mods.CalValEX.MapObject.WulfrumClock
+
+WulfrumDresser: {
+	MapEntry: Cómoda de Wulfrum
+	ContainerName: Cómoda de Wulfrum
+}
+
+WulfrumLabstation.MapEntry: Banco de trabajo de Wulfrum
+WulfrumLamp.MapEntry: Lámpara de Wulfrum
+WulfrumLantern.MapEntry: Farol de Wulfrum
+WulfrumPiano.MapEntry: Piano de Wulfrum
+WulfrumSink.MapEntry: Fregadero de Wulfrum
+WulfrumSofa.MapEntry: Sofá de Wulfrum
+WulfrumTable.MapEntry: Mesa de Wulfrum
+WulfrumToilet.MapEntry: Inodoro de Wulfrum
+WulfrumWorkbench.MapEntry: Banco de trabajo de Wulfrum
+AstralMusicBoxPlaced.MapEntry: Caja de música
+
+AuricTrashCanPlaced: {
+	MapEntry: Cubo de Basura Áurico
+	ContainerName: Cubo de Basura Áurico
+}
+
+BoiMachinePlaced.MapEntry: Máquina Boi
+BrimstoneHeartPlaced.MapEntry: Corazón Colgante
+BubbleMachinePlaced.MapEntry: Glub glub
+CalamityLampPlaced.MapEntry: Antorcha de la Calamidad
+CosmiliteChairEXPlaced.MapEntry: Silla de Cosmilita EX
+DecommissionedDaedalusGolemPlaced.MapEntry: Gólem de Dédalo Desactivado
+DemonShieldPlaced.MapEntry: Accesorio de pared.,,
+DisrepairUnitPlaced.MapEntry: Charletron está muerto...
+EvolutionPlaced.MapEntry: Evolución
+HeartoftheCommunityPlaced.MapEntry: Corazón de la Comunidad
+Helplaced.MapEntry: Ayúdame
+HesfinePlaced.MapEntry: Sigo sin estar bien
+JunkArtPlaced.MapEntry: Acelerador de Partículas Reconstruido
+MireAquariumPlaced.MapEntry: Acuario de Mire
+MoulderingAltarPlaced.MapEntry: Altar Putrefacto
+PlagueDialysisPlaced.MapEntry: Bumbletubo
+PongMachinePlaced.MapEntry: Máquina de Pong
+RespirationShrinePlaced.MapEntry: Santuario de Respiración
+RoxFakePlaced.MapEntry: Roxcalibur Falsa
+SailfishTrophyPlaced.MapEntry: Trofeo de Pez Vela
+SchematicDisplayPlaced.MapEntry: Expositor de Esquemas
+StarstruckSynthesizerPlaced.MapEntry: Sintetizador Estelar
+SulphuricTankPlaced.MapEntry: Tanque Irradiado
+SunkenLampPlaced.MapEntry: Lámpara Hundida
+TerminusShrineLevel2Placed.MapEntry: Santuario Terminus
+TerminusShrineLevel3Placed.MapEntry: Santuario Terminus
+TerminusShrinePlaced.MapEntry: Santuario Terminus
+TeslaPlaced.MapEntry: Bobina del Tejedor
+VisceralAltarPlaced.MapEntry: Altar Visceral
+VoidPortalPlaced.MapEntry: Portal del Vacío
+YellowSeaFountainPlaced.MapEntry: Fuente del Mar Amarillo
+AccidentalAbominationnPlaced.MapEntry: Abominaciónn Accidental
+BlazingConflictPlaced.MapEntry: Conflicto Ardiente
+CalamiteaTimePlaced.MapEntry: Hora del Calamité
+CalamityFriendsPlaced.MapEntry: ¡Amigos!
+CalamityPaintPlaced.MapEntry: Pintura de Calamity
+CalamityPaintRetoldPlaced.MapEntry: Pintura de Calamity
+ClamPlaced.MapEntry: Gyate Gyate
+CosmicTerrorPlaced.MapEntry: Terror Cósmico
+DarkMagicPlaced.MapEntry: Magia Oscura
+DraedonPopcornPlaced.MapEntry: ¡Los gamers no mueren... REAPARECEN!!!
+DualityPlaced.MapEntry: Dualidad
+EspelhoPlaced.MapEntry: Espelho
+EyeofXerocPlaced.MapEntry: El Ojo de Xeroc
+FrozenPlaced.MapEntry: Congelado
+GallusYharusPlaced.MapEntry: Gallus Yharus
+LostSoulsPlaced.MapEntry: Almas Perdidas
+ModIconPaintingPlaced.MapEntry: Calamity's Vanities
+NotLikeHomePlaced.MapEntry: No es como en casa...
+OldModIconPaintingPlaced.MapEntry: ¡Calamity's Vanities... pero VIEJO!
+OldUCMMPlaced.MapEntry: ¡Vanilla Calamity Mod Music... pero VIEJO!
+Plague22Placed.MapEntry: "22"
+RogueExtractorPlaced.MapEntry: Extractor Pícaro
+ScourgyPlaced.MapEntry: Scourgy
+SignutPlaced.MapEntry: Signut
+SleepingGiantPlaced.MapEntry: Gigante Dormido
+SnoutsPlaced.MapEntry: Hocicos
+SundayAfternoonCalPlaced.MapEntry: Una tarde de domingo en el mundo de Calamity.
+SwearingShroomPlaced.MapEntry: Swearshroom
+TheGreatSandwormPlaced.MapEntry: El Gran Gusano de Arena
+TheYharPlaced.MapEntry: ":THE_YHAR:"
+UCMMPlaced.MapEntry: Vanilla Calamity Mod Music
+UnholyTripPlaced.MapEntry: Viaje Impío
+VVanitiesPlaced.MapEntry: ¡V de Vanities!
+WilliamPaintingPlaced.MapEntry: Calamity's Vanities
+WormHeavenPlaced.MapEntry: Cielo de Gusanos
+YharlamitasPlaced.MapEntry: Miedo
+AnemonePlaced.MapEntry: Anémona en Maceta
+AstralOldPurplePlaced.MapEntry: Xenomonolito Púrpura
+AstralOldYellowPlaced.MapEntry: Xenomonolito Amarillo
+BelchingCoralPlaced.MapEntry: Coral Sulfúrico
+BloodstoneRosesPlaced.MapEntry: Rosas de Piedra de Sangre
+BotanicPotPlaced.MapEntry: Bonsái Botánico
+BrainCoralPlaced.MapEntry: Coral Cerebro en Maceta
+BrimPlantPlaced.MapEntry: Planta Brimberry
+DecapoditaSproutPlaced.MapEntry: Brote Decapodita en Maceta
+FanCoralPlaced.MapEntry: Coral Abanico en Maceta
+FleshThingPlaced.MapEntry: Cosa de carne rara
+HolyStudedBonsaiPlaced.MapEntry: Bonsái Sagrado Tachonado
+MonolithPotPlaced.MapEntry: Monolito Astral en Maceta
+NetherTreeBigPlaced.MapEntry: Sauce Infernal
+NetherTreePlaced.MapEntry: Brote de Nether Retorcido
+SSCoralPlaced.MapEntry: Coral Hundido en Maceta
+SulphurousCactusPlaced.MapEntry: Cactus Sulfuroso en Maceta
+SulphurousPlanterPlaced.MapEntry: Macetero de Enredadera Ácida
+TableCoralPlaced.MapEntry: Coral Mesa en Maceta
+AnahitaPlushPlaced.MapEntry: Peluche de Anahita
+ApolloPlushPlaced.MapEntry: Peluche de Apollo
+AquaticScourgePlushPlaced.MapEntry: Peluche del Azote Acuático
+AresPlushPlaced.MapEntry: Peluche de Ares
+ArtemisPlushPlaced.MapEntry: Peluche de Artemis
+AstrageldonPlushPlaced.MapEntry: Peluche de Astrageldon
+AstrumAureusPlushPlaced.MapEntry: Peluche de Astrum Aureus
+AstrumDeusPlushPlaced.MapEntry: Peluche de Astrum Deus
+BrimstoneElementalPlushPlaced.MapEntry: Peluche de la Elemental de Azufre
+BumblefuckPlushPlaced.MapEntry: Peluche de Dragonfolly
+CalaFumoPlaced.MapEntry: Fumo de Calamitas
+CeaselessVoidPlushPlaced.MapEntry: Peluche del Vacío Incesante
+ClamPlushPlaced.MapEntry: Peluche de la Almeja Gigante
+ClonePlushPlaced.MapEntry: Peluche del Clon de Calamitas
+CrabulonPlushPlaced.MapEntry: Peluche de Crabulon
+CryogenPlushPlaced.MapEntry: Peluche de Cryogen
+DesertScourgePlushPlaced.MapEntry: Peluche del Azote Desértico
+DevourerofGodsPlushPlaced.MapEntry: Peluche del Devorador de Dioses
+DraedonPlushPlaced.MapEntry: Peluche de Draedon
+HiveMindPlushPlaced.MapEntry: Peluche de la Mente Colmena
+HypnosPlushPlaced.MapEntry: Peluche de Hypnos
+JaredPlushPlaced.MapEntry: Peluche del Gusano Eidolon
+LeviathanPlushPlaced.MapEntry: Peluche del Leviatán
+MaulerPlushPlaced.MapEntry: Peluche del Mauler
+MirePlushPlacedP1.MapEntry: Peluche de Cragmaw Mire
+MirePlushPlacedP2.MapEntry: Peluche de Cragmaw Mire
+NuclearTerrorPlushPlaced.MapEntry: Peluche del Terror Nuclear
+OldDukePlushPlaced.MapEntry: Peluche del Viejo Duque
+PerforatorPlushPlaced.MapEntry: Peluche del Perforador
+PlaguebringerGoliathPlushPlaced.MapEntry: Peluche del Goliat Portador de la Plaga
+PolterghastPlushPlaced.MapEntry: Peluche de Polterghast
+ProfanedGuardianPlushPlaced.MapEntry: Peluche del Guardián Profanado
+ProvidencePlushPlaced.MapEntry: Peluche de Providencia
+RavagerPlushPlaced.MapEntry: Peluche del Devastador
+SandSharkPlushPlaced.MapEntry: Peluche del Gran Tiburón de Arena
+SignusPlushPlaced.MapEntry: Peluche de Signus
+SlimeGodPlushPlaced.MapEntry: Peluche del Dios Slime
+StormWeaverPlushPlaced.MapEntry: Peluche del Tejedor de Tormentas
+ThanatosPlushPlaced.MapEntry: Peluche de Thanatos
+YharonPlushPlaced.MapEntry: Peluche de Yharon
+CPlaced.MapEntry: Calamity
+EyedolStatuePlaced.MapEntry: Estatua de Eyedol
+IsopodStatuePlaced.MapEntry: Estatua de Isópodo
+KnightPlaced.MapEntry: Estatua del Caballero Terrestre
+NukeFlyStatuePlaced.MapEntry: Estatua de Vaporofly
+PlagueFrogStatuePlaced.MapEntry: Estatua de Rana Apestada
+ProfanedIdolPlaced.MapEntry: Ídolo Profanado
+ShrineoftheTidesPlaced.MapEntry: Santuario de las Mareas
+ViolemurStatuePlaced.MapEntry: Estatua de Violemur
+TyrantFeedPlaced.MapEntry: Pienso del Tirano
+GoozmaPlushPlaced.MapEntry: Peluche de Goozma
+ProvidenceAltarPlaced.MapEntry: Altar de Providencia
+PolterCablePlaced.MapEntry: Cable Polter
+GiantClamPlushPlaced.MapEntry: Peluche de la Almeja Gigante
+MireP1PlushPlaced.MapEntry: Peluche de Cragmaw Mire Blindado
+MireP2PlushPlaced.MapEntry: Peluche de Cragmaw Mire Baboso
+CalamitasPlushPlaced.MapEntry: Peluche de Calamitas
+ShadowPlushPlaced.MapEntry: Peluche de Shadow
+BereftVassalPlushPlaced.MapEntry: Peluche del Vasallo Desamparado
+OhioPlaced.MapEntry: Ohio
+LeviathanEXPlushPlaced.MapEntry: Peluche del Leviatán EX
+YharonEXPlushPlaced.MapEntry: Peluche de Yharon EX
+DevourerofGodsEXPlushPlaced.MapEntry: Peluche del Devorador de Dioses EX
+ExodygenPlushPlaced.MapEntry: Peluche de Exodygen
+ExotrexiaPlushPlaced.MapEntry: Peluche de Exotrexia
+AstigmageddonPlushPlaced.MapEntry: Peluche de Astigmageddon
+CataractacombPlushPlaced.MapEntry: Peluche de Cataractacomb
+ConjunctivirusPlushPlaced.MapEntry: Peluche de Conjunctivirus
+PolyphemalusPlushPlaced.MapEntry: Peluche de Polyphemalus
+AstralUndergroundMusicBoxPlaced.MapEntry: Caja de música (Astral Subterráneo)
+NamelessDeityPlushPlaced.MapEntry: Peluche de la Deidad sin Nombre
+NamelessDeityEXPlushPlaced.MapEntry: Peluche de la Deidad sin Nombre EX
+EntropicNoxusPlushPlaced.MapEntry: Peluche de Noxus Entrópico
+MarsPlushPlaced.MapEntry: Peluche de Mars
+AvatarPlushPlaced.MapEntry: Peluche del Avatar
+AvatarEXPlushPlaced.MapEntry: Peluche del Avatar EX
+FoolEXPlaced.MapEntry: El Loco EX
+FoolPlaced.MapEntry: El Loco
+SignathionPlushPlaced.MapEntry: Peluche de Signathion
+OddMushroomPotPlaced.MapEntry: Hongo
+TheGreatWaveofAcidPlaced.MapEntry: La Gran Ola de Ácido
+AbyssusPlaced.MapEntry: Abyssus
+MissingPosterPlaced.MapEntry: Cartel de Desaparecido
+DivineGorePlaced.MapEntry: Sangre Divina
+RottingLandsPlaced.MapEntry: Tierras Putrefactas
+Frozen2Placed.MapEntry: Congelado
+ScourgiePlaced.MapEntry: Scourgie
+FalloftheFirstCityPlaced.MapEntry: Caída de la Primera Ciudad
+TheClonePlaced.MapEntry: El Clon
+TheRogueExtractorPlaced.MapEntry: Extractor Pícaro
+RecluseoftheDeepPlaced.MapEntry: Recluso de las Profundidades
+CommonPlaguePlaced.MapEntry: Plaga Común
+RAVAGEPlaced.MapEntry: DEVASTACIÓN
+StrengthPlaced.MapEntry: Fuerza
+WisdomPlaced.MapEntry: Sabiduría
+CouragePlaced.MapEntry: Valor
+LighttheWorldAnewPlaced.MapEntry: Ilumina el Mundo de Nuevo
+GatewayPlaced.MapEntry: Puerta
+EnvoyPlaced.MapEntry: Enviado
+SerpentPlaced.MapEntry: Serpiente
+NamelessSerpentPlaced.MapEntry: Serpiente sin Nombre
+CounselingtheDevourerPlaced.MapEntry: Aconsejando al Devorador
+RebirthPlaced.MapEntry: Renacimiento
+CalamitasPortraitPlaced.MapEntry: Retrato de Calamitas
+CataclysmPortraitPlaced.MapEntry: Retrato de Cataclismo
+CatastrophePortraitPlaced.MapEntry: Retrato de Catástrofe
+ExhumePlaced.MapEntry: Exhumar
+ConstructionsPlaced.MapEntry: Construcciones
+TheMechsMK1Placed.MapEntry: Los Mecánicos MK1
+TheMechanicalGamerPlaced.MapEntry: El Gamer Mecánico
+GoozlingPlaced.MapEntry: Goozling
+CreationoftheShadowPlaced.MapEntry: Creación de la Sombra
+RestingPlacePlaced.MapEntry: Lugar de Descanso
+PARRYPlaced.MapEntry: P A R R Y
+MarPlaced.MapEntry: Mar
+ReclaimedPlaced.MapEntry: Reclamado
+GardenoftheDeadPlaced.MapEntry: Jardín de los Muertos
+GodlyVisionsPlaced.MapEntry: Visiones Divinas
+OurFounderPlaced.MapEntry: Nuestro Fundador
+LightningStruckPlaced.MapEntry: Golpeado por el Rayo
+PatulaPlaced.MapEntry: Patula
+KumoPlaced.MapEntry: Kumo
+TheMarionettePlaced.MapEntry: La Marioneta
+TheYuPlaced.MapEntry: El Yu
+GhostLadyPlaced.MapEntry: Dama Fantasma
+MarrowWillowPlaced.MapEntry: Sauce de Médula
+PaleblotBanePlaced.MapEntry: Azote Paleblot
+SpiderPalmPlaced.MapEntry: Palma Araña
+ShatteredHeartoftheCommunityPlaced.MapEntry: Corazón de la Comunidad Destrozado
