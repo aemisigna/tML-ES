@@ -4,7 +4,8 @@ Configs: {
 
 		Headers: {
 			GeneralOptions: Ajustes generales
-			ModTranslations: Traducción de mods
+			ContentMods: Mods de contenido
+			SmallMods: Mods pequeños
 			MiscOptions: Ajustes especiales
 		}
 
@@ -25,83 +26,82 @@ Configs: {
 
 		CalamityModLocalization: {
 			Label: Calamity Mod
-			Tooltip:
-				'''
-				Desactiva la traducción del mod Calamity.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Calamity.
 		}
 
 		NoxusBossLocalization: {
 			Label: Calamity: Wrath of the Gods
-			Tooltip:
-				'''
-				Desactiva la traducción de Wrath of the Gods.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Wrath of the Gods.
 		}
 
 		InfernumModeLocalization: {
-			Tooltip:
-				'''
-				Desactiva la traducción de Infernum Mode.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Infernum Mode.
 			Label: Infernum Mode
 		}
 
 		FargowiltasLocalization: {
 			Label: Fargo's Mutant Mod
-			Tooltip:
-				'''
-				Desactiva la traducción de Fargo's Mutant Mod.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Fargo's Mutant Mod.
 		}
 
 		FargowiltasSoulsLocalization: {
 			Label: Fargo's Souls Mod
-			Tooltip:
-				'''
-				Desactiva la traducción de Fargo's Souls Mod.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Fargo's Souls Mod.
 		}
 
 		FargowiltasCrossmodLocalization: {
 			Label: Calamity - Fargo's Souls DLC
-			Tooltip:
-				'''
-				Desactiva la traducción de Calamity - Fargo's Souls DLC.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Calamity - Fargo's Souls DLC.
 		}
 
 		CalamityOverhaulLocalization: {
 			Label: Calamity Overhaul
-			Tooltip:
-				'''
-				Desactiva la traducción de Calamity Overhaul.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Calamity Overhaul.
 		}
 
 		CatalystModLocalization: {
 			Label: Catalyst Mod
-			Tooltip:
-				'''
-				Desactiva la traducción de Catalyst Mod.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Catalyst Mod.
 		}
 
 		WotmLocalization: {
 			Label: Calamity: Wrath of the Machines
-			Tooltip:
-				'''
-				Desactiva la traducción de Wrath of the Machines.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
-				'''
+			Tooltip: Desactiva la traducción de Wrath of the Machines.
+		}
+
+		StarsAboveLocalization: {
+			Label: The Stars Above
+			Tooltip: Desactiva la traducción de The Stars Above.
+		}
+
+		CalamityVanitiesLocalization: {
+			Label: Calamity's Vanities
+			Tooltip: Desactiva la traducción de Calamity's Vanities.
+		}
+
+		CalamityHuntLocalization: {
+			Label: Calamity: Hunt of the Old God
+			Tooltip: Desactiva la traducción de Calamity: Hunt of the Old God.
+		}
+
+		CalamityModMusicLocalization: {
+			Label: Calamity Mod Music
+			Tooltip: Desactiva la traducción de Calamity Mod Music.
+		}
+
+		InfernumModeMusicLocalization: {
+			Label: Infernum Mode Music
+			Tooltip: Desactiva la traducción de Infernum Mode Music.
+		}
+
+		AlchemistNPCLiteLocalization: {
+			Label: AlchemistNPC Lite
+			Tooltip: Desactiva la traducción de AlchemistNPC Lite.
+		}
+
+		ProgressionJournalLocalization: {
+			Label: Progression Journal
+			Tooltip: Desactiva la traducción de Progression Journal.
 		}
 
 		ShowStartUpCollabMessage: {
@@ -121,7 +121,8 @@ Configs: {
 				Muestra los nombres originales (sin traducir) de los objetos, manteniendo el resto de la traducción en español. 
 				Esto te facilitará la búsqueda de objetos en internet, ya que la mayoría de los tutoriales y guías están en inglés.
 				El cambio se aplica al instante, sin necesidad de recargar.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los nombres de los objetos.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos completa, solo mostrará los nombres de ellos en el idioma original
+				dejando las descripciones y demás textos en español.
 				'''
 		}
 	}
@@ -148,6 +149,11 @@ Buffs: {
 		DisplayName: Mikiko
 		Description: ¡Eeek!
 	}
+
+	AlexcairoPetBuff: {
+		DisplayName: Brillo Cristalino
+		Description: La luz de los cristales aleja la oscuridad.
+	}
 }
 
 Items: {
@@ -161,6 +167,15 @@ Items: {
 			'''
 	}
 
+	AlexcairoPetItem: {
+		DisplayName: Núcleo Cristalino
+		Tooltip:
+			'''
+			Invoca a [c/8a42f5:Lumiko], una criatura hecha de luz y cristal.
+			[c/eb3498:- Ítem de Colaborador -]
+			'''
+	}
+
 	TeArde: {
 		DisplayName: ¿Te Arde?
 		Tooltip:
@@ -171,6 +186,28 @@ Items: {
 			[tmles:CalamityModSpanish/DoremyGlyph] [c/eb3498:- Ítem de Colaborador -]
 			'''
 	}
+
+	TuffDreamer: {
+		DisplayName: Soñador Tuff
+		Tooltip:
+			'''
+			buh.
+			[tmles/censored:Si, odio a los conejos, sobre todo los que tienen una sola pata.]
+			[tmles:CalamityModSpanish/DoremyGlyph] [c/eb3498:- Ítem de Colaborador -]
+			'''
+	}
+
+	AuraMorselli: {
+		DisplayName: Morselli con Aura
+		Tooltip:
+			'''
+			«¿Dijiste "nerd"? Oh.»
+			[tmles:CalamityModSpanish/MorselliGlyph] [c/eb3498:- Ítem de Colaborador -]
+			'''
+	}
 }
 
-Projectiles.MorselliPet.DisplayName: Mikiko
+Projectiles: {
+	MorselliPet.DisplayName: Mikiko
+	AlexcairoPet.DisplayName: Lumiko
+}

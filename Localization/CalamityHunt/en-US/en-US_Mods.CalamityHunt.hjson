@@ -1,0 +1,814 @@
+Items: {
+	OverloadedSludge: {
+		DisplayName: Overloaded Sludge
+		Tooltip:
+			'''
+			Summons the Slime God
+			Not consumable
+			'Writhing and bloated with the pus of Gods long dead.'
+			'''
+		Warning: Cannot be used to summon the Slime God
+	}
+
+	GoopDye: {
+		DisplayName: Goop Dye
+		Tooltip: ""
+	}
+
+	ChromaticMass: {
+		DisplayName: Chromatic Mass
+		Tooltip: "'Feels like cold plasma'"
+	}
+
+	GoozmaRelic: {
+		DisplayName: Goozma Relic
+		Tooltip: ""
+	}
+
+	GoozmaLore: {
+		DisplayName: Goozma
+		Lore:
+			'''
+			A most chilling upset, in the hierarchical dominion of all things living.
+			To think the culmination of the lowest echelon of creatures could nevertheless possess an Auric soul despite lacking any draconic heritage…
+			It became something greater, approaching a perfect being comprised of naught but imperfect parts...perhaps what truly makes a God will forever be unknown.
+			My apprehension towards your cultivation of this grotesque monstrosity is outweighed by my curiosity towards it.
+			What could have influenced the form that it took? Its appearance belies the finesse and sophistication of the manipulation of its subjects.
+			What a pity it is that the fruits of its effort came to nothing in the end. An unremitting pattern in the cyclic annals of history.
+			Perhaps, from the perspective of Terraria, our own achievements amount to little more than the impotent writhing of slimes.
+			'''
+		Tooltip: ""
+	}
+
+	TreasureTrunk: {
+		DisplayName: Treasure Trunk
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TreasureBucket: {
+		DisplayName: Treasure Bucket
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	GoozmaTrophy: {
+		DisplayName: Goozma Trophy
+		Tooltip: ""
+	}
+
+	ImperialGelato: {
+		DisplayName: Imperial Gelato
+		Tooltip:
+			'''
+			Summons a baby bloat blob
+			'A dessert fit for an emperor!'
+			'''
+	}
+
+	GoozmaSoulMusicBox: {
+		DisplayName: Music Box (Chromatic Soul)
+		Tooltip: ""
+	}
+
+	GoozmaSoul: {
+		DisplayName: Chromatic Auric Soul
+		Tooltip: Absorb to gain immense, slimy powers
+	}
+
+	YharonSoulMusicBox: {
+		DisplayName: Music Box (Draconic Soul)
+		Tooltip: ""
+	}
+
+	YharonSoul: {
+		DisplayName: Rebirth Auric Soul
+		Tooltip: Absorb to gain immense, rebirth powers
+	}
+
+	SlimeMonsoonMonolith: {
+		DisplayName: Slime Monsoon Monolith
+		Tooltip: "'Invoke a fairly large amount of slime'"
+	}
+
+	CrimulanMask: {
+		DisplayName: Crimulan Mask
+		Tooltip: ""
+	}
+
+	DivineMask: {
+		DisplayName: Divine Mask
+		Tooltip: ""
+	}
+
+	EbonianMask: {
+		DisplayName: Ebonian Mask
+		Tooltip: ""
+	}
+
+	StellarMask: {
+		DisplayName: Stellar Mask
+		Tooltip: ""
+	}
+
+	Goozmaga: {
+		DisplayName: Goozmaga
+		Tooltip:
+			'''
+			Tosses out planets that orbit struck enemies
+			Hitting an enemy that has a planet orbitting it will increase the speed of the planet
+			This stacks 8 times
+			Stealth strikes cause two additional smaller planetoids to orbit the struck target
+			<right> to kill all existing planets and planetoids
+			'''
+	}
+
+	ShogunChestplate: {
+		DisplayName: Slippery Shogun Chestplate
+		Tooltip:
+			'''
+			20% increased damage
+			Reduces damage taken by 9% and greatly increases life regeneration
+			Increases max life and mana by 150
+			'''
+	}
+
+	ShogunHelm: {
+		DisplayName: Slippery Shogun Helm
+		Tooltip:
+			'''
+			20% increased damage
+			15% increased critical strike chance
+			15% increased melee speed
+			'''
+		SetBonus:
+			'''
+			+5 max minions
+			+100 maximum stealth while holding a Rogue weapon
+			{$CommonItemTooltip.FlightAndSlowfall}
+			Wearing any wings overrides this flight
+			{$CommonItemTooltip.PressDownToHover}
+			Allows the ability to dash and enhances other dashes
+			Hold DOWN to fastfall
+			Increases jump speed 
+			Grants immunity to knockback and many endgame debuffs
+			'''
+	}
+
+	ShogunPants: {
+		DisplayName: Slippery Shogun Pants
+		Tooltip:
+			'''
+			20% increased damage
+			50% increased movement speed 
+			Greatly improved acceleration and maneuverability 
+			'''
+	}
+
+	AuricSole: {
+		DisplayName: Auric Sole
+		Tooltip:
+			'''
+			<right> to disable
+			Allows you to slide on every surface
+			Warning: May result in extraordinarily high speeds
+			'Yharim would hate you for this'
+			'''
+	}
+
+	DischargedAuricSole: {
+		DisplayName: Discharged Auric Sole
+		Tooltip:
+			'''
+			<right> to enable
+			Allows you to slide on every surface
+			Warning: May result in extraordinarily high speeds
+			'Yharim would hate you for this'
+			'''
+	}
+
+	EbonianBehemuckTrophy: {
+		DisplayName: Ebonian Behemuck Trophy
+		Tooltip: ""
+	}
+
+	DivineGargooptuarTrophy: {
+		DisplayName: Divine Gargooptuar Trophy
+		Tooltip: ""
+	}
+
+	CrimulanGlopstrosityTrophy: {
+		DisplayName: Crimulan Glopstrosity Trophy
+		Tooltip: ""
+	}
+
+	StellarGeliathTrophy: {
+		DisplayName: Stellar Geliath Trophy
+		Tooltip: ""
+	}
+
+	PumpActionSwampgun: {
+		DisplayName: Pump Action Swampgun
+		Tooltip: Blasts a generally harmless spread of slime
+	}
+
+	Parasanguine: {
+		DisplayName: Parasanguine
+		Tooltip:
+			'''
+			Holding <left> or hitting enemies builds up excess blood
+			<right> when your blood meter is high to expel your excess 
+			<left> after right clicking to perform a devastating twirl
+			'What do you get when you feed a slime? A bigger slime.'
+			'''
+	}
+
+	Gobflogger: {
+		DisplayName: Gobflogger
+		Tooltip:
+			'''
+			{$CommonItemTooltip.SummonTagDamage}
+			{$CommonItemTooltip.Whips}
+			Strike enemies to gain a small boost to whip attack speed
+			'Slow and steady wins the race'
+			'''
+	}
+
+	CrystalGauntlets: {
+		DisplayName: Crystal Gauntlets
+		Tooltip:
+			'''
+			Hold <left> to charge up a powerful burst of ball lightning
+			When charge is full, release <left> to unleash the ball lightning upon your foes
+			<right> to clap, detonating all unleashed ball lightning 
+			'Unlimited power!'
+			'''
+	}
+
+	SplendorJam: {
+		DisplayName: Splendor Jam
+		Tooltip:
+			'''
+			Activates the Stress Bar
+			Stress builds up passively, though standing close to enemies speeds up the rate at which it increases
+			You emit light that scales with your Stress level
+			Grants a Spectacle at 0%, 25%, 50%, 75%, and 100% Stress
+			At 25% Stress your weapons will produce explosions
+			At 75% Stress your explosions will become larger and deal more damage
+			Double tap DOWN while Stress is above 25% to enter Malice Mode
+			Malice Mode significantly increases your damage, as well as granting flat damage, armor penetration, and critical strike
+			These boosts and their duration scale with the amount of stress you have
+			'Something horrible is approaching...'
+			'''
+		StressBar: Stress: {0}
+	}
+
+	SludgeShaker: {
+		DisplayName: Sludge Shaker
+		Tooltip:
+			'''
+			Sprays a sizable slurry of sticky slime
+			Slime sticks to structures and other slime as it is spewed
+			'Shaken, not stirred'
+			'''
+	}
+
+	SupremeRestorationPotion: {
+		DisplayName: Omega Restoration Potion
+		Tooltip: "{$ItemTooltip.RestorationPotion}"
+	}
+
+	ChromaticTorch: {
+		DisplayName: Chromatic Torch
+		Tooltip: ""
+	}
+
+	StickyHand: {
+		DisplayName: Icky Hand
+		Tooltip:
+			'''
+			Automatically detaches you when close to the hook
+			Hold the hook button down to keep the hook attached to blocks
+			'It won't break, I promise'
+			{$}
+			'''
+		Stats:
+			'''
+			Reach: 56
+			Launch Velocity: 25
+			Reelback Velocity: 10
+			Pull Velocity: 17
+			'''
+	}
+
+	Trailblazer: {
+		DisplayName: Trailblazer
+		Tooltip:
+			'''
+			Uses gel for ammo
+			Ignores 30 points of enemy Defense
+			80% chance save ammo
+			'''
+	}
+
+	SlimeCane: {
+		DisplayName: Slime Cane
+		Tooltip:
+			'''
+			Summons a set of 4 slime squires to protect you
+			Using the weapon again will consume a minion slot to upgrade the slimes
+			The slimes can be upgraded a maximum of 4 times
+			Once the slimes have been fully upgraded, a Goozmoem will appear that fires fusion rays at enemies
+			'If only I could wipe away the impurities and make it as beautiful as me'
+			'''
+	}
+
+	FissionFlyer: {
+		DisplayName: Fission Flyer
+		Tooltip:
+			'''
+			Chucks a chakram that splits into a volley of 3 Razor Ringlets
+			Stealth strikes leave behind a colossal blade 
+			'''
+	}
+
+	ScytheOfTheOldGod: {
+		DisplayName: Scythe of the Old God
+		Tooltip:
+			'''
+			Swings a colossal scythe in a three-slash combo
+			'Not to be confused with the Scythe of the Old Duke...
+			...And nothing else.'
+			'''
+	}
+
+	Goomoire: {
+		DisplayName: Goomoire
+		Tooltip:
+			'''
+			Casts a sealing spell which sucks in enemies 
+			'Not into the pit! It burns!'
+			'''
+	}
+
+	SlimeNinjaStatue: {
+		DisplayName: Slime Ninja Statue
+		Tooltip:
+			'''
+			Surround with 4 Slime Statues to empower
+			Can perform various rituals when empowered
+			'Who is this guy, anyways?'
+			'''
+	}
+
+	GelatinousCatalyst: {
+		DisplayName: Gelatinous Catalyst
+		Tooltip: Use on an empowered Slime Ninja Statue to start a Slime Rain
+	}
+
+	PluripotentSpawnEgg: {
+		DisplayName: Pluripotent Spawn Egg
+		Tooltip:
+			'''
+			Use on an empowered Slime Ninja Statue to summon something sinister
+			Not consumable 
+			'''
+	}
+
+	PaladinPalanquin: {
+		DisplayName: Paladin Palanquin
+		Tooltip:
+			'''
+			Summons a rideable Oily Bubble mount
+			'Feeling like royalty!'
+			'''
+	}
+
+	ChromaticGooztick: {
+		DisplayName: Chromatic Gooztick
+		Tooltip: Ignores gravity and bounces off tiles
+	}
+
+	BadApple: {
+		DisplayName: Bad Apple
+		Tooltip:
+			'''
+			'An apple from a tree razed during one of Goozma's rampages. 
+			It seems to have warped into something mostly new, and likely tastes terrible as a result. 
+			If the flavor isn't strange, the smell certainly is.'
+			'''
+	}
+
+	CometKunai: {
+		DisplayName: Comet Kunai
+		Tooltip:
+			'''
+			Releases a barrage of kunai and stars that double up on successful hits
+			Stealth strikes call down a starshower wherever they land
+			'The power of the stars, in the palm of my hand...'
+			'''
+	}
+
+	GoopHairDye: {
+		DisplayName: Goop Hair Dye
+		Tooltip: ""
+	}
+
+	AntiMassAccumulator: {
+		DisplayName: Anti-Mass Accumulator
+		Tooltip:
+			'''
+			Blasts out balls of packed protons and bolts of energized electrons one after another
+			Proton balls charge anything they hit and can damage enemies in a radius
+			Electron bolts do extra damage to positively charged enemies
+			'Do not look directly at the operational end of the device.'
+			'''
+	}
+
+	GoozmaBoulderItem: {
+		DisplayName: Motley Marble
+		Tooltip: "'Highly dangerous'"
+	}
+
+	StrangeManPortrait: {
+		DisplayName: Portrait of a Strange Man
+		Tooltip: ""
+	}
+
+	TendrilCursorAttachment: {
+		DisplayName: Cursor Mutagen
+		Tooltip:
+			'''
+			Attaches hanging chromatic tendrils to your mouse cursor
+			The amount of tendrils depends on the slot this item is placed in
+			'They somehow know how to untangle themselves'
+			'''
+	}
+
+	FissionFlayer: {
+		DisplayName: to be determined
+		Tooltip: ""
+	}
+
+	TrailblazerGoggles: {
+		DisplayName: Trailblazed Goggles
+		Tooltip: "'To lead the way, you must see it first. These do not let you see.'"
+	}
+
+	TrailblazerBackpack: {
+		DisplayName: Trailblazed Tactical Backpack
+		Tooltip: "'To be a forerunner is to be prepared. Thankfully, this backpack is filled with nothing but fuel.'"
+	}
+
+	ShogunWings: {
+		DisplayName: Thousand-Fold Paper Fans
+		Tooltip: "'They are best used to cool you off'"
+	}
+
+	NuclearLemonade: {
+		DisplayName: Nuclear Lemonade
+		Tooltip:
+			'''
+			{$CommonItemTooltip.MajorStats}
+			May kill you
+			'As cold as the nuclear winter!'
+			'''
+	}
+
+	ChromaticCampfire: {
+		DisplayName: Chromatic Campfire
+		Tooltip: "{$ItemTooltip.Campfire}"
+	}
+
+	AshenSoul: {
+		DisplayName: Ashen Auric Soul
+		Tooltip: Absorb to gain immense, magmatic powers
+	}
+
+	RottenSoul: {
+		DisplayName: Rotten Auric Soul
+		Tooltip: Absorb to gain immense, radioactive powers
+	}
+
+	GoozmaMusicBoxExiledP1: {
+		DisplayName: Music Box (Exiled Goozma)
+		Tooltip: ""
+	}
+
+	GoozmaMusicBoxExiledP2: {
+		DisplayName: Music Box (Exiled Goozma Desperate)
+		Tooltip: ""
+	}
+
+	GoozmaMusicBoxJteohP1: {
+		DisplayName: Music Box (Jteoh Goozma)
+		Tooltip: ""
+	}
+
+	GoozmaMusicBoxJteohP2: {
+		DisplayName: Music Box (Jteoh Goozma Desperate)
+		Tooltip: ""
+	}
+
+	GoozmaInfernumRelic: {
+		DisplayName: Infernal Goozma Relic
+		Tooltip: ""
+	}
+
+	SludgeSpongeEmpty: {
+		DisplayName: Sludge Sponge
+		Tooltip: Use on an empowered Slime Ninja Statue to end a Slime Rain
+	}
+
+	SludgeSpongeFull: {
+		DisplayName: Engorged Sludge Sponge
+		Tooltip:
+			'''
+			Use on an empowered Slime Ninja Statue to start a Slime Rain
+			'Have fun wringing it out'
+			'''
+	}
+
+	ReplicaGauntlets: {
+		DisplayName: Replica Gauntlets
+		Tooltip: "'All the glitz without the glamour'"
+	}
+
+	GunkHeart: {
+		DisplayName: Gunk Heart
+		Tooltip: Adds a bit of color to your afterimages
+	}
+
+	EbonianCystDye: {
+		DisplayName: Ebonian Cyst Dye
+		Tooltip: ""
+	}
+
+	CrimulanGougeDye: {
+		DisplayName: Crimulan Gouge Dye
+		Tooltip: ""
+	}
+
+	StellarHeavenDye: {
+		DisplayName: Stellar Heaven Dye
+		Tooltip: ""
+	}
+
+	DivineResplendanceDye: {
+		DisplayName: Divine Resplendance Dye
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	Goozma: {
+		DisplayName: Goozma
+
+		BossChecklistIntegration: {
+			EntryName: Goozma
+			SpawnInfo: Throw a [i:CalamityMod/OverloadedSludge] onto King Slime during a Slime Rain or use a [i:CalamityHunt/PluripotentSpawnEgg] on an empowered Slime Ninja Statue.
+			DespawnMessage: "[c/7a7a7a:The {0} {1} disintegrates...]"
+		}
+
+		InfernumTitle:
+			'''
+			Sludge Flashpoint 
+			Goozma
+			'''
+	}
+
+	CrimulanGlopstrosity.DisplayName: Crimulan Glopstrosity
+	DivineGargooptuar.DisplayName: Divine Gargooptuar
+	EbonianBehemuck.DisplayName: Ebonian Behemuck
+	StellarGeliath.DisplayName: Stellar Geliath
+	Goozmite.DisplayName: Goozmite
+	PluripotentSpawn.DisplayName: Pluripotent Spawn
+}
+
+Projectiles: {
+	EbonstonePillar.DisplayName: Ebonstone Pillar
+	EbonstoneTooth.DisplayName: Ebonstone Tooth
+	FoulSlime.DisplayName: Foul Slime
+	SlimeShot.DisplayName: Slime Shot
+	ToxicSludge.DisplayName: Toxic Sludge
+	GooLightning.DisplayName: Goo Lightning
+	RainbowBall.DisplayName: Rainbow Ball
+	PrismDestroyer.DisplayName: Prism Destroyer
+	BloatedBlast.DisplayName: Bloated Blast
+	PixieBall.DisplayName: Pixie Ball
+	GelCrystalShard.DisplayName: Gel Crystal Shard
+	EbonianBehemuckClone.DisplayName: Ebonian Behemuck Clone
+	HolyExplosion.DisplayName: Holy Explosion
+	CrimulanSmasher.DisplayName: Crimulan Smasher
+	FusionRay.DisplayName: Fusion Ray
+	GoozmaDeathGodrays.DisplayName: Godrays
+	BloatBabyProj.DisplayName: Bloat Baby
+	GoozmagaBomb.DisplayName: Planetary Glob
+	GoozmagaShrapnel.DisplayName: Microplanetary Glob
+	StellarGelatine.DisplayName: Stellar Gelatine
+	ConstellationStar.DisplayName: Constellation Star
+	ConstellationLine.DisplayName: Constellation Line
+	SlimeBomb.DisplayName: a Ticking Slime Bomb
+	StellarDebris.DisplayName: Stellar Debris
+	InterstellarFlame.DisplayName: Interstellar Flame
+	ThrowableChunk.DisplayName: Throwable Chunk
+	RainbowLaser.DisplayName: Rainbow Laser
+	PumpActionSwampgunHeld.DisplayName: Pump Action Swampgun
+	ParasanguineHeld.DisplayName: Parasanguine
+	ParasanguineBlood.DisplayName: Parasanguine Blood
+	SwampBall.DisplayName: Swamp Ball
+	GobfloggerProj.DisplayName: Gobflogger
+	CrystalGauntletBall.DisplayName: Ball Lightning
+	CrystalLightning.DisplayName: Crystal Lightning
+	CrystalGauntletBallThrown.DisplayName: Ball Lightning
+	CrystalPiercer.DisplayName: Crystal Piercer
+	CrystalBoom.DisplayName: Clap
+	CrimulanShockwave.DisplayName: Crimulan Shockwave
+	SludgeShakerHeld.DisplayName: Sludge Shaker
+	DarkSludge.DisplayName: Dark Sludge
+	SludgeLighter.DisplayName: Sludge Lighter
+	StickyHandProj.DisplayName: Icky Hand
+	TrailblazerFlame.DisplayName: Trailblazer Flame
+	FissionFlyerProj.DisplayName: Fission Flyer
+	FissionFlyerMiniRing.DisplayName: Razor Ringlet
+	ScytheOfTheOldGodHeld.DisplayName: Scythe of the Old God
+	StressExplosion.DisplayName: Stressed Explosion
+	GoomoireSuck.DisplayName: Goomoire Suction
+	SplendorTentacle.DisplayName: Spectacle
+	SlimeCaneGemCounter.DisplayName: Slime Cane Gem Counter
+	ChromaticGooztickProjectile.DisplayName: Chromatic Gooztick
+	CrimulanClyde.DisplayName: Crimulan Clyde
+	DivinePinky.DisplayName: Divine Pinky
+	EbonianBlinky.DisplayName: Ebonian Blinky
+	StellarInky.DisplayName: Stellar Inky
+	CometKunaiCritProjectile.DisplayName: Comet Kunai
+	CometKunaiGhostProjectile.DisplayName: Comet Kunai
+	CometKunaiProjectile.DisplayName: Comet Kunai
+	CometKunaiStarfall.DisplayName: Comet Kunai
+	Goozmoem.DisplayName: Goozmoem
+	BlinkySpikeBall.DisplayName: Blinky's Spike Ball
+	PinkyLight.DisplayName: Pinky's Light
+	GoozmoemRay.DisplayName: Fusion Ray
+	AntiMassBioBall.DisplayName: Anti-Mass Bio Ball
+	AntiMassDeathLaser.DisplayName: Anti Mass Death Laser
+	AntiMassBioStrike.DisplayName: Anti Mass Bio Strike
+	AntiMassAccumulatorProj.DisplayName: Anti Mass Accumulator Proj
+	GoozmaBoulderProjectile.DisplayName: Motley Marble
+	StellarBlackHole.DisplayName: Stellar Black Hole
+	CometKunaiSuperProjectile.DisplayName: Comet Kunai Super
+	FissionFlayerProjectile.DisplayName: to be determined
+	SlimeShotRedirecting.DisplayName: Slime Shot
+}
+
+Chat: {
+	SlimeMonsoon: The Slime Monsoon has begun...
+	NinjaShrineFailure: You cannot make the offering because the Slime Rain has already started.
+	NinjaShrineFailure2: The shrine is incomplete without enough slime statues nearby.
+
+	DeathReasons: {
+		NuclearLemonade: "{0} must be drinking Lord Vertice Lemonade."
+		StellarGeliath: "{0} was shredded by gravity."
+		DivineGargooptuar: "{0} saw the light."
+	}
+}
+
+Bestiary: {
+	Goozma: An intelligent, aberrant singularity formed from the coalescence of every slimy creature.
+	CrimulanGlopstrosity: A viscerally rotting paladin that defends its mucilaginous master with twisted fervor. Goozma's paladins are deliberately spared from assimilation.
+	DivineGargooptuar: A resplendently divine paladin that defends its mucilaginous master with dazzling passion. Goozma's paladins possess only limited autonomy.
+	EbonianBehemuck: A virulently corrosive paladin that defends its mucilaginous master with ruthless ardor. Goozma's paladins require uniquely powerful cores.
+	StellarGeliath: A cosmically empyrean paladin that defends its mucilaginous master with ethereal vigor. Left alone, Goozma could assimilate the entire universe.
+	Goozmite: An appendage that homogenizes nearby matter into self-repairing slime. Goozma's body is incredibly viscous, yet it exhibits a contradictory fluidity.
+}
+
+Buffs: {
+	BloatBabyBuff: {
+		DisplayName: Bloat Baby
+		Description: It seems to like you as much as the others
+	}
+
+	Gobbed: {
+		DisplayName: Gobbed
+		Description: You are afflicted
+	}
+
+	Swamped: {
+		DisplayName: Swamped
+		Description: You've been swamped!
+	}
+
+	Absorption: {
+		DisplayName: Gobbed
+		Description: Whip speed is increased by just a tiny bit, just a tiny little bit, it's not increased by much, you might not even notice it because of how small it is
+	}
+
+	FusionBurn: {
+		DisplayName: Fusion Burn
+		Description: It hurts, Varik
+	}
+
+	PaladinPalanquinBuff: {
+		DisplayName: Paladin Palanquin
+		Description: Almost as good as being in a real slime
+	}
+
+	SplendorJamBuff: {
+		DisplayName: Malice Mode
+		Description: You're all stressed out
+	}
+
+	SlimeCaneBuff: {
+		DisplayName: Slime Soirée
+		Description: Inky, Blinky, Pinky, and Clyde will protect you
+	}
+
+	Doomed: {
+		DisplayName: Doomed
+		Description: It's so over
+	}
+}
+
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		Headers: {
+			VisualHeader: Visuals
+			StressHeader: Stress Meter
+			ContentHeader: Content
+		}
+
+		shadowspecCurse: {
+			Label: Shadowspec Curse
+			Tooltip: Curses all Shadowspec-tier items until Goozma is defeated, making them unusable
+		}
+
+		GoozmaMusicPreference: {
+			Label: Goozma Music Preference
+			Tooltip: ""
+		}
+
+		infernum: {
+			Label: Infernum AI
+			Tooltip: Causes Goozma to use its Death Mode AI while the Infernum Mod's Infernum Mode is active
+		}
+
+		debugMode: {
+			Label: Debug Mode
+			Tooltip:
+				'''
+				Enables features optimized for testing game mechanics
+				Not recommended for usage by players
+				'''
+		}
+
+		photosensitiveToggle: {
+			Label: Toggle Photosensitive Effects
+			Tooltip: Disables certain effects which may trigger photosensitivity
+		}
+
+		MonsoonLightning: {
+			Label: Monsoon Thunder
+			Tooltip: Enables or disables the Slime Monsoon's thunder visuals
+		}
+
+		StressX: {
+			Label: Stress Meter X Position
+			Tooltip: Adjusts the Stress Meter's horizontal position, measured as a % of your screen width
+		}
+
+		StressY: {
+			Label: Stress Meter Y Position
+			Tooltip: Adjusts the Stress Meter's vertical position, measured as a % of your screen height
+		}
+
+		StressShake: {
+			Label: Stress Meter Shake Toggle
+			Tooltip: Toggles the Stress Meter's shaking effect
+		}
+	}
+}
+
+GoozmaShadowspecCurse: "[c/462545:A mucilaginous curse prevents you from using this item...]"
+AnyEvilBlock: Any Evil Block
+DropRules.WhenAnyPlayerHasntEaten: Drops if any player hasn't absorbed
+
+CalamityModName: {
+	Display: Calamity Mod
+	Internal: CalamityMod
+}
+
+Emotes.GoozmaEmote.Command: goozma
+Draeting.Goozma:
+	'''
+	A living paradox, and a shock to everything I believed fact about the nature of the Auric soul. 
+	The Godseeker seemed so certain that the nature of the god was fundamentally tied to ritual. Though that is a thoroughly unscientific prospect, I had no choice but to accept it: he knew better than I, being linked to one of the few remaining auric dragons, and to invoke his wrath would put a quick end to my work.  It is not a surprise that I did not have the whole story, and even now, I am still missing many pieces. 
+
+	I have been tirelessly analyzing the replay of that battle since the moment it concluded. Though a natural phenomena has seemingly created a new Auric soul, I know very little about the nature of the process that occurred; just as quickly as it was created, it was returned to the primordial soup it was forged from. 
+
+	I have two prevailing theories, though my confidence in their accuracy is shaky at best. 
+	The first is related to the method in which it was born. The natural process of pressurization is not altogether difficult for even the most basic of scientists to grasp. For an easily understood example, however, consider carbon; its makeup will shift when compressed with extreme force, transforming it into diamond. Considering this fact, it may not be altogether unlikely that a spiritual equivalent to this phenomena exists; a mundane soul, forced into a single point by many other similarly basic souls, could very well shift in such a way that it grows exponentially in power.
+
+	The other I am less certain of, but must still consider: It is possible the 'Slime God', as you called it, is but a splinter of a much older, more venerated deity, and the ritual you performed simply granted it its original form back. This would mean that its soul was not spontaneously created, as I currently believe, but was splintered instead- creating the illusion of mundanity from sparks of a greater power.
+
+	Either theory, should one be proven true, provides new, investing paths of study. 
+	Though your naming ability leaves much to be desired, I must commend your ability to leave nothing unstudied, no matter how well documented said creature may be- I never could have anticipated that such a massive scientific breakthrough could have been hiding in the most common pest of all. 
+	'''

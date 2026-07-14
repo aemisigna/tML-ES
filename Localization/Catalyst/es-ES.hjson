@@ -469,7 +469,7 @@
 				Tooltip:
 					'''
 					{$Mods.CatalystMod.Tooltips.WhipTooltip}
-					5% de daño de invocación
+					5% de daño conexión por invocación
 					Clic izquierdo para liberar ambos látigos frente a ti
 					Clic derecho para liberar un látigo al frente, el otro detrás
 					'''
@@ -499,7 +499,7 @@
 				Tooltip:
 					'''
 					{$Mods.CatalystMod.Tooltips.WhipTooltip}
-					Lanza un cráneo cáustico que inflige Veneno Ácido y 6% de daño de invocación
+					Lanza un cráneo cáustico que inflige Veneno Ácido y 6% de daño de conexión por invocación
 					'''
 			}
 
@@ -552,7 +552,7 @@
 					'''
 					{$Mods.CatalystMod.Tooltips.WhipTooltip}
 					Golpear a un enemigo con la punta incrusta un fragmento de coral
-					Los ataques de los súbditos pueden romper el fragmento de coral, deteniendo su movimiento y provocando 6% de daño de invocación
+					Los ataques de los súbditos pueden romper el fragmento de coral, deteniendo su movimiento y provocando 6% de daño de conexión por invocación
 					'''
 			}
 

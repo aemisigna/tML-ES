@@ -1,0 +1,287 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+UI: {
+	Title: Progression Journal
+	Subtitle: Equipment guide with selectable progression profiles
+	Stage: Stage
+	Class: Class
+	InventoryButtonTooltip: Open Progression Journal
+	OverviewTab: Equipment
+	PresetsTab: Builds
+	BuildBuilderTab: Builder
+	StageSelectorTitle: Progress stage
+	ProgressionModeToggleTooltip: Toggle progression mode. When enabled, locked stages remain in the list as unknown entries.
+	LockedStageTooltip: Unknown stage. Defeat the boss of this stage to unlock it..
+	StageConditionUnresolved: Unlock condition is unavailable; this stage remains accessible.
+	ClassSelectorTitle: Class selection
+	LegendTitle: Recommendation types
+	OverviewHeadline: Current stage equipment
+	OverviewDescription: All manually rated items for this class at the selected stage.
+	RecommendedBlock: Strong
+	AdditionalBlock: Usable
+	NotRecommendedBlock: Weak
+	UselessBlock: Very weak
+	FromGuideBlock: From guide
+	WikiRecommendationsBlock: Recommendations
+	WikiRecommendationsTooltip: This section is generated automatically from "{0}". Recommendations may be subjective, contain errors, or include items from earlier stages.
+	NewEquipmentBlock: New equipment
+	NoNewEquipment: No new items were found for this stage.
+	ProfileManagerTooltip: Select a progression profile
+	ProfileManagerTitle: Progression profiles
+	ProfileClose: Close
+	ProfileVersionWarning: "[version differs]"
+	ProfileManagerWarning: Profiles are an early experimental feature and may contain errors, be revised, or change over time. Some items may be assigned to incorrect stages. If unsure, check reliable sources until this feature is complete.
+	PresetsHeadline: Build planner
+	ClassPageTitle: Choose a class
+	StageProgress: Stage {0} of {1}
+	EntriesCount: Entries: {0}
+	PresetsCount: Builds: {0}
+	TierLegendRecommended: one of the strongest picks for this stage
+	TierLegendAdditional: a usable pick for this stage
+	TierLegendNotRecommended: a weak pick for this stage
+	TierLegendUseless: barely worth considering
+	EntryContains: Includes: {0}
+	EntrySingleItem: Single item
+	EntrySetCount: Set: {0}
+	Weapons: Weapons
+	ArmorLabel: Armor
+	Accessories: Accessories
+	SupportWeaponTag: Support
+	CombatBuffClassSpecificTag: Class-specific
+	None: None
+	EmptyState: No guide entries exist for this class and stage yet.
+	VanillaCombatBuffsTitle: Buffs
+	CombatBuffsTitle: New consumables
+	CombatBuffStations: Stations
+	CombatBuffPassive: Passive
+	CombatBuffBasic: Basics
+	CombatBuffPotions: Potions
+	CombatBuffEternal: Eternal
+	CombatBuffFood: Food
+	CombatBuffFlasks: Flasks
+	SelectedItemEmpty: No item selected
+	SelectedItemSelectPrompt: Click an item in the list to view its acquisition.
+	ReadyBuildsEmpty: Ready builds for this class and stage have not been filled in yet.
+	SelectedItemNoData: No acquisition data could be determined for this item yet.
+	SelectedItemCrafts: Crafting
+	SelectedItemDrops: Drops
+	SelectedItemShops: Shops
+	SelectedItemFishing: Fishing
+	SelectedItemShimmer: Shimmer
+	SelectedItemIngredients: Ingredients
+	SelectedItemStations: Stations
+	SelectedItemDemonAltar: Demon Altar / Crimson Altar
+	SelectedItemBottleStation: Placed Bottle / Alchemy Table
+	SelectedItemConditions: Conditions
+	SelectedItemFishingMethod: Caught while fishing.
+	SelectedItemShimmerMethod: Throw one of these items into Shimmer.
+	FishingLiquidCondition: Liquid: {0}
+	FishingBiomeCondition: Biome: {0}
+	FishingDepthCondition: Depth: {0}
+	FishingPoleCondition: Fishing pole: {0}
+	FishingBaitCondition: Bait: {0}
+	FishingProgressionCondition: Available after: {0}
+	FishingWorldCondition: World: {0}
+	FishingLiquidWater: Water
+	FishingLiquidLava: Lava
+	FishingLiquidHoney: Honey
+	FishingBiomeDefault: No special biome
+	FishingWorldPreHardmode: Pre-Hardmode
+	FishingWorldHardmode: Hardmode
+	FishingWorldBloodMoon: Blood Moon
+	FishingWorldDay: Day
+	FishingWorldNight: Night
+	FishingWorldPostSkeletron: After Skeletron
+	FishingWorldCombatBook: After Advanced Combat Techniques
+	FishingWorldRemix: Remix seed
+	FishingWorldNotTheBees: Not the bees seed
+	FishingAnglerQuestCondition: Available as the current Angler quest fish.
+	TownNpcAvailableAfterCondition: NPC becomes available after: {0}
+	TownNpcSpecialUnlockCondition: NPC requires a rescue or another special unlock.
+	TownNpcInventoryCondition: NPC availability was observed with the required player inventory.
+	TownNpcPopulationCondition: NPC availability was observed after other town NPCs had moved in.
+	TownNpcAvailabilityUnknown: NPC availability was not observed in the runtime scenarios.
+	ShopObservedAfterCondition: This shop item was first observed after: {0}
+	NpcSpawnAvailabilityUnknown: The runtime spawn pipeline did not reproduce this enemy. Known biome conditions are shown by the Bestiary icons above.
+	NpcSpawnAvailableAfterCondition: Enemy was first observed after: {0}
+	NpcSpawnBiomeCondition: Observed biome: {0}
+	NpcSpawnEventCondition: Observed event: {0}
+	NpcSpawnWaterCondition: Observed spawning in water.
+	NpcSpawnSafeCondition: Observed in a safe/player-walled area.
+	NpcSpawnTownCondition: Observed while the player was in town.
+	NpcSpawnNoEvent: No event
+	NpcSpawnEclipse: Solar Eclipse
+	NpcSpawnRain: Rain
+	NpcSpawnSandstorm: Sandstorm
+	NpcSpawnSlimeRain: Slime Rain
+	NpcSpawnGoblinArmy: Goblin Army
+	NpcSpawnFrostLegion: Frost Legion
+	NpcSpawnPirates: Pirate Invasion
+	NpcSpawnMartians: Martian Madness
+	NpcSpawnPumpkinMoon: Pumpkin Moon
+	NpcSpawnFrostMoon: Frost Moon
+	NpcSpawnOldOnesArmy: Old One's Army
+	NpcSpawnGranite: Granite Cave
+	NpcSpawnMarble: Marble Cave
+	NpcSpawnSpiderCave: Spider Cave
+	NpcSpawnTemple: Jungle Temple
+	NpcSpawnSolarPillar: Solar Pillar
+	NpcSpawnVortexPillar: Vortex Pillar
+	NpcSpawnNebulaPillar: Nebula Pillar
+	NpcSpawnStardustPillar: Stardust Pillar
+	SelectedItemSource: Source
+	SelectedItemTrade: Trade
+	SelectedItemChance: Chance
+	SelectedItemExpertModeCondition: Expert or Master Mode
+	SelectedItemRightClickTileCondition: Right-click {0}.
+	SelectedItemRightClickTileWithItemCondition: Right-click {0} with {1} in the inventory.
+	SelectedItemBothEventsActiveCondition: Both events must be active: {0}.
+	SelectedItemNoNpcAliveCondition: "{0} must not already be present."
+	SelectedItemChargedTileCondition: "{0} must be charged."
+	SelectedItemBelowSurfaceCondition: Below the surface layer
+	SelectedItemAfterAllMechanicalBossesCondition: After all three mechanical bosses have been defeated
+	SelectedItemSpecialWorldGateCondition: Requires both conditions: {0}; {1}.
+	SelectedItemZenithWorldCondition: Zenith seed world
+	SelectedItemWorldOptionCondition: World option: {0}
+	SelectedItemStack: Amount
+	SelectedItemFromItem: From item
+	SelectedItemFromAnyEnemy: From any enemy
+	SelectedItemFromAnyBoss: From any boss
+	SelectedItemClearTooltip: Clear selected item
+	AnyFoodWellFed: Any food with Well Fed
+	AnyFoodPlentySatisfied: Any food with Plenty Satisfied
+	AnyFoodExquisitelyStuffed: Any food with Exquisitely Stuffed
+	CombatConsumablesTitle: Consumables
+	CombatConsumablesButton: Show consumables
+	CombatConsumablesTooltip: Show consumables
+	BuildEquipmentTitle: Equipment
+	BuildConsumablesTitle: Consumables
+	BuildAllItemsTooltip:
+		'''
+		Show every loaded item.
+		Includes items absent from the progression profile.
+		'''
+	BuildProgressionItemsTooltip:
+		'''
+		Show only items available
+		at the selected progression stage.
+		'''
+	BuildSlotPrimaryWeapon: Primary weapon
+	BuildSlotSupportWeapon: Secondary weapon
+	BuildSlotClassSpecific: Class slot
+	BuildSlotRangedAmmo: Ammunition
+	BuildSlotSummonerUtility: Whip or support
+	BuildSlotMagicUtility: Magic utility
+	BuildSlotArmorHead: Helmet
+	BuildSlotArmorBody: Chestplate
+	BuildSlotArmorLegs: Leggings
+	BuildSlotAccessory: Accessory
+	BuildSlotPotion: Potions
+	BuildSlotFood: Food
+	BuildSlotFoodAlternative: Food alternative
+	BuildAddAccessorySlotTooltip: Add accessory slot
+	BuildAddPotionSlotTooltip: Add potion slot
+	BuildAddFoodAlternativeTooltip: Add food alternative
+	BuildPickerEmpty: No available items exist for this slot yet.
+	BuildPickerSearchEmpty: No items match the search.
+	BuildPickerGuideTab: Vanilla
+	BuildPickerModTab: Mods
+	BuildPickerAllMods: All
+	BuildPickerPowerDescTooltip: Sort by power ↑
+	BuildPickerPowerAscTooltip: Sort by power ↓
+	BuildPickerSortResetTooltip: Reset sorting
+	BuildPickerFilterResetTooltip: Reset filters
+	BuildPickerSortMenuTooltip: Sorting
+	BuildPickerFilterMenuTooltip: Filters
+	BuildPickerDamageMeleeTooltip: Melee damage
+	BuildPickerDamageRangedTooltip: Ranged damage
+	BuildPickerDamageMagicTooltip: Magic damage
+	BuildPickerDamageSummonTooltip: Summon damage
+	BuildPickerDamageOtherTooltip: Other damage
+	BuildPickerSearchHint: Search items
+	BuildPickerAlreadySelected: already selected in another slot
+	BuildBackTooltip: Back to builds
+	BuildSaveTooltip: Save current build as json
+	BuildSaveDialogTitle: Save build
+	BuildSaveDialogHint: Enter build name
+	BuildSaveConfirm: Save
+	BuildSaveCancel: Cancel
+	BuildSaveNameRequired: Enter a build name before saving.
+	BuildSaveNoItems: Select at least one item before saving.
+	BuildSaveFailed: Failed to save the build json.
+	BuildImportTooltip: Import
+	BuildImported: Build imported {0}
+	BuildImportFailed: Failed to import build.
+	BuildExportTooltip: Export
+	BuildExportFileTooltip: Export to file
+	BuildExportChatTooltip: Send build to chat
+	BuildExported: Build exported {0}
+	BuildExportFailed: Failed to export build.
+	BuildSharedChatLabel: "[ OPEN BUILD: {0} ]"
+	BuildSharedChatMessage: "[c/8FCFFF:Progression Journal] {0}"
+	BuildSharedUnknownPlayer: Player
+	BuildSharedOpenTooltip: Click to open build preview
+	BuildSharedAdd: Add
+	BuildSharedInvalid: Failed to open build from chat.
+	BuildUnloadedItem: Unloaded item
+	BuildUnloadedItemTooltip: "{0} (unloaded item)"
+	BuildEditTooltip: Edit build
+	BuildFavoriteTooltip: Add to favorites
+	BuildFavoriteActiveTooltip: Remove from favorites
+	BuildDeleteTooltip: Delete build
+	SavedBuildsEmpty: No saved builds exist for this class and stage yet.
+
+	ClassDescriptions: {
+		Melee: Close range and durability
+		Ranged: Distance and steady damage
+		Magic: Mana, spells, and burst
+		Summoner: Minions, whips, and support
+	}
+}
+
+Classes: {
+	Melee: Melee
+	Ranged: Ranged
+	Magic: Magic
+	Summoner: Summoner
+}
+
+Stages: {
+	PreBoss: Beginning
+	PostKingSlime: King Slime
+	PostEyeOfCthulhu: Eye of Cthulhu
+	PostWorldEvil: World Evil
+	PostQueenBee: Queen Bee
+	PostSkeletron: Skeletron
+	PostDeerclops: Deerclops
+	HardmodeEntry: Hardmode
+	PostQueenSlime: Queen Slime
+	PostOneMechBoss: 1 mech boss
+	PostThreeMechBosses: 3 mech bosses
+	PostPlantera: Plantera
+	PostDukeFishron: Duke Fishron
+	PostEmpressOfLight: Empress of Light
+	PostGolem: Golem
+	PostCelestialPillars: Celestial Pillars
+	PostMoonLord: Moon Lord
+}
+
+Categories: {
+	Weapon: Weapon
+	Armor: Armor
+	Accessory: Accessory
+	ClassSpecific: Class-specific
+	Buff: Combat buffs
+	Ammunition: Ammunition
+	Support: Support
+}
+
+Tiers: {
+	Recommended: Strong
+	Additional: Usable
+	NotRecommended: Weak
+	Useless: Very weak
+	FromGuide: From guide
+}
+
+Keybinds.ToggleProgressionJournal.DisplayName: Toggle Progression Journal

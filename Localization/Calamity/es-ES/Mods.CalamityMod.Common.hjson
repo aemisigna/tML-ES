@@ -32,9 +32,9 @@ SalesmanShrinePitch:
 AverageDamageInfo: Esta arma escala con el promedio de todas tus estadísticas de daño
 CanMineUelibloom: Puede minar Mineral de Uelibloom
 NotConsumable: No consumible
-SummonTagDamageFlat: "{0} de daño de invocación"
-SummonTagDamageMult: "{0}x de daño de invocación"
-SummonTagCrit: "{0}% de probabilidad de ataque crítico de invocación"
+SummonTagDamageFlat: "{0} de daño de conexión por invocación"
+SummonTagDamageMult: "{0}x de daño de conexión por invocación"
+SummonTagCrit: "{0}% de probabilidad de ataque crítico de conexión por invocación"
 DodgeProvided: Otorga o mejora la capacidad de esquivar ataques
 DodgeInformation:
 	'''
