@@ -75,7 +75,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
 | Split | 🔴 | X
 | The Stars Above | ✅ | 2.1.8.4
-| AlchemistNPC Lite | ✅ | 1.9.9
+| AlchemistNPC Lite | ✅ | 1.9.9.3
 | Calamity's Vanities | ✅ | 11.4.1
 | Calamity: Hunt of the Old God | ✅ | 1.2.3
 | Progression Journal | ✅ | 2.1.4
