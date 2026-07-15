@@ -454,7 +454,7 @@ Mods: {
 				Tooltip:
 					'''
 					Mientras tengas esto en tu inventario, tienes una probabilidad baja de no consumir las pociones
-					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 10%
+					La Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 10%
 					La duración de los efectos positivos es un 10% mayor
 					'''
 			}
@@ -465,7 +465,7 @@ Mods: {
 					'''
 					Mientras tengas esto en tu inventario, tienes una probabilidad moderada de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
-					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 25%
+					La Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 25%
 					La duración de los beneficios es un 25% mayor
 					'''
 			}
@@ -476,7 +476,7 @@ Mods: {
 					'''
 					Mientras tengas esto en tu inventario, tienes una probabilidad alta de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
-					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 35%
+					La Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 35%
 					La duración de los beneficios es un 35% mayor
 					'''
 			}
@@ -487,7 +487,7 @@ Mods: {
 					'''
 					Mientras tengas esto en tu inventario, tienes una probabilidad muy alta de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
-					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 50%
+					La Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 50%
 					Hace que las pociones no sean consumibles si se derrota a Calamitas Supremo
 					La duración de los beneficios es un 50% mayor
 					'''
@@ -909,7 +909,7 @@ Mods: {
 			}
 
 			Operator: {
-				DisplayName: Operador
+				DisplayName: Operadora
 
 				TownNPCMood: {
 					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.Content}"
@@ -1298,6 +1298,7 @@ Mods: {
 		ModdedTreasureBagsShop: Tienda de Bolsas del tesoro modificadas
 		ModdedTreasureBagsShop2: Tienda de Bolsas del tesoro modificadas #2
 		ModdedTreasureBagsShop3: Tienda de Bolsas del tesoro modificadas #3
+		CustomShop: Objetos personalizados (Config)
 		Angela: Angela
 		Carmen: Carmen
 		EntryO1: ¿Cómo va tu día, jefe? ¿En qué puedo ayudarte?
@@ -1340,6 +1341,7 @@ Mods: {
 		Peter: Peter
 		TinkererButton1: Movimiento/Misc
 		TinkererButton2: Combate
+		TinkererCustomShop: Objetos personalizados
 		EntryT1: ¿Necesitas algo especial? Si es así, solo dímelo...
 		EntryT2: ¿Ya has visto a mi hermana mayor? Es más del estilo steampunk que de los inventos...
 		EntryT3: Si has visto «Paper Tube» en algún lado, tráemelo y te lo desbloquearé.
@@ -1380,6 +1382,15 @@ Mods: {
 
 		Configs: {
 			ModConfiguration: {
+				Headers: {
+					NpcSpawns: Aparición de PNJs
+					LifeformLocator: Localizador del Analizador de Formas de Vida
+					General: General
+					ShopPrices: Precios de la tienda
+					OperatorShop: Tienda de la Operadora
+					TinkererShop: Tienda del Chapucero
+				}
+
 				ShopChangeDelay: {
 					Tooltip: El retraso antes de que se pueda cambiar de tienda se puede modificar tras abrir la interfaz. El valor predeterminado es de 10 fotogramas.
 					Label: Retraso en el cambio de tienda
@@ -1425,6 +1436,26 @@ Mods: {
 					Label: Botón para activar o desactivar los elementos personalizados del mod
 				}
 
+				OperatorCustomItems: {
+					Tooltip:
+						'''
+						Añade cualquier objeto vanilla o modificado (materiales, bolsas de jefes, etc.) a la pestaña "Objetos personalizados" de la tienda de la Operadora.
+						Define el objeto, el precio (en cobre) y cuándo se desbloquea.
+						Los objetos de mods que no estén cargados se ignoran. Requiere recargar los mods.
+						'''
+					Label: Objetos personalizados de la tienda de la Operadora
+				}
+
+				TinkererCustomItems: {
+					Tooltip:
+						'''
+						Añade cualquier objeto vanilla o modificado a la pestaña "Objetos personalizados" de la tienda del Chapucero.
+						Define el objeto, el precio (en cobre) y cuándo se desbloquea.
+						Los objetos de mods que no estén cargados se ignoran. Requiere recargar los mods.
+						'''
+					Label: Objetos personalizados de la tienda del Chapucero
+				}
+
 				RevPrices: {
 					Tooltip: Verdadero para aumentar los precios de las pociones. El valor predeterminado es Verdadero.
 					Label: Escalado de precios en el modo Revengeance
@@ -1456,8 +1487,8 @@ Mods: {
 				}
 
 				OperatorSpawn: {
-					Tooltip: Verdadero para habilitar la aparición del PNJ Operador; falso para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del Operador
+					Tooltip: Verdadero para habilitar la aparición de la PNJ Operadora; falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición de la Operadora
 				}
 
 				ArchitectSpawn: {
@@ -1490,6 +1521,69 @@ Mods: {
 				LifeformAnalyzerAlt: {
 					Label: Textura alternativa para el localizador del Analizador de formas de vida
 					Tooltip: Utiliza una textura alternativa para el marcador del Analizador de formas de vida. El valor predeterminado es Falso.
+				}
+			}
+
+			OperatorShopItem: {
+				Tooltip: ""
+
+				Item: {
+					Label: Objeto
+					Tooltip: ""
+				}
+
+				Price: {
+					Label: Precio
+					Tooltip: ""
+				}
+
+				Availability: {
+					Label: Disponibilidad
+					Tooltip: ""
+				}
+			}
+
+			OperatorShopGate: {
+				Tooltip: ""
+
+				Always: {
+					Label: Siempre
+					Tooltip: ""
+				}
+
+				Hardmode: {
+					Label: Modo Difícil
+					Tooltip: ""
+				}
+
+				PostEvilBoss: {
+					Label: Tras el jefe maligno
+					Tooltip: ""
+				}
+
+				PostSkeletron: {
+					Label: Tras Skeletron
+					Tooltip: ""
+				}
+
+				PostAnyMechBoss: {
+					Label: Tras cualquier jefe mecánico
+					Tooltip: ""
+				}
+
+				PostPlantera: {
+					Label: Tras Plantera
+					Tooltip: ""
+				}
+
+				PostGolem: {
+					Label: Tras Golem
+					Tooltip: ""
+				}
+
+				PostMoonLord: {
+					Label: Tras el Señor de la Luna
+					Tooltip: ""
 				}
 			}
 		}
