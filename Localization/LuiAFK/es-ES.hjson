@@ -1,0 +1,4010 @@
+Mods: {
+	miningcracks_take_on_luiafk: {
+		Conditions: {
+			Master: LuiAFK: solo modo Maestro
+			Expert: LuiAFK: solo modo Experto(+)
+		}
+
+		NPCs: {
+			Deeps: {
+				DisplayName: Deeps
+
+				TownNPCMood: {
+					Content: ...
+					NoHome: ...
+					FarFromHome: ...
+					LoveSpace: ...
+					DislikeCrowded: ...
+					HateCrowded: ...
+					LikeNPC_Princess: ...
+					Princess_LovesNPC: ...
+				}
+			}
+
+			MobileMerchant: {
+				DisplayName: Mercader móvil
+
+				TownNPCMood: {
+					Content: Hola, qué gusto charlar contigo ^^
+					NoHome: No entiendo esta necesidad de tener un hogar, solo soy un mercader estático que flota...
+					FarFromHome: ¿Eh? No, no necesito un hogar.
+					LoveSpace: Hay tanto espacio para mí y algunos amigos, gracias ^^
+					DislikeCrowded: ¿Hay una fiesta por aquí? Hay un poco demasiada gente alrededor.
+					HateCrowded: Hay demasiada gente por aquí, por favor haz que se vayan.
+					LikeNPC_Princess: Me cae bien {NPCName}.
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+
+				Chat: Date prisa, no puedo quedarme mucho...
+			}
+
+			SkeletonMerchant: {
+				DisplayName: Mercader esquelético
+
+				TownNPCMood: {
+					Content: Gracias por no matarme todavía, se agradece mucho ^^
+					NoHome: A mí también me gustaría tener un hogar, ¿sabes? :(
+					LoveSpace: Tanto espacio a mi alrededor es perfecto para practicar con mis yoyós y lanzar huesos... Sin pegarle a alguien en el ojo.
+					FarFromHome: ¿Me ayudarías a encontrar el camino de vuelta a casa? Ya sabes, como esqueleto no veo por dónde voy...
+					DislikeCrowded: ¿Gran fiesta por aquí? Hay mucha gente...
+					HateCrowded: Vaya, hay demasiada gente a mi alrededor... Lo odio
+					LikeBiome: Además, me gusta el bosque, es distinto a lo de abajo. ¡Por fin puedo respirar aire fresco!
+					LoveBiome: Además, me encantan los subterráneos. ¡Me siento como en casa!
+					DislikeBiome: Además, una pregunta: ¿¡POR QUÉ ESTOY AQUÍ?!
+					HateBiome: Es un poco difícil hacer mods mientras te atacan monstruos en {BiomeName}.
+					LikeNPC: Hablé con {NPCName}, ¡es una persona genial!
+					LoveNPC: Hablé con {NPCName}... Le encanta volar cosas, a mí también, ¡estábamos destinados a estar juntos!
+					HateNPC: Mmmh, mi compañero aventurero, hay una chica llamada {NPCName} que quiere purificarme... No me gusta, quiere experimentar conmigo... ¡AYUDA!
+					LikeNPC_Princess: Me cae bien {NPCName}.
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+
+				Census.SpawnCondition: Derrota a 50 esqueletos cualquiera
+			}
+
+			TravellingMerchant: {
+				DisplayName: Mercader ambulante
+
+				TownNPCMood: {
+					Content: ¡Ey! ¿Buscas mercancías hoy?
+					NoHome: A mí también me gustaría tener un hogar, ¿sabes? :(
+					LoveSpace: ¡Aaah, mucho espacio! Ahora puedo pensar en mis negocios.
+					FarFromHome: ¡Ayuda! No encuentro el camino de vuelta a casa. Por favor, guíame de regreso.
+					DislikeCrowded: Parece que hay un poco demasiados clientes aquí, ¿eh?
+					HateCrowded: Bueno, tengo stock limitado... No puedo atenderlos a todos, denme espacio...
+					LikeBiome: Sí, el desierto está genial. Me encanta el paisaje y... ¡Oh, un cliente!
+					LoveBiome: Aaah, el bosque... Un lugar relajado y pacífico para vivir, ¡y con muchos clientes!
+					HateBiome: Además, tengo una pregunta... ¿Qué quieres que haga aquí...? En serio, es demasiado peligroso y nadie comprará mis cosas. Odio este lugar.
+					LikeNPC: ¡{NPCName} tiene alma de mercader. ¡Me gusta eso!
+					LoveNPC: Oh, ahí está {NPCName}... Oh no, ¿me estoy sonrojando otra vez?
+					HateNPC: Por favor, ¿puedo vivir sin tener a {NPCName} cerca? Me está robando mis ahorros de toda la vida...
+					LikeNPC_Princess: Me cae bien {NPCName}.
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+
+				Census.SpawnCondition: Ten 50 monedas de oro contigo
+			}
+
+			TargetDummy: {
+				DisplayName: Muñeco de pruebas
+
+				TownNPCMood: {
+					Content: Estoy contento.
+					NoHome: Odio no tener un hogar.
+					FarFromHome: Estoy demasiado lejos de casa.
+					LoveSpace: Me encanta tener tanto espacio.
+					DislikeCrowded: No me gusta lo aglomerado que estoy.
+					HateCrowded: Odio lo aglomerado que estoy.
+					LikeNPC_Princess: Me cae bien {NPCName}.
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+		}
+
+		Buffs: {
+			DrillMountBuff: {
+				DisplayName: Montura de taladro láser
+				Description: Cuidado de no destruirlo todo.
+			}
+
+			DrillMount: {
+				DisplayName: Montura de taladro
+				Description: Mods.miningcracks_take_on_luiafk.Buffs.DrillMount.Description
+			}
+		}
+
+		Items: {
+			FasterMining: {
+				DisplayName: Cava más rápido
+				Tooltip: Aumenta un 35% la velocidad de minado
+			}
+
+			SuperToolTime: {
+				DisplayName: Mejoras del hogar
+				Tooltip:
+					'''
+					Aumenta muchísimo la velocidad de herramientas, pintura, bloques y paredes.
+					Autopintar.
+					Aumenta muchísimo el alcance.
+					'''
+			}
+
+			ToolTime: {
+				DisplayName: Hora de las herramientas
+				Tooltip:
+					'''
+					Aumenta la velocidad de herramientas, pintura, bloques y paredes.
+					Aumenta el alcance.
+					'''
+			}
+
+			UnlimitedManaAccessory: {
+				DisplayName: Maná ilimitado pequeño
+				Tooltip:
+					'''
+					Maná ilimitado.
+					Reduce un 30% el daño mágico
+					'''
+			}
+
+			UnlimitedManaAccessory1: {
+				DisplayName: Maná ilimitado inferior
+				Tooltip:
+					'''
+					Maná ilimitado.
+					Reduce un 20% el daño mágico
+					'''
+			}
+
+			UnlimitedManaAccessory2: {
+				DisplayName: Maná ilimitado
+				Tooltip:
+					'''
+					Maná ilimitado.
+					Reduce un 10% el daño mágico
+					'''
+			}
+
+			UnlimitedManaAccessory3: {
+				DisplayName: Maná ilimitado superior
+				Tooltip: Maná ilimitado.
+			}
+
+			UnlimitedManaAccessory4: {
+				DisplayName: Maná ilimitado avanzado
+				Tooltip:
+					'''
+					Maná ilimitado.
+					Aumenta un 5% el daño mágico
+					Aumenta un 5% la probabilidad de ataque crítico mágico
+					'''
+			}
+
+			UnlimitedManaAccessory5: {
+				DisplayName: Maná ilimitado definitivo
+				Tooltip:
+					'''
+					Maná ilimitado.
+					Aumenta un 10% el daño mágico
+					Aumenta un 10% la probabilidad de ataque crítico mágico
+					'''
+			}
+
+			UnlimitedBoneArrows: {
+				DisplayName: Flechas de hueso ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de hueso
+			}
+
+			UnlimitedChlorophyteArrows: {
+				DisplayName: Flechas de clorofita ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de clorofita
+			}
+
+			UnlimitedCursedArrows: {
+				DisplayName: Flechas malditas ilimitadas
+				Tooltip: Nunca te quedarás sin flechas malditas
+			}
+
+			UnlimitedFlamingArrows: {
+				DisplayName: Flechas ardientes ilimitadas
+				Tooltip: Nunca te quedarás sin flechas ardientes
+			}
+
+			UnlimitedFrostburnArrows: {
+				DisplayName: Flechas de quemadura gélida ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de quemadura gélida
+			}
+
+			UnlimitedHellfireArrows: {
+				DisplayName: Flechas de fuego infernal ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de fuego infernal
+			}
+
+			UnlimitedHolyArrows: {
+				DisplayName: Flechas sagradas ilimitadas
+				Tooltip: Nunca te quedarás sin flechas sagradas
+			}
+
+			UnlimitedIchorArrows: {
+				DisplayName: Flechas de icor ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de icor
+			}
+
+			UnlimitedJesterArrows: {
+				DisplayName: Flechas de bufón ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de bufón
+			}
+
+			UnlimitedLuminiteArrows: {
+				DisplayName: Flechas de luminita ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de luminita
+			}
+
+			UnlimitedUnholyArrows: {
+				DisplayName: Flechas infames ilimitadas
+				Tooltip: Nunca te quedarás sin flechas infames
+			}
+
+			UnlimitedVenomArrows: {
+				DisplayName: Flechas de ponzoña ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de ponzoña
+			}
+
+			UnlimitedWoodenArrows: {
+				DisplayName: Flechas de madera ilimitadas
+				Tooltip: Nunca te quedarás sin flechas de madera
+			}
+
+			UnlimitedShimmerArrows: {
+				DisplayName: Flechas fulgurantes ilimitadas
+				Tooltip: Nunca te quedarás sin flechas fulgurantes
+			}
+
+			ArenaBuilder: {
+				DisplayName: Constructor de plataformas para arenas
+				Tooltip:
+					'''
+					Construye una plataforma de ~200 bloques de ancho.
+					Clic derecho para elegir opciones, material de plataforma y extras
+					Usará automáticamente plataformas de asfalto si las tienes en el inventario.
+					Elegir la hoguera colocará hogueras.
+					También colocará bloques de burbuja para colocar miel.
+					Elegir la luz iluminará toda la plataforma de punta a punta.
+					No destruye bloques.
+					'''
+			}
+
+			Arena: {
+				DisplayName: Arena
+				Tooltip: ""
+			}
+
+			FishingBiomeBuilder: {
+				DisplayName: Constructor de bioma de pesca
+				Tooltip:
+					'''
+					Construye un bioma para pescar.
+					Clic derecho para elegir opciones.
+					Selecciona obsidiana para colocar pared de jungla o de champiñón detrás de los bloques.
+					Selecciona material de madera/piedra para la barrera exterior.
+					Activa la luz para elegir si quieres iluminación o no.
+					Piedra perlada/hielo sagrado solo usable en el modo Difícil.
+					'''
+			}
+
+			FishingBuilder: {
+				DisplayName: Constructor de estanques
+				Tooltip:
+					'''
+					Úsalo para construir un estanque de pesca o colocar/quitar líquido.
+					Clic derecho para elegir opciones.
+					Funciona como el Manipulador de líquidos definitivo cuando el Constructor de estanques de pesca está desactivado.
+					Con el Constructor de estanques de pesca activado, al usarlo creará un estanque con el líquido elegido.
+					El estanque estará vacío si eliges la esponja (sin plataformas ni bloques exteriores).
+					Con obsidiana activada se colocará una pared de fondo (incluida la esponja).
+					'''
+			}
+
+			GroundFiller: {
+				DisplayName: Vara de tierra 2.0
+				Tooltip:
+					'''
+					Clic derecho para cambiar de modo.
+					Modo 1: Nivela y rellena el suelo bajo ti, 300 de ancho, 50 de profundidad.
+					Modo 2: También limpia 50 bloques hacia arriba.
+					Modo 3: También funciona en la Mazmorra, el Templo y el Desierto en el subsuelo, dejando la pared de fondo.
+					Los bloques de mods se reemplazarán con bloques vanilla.
+					'''
+			}
+
+			Hellevator: {
+				DisplayName: Hellevator automático
+				Tooltip:
+					'''
+					Construye un hellevator.
+					Clic derecho para elegir opciones.
+					Estará iluminado de arriba abajo si tienes la luz activada.
+					Solo colocará cuerda si tienes uno de los objetos de Cuerda ilimitada en el inventario.
+					Haz clic donde quieras la pared superior derecha del hellevator.
+					Se detendrá si choca con el Templo.
+					'''
+			}
+
+			PrisonBuilder: {
+				DisplayName: Constructor de prisiones
+				Tooltip:
+					'''
+					Construye una prisión de PNJ.
+					Clic derecho para elegir opciones.
+					Estará iluminada si la luz está activada (contará como casa de cualquier forma).
+					Haz clic donde quieras el bloque inferior derecho.
+					'''
+			}
+
+			SkyPlatformBuilder: {
+				DisplayName: Constructor de puentes celestiales
+				Tooltip:
+					'''
+					Construye una plataforma a lo largo de todo el mapa.
+					Clic derecho para elegir opciones.
+					Estará iluminada de punta a punta si tienes la luz activada.
+					No destruye bloques.
+					Usará automáticamente plataformas de asfalto si las tienes en el inventario.
+					'''
+			}
+
+			SubAndSky: {
+				DisplayName: Constructor de vagoneta o plataforma
+				Tooltip:
+					'''
+					Clic derecho para elegir opciones.
+					Estará iluminado de punta a punta si tienes la luz activada.
+					El material de plataforma puede ser obsidiana (tiene prioridad) o las maderas.
+					Si tienes Plataformas de asfalto ilimitadas en el inventario, se colocarán esas en su lugar.
+					Elegir obsidiana hará que la vagoneta se coloque sin paredes/suelo.
+					Colocar plataformas destruirá bloques.
+					Haz clic donde quieras la pista de vagoneta o la plataforma
+					Atravesará el templo si el Gólem está muerto.
+					'''
+			}
+
+			SubwayBuilder: {
+				DisplayName: Constructor de metro
+				Tooltip:
+					'''
+					Construye un metro.
+					Clic derecho para elegir opciones.
+					Estará iluminado de punta a punta si tienes la luz activada.
+					Haz clic donde quieras la pista de vagoneta.
+					Atravesará el templo si el Gólem está muerto.
+					'''
+			}
+
+			InstantMoonLord: {
+				DisplayName: Invocación instantánea del Señor de la Luna
+				Tooltip: Omite el Infierno inminente
+			}
+
+			NoAltarGolem: {
+				DisplayName: Invocación del Gólem
+				Tooltip:
+					'''
+					Invoca al Gólem sin el altar de lihzahrd.
+					Solo usable cuando el Gólem ha sido derrotado.
+					'''
+			}
+
+			NoFishDuke: {
+				DisplayName: Invocación de Fishron
+				Tooltip: Invoca a Fishron sin tener que pescar
+			}
+
+			WallSummon: {
+				DisplayName: Muñeco vudú del Guía ensangrentado
+				Tooltip:
+					'''
+					Invoca al Muro carnoso sin necesitar al Guía.
+					Solo usable después de que el Muro carnoso haya sido derrotado.
+					'''
+			}
+
+			MultiPurposeSponge: {
+				DisplayName: Esponja multiusos
+				Tooltip:
+					'''
+					Deshazte de todo ese líquido.
+					Funciona con agua, lava y miel.
+					'''
+			}
+
+			UltimateBucket: {
+				DisplayName: Manipulador de líquidos definitivo
+				Tooltip:
+					'''
+					Nunca te quedarás sin líquido.
+					A menos que quieras.
+					Clic derecho para cambiar de modo.
+					'''
+			}
+
+			UnlimitedChumBucket: {
+				DisplayName: Cubo de carnada ilimitado
+				Tooltip: Los sueños de Plankton con este lujo.
+			}
+
+			UnlimitedHoney: {
+				DisplayName: Cubo de miel ilimitado
+				Tooltip: Nunca te quedarás sin miel
+			}
+
+			UnlimitedLava: {
+				DisplayName: Cubo de lava ilimitado
+				Tooltip: Nunca te quedarás sin lava
+			}
+
+			UnlimitedWater: {
+				DisplayName: Cubo de agua ilimitado
+				Tooltip: Nunca te quedarás sin agua
+			}
+
+			UnlimitedChlorophyteBullets: {
+				DisplayName: Balas de clorofita ilimitadas
+				Tooltip: Nunca te quedarás sin balas de clorofita
+			}
+
+			UnlimitedCrystalBullets: {
+				DisplayName: Balas de cristal ilimitadas
+				Tooltip: Nunca te quedarás sin balas de cristal
+			}
+
+			UnlimitedCursedBullets: {
+				DisplayName: Balas malditas ilimitadas
+				Tooltip: Nunca te quedarás sin balas malditas
+			}
+
+			UnlimitedExplodingBullets: {
+				DisplayName: Balas explosivas ilimitadas
+				Tooltip: Nunca te quedarás sin balas explosivas
+			}
+
+			UnlimitedGoldenBullets: {
+				DisplayName: Balas de oro ilimitadas
+				Tooltip: Nunca te quedarás sin balas de oro
+			}
+
+			UnlimitedHighVelocityBullets: {
+				DisplayName: Balas de alta velocidad ilimitadas
+				Tooltip: Nunca te quedarás sin balas de alta velocidad
+			}
+
+			UnlimitedIchorBullets: {
+				DisplayName: Balas de icor ilimitadas
+				Tooltip: Nunca te quedarás sin balas de icor
+			}
+
+			UnlimitedLuminiteBullets: {
+				DisplayName: Balas de luminita ilimitadas
+				Tooltip: Nunca te quedarás sin balas de luminita
+			}
+
+			UnlimitedMeteoriteBullets: {
+				DisplayName: Proyectil de meteorito ilimitado
+				Tooltip: Nunca te quedarás sin proyectiles de meteorito
+			}
+
+			UnlimitedMusketBalls: {
+				DisplayName: Balas de mosquete ilimitadas
+				Tooltip: Nunca te quedarás sin balas de mosquete
+			}
+
+			UnlimitedNanoBullets: {
+				DisplayName: Nanobalas ilimitadas
+				Tooltip: Nunca te quedarás sin nanobalas
+			}
+
+			UnlimitedPartyBullets: {
+				DisplayName: Balas fiesteras ilimitadas
+				Tooltip: Nunca te quedarás sin balas fiesteras
+			}
+
+			UnlimitedSilverBullets: {
+				DisplayName: Balas de plata ilimitadas
+				Tooltip: Nunca te quedarás sin balas de plata
+			}
+
+			UnlimitedTungstenBullets: {
+				DisplayName: Balas de tungsteno ilimitadas
+				Tooltip: Nunca te quedarás sin balas de tungsteno
+			}
+
+			UnlimitedVenomBullets: {
+				DisplayName: Balas de ponzoña ilimitadas
+				Tooltip: Nunca te quedarás sin balas de ponzoña
+			}
+
+			UnlimitedCrystalDarts: {
+				DisplayName: Dardos de cristal ilimitados
+				Tooltip: Nunca te quedarás sin dardos de cristal
+			}
+
+			UnlimitedCursedDarts: {
+				DisplayName: Dardos malditos ilimitados
+				Tooltip: Nunca te quedarás sin dardos malditos
+			}
+
+			UnlimitedIchorDarts: {
+				DisplayName: Dardos de icor ilimitados
+				Tooltip: Nunca te quedarás sin dardos de icor
+			}
+
+			UnlimitedPoisonDarts: {
+				DisplayName: Dardos venenosos ilimitados
+				Tooltip: Nunca te quedarás sin dardos venenosos
+			}
+
+			LootMagnet: {
+				DisplayName: Imán de botín
+				Tooltip:
+					'''
+					Recoge todo el botín.
+					A veces, los objetos no se pueden recoger; ¡esto es un problema de Terraria, no de LuiAFK!
+					'''
+			}
+
+			MagicEssence: {
+				DisplayName: Esencia mágica
+				Tooltip:
+					'''
+					Imbuida de poder mágico.
+					Huele un poco a queso.
+					'''
+			}
+
+			Magic: {
+				DisplayName: Magia
+				Tooltip: ""
+			}
+
+			ManaEssence: {
+				DisplayName: Esencia de maná
+				Tooltip:
+					'''
+					Imbuida de poder mágico.
+					Huele un poco a pez.
+					'''
+			}
+
+			EventsEnabler: {
+				DisplayName: Activador de eventos
+				Tooltip:
+					'''
+					Clic derecho para usarme
+					Úsalo para activar o desactivar cada evento
+					'''
+			}
+
+			HalloweenEnable: {
+				DisplayName: Feliz Halloween
+				Tooltip:
+					'''
+					Halloween está activo mientras esto esté en tu inventario.
+					Al quitarlo del inventario, tardará hasta la mañana en volver a la normalidad.
+					'''
+			}
+
+			HalloweenXmasEnable: {
+				DisplayName: Felices fiestas
+				Tooltip:
+					'''
+					La Navidad está activa mientras esto esté en tu inventario.
+					Halloween está activo mientras esto esté en tu inventario.
+					Al quitarlo del inventario, tardará hasta la mañana en volver a la normalidad.
+					'''
+			}
+
+			RainEnable: {
+				DisplayName: Amuleto de lluvia
+				Tooltip: Activa o desactiva la lluvia
+			}
+
+			SandstormEnable: {
+				DisplayName: Amuleto de arena
+				Tooltip: Activa o desactiva las tormentas de arena
+			}
+
+			Sand: {
+				DisplayName: Arena
+				Tooltip: ""
+			}
+
+			XMasEnable: {
+				DisplayName: Feliz Navidad
+				Tooltip:
+					'''
+					La Navidad está activa mientras esto esté en tu inventario.
+					Al quitarlo del inventario, tardará hasta la mañana en volver a la normalidad.
+					'''
+			}
+
+			UnlimitedBomb: {
+				DisplayName: Bombas ilimitadas
+				Tooltip: Nunca te quedarás sin bombas
+			}
+
+			UnlimitedBombFish: {
+				DisplayName: Pez bomba ilimitado
+				Tooltip: Nunca te quedarás sin peces bomba
+			}
+
+			UnlimitedBouncyBomb: {
+				DisplayName: Bomba saltarina ilimitada
+				Tooltip: Nunca te quedarás sin bombas saltarinas
+			}
+
+			UnlimitedBouncyDynamite: {
+				DisplayName: Dinamita saltarina ilimitada
+				Tooltip: Nunca te quedarás sin dinamita saltarina
+			}
+
+			UnlimitedDynamite: {
+				DisplayName: Dinamita ilimitada
+				Tooltip: Nunca te quedarás sin dinamita
+			}
+
+			UnlimitedStickyBomb: {
+				DisplayName: Bombas lapa ilimitadas
+				Tooltip: Nunca te quedarás sin bombas lapa
+			}
+
+			UnlimitedStickyDynamite: {
+				DisplayName: Dinamita adhesiva ilimitada
+				Tooltip: Nunca te quedarás sin dinamita adhesiva
+			}
+
+			UnlimitedChumCaster: {
+				DisplayName: Caña de carnada ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedFiberglassFishingPole: {
+				DisplayName: Caña de fibra de cristal ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedFisherofSouls: {
+				DisplayName: Pescador de almas ilimitado
+				Tooltip: No necesita cebo
+			}
+
+			UnlimitedFleshCatcher: {
+				DisplayName: Atrapacarne ilimitado
+				Tooltip: No necesita cebo
+			}
+
+			UnlimitedGoldenFishingRod: {
+				DisplayName: Caña dorada ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedHotlineFishingHook: {
+				DisplayName: Anzuelo directo ilimitado
+				Tooltip:
+					'''
+					No necesita cebo.
+					Puede pescar en lava.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedMechanicsRod: {
+				DisplayName: Caña mecánica ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedReinforcedFishingPole: {
+				DisplayName: Caña de pescar reforzada ilimitada
+				Tooltip: No necesita cebo
+			}
+
+			UnlimitedScarabFishingRod: {
+				DisplayName: Caña escarabajo ilimitada ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedSittingDucksFishingPole: {
+				DisplayName: Caña de blanco fácil ilimitada
+				Tooltip:
+					'''
+					No necesita cebo.
+					Tu hilo nunca se romperá.
+					'''
+			}
+
+			UnlimitedWoodFishingPole: {
+				DisplayName: Caña de madera ilimitada
+				Tooltip: No necesita cebo
+			}
+
+			UnlimitedBouncyGlowstick: {
+				DisplayName: Palos brillantes saltarines ilimitados
+				Tooltip: Nunca te quedarás sin palos brillantes saltarines
+			}
+
+			UnlimitedGlowstick: {
+				DisplayName: Varitas luminosas ilimitadas
+				Tooltip: Nunca te quedarás sin varitas luminosas
+			}
+
+			UnlimitedSpelunkerGlowstick: {
+				DisplayName: Varitas luminosas espeleólogo ilimitadas
+				Tooltip: Nunca te quedarás sin varitas luminosas espeleólogo
+			}
+
+			UnlimitedStickyGlowstick: {
+				DisplayName: Varitas luminosas adhesivas ilimitadas
+				Tooltip: Nunca te quedarás sin varitas luminosas adhesivas
+			}
+
+			BloodMoonEnable: {
+				DisplayName: Muñeco vudú sangriento
+				Tooltip: Activa o desactiva la Luna de Sangre
+			}
+
+			FrostLegionEnable: {
+				DisplayName: Invasión de Legión de escarcha ilimitada
+				Tooltip:
+					'''
+					Inicia la invasión de la Legión de escarcha.
+					La Legión de escarcha llega al instante.
+					'''
+			}
+
+			FrostMoonEnable: {
+				DisplayName: Invasión de Luna Gélida ilimitada
+				Tooltip: Inicia la Luna Gélida
+			}
+
+			GoblinArmyEnable: {
+				DisplayName: Invasión de duendes ilimitada
+				Tooltip:
+					'''
+					Inicia la invasión del Ejército de duendes.
+					El Ejército de duendes llega al instante.
+					'''
+			}
+
+			MartianMadnessEnable: {
+				DisplayName: Invasión marciana ilimitada
+				Tooltip:
+					'''
+					Inicia la invasión de Locura marciana.
+					Requiere que el Gólem esté muerto.
+					'''
+			}
+
+			PirateEnable: {
+				DisplayName: Invasión pirata ilimitada
+				Tooltip:
+					'''
+					Inicia la invasión pirata.
+					Los piratas llegan al instante.
+					'''
+			}
+
+			PumpkinMoonEnable: {
+				DisplayName: Invasión calabaza ilimitada
+				Tooltip: Inicia la Luna calabaza
+			}
+
+			SolarEclipseEnable: {
+				DisplayName: Invasión solar ilimitada
+				Tooltip: Inicia el eclipse solar
+			}
+
+			UnlimitedBloodyTear: {
+				DisplayName: Lágrima sangrienta ilimitada
+				Tooltip: Invoca la Luna de Sangre 'Qué noche tan horrible para tener una maldición.'
+			}
+
+			PlanteraLocator: {
+				DisplayName: Detector de Plantera
+				Tooltip:
+					'''
+					Localiza un bulbo de Plantera.
+					Úsalo para buscar debajo de ti.
+					'''
+			}
+
+			TempleLocator: {
+				DisplayName: Detector de lihzahrd
+				Tooltip:
+					'''
+					Localiza el Templo de la jungla.
+					Úsalo para buscar debajo de ti.
+					'''
+			}
+
+			DeepsSummon: {
+				DisplayName: Muñeco mejorado
+				Tooltip:
+					'''
+					Invoca un muñeco de pruebas para medir tu DPS.
+					Usarlo de nuevo despawneará cualquier muñeco activo.
+					Puede ser blanco de homing y los esbirros lo atacarán.
+					Despawnea cuando hay un jefe vivo.
+					Clic derecho para alternar los frames de invencibilidad normales.
+					La hitbox tiene un tamaño constante.
+					Usa /luiafk dummy para alternar el dibujo de la hitbox.
+					Usa /luiafk dummy y luego un número para cambiar la defensa del muñeco.
+					'''
+			}
+
+			FastFall: {
+				DisplayName: Roca realmente pesada
+				Tooltip:
+					'''
+					Es tan pesada que te hace caer más rápido de lo normal.
+					Márcala como favorita para que funcione.
+					'''
+			}
+
+			LightSwitch: {
+				DisplayName: Interruptor de luz
+				Tooltip:
+					'''
+					Apaga la luz de todos los "Activadores de casa".
+					Los "Activador de casa (sin luz)" no se ven afectados.
+					'''
+			}
+
+			TimeChanger: {
+				DisplayName: Cambiador de tiempo
+				Tooltip: Nunca vuelvas a esperar
+			}
+
+			UnlimitedAle: {
+				DisplayName: Cerveza ilimitada
+				Tooltip: Nunca te quedarás sin cerveza
+			}
+
+			UnlimitedBlueFlares: {
+				DisplayName: Bengalas azules ilimitadas
+				Tooltip: Nunca te quedarás sin bengalas azules
+			}
+
+			UnlimitedBones: {
+				DisplayName: Huesos ilimitados
+				Tooltip: Nunca te quedarás sin huesos
+			}
+
+			UnlimitedCandyCorn: {
+				DisplayName: Maíz de caramelo ilimitado
+				Tooltip: Nunca te quedarás sin maíz de caramelo
+			}
+
+			UnlimitedCopperCoin: {
+				DisplayName: Monedas de cobre ilimitadas
+				Tooltip:
+					'''
+					Nunca te quedarás sin monedas de cobre.
+					¡Cuenta como munición, no como dinero!
+					Se puede colocar en la ranura de munición.
+					'''
+			}
+
+			UnlimitedExplosiveJackOLantern: {
+				DisplayName: Linternas calabaza explosivas ilimitadas
+				Tooltip: Nunca te quedarás sin linternas calabaza explosivas
+			}
+
+			UnlimitedFallenStars: {
+				DisplayName: Estrellas fugaces ilimitadas
+				Tooltip: Nunca te quedarás sin estrellas fugaces
+			}
+
+			UnlimitedFlares: {
+				DisplayName: Bengalas ilimitadas
+				Tooltip: Nunca te quedarás sin bengalas
+			}
+
+			UnlimitedGel: {
+				DisplayName: Gel ilimitado
+				Tooltip: Nunca te quedarás sin gel
+			}
+
+			UnlimitedGoldCoin: {
+				DisplayName: Monedas de oro ilimitadas
+				Tooltip:
+					'''
+					Nunca te quedarás sin monedas de oro.
+					¡Cuenta como munición, no como dinero!
+					Se puede colocar en la ranura de munición.
+					'''
+			}
+
+			UnlimitedNails: {
+				DisplayName: Clavos ilimitados
+				Tooltip: Nunca te quedarás sin clavos
+			}
+
+			UnlimitedPlatinumCoin: {
+				DisplayName: Monedas de platino ilimitadas
+				Tooltip:
+					'''
+					Nunca te quedarás sin monedas de platino.
+					¡Cuenta como munición, no como dinero!
+					Se puede colocar en la ranura de munición.
+					'''
+			}
+
+			UnlimitedSand: {
+				DisplayName: Arena ilimitada
+				Tooltip:
+					'''
+					Nunca te quedarás sin arena.
+					Esto es munición, no un bloque de arena
+					'''
+			}
+
+			UnlimitedSeeds: {
+				DisplayName: Semillas ilimitadas
+				Tooltip: Nunca te quedarás sin semillas
+			}
+
+			UnlimitedSilverCoin: {
+				DisplayName: Monedas de plata ilimitadas
+				Tooltip:
+					'''
+					Nunca te quedarás sin monedas de plata.
+					¡Cuenta como munición, no como dinero!
+					Se puede colocar en la ranura de munición.
+					'''
+			}
+
+			UnlimitedSnowballs: {
+				DisplayName: Bolas de nieve ilimitadas
+				Tooltip: Nunca te quedarás sin bolas de nieve
+			}
+
+			UnlimitedStakes: {
+				DisplayName: Estacas ilimitadas
+				Tooltip: Nunca te quedarás sin estacas
+			}
+
+			UnlimitedStyngerBolts: {
+				DisplayName: Proyectiles Stynger ilimitados
+				Tooltip: Nunca te quedarás sin proyectiles Stynger
+			}
+
+			AllInOneChest: {
+				DisplayName: Cofre y mercader todo en uno móvil
+				Tooltip:
+					'''
+					Invoca una Hucha, una Caja fuerte, una Cámara del vacío y una Forja del Defensor flotantes.
+					Invoca un hada que compra y vende objetos.
+					Cursor inteligente desactivado al usar los bancos.
+					'''
+			}
+
+			DefendersForge: {
+				DisplayName: Forja del Defensor móvil
+				Tooltip:
+					'''
+					Invoca una Forja del Defensor flotante.
+					Cursor inteligente desactivado al usar el banco.
+					'''
+			}
+
+			MobileMerchant: {
+				DisplayName: Mercader móvil
+				Tooltip: Invoca un mercader móvil que compra y vende objetos.
+			}
+
+			MoneyCollector: {
+				DisplayName: Colector de dinero
+				Tooltip:
+					'''
+					Coloca automáticamente cualquier moneda que recojas en tu Hucha.
+					Si no tienes suficiente espacio en tu Hucha, no hace nada.
+					Se puede colocar en la ranura de monedas.
+					'''
+			}
+
+			PiggyBank: {
+				DisplayName: Hucha móvil
+				Tooltip:
+					'''
+					Invoca una Hucha flotante.
+					Cursor inteligente desactivado al usar el banco.
+					'''
+			}
+
+			PiggySafe: {
+				DisplayName: Hucha, caja fuerte y mercader móvil
+				Tooltip:
+					'''
+					Invoca una Hucha y una Caja fuerte flotantes.
+					Invoca un hada que compra y vende objetos.
+					Cursor inteligente desactivado al usar los bancos.
+					'''
+			}
+
+			Safe: {
+				DisplayName: Caja fuerte móvil
+				Tooltip:
+					'''
+					Invoca una Caja fuerte flotante.
+					Cursor inteligente desactivado al usar el banco.
+					'''
+			}
+
+			AsphaltPlatform: {
+				DisplayName: Plataformas de asfalto ilimitadas
+				Tooltip: Te permite correr a toda velocidad.
+			}
+
+			BambooHarvester: {
+				DisplayName: Cosechadora de bambú
+				Tooltip:
+					'''
+					Al colocarla recolecta el bambú cercano.
+					Recolecta bambú en un radio de 50 bloques en cada dirección.
+					'''
+			}
+
+			CactusHarvester: {
+				DisplayName: Cosechadora de cactus
+				Tooltip:
+					'''
+					Al colocarla recolecta el cactus cercano.
+					Recolecta cactus en un radio de 50 bloques en cada dirección.
+					'''
+			}
+
+			CrystalHarvester: {
+				DisplayName: Cosechadora de cristales
+				Tooltip:
+					'''
+					Al colocarla recolecta los Fragmentos de cristal y Cristales gelatinosos cercanos.
+					Recolecta cristales en un radio de 50 bloques en cada dirección.
+					'''
+			}
+
+			EnemyHarvester: {
+				DisplayName: Cosechadora de enemigos
+				Tooltip:
+					'''
+					Al colocarla recolecta botín de enemigos según el bioma detectado.
+					Considera el bioma de los bloques sobre los que se coloca, así que si
+					la pones sobre 2 bloques de piedra perlada la reconocerá
+					como si estuviera en el bioma de lo Sagrado.
+					No recolecta dinero ni comida soltable.
+					Por ahora no hay enemigos ni botín de mods.
+					'''
+			}
+
+			FishHarvester: {
+				DisplayName: Cosechadora de peces
+				Tooltip:
+					'''
+					Al colocarla pesca en el agua cercana.
+					Requiere Caña ilimitada o una caña normal + carnada.
+					Ciertos objetos se pueden colocar en el cofre para peces de mayor calidad.
+					Las capturas se basan en la ubicación del cofre (biomas).
+					Colócala hasta 10 bloques por encima del agua.
+					El rango de bioma es de 30 bloques en cada dirección.
+					'''
+			}
+
+			GemCornHarvester: {
+				DisplayName: Cosechadora de árboles de bellota de gema
+				Tooltip:
+					'''
+					Al colocarla recolecta los árboles de bellota de gema cercanos.
+					Recolecta árboles de bellota de gema en un radio de 50 bloques en cada dirección.
+					No recolecta plantones de bellota de gema.
+					'''
+			}
+
+			FishingNet: {
+				DisplayName: Red de pesca
+				Tooltip: ""
+			}
+
+			HarvesterParts: {
+				DisplayName: Piezas de cosechadora
+				Tooltip: ""
+			}
+
+			Piping: {
+				DisplayName: Tubería
+				Tooltip: ""
+			}
+
+			PlantHarvester: {
+				DisplayName: Cosechadora de plantas
+				Tooltip:
+					'''
+					Al colocarla recolecta y vuelve a plantar las plantas cercanas.
+					Recolecta plantas en flor en un radio de 50 bloques en cada dirección.
+					Vuelve a plantar todo lo cosechado.
+					No se recolectan semillas.
+					'''
+			}
+
+			TreeHarvester: {
+				DisplayName: Cosechadora de árboles
+				Tooltip:
+					'''
+					Al colocarla recolecta y vuelve a plantar los árboles cercanos.
+					Recolecta madera en un radio de 50 bloques en cada dirección.
+					Vuelve a plantar todo lo cosechado.
+					No se recolectan bellotas.
+					Los árboles de piedra/bellota de gema no se cosechan.
+					'''
+			}
+
+			CorruptionAltar: {
+				DisplayName: Altar corrupto
+				Tooltip:
+					'''
+					Coloca un Altar demoníaco para fabricar.
+					No se consume
+					'''
+			}
+
+			Corrupt: {
+				DisplayName: Corrupto
+				Tooltip: ""
+			}
+
+			CrimsonAltar: {
+				DisplayName: Altar carmesí
+				Tooltip:
+					'''
+					Coloca un Altar carmesí para fabricar.
+					No se consume
+					'''
+			}
+
+			Crimson: {
+				DisplayName: Carmesí
+				Tooltip: ""
+			}
+
+			HouseTile: {
+				DisplayName: Activador de casa ilimitado
+				Tooltip:
+					'''
+					Bloque invisible.
+					Cuenta como puerta, silla, mesa y fuente de luz.
+					Clic derecho para elegir si estará iluminado (cuenta como casa de cualquier forma).
+					'''
+			}
+
+			UnlimitedBlueStreamer: {
+				DisplayName: Guirnaldas azules ilimitadas
+				Tooltip: Nunca te quedarás sin guirnaldas azules.
+			}
+
+			UnlimitedChain: {
+				DisplayName: Cadenas ilimitadas
+				Tooltip: Nunca te quedarás sin cadenas.
+			}
+
+			UnlimitedGreenStreamer: {
+				DisplayName: Guirnaldas verdes ilimitadas
+				Tooltip: Nunca te quedarás sin guirnaldas verdes.
+			}
+
+			UnlimitedPinkStreamer: {
+				DisplayName: Guirnalda rosa ilimitada
+				Tooltip: Nunca te quedarás sin guirnaldas rosas.
+			}
+
+			UnlimitedRope: {
+				DisplayName: Cuerda ilimitada
+				Tooltip: Nunca te quedarás sin cuerda.
+			}
+
+			UnlimitedRopeCoil: {
+				DisplayName: Rollos de cuerda ilimitados
+				Tooltip: Nunca te quedarás sin rollos de cuerda.
+			}
+
+			UnlimitedSilkRope: {
+				DisplayName: Cuerda de seda ilimitada
+				Tooltip: Nunca te quedarás sin cuerda de seda.
+			}
+
+			UnlimitedSilkRopeCoil: {
+				DisplayName: Rollos de cuerda de seda ilimitados
+				Tooltip: Nunca te quedarás sin rollos de cuerda de seda.
+			}
+
+			UnlimitedVineRope: {
+				DisplayName: Cuerda de enredadera ilimitada
+				Tooltip: Nunca te quedarás sin cuerda de enredadera.
+			}
+
+			UnlimitedVineRopeCoil: {
+				DisplayName: Rollos de cuerda de enredadera ilimitados
+				Tooltip: Nunca te quedarás sin rollos de cuerda de enredadera.
+			}
+
+			UnlimitedWebRope: {
+				DisplayName: Cuerda de telaraña ilimitada
+				Tooltip: Nunca te quedarás sin cuerda de telaraña.
+			}
+
+			UnlimitedWebRopeCoil: {
+				DisplayName: Rollos de cuerda de telaraña ilimitados
+				Tooltip: Nunca te quedarás sin rollos de cuerda de telaraña.
+			}
+
+			UnlimitedBastStatue: {
+				DisplayName: Pedestal dorado de estatuas de Bast
+				Tooltip: La defensa aumenta en 5
+			}
+
+			UnlimitedCampfire: {
+				DisplayName: Pedestal dorado de hogueras
+				Tooltip: Aumenta la regeneración de vida.
+			}
+
+			UnlimitedHeartLantern: {
+				DisplayName: Pedestal dorado de corazones
+				Tooltip: Aumenta la regeneración de vida.
+			}
+
+			UnlimitedHoneyBuff: {
+				DisplayName: Pedestal dorado de miel
+				Tooltip: Aumenta la regeneración de vida.
+			}
+
+			UnlimitedStarinaBottle: {
+				DisplayName: Pedestal dorado de estrellas
+				Tooltip: Aumenta la regeneración de maná.
+			}
+
+			UnlimitedPeaceCandle: {
+				DisplayName: Espíritu de paz
+				Tooltip: Agradable y tranquilo.
+			}
+
+			UnlimitedWaterCandle: {
+				DisplayName: Espíritu de agua
+				Tooltip: Aumenta las apariciones.
+			}
+
+			UnlimitedAmmoReservation: {
+				DisplayName: Poder de reserva de munición
+				Tooltip: Ahorra un poco de munición.
+			}
+
+			UnlimitedArchery: {
+				DisplayName: Poder de tiro con arco
+				Tooltip: Dispara rápido y fuerte.
+			}
+
+			UnlimitedBattle: {
+				DisplayName: Poder de batalla
+				Tooltip: Aumenta las apariciones.
+			}
+
+			UnlimitedBuilder: {
+				DisplayName: Poder de constructor
+				Tooltip: Hay que construir esas prisiones de PNJs más rápido.
+			}
+
+			UnlimitedCalming: {
+				DisplayName: Poder tranquilizador
+				Tooltip: Agradable y tranquilo.
+			}
+
+			UnlimitedCrates: {
+				DisplayName: Poder de cajas
+				Tooltip:
+					'''
+					Pesca todas las cajas que necesites.
+					Usa la tecla de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedDangersense: {
+				DisplayName: Poder de sentido del peligro
+				Tooltip:
+					'''
+					No te lleves sorpresas.
+					Usa la IU de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedEndurance: {
+				DisplayName: Poder de resistencia
+				Tooltip: Reduce el daño recibido.
+			}
+
+			UnlimitedFeatherfall: {
+				DisplayName: Poder de caída de pluma
+				Tooltip:
+					'''
+					Nunca vuelvas a morir por una caída.
+					Usa la tecla de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedFishingPotion: {
+				DisplayName: Poder de pesca
+				Tooltip: Aumenta la habilidad de pesca.
+			}
+
+			UnlimitedFlipper: {
+				DisplayName: Poder de aletas
+				Tooltip: Permite nadar.
+			}
+
+			UnlimitedGenderChange: {
+				DisplayName: Poder de cambio de sexo
+				Tooltip:
+					'''
+					Úsalo para cambiar de sexo.
+					Es 2023, hermano, sé lo que quieras.
+					'''
+			}
+
+			UnlimitedGills: {
+				DisplayName: Poder de agallas
+				Tooltip: Nunca vuelvas a ahogarte.
+			}
+
+			UnlimitedGnome: {
+				DisplayName: Pedestal dorado de gnomos
+				Tooltip: Te han gnomeado.
+			}
+
+			UnlimitedGravitation: {
+				DisplayName: Poder de gravedad
+				Tooltip:
+					'''
+					Ve a encontrar todas esas islas flotantes.
+					Usa la tecla de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedHeartreach: {
+				DisplayName: Poder alcanzacorazón
+				Tooltip: Aumenta el rango de recogida de corazones.
+			}
+
+			UnlimitedHunter: {
+				DisplayName: Poder de cazador
+				Tooltip:
+					'''
+					Detecta al enemigo antes de que él te detecte a ti.
+					Usa la IU de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedIchor: {
+				DisplayName: Poder de icor
+				Tooltip: Tus ataques infligen icor.
+			}
+
+			UnlimitedInferno: {
+				DisplayName: Poder del infierno
+				Tooltip:
+					'''
+					Prende fuego a los enemigos cercanos.
+					Usa la tecla de ajustes para alternar el efecto visual.
+					'''
+			}
+
+			UnlimitedInvisibility: {
+				DisplayName: Poder de invisibilidad
+				Tooltip:
+					'''
+					Porque al parecer es útil para farmear Trufa.
+					Usa la tecla de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedIronskin: {
+				DisplayName: Poder de piel de hierro
+				Tooltip: Cuánta armadura.
+			}
+
+			UnlimitedLadybug: {
+				DisplayName: Poder de mariquitas
+				Tooltip:
+					'''
+					Sientes la suerte zumbando en tus manos.
+					¡Sin bichos!
+					'''
+			}
+
+			UnlimitedLifeforce: {
+				DisplayName: Poder de fuerza vital
+				Tooltip: Más vida.
+			}
+
+			UnlimitedLove: {
+				DisplayName: Poder del amor
+				Tooltip: Lánzalo a alguien para enamorarlo.
+			}
+
+			UnlimitedLuck: {
+				DisplayName: Trébol de 4 hojas
+				Tooltip: Porque mereces tener suerte
+			}
+
+			UnlimitedMagicPower: {
+				DisplayName: Flor de poder mágico
+				Tooltip: Aumenta el daño mágico.
+			}
+
+			UnlimitedManaRegeneration: {
+				DisplayName: Flor de regeneración de maná
+				Tooltip: Aumenta la regeneración de maná.
+			}
+
+			UnlimitedMining: {
+				DisplayName: Poder de minería
+				Tooltip: Aumenta la velocidad de minería.
+			}
+
+			UnlimitedNightOwl: {
+				DisplayName: Poder de noctámbulo
+				Tooltip: Ve en la oscuridad.
+			}
+
+			UnlimitedObsidianSkin: {
+				DisplayName: Poder de piel obsidiana
+				Tooltip: Ve a por toda esa piedra infernal.
+			}
+
+			UnlimitedRage: {
+				DisplayName: Poder de furia
+				Tooltip: Aumenta la probabilidad de golpe crítico.
+			}
+
+			UnlimitedRecall: {
+				DisplayName: Poder de recuperación
+				Tooltip:
+					'''
+					Te teletransporta a casa.
+					Configura teclas en controles para usarlo.
+					Recuperación te teletransporta a tu punto de aparición.
+					'''
+			}
+
+			UnlimitedRegeneration: {
+				DisplayName: Poder de regeneración
+				Tooltip: Cuánta regeneración.
+			}
+
+			UnlimitedShine: {
+				DisplayName: Poder de brillo
+				Tooltip: Emite luz.
+			}
+
+			UnlimitedSonar: {
+				DisplayName: Poder de sonar
+				Tooltip: De algún modo sientes lo que estás a punto de pescar.
+			}
+
+			UnlimitedSpelunker: {
+				DisplayName: Poder de espeleólogo
+				Tooltip:
+					'''
+					Ve los tesoros a tu alrededor.
+					Usa la IU de ajustes para alternar el efecto.
+					'''
+			}
+
+			UnlimitedStink: {
+				DisplayName: Poder apestoso
+				Tooltip: Lánzalo a alguien para que huela fatal.
+			}
+
+			UnlimitedSummoning: {
+				DisplayName: Poder de invocación
+				Tooltip: Ten un amigo extra a tu lado.
+			}
+
+			UnlimitedSwiftness: {
+				DisplayName: Poder de rapidez
+				Tooltip: Tan rápido, wow.
+			}
+
+			UnlimitedTeleportation: {
+				DisplayName: Poder de teletransporte
+				Tooltip: Te teletransporta a una ubicación aleatoria.
+			}
+
+			UnlimitedThorns: {
+				DisplayName: Poder de espinas
+				Tooltip: Los enemigos se hieren a sí mismos.
+			}
+
+			UnlimitedTipsy: {
+				DisplayName: Poder beodo
+				Tooltip: Aumenta el daño, reduce la defensa.
+			}
+
+			UnlimitedTitan: {
+				DisplayName: Poder de titán
+				Tooltip: Aumenta el retroceso.
+			}
+
+			UnlimitedWarmth: {
+				DisplayName: Poder del calor
+				Tooltip: Reduce el daño de fuentes de frío.
+			}
+
+			UnlimitedWaterWalking: {
+				DisplayName: Poder de flotación
+				Tooltip: Ahora no tienes que molestarte en construir esa plataforma para el Muro carnoso.
+			}
+
+			UnlimitedWellFed: {
+				DisplayName: Poder de lleno de exquisiteces
+				Tooltip:
+					'''
+					Tanta comida.
+					Grandes mejoras en camino.
+					'''
+			}
+
+			UnlimitedWellFed2: {
+				DisplayName: Poder de completamente satisfecho
+				Tooltip:
+					'''
+					Tanta comida.
+					Mejoras medias en camino.
+					'''
+			}
+
+			UnlimitedWellFed3: {
+				DisplayName: Poder de bien alimentado
+				Tooltip:
+					'''
+					Tanta comida.
+					Mejoras menores en camino.
+					'''
+			}
+
+			UnlimitedWormhole: {
+				DisplayName: Poder de agujero de gusano
+				Tooltip: Nunca vuelvas a fallarle a tus amigos.
+			}
+
+			UnlimitedWrath: {
+				DisplayName: Poder de ira
+				Tooltip: Aumenta el daño.
+			}
+
+			UnlimitedAmmoBox: {
+				DisplayName: Caja de munición mejorada
+				Tooltip: Reduce el uso de munición.
+			}
+
+			UnlimitedBewitchingTable: {
+				DisplayName: Mesa cautivadora mejorada
+				Tooltip: Ten un amigo extra a tu lado.
+			}
+
+			UnlimitedCrystalBall: {
+				DisplayName: Bola de cristal mejorada
+				Tooltip: Algunas mejoras mágicas.
+			}
+
+			UnlimitedSharpeningStation: {
+				DisplayName: Rueda de afilar mejorada
+				Tooltip: Aumenta la penetración de armadura con armas cuerpo a cuerpo.
+			}
+
+			UnlimitedSliceCake: {
+				DisplayName: Trozo de tarta mejorado
+				Tooltip: "'Atrápatelo. Atrápaselo a otro. Lo que sea.'"
+			}
+
+			UltimateBattler: {
+				DisplayName: Poder de batallaaah
+				Tooltip:
+					'''
+					¿Seguro que puedes con esto?
+					Aumenta masivamente las apariciones.
+					Usa la tecla de ajustes para alternar el efecto.
+					'''
+			}
+
+			UltimatePeaceful: {
+				DisplayName: Poder pacíficooo
+				Tooltip: Qué silencio tan lindo. Reduce mucho las apariciones.
+			}
+
+			UnlimitedArena: {
+				DisplayName: Pergamino de la Arena
+				Tooltip: Aumenta la regeneración de vida, de maná y la defensa.
+			}
+
+			UnlimitedBasics: {
+				DisplayName: Pergamino de mejoras básicas
+				Tooltip: Comida, regeneración, piel de hierro y velocidad.
+			}
+
+			UnlimitedBattler: {
+				DisplayName: Pergamino de batalla
+				Tooltip: Aumenta mucho las apariciones.
+			}
+
+			UnlimitedCombat: {
+				DisplayName: Pergamino de combate
+				Tooltip:
+					'''
+					Todas las mejoras de combate.
+					La reducción de defensa del beodo solo está activa mientras sostienes un arma cuerpo a cuerpo.
+					Usa la tecla de ajustes para alternar el efecto visual del Infierno.
+					'''
+			}
+
+			UnlimitedDamage: {
+				DisplayName: Pergamino de daño
+				Tooltip:
+					'''
+					Daño, crítico, esbirro extra, retroceso y espinas.
+					Usa la tecla de ajustes para alternar el efecto visual del Infierno.
+					'''
+			}
+
+			UnlimitedDanger: {
+				DisplayName: Pergamino de peligro
+				Tooltip:
+					'''
+					No te dejes pillar desprevenido.
+					Usa la IU de ajustes para alternar los efectos.
+					'''
+			}
+
+			UnlimitedDefense: {
+				DisplayName: Pergamino de defensa
+				Tooltip: Más PV, reducción de daño y rango de corazones.
+			}
+
+			UnlimitedEverything: {
+				DisplayName: Enciclopedia de las mejoras ilimitadas
+				Tooltip:
+					'''
+					Casi de todo.
+					La reducción de defensa del beodo solo está activa mientras sostienes un arma cuerpo a cuerpo.
+					Úsala para teletransportarte a una ubicación aleatoria.
+					Haz clic en un amigo en el mapa para viajar hacia él.
+					Configura teclas para usar Recuperación.
+					Recuperación te teletransporta a tu punto de aparición.
+					Recuperación de vuelta te teletransporta a la última ubicación donde usaste Recuperación.
+					Usa la tecla de ajustes para alternar ciertas mejoras y efectos.
+					'''
+			}
+
+			UnlimitedExplorer: {
+				DisplayName: Pergamino del explorador
+				Tooltip:
+					'''
+					Facilita moverte por el mundo.
+					Usa la IU de ajustes para alternar ciertos efectos.
+					'''
+			}
+
+			UnlimitedFishing: {
+				DisplayName: Pergamino de pesca
+				Tooltip: Pesca todos los peces que necesites.
+			}
+
+			UnlimitedFlight: {
+				DisplayName: Pergamino de vuelo
+				Tooltip:
+					'''
+					Ve a encontrar todas esas islas del cielo.
+					No te preocupes por morir al caer.
+					Usa la tecla de ajustes para alternar Caída de pluma y Control de gravedad.
+					'''
+			}
+
+			UnlimitedGathering: {
+				DisplayName: Pergamino de recolección
+				Tooltip:
+					'''
+					Ve a por todo ese mineral.
+					Usa la IU de ajustes para alternar el efecto de espeleólogo.
+					'''
+			}
+
+			UnlimitedLucky: {
+				DisplayName: Pergamino de suertes
+				Tooltip:
+					'''
+					Qué ser tan afortunado.
+					Las antorchas no prestan atención a tu presencia
+					'''
+			}
+
+			UnlimitedMagic: {
+				DisplayName: Pergamino de magia
+				Tooltip: Poder y regeneración de maná.
+			}
+
+			UnlimitedMelee: {
+				DisplayName: Pergamino cuerpo a cuerpo
+				Tooltip: Icor y beodo.
+			}
+
+			UnlimitedPeaceful: {
+				DisplayName: Pergamino pacífico
+				Tooltip: Qué silencio tan lindo.
+			}
+
+			UnlimitedRange: {
+				DisplayName: Pergamino a distancia
+				Tooltip: Reserva y tiro con arco.
+			}
+
+			UnlimitedStation: {
+				DisplayName: Pergamino de las estaciones
+				Tooltip: Las 5 estaciones de mejora.
+			}
+
+			UnlimitedSwimming: {
+				DisplayName: Pergamino acuático
+				Tooltip: Te encanta el agua.
+			}
+
+			UnlimitedTravel: {
+				DisplayName: Pergamino de viajes
+				Tooltip:
+					'''
+					Nunca vuelvas a fallarle a tus amigos.
+					Configura teclas para usar Recuperación.
+					Recuperación te teletransporta a tu punto de aparición.
+					Recuperación de vuelta te teletransporta a la última ubicación donde usaste Recuperación.
+					'''
+			}
+
+			UnlimitedRocketIIIs: {
+				DisplayName: Caja de cohete III
+				Tooltip: Nunca te quedarás sin cohetes III.
+			}
+
+			UnlimitedRocketIIs: {
+				DisplayName: Caja de cohete II
+				Tooltip: Nunca te quedarás sin cohetes II.
+			}
+
+			UnlimitedRocketIs: {
+				DisplayName: Caja de cohete I
+				Tooltip: Nunca te quedarás sin cohetes I.
+			}
+
+			UnlimitedRocketIVs: {
+				DisplayName: Caja de cohete IV
+				Tooltip: Nunca te quedarás sin cohetes IV.
+			}
+
+			UnlimitedClusterRocketIIs: {
+				DisplayName: Caja de cohete clúster II
+				Tooltip: Nunca te quedarás sin cohetes clúster II.
+			}
+
+			UnlimitedClusterRocketIs: {
+				DisplayName: Caja de cohete clúster I
+				Tooltip: Nunca te quedarás sin cohetes clúster I.
+			}
+
+			UnlimitedDryRockets: {
+				DisplayName: Caja de cohetes secos
+				Tooltip: Nunca te quedarás sin cohetes secos.
+			}
+
+			UnlimitedHoneyRockets: {
+				DisplayName: Caja de cohetes de miel
+				Tooltip: Nunca te quedarás sin cohetes de miel.
+			}
+
+			UnlimitedLavaRockets: {
+				DisplayName: Caja de cohetes de lava
+				Tooltip: Nunca te quedarás sin cohetes de lava.
+			}
+
+			UnlimitedMiniNukeIIs: {
+				DisplayName: Caja de mininuclear II
+				Tooltip: Nunca te quedarás sin mininucleares II.
+			}
+
+			UnlimitedMiniNukeIs: {
+				DisplayName: Caja de mininuclear I
+				Tooltip: Nunca te quedarás sin mininucleares I.
+			}
+
+			UnlimitedWetRockets: {
+				DisplayName: Caja de cohetes húmedos
+				Tooltip: Nunca te quedarás sin cohetes húmedos.
+			}
+
+			DarkGreenSolution: {
+				DisplayName: Solución verde oscura
+				Tooltip:
+					'''
+					Usada por el Clentaminator.
+					Extiende la Jungla..
+					La vende la Steampunker en la jungla
+					'''
+			}
+
+			UnlimitedBlueSolution: {
+				DisplayName: Solución azul ilimitada
+				Tooltip: Nunca te quedarás sin solución azul.
+			}
+
+			UnlimitedDarkBlueSolution: {
+				DisplayName: Solución azul oscura ilimitada
+				Tooltip: Nunca te quedarás sin solución azul oscura.
+			}
+
+			UnlimitedDarkGreenSolution: {
+				DisplayName: Solución verde oscura ilimitada
+				Tooltip:
+					'''
+					Nunca te quedarás sin solución verde oscura.
+					Extiende la Jungla.
+					'''
+			}
+
+			UnlimitedGreenSolution: {
+				DisplayName: Solución verde ilimitada
+				Tooltip: Nunca te quedarás sin solución verde.
+			}
+
+			UnlimitedMultiSolution: {
+				DisplayName: Multisolución ilimitada
+				Tooltip:
+					'''
+					Cambia biomas como quieras.
+					Clic derecho para elegir bioma.
+					Funciona como una solución normal si se usa con el Clentaminator.
+					Se usará Solución verde si eliges Solución del Infierno/Nube.
+					También se puede usar como objeto.
+					Haz clic en un bloque para marcarlo como esquina de un rectángulo.
+					Cuando hayas seleccionado 2 puntos, haz clic derecho y pulsa el botón de convertir.
+					El área dentro de esos 2 puntos se convertirá.
+					El bioma de champiñones y los biomas nuevos convertirán los mismos bloques que la solución de Jungla.
+					Todos los biomas convertirán Jungla/Champiñón/Nube/Infierno/Nieve.
+					'''
+			}
+
+			UnlimitedPurpleSolution: {
+				DisplayName: Solución morada ilimitada
+				Tooltip: Nunca te quedarás sin solución morada.
+			}
+
+			UnlimitedRedSolution: {
+				DisplayName: Solución roja ilimitada
+				Tooltip: Nunca te quedarás sin solución roja.
+			}
+
+			UnlimitedBrownSolution: {
+				DisplayName: Solución marrón ilimitada
+				Tooltip: Nunca te quedarás sin solución marrón.
+			}
+
+			UnlimitedWhiteSolution: {
+				DisplayName: Solución blanca ilimitada
+				Tooltip: Nunca te quedarás sin solución blanca.
+			}
+
+			UnlimitedYellowSolution: {
+				DisplayName: Solución amarilla ilimitada
+				Tooltip: Nunca te quedarás sin solución amarilla.
+			}
+
+			UnlimitedBeenade: {
+				DisplayName: Granabejas ilimitadas
+				Tooltip: Nunca te quedarás sin granabejas.
+			}
+
+			UnlimitedBoneJavelin: {
+				DisplayName: Jabalina de hueso ilimitada
+				Tooltip: Nunca te quedarás sin jabalinas de hueso.
+			}
+
+			UnlimitedBoneThrowingKnife: {
+				DisplayName: Cuchillos arrojadizos de hueso ilimitados
+				Tooltip: Nunca te quedarás sin cuchillos arrojadizos de hueso.
+			}
+
+			UnlimitedBouncyGrenade: {
+				DisplayName: Granadas saltarinas ilimitadas
+				Tooltip: Nunca te quedarás sin granadas saltarinas.
+			}
+
+			UnlimitedFrostDaggerfish: {
+				DisplayName: Pez daga de escarcha ilimitado
+				Tooltip: Nunca te quedarás sin peces daga de escarcha.
+			}
+
+			UnlimitedGrenade: {
+				DisplayName: Granadas ilimitadas
+				Tooltip: Nunca te quedarás sin granadas.
+			}
+
+			UnlimitedHappyGrenade: {
+				DisplayName: Granadas felices ilimitadas
+				Tooltip: Nunca te quedarás sin granadas felices.
+			}
+
+			UnlimitedJavelin: {
+				DisplayName: Jabalinas ilimitadas
+				Tooltip: Nunca te quedarás sin jabalinas.
+			}
+
+			UnlimitedMerchantKiller: {
+				DisplayName: Asesino de mercaderes ilimitado
+				Tooltip: "'Porque nunca preguntaron si podían mudarse.'"
+			}
+
+			UnlimitedMolotovCocktail: {
+				DisplayName: Cócteles molotov ilimitados
+				Tooltip: Nunca te quedarás sin cócteles molotov.
+			}
+
+			UnlimitedPoisonKnife: {
+				DisplayName: Cuchillos envenenados ilimitados
+				Tooltip: Nunca te quedarás sin cuchillos envenenados.
+			}
+
+			UnlimitedRottenEgg: {
+				DisplayName: Huevos podridos ilimitados
+				Tooltip: Nunca te quedarás sin huevos podridos.
+			}
+
+			UnlimitedShuriken: {
+				DisplayName: Estrellas ninja ilimitadas
+				Tooltip: Nunca te quedarás sin estrellas ninja.
+			}
+
+			UnlimitedSpikyBall: {
+				DisplayName: Bolas con pinchos ilimitadas
+				Tooltip: Nunca te quedarás sin bolas con pinchos.
+			}
+
+			UnlimitedStarAnise: {
+				DisplayName: Anises estrellados ilimitados
+				Tooltip: Nunca te quedarás sin anises estrellados.
+			}
+
+			UnlimitedStickyGrenade: {
+				DisplayName: Granadas adhesivas ilimitadas
+				Tooltip: Nunca te quedarás sin granadas adhesivas.
+			}
+
+			UnlimitedThrowingKnife: {
+				DisplayName: Cuchillos arrojadizos ilimitados
+				Tooltip: Nunca te quedarás sin cuchillos arrojadizos.
+			}
+
+			ActuationRod: {
+				DisplayName: Vara de actuación mejorada
+				Tooltip:
+					'''
+					Invierte el estado de actuación de los bloques.
+					Funciona sin un activador en el bloque.
+					Haz clic y arrastra como El Gran Diseño.
+					'''
+			}
+
+			BuildingRod: {
+				DisplayName: Vara de hoiktuación
+				Tooltip:
+					'''
+					Clic derecho para elegir opciones.
+					Selecciona el estilo del bloque y el estado de actuación; invertir actuación tiene prioridad sobre Activo/Inactivo.
+					Elige un espacio entre bloques colocados/accionados para construir hoiks con facilidad.
+					Colocará el bloque de la ranura inferior derecha del inventario si lo usas donde no hay bloques.
+					Cualquier bloque que ya esté ahí, o colocado desde el inventario, se cambiará según la configuración elegida.
+					Haz clic y arrastra como El Gran Diseño.
+					'''
+			}
+
+			ComboRod: {
+				DisplayName: Vara combinada
+				Tooltip:
+					'''
+					Tiene las funciones de:
+					Herramienta de pintura todo en uno
+					Vara de hoiktuación
+					Vara de paredes
+					El Gran Diseño ilimitado
+					Manipulador de líquidos definitivo
+					Ahora todas tienen alcance ilimitado.
+					El modo cubo ahora usa colocación en caja cuando el cursor inteligente está desactivado
+					El modo bloque puede colocar hierba (en tierra/barro), musgo (en piedra),
+					colmena (necesita colmena), bloques de hueso (necesita huesos/huesos ilimitados),
+					madera viviente/hoja (necesita madera), madera de caoba rica viviente/hoja (necesita caoba rica).
+					'''
+			}
+
+			DrillMount: {
+				DisplayName: Montura de taladro mejorada
+				Tooltip: ":shrug:"
+			}
+
+			PaintTool: {
+				DisplayName: Herramienta de pintura todo en uno
+				Tooltip:
+					'''
+					Clic derecho para elegir color de pintura y modo.
+					Con el cursor inteligente desactivado podrás pintar seleccionando un cuadro.
+					No consume pintura.
+					Velocidad absurda.
+					'''
+			}
+
+			UnlimitedGrandDesign: {
+				DisplayName: El Gran Diseño infinito
+				Tooltip: Nunca te quedarás sin cables ni activadores.
+			}
+
+			WallRod: {
+				DisplayName: Vara de paredes
+				Tooltip:
+					'''
+					Coloca la pared que esté en la penúltima ranura del inventario.
+					Fila inferior, la segunda desde la derecha.
+					Desactiva el cursor inteligente para usarla.
+					Colocación en caja como la herramienta de pintura.
+					'''
+			}
+
+			UnlimitedBlueTorches: {
+				DisplayName: Antorchas azules ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas azules.
+			}
+
+			UnlimitedBoneTorches: {
+				DisplayName: Antorchas de hueso ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas de hueso.
+			}
+
+			UnlimitedCoralTorches: {
+				DisplayName: Antorchas coral ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas coral.
+			}
+
+			UnlimitedCorruptTorches: {
+				DisplayName: Antorchas corruptas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas corruptas.
+			}
+
+			UnlimitedCrimsonTorches: {
+				DisplayName: Antorchas carmesí ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas carmesí.
+			}
+
+			UnlimitedCursedTorches: {
+				DisplayName: Antorchas malditas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas malditas.
+			}
+
+			UnlimitedDemonTorches: {
+				DisplayName: Antorchas demoníacas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas demoníacas.
+			}
+
+			UnlimitedDesertTorches: {
+				DisplayName: Antorchas del desierto ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas del desierto.
+			}
+
+			UnlimitedGreenTorches: {
+				DisplayName: Antorchas verdes ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas verdes.
+			}
+
+			UnlimitedHallowedTorches: {
+				DisplayName: Antorchas sagradas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas sagradas.
+			}
+
+			UnlimitedIceTorches: {
+				DisplayName: Antorchas de hielo ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas de hielo.
+			}
+
+			UnlimitedIchorTorches: {
+				DisplayName: Antorchas de icor ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas de icor.
+			}
+
+			UnlimitedJungleTorches: {
+				DisplayName: Antorchas de jungla ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas de jungla.
+			}
+
+			UnlimitedOrangeTorches: {
+				DisplayName: Antorchas naranjas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas naranjas.
+			}
+
+			UnlimitedPinkTorches: {
+				DisplayName: Antorchas rosas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas rosas.
+			}
+
+			UnlimitedPurpleTorches: {
+				DisplayName: Antorchas moradas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas moradas.
+			}
+
+			UnlimitedRainbowTorches: {
+				DisplayName: Antorchas arcoíris ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas arcoíris.
+			}
+
+			UnlimitedRedTorches: {
+				DisplayName: Antorchas rojas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas rojas.
+			}
+
+			UnlimitedTorches: {
+				DisplayName: Antorchas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas.
+			}
+
+			UnlimitedUltrabrightTorches: {
+				DisplayName: Antorchas ultrabrillantes ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas ultrabrillantes.
+			}
+
+			UnlimitedWhiteTorches: {
+				DisplayName: Antorchas blancas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas blancas.
+			}
+
+			UnlimitedYellowTorches: {
+				DisplayName: Antorchas amarillas ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas amarillas.
+			}
+
+			TestItem: {
+				DisplayName: Objeto de prueba
+				Tooltip:
+					'''
+					Objeto para probar cosas.
+					Puede no hacer nada.
+					Puede hacer cosas geniales.
+					Puede romper tu partida.
+					Puede romper tu computadora.
+					Yo no lo usaría si fuera tú.
+					'''
+			}
+
+			UnlimitedDirtBombs: {
+				DisplayName: Bombas de tierra ilimitadas
+				Tooltip: Nunca te quedarás sin bombas de tierra.
+			}
+
+			UnlimitedDryBombs: {
+				DisplayName: Bombas secas ilimitadas
+				Tooltip: Nunca te quedarás sin bombas secas.
+			}
+
+			UnlimitedHoneyBombs: {
+				DisplayName: Bombas de miel ilimitadas
+				Tooltip: Nunca te quedarás sin bombas de miel.
+			}
+
+			UnlimitedLavaBombs: {
+				DisplayName: Bombas de lava ilimitadas
+				Tooltip: Nunca te quedarás sin bombas de lava.
+			}
+
+			UnlimitedScarabBombs: {
+				DisplayName: Bombas escarabajo ilimitadas
+				Tooltip: Nunca te quedarás sin bombas escarabajo
+			}
+
+			UnlimitedStickyDirtBombs: {
+				DisplayName: Bombas de tierra pegajosas ilimitadas
+				Tooltip: Nunca te quedarás sin bombas de tierra pegajosas.
+			}
+
+			UnlimitedWetBombs: {
+				DisplayName: Bombas húmedas ilimitadas
+				Tooltip: Nunca te quedarás sin bombas húmedas.
+			}
+
+			UnlimitedFairyGlowsticks: {
+				DisplayName: Varitas luminosas de hada ilimitadas
+				Tooltip: Nunca te quedarás sin varitas luminosas de hada.
+			}
+
+			GoldenStand: {
+				DisplayName: Golden Stand
+				Tooltip: ¡Se usa para hacer que los objetos normales sean más PODEROOOOOOSOS!
+			}
+
+			Paper: {
+				DisplayName: Papel
+				Tooltip: ¡Una versión más nueva del papel, mucho más sólida!
+			}
+
+			ScrollCrafter: {
+				DisplayName: Mesa de pergaminos
+				Tooltip: Una mesa para crear pergaminos poderosos
+			}
+
+			UnlimitedReturn: {
+				DisplayName: Regreso ilimitado
+				Tooltip: Regresa al lugar donde usaste la tecla rápida de recuperación
+			}
+
+			Windy: {
+				DisplayName: Amuleto de viento
+				Tooltip: Esto podría ayudarte a encontrar criaturas de la suerte *guiño*
+			}
+
+			UnlimitedWarTable: {
+				DisplayName: Mesa de guerra ilimitada
+				Tooltip: Ten un centinela amigo extra
+			}
+
+			UnlimitedAetherTorches: {
+				DisplayName: Antorchas de éter ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas de éter
+			}
+
+			UnlimitedMushroomTorches: {
+				DisplayName: Antorchas champiñón ilimitadas
+				Tooltip: Nunca te quedarás sin antorchas champiñón
+			}
+
+			UnlimitedSunflower: {
+				DisplayName: Poder de girasol
+				Tooltip: ¡Estás feliz!
+			}
+
+			UnlimitedCursedFlares: {
+				DisplayName: Brillos malditos ilimitados
+				Tooltip: Nunca te quedarás sin brillos malditos
+			}
+
+			UnlimitedRainbowFlares: {
+				DisplayName: Brillos arcoíris ilimitados
+				Tooltip: Nunca te quedarás sin brillos arcoíris
+			}
+
+			UnlimitedShimmerFlares: {
+				DisplayName: Brillos fulgurantes ilimitados
+				Tooltip: Nunca te quedarás sin brillos fulgurantes
+			}
+
+			UnlimitedSpelunkerFlares: {
+				DisplayName: Brillos de espeleología ilimitados
+				Tooltip: Nunca te quedarás sin brillos de espeleología
+			}
+
+			UnlimitedBiomeSight: {
+				DisplayName: Poder de vista de bioma
+				Tooltip: Ahora ves a todos los parásitos.
+			}
+
+			ChestsKeyring: {
+				DisplayName: Llavero de cofres
+				Tooltip: ""
+			}
+
+			LiquidManipulator: {
+				DisplayName: Poder de líquido fulgurante
+				Tooltip: Consúmelo para desbloquear el Fulgor para los constructores.
+			}
+
+			BlankLiquidPower: {
+				DisplayName: Poder de líquido en blanco
+				Tooltip:
+					'''
+					No estás seguro de para qué sirve esto.
+					¿Quizá haya un líquido extraño en el que puedas tirarlo?
+					'''
+			}
+
+			PeaceCandle: {
+				DisplayName: Vela de paz
+				Tooltip: ""
+			}
+
+			WaterCandle: {
+				DisplayName: Vela de agua
+				Tooltip: ""
+			}
+
+			Basics: {
+				DisplayName: Básicos
+				Tooltip: ""
+			}
+
+			Battler: {
+				DisplayName: Combatiente
+				Tooltip: ""
+			}
+
+			Battle: {
+				DisplayName: Batalla
+				Tooltip: ""
+			}
+
+			Combat: {
+				DisplayName: Combate
+				Tooltip: ""
+			}
+
+			Damage: {
+				DisplayName: Daño
+				Tooltip: ""
+			}
+
+			Danger: {
+				DisplayName: Peligro
+				Tooltip: ""
+			}
+
+			Defense: {
+				DisplayName: Defensa
+				Tooltip: ""
+			}
+
+			Everything: {
+				DisplayName: Todo
+				Tooltip: ""
+			}
+
+			Explorer: {
+				DisplayName: Explorador
+				Tooltip: ""
+			}
+
+			FishingCombination: {
+				DisplayName: Combinación de pesca
+				Tooltip: ""
+			}
+
+			Fishing: {
+				DisplayName: Pesca
+				Tooltip: ""
+			}
+
+			Flight: {
+				DisplayName: Vuelo
+				Tooltip: ""
+			}
+
+			Gathering: {
+				DisplayName: Recolección
+				Tooltip: ""
+			}
+
+			Lucky: {
+				DisplayName: Afortunado
+				Tooltip: ""
+			}
+
+			Luck: {
+				DisplayName: Suerte
+				Tooltip: ""
+			}
+
+			Melee: {
+				DisplayName: Cuerpo a cuerpo
+				Tooltip: ""
+			}
+
+			Peaceful: {
+				DisplayName: Pacífico
+				Tooltip: ""
+			}
+
+			Range: {
+				DisplayName: A distancia
+				Tooltip: ""
+			}
+
+			Station: {
+				DisplayName: Estación
+				Tooltip: ""
+			}
+
+			Swimming: {
+				DisplayName: Natación
+				Tooltip: ""
+			}
+
+			Travel: {
+				DisplayName: Viaje
+				Tooltip: ""
+			}
+
+			AmmoReservation: {
+				DisplayName: Reserva de munición
+				Tooltip: ""
+			}
+
+			Archery: {
+				DisplayName: Tiro con arco
+				Tooltip: ""
+			}
+
+			BiomeSight: {
+				DisplayName: Vista de bioma
+				Tooltip: ""
+			}
+
+			Builder: {
+				DisplayName: Constructor
+				Tooltip: ""
+			}
+
+			Calming: {
+				DisplayName: Tranquilidad
+				Tooltip: ""
+			}
+
+			Crates: {
+				DisplayName: Cajas
+				Tooltip: ""
+			}
+
+			Dangersense: {
+				DisplayName: Sentido del peligro
+				Tooltip: ""
+			}
+
+			Endurance: {
+				DisplayName: Resistencia
+				Tooltip: ""
+			}
+
+			Featherfall: {
+				DisplayName: Caída de pluma
+				Tooltip: ""
+			}
+
+			Flipper: {
+				DisplayName: Aletas
+				Tooltip: ""
+			}
+
+			GenderChange: {
+				DisplayName: Cambio de sexo
+				Tooltip: ""
+			}
+
+			Gills: {
+				DisplayName: Agallas
+				Tooltip: ""
+			}
+
+			Gravitation: {
+				DisplayName: Gravedad
+				Tooltip: ""
+			}
+
+			Heartreach: {
+				DisplayName: Alcanzacorazón
+				Tooltip: ""
+			}
+
+			Hunter: {
+				DisplayName: Cazador
+				Tooltip: ""
+			}
+
+			IchorFlask: {
+				DisplayName: Frasco de icor
+				Tooltip: ""
+			}
+
+			Ichor: {
+				DisplayName: Icor
+				Tooltip: ""
+			}
+
+			Inferno: {
+				DisplayName: Infierno
+				Tooltip: ""
+			}
+
+			Invisibility: {
+				DisplayName: Invisibilidad
+				Tooltip: ""
+			}
+
+			Ironskin: {
+				DisplayName: Piel de hierro
+				Tooltip: ""
+			}
+
+			Ladybug: {
+				DisplayName: Mariquita
+				Tooltip: ""
+			}
+
+			Lifeforce: {
+				DisplayName: Fuerza vital
+				Tooltip: ""
+			}
+
+			Love: {
+				DisplayName: Amor
+				Tooltip: ""
+			}
+
+			MagicPower: {
+				DisplayName: Poder mágico
+				Tooltip: ""
+			}
+
+			MajorWellFed: {
+				DisplayName: Lleno de exquisiteces
+				Tooltip: ""
+			}
+
+			ManaRegeneration: {
+				DisplayName: Regeneración de maná
+				Tooltip: ""
+			}
+
+			Mining: {
+				DisplayName: Minería
+				Tooltip: ""
+			}
+
+			MinorWellFed: {
+				DisplayName: Bien alimentado
+				Tooltip: ""
+			}
+
+			NightOwl: {
+				DisplayName: Noctámbulo
+				Tooltip: ""
+			}
+
+			ObsidianSkin: {
+				DisplayName: Piel de obsidiana
+				Tooltip: ""
+			}
+
+			Rage: {
+				DisplayName: Furia
+				Tooltip: ""
+			}
+
+			Recall: {
+				DisplayName: Recuperación
+				Tooltip: ""
+			}
+
+			Regeneration: {
+				DisplayName: Regeneración
+				Tooltip: ""
+			}
+
+			Return: {
+				DisplayName: Regreso
+				Tooltip: ""
+			}
+
+			Shine: {
+				DisplayName: Brillo
+				Tooltip: ""
+			}
+
+			Sonar: {
+				DisplayName: Sonar
+				Tooltip: ""
+			}
+
+			Spelunker: {
+				DisplayName: Espeleólogo
+				Tooltip: ""
+			}
+
+			Stink: {
+				DisplayName: Apestoso
+				Tooltip: ""
+			}
+
+			Summoning: {
+				DisplayName: Invocación
+				Tooltip: ""
+			}
+
+			Sunflower: {
+				DisplayName: Girasol
+				Tooltip: ""
+			}
+
+			Swiftness: {
+				DisplayName: Rapidez
+				Tooltip: ""
+			}
+
+			Teleportation: {
+				DisplayName: Teletransporte
+				Tooltip: ""
+			}
+
+			Thorns: {
+				DisplayName: Espinas
+				Tooltip: ""
+			}
+
+			Tipsy: {
+				DisplayName: Beodo
+				Tooltip: ""
+			}
+
+			Titan: {
+				DisplayName: Titán
+				Tooltip: ""
+			}
+
+			Warmth: {
+				DisplayName: Calor
+				Tooltip: ""
+			}
+
+			WaterWalking: {
+				DisplayName: Flotación
+				Tooltip: ""
+			}
+
+			WellFed: {
+				DisplayName: Bien alimentado
+				Tooltip: ""
+			}
+
+			Wormhole: {
+				DisplayName: Agujero de gusano
+				Tooltip: ""
+			}
+
+			Wrath: {
+				DisplayName: Ira
+				Tooltip: ""
+			}
+
+			BastStatue: {
+				DisplayName: Estatua de Bast
+				Tooltip: ""
+			}
+
+			Campfire: {
+				DisplayName: Hoguera
+				Tooltip: ""
+			}
+
+			Gnome: {
+				DisplayName: Gnomo
+				Tooltip: ""
+			}
+
+			HeartLantern: {
+				DisplayName: Linterna de corazón
+				Tooltip: ""
+			}
+
+			HoneyBuff: {
+				DisplayName: Miel
+				Tooltip: ""
+			}
+
+			StarInABottle: {
+				DisplayName: Estrella embotellada
+				Tooltip: ""
+			}
+
+			AmmoBox: {
+				DisplayName: Caja de munición
+				Tooltip: ""
+			}
+
+			BewitchingTable: {
+				DisplayName: Mesa cautivadora
+				Tooltip: ""
+			}
+
+			CrystalBall: {
+				DisplayName: Bola de cristal
+				Tooltip: ""
+			}
+
+			SharpeningStation: {
+				DisplayName: Rueda de afilar
+				Tooltip: ""
+			}
+
+			SliceCake: {
+				DisplayName: Trozo de tarta
+				Tooltip: ""
+			}
+
+			WarTable: {
+				DisplayName: Mesa de guerra
+				Tooltip: ""
+			}
+
+			Aether: {
+				DisplayName: Éter
+				Tooltip: ""
+			}
+
+			Blue: {
+				DisplayName: Azul
+				Tooltip: ""
+			}
+
+			Bone: {
+				DisplayName: Hueso
+				Tooltip: ""
+			}
+
+			Coral: {
+				DisplayName: Coral
+				Tooltip: ""
+			}
+
+			Cursed: {
+				DisplayName: Maldita
+				Tooltip: ""
+			}
+
+			Demon: {
+				DisplayName: Demoníaca
+				Tooltip: ""
+			}
+
+			Desert: {
+				DisplayName: Desierto
+				Tooltip: ""
+			}
+
+			Green: {
+				DisplayName: Verde
+				Tooltip: ""
+			}
+
+			Hallowed: {
+				DisplayName: Sagrada
+				Tooltip: ""
+			}
+
+			Ice: {
+				DisplayName: Hielo
+				Tooltip: ""
+			}
+
+			Jungle: {
+				DisplayName: Jungla
+				Tooltip: ""
+			}
+
+			Mushroom: {
+				DisplayName: Champiñón
+				Tooltip: ""
+			}
+
+			Normal: {
+				DisplayName: Normal
+				Tooltip: ""
+			}
+
+			Orange: {
+				DisplayName: Naranja
+				Tooltip: ""
+			}
+
+			Pink: {
+				DisplayName: Rosa
+				Tooltip: ""
+			}
+
+			Purple: {
+				DisplayName: Morada
+				Tooltip: ""
+			}
+
+			Rainbow: {
+				DisplayName: Arcoíris
+				Tooltip: ""
+			}
+
+			Red: {
+				DisplayName: Roja
+				Tooltip: ""
+			}
+
+			Ultrabright: {
+				DisplayName: Ultrabrillante
+				Tooltip: ""
+			}
+
+			White: {
+				DisplayName: Blanca
+				Tooltip: ""
+			}
+
+			Yellow: {
+				DisplayName: Amarilla
+				Tooltip: ""
+			}
+
+			BoneArrow: {
+				DisplayName: Flecha de hueso
+				Tooltip: ""
+			}
+
+			ChlorophyteArrow: {
+				DisplayName: Flecha de clorofita
+				Tooltip: ""
+			}
+
+			CursedArrow: {
+				DisplayName: Flecha maldita
+				Tooltip: ""
+			}
+
+			FlamingArrow: {
+				DisplayName: Flecha ardiente
+				Tooltip: ""
+			}
+
+			FrostburnArrow: {
+				DisplayName: Flecha de quemadura gélida
+				Tooltip: ""
+			}
+
+			HellfireArrow: {
+				DisplayName: Flecha de fuego infernal
+				Tooltip: ""
+			}
+
+			HolyArrow: {
+				DisplayName: Flecha sagrada
+				Tooltip: ""
+			}
+
+			IchorArrow: {
+				DisplayName: Flecha de icor
+				Tooltip: ""
+			}
+
+			JestersArrow: {
+				DisplayName: Flecha de bufón
+				Tooltip: ""
+			}
+
+			LuminiteArrow: {
+				DisplayName: Flecha de luminita
+				Tooltip: ""
+			}
+
+			ShimmerArrow: {
+				DisplayName: Flecha fulgurante
+				Tooltip: ""
+			}
+
+			UnholyArrow: {
+				DisplayName: Flecha infame
+				Tooltip: ""
+			}
+
+			VenomArrow: {
+				DisplayName: Flecha de ponzoña
+				Tooltip: ""
+			}
+
+			ChlorophyteBullet: {
+				DisplayName: Bala de clorofita
+				Tooltip: ""
+			}
+
+			MusketBall: {
+				DisplayName: Bala de mosquete
+				Tooltip: ""
+			}
+
+			CrystalDart: {
+				DisplayName: Dardo de cristal
+				Tooltip: ""
+			}
+
+			CursedDart: {
+				DisplayName: Dardo maldito
+				Tooltip: ""
+			}
+
+			IchorDart: {
+				DisplayName: Dardo de icor
+				Tooltip: ""
+			}
+
+			PoisonDart: {
+				DisplayName: Dardo venenoso
+				Tooltip: ""
+			}
+
+			AetherTorch: {
+				DisplayName: Antorcha de Éter
+				Tooltip: ""
+			}
+
+			BlueTorch: {
+				DisplayName: Antorcha azul
+				Tooltip: ""
+			}
+
+			BoneTorch: {
+				DisplayName: Antorcha de hueso
+				Tooltip: ""
+			}
+
+			CoralTorch: {
+				DisplayName: Antorcha coral
+				Tooltip: ""
+			}
+
+			CorruptTorch: {
+				DisplayName: Antorcha corrupta
+				Tooltip: ""
+			}
+
+			CrimsonTorch: {
+				DisplayName: Antorcha carmesí
+				Tooltip: ""
+			}
+
+			CursedTorch: {
+				DisplayName: Antorcha maldita
+				Tooltip: ""
+			}
+
+			DemonTorch: {
+				DisplayName: Antorcha demoníaca
+				Tooltip: ""
+			}
+
+			DesertTorch: {
+				DisplayName: Antorcha del desierto
+				Tooltip: ""
+			}
+
+			GreenTorch: {
+				DisplayName: Antorcha verde
+				Tooltip: ""
+			}
+
+			HallowedTorch: {
+				DisplayName: Antorcha sagrada
+				Tooltip: ""
+			}
+
+			IceTorch: {
+				DisplayName: Antorcha de hielo
+				Tooltip: ""
+			}
+
+			IchorTorch: {
+				DisplayName: Antorcha de icor
+				Tooltip: ""
+			}
+
+			JungleTorch: {
+				DisplayName: Antorcha de jungla
+				Tooltip: ""
+			}
+
+			MushroomTorch: {
+				DisplayName: Antorcha champiñón
+				Tooltip: ""
+			}
+
+			OrangeTorch: {
+				DisplayName: Antorcha naranja
+				Tooltip: ""
+			}
+
+			PinkTorch: {
+				DisplayName: Antorcha rosa
+				Tooltip: ""
+			}
+
+			PurpleTorch: {
+				DisplayName: Antorcha morada
+				Tooltip: ""
+			}
+
+			RainbowTorch: {
+				DisplayName: Antorcha arcoíris
+				Tooltip: ""
+			}
+
+			RedTorch: {
+				DisplayName: Antorcha roja
+				Tooltip: ""
+			}
+
+			UltrabrightTorch: {
+				DisplayName: Antorcha ultrabrillante
+				Tooltip: ""
+			}
+
+			WhiteTorch: {
+				DisplayName: Antorcha blanca
+				Tooltip: ""
+			}
+
+			YellowTorch: {
+				DisplayName: Antorcha amarilla
+				Tooltip: ""
+			}
+
+			CrystalBullet: {
+				DisplayName: Bala de cristal
+				Tooltip: ""
+			}
+
+			CursedBullet: {
+				DisplayName: Bala maldita
+				Tooltip: ""
+			}
+
+			ExplodingBullet: {
+				DisplayName: Bala explosiva
+				Tooltip: ""
+			}
+
+			GoldenBullet: {
+				DisplayName: Bala de oro
+				Tooltip: ""
+			}
+
+			HighVelocityBullet: {
+				DisplayName: Bala de alta velocidad
+				Tooltip: ""
+			}
+
+			IchorBullet: {
+				DisplayName: Bala de icor
+				Tooltip: ""
+			}
+
+			LuminiteBullet: {
+				DisplayName: Bala de luminita
+				Tooltip: ""
+			}
+
+			MeteoriteBullet: {
+				DisplayName: Proyectil de meteorito
+				Tooltip: ""
+			}
+
+			NanoBullet: {
+				DisplayName: Nanobala
+				Tooltip: ""
+			}
+
+			PartyBullet: {
+				DisplayName: Bala fiestera
+				Tooltip: ""
+			}
+
+			SilverBullet: {
+				DisplayName: Bala de plata
+				Tooltip: ""
+			}
+
+			TungstenBullet: {
+				DisplayName: Bala de tungsteno
+				Tooltip: ""
+			}
+
+			VenomBullet: {
+				DisplayName: Bala de ponzoña
+				Tooltip: ""
+			}
+
+			Bomb: {
+				DisplayName: Bomba
+				Tooltip: ""
+			}
+
+			Bombfish: {
+				DisplayName: Pez bomba
+				Tooltip: ""
+			}
+
+			BouncyBomb: {
+				DisplayName: Bomba saltarina
+				Tooltip: ""
+			}
+
+			BouncyDynamite: {
+				DisplayName: Dinamita saltarina
+				Tooltip: ""
+			}
+
+			DirtBomb: {
+				DisplayName: Bomba de tierra
+				Tooltip: ""
+			}
+
+			DryBomb: {
+				DisplayName: Bomba seca
+				Tooltip: ""
+			}
+
+			Dynamite: {
+				DisplayName: Dinamita
+				Tooltip: ""
+			}
+
+			HoneyBomb: {
+				DisplayName: Bomba de miel
+				Tooltip: ""
+			}
+
+			LavaBomb: {
+				DisplayName: Bomba de lava
+				Tooltip: ""
+			}
+
+			ScarabBomb: {
+				DisplayName: Bomba escarabajo
+				Tooltip: ""
+			}
+
+			StickyBomb: {
+				DisplayName: Bomba lapa
+				Tooltip: ""
+			}
+
+			StickyDirtBomb: {
+				DisplayName: Bomba de tierra lapa
+				Tooltip: ""
+			}
+
+			StickyDynamite: {
+				DisplayName: Dinamita adhesiva
+				Tooltip: ""
+			}
+
+			WetBomb: {
+				DisplayName: Bomba húmeda
+				Tooltip: ""
+			}
+
+			BouncyGlowstick: {
+				DisplayName: Palo brillante saltarín
+				Tooltip: ""
+			}
+
+			FairyGlowstick: {
+				DisplayName: Varita luminosa de hada
+				Tooltip: ""
+			}
+
+			SpelunkerGlowstick: {
+				DisplayName: Varita luminosa espeleólogo
+				Tooltip: ""
+			}
+
+			StickyGlowstick: {
+				DisplayName: Varita luminosa adhesiva
+				Tooltip: ""
+			}
+
+			Ale: {
+				DisplayName: Cerveza
+				Tooltip: ""
+			}
+
+			BlueFlare: {
+				DisplayName: Bengala azul
+				Tooltip: ""
+			}
+
+			CandyCorn: {
+				DisplayName: Maíz de caramelo
+				Tooltip: ""
+			}
+
+			CopperCoin: {
+				DisplayName: Moneda de cobre
+				Tooltip: ""
+			}
+
+			CursedFlare: {
+				DisplayName: Brillo maldito
+				Tooltip: ""
+			}
+
+			ExplosiveJackOLantern: {
+				DisplayName: Linterna calabaza explosiva
+				Tooltip: ""
+			}
+
+			FallenStar: {
+				DisplayName: Estrella fugaz
+				Tooltip: ""
+			}
+
+			Flare: {
+				DisplayName: Bengala
+				Tooltip: ""
+			}
+
+			Gel: {
+				DisplayName: Gel
+				Tooltip: ""
+			}
+
+			GoldCoin: {
+				DisplayName: Moneda de oro
+				Tooltip: ""
+			}
+
+			Nail: {
+				DisplayName: Clavo
+				Tooltip: ""
+			}
+
+			PlatinumCoin: {
+				DisplayName: Moneda de platino
+				Tooltip: ""
+			}
+
+			RainbowFlare: {
+				DisplayName: Brillo arcoíris
+				Tooltip: ""
+			}
+
+			Seed: {
+				DisplayName: Semilla
+				Tooltip: ""
+			}
+
+			ShimmerFlare: {
+				DisplayName: Brillo fulgurante
+				Tooltip: ""
+			}
+
+			SilverCoin: {
+				DisplayName: Moneda de plata
+				Tooltip: ""
+			}
+
+			Snowball: {
+				DisplayName: Bola de nieve
+				Tooltip: ""
+			}
+
+			SpelunkerFlare: {
+				DisplayName: Brillo de espeleología
+				Tooltip: ""
+			}
+
+			Stake: {
+				DisplayName: Estaca
+				Tooltip: ""
+			}
+
+			StyngerBolt: {
+				DisplayName: Proyectil Stynger
+				Tooltip: ""
+			}
+
+			ClusterRocketI: {
+				DisplayName: Cohete clúster I
+				Tooltip: ""
+			}
+
+			ClusterRocketII: {
+				DisplayName: Cohete clúster II
+				Tooltip: ""
+			}
+
+			DryRocket: {
+				DisplayName: Cohete seco
+				Tooltip: ""
+			}
+
+			HoneyRocket: {
+				DisplayName: Cohete de miel
+				Tooltip: ""
+			}
+
+			LavaRocket: {
+				DisplayName: Cohete de lava
+				Tooltip: ""
+			}
+
+			MiniNukeI: {
+				DisplayName: Mininuclear I
+				Tooltip: ""
+			}
+
+			MiniNukeII: {
+				DisplayName: Mininuclear II
+				Tooltip: ""
+			}
+
+			RocketI: {
+				DisplayName: Cohete I
+				Tooltip: ""
+			}
+
+			RocketII: {
+				DisplayName: Cohete II
+				Tooltip: ""
+			}
+
+			RocketIII: {
+				DisplayName: Cohete III
+				Tooltip: ""
+			}
+
+			RocketIV: {
+				DisplayName: Cohete IV
+				Tooltip: ""
+			}
+
+			WetRocket: {
+				DisplayName: Cohete húmedo
+				Tooltip: ""
+			}
+
+			BlueStreamer: {
+				DisplayName: Serpentina azul
+				Tooltip: ""
+			}
+
+			Chain: {
+				DisplayName: Cadena
+				Tooltip: ""
+			}
+
+			GreenStreamer: {
+				DisplayName: Serpentina verde
+				Tooltip: ""
+			}
+
+			PinkStreamer: {
+				DisplayName: Serpentina rosa
+				Tooltip: ""
+			}
+
+			Rope: {
+				DisplayName: Cuerda
+				Tooltip: ""
+			}
+
+			RopeCoil: {
+				DisplayName: Rollo de cuerda
+				Tooltip: ""
+			}
+
+			SilkRope: {
+				DisplayName: Cuerda de seda
+				Tooltip: ""
+			}
+
+			SilkRopeCoil: {
+				DisplayName: Rollo de cuerda de seda
+				Tooltip: ""
+			}
+
+			VineRope: {
+				DisplayName: Cuerda de enredadera
+				Tooltip: ""
+			}
+
+			VineRopeCoil: {
+				DisplayName: Rollo de cuerda de enredadera
+				Tooltip: ""
+			}
+
+			WebRope: {
+				DisplayName: Cuerda de telaraña
+				Tooltip: ""
+			}
+
+			WebRopeCoil: {
+				DisplayName: Rollo de cuerda de telaraña
+				Tooltip: ""
+			}
+
+			BlueSolution: {
+				DisplayName: Solución azul
+				Tooltip: ""
+			}
+
+			BrownSolution: {
+				DisplayName: Solución marrón
+				Tooltip: ""
+			}
+
+			DarkBlueSolution: {
+				DisplayName: Solución azul oscura
+				Tooltip: ""
+			}
+
+			GreenSolution: {
+				DisplayName: Solución verde
+				Tooltip: ""
+			}
+
+			MultiSolution: {
+				DisplayName: Solución múltiple
+				Tooltip: ""
+			}
+
+			PurpleSolution: {
+				DisplayName: Solución morada
+				Tooltip: ""
+			}
+
+			RedSolution: {
+				DisplayName: Solución roja
+				Tooltip: ""
+			}
+
+			WhiteSolution: {
+				DisplayName: Solución blanca
+				Tooltip: ""
+			}
+
+			YellowSolution: {
+				DisplayName: Solución amarilla
+				Tooltip: ""
+			}
+
+			Beenade: {
+				DisplayName: Granabeja
+				Tooltip: ""
+			}
+
+			BoneJavelin: {
+				DisplayName: Jabalina de hueso
+				Tooltip: ""
+			}
+
+			BoneThrowingKnife: {
+				DisplayName: Cuchillo arrojadizo de hueso
+				Tooltip: ""
+			}
+
+			BouncyGrenade: {
+				DisplayName: Granada saltarina
+				Tooltip: ""
+			}
+
+			FrostDaggerfish: {
+				DisplayName: Pez daga de escarcha
+				Tooltip: ""
+			}
+
+			Grenade: {
+				DisplayName: Granada
+				Tooltip: ""
+			}
+
+			HappyGrenade: {
+				DisplayName: Granada feliz
+				Tooltip: ""
+			}
+
+			Javelin: {
+				DisplayName: Jabalina
+				Tooltip: ""
+			}
+
+			MerchantKiller: {
+				DisplayName: Asesino de mercaderes
+				Tooltip: ""
+			}
+
+			MolotovCocktail: {
+				DisplayName: Cóctel molotov
+				Tooltip: ""
+			}
+
+			PoisonKnife: {
+				DisplayName: Cuchillo envenenado
+				Tooltip: ""
+			}
+
+			RottenEgg: {
+				DisplayName: Huevo podrido
+				Tooltip: ""
+			}
+
+			Shuriken: {
+				DisplayName: Estrella ninja
+				Tooltip: ""
+			}
+
+			SpikyBall: {
+				DisplayName: Bola con pinchos
+				Tooltip: ""
+			}
+
+			StarAnise: {
+				DisplayName: Anís estrellado
+				Tooltip: ""
+			}
+
+			StickyGrenade: {
+				DisplayName: Granada adhesiva
+				Tooltip: ""
+			}
+
+			ThrowingKnife: {
+				DisplayName: Cuchillo arrojadizo
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			ActuatorProjectile.DisplayName: Activadores
+			DefendersForgeProjectile.DisplayName: Forja del Defensor voladora
+			PiggyBankProjectile.DisplayName: Hucha voladora
+			SafeProjectile.DisplayName: Caja fuerte voladora
+			UnlimitedGrandDesignProjectile.DisplayName: Cableado
+			UnlimitedMerchantKillerProjectile.DisplayName: Huevo de Mothron hervido
+			TestProjectile.DisplayName: TestProjectile
+			DarkGreenSolutionProjectile.DisplayName: Proyectil de solución verde oscura
+			BuildingProjectile.DisplayName: Proyectil de construcción
+		}
+
+		Tiles: {
+			BambooHarvesterTile: {
+				ContainerName: Cosechadora de bambú
+				MapEntry: Cosechadora de bambú
+			}
+
+			CactusHarvesterTile: {
+				ContainerName: Cosechadora de cactus
+				MapEntry: Cosechadora de cactus
+			}
+
+			CrystalHarvesterTile: {
+				ContainerName: Cosechadora de cristales
+				MapEntry: Cosechadora de cristales
+			}
+
+			EnemyHarvesterTile: {
+				ContainerName: Cosechadora de enemigos
+				MapEntry: Cosechadora de enemigos
+			}
+
+			FishHarvesterTile: {
+				ContainerName: Cosechadora de peces
+				MapEntry: Cosechadora de peces
+			}
+
+			GemCornHarvesterTile: {
+				ContainerName: Cosechadora de árboles de bellota de gema
+				MapEntry: Cosechadora de árboles de bellota de gema
+			}
+
+			PlantHarvesterTile: {
+				ContainerName: Cosechadora de plantas
+				MapEntry: Cosechadora de plantas
+			}
+
+			TreeHarvesterTile: {
+				ContainerName: Cosechadora de árboles
+				MapEntry: Cosechadora de árboles
+			}
+
+			TestTile.MapEntry: Bloque de prueba
+			CorruptionAltar.MapEntry: Altar demoníaco
+			CrimsonAltar.MapEntry: Altar carmesí
+			HouseEnabler.MapEntry: Activador de casa
+			HouseEnablerDark.MapEntry: Activador de casa (sin luz)
+			AsphaltPlatform.MapEntry: Plataforma de asfalto
+			ScrollCrafter.MapEntry: Creador de pergaminos
+		}
+
+		Keybinds: {
+			"Luiafk Recall.DisplayName": Regresar a casa
+			"Luiafk Recall Back.DisplayName": Volver atrás
+			"Luiafk Buffs.DisplayName": Mejoras
+			"Luiafk Buff Settings.DisplayName": Alternar pociones
+		}
+
+		Configs: {
+			LuiAFKConfig: {
+				DisplayName: Configuración de servidor de LuiAFK
+
+				Headers: {
+					Harvester: Configuración de cosechadoras
+					Potions: Configuración de pociones y mejoras
+					Accessories: Opciones de accesorios
+					NPC: Opciones de PNJs
+					Tools: Opciones de herramientas y miscelánea
+					Fishing: Flotadores de cañas de pesca
+					Ammo: Opciones de munición
+				}
+
+				harvesterAvailability: {
+					Label: Cosechadoras
+					Tooltip:
+						'''
+						En qué dificultad están disponibles las cosechadoras.
+						Opciones: Desactivado, Normal+, Experto+ y Maestro+
+						Predeterminado: Experto+
+						'''
+				}
+
+				potionsEnable: {
+					Label: Pociones ilimitadas
+					Tooltip:
+						'''
+						Si las pociones ilimitadas están activadas o no.
+						No activará mejoras si el objeto está en el inventario.
+						No activará mejoras vanilla si son una pila de 30+.
+						Predeterminado: true
+						'''
+				}
+
+				vanillaPotionsEnable: {
+					Label: Autoaplicación de pociones vanilla
+					Tooltip:
+						'''
+						Si las pociones vanilla se autoaplican cuando son una pila de 30+.
+						Opciones: Desactivado, Siempre y 1 poción ilimitada presente.
+						Predeterminado: 1 poción ilimitada presente
+						'''
+				}
+
+				PaperAmountForScrollCrafting: {
+					Label: Cantidad de papel para crear
+					Tooltip:
+						'''
+						El número de papel requerido para crear pergaminos.
+						0 desactiva el papel necesario para crear.
+						Predeterminado: 5.
+						'''
+				}
+
+				ultimateBattlerTimer: {
+					Label: Temporizador del combatiente definitivo
+					Tooltip:
+						'''
+						Si el buff de combatiente definitivo tiene un temporizador de 5 segundos antes de activarse, antes de desactivarse o si el temporizador está desactivado.
+						Opciones: Desactivado, Antes de activar y Después de activar
+						Predeterminado: Antes de activar
+						'''
+				}
+
+				manaEnable: {
+					Label: Maná ilimitado [i:{0}] [i:{1}] [i:{2}] [i:{3}] [i:{4}] [i:{5}]
+					Tooltip:
+						'''
+						Si el maná ilimitado está activado o no.
+						No activará mejoras si el objeto está en el inventario.
+						Predeterminado: true
+						'''
+				}
+
+				superTools: {
+					Label: Superherramientas [i:{0}] [i:{1}] [i:{2}]
+					Tooltip:
+						'''
+						Si Cava más rápido, Tool Time y Home Improvement están activados o no.
+						No activará mejoras si el objeto está en el inventario.
+						Predeterminado: true
+						'''
+				}
+
+				boneEnable: {
+					Label: Generar PNJ mercader de huesos
+					Tooltip:
+						'''
+						Si el mercader de huesos puede aparecer o no.
+						No eliminará al PNJ mercader de huesos ya generado.
+						Predeterminado: true
+						'''
+				}
+
+				merchantEnable: {
+					Label: Generar PNJ mercader ambulante
+					Tooltip:
+						'''
+						Si el PNJ mercader ambulante puede aparecer o no.
+						No eliminará al PNJ mercader ambulante ya generado.
+						Predeterminado: true
+						'''
+				}
+
+				builderEnable: {
+					Label: Autoconstructores [i:{0}]
+					Tooltip:
+						'''
+						Si cualquier objeto/herramienta de construcción se puede obtener y usar.
+						Predeterminado: true
+						'''
+				}
+
+				worldRemoverEnable: {
+					Label: Montura de taladro mejorada [i:{0}]
+					Tooltip:
+						'''
+						Si la montura de taladro mejorada se puede obtener y usar.
+						Predeterminado: true
+						'''
+				}
+
+				moneyEnable: {
+					Label: Recolector de dinero [i:{0}]
+					Tooltip:
+						'''
+						Si el recolector de dinero se puede obtener y usar.
+						Predeterminado: true
+						'''
+				}
+
+				killerEnable: {
+					Label: Asesino de mercaderes ilimitado [i:{0}]
+					Tooltip:
+						'''
+						Si el asesino de mercaderes ilimitado se puede obtener y usar.
+						Predeterminado: true
+						'''
+				}
+
+				magnetEnable: {
+					Label: Imán de botín [i:{0}]
+					Tooltip:
+						'''
+						Si el imán de botín se puede obtener y usar.
+						Predeterminado: true
+						'''
+				}
+
+				neededQuests: {
+					Label: Flotadores de pesca extra
+					Tooltip:
+						'''
+						Cuántas misiones del Pescador se necesitan por cada flotador extra.
+						0 desactiva esta opción.
+						El valor puede ir de 0 a 100.
+						Predeterminado: 5 misiones
+						'''
+				}
+
+				rangerAmmo: {
+					Label: Munición ilimitada de armas a distancia
+					Tooltip:
+						'''
+						Cuánta munición a distancia necesitas para no consumir el objeto.
+						0 desactiva esta opción.
+						Los valores pueden ir de 0 a 10000.
+						Predeterminado: 3996
+						'''
+				}
+
+				thrownAmmo: {
+					Label: Munición ilimitada de armas arrojadizas
+					Tooltip:
+						'''
+						Cuánta munición arrojadiza necesitas para no consumir el objeto.
+						0 desactiva esta opción.
+						Los valores pueden ir de 0 a 10000.
+						Predeterminado: 999
+						'''
+				}
+			}
+
+			SettingsConfigClient: {
+				DisplayName: Configuración de cliente de LuiAFK
+				Headers.Different_Enabling/Disabling_Options: Distintas opciones de activar / desactivar
+
+				certainPotionsEnable: {
+					Label: Ciertas pociones ilimitadas
+					Tooltip:
+						'''
+						Si ciertas pociones ilimitadas están activadas o no.
+						No activará mejoras si el objeto está en el inventario.
+						¡¡¡Actualmente no tiene ningún efecto!!!!
+						'''
+				}
+
+				certainPotionsEnabled: {
+					Label: ciertas pociones activadas
+					Tooltip: ""
+				}
+			}
+
+			LuiAfkConfig: {
+				DisplayName: Configuración de Lui AFK
+
+				Headers: {
+					Harvester: Encabezado de cosechadoras
+					Potions: Encabezado de pociones
+				}
+
+				harvesterAvailability: {
+					Label: disponibilidad de cosechadoras
+					Tooltip: ""
+				}
+
+				potionsEnabled: {
+					Label: pociones activadas
+					Tooltip: ""
+				}
+
+				vanillaPotionsEnabled: {
+					Label: pociones vanilla activadas
+					Tooltip: ""
+				}
+
+				PaperAmountForScrollCrafting: {
+					Label: Cantidad de papel para crear pergaminos
+					Tooltip: ""
+				}
+
+				ultimateBattlerTimer: {
+					Label: temporizador del combatiente definitivo
+					Tooltip: ""
+				}
+			}
+		}
+
+		LuiafkRecipes: {
+			WellFed1: Cualquier comida menor
+			WellFed2: Cualquier comida media
+			WellFed3: Cualquier comida mayor
+			AnyBait: Cualquier cebo
+			TwentyBait: Cualquier cebo del 20% o superior
+			ThirtyBait: Cualquier cebo del 30% o superior
+			FiftyBait: Cualquier cebo del 50%
+			Chairs: Cualquier silla
+			Doors: Cualquier puerta
+			Tables: Cualquier mesa
+			LightSource: Cualquier fuente de luz
+			ChestsLocalized: Cualquier cofre
+			Axes: Cualquier hacha del 55%+
+			Gems: Cualquier gema
+			Buckets:
+				'''
+				Manipulador de líquidos definitivo o Constructor de estanques
+				No se consume al crear
+				'''
+			UltimateBuckets:
+				'''
+				Manipulador de líquidos definitivo
+				No se consume al crear
+				'''
+			Regrowth:
+				'''
+				Báculo de regeneración o Cosechadora de plantas
+				No se consume al crear
+				'''
+			AdamTitanBar: Lingote de adamantita o Lingote de titanio
+			CopperTinBar: Lingote de cobre o Lingote de estaño
+			PlatGoldBar: Lingote de platino o Lingote de oro
+			IceSnowBlock: Bloque de hielo o Bloque de nieve
+			LifeCrystal: Cristal de vida o Linterna de corazón
+			FallenStar: Estrella fugaz o Estrella embotellada
+			Torches: Cualquier antorcha
+			Streamer: Cualquier serpentina
+			WebSilkRope: Cuerda de telaraña o Cuerda de seda
+			RopeVine: Cuerda o Cuerda de enredadera
+			Tipsy: Cerveza o Sake
+			EvilFlask: Frasco de icor o Frasco de las llamas malditas
+			Extractinator: Bloque de limo, Bloque de aguanieve o Fósil del desierto
+			EvilMushroom: Champiñón vil o Champiñón feroz
+			EvilPowder: Polvo vil o Polvo feroz
+			GoldWatch: Reloj de oro o Reloj de platino
+			SandBlock: Cualquier bloque de arena
+			EvilBar: Lingote carmesí o Lingote endemoniado
+			EvilOre: Mineral carmesí o Mineral endemoniado
+			EvilOreMat: Escama de las sombras o Muestra de tejido
+			EvilStoneBlock: Bloque de piedra carmesí o Bloque de piedra de ébano
+			DungeonBrick: Cualquier ladrillo de mazmorra
+			LunarPick: Cualquier pico lunar
+			LunarHamaxe: Cualquier martihacha lunar
+		}
+
+		FishingRod: {
+			RequireBait: Requiere cebo
+			Bait: Cebo
+			Power: Potencia
+			Quests1: Lanza una línea extra por cada {0} {^0:misión;misiones} de pesca completada(s).
+		}
+
+		UnlimitedLucky: {
+			NoTorchLuck: Las antorchas no prestan atención a tu presencia
+			TorchLuck: Las antorchas te otorgan su bendición
+		}
+
+		Lucky: {
+			NoTorchLuck: Mods.miningcracks_take_on_luiafk.Lucky.NoTorchLuck
+			TorchLuck: Mods.miningcracks_take_on_luiafk.Lucky.TorchLuck
+		}
+
+		LuiAfkRecipes: {
+			WellFed1: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.WellFed1
+			WellFed2: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.WellFed2
+			WellFed3: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.WellFed3
+			AnyBait: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.AnyBait
+			TwentyBait: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.TwentyBait
+			ThirtyBait: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.ThirtyBait
+			FiftyBait: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.FiftyBait
+			Chairs: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Chairs
+			Doors: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Doors
+			Tables: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Tables
+			LightSource: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.LightSource
+			ChestsLocalized: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.ChestsLocalized
+			Axes: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Axes
+			Gems: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Gems
+			Buckets: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Buckets
+			UltimateBuckets: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.UltimateBuckets
+			Regrowth: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Regrowth
+			AdamTitanBar: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.AdamTitanBar
+			CopperTinBar: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.CopperTinBar
+			PlatGoldBar: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.PlatGoldBar
+			IceSnowBlock: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.IceSnowBlock
+			LifeCrystal: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.LifeCrystal
+			FallenStar: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.FallenStar
+			Torches: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Torches
+			Streamer: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Streamer
+			WebSilkRope: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.WebSilkRope
+			RopeVine: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.RopeVine
+			Tipsy: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Tipsy
+			EvilFlask: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilFlask
+			Extractinator: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.Extractinator
+			EvilMushroom: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilMushroom
+			EvilPowder: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilPowder
+			GoldWatch: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.GoldWatch
+			SandBlock: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.SandBlock
+			EvilBar: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilBar
+			EvilOre: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilOre
+			EvilOreMat: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilOreMat
+			EvilStoneBlock: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.EvilStoneBlock
+			DungeonBrick: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.DungeonBrick
+			LunarPick: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.LunarPick
+			LunarHamaxe: Mods.miningcracks_take_on_luiafk.LuiAfkRecipes.LunarHamaxe
+		}
+	}
+}
