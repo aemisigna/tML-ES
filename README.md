@@ -64,7 +64,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity's Vanities | ✅ | 11.4.1
 | Calamity: Hunt of the Old God | ✅ | 1.2.3
 | Progression Journal | ✅ | 2.1.4
-| Quality of Terraria | ⚪ | X
+| Quality of Terraria | ✅ | 1.8.2
 ---
 
 ## Comunidad

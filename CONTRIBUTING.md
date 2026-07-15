@@ -79,7 +79,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity's Vanities | ✅ | 11.4.1
 | Calamity: Hunt of the Old God | ✅ | 1.2.3
 | Progression Journal | ✅ | 2.1.4
-| Quality of Terraria | ⚪ | X
+| Quality of Terraria | ✅ | 1.8.2
 
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
