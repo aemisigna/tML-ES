@@ -1,0 +1,61 @@
+NotEnabled: Debes activar esto en la configuración del mod
+
+SuperVault: {
+	DisplayName: Mochila Grande
+	Description: Una mochila con 100 ranuras de objetos
+}
+
+PlayerStats: {
+	DisplayName: Estadísticas del jugador
+	Description: Ver varias estadísticas de un jugador
+}
+
+Spectating: {
+	DisplayName: Espectador
+	Description: Observa a tus compañeros durante combates contra jefes
+}
+
+WeatherControl: {
+	DisplayName: "{$Mods.ImproveGame.UI.WeatherGUI.Title}"
+	Description: Cambia la hora, la fase lunar, la dirección del viento y la lluvia
+}
+
+ItemSearcher: {
+	DisplayName: "{$Mods.ImproveGame.UI.ItemSearcher.Title}"
+	Description: Encuentra objetos en almacenes personales y cofres cercanos
+}
+
+BagOpener: {
+	Description: Abre bolsas de botín en lote
+	DisplayName: "{$Mods.ImproveGame.UI.OpenBag.Title}"
+}
+
+WorldFeature: {
+	Description: Cambia las funciones de festividades y semillas secretas del mundo
+	DisplayName: "{$Mods.ImproveGame.UI.WorldFeature.Title}"
+}
+
+PotionBag: {
+	Description: La primera Bolsa de Pociones de tu inventario
+	DisplayName: "{$Mods.ImproveGame.Items.PotionBag.DisplayName}"
+}
+
+BannerChest: {
+	Description: La primera Caja de Estandartes de tu inventario
+	DisplayName: "{$Mods.ImproveGame.Items.BannerChest.DisplayName}"
+}
+
+ModConfig: {
+	DisplayName: Configuración del mod
+	Description: Acceso rápido a las Configuraciones favoritas
+}
+
+AmmoChain: {
+	DisplayName: Cadena de Munición
+	Description: Permite que las armas elijan munición en una secuencia específica
+}
+
+QuickShimmer: {
+	DisplayName: Fulgor Rápido
+	Description: ¡Fulgor desde el inventario!
+}

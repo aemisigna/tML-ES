@@ -1,0 +1,29 @@
+NPC: {
+	LockHP: Bloquear vida
+	LifeMax: Vida máxima
+	Defense: Defensa
+	Damage: Daño de contacto
+	ShowBox: Mostrar hitbox
+	ShowDamageData: Mostrar estadísticas de daño
+	ShowNameOnHover: Mostrar nombre del NPC al pasar el cursor
+	Immortal:
+		'''
+		Si se establece en 'True', se comportará como el Muñeco de pruebas vanilla,
+		lo que significa que los ataques teledirigidos no lo apuntarán,
+		los efectos de ataque cuerpo a cuerpo no se activarán,
+		y el muñeco no morirá
+		'''
+	NoGravity: No afectado por la gravedad
+	NoTileCollide: Desactivar colisión con bloques
+	KnockBackResist: Coeficiente de retroceso, 0 otorga inmunidad al retroceso
+	AIStyle: Estilo de IA, modifica esta opción desde la UI
+	Dummy_Damage: Daño: {S}/segundo, {F}/tick
+	Dummy_Time: Duración: {S} segundos, {F} ticks
+	Dummy_FinalBlow: Último golpe: {FinalBlow}
+	DummyCommand_DummyAttributes: Estadísticas del muñeco
+	DummyCommand_Usage: Uso: /dummy <atributo> <valor> (no distingue mayúsculas)
+	DummyCommand_Description: El comando de chat '/dummy info' mostrará los atributos disponibles, sus tipos y valores actuales
+	DummyCommand_Success: ¡Cambio realizado: {name} {args}!
+	DummyCommand_Fail: ¡Cambio fallido ({input})!
+	DummyCommand_Invalid: ¡Comando inválido ( {input} )!
+}

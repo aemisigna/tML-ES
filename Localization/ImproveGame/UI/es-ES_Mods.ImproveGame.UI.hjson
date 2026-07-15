@@ -1,0 +1,528 @@
+DummyControl.Name: Control del Muñeco
+GrabBagInfo.Title: Botín detallado del objeto
+RecipeSearchUI.Tips:
+	'''
+	Búsqueda de recetas proporcionada por Quality of Terraria
+	Puedes desactivarla en la Configuración Personal de Quality of Terraria
+	'''
+
+CreateWandController: {
+	Title: Controlador de Varita de Arquitectura
+	BuildingMaterial: Materiales de construcción
+	StructureSelection: Selección de edificio
+	ImportFromStructureFile: Importar - Varita de Construcción
+	ImportFromDatamap: Importar - Datamap
+	BackToBuildingDataList: Volver a la lista
+}
+
+InfiniteBUFFController: {
+	DisplayName: Controlador de Mejoras
+	Placeholder: Introduce el nombre
+	EnemySpawnRate: Tasa de aparición de enemigos
+}
+
+LiquidWandUI: {
+	Name: Control de líquidos
+	Absorb: Absorber
+	Water: Agua
+	Lava: Lava
+	Honey: Miel
+	Shimmer: Fulgor
+}
+
+MasterControl: {
+	Available: Disponible
+	Unavailable: No disponible
+	Version: v{0}
+	Changelog: Haz clic para ver las novedades
+	PinIntro:
+		'''
+		Fijar Control Maestro
+		Si está fijado, pulsar la tecla de Control Maestro alternará el panel
+		'''
+	PopupTitle: Tecla no asignada
+	PopupText: No has asignado una tecla al Panel de Control de Quality of Terraria. Asigna una tecla para usar los atajos del mod. Este mensaje desaparecerá cuando lo hagas.
+	PopupPanelWidth: "290"
+	PopupPanelHeight: "200"
+	ChangelogLink: https://github.com/487666123/ImproveGame/blob/1.4.4/Changelog/en/v{0}.md
+}
+
+AmmoChain: {
+	Title: Cadena de Munición
+	LoadError: No es un archivo de Cadena de Munición o es ilegal
+	ClickToAddL1: Tras elegir un tipo de munición
+	ClickToAddL2: Haz clic aquí para añadirla a la cadena
+	FileName: Cadena de Munición
+	AddChain: Añadir Cadena de Munición
+	OpenFolder: Abrir carpeta
+	# 一个按钮，点击后打开帮助网页
+	GetHelp: ¿Cómo? ¡Ayuda!
+	Cancel: Cancelar
+	Confirm: Confirmar
+	ItemNotAvailable: × Este objeto no usa munición
+	PutInItem: ← Coloca un arma aquí
+	ClickAmmoChain: Haz clic en una Cadena de Munición para aplicarla
+	AddAmmoChain: Aún no tienes ninguna Cadena de Munición; añade una primero
+	Empty: No puedes guardar una Cadena de Munición vacía
+}
+
+WeatherGUI: {
+	Title: Control del Clima
+	Wind: <left> para ajustar la dirección del viento
+	WindLockFalse: <right> para bloquear la dirección del viento
+	WindLockTrue: <right> para desbloquear la dirección del viento
+	WindWest: Establecer viento fuerte del oeste
+	WindNo: Establecer sin viento
+	WindEast: Establecer viento fuerte del este
+	WindLocked: Velocidad y dirección del viento bloqueadas
+	WindUnlocked: Velocidad y dirección del viento desbloqueadas
+	RainActive: <left> para iniciar la lluvia
+	RainInactive: <left> para detener la lluvia
+	RainLockFalse: <right> para bloquear la lluvia
+	RainLockTrue: <right> para desbloquear la lluvia
+	RainOn: Lluvia iniciada
+	RainOff: Lluvia detenida
+	RainLocked: Lluvia bloqueada
+	RainUnlocked: Lluvia desbloqueada
+	SandstormActive: <left> para iniciar una tormenta de arena
+	SandstormInactive: <left> para detener una tormenta de arena
+	SandstormLockFalse: <right> para bloquear la tormenta de arena
+	SandstormLockTrue: <right> para desbloquear la tormenta de arena
+	SandstormOn: Tormenta de arena iniciada
+	SandstormOff: Tormenta de arena detenida
+	SandstormLocked: Tormenta de arena bloqueada
+	SandstormUnlocked: Tormenta de arena desbloqueada
+	Time: <left> para ajustar la hora
+	Dawn: Establecer al amanecer
+	Noon: Establecer al mediodía
+	Dusk: Establecer al atardecer
+	Midnight: Establecer a medianoche
+	MoonPhase: <left> para ajustar la fase lunar
+	MoonPhaseLockFalse: <right> para bloquear la fase lunar
+	MoonPhaseLockTrue: <right> para desbloquear la fase lunar
+	MoonPhaseAdjusted: Establecida a {0}
+	MoonPhaseLocked: Fase lunar bloqueada a {0}
+	MoonPhaseUnlocked: Fase lunar desbloqueada
+	AlreadyUnlocked: El Control del Clima ya está disponible en este mundo
+	Unlocked: ¡El Control del Clima está desbloqueado! Ábrelo desde el Panel de Control
+	EasterEgg: ¡Champiñón!
+	Locked: Usa [i:ImproveGame/WeatherBook] para desbloquear el control del clima
+	TimeUnlockCondition: Derrota al Muro de Carne para controlar la hora
+}
+
+PlayerStats: {
+	# 翻译提示: 尽量简短，因为UI的空间有限，不要超过10个字符
+	Introduction:
+		'''
+		[c/CC88AA:Panel de estadísticas]
+		<left> en una categoría o estadística para alternar su visualización
+		Mantén clic derecho para arrastrar este botón
+		'''
+	Control: Controlador del panel de estadísticas
+	Name: Estadísticas del jugador
+	Melee: Cuerpo a c.
+	Ranged: Distancia
+	Magic: Magia
+	Summon: Invocación
+	Throwing: Arrojadizo
+	# 其他玩家属性
+	Other: Otros
+	LifeRegen: Regen. vida
+	ArmorPenetration: Pen. arm.
+	# 魔力恢复，因为归在大类“魔法”下所以用Regen代替
+	Regen: Regeneración
+	# 魔力消耗，因为归在大类“魔法”下所以用Cost代替
+	Cost: Coste
+	MaxMinions: Esbirros
+	MaxTurrets: Centinelas
+	Endurance: Resistencia
+	Luck: Suerte
+	Aggro: Aggro
+	BulletDamage: Daño bala
+	ArrowDamage: Daño flecha
+	SpecialistDamage: Daño esp.
+	Damage: Daño
+	Crit: Crítico
+	# 攻击速度
+	Speed: Vel. atq.
+	SummonMeleeSpeed: Vel. látigo
+
+	CalamityMod: {
+		Rogue: Pícaro
+		# 盗贼弹幕速度，英文原文“Rogue Velocity”，这里归在大类“Rogue”下所以用Velocity代替
+		RogueVelocity: Velocidad
+	}
+
+	ThoriumMod: {
+		Healer: Sanador
+		# 牧师治疗工具（法术）的攻击速度，英文原文即“Healing Speed”，由于UI空间有限去掉了"ing"
+		HealingSpeed: Vel. cura
+		# 瑟银的一些牧师装备增加法术回血量
+		HealBonus: Bonus cura
+		Bard: Bardo
+	}
+}
+
+ExtremeStorage: {
+	QuickSearch: Pulsa {0} para buscar el objeto seleccionado
+	AddChest: Añadir cofre
+	AddChestTip: Clic derecho para cancelar
+	RejectNearbyStack: Error al apilar en cofres cercanos, probablemente porque otro jugador está usando un Gestor de Almacenamiento cercano
+	CloseCraftingWindow: Cerrar ventana de creación
+	OpenCraftingWindow: Abrir ventana de creación
+
+	CountForCrafting: {
+		Label: Contar para creación
+		Tooltip:
+			'''
+			Controla si los objetos de la categoría seleccionada [c/CC88AA:pueden usarse en la creación]
+			Aun así podrás crear con objetos del cofre que abras
+			Demasiados objetos en una categoría pueden causar problemas de rendimiento; úsalo con precaución en PCs de gama baja
+			'''
+	}
+
+	UseUnlimitedPotion: {
+		Label: Poción infinita
+		Tooltip:
+			'''
+			Controla si las pociones y estaciones de mejora bajo [c/CC88AA:'{$Mods.ImproveGame.UI.ExtremeStorage.ItemGroup.Alchemy}'] pueden usarse para [c/CC88AA:Poción Infinita]
+			Debes activar 'Pociones Infinitas' en la configuración del mod
+			'''
+	}
+
+	UsePortableStation: {
+		Label: Estación de creación portátil
+		Tooltip:
+			'''
+			Controla si las estaciones bajo [c/CC88AA:'{$Mods.ImproveGame.UI.ExtremeStorage.ItemGroup.Furniture}'] pueden usarse para [c/CC88AA:Estación de Creación Portátil]
+			Debes activar 'Estaciones de Creación Portátiles' en la configuración del mod
+			'''
+	}
+
+	UsePortableBanner: {
+		Label: Estandartes portátiles
+		Tooltip:
+			'''
+			Controla si los estandartes bajo [c/CC88AA:'{$Mods.ImproveGame.UI.ExtremeStorage.ItemGroup.Furniture}'] pueden usarse para [c/CC88AA:Estandartes Portátiles]
+			Debes activar 'Estandartes Portátiles' en la configuración del mod
+			'''
+	}
+
+	ChestBeingUsed:
+		'''
+		El cofre de esta ranura está siendo usado por otro jugador
+		No se puede realizar ninguna acción
+		'''
+	# 介绍使用了手动换行让排版看起来舒服点
+	BasicIntroduction:
+		'''
+		Nota:
+		  1. La ordenación de cofres depende de identificadores
+		     con prefijo en los nombres de los cofres. Por favor,
+		     NO edites los nombres de los cofres arbitrariamente
+		  2. Pon muebles y pociones en sus categorías,
+		     y todo lo demás en la categoría "Todo"
+		  3. En multijugador, si un cofre está siendo usado por
+		     otro jugador, no podrás realizar acciones
+		     sobre los objetos del cofre
+		'''
+
+	ItemGroup: {
+		Weapon: "{$CreativePowers.TabWeapons}"
+		Tool: "{$CreativePowers.TabTools}"
+		Ammo: "{$LegacyInterface.27}"
+		Armor: "{$CreativePowers.TabArmor}"
+		Accessory: "{$CreativePowers.TabAccessories}"
+		Furniture: "{$CreativePowers.TabFurniture}"
+		Block: Colocables
+		Material: "{$CreativePowers.TabMaterials}"
+		Alchemy: Pociones
+		Misc: "{$CreativePowers.TabMisc}"
+		Setting: "{$LegacyMenu.14}"
+		Everything: Todo
+	}
+
+	# 筛选器的文本
+	Weapon: {
+		Melee: Cuerpo a cuerpo
+		Ranged: A distancia
+		Magic: Magia
+		Summon: Invocación
+		Other: Otro
+	}
+
+	Tool: {
+		Pickaxe: Picos
+		Axe: Hachas
+		Hammer: Martillos
+		Hook: Ganchos de agarre
+		Wiring: Herramientas de cableado
+		FishingPole: Cañas de pesca
+		Other: Otros
+	}
+
+	Ammo: {
+		Arrow: Flechas
+		Bullet: Balas
+		Rocket: Cohetes
+		Dart: Dardos
+		Other: Otro
+	}
+
+	Armor: {
+		Headgear: Cabeza
+		Torso: Cuerpo
+		Pants: Piernas
+		Vanity: Vanidad
+	}
+
+	Accessory: {
+		Boot: Botas
+		Wing: Alas
+		Shield: Escudos
+		Other: Otro
+		Vanity: Vanidad
+	}
+
+	Block: {
+		Solid: Bloques sólidos
+		Wall: Muros
+		Platform: Plataformas
+		Other: Otro
+	}
+
+	Misc: {
+		Herb: Hierbas
+		SummonItem: Invocaciones
+		Pet: Mascotas
+		Mount: Monturas
+		Material: Materiales
+		Other: Otro
+	}
+}
+
+AutoTrash: {
+	Introduction:
+		'''
+		[c/CC88AA:Auto-basura] (Quality of Terraria)
+		[c/CC88AA:Shift+Ctrl+<left>] en un objeto para añadirlo a la lista de auto-basura
+		Pulsa [c/CC88AA:{0}] para ocultar esta UI (asegúrate de haber asignado una tecla)
+		Pulsa este botón para ver la lista de auto-basura
+		'''
+	TrashedItemsList: Objetos a basura
+}
+
+WorldFeature: {
+	Title: Funciones del Mundo
+
+	Halloween: {
+		Label: Halloween
+		Tooltip: Alterna el estado de Halloween
+	}
+
+	XMas: {
+		Label: Navidad
+		Tooltip: Alterna el estado de Navidad
+	}
+
+	Drunk:
+		'''
+		Mundo borracho
+		Semillas: 05162020 | 5162020
+		'''
+	Bees:
+		'''
+		Not the bees
+		Semillas: not the bees | not the bees! | notthebees
+		'''
+	Ftw:
+		'''
+		For the worthy
+		Semillas: for the worthy | fortheworthy
+		'''
+	Anniversary:
+		'''
+		Celebrationmk10
+		Semillas: celebrationmk10 | 05162011 | 5162011 | 05162021 | 5162021
+		'''
+	DontStarve:
+		'''
+		The Constant
+		Semillas: constant | theconstant | the constant | eye4aneye | eyeforaneye
+		'''
+	Traps:
+		'''
+		No traps
+		Semillas: no traps | notraps
+		P.D. No tiene efecto si se activa dentro de un mundo
+		'''
+	Remix:
+		'''
+		Don't dig up
+		Semillas: don't dig up | dont dig up | dontdigup
+		'''
+	Zenith:
+		'''
+		Get fixed boi
+		Semillas: get fixed boi | getfixedboi
+		P.D. Get fixed boi solo está completo con todas las demás semillas secretas activadas
+		'''
+	OpenWiki: <right> para abrir su página de la wiki
+	NotPermitted: No tienes permiso para modificar las funciones de este mundo
+}
+
+ItemSearcher: {
+	Title: Buscar objetos
+	TipText: Los objetos encontrados se muestran aquí
+	NotFoundText: No se encontró ningún objeto
+
+	FuzzySearch: {
+		Label: Búsqueda difusa
+		Tooltip:
+			'''
+			Permite una desviación de 1 carácter al buscar
+			P. ej. "obsdian" puede encontrar "obsidian"
+			'''
+	}
+
+	SearchTooltip: {
+		Label: Buscar en descripción
+		Tooltip: Busca en las descripciones de los objetos en lugar de en los nombres
+	}
+}
+
+OpenBag: {
+	Title: Abridor de Bolsas
+	TipText: Los objetos obtenidos se preparan aquí
+	Open: Abrir todo
+	Stop: Detener
+	EmptyText: Bolsa de botín
+	NotFullyDisplayed: "{0} objetos más están ocultos actualmente"
+
+	SellAll: {
+		Name: Vender todo
+		Tooltip:
+			'''
+			Vende todos los objetos al 110% de su precio base
+			Las monedas irán a tus ranuras de monedas
+			'''
+	}
+
+	AreYouSure: {
+		Name: ¿Estás seguro?
+		Tooltip:
+			'''
+			<left> para vender
+			<right> para cancelar
+			'''
+	}
+}
+
+QuickShimmer: {
+	Title: Fulgor Rápido
+	TipText: Los objetos transmutados se preparan aquí
+	Open: Transmutar
+	Stop: Detener
+	EmptyText: Transmutación de Fulgor
+	NotFullyDisplayed: "{0} objetos más están ocultos actualmente"
+	CoinLuck: Fulgurado en {0} de 'suerte de monedas'
+	AlreadyUnlocked: El Fulgor Rápido ya está disponible en este mundo
+	Unlocked: ¡El Fulgor Rápido está desbloqueado! Ábrelo desde el Panel de Control
+
+	AutoStart: {
+		Label: Inicio automático
+		Tooltip: Inicia la transmutación automáticamente al echar objetos
+	}
+
+	ReallyQuick: {
+		Label: Modo rápido
+		Tooltip: Transmuta al instante sin esperar
+	}
+
+	Locked:
+		'''
+		Usa [i:ImproveGame/ShellShipInBottle_Shimmered] {$Mods.ImproveGame.Items.ShellShipInBottle_Shimmered.DisplayName} para desbloquear el Fulgor Rápido
+		¡Intenta tirar [i:ImproveGame/ShellShipInBottle] {$Mods.ImproveGame.Items.ShellShipInBottle.DisplayName} al estanque de fulgor!
+		'''
+}
+
+DummyConfiguration: {
+	Title: Configuración del Muñeco
+
+	FieldName: {
+		LockHP: Bloquear vida
+		LifeMax: Vida máxima
+		Defense: Defensa
+		Damage: Daño de contacto
+		Scale: Escala
+		ShowBox: Mostrar hitbox
+		ShowDamageData: Mostrar estadísticas de daño
+		ShowNameOnHover: Mostrar nombre del NPC
+		Immortal: No cuenta como objetivo e inmortal
+		NoGravity: No afectado por la gravedad
+		NoTileCollide: Desactivar colisión con bloques
+		KnockBackResist: Coeficiente de retroceso
+		AIStyle: Imitar comportamiento de NPC
+		ResetTimer: Retraso de reinicio de datos de daño (frames)
+	}
+
+	AIType: {
+		Default: Predeterminado
+		Slime: Slime
+		EvilEye: Ojo demoníaco
+		Soilder: Luchador
+		GoldenFish: Pez dorado
+		JellyFish: Medusa
+		HugeMimic: Mimic de bioma
+		SelfDefine: Personalizado
+	}
+
+	CustomDisabled:
+		'''
+		La imitación personalizada de comportamiento de NPC no está permitida en este servidor. 
+		Haz clic aquí para modificar la configuración si eres el anfitrión.
+		'''
+	DummyConfigLabel: Permitir imitación personalizada de NPC del Muñeco en multijugador
+	OpenWikiTip: Haz clic para abrir la página relevante de la Wiki
+	WikiURL: https://terraria.wiki.gg/wiki/NPC_ID
+}
+
+Autofisher: {
+	Accessory: Accesorios de pesca
+	FishingPole: Caña de pesca
+	Bait: Cebo
+	SelectPool: Selecciona un estanque de pesca
+	CarefulNextTime: ¡Ten más cuidado la próxima vez!
+	Unavailable: Actualmente no hay información de pesca
+	InShimmer: ¡No trabajo en el fulgor!
+	CatchCratesFilter: Cajones
+	CatchAccessoriesFilter: Accesorios
+	CatchToolsFilter: Herramientas y armas
+	CatchWhiteRarityCatchesFilter: Rareza blanca
+	CatchNormalCatchesFilter: Superior a rareza blanca
+	PerItemFilter: Filtrar capturas
+	ChestAutoDeposit:
+		'''
+		Depósito automático en cofres cercanos
+		Las capturas se depositarán automáticamente en el cofre más cercano cada minuto
+		'''
+	AccBoost:
+		'''
+		[i:{IconID}] Bonificación de accesorio para la Máquina de Pesca:
+		    Velocidad de pesca: {Speed}
+		    Potencia de pesca: {Power}
+		'''
+	AccBoostTackle: "    Reduce la probabilidad de consumir cebo"
+	AccBoostLava: "    Permite pescar en lava"
+}
+
+MapLayer: {
+	TheAether: El Éter
+	Pyramid: Pirámide
+	FloatingIsland: Isla flotante
+	FloatingLake: Lago flotante
+	EmptyAutofisher: Máquina de Pesca (¡Sin cebo!)
+}
+
+ThemePreview.Title: Vista previa del tema
+PiggyFilter.Title: Filtrar monedas

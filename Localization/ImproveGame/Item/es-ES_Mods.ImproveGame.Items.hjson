@@ -1,0 +1,443 @@
+MagickWand: {
+	DisplayName: Varita de Explosiones
+	Tooltip:
+		'''
+		Destruye bloques tanto en un área fija como en selección libre
+		La potencia de minado es equivalente a tu pico más fuerte
+		<right> mientras la sostienes para editar los ajustes de destrucción
+		<right> mientras seleccionas un área para cancelar
+		'''
+}
+
+SpaceWand: {
+	DisplayName: Varita del Espacio
+	Tooltip:
+		'''
+		[c/0099ff:<right> para abrir el Panel de Control]
+		Coloca el tipo de bloque seleccionado en el área indicada
+		Usa el primer objeto aplicable de tu inventario
+		<right> mientras seleccionas un área para cancelar la colocación
+		'Me dan pena las herramientas'
+		'''
+}
+
+StarburstWand: {
+	DisplayName: Varita de Explosiones Estelares
+	Tooltip:
+		'''
+		Destruye bloques tanto en un área fija como en selección libre
+		La potencia de minado es equivalente a tu pico más fuerte
+		<right> mientras la sostienes para editar los ajustes de destrucción
+		<right> mientras seleccionas un área para cancelar
+		'''
+}
+
+CreateWand: {
+	DisplayName: Varita de Arquitectura
+	Tooltip:
+		'''
+		Construye una casa usando los materiales almacenados en ella
+		Si no hay materiales almacenados, usará los materiales de tu inventario
+		<right> para abrir el almacenamiento de materiales y el panel de estilo de casa
+		¡Prepara suficientes materiales o la casa no se construirá por completo!
+		[c/ff0000:¡Si tiras el objeto a la basura, los materiales almacenados dentro no se devolverán!] 
+		'''
+}
+
+WallPlace: {
+	PureName: Varita de Tecnología
+	DisplayName: Varita de Tecnología (Colocando)
+	Tooltip:
+		'''
+		Invoca un colocador de muros en tu cursor
+		Reconoce automáticamente habitaciones posibles y coloca muros de tu inventario
+		Las habitaciones reconocidas pueden tener hasta 10000 bloques de espacio
+		Considera bloques sólidos, plataformas y puertas como límites
+		Cada jugador solo puede invocar uno; úsalo de nuevo para recuperarlo
+		<right> para cambiar al modo de selección
+		'''
+}
+
+LiquidWand: {
+	DisplayName: Varita de Líquidos
+	Tooltip:
+		'''
+		Absorbe/Coloca el líquido elegido en un área seleccionada
+		<right> mientras la sostienes para abrir el panel de control de líquidos
+		Si hay demasiado líquido almacenado, el exceso se expulsará
+		Del mismo modo, no colocará ningún líquido si no hay líquido almacenado
+		'''
+}
+
+PotionBag: {
+	DisplayName: Bolsa de Pociones
+	Tooltip:
+		'''
+		Almacena tus pociones de mejora
+		[c/0099ff:<left>] mientras sostienes una poción para depositarla
+		[c/0099ff:<right>] para abrir la bolsa de pociones
+		{TooltipByKeybind}
+		Recoge automáticamente las pociones que recojas,
+		pero solo cuando esta Bolsa de Pociones es la primera del inventario
+		Puede almacenar hasta 200 pilas de pociones
+		'''
+	TooltipByKeybind: Pulsa [c/0099ff:{KeybindName}] para recoger pociones de los almacenes portátiles
+}
+
+BannerChest: {
+	DisplayName: Caja de Estandartes
+	Tooltip:
+		'''
+		Almacena tus estandartes
+		[c/0099ff:<left>] mientras sostienes un estandarte para depositarlo
+		[c/0099ff:<right>] para abrir la caja de estandartes
+		{TooltipByKeybind}
+		Recoge automáticamente los estandartes que recojas,
+		pero solo cuando esta Caja de Estandartes es la primera del inventario
+		Puede almacenar hasta 500 pilas de estandartes
+		'''
+	TooltipByKeybind: Pulsa [c/0099ff:{KeybindName}] para recoger estandartes de los almacenes portátiles
+}
+
+Autofisher: {
+	DisplayName: Máquina de Pesca
+	Tooltip:
+		'''
+		Haz clic en el "+" del panel para elegir un estanque. Coloca una caña de pesca y cebos para empezar a pescar
+		También puedes colocar accesorios para aumentar la potencia de pesca o permitir pescar en lava
+		El consumo de cebo es solo el 40% de la pesca manual
+		La velocidad de pesca inicial es el 30% de la pesca manual, pero se puede aumentar de distintas formas:
+		- Cada [i:Bass] Lubina almacenada proporciona un 5% de bonificación de velocidad de pesca, hasta un máximo del 500% ([i/s100:Bass])
+		- [i:AnglerEarring], [i:AnglerTackleBag] e [i:LavaproofTackleBag] pueden aumentar la velocidad de pesca un 200%, 250% y 300% respectivamente
+		- La velocidad de pesca aumenta un 200% en el Modo Difícil
+		- Velocidad final = Velocidad base * Suma de todas las bonificaciones. La velocidad máxima es el 300% de la pesca manual
+		[c/AAAAAA:Funciona con accesorios de mods, pero solo si ese mod tiene soporte de QoT]
+		'''
+	Tip: La Máquina de Pesca en [c/15d36a:{0}, {1}] no tiene cebo
+	DepthText: "{0} {1}"
+}
+
+PaintWand: {
+	DisplayName: Varita de Pintura
+	Tooltip:
+		'''
+		[c/0099ff:<right> para abrir el Panel de Modo de Pintura]
+		Selecciona un área para pintar/quitar la pintura de los bloques del área
+		También quita el musgo de los bloques al quitar la pintura, como el [i:PaintScraper]
+		La pintura en pilas superiores a 999 no se consumirá
+		'''
+}
+
+ConstructWand: {
+	DisplayName: Varita de Construcción
+	Tooltip:
+		'''
+		[c/0099ff:<right> para abrir el Panel de Construcción]
+		Puede colocar estructuras libremente; las estructuras se pueden guardar y colocar si hay material suficiente
+		No registrará/colocará líquidos. Los cables no se mostrarán en la vista previa, pero se registrarán y colocarán
+		Haz clic en 'Introducción' en la esquina superior derecha para más información
+		[c/AAAAAA:Por favor, reporta todos los errores en la página de Steam Workshop de este mod]
+		'''
+}
+
+MoveChest: {
+	DisplayName: Varita del Vacío
+	Tooltip:
+		'''
+		Úsala en un cofre para almacenarlo en esta varita
+		Úsala de nuevo para colocar el cofre
+		'''
+}
+
+CoinOne: {
+	DisplayName: Moneda de la Suerte
+	Tooltip:
+		'''
+		¡Eres una persona con suerte!
+		'Esto probablemente se venderá bien'
+		'''
+}
+
+ExtremeStorage: {
+	DisplayName: Gestor de Almacenamiento
+	Tooltip:
+		'''
+		[c/cc2200:Lee este manual si no sabes qué hacer:] 
+		Se usa para administrar objetos en cofres
+		Elige una categoría y luego haz clic en [i:ImproveGame/AddChestIconDummy] para añadir un cofre a esa categoría
+		La ordenación de cofres depende de identificadores con prefijo en los nombres de los cofres. [c/0088dd:¡Por favor, NO edites los nombres de los cofres después!]
+		Pon muebles y pociones en sus categorías, y todo lo demás en la categoría "Todo"
+		Todos los jugadores obtendrán efectos de [c/0099ff:Estaciones de Creación Portátiles] y [c/0099ff:Pociones Infinitas] almacenadas en las categorías correspondientes
+		[c/cc2200:Colocar varios Gestores de Almacenamiento en multijugador puede aumentar los paquetes enviados y ralentizar el juego] 
+		'''
+}
+
+GlobeBase: {
+	DisplayName: Localizador de {0}
+	Tooltip:
+		'''
+		Marca {0} en el mapa.
+		Puedes ocultar el marcador en [c/CC88AA:Configuración Personal]
+		'''
+	Tooltip_Multi:
+		'''
+		Marca el {0} más cercano en el mapa.
+		Puedes ocultar el marcador en [c/CC88AA:Configuración Personal]
+		'''
+	AlreadyRevealed: "{0} ya ha sido marcado"
+	Reveal: "{1} marcó {0} en el mapa."
+	NotFound: Los datos de {0} no están presentes; es probable que la versión más reciente de QoT no estuviera activada al crear el mundo.
+}
+
+DungeonGlobe.BiomeName: Mazmorra
+FloatingIslandGlobe.BiomeName: Isla flotante
+
+PyramidGlobe: {
+	BiomeName: Pirámide
+	NotFound: No hay ninguna Pirámide en este mundo.
+}
+
+TempleGlobe.BiomeName: Templo de la selva
+
+# NotFound在世界上没有花苞或花苞全部标记完了的情况下显示，附魔剑的文本亦是如此
+PlanteraGlobe: {
+	BiomeName: "{$NPCName.Plantera}"
+	NotFound: No se pudieron encontrar más {$MapObject.PlanterasBulb}
+	Reveal: "{0} marcó a {$NPCName.Plantera} en el mapa."
+}
+
+EnchantedSwordGlobe: {
+	BiomeName: "{$ItemName.EnchantedSword}"
+	NotFound: No se pudieron encontrar más Santuarios de Espada Encantada
+	Reveal: "{0} marcó {$ItemName.EnchantedSword} en el mapa."
+}
+
+# NotFound在大理石洞全部标记完了的情况下显示，花岗岩洞和蜂巢的文本亦是如此
+MarbleCaveGlobe: {
+	BiomeName: Cueva de mármol
+	NotFound: No se pudieron encontrar más Cuevas de mármol
+}
+
+GraniteCaveGlobe: {
+	BiomeName: Cueva de granito
+	NotFound: No se pudieron encontrar más Cuevas de granito
+}
+
+HiveGlobe: {
+	BiomeName: Colmena
+	NotFound: No se pudieron encontrar más colmenas
+}
+
+# NotFound在世界上没有足够的微光液体的情况下显示
+AetherGlobe: {
+	BiomeName: El Éter
+	NotFound: No se pudo encontrar ningún líquido de Fulgor
+	Reveal: "{0} marcó {ImproveGame.Mods.Items.AetherGlobe.BiomeName} en el mapa."
+}
+
+DetectorDrone: {
+	Tooltip:
+		'''
+		Vuela alto y bajo para explorar terrenos
+		Actualiza tu mapa explorado y emite luz para ver en la oscuridad
+		ADVERTENCIA: No te alejes demasiado o explotará
+		'''
+	DisplayName: Dron Explorador
+}
+
+DevMark: {
+	DisplayName: Marca del Desarrollador
+	Tooltip:
+		'''
+		[c/ff0000:Objeto de desarrollador]
+		Cuando está en el inventario, la Varita de Construcción no consumirá materiales (solo funciona en un jugador)
+		Abrir la Máquina de Pesca la llenará automáticamente con equipo de pesca
+		Se puede colocar en la ranura de accesorio de la Máquina de Pesca para aumentar significativamente su velocidad de pesca
+		'''
+}
+
+Expelliarmus: {
+	DisplayName: ¡Expelliarmus!
+	Tooltip:
+		'''
+		[c/ff0000:Objeto de depuración]
+		Saquea PNJs
+		Puede probar el botín de PNJs
+		'''
+}
+
+ShimmerTech: {
+	DisplayName: Fulgorímetro
+	Tooltip:
+		'''
+		[c/ff0000:Objeto de depuración]
+		Elimina las bonificaciones de fulgor de tu jugador
+		<right> en su lugar elimina las bonificaciones de fulgor del mundo
+		{$ItemName.AegisCrystal}
+		{$ItemName.ArcaneCrystal}
+		{$ItemName.AegisFruit}
+		{$ItemName.Ambrosia}
+		{$ItemName.GummyWorm}
+		{$ItemName.GalaxyPearl}
+		{$ItemName.CombatBookVolumeTwo}
+		{$ItemName.PeddlersSatchel}
+		'¡Oh Dios, puedo ver el infinito!'
+		'''
+}
+
+Dummy: {
+	DisplayName: Muñeco Espantapájaros
+	Tooltip:
+		'''
+		Se puede usar para probar el DPS
+		Clic izquierdo para invocar un Muñeco en el cursor
+		Clic derecho para eliminar el muñeco elegido
+		Alt + Clic derecho para eliminar todos los muñecos
+		También puedes usar comandos para modificar atributos:
+		 /dummy info → ver estadísticas del muñeco
+		 /help dummy → obtener el uso del muñeco
+		'No me hagas daño :)'
+		'''
+	ConfigUIOpenTip: Pulsa {0} para mostrar el panel de configuración al sostener el objeto
+	NoneKeyBind: <Ninguna>
+	CannotUse: Este objeto actualmente no funciona en multijugador.
+}
+
+StorageCommunicator: {
+	DisplayName: Telecom de Almacenamiento
+	Tooltip:
+		'''
+		Te permite abrir un Gestor de Almacenamiento de forma remota
+		<right> en cualquier Gestor de Almacenamiento para conectarte a él
+		Usa el objeto para abrir el Gestor de Almacenamiento conectado
+		'''
+	NotSet: Actualmente no conectado
+	SetTo: Conectado al Gestor de Almacenamiento en [{0}, {1}]
+	MissingStorage: Gestor de Almacenamiento no encontrado
+	Unlocated: No conectado a ningún Gestor de Almacenamiento, <right> un Gestor de Almacenamiento mientras sostienes este objeto para conectarlos
+}
+
+WeatherBook: {
+	DisplayName: Libro de Climas
+	Tooltip:
+		'''
+		Desbloquea el control del clima en el Panel de Control
+		Cambia la dirección del viento, la fase lunar y la lluvia,
+		así como la hora tras derrotar al Muro de Carne
+		'''
+}
+
+AddChestIconDummy: {
+	DisplayName: Icono Añadir Cofre Dummy
+	Tooltip: ""
+}
+
+SearchIcon: {
+	DisplayName: Receta no encontrada
+	Tooltip: Ninguna receta cumple las condiciones
+}
+
+BaitSupplier: {
+	DisplayName: Cámara de Cebo
+	Tooltip:
+		'''
+		Toma automáticamente cebo de cofres colocados cerca
+		para reabastecer todas las máquinas de pesca sin cebo del mundo
+		'''
+}
+
+UniversalAmmoIcon: {
+	DisplayName: Munición no especificada
+	Tooltip:
+		'''
+		[c/00ffff:No] [c/60ffff:especifica] el tipo de munición
+		Cuenta como la primera munición del inventario que el arma [c/00ffff:puede] [c/60ffff:usar]
+		'''
+}
+
+AmmoChainItem: {
+	DisplayName: Cadena de Munición
+	Tooltip:
+		'''
+		Almacena información de Cadena de Munición; se puede compartir con otros jugadores
+		Usa este objeto para guardar esa información en tu computadora
+		'''
+	FromPlayer: Del jugador: {0}
+	Added: Cadena de Munición añadida como: {0}
+}
+
+AddIconDummy: {
+	DisplayName: Icono Añadir Dummy
+	Tooltip: ""
+}
+
+OpenFolderDummy: {
+	DisplayName: Icono Abrir Carpeta Dummy
+	Tooltip: ""
+}
+
+CrimsonAltarItem: {
+	DisplayName: Altar carmesí
+	Tooltip: ""
+}
+
+DemonAltarItem: {
+	DisplayName: Altar demoníaco
+	Tooltip: ""
+}
+
+LicenseBook: {
+	DisplayName: Licencia
+	Tooltip: Úsalo para ver la licencia y las referencias de QoT.
+}
+
+LiquidWandAdvanced: {
+	DisplayName: Varita de Líquidos Definitiva
+	Tooltip:
+		'''
+		Absorbe/Coloca el líquido elegido en un área seleccionada
+		<right> mientras la sostienes para abrir el panel de control de líquidos
+		Puede absorber/colocar una cantidad ilimitada de líquidos
+		'''
+}
+
+WallPlaceSelectorMode: {
+	DisplayName: Varita de Tecnología (Seleccionando)
+	Tooltip:
+		'''
+		Coloca muros del inventario en un área seleccionada
+		<right> para cambiar al modo de colocación
+		'''
+}
+
+ActuationRodMkII: {
+	DisplayName: Varita de Actuación Definitiva
+	Tooltip:
+		'''
+		Activa bloques en un área seleccionada
+		No necesita actuadores colocados
+		'''
+}
+
+ShellShipInBottle: {
+	DisplayName: Barco de Concha en una Botella
+	Tooltip:
+		'''
+		Pregunta al Guía cómo fabricarlo con una Caracola
+		¡Luego tíralo al Fulgor y mira qué pasa!
+		'''
+}
+
+ShellShipInBottle_Shimmered: {
+	DisplayName: Barco en una Botella Fulgurado
+	Tooltip: Desbloquea el Fulgor Rápido en el Panel de Control
+}
+
+ShimmerBucket: {
+	DisplayName: Cubo de Fulgor
+	Tooltip:
+		'''
+		Contiene una pequeña cantidad de fulgor
+		Se puede verter
+		'''
+}

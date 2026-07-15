@@ -1,0 +1,175 @@
+NoTooltip: Aún no hay descripción...
+Name: Centro de Configuración
+Name_ModConfig: Centro de Configuración Autogenerado (Prueba Beta)
+ButtonApply: Aplicar preajuste
+ButtonInfo: Más información
+ButtonDelete: Eliminar preajuste
+ButtonRename: Renombrar
+ReadOnlyTip: Solo puedes ver el valor de esta opción.
+ColorCopiedPopup: ¡Hex copiado!
+ColorPastedPopup: ¡Hex pegado!
+ColorButtonTip: Clic izquierdo en el bloque de color para copiar el código hexadecimal. Clic derecho en el bloque de color para pegar.
+ModdedExtraText: Editando la configuración de {0}. Esta página es proporcionada por Quality of Terraria.
+CollectionsTip: Puedes ajustar el tamaño de visualización arrastrando la parte inferior del área de vista, y los elementos de Lista o Array se pueden reordenar arrastrando su mitad superior.
+CustomItemTip:
+	'''
+	Se detectó que esta opción tiene su propia interfaz
+	Clic izquierdo para ir a la UI de configuración vanilla de tModLoader
+	'''
+NotSupportText:
+	'''
+	Propiedad o campo {0}({1})
+	El tipo {2} aún no es compatible. Clic izquierdo para ir a la UI de configuración vanilla de tModLoader y editarlo.
+	'''
+
+AboutPage: {
+	Label: Acerca de
+	Tooltip: Acerca del nuevo centro de configuración.
+	About:
+		'''
+		Este es [c/0099ff:el nuevo centro de configuración] de Quality of Terraria, aquí encontrarás todas las funciones. Únete a nuestro servidor de Discord para enviar comentarios. Está totalmente bien usar el menú clásico de configuración de mods de tModLoader.
+
+		A la izquierda están las [c/0099ff:categorías] según su función; haz clic en ellas para ver sus entradas.
+		En la parte inferior está la [c/0099ff:descripción]; pasa el cursor sobre una entrada para ver su descripción.
+
+		[c/0099ff:Clic derecho] en una entrada para [c/0099ff:restablecerla al valor predeterminado].
+		'''
+	LinkGitHub: GitHub: https://github.com/487666123/ImproveGame (¡clicable!)
+	LinkDiscord: Discord: https://discord.gg/rEmGMQv5z7 (¡clicable!)
+	LinkQQ: Oculto, solo relevante para chino
+}
+
+AboutPage_ModConfig: {
+	Label: Acerca de
+	Tooltip: Acerca del [c/ff0000:autogenerado] [c/0099ff:centro de configuración al estilo Quality of Terraria] para mods.
+	About:
+		'''
+		El centro de configuración se genera automáticamente por reflexión de [c/0099ff:Quality of Terraria], sirviendo como un reemplazo mejorado de la UI de configuración vanilla de tModLoader.
+
+		Algunas entradas especiales pueden no ser compatibles, pero puedes hacer clic para acceder a la interfaz de configuración de tModLoader.
+
+		Reporta fallos/problemas de este [c/ff0000:centro de configuración] a través de nuestro [c/7289da:servidor de Discord]. Los comentarios en la página de Steam Workshop no se revisan.
+
+		Consulta el [c/0099ff:Centro de Configuración de Quality of Terraria] para más información.
+
+		Esta función fue creada por [c/9966cc:LogSpiral] y [c/9966cc:Cyril] del equipo de Quality of Terraria.
+
+		Los modders que implementen soporte cruzado entre mods deben consultar la documentación de ModCall en el archivo README.md de nuestro repositorio de GitHub.
+		'''
+	FumoText: Por último, aquí hay un [c/0099ff:adorable fumo de Komeiji Koishi] porque a LogSpiral le gusta.
+}
+
+SingleConfigCategory.Tooltip: Este centro de configuración es autogenerado por Quality of Terraria. Si ocurre algún problema, cambia temporalmente a la interfaz de configuración de tModLoader.
+
+Presets: {
+	Label: Preajustes
+	Tooltip: Hay preajustes de Quality of Terraria para configurar en lote. También puedes crear tus propios preajustes
+	PlayerPresetTooltip: Un preajuste definido por el jugador
+	DefaultPresetName: Mi preajuste
+
+	ExplorerPreset: {
+		Label: "[centeritem:GravityGlobe] Explorador"
+		Tooltip: Ideal para partidas al estilo vanilla. Explora enfrentando desafíos típicos con asistencia moderada. Puede funcionar bien con mods como Thorium o Spirit
+		Link: https://github.com/487666123/ImproveGame/wiki/Config-Preset#explorer
+	}
+
+	WarriorPreset: {
+		Label: "[centeritem:EmpressBlade] Combatiente"
+		Tooltip: ¡Deja de picar y empieza a pelear! Omite la mayor parte del farmeo. Puede funcionar bien con mods como Calamity o Fargo's Souls
+		Link: https://github.com/487666123/ImproveGame/wiki/Config-Preset#fighter
+	}
+
+	VanillaPreset: {
+		Label: "[centeritem:MusicBoxCredits] Fan de Vanilla"
+		Tooltip: Como en vanilla. Juega con pocas funciones de calidad de vida
+		Link: https://github.com/487666123/ImproveGame/wiki/Config-Preset#vanilla-enjoyer
+	}
+
+	AddPreset: {
+		Label: "[centeritem:ImproveGame/AddIconDummy] Guardar como preajuste"
+		Tooltip: Guarda la configuración actual como un preajuste
+		Link: https://github.com/487666123/ImproveGame/wiki/Config-Preset#adding-a-preset
+	}
+
+	OpenFolder: {
+		Label: "[centeritem:ImproveGame/OpenFolderDummy] Abrir carpeta de preajustes"
+		Tooltip: Abre la carpeta de preajustes
+	}
+}
+
+Favorites: {
+	Label: Entradas favoritas
+	Tooltip: <right> en una entrada para marcarla como favorita. Las entradas favoritas aparecerán aquí
+}
+
+Everything: {
+	Label: Todo
+	Tooltip: Todas las funciones configurables. Seguramente te resulte útil buscar
+}
+
+GameMechanics: {
+	Label: Mecánicas del juego
+	Tooltip: Edita mecánicas del juego, p. ej. aparición de lápidas y velocidad de reaparición
+}
+
+PylonMechanics: {
+	Label: Mecánicas de pilones
+	Tooltip: Elimina varias limitaciones de los pilones
+}
+
+NpcSettings: {
+	Label: PNJs amistosos
+	Tooltip: Edita el comportamiento de PNJs amistosos, p. ej. vivienda y felicidad
+}
+
+EnemySettings: {
+	Label: Enemigos
+	Tooltip: Edita el comportamiento de enemigos, p. ej. Slime de lava sin lava y tasa de monedas
+}
+
+PlayerAbility: {
+	Label: Habilidades del jugador
+	Tooltip: Mejora las habilidades del jugador, p. ej. alcance de colocación, reaparición con vida completa, mantener mejoras al morir y excavación de minerales
+}
+
+Multiplayer: {
+	Label: Multijugador
+	Tooltip: Mejora la experiencia multijugador, p. ej. unirse automáticamente a equipos y teletransporte ilimitado
+}
+
+PlantSettings: {
+	Label: Plantas
+	Tooltip: Edita el comportamiento de las plantas, p. ej. velocidad de crecimiento de hierbas, altura de árboles y drops de árboles de gemas
+}
+
+ItemSettings: {
+	Label: Objetos
+	Tooltip: Edita el comportamiento de objetos, lo que puede ahorrar farmeo, p. ej. munición/pociones infinitas y estaciones de mejora desde el inventario
+}
+
+ModItemSettings: {
+	Label: Objetos del mod
+	Tooltip: Aquí puedes modificar algunos ajustes de los objetos de Quality of Terraria y decidir si algunos objetos son obtenibles.
+}
+
+VisualAndInterface: {
+	Label: Visuales
+	Tooltip: Edita visuales de vanilla y QoT, ajusta las interfaces de usuario de QoT
+}
+
+ModFeatures: {
+	Label: Otros
+	Tooltip: Edita otras funciones, p. ej. Cadena de Munición, auto-basura y Mochila Grande
+}
+
+Minimap: {
+	Label: Mapa
+	Tooltip: Edita funciones del mapa, p. ej. Localizadores
+}
+
+Keybinds: {
+	Label: Controles
+	Tooltip: Administra teclas rápidas, <right> en una entrada para restablecerla al valor predeterminado
+	# 快捷键会在Tooltip显示其默认绑定的键位
+	Default: Predeterminado: {0}
+}

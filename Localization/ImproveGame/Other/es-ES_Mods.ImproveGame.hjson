@@ -1,0 +1,569 @@
+ModName: Quality of Terraria
+Search: Buscar...
+PathIllegal: El nombre del archivo no debe incluir los siguientes caracteres: \, /, :, *, ?, ", <, > o |
+FolderNameEmpty: El nombre de la carpeta no puede estar vacío
+
+Tiles: {
+	Autofisher.MapEntry: "{$Mods.ImproveGame.Items.Autofisher.DisplayName}"
+	ExtremeStorage.MapEntry: "{$Mods.ImproveGame.Items.ExtremeStorage.DisplayName}"
+	BaitSupplier.MapEntry: Cámara de Cebo
+	FakeAltar.MapEntry: Altar falso
+}
+
+ItemDropRule: {
+	DropWhenEnabled: Se obtiene cuando '{0}' está activado
+	DropCoinOne: Se obtiene cuando 'Multiplicador de monedas de enemigos' está al máximo y '{$Mods.ImproveGame.Conditions.AvailableCoinOne}' está activado
+	WandDrop: No se obtiene si el jugador ya tiene uno en el inventario
+}
+
+Conditions: {
+	AvailableAutofisher: "{$Mods.ImproveGame.Items.Autofisher.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableActuationRodMkII: "{$Mods.ImproveGame.Items.ActuationRodMkII.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableBaitSupplier: "{$Mods.ImproveGame.Items.BaitSupplier.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableExtremeStorage: "{$Mods.ImproveGame.Items.ExtremeStorage.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableLiquidWand: "{$Mods.ImproveGame.Items.LiquidWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	NotAvailableLiquidWand: "{$Mods.ImproveGame.Items.LiquidWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Unavailable}"
+	AvailableLiquidWandAdvanced: "{$Mods.ImproveGame.Items.LiquidWandAdvanced.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableMagickWand: "{$Mods.ImproveGame.Items.MagickWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	NotAvailableMagickWand: "{$Mods.ImproveGame.Items.MagickWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Unavailable}"
+	AvailableStarburstWand: "{$Mods.ImproveGame.Items.StarburstWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailablePotionBag: "{$Mods.ImproveGame.Items.PotionBag.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableSpaceWand: "{$Mods.ImproveGame.Items.SpaceWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableWallPlace: "{$Mods.ImproveGame.Items.WallPlace.PureName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailablePaintWand: "{$Mods.ImproveGame.Items.PaintWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableBannerChest: "{$Mods.ImproveGame.Items.BannerChest.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableConstructWand: "{$Mods.ImproveGame.Items.ConstructWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableCreateWand: "{$Mods.ImproveGame.Items.CreateWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableDetectorDrone: "{$Mods.ImproveGame.Items.DetectorDrone.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableMoveChest: "{$Mods.ImproveGame.Items.MoveChest.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	AvailableCoinOne: "{$Mods.ImproveGame.Items.CoinOne.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+	EnableQuickShimmer: "{$Mods.ImproveGame.UI.QuickShimmer.Title}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Enable}"
+	EnableMinimapMark: Marcadores de estructuras{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Enable}
+	EnableWeatherControl: "{$Mods.ImproveGame.UI.WeatherGUI.Title}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Enable}"
+}
+
+CombatText: {
+	Item: {
+		CreateWand_NotEnough: ¡Faltan materiales!
+		SpaceWand_Cancel: ¡Cancelado!
+		SpaceWand_Lack: ¡No hay suficientes plataformas!
+		WallPlace_Limit: ¡Esta área es demasiado grande!
+		WallPlace_Consume: "Consumo esperado: "
+		WallPlace_Kill: ¡Colocación detenida!
+	}
+
+	Projectile.PlaceWall_Lack: Colocación detenida por falta de muros
+	Commonds.ResurrectionTimeShortened: ¡{Time}s menos de tiempo de reaparición!
+}
+
+AutoSummon: {
+	Set: Objeto de reinvocación automática establecido en {0}
+	Summoned: Invocado {0} veces usando {1}
+}
+
+QuickHome: {
+	Teleported: Regresado usando {0}
+	NoItem: No tienes ningún objeto de regreso
+}
+
+Tips: {
+	AmmoChainDisabled: Cadena de Munición desactivada
+	AmmoChain: "[centeritem:ImproveGame/AmmoChainItem]Cadena de Munición: "
+	AmmoInfo: Tipo de munición: [i:{0}] {1}
+	UseAmmoInfo: Tipo de munición usada: [i:{0}] {1}
+	ShimmerInto: "Se puede fulgurar en "
+	ShimmerIntoWithStack: "Cada {0} se puede fulgurar en "
+	ShimmerIntoWithCoinLuck: Se puede fulgurar en {0} de 'suerte de monedas'
+	PrefixCount: "Cantidad de reforjas: "
+	AnglerQuest: Misión del Pescador actualizada
+	FromMod: Del mod {DisplayName}
+	LootDisplay: Pulsa {KeybindName} para ver el botín detallado del objeto
+	LootDisplayBindless: (No has asignado una tecla para esta función; hazlo en Controles)
+	Refreshing: Actualizando
+	Refresh: Actualizar tienda
+	SummonSlot: Ocupación de ranuras de esbirros: [c/22CC22:{Current}/{Total}]
+	SummonSlotFull: Ocupación de ranuras de esbirros: [c/CC2222:{Current}/{Total} (¡Lleno!)]
+	BuffTrackerOn: <left> para abrir el rastreador de mejoras
+	BuffTrackerOff: <left> para cerrar el rastreador de mejoras
+	HideMyBuffs: Para ocultar las mejoras infinitas, actívalo en 'Configuración Personal'
+	BankEnableOn: Pulsa {KeybindName} para abrir el inventario personal
+	BankEnableOff: Pulsa {KeybindName} para cerrar el inventario personal
+	MouseMiddleOpen: Pulsa {KeybindName} para abrir {ItemName}
+	MouseMiddleClose: Pulsa {KeybindName} para cerrar {ItemName}
+	MouseMiddleUse: Pulsa {KeybindName} para usar {ItemName}
+	CreateWandOn: Pulsa {KeybindName} para abrir el Panel de Materiales de Casa
+	CreateWandOff: Pulsa {KeybindName} para cerrar el Panel de Materiales de Casa
+	LiquidWandOn: Pulsa {KeybindName} para abrir el Panel de Control de Líquidos
+	LiquidWandOff: Pulsa {KeybindName} para cerrar el Panel de Control de Líquidos
+	PotionBagCurrent: Contiene las siguientes pociones ({StoredCount}/200):
+	PotionBagCurrentFull: Contiene las siguientes pociones (¡Lleno!):
+	PotionBagNone: Vacío (0/200)
+	PotionBagAvailable: (Activa)
+	PotionBagUnavailable: (Inactiva)
+	PotionBagDisabled: (Desactivada)
+	BannerChestCurrent: Estandartes almacenados ({StoredCount}/500):
+	BannerChestCurrentFull: Estandartes almacenados (¡Lleno!):
+	BannerChestNone: Vacío (0/500)
+	BannerChestUseless: Estandartes Portátiles no está activado; los estandartes dentro no funcionarán
+	Tag.ShiftEnable: "[Mantén [c/88CCEE:Shift] para más información]"
+
+	TagDetailed: {
+		OwnedInfineBuff: "[Mejora infinita obtenida {Count}/{Threshold}]"
+		NotOwnedInfineBuff: "[Mejora infinita no obtenida {Count}/{Threshold}]"
+		RedPotion: "[Poción Roja]"
+		GardenGnome: "[Gnomo de jardín]"
+		Enabled: "[Activado]"
+		Disabled: "[Desactivado]"
+		Hided: "[Iconos de mejora ocultos]"
+		NonHided: "[Iconos de mejora visibles]"
+		CombinedBuff: "[Hay una combinación de mejoras disponible]"
+		AutoCollect: "[Depósito automático]"
+		CreateWand: "[Personalizar]"
+	}
+
+	TagDetailedTip: {
+		RedPotion:
+			'''
+			La Extensión de Poción Roja está activada; se otorgan las siguientes mejoras infinitas:
+			{$BuffName.ObsidianSkin}, {$BuffName.Regeneration}, {$BuffName.Swiftness}, {$BuffName.Ironskin},
+			{$BuffName.ManaRegeneration}, {$BuffName.MagicPower}, {$BuffName.Featherfall}, {$BuffName.Spelunker},
+			{$BuffName.Archery}, {$BuffName.Heartreach}, {$BuffName.Hunter}, {$BuffName.Endurance}, {$BuffName.Lifeforce}, {$BuffName.Inferno},
+			{$BuffName.Mining}, {$BuffName.Rage}, {$BuffName.Wrath}, {$BuffName.Dangersense}.
+			'''
+		GardenGnome:
+			'''
+			Se ha aplicado la bonificación de suerte del Gnomo de jardín
+			No puedes desactivar este efecto porque no es una 'mejora'
+			'''
+		Enabled:
+			'''
+			La mejora [c/88CCEE:[{BuffName}][c/88CCEE:]] ya está aplicada.
+			Si solo quieres desactivar la mejora de este objeto,
+			pulsa {KeybindName} sobre el objeto o haz clic izquierdo en el icono de la mejora
+			para abrir el rastreador de mejoras y activar/desactivar esa mejora.
+			'''
+		Disabled:
+			'''
+			La mejora del objeto [c/88CCEE:[{BuffName}][c/88CCEE:]] ha sido desactivada
+			por la configuración.
+			Pulsa {KeybindName} sobre el objeto o haz clic izquierdo en el icono de la mejora
+			para abrir el rastreador de mejoras y activar/desactivar esa mejora.
+			'''
+		Hided:
+			'''
+			Los iconos de mejora se han ocultado.
+			Para mostrarlos, configúralo en [c/CC88AA:Configuración Personal].
+			'''
+		NonHided:
+			'''
+			Cambia la [c/CC88AA:Configuración Personal] del mod para ocultar
+			los iconos de mejora infinita si lo deseas.
+			'''
+		AutoCollect:
+			'''
+			Debes poner alguna moneda en la Hucha para
+			activar esta función.
+			Tus monedas en las ranuras de monedas se guardarán
+			automáticamente en la Hucha.
+			Esta función se puede alternar en la esquina superior
+			izquierda del inventario.
+			La condición de aparición del Mercader cuenta
+			las monedas en la Hucha.
+			'''
+		CombinedBuff.Battle:
+			'''
+			[c/88CCEE:Combinación de mejoras: ][i:CalmingPotion][i:Sunflower][i:PeaceCandle][i:WaterCandle][i:BattlePotion]
+			Cuando tengas todos los objetos de mejora infinita
+			anteriores, aparecerá un control deslizante de tasa
+			de aparición a la derecha del Rastreador de Mejoras,
+			permitiéndote multiplicar la tasa de aparición de x0 a x{MaxSpawn}
+			'''
+		CreateWand:
+			'''
+			Puedes importar estilos de edificio mediante Datamap o archivo de estructura de la Varita de Construcción en el Controlador de Varita de Arquitectura
+			Los archivos en [c/88CCEE:"Document/My Games/Terraria/tModLoader]
+			[c/88CCEE:/Mods/ImproveGame/CreateWand"]
+			se importarán automáticamente
+
+			En Datamap:
+			Canal B de FF significa que hay muro, 00 significa sin muro.
+			Canal A de FF significa dirección izquierda, 7F significa dirección derecha
+			Tabla de bloques del canal RG:
+			| Color |    Hex   |        Tile        |
+			| ------- | ---------- | ------------------- |
+			|   [c/000000:■]   |   0000  |      Empty       |
+			|   [c/003F00:■]   |   003F  |     SolidTile     |
+			|   [c/007F00:■]   |   007F  |     Platform     |
+			|   [c/00BF00:■]   |   00BF  |    Workbench  |
+			|   [c/00FF00:■]   |   00FF  |      Table        |
+			|   [c/3F0000:■]   |   3F00  |      Chair        |
+			|   [c/3F3F00:■]   |   3F3F  |       Door       |
+			|   [c/3F7F00:■]   |   3F7F  |      Chest       |
+			|   [c/3FBF00:■]   |   3FBF  |       Bed         |
+			|   [c/3FFF00:■]   |   3FFF  |    Bookcase    |
+			|   [c/7F0000:■]   |   7F00  |     Bathtub      |
+			|   [c/7F3F00:■]   |   7F3F  |   Candelabra   |
+			|   [c/7F7F00:■]   |   7F7F  |     Candle       |
+			|   [c/7FBF00:■]   |   7FBF  |    Chandler     |
+			|   [c/7FFF00:■]   |   7FFF  |      Clock        |
+			|   [c/BF0000:■]   |   BF00  |     Dresser      |
+			|   [c/BF3F00:■]   |   BF3F  |      Lamp        |
+			|   [c/BF7F00:■]   |   BF7F  |     Lantern      |
+			|   [c/BFBF00:■]   |   BFBF  |      Piano       |
+			|   [c/BFFF00:■]   |   BFFF  |      Sink         |
+			|   [c/FF0000:■]   |   FF00  |      Sofa         |
+			|   [c/FF3F00:■]   |   FF3F  |      Toilet        |
+			|   [c/FF7F00:■]   |   FF7F  |      Torch       |
+			|   [c/FFBF00:■]   |   FFBF  |    Campfire     |
+			'''
+	}
+}
+
+ConstructGUI: {
+	Structure: Estructura de QoT
+	# 这个是存储后的文件名
+	SavedAs: "La estructura se ha guardado como "
+	# 后接文件名
+	SaveMode: Modo Cuentagotas
+	LoadMode: Modo Colocación
+	ExplodeAndPlace: Destruir y luego colocar
+	PlaceOnly: Colocar
+	Path: "Ruta del archivo: "
+	# 执行操作时，显示在玩家脚下
+	Saving: Guardando
+	Saved: Guardado
+	Placing: Colocando
+	Placed: Colocado
+	Stopped: Detenido
+
+	RenameTip: {
+		Exists: Ya existe un archivo con el mismo nombre
+		TooLong: El nombre del archivo no debe superar los 40 caracteres
+	}
+
+	FileInfo: {
+		Title: Info del archivo
+		Name: Nombre del archivo: {Name}
+		Time: Hora de guardado: {Time}
+		Version: Versión: {Version}
+		Size: Tamaño de la estructura: {Size}
+
+		ModMissing: {
+			Count: "2"
+			1: Esta estructura contiene bloques o muros de mods no cargados
+			2: Puede haber errores al colocar
+		}
+
+		LoadError: El archivo no es legal o no es un archivo de estructura
+	}
+
+	MaterialInfo: {
+		Title: Info de materiales
+		Tip: Los materiales almacenados en la Mochila Grande también cuentan
+		Stored: Tiene: {Stack}
+		Requirement: Necesita: {Stack}
+	}
+
+	Preview: {
+		Title: Vista previa de estructura
+		CenterSet: Haz clic para establecerlo como centro de colocación
+	}
+
+	Tutorial: {
+		Button: Introducción
+
+		AlphaTest: {
+			Count: "3"
+			1: Por favor, reporta errores en la página de Steam Workshop de este mod
+			2: El soporte de bloques y muros de mods no está garantizado,
+			3: y no debe considerarse un error
+		}
+
+		Save: {
+			Title: "{$Mods.ImproveGame.ConstructGUI.SaveMode}"
+			Text:
+				'''
+				El tercer botón en la esquina superior izquierda del panel puede cambiar el modo a Modo Cuentagotas o Modo Colocación
+
+				En el Modo Cuentagotas, puedes mantener el clic izquierdo y arrastrar para seleccionar estructuras
+				y luego guardarlas en tu PC como archivos para colocarlas incluso en mundos y servidores distintos
+				    
+				La imagen de abajo muestra cómo seleccionar y guardar estructuras:
+				'''
+		}
+
+		Place: {
+			Title: "{$Mods.ImproveGame.ConstructGUI.LoadMode}"
+			Text:
+				'''
+				En el Modo Colocación, debes elegir una estructura en el panel principal; una estructura está seleccionada si su nombre está en amarillo
+				    
+				Si los materiales de tu inventario o la Mochila Grande son suficientes, haz clic izquierdo para colocar la estructura
+				La dirección de ciertos bloques puede ser incorrecta
+				    
+				Aquí hay un ejemplo de colocación de estructuras: 
+				'''
+		}
+
+		Explode: {
+			Title: Destruir y luego colocar
+			Text: Si eliges 'Destruir y luego colocar', el área donde se colocará la estructura se limpiará para tener suficiente espacio
+		}
+
+		Panel: {
+			Title: Lista de estructuras
+			Text:
+				'''
+				El panel principal muestra los archivos de estructura de tu PC, incluyendo nombre y ruta
+				    
+				Si eliminas accidentalmente una estructura en Windows, puedes restaurarla desde la Papelera de reciclaje
+
+				Haz clic en el botón '{$tModLoader.ModsMoreInfo}' a la derecha para ver información detallada y la vista previa; el centro de colocación se puede ajustar en la vista previa
+				'''
+		}
+
+		Materials: {
+			Title: "{$Mods.ImproveGame.ConstructGUI.MaterialInfo.Title}"
+			Text: Puedes ver los materiales necesarios y almacenados en Info de materiales
+		}
+
+		Preview: {
+			Title: "{$Mods.ImproveGame.ConstructGUI.Preview.Title}"
+			Text: La vista previa de la estructura también muestra el centro de colocación (el cuadro amarillo), que es la posición del cursor al colocar.
+		}
+	}
+}
+
+SuperVault: {
+	Name: Mochila Grande
+	Sort: Ordenar
+	Synthesis: Usar en creación
+	SmartPickup: Recogida inteligente
+	OverflowPickup: Recogida automática
+}
+
+MoveChest.Heavy: El peso del cofre limita tu movilidad
+
+BuffController: {
+	LeftClick: {
+		Enable: "[c/CC88AA:<left>] para activar esta mejora"
+		Disable: "[c/CC88AA:<left>] para desactivar esta mejora"
+	}
+
+	RightClick: {
+		Enable: "[c/CC88AA:<right>] para marcar como favorito"
+		Disable: "[c/CC88AA:<right>] para quitar de favoritos"
+	}
+}
+
+BuffTracker: {
+	Title: Rastreador de Mejoras
+	NoInfBuff: Actualmente no hay mejora infinita disponible
+	NoInfBuffAlt: Activa las Pociones Infinitas en la configuración del mod
+	NPCSpawnRatePanel: Panel de tasa de aparición de enemigos
+}
+
+LifeAnalyzer: {
+	Priority: "Prioridad: "
+	Tip: <left> para controlar la detección
+}
+
+Architecture: {
+	Materials: Materiales de casa
+	StoredMaterials: (Total: {MaterialCountTotal}, Almacenados: {MaterialCountWand}, Inventario: {MaterialCountInventory})
+	MaterialsRequired: "Materiales necesarios: "
+	Block: Bloque
+	Platform: Plataforma
+	Torch: Antorcha
+	Chair: Silla
+	Table: Mesa
+	Workbench: Banco de trabajo
+	Wall: Muro
+	Bed: Cama
+	Door: Puerta
+	Chest: Cofre
+	Bookcase: Librería
+	Bathtub: Bañera
+	Candelabra: Candelabro
+	Candle: Vela
+	Chandelier: Lámpara de araña
+	Clock: Reloj
+	Dresser: Cómoda
+	Lamp: Lámpara
+	Lantern: Farol
+	Piano: Piano
+	Sink: Fregadero
+	Sofa: Sofá
+	Toilet: Inodoro
+	Campfire: Hoguera
+}
+
+PaintWandGUI: {
+	Paintbrush: Pintar bloques
+	PaintRoller: Pintar muros
+	PaintScraper: Quitar pintura
+}
+
+SpaceWandGUI: {
+	PlaceType: Objeto
+	Platform: Plataformas
+	Soild: Bloques sólidos
+	Rope: Cuerdas
+	Rail: Vías de vagoneta
+	GrassSeed: Semillas de hierba
+	PlantPot: Jardineras
+	BlockType: Inclinación
+	ShapeType: Forma
+}
+
+PackageGUI: {
+	AutoStorage: Recolección automática
+	AutoSort: Ordenación automática
+	Synthesis: Usar en creación
+	Incompatible: El objeto no se puede contener en este inventario.
+}
+
+Common: {
+	Loading: Cargando...
+	Refresh: Actualizar
+	Switch: Cambiar
+	Unavailable: No disponible
+	Cancel: Cancelar
+}
+
+RecipeGroup: {
+	AnyCopperBar: Cualquier lingote de cobre
+	AnyGoldBar: Cualquier lingote de oro
+	AnySilverBar: Cualquier lingote de plata
+	AnyDemoniteBar: Cualquier lingote de demonita
+	AnyShadowScale: Cualquier escama de las sombras
+	AnyCobaltBar: Cualquier lingote de cobalto
+	AnyMythrilBar: Cualquier lingote de mithril
+	AnyAdamantiteBar: Cualquier lingote de adamantita
+	AnyGem: Cualquier gema
+}
+
+Keybinds: {
+	HugeInventory: {
+		DisplayName: Mochila Grande
+		Tip: Abre la Mochila Grande; también se puede abrir desde el Panel de Control
+	}
+
+	BuffTracker: {
+		DisplayName: Rastreador de Mejoras
+		Tip: Hacer clic en un icono de mejora ya no abrirá el Rastreador de Mejoras si se asigna la tecla
+	}
+
+	GrabBagLoot: {
+		DisplayName: Botín de bolsas
+		Tip: Muestra el botín y las tasas de drop de la bolsa sobre la que está el cursor
+	}
+
+	HotbarSwitch: {
+		DisplayName: Intercambiar barra rápida
+		Tip: Intercambia los objetos de la primera fila con la segunda del inventario
+	}
+
+	AutoTrashKeybind: {
+		DisplayName: Ocultar/Mostrar la auto-basura
+		Tip: Solo oculta la papelera, no la desactiva. Para desactivarla, usa la configuración "Otros"
+	}
+
+	DiscordRodKeybind: {
+		DisplayName: Usar varitas de teletransporte
+		Tip: Usa la Varita de la Discordia/Armonía de tu inventario
+	}
+
+	HomeKeybind: {
+		DisplayName: Usar objetos de regreso
+		Tip:
+			'''
+			Usa objetos de regreso a casa de tu inventario (Poción de regreso > Poción de recuerdo > Espejo mágico)
+			Las pociones solo se pueden usar si "Poción Infinita" está activada y se alcanza la cantidad requerida
+			'''
+	}
+
+	OpenBagGUI: {
+		DisplayName: Abridor de Bolsas
+		Tip: Abre el Abridor de Bolsas; también se puede abrir desde el Panel de Control
+	}
+
+	MasterControl: {
+		DisplayName: Panel de Control
+		Tip:
+			'''
+			Da acceso al Panel de Control de Quality of Terraria
+			DEBES asignar una tecla para acceder al panel
+			'''
+	}
+
+	ItemInteract: {
+		DisplayName: Interacciones especiales
+		Tip: Interactúa con algunos objetos, p. ej. monturas y Hucha
+	}
+
+	CopyItemName: {
+		DisplayName: "[DEBUG] Copiar nombre del objeto"
+		Tip: Cuando hay un objeto bajo el cursor, pulsa esta tecla para copiar su nombre interno.
+	}
+
+	CopyItemName_Control: {
+		DisplayName: "[DEBUG] Interruptor de copia de nombre"
+		Tip: Pulsa esta tecla junto con "{$Mods.ImproveGame.Keybinds.CopyItemName.DisplayName}" para copiar el nombre interno completo
+	}
+
+	QuickShimmerGUI: {
+		DisplayName: "{$Mods.ImproveGame.UI.QuickShimmer.Title}"
+		Tip: Abre la interfaz de Fulgor Rápido; también se puede abrir desde el Panel de Control
+	}
+
+	ExtremeStorageSearch: {
+		DisplayName: Buscar en el Gestor de Almacenamiento
+		Tip: Cuando el Gestor de Almacenamiento está abierto, pasa el cursor sobre cualquier objeto y pulsa esta tecla para buscarlo.
+	}
+}
+
+Projectiles: {
+	KillProj.DisplayName: Kill Proj
+	WallRobot.DisplayName: Robot de Muros
+	ExpelliarmusProj.DisplayName: ¡Expelliarmus!
+
+	DetectorDroneProj: {
+		DisplayName: Dron Explorador
+		TooFarAway: El Dron Explorador está demasiado lejos de ti.
+	}
+
+	HomeEffect.DisplayName: Efecto de Hogar
+	GlobeEffect.DisplayName: Efecto de Localizador
+}
+
+BuilderToggles: {
+	PiggyToggle: {
+		OffText: Depósito automático: Desactivado
+		VanillaOnText: Depósito automático: Solo monedas
+		AllOnText: Depósito automático: Monedas filtradas
+		RightFilter: Clic derecho para abrir el filtro de monedas
+	}
+}
+
+FakeShops: {
+	Wand: {
+		Label: Tienda de Varitas
+		Wand: Tienda de Varitas
+		Disable: Ninguna
+	}
+
+	Locator: {
+		Label: Tienda de Localizadores
+		Locator: Tienda de Localizadores
+		Disable: Ninguna
+	}
+
+	Other: {
+		Label: Tienda miscelánea
+		Other: Tienda miscelánea
+		Disable: Ninguna
+	}
+}
+
+NPCs.DummyNPC.DisplayName: Muñeco Espantapájaros

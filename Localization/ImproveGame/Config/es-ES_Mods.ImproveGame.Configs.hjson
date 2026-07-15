@@ -1,0 +1,1382 @@
+ImproveConfigs: {
+	DisplayName: Configuración Principal
+
+	ILoveBalance: {
+		Label: AMO el equilibrio
+		Tooltip:
+			'''
+			Si quieres una experiencia de juego más basada en vanilla, este preajuste será tu mejor opción
+			En este preajuste, mantendrás las mejoras al morir en lugar de tener mejoras infinitas
+			La mayoría de las funciones se ajustan a un nivel relativamente equilibrado
+			para que tengas un juego decente disfrutando de una dificultad similar a vanilla
+			(Usa los objetos de este mod a tu criterio, ya que algunos pueden ser IMBA)
+			(Aún puedes hacer ajustes después de elegir un preajuste)
+			'''
+	}
+
+	FukMeCalamity: {
+		Label: tIMBALoader
+		Tooltip:
+			'''
+			Este preajuste incluye la mayoría de funciones convenientes que reducen significativamente el trabajo repetitivo
+			Si juegas el Modo Revengeance de Calamity o el Modo Eternity de Fargo's Souls, esta sería una buena opción
+			La mayoría de las configuraciones son de calidad de vida, para que el juego se centre más en progresar y derrotar jefes
+			(Aún puedes hacer ajustes después de elegir un preajuste)
+			'''
+	}
+
+	SuperVault: {
+		Label: "[centeritem:3813] Mochila Grande"
+		Tooltip:
+			'''
+			Un inventario separado con 100 ranuras que se puede usar en la creación
+			Tiene funciones de 'recogida automática' y 'recogida inteligente'
+			Asigna una tecla en Ajustes → Controles → baja y busca 'Mochila Grande'
+			'''
+	}
+
+	SuperVoidVault: {
+		Label: "[centeritem:4131] Recogida automática para almacenes personales"
+		Tooltip:
+			'''
+			Permite que otros almacenes portátiles guarden automáticamente los objetos recogidos cuando el inventario del jugador está lleno
+			Prioridad: Hucha → Caja fuerte → Forja del Defensor → Cámara del vacío
+			'''
+	}
+
+	SmartVoidVault: {
+		Label: "[centeritem:4076] Recogida inteligente para almacenes personales"
+		Tooltip: Si ya hay algunos objetos en tu Cámara del vacío, los objetos se recogerán del inventario hacia la Cámara del vacío
+	}
+
+	ItemMaxStack: {
+		Label: "[centeritem:9] Pila máxima"
+		Tooltip:
+			'''
+			Establece el tamaño máximo de pila de los objetos
+			El tamaño máximo de pila de las monedas no se puede cambiar
+			'''
+	}
+
+	GrabDistance: {
+		Label: "[centeritem:5010] Aumentar alcance de recogida de objetos (en bloques)"
+		Tooltip: Aumenta el alcance de recogida de objetos. La velocidad de recogida también aumentará
+	}
+
+	NoConsume_SummonItem: {
+		Label: "[centeritem:560] Objetos de invocación no consumibles"
+		Tooltip: Solo para objetos de invocación de jefes y eventos vanilla
+	}
+
+	ModifyPlayerPlaceSpeed: {
+		Label: "[centeritem:2214] Aumentar velocidad de colocación de bloques"
+		Tooltip: ""
+	}
+
+	ModifyPlayerTileRange: {
+		Label: "[centeritem:2215] Aumentar alcance de colocación de bloques"
+		Tooltip: ""
+	}
+
+	TileSpeed_Blacklist: {
+		Label: "[centeritem:1448] Lista negra de mejora de colocación"
+		Tooltip:
+			'''
+			La velocidad y el alcance de colocación de un bloque no se mejorarán si su nombre contiene alguno de los siguientes textos
+			No distingue mayúsculas
+			'''
+	}
+
+	PortableCraftingStation: {
+		Label: "[centeritem:WorkBench] Estaciones de creación portátiles"
+		Tooltip:
+			'''
+			Las estaciones de creación en tu inventario y almacenes personales funcionarán como si estuvieran colocadas
+			P. ej., si tienes un Horno en el inventario, podrás crear lingotes a partir de minerales en cualquier lugar
+			El Cubo de agua se considera una fuente de agua, igual que los Cubos de lava y miel
+			'''
+	}
+
+	NoPlace_BUFFTile: {
+		Label: "[centeritem:3198] Estaciones de mejora portátiles"
+		Tooltip: Las estaciones de mejora vanilla en cualquiera de tus inventarios te otorgan sus mejoras
+	}
+
+	NoPlace_BUFFTile_Banner: {
+		Label: "[centeritem:2901] Estandartes portátiles"
+		Tooltip: Cualquier estandarte de enemigo en cualquiera de tus inventarios te otorga sus mejoras
+	}
+
+	NoConsume_Potion: {
+		Label: "[centeritem:227] Pociones infinitas"
+		Tooltip:
+			'''
+			Las pociones en tu inventario o almacenes personales (Hucha, Caja fuerte, etc.)
+			en una pila de un número establecido o superior ya no se consumen y te otorgan mejoras infinitas
+			El requisito está en la siguiente configuración
+			'''
+	}
+
+	NoConsume_PotionRequirement: {
+		Label: "[centeritem:TeleportationPotion] Requisito de poción infinita"
+		Tooltip:
+			'''
+			Solo las pilas de pociones de este número o superior te otorgarán mejora infinita
+			Rango: 10~999
+			'''
+	}
+
+	NoConsume_Ammo: {
+		Label: "[centeritem:3104] Munición infinita"
+		Tooltip: La munición en una pila de 3996 o más no se consumirá
+	}
+
+	NoConsume_Projectile: {
+		Label: "[centeritem:42] Armas arrojadizas infinitas"
+		Tooltip: Las armas arrojadizas en una pila de 3996 o más no se consumirán
+	}
+
+	NoConsume_Wire: {
+		Label: "[centeritem:530] Cable infinito"
+		Tooltip: El cable en una pila de 3996 o más no se consumirá
+	}
+
+	ImprovePrefix: {
+		Label: "[centeritem:1551] Reforja retrospectiva"
+		Tooltip: Los prefijos que ya se han obtenido se pueden aplicar manualmente
+		Unknown: Prefijo desconocido
+	}
+
+	ResurrectionTimeShortened: {
+		Label: "[centeritem:3232] Reaparición más rápida"
+		Tooltip: Ejemplo: 25 significa reducir el tiempo de reaparición un 25%
+	}
+
+	BOSSBattleResurrectionTimeShortened: {
+		Label: "[centeritem:3232] Reaparición más rápida en combates de jefes"
+		Tooltip: ""
+	}
+
+	MiddleEnableBank: {
+		Label: "[centeritem:87] Clic central para abrir inventarios personales"
+		Tooltip:
+			'''
+			Cuando haces clic central en un objeto de almacén personal en tu inventario,
+			se abrirá el inventario correspondiente
+			También desactiva el límite de distancia de los almacenes portátiles
+			'''
+	}
+
+	BanTombstone: {
+		Label: "[centeritem:3230] Desactivar aparición de lápidas"
+		Tooltip: ""
+	}
+
+	FasterExtractinator: {
+		Label: "[centeritem:ChlorophyteExtractinator] Extractinator rápido"
+		Tooltip: Aumenta enormemente la velocidad de extracción del Extractinator
+	}
+
+	TownNPCGetTFIntoHouse: {
+		Label: "[centeritem:MusicBoxTownDay] Mejora de mecánicas de aparición de PNJs de pueblo"
+		Tooltip:
+			'''
+			Cuando se cumplen las condiciones de aparición del Duende chapucero, Tabernero, Mago, Mecánica o Recaudador de impuestos no rescatados,
+			no necesitan ser rescatados y podrán aparecer si hay casas válidas. Se considerarán rescatados una vez que aparezcan
+			La Estilista podrá aparecer si se ha derrotado a cualquier jefe pre-Modo Difícil vanilla
+			Los PNJs de pueblo aparecerán de noche
+			'''
+	}
+
+	NPCLiveInEvil: {
+		Label: "[centeritem:MusicBoxTownNight] Los PNJs de pueblo pueden vivir en biomas malignos"
+		Tooltip: Los PNJs de pueblo pueden vivir en la Corrupción y el Carmesí
+	}
+
+	TownNPCSpawnSpeed: {
+		Label: "[centeritem:4910] Multiplicador de tasa de aparición de PNJs de pueblo"
+		Tooltip: Desactiva esta modificación estableciendo el valor en 1
+	}
+
+	NoCD_FishermanQuest: {
+		Label: "[centeritem:4608] Actualización instantánea de misiones del Pescador"
+		Tooltip: Actualiza las misiones de inmediato al entregar el pez de misión. Puedes elegir si también se reinicia el pez de misión
+	}
+
+	NPCCoinDropRate: {
+		Label: "[centeritem:73] Multiplicador de monedas de enemigos"
+		Tooltip: ""
+	}
+
+	SlimeExDrop: {
+		Label: "[centeritem:11] Drops garantizados de objetos de slimes"
+		Tooltip:
+			'''
+			Los slimes garantizan contener un objeto aleatorio
+			Sigue la tasa de drop vanilla si la configuración está desactivada
+			'''
+	}
+
+	LavalessLavaSlime: {
+		Label: "[centeritem:LavaSlimeBanner] El Slime de lava/Murciélago del infierno no genera lava"
+		Tooltip:
+			'''
+			Matar al Slime de lava ya no genera lava en los modos Experto o Maestro
+			En la semilla GFB, el Murciélago del infierno y el Murciélago de lava ya no generarán lava al ser derrotados
+			'''
+	}
+
+	TravellingMerchantStay: {
+		Label: "[centeritem:2222] El Mercader ambulante no se va"
+		Tooltip: El Mercader ambulante no se irá a menos que lo maten
+	}
+
+	TravellingMerchantRefresh: {
+		Label: "[centeritem:PeddlersSatchel] Tienda del Mercader ambulante actualizable"
+		Tooltip: Añade un botón de Actualizar para el Mercader ambulante que te permite refrescar manualmente los productos
+	}
+
+	QuickNurse: {
+		Label: "[centeritem:AdhesiveBandage] Tratamiento de emergencia"
+		Tooltip:
+			'''
+			La Enfermera te curará en cuanto hagas clic derecho para hablar con ella
+			El coste en monedas se mostrará sobre el jugador
+			'''
+	}
+
+	BestiaryQuickUnlock: {
+		Label: "[centeritem:DontHurtCrittersBook] Lección aprendida"
+		Tooltip: En cuanto se desbloquee el bestiario de una criatura, se desbloqueará por completo sin importar la cantidad de muertes
+	}
+
+	BannerRequirement: {
+		Label: "[centeritem:2990] Número de muertes para obtener un estandarte"
+		Tooltip:
+			'''
+			Ajusta el número de muertes para obtener un estandarte. Cuanto menor sea el multiplicador, menos muertes necesitas para obtener un estandarte
+			Por ejemplo, cuando el multiplicador es 0.1(10%), matar 5 Slimes azules te dará un Estandarte de Slime azul en lugar de 50
+			Del mismo modo, cuando el multiplicador es 10(1000%), matar 500 Slimes azules te dará un Estandarte de Slime azul en lugar de 50
+			'''
+	}
+
+	AlchemyGrassGrowsFaster: {
+		Label: "[centeritem:313] Acelerar crecimiento de hierbas"
+		Tooltip: Hace que todas las hierbas crezcan más rápido
+	}
+
+	AlchemyGrassAlwaysBlooms: {
+		Label: "[centeritem:316] Las hierbas florecen en cualquier condición"
+		Tooltip: Hace que todas las hierbas puedan florecer y soltar semillas en cualquier condición
+	}
+
+	PumpkinGrowsFaster: {
+		Label: "[centeritem:1725] Acelerar crecimiento de calabazas"
+		Tooltip: Hace que todas las calabazas crezcan más rápido
+	}
+
+	LifeFruitGrowsFaster: {
+		Label: "[centeritem:1291] Acelerar crecimiento de Fruta de la vida"
+		Tooltip: Hace que todas las Frutas de la vida crezcan más rápido
+	}
+
+	LifeFruitLimit: {
+		Label: "[centeritem:1291] Ajuste del límite de Fruta de la vida"
+		Tooltip:
+			'''
+			Ajusta el rango en el que la Fruta de la vida detecta frutas cercanas
+			Establécelo en -1 para usar los valores vanilla (una cada 60 (Clásico) / 50 (Experto) bloques)
+			Ten en cuenta que el Modo Experto y superiores usarán el valor establecido -10
+			'''
+	}
+
+	StaffOfRegenerationAutomaticPlanting: {
+		Label: "[centeritem:213] Autoplantado del Bastón/Hacha de regeneración"
+		Tooltip: Planta automáticamente la hierba recogida al usar el Bastón/Hacha de regeneración
+	}
+
+	NoBiomeSpread: {
+		Label: "[centeritem:Sunflower] Detener la expansión de biomas malignos y del Sagrado"
+		Tooltip: ""
+	}
+
+	RespawnWithFullHP: {
+		Label: "[centeritem:LifeCrystal] Reaparecer con vida completa"
+		Tooltip: ""
+	}
+
+	DontDeleteBuff: {
+		Label: "[centeritem:FlaskofNanites] Mantener mejoras tras la muerte"
+		Tooltip: Hace que todas las mejoras permanezcan activas tras la muerte
+	}
+
+	JourneyResearch: {
+		Label: "[centeritem:GoldBunny] Investigación automática"
+		Tooltip:
+			'''
+			En el modo Journey, los objetos en cantidad suficiente y marcados como favoritos se investigarán automáticamente
+			Esta función no consumirá los objetos
+			'''
+	}
+
+	BanDamageVar: {
+		Label: "[centeritem:6] Desactivar variación de daño"
+		Tooltip: ""
+	}
+
+	ExtraPlayerBuffSlots: {
+		Label: "[centeritem:3000] Ranuras de mejora adicionales"
+		Tooltip: ""
+	}
+
+	TreeGrowFaster: {
+		Label: "[centeritem:1182] Los árboles crecen rápido e ignoran condiciones de capa"
+		Tooltip:
+			'''
+			La velocidad de crecimiento de los árboles se multiplica por 5
+			Los árboles de gemas pueden crecer en la superficie y los árboles normales bajo tierra
+			No afectará la velocidad de generación natural de Árboles de la selva o Hongos brillantes gigantes
+			'''
+	}
+
+	ShakeTreeFruit: {
+		Label: "[centeritem:4009] Fruta garantizada al agitar árboles"
+		Tooltip:
+			'''
+			Aumenta enormemente la tasa de drop de fruta (las tasas de otros objetos no se ven afectadas)
+			Si parece no hacer nada, consulta la Wiki de Terraria para las condiciones
+			'''
+	}
+
+	GemTreeAlwaysDropGem: {
+		Label: "[centeritem:3649] Los árboles de gemas siempre sueltan gemas"
+		Tooltip: Cada parte de un árbol de gemas soltará gemas o bellotas de gema
+	}
+
+	ShareCraftingStation: {
+		Label: "[centeritem:WorkBench] Estaciones de creación portátiles compartidas"
+		Tooltip:
+			'''
+			Los jugadores del mismo equipo compartirán sus estaciones de creación portátiles
+			P. ej., si un jugador de tu equipo tiene un Banco de trabajo, no necesitarás uno para crear una Silla
+			Requiere que 'Estaciones de creación portátiles' esté activado
+			Puede causar lag si hay demasiados jugadores (>100)
+			'''
+	}
+
+	ShareInfBuffs: {
+		Label: "[centeritem:227] Mejoras infinitas compartidas"
+		Tooltip:
+			'''
+			Los jugadores del mismo equipo compartirán sus mejoras infinitas, incluidas las de estandartes
+			P. ej., si un jugador de tu equipo tiene un Trozo de pastel, recibirás la mejora de Subidón de azúcar sin tener que tomar uno
+			Requiere que al menos una configuración de mejoras infinitas esté activada
+			Puede causar lag si hay demasiados jugadores (>100)
+			'''
+	}
+
+	ShareRange: {
+		Label: "[centeritem:WorldGlobe] Alcance de efectos compartidos (en bloques)"
+		Tooltip:
+			'''
+			Solo los compañeros de equipo dentro de este alcance compartirán los efectos
+			-1 por defecto, lo que significa alcance infinito
+			'''
+	}
+
+	TeamAutoJoin: {
+		Label: "[centeritem:TeamBlockRed] Unirse automáticamente al equipo rojo"
+		Tooltip: Los jugadores que se unan se unirán automáticamente al equipo rojo en multijugador
+	}
+
+	OnlyHost: {
+		Label: "[centeritem:2203] Solo el anfitrión puede cambiar la configuración del mod (no funciona con reenvío de puertos)"
+		Tooltip:
+			'''
+			No hace nada en modo un jugador
+			Tras activarlo, solo el anfitrión (IP: 127.0.0.1) puede cambiar la configuración del mod
+			Solo el anfitrión puede activar/desactivar esto
+			Si el servidor usa reenvío de puertos, usa la función de abajo
+			'''
+		Unaccepted: No se pueden guardar los cambios: ¡No eres el anfitrión!
+		Tips:
+			'''
+			"Solo el anfitrión puede cambiar la configuración del mod" está activado
+			Solo el anfitrión (IP: 127.0.0.1) puede cambiar la configuración del mod
+			'''
+	}
+
+	OnlyHostByPassword: {
+		Label: "[centeritem:2203] Solo los jugadores verificados pueden cambiar la configuración del mod"
+		Tooltip:
+			'''
+			No hace nada en modo un jugador; se requiere recargar. Tras activarlo, solo los jugadores verificados pueden cambiar la configuración del mod
+			Al iniciar el servidor, se enviará una contraseña aleatoria de 8 dígitos en la consola del servidor. La consola puede consultar la contraseña escribiendo qotpassword.
+			Los jugadores pueden escribir /qotpassword <contraseña> para verificarse. Si la contraseña es correcta, el jugador podrá cambiar la configuración del mod
+			Efectivo en servidores con reenvío de puertos, ya que la verificación por IP no funciona
+			'''
+		Unaccepted: ¡No has pasado la verificación!
+		Tips: '''"Solo los jugadores verificados pueden cambiar la configuración del mod" está activado'''
+		Registered: Ya puedes cambiar la configuración del mod
+		Correct: Contraseña correcta; puedes cambiar la configuración del mod
+		Incorrect: ¡Contraseña incorrecta!
+		ServerPassword: "[Quality of Terraria] Contraseña para verificación de configuración: {Password}"
+		ServerPasswordLog: Contraseña para verificación de configuración: {Password}
+		CommandDescription: Verificar el cliente para pedir permiso de cambiar la configuración del mod
+		NotOn: La opción de verificación por contraseña no está activada
+		Format: La contraseña debe tener 4 letras (no distingue mayúsculas)
+	}
+
+	SpawnRateMaxValue: {
+		Label: "[centeritem:2649] Multiplicador máximo de tasa de aparición de enemigos"
+		Tooltip:
+			'''
+			Permite a los jugadores ajustar la tasa máxima de aparición de enemigos
+			Aviso:
+			Este panel solo aparece cuando tienes la combinación de estaciones/pociones de mejora infinita de
+			[Girasol][Vela de la paz][Poción de calma][Vela de agua] y [Poción de batalla]
+			Si no quieres que los jugadores de un servidor suban demasiado la tasa de aparición, puedes usar esta función
+			'''
+	}
+
+	SpawnRateMinValue: {
+		Label: "[centeritem:2649] Multiplicador mínimo de tasa de aparición de enemigos"
+		Tooltip:
+			'''
+			Permite a los jugadores ajustar la tasa mínima de aparición de enemigos
+			Aviso:
+			Este panel solo aparece cuando tienes la combinación de estaciones/pociones de mejora infinita de
+			[Girasol][Vela de la paz][Poción de calma][Vela de agua] y [Poción de batalla]
+			Si no quieres que los jugadores de un servidor bajen demasiado la tasa de aparición, puedes usar esta función
+			'''
+	}
+
+	ExStorageSearchDistance: {
+		Label: "[centeritem:ImproveGame/ExtremeStorage] Alcance de detección de cofres del Gestor de Almacenamiento"
+		Tooltip:
+			'''
+			Cambia hasta dónde busca cofres el Gestor de Almacenamiento.
+			En multijugador, cuantos más cofres se administren, mayor será la carga de red.
+			'''
+	}
+
+	ICanSeeForeverAllBag: {
+		Label: "[centeritem:GoodieBag] Los detalles de bolsas muestran reglas de drop ocultas"
+		Tooltip:
+			'''
+			Cuando está desactivado, el código de la regla de drop determina si se oculta.
+			Cuando está activado, las reglas ocultas siempre se muestran.
+			'''
+	}
+
+	LoadModItems: {
+		Label: Configuración de carga de objetos del mod
+		Tooltip: Elimina algunos objetos del mod para que no aparezcan en el juego
+	}
+
+	EmptyAutofisher: {
+		Label: "[centeritem:ImproveGame/Autofisher] Aviso de cebo insuficiente"
+		Tooltip:
+			'''
+			Si una Máquina de Pesca se queda sin cebo, se mostrará un mensaje: 
+			“\"La Máquina de Pesca en [posición horizontal, profundidad] no tiene cebo\"
+			'''
+	}
+
+	OtherFunctions: {
+		Label: Funciones no configurables
+		ExpandTip: Haz clic para expandir
+		Subtitle: Las siguientes son funciones no configurables de este mod.
+		Tooltip:
+			'''
+			Mostrar el botín detallado de una bolsa al pulsar la tecla "Mostrar botín de bolsas".
+			Una tecla para intercambiar la barra rápida con la segunda fila del inventario.
+			Un panel de filtros que se abre al hacer clic en el icono del Analizador de formas de vida.
+			Inspección de objetos del cofre al pasar el cursor y pulsar Alt.
+			Simplificación de descripciones (eliminación de 'favorito', descripción detallada en ranuras de vanidad).
+			Mayor velocidad de uso y auto-uso para Cristal de vida, Cristal de maná y Fruta de la vida.
+			Clic central en objetos de montura alternará las monturas.
+			Todos los peinados se pueden elegir al crear el personaje.
+			Tecla de varita de teletransporte. Usa la Varita de la Discordia o la Varita de la Armonía de cualquier inventario, priorizando la de Armonía.
+			Tecla de regreso a casa. Usa cualquier objeto de regreso infinito de cualquier inventario, priorizando la Poción de regreso.
+			La munición se puede usar desde la Mochila Grande
+			'''
+	}
+
+	ExtraToolSpeed: {
+		Label: "[centeritem:4056] Multiplicador de velocidad de herramientas"
+		Tooltip: Establecerlo en 0 desactiva la configuración. Cuanto mayor sea el valor, mayor será la velocidad. No afectará la velocidad de ataque ni el DPS.
+	}
+
+	MostTreeMin: {
+		Label: "[centeritem:9] Altura mínima de árbol normal"
+		Tooltip: Predeterminado: 7
+	}
+
+	MostTreeMax: {
+		Label: "[centeritem:9] Altura máxima de árbol normal"
+		Tooltip: Predeterminado: 12
+	}
+
+	PalmTreeMin: {
+		Label: "[centeritem:2504] Altura mínima de palmera"
+		Tooltip: Predeterminado: 10
+	}
+
+	PalmTreeMax: {
+		Label: "[centeritem:2504] Altura máxima de palmera"
+		Tooltip: Predeterminado: 20
+	}
+
+	GemTreeMin: {
+		Label: "[centeritem:4856] Altura mínima de árbol de gema"
+		Tooltip: Predeterminado: 7
+	}
+
+	GemTreeMax: {
+		Label: "[centeritem:4856] Altura máxima de árbol de gema"
+		Tooltip: Predeterminado: 12
+	}
+
+	Headers: {
+		Item: "[centeritem/h4:LifeCrystal] Configuración de objetos"
+		NPC: "[centeritem:4382] Configuración de PNJs"
+		GameMechanics: "[centeritem:1344] Mecánicas del juego"
+		Tree: "[centeritem/h4:27] Configuración de árboles"
+		Together: "[centeritem/h2:GolfCupFlagRed] Mejor juntos"
+		Server: "[centeritem:ImproveGame/CreateWand] Configuración del mod"
+		Presets: "[centeritem:ImproveGame/PaintWand] Preajustes"
+		Others: "[centeritem/h4:HandOfCreation] Otros"
+		ItemEffect: "[centeritem/h4:RedPotion] Efectos de objetos"
+		PylonMechanics: "[centeritem:4951] Restricciones de pilones"
+	}
+
+	OpenConfig: {
+		Label: Abrir archivo de configuración
+		Tooltip: Cualquier configuración solo aparecerá en el archivo después de ser modificada.
+	}
+
+	TownNPCHome: {
+		Label: "[centeritem:MusicBoxTownDay] Teletransportar PNJs a casa"
+		Tooltip:
+			'''
+			Clic derecho en el botón "Vivienda" teletransportará a todos los PNJs de pueblo a casa.
+			Una vez que se cambie el hogar de un PNJ de pueblo, se teletransportará a él de inmediato.
+			'''
+		HoverText: (<right> para teletransportar a los PNJs de pueblo a casa)
+	}
+
+	NoLakeSizePenalty: {
+		Label: "[centeritem:FishingPotion] Sin penalización por tamaño de estanque"
+		Tooltip:
+			'''
+			Todos los estanques de pesca se considerarán completos.
+			Esto desactiva la reducción de potencia de pesca por tamaño de estanque al pescar en estanques pequeños 
+			Incluso puedes pescar con 2 bloques de agua.
+			'''
+	}
+
+	InfiniteRedPotion: {
+		Label: "[centeritem:RedPotion] Extensión de Poción Roja"
+		Tooltip:
+			'''
+			Si estás en un mundo "Get fixed boi" o "For the worthy",
+			puedes usar todos los ingredientes de pociones para crear la Poción Roja.
+			La Poción Roja infinita proporcionará todas sus mejoras.
+			Sin embargo, no se puede poner en la Bolsa de Pociones.
+			'''
+		Condition: Extensión de Poción Roja activada
+	}
+
+	RedPotionEverywhere: {
+		Label: "[centeritem:RedPotion] Extensión de Poción Roja ilimitada"
+		Tooltip:
+			'''
+			Desbloquea la Extensión de Poción Roja para todo tipo de mundos
+			en lugar de solo "Get fixed boi" y "For the worthy".
+			'''
+		Condition: Extensión de Poción Roja ilimitada activada/{$Conditions.WorldForTheWorthy}
+	}
+
+	RedPotionRequirement: {
+		Label: "[centeritem:RedPotion] Requisito de Poción Roja infinita"
+		Tooltip:
+			'''
+			Requiere que la Extensión de Poción Roja esté activada.
+			Establece el requisito de pila de Poción Infinita específicamente para la Poción Roja.
+			'''
+	}
+
+	LongerExpertDebuff: {
+		Label: "[centeritem:DemonHeart] Duración de efectos negativos en Experto"
+		Tooltip:
+			'''
+			Alterna la duración más larga de efectos negativos en modo Experto/Maestro.
+			Se usará la duración del modo Clásico si está desactivado.
+			'''
+	}
+
+	LightNotBlocked: {
+		Label: "[centeritem:UltrabrightTorch] Los bloques no bloquean la luz"
+		Tooltip:
+			'''
+			Si la luz ignora los bloques
+			Sigue el comportamiento vanilla cuando está desactivado
+			'''
+	}
+
+	BombsNotDamage: {
+		Label: "[centeritem:TNTBarrel] Explosivos sin daño"
+		Tooltip:
+			'''
+			Desactiva el daño de objetos que rompen bloques
+			Solo afecta a explosivos que rompen bloques. Granadas, cohetes que no rompen bloques, etc. no se ven afectados
+			'''
+	}
+
+	DisableNonPlayerBombsExplosions: {
+		Label: "[centeritem:TNTBarrel] Los explosivos no del jugador no destruyen bloques"
+		Tooltip: Evita varias ocasiones de destrucción accidental de bloques
+	}
+
+	WorldFeaturePanel: {
+		Label: "[centeritem:WorldGlobe] Panel de funciones del mundo"
+		Tooltip:
+			'''
+			Se abre desde el Panel de Control
+			Alterna funciones de festividades y semillas secretas
+			'''
+	}
+
+	BedEverywhere: {
+		Label: "[centeritem:Bed] Reaparición en cama sin restricciones"
+		Tooltip: Las camas pueden establecer puntos de reaparición en cualquier condición, sin importar los requisitos de vivienda.
+	}
+
+	MinimapMark: {
+		Tooltip:
+			'''
+			Permite usar 'Localizadores' para marcar las siguientes estructuras en el mapa:
+			El Éter, Mazmorra, Templo de la selva, Islas flotantes, Pirámide, Brote de Plantera y Santuarios de Espada Encantada.
+			'''
+		Label: "[centeritem:WorldGlobe] Marcadores de estructuras"
+	}
+
+	ModifyNPCHappiness: {
+		Label: "[centeritem:LifeCrystal] Felicidad de PNJs fija"
+		Tooltip: Fija el modificador de precios de PNJs ('felicidad') a un valor establecido
+	}
+
+	NPCHappiness: {
+		Label: "[centeritem:LifeCrystal] Modificador de precios de PNJs (%)"
+		Tooltip:
+			'''
+			Cuanto menor sea el valor, más 'felices' están los PNJs, más barato es comprarles y más alto el precio de venta.
+			Los PNJs siempre venden pilones cuando el valor es 90 o menos
+			'''
+	}
+
+	NoSleepRestrictions: {
+		Label: "[centeritem:Bed] Dormir sin condiciones"
+		Tooltip: Dormir acelera el tiempo en cualquier condición
+	}
+
+	BedTimeRate: {
+		Label: "[centeritem:Bed] Velocidad del tiempo al dormir"
+		Tooltip: Te permite cambiar qué tan rápido avanza el tiempo al dormir; 5 veces por defecto.
+	}
+
+	BedOnlyOne: {
+		Label: "[centeritem:Bed] Uno duerme por todos"
+		Tooltip: Un jugador dormido basta para acelerar el tiempo en multijugador.
+	}
+
+	WandMaterialNoConsume: {
+		Tooltip:
+			'''
+			Los bloques y muros en pilas superiores a 999 no se consumirán si se colocan con la Varita del Espacio/Tecnología/Construcción.
+			Bancos de trabajo, mesas, camas, etc. no se consumirán en pilas superiores a 99.
+			'''
+		Label: "[centeritem:ImproveGame/SpaceWand] Colocables infinitos de varitas"
+	}
+
+	DummyCustomAIStyleAllowed: {
+		Tooltip:
+			'''
+			Cuando está activado, en multijugador cualquiera puede personalizar el Muñeco para imitar el comportamiento de un PNJ.
+			Dado el potencial de que los muñecos se conviertan en herramientas de crasheo o trampas, considera esta opción con cuidado.
+			'''
+		Label: "[centeritem:ImproveGame/Dummy] {$Mods.ImproveGame.UI.DummyConfiguration.DummyConfigLabel}"
+	}
+
+	QuestFishStack: {
+		Label: "[centeritem:Clownfish] Peces de misión apilables"
+		Tooltip: Los peces de misión serán apilables y se podrán pescar o recoger aunque el mismo pez esté en el inventario.
+	}
+
+	QuickRespawn: {
+		Label: "[centeritem:3232] Reaparición rápida sin jefes"
+		Tooltip: El tiempo de reaparición se reduce a 1.5s cuando no hay jefes presentes
+	}
+
+	AllOff: {
+		Label: Desactivarlos TODOS
+		Tooltip: Restaura (casi) todas las configuraciones al estado vanilla; juega Terraria vanilla
+	}
+
+	NoConditionTP: {
+		Label: "[centeritem:WormholePotion] Teletransporte de equipo sin condiciones"
+		Tooltip: Los jugadores pueden teletransportarse a compañeros de equipo sin necesidad de una Poción de agujero de gusano, incluso si está en el inventario
+	}
+
+	OpenFaq: {
+		Tooltip:
+			'''
+			Se recomienda encarecidamente consultar esta página web cuando encuentres
+			cualquier problema, ya que incluye soluciones a las siguientes preguntas:
+			- ¿Cómo ocultar las mejoras infinitas?
+			- ¿Cómo desactivar el depósito automático de monedas?
+			- ¿Cómo ocultar los iconos de mejora sobre la cabeza del jugador?
+			'''
+		Label: Preguntas frecuentes
+	}
+
+	WeatherControl: {
+		Label: "[centeritem:ImproveGame/WeatherBook] Control del Clima"
+		Tooltip:
+			'''
+			Cambia la dirección del viento, la fase lunar, la lluvia,
+			así como la hora tras derrotar al Muro de Carne
+			Se desbloquea con el Libro de Climas; se abre desde el Panel de Control
+			La disponibilidad cambia por mundo
+			'''
+	}
+
+	AmmoChain: {
+		Label: "[centeritem:ImproveGame/AmmoChainItem] Cadena de Munición"
+		Tooltip:
+			'''
+			Permite que las armas elijan munición en una secuencia específica
+			Se abre desde el Panel de Control
+			'''
+	}
+
+	SimpleVeinMining: {
+		Label: "[centeritem:IronPickaxe] Minería de vetas simple"
+		Tooltip:
+			'''
+			Función básica de minería de vetas. Simplemente pica con un pico para usarla.
+			No tiene funciones de lista negra/blanca y no admite más ajustes.
+			Si necesitas eso, se recomienda usar Ore Excavator o Basic Automated Mining.
+			Si se carga uno de esos dos mods, esta función no tendrá efecto.
+			'''
+		PopupTip: La minería de vetas se puede desactivar en la configuración de QoT si no la quieres
+	}
+
+	DisableVeinMiningPopup: {
+		Label: "[centeritem:IronPickaxe] Desactivar aviso de minería de vetas"
+		Tooltip: Desactiva el molesto aviso de una vez por todas
+	}
+
+	QuickShimmer: {
+		Label: "[centeritem:ImproveGame/ShellShipInBottle_Shimmered] Fulgor Rápido"
+		Tooltip:
+			'''
+			Te permite usar transmutaciones de fulgor en el inventario
+			Se desbloquea con el Barco en una Botella Fulgurado; se abre desde el Panel de Control
+			La disponibilidad cambia por mundo
+			'''
+	}
+
+	PylonPlaceNoRestriction: {
+		Label: "[centeritem:TeleportationPylonPurity] Colocación ilimitada de pilones"
+		Tooltip: Coloca cualquier cantidad de pilones en cualquier lugar
+	}
+
+	PylonTeleNoNear: {
+		Label: "[centeritem:TeleportationPylonUnderground] Teletransporte global a pilones"
+		Tooltip: Teletransportarte a pilones desde cualquier lugar
+	}
+
+	PylonTeleNoNPC: {
+		Label: "[centeritem:TeleportationPylonHallow] Teletransporte a pilones sin PNJs"
+		Tooltip: Teletransportarte a pilones aunque no haya un PNJ de pueblo cerca
+	}
+
+	PylonTeleNoDanger: {
+		Label: "[centeritem:TeleportationPylonJungle] Teletransporte a pilones sin importar el peligro"
+		Tooltip: Teletransportarte a pilones aunque haya un jefe vivo
+	}
+
+	PylonTeleNoBiome: {
+		Label: "[centeritem:TeleportationPylonMushroom] Teletransporte a pilones sin importar el bioma"
+		Tooltip: "'¡Porque lo digo yo!'"
+	}
+}
+
+AvailableModItemConfigs: {
+	AvailablityHint:
+		'''
+		Actualmente no se puede usar. 
+		Modifica la opción en Configuración de objetos del mod.
+		'''
+	AvailablityDetailedHint:
+		'''
+		Actualmente no se puede usar. 
+		Modifica la opción {0} en la Configuración Principal.
+		'''
+	DisplayName: Configuración de objetos del mod
+	Available: " Usable"
+	Unavailable: " No usable"
+	Obtainable: " Obtenible"
+	Unobtainable: " No obtenible"
+	Enable: Activar
+
+	AvailableMagickWand: {
+		Label: "[centeritem:ImproveGame/MagickWand] {$Mods.ImproveGame.Items.MagickWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableSpaceWand: {
+		Label: "[centeritem:ImproveGame/SpaceWand] {$Mods.ImproveGame.Items.SpaceWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableStarburstWand: {
+		Label: "[centeritem:ImproveGame/StarburstWand] {$Mods.ImproveGame.Items.StarburstWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableWallPlace: {
+		Label: "[centeritem:ImproveGame/WallPlace] {$Mods.ImproveGame.Items.WallPlace.PureName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableCreateWand: {
+		Label: "[centeritem:ImproveGame/CreateWand] {$Mods.ImproveGame.Items.CreateWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableLiquidWand: {
+		Label: "[centeritem:ImproveGame/LiquidWand] {$Mods.ImproveGame.Items.LiquidWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailablePotionBag: {
+		Label: "[centeritem:ImproveGame/PotionBag] {$Mods.ImproveGame.Items.PotionBag.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableBannerChest: {
+		Label: "[centeritem:ImproveGame/BannerChest] {$Mods.ImproveGame.Items.BannerChest.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableAutofisher: {
+		Label: "[centeritem:ImproveGame/Autofisher] {$Mods.ImproveGame.Items.Autofisher.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailablePaintWand: {
+		Label: "[centeritem:ImproveGame/PaintWand] {$Mods.ImproveGame.Items.PaintWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableConstructWand: {
+		Label: "[centeritem:ImproveGame/ConstructWand] {$Mods.ImproveGame.Items.ConstructWand.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableMoveChest: {
+		Label: "[centeritem:ImproveGame/MoveChest] {$Mods.ImproveGame.Items.MoveChest.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableCoinOne: {
+		Label: "[centeritem:ImproveGame/CoinOne] {$Mods.ImproveGame.Items.CoinOne.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Obtainable}"
+		Tooltip: ""
+	}
+
+	AvailableExtremeStorage: {
+		Label: "[centeritem:ImproveGame/ExtremeStorage] {$Mods.ImproveGame.Items.ExtremeStorage.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableDetectorDrone: {
+		Label: "[centeritem:ImproveGame/DetectorDrone] {$Mods.ImproveGame.Items.DetectorDrone.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableBaitSupplier: {
+		Label: "[centeritem:ImproveGame/BaitSupplier] {$Mods.ImproveGame.Items.BaitSupplier.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableLiquidWandAdvanced: {
+		Label: "[centeritem:ImproveGame/LiquidWandAdvanced] {$Mods.ImproveGame.Items.LiquidWandAdvanced.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableActuationRodMkII: {
+		Label: "[centeritem:ImproveGame/ActuationRodMkII] {$Mods.ImproveGame.Items.ActuationRodMkII.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+
+	AvailableShimmerBucket: {
+		Label: "[centeritem:ImproveGame/ShimmerBucket] {$Mods.ImproveGame.Items.ShimmerBucket.DisplayName}{$Mods.ImproveGame.Configs.AvailableModItemConfigs.Available}"
+		Tooltip: ""
+	}
+}
+
+UIConfigs: {
+	DisplayName: Configuración Personal
+
+	BigBackpackButton: {
+		Label: "[centeritem:3813] Botón de Mochila Grande"
+		Tooltip: ""
+	}
+
+	ResetNativeUI: {
+		Label: "[centeritem:1544] Restablecer a UI vanilla"
+		Tooltip: ""
+	}
+
+	GeneralFontOffsetY: {
+		Label: "[centeritem:1543] Desplazamiento Y de fuente normal de UI"
+		Tooltip: ""
+	}
+
+	BigFontOffsetY: {
+		Label: "[centeritem:1543] Desplazamiento Y de fuente grande de UI"
+		Tooltip: ""
+	}
+
+	ShowMoreData: {
+		Label: "[centeritem:1344] Mostrar datos de depuración"
+		Tooltip:
+			'''
+			Opciones de desarrollador, no para jugadores
+			Activarlo mostrará información de depuración
+			'''
+	}
+
+	ShowModName: {
+		Label: "[centeritem:ImproveGame/LiquidWand] Mostrar de qué mod son los objetos"
+		Tooltip: ""
+	}
+
+	PlyInfo: {
+		Label: "[centeritem:3124] Estadísticas del jugador"
+		Tooltip: Aparece un trébol de cuatro hojas junto al icono de logros
+	}
+
+	QoLAutoTrash: {
+		Label: "[centeritem:348] Auto-basura"
+		Tooltip:
+			'''
+			Una papelera automática.
+			Los objetos se moverán a esta papelera si su tipo está dentro.
+			Conserva los últimos 6 objetos tirados.
+			Shift+Ctrl+Clic izquierdo en un objeto para moverlo a la papelera.
+			'''
+	}
+
+	FontOffsetPreviewText: Ajusta el valor de desplazamiento para que el texto encaje en la línea.
+	BigFontOffsetPreviewText: El veloz zorro marrón...
+
+	OpenConfig: {
+		Label: "{$Mods.ImproveGame.Configs.ImproveConfigs.OpenConfig.Label}"
+		Tooltip: "{$Mods.ImproveGame.Configs.ImproveConfigs.OpenConfig.Tooltip}"
+	}
+
+	KeepFocus: {
+		Label: "[centeritem:TVHeadMask] Mantener el juego en ejecución al perder el foco"
+		Tooltip:
+			'''
+			El juego seguirá ejecutándose aunque se pierda el foco (es decir, en segundo plano)
+			en lugar de pausarse en un jugador.
+			'''
+	}
+
+	ExplosionEffect: {
+		Label: "[centeritem:TNTBarrel] Efectos de explosión de varitas"
+		Tooltip: Alterna los efectos de explosión de las varitas de este mod.
+	}
+
+	Headers: {
+		MinimapHeader: "[centeritem:WorldGlobe] Ajustes de marcadores del mapa"
+		UIHeader: "[centeritem:EchoMonolith] Ajustes de UI"
+		GameHeader: "[centeritem:JimsDrone] Ajustes del juego"
+	}
+
+	MarkFloatingIsland: {
+		Tooltip: Tamaño de los iconos del mapa de Islas flotantes marcadas; 0 para ocultar
+		Label: "[centeritem:ImproveGame/FloatingIslandGlobe] Tamaño del icono de Islas flotantes"
+	}
+
+	MarkAether: {
+		Tooltip: Tamaño de los iconos del mapa del Éter marcado; 0 para ocultar
+		Label: "[centeritem:ImproveGame/AetherGlobe] Tamaño del icono del Éter"
+	}
+
+	MarkTemple: {
+		Tooltip: Tamaño de los iconos del mapa del Templo de la selva marcado; 0 para ocultar
+		Label: "[centeritem:ImproveGame/TempleGlobe] Tamaño del icono del Templo de la selva"
+	}
+
+	MarkDungeon: {
+		Tooltip: Tamaño de los iconos del mapa de la Mazmorra marcada; 0 para ocultar
+		Label: "[centeritem:ImproveGame/DungeonGlobe] Tamaño del icono de la Mazmorra"
+	}
+
+	MarkPyramid: {
+		Label: "[centeritem:ImproveGame/PyramidGlobe] Tamaño del icono de Pirámide"
+		Tooltip: Tamaño de los iconos del mapa de Pirámides marcadas; 0 para ocultar
+	}
+
+	MarkPlantera: {
+		Label: "[centeritem:ImproveGame/PlanteraGlobe] Tamaño del icono del Brote de Plantera"
+		Tooltip: Tamaño de los iconos del mapa de {$MapObject.PlanterasBulb} marcados; 0 para ocultar
+	}
+
+	MarkEnchantedSword: {
+		Label: "[centeritem:ImproveGame/EnchantedSwordGlobe] Tamaño del icono de Espada encantada"
+		Tooltip: Tamaño de los iconos del mapa de {$ItemName.EnchantedSword} marcadas; 0 para ocultar
+	}
+
+	MarkMarbleCave: {
+		Label: "[centeritem:ImproveGame/MarbleCaveGlobe] Tamaño del icono de Cueva de mármol"
+		Tooltip: Tamaño de los iconos del mapa de Cuevas de mármol marcadas; 0 para ocultar
+	}
+
+	MarkGraniteCave: {
+		Label: "[centeritem:ImproveGame/GraniteCaveGlobe] Tamaño del icono de Cueva de granito"
+		Tooltip: Tamaño de los iconos del mapa de Cuevas de granito marcadas; 0 para ocultar
+	}
+
+	MarkHive: {
+		Label: "[centeritem:ImproveGame/GraniteCaveGlobe] Tamaño del icono de Colmena"
+		Tooltip: Tamaño de los iconos del mapa de colmenas marcadas; 0 para ocultar
+	}
+
+	MarkEmptyAutofisher: {
+		Label: "[centeritem:ImproveGame/Autofisher] Tamaño del icono de Máquina de Pesca sin cebo"
+		Tooltip: Tamaño de los iconos del mapa de Máquinas de Pesca sin cebo; 0 para ocultar
+	}
+
+	SuicideButton: {
+		Label: Matar al jugador
+		Tooltip: Tu personaje morirá al pulsar este botón; [c/FF4444:piénsalo dos veces antes de pulsarlo].
+	}
+
+	MagicMirrorInstantTp: {
+		Label: "[centeritem:MagicMirror] Objetos de regreso instantáneos"
+		Tooltip: Los objetos de regreso como el Espejo mágico son instantáneos; se elimina el retraso antes del teletransporte.
+	}
+
+	HideNoConsumeBuffs: {
+		Label: "[centeritem:297] Ocultar iconos de mejora de pociones infinitas"
+		Tooltip:
+			'''
+			Oculta los iconos de mejora de las pociones infinitas
+			Los efectos siguen proporcionándose por sus mejoras originales, pero no se muestran
+			'''
+	}
+
+	InfernoTransparency: {
+		Label: "[centeritem:InfernoPotion] Alfa del anillo de Infierno"
+		Tooltip: Alfa de los anillos de Infierno en tu perspectiva; 1 es sólido y 0 es transparente.
+	}
+
+	InvisibleTransparency: {
+		Label: "[centeritem:InvisibilityPotion] Alfa de invisibilidad"
+		Tooltip: Alfa de tu personaje en tu perspectiva al estar invisible; 1 es sólido y 0 es transparente.
+	}
+
+	ThemeType: {
+		Tooltip: Esquema de color de la UI de Quality of Terraria.
+		Label: "[qotglyph:12] Esquema de color de UI"
+	}
+
+	ShowShimmerInfo: {
+		Label: "[centeritem:BottomlessShimmerBucket] Mostrar info de Fulgor"
+		Tooltip: Muestra en la descripción en qué se puede fulgurar un objeto.
+	}
+
+	ShowAmmoInfo: {
+		Label: "[centeritem:1302] Mostrar tipo de munición usada"
+		Tooltip: Muestra el tipo de munición que usa o a la que pertenece un objeto (si tiene)
+	}
+
+	ResetUIPositionsButton: {
+		Label: Restablecer posición de UI
+		Tooltip: Restaura todas las posiciones de UI al valor predeterminado; especialmente útil cuando no encuentras la UI de la Mochila Grande
+	}
+
+	EnableBlur: {
+		Label: "[centeritem:MulticoloredStainedGlass] Desenfoque de UI"
+		Tooltip:
+			'''
+			Proporciona un efecto de desenfoque a la UI de QoT
+			No funciona con iluminación Retro
+			Consejo: Un "denominador de escala" mayor funciona mejor en pantallas de alta resolución,
+			que se establece con otra opción de configuración
+			'''
+	}
+
+	SingleBlur: {
+		Label: "[centeritem:MulticoloredStainedGlass] Desenfoque de UI individual (alto rendimiento)"
+		Tooltip: Desenfoca cada ventana de UI por separado, lo cual es más bonito, pero puede causar problemas de compatibilidad (p. ej.: filtros que desaparecen, texto sobre la cabeza al enviar mensajes, etc.)
+	}
+
+	BlurZoomMultiplierDenominator: {
+		Label: "[centeritem:MulticoloredStainedGlass] Escala de desenfoque (mayor = menos carga)"
+		Tooltip:
+			'''
+			Cuanto mayor sea este valor, menos potencia de cálculo se requiere
+			Si el desenfoque causa lag, prueba a aumentar este valor
+			Los valores sugeridos son:
+			- GPU normal, resolución 4K: 4
+			- GPU de gama alta: 1
+			1 significa que el desenfoque se basa en la resolución original
+			Aumentar este valor afecta el alcance del desenfoque
+			Puede que quieras ajustar las opciones de abajo en consecuencia
+			'''
+	}
+
+	BlurIterationCount: {
+		Label: "[centeritem:MulticoloredStainedGlass] Iteraciones (mayor = más carga)"
+		Tooltip:
+			'''
+			Cuanto mayor sea el valor, más desenfocado estará el fondo
+			Si el desenfoque causa lag, prueba a reducir este valor
+			'''
+	}
+
+	BlurIterationOffsetMultiplier: {
+		Label: "[centeritem:MulticoloredStainedGlass] Coeficiente de desplazamiento de muestreo (sin impacto de rendimiento)"
+		Tooltip: Cuanto mayor sea el valor, más desenfocado estará el fondo, pero pueden aparecer rayas
+	}
+
+	BlurMixingNumber: {
+		Label: "[centeritem:MulticoloredStainedGlass] Muestreo de color (mayor = más carga)"
+		Tooltip: Cuanto mayor sea el valor, más colores se muestrean para el desenfoque
+	}
+
+	AutoSummon: {
+		Label: "[centeritem:SlimeStaff] Reinvocación automática"
+		Tooltip:
+			'''
+			Invoca el último esbirro usado tras reaparecer
+			Se desactiva si el mod "Summoners' Association" está cargado
+			¡Summoners' Association ofrece un control de invocación más fino!
+			'''
+	}
+
+	RecipeSearch: {
+		Label: "[centeritem:ImproveGame/SearchIcon] Búsqueda de recetas"
+		Tooltip: Muestra una barra de búsqueda cuando el menú de recetas está expandido
+	}
+
+	RemoveGraveyardVisual: {
+		Label: "[centeritem:RichGravestone2] Quitar visual del cementerio"
+		Tooltip: Elimina el efecto visual del cementerio. Su funcionalidad como bioma no se verá afectada
+	}
+
+	RemoveGraveyardMist: {
+		Label: "[centeritem:RichGravestone2] Quitar niebla del cementerio"
+		Tooltip: Elimina el efecto de niebla del cementerio. La niebla indica si estás en el bioma
+	}
+
+	RemoveGraveyardMusic: {
+		Label: "[centeritem:RichGravestone2] Quitar música del cementerio"
+		Tooltip: Elimina la música de fondo del cementerio
+	}
+
+	SpelunkerColor: {
+		Label: "[centeritem:296] Ajustar resaltado de la Poción de espeleólogo"
+		Tooltip: Puedes ajustar libremente el color de los minerales resaltados
+	}
+
+	GlobeEffect: {
+		Label: "[centeritem:WorldGlobe] Efecto de Localizador"
+		Tooltip: Desactívalo si no te gusta
+	}
+
+	FckKeybindPopup: {
+		Label: Bloquear aviso de teclas
+		Tooltip: Deja de decirme que tengo que asignar una tecla que no quiero.
+	}
+}
+
+PAPDisplayMode: {
+	Tooltip: ""
+
+	AlwaysDisplayed: {
+		Label: Siempre
+		Tooltip: ""
+	}
+
+	NotDisplayed: {
+		Label: Oculto
+		Tooltip: ""
+	}
+
+	WhenOpeningBackpack: {
+		Label: Solo con inventario
+		Tooltip: Muestra las estadísticas fijadas solo cuando el inventario está abierto
+	}
+}
+
+ThemeType: {
+	Stormdark: {
+		Label: Stormdark
+		Tooltip: Esquema Stormdark. Funciona mejor con el pack de texturas Stormdark (suscríbete en el Steam Workshop de Terraria)
+	}
+
+	Blue: {
+		Label: Clásico
+		Tooltip: Esquema vanilla
+	}
+
+	Tooltip: ""
+}
+
+GlassType: {
+	Tooltip: ""
+	Disabled.Label: Desactivado
+	MicaLike.Label: Mica
+}
+
+BombsNotDamageType: {
+	Tooltip: ""
+
+	Disabled: {
+		Label: Desactivado
+		Tooltip: ""
+	}
+
+	Item: {
+		Label: Solo explosivos
+		Tooltip: Solo explosivos de objetos
+	}
+
+	ItemAndRocket: {
+		Label: Explosivos y cohetes
+		Tooltip: Explosivos de objetos y cohetes
+	}
+}
+
+DisableNonPlayerBombsExplosionsType: {
+	Tooltip: ""
+
+	Disabled: {
+		Label: Desactivado
+		Tooltip: ""
+	}
+
+	FTW: {
+		Label: Solo For the Worthy
+		Tooltip: Solo en mundos For the Worthy, las bombas producidas por jarrones, agitar árboles o el Mech Prime no destruyen bloques
+	}
+
+	FTWAndExplosives: {
+		Label: Todo
+		Tooltip: El bloque de Explosivos y los explosivos generados naturalmente no destruyen bloques
+	}
+}
+
+FavoritedConfigs: {
+	DisplayName: Configuraciones favoritas
+
+	Header: {
+		Favorited: "[centeritem:FallenStar] Opciones favoritas"
+		News: "[centeritem:RainbowCursor] Configuraciones nuevas"
+	}
+
+	FavoriteIntroduction: {
+		Label: Una página para administrar configuraciones de uso frecuente
+		Tooltip:
+			'''
+			<right> en cualquier configuración de Quality of Terraria para marcarla como favorita
+			Las configuraciones favoritas se mostrarán en esta página para acceso rápido
+			Además, la página muestra las configuraciones nuevas tras las actualizaciones
+			'''
+	}
+}
+
+FishQuestResetType: {
+	Tooltip: ""
+
+	Disabled: {
+		Label: Desactivado
+		Tooltip: ""
+	}
+
+	NotResetFish: {
+		Label: No reiniciar pez
+		Tooltip: ""
+	}
+
+	ResetFish: {
+		Label: Reiniciar pez
+		Tooltip: ""
+	}
+}
+
+TestConfig: {
+	DisplayName: Configuración de prueba
+
+	test: {
+		Label: test
+		Tooltip: ""
+	}
+}
+
+TestData: {
+	Tooltip: ""
+
+	x: {
+		Label: x
+		Tooltip: ""
+	}
+
+	value: {
+		Label: value
+		Tooltip: ""
+	}
+
+	text: {
+		Label: text
+		Tooltip: ""
+	}
+}
+
+BlurMixingNumber: {
+	Tooltip: ""
+
+	One: {
+		Label: "1"
+		Tooltip: ""
+	}
+
+	Two: {
+		Label: "2"
+		Tooltip: ""
+	}
+
+	Three: {
+		Label: "3"
+		Tooltip: ""
+	}
+
+	Four: {
+		Label: "4"
+		Tooltip: ""
+	}
+
+	Five: {
+		Label: "5"
+		Tooltip: ""
+	}
+}
