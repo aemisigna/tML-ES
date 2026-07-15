@@ -65,6 +65,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity: Hunt of the Old God | ✅ | 1.2.3
 | Progression Journal | ✅ | 2.1.4
 | Quality of Terraria | ✅ | 1.8.2
+| LuiAFK Reborn | ✅ | 1.2.5
 ---
 
 ## Comunidad
