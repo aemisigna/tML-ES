@@ -81,6 +81,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Progression Journal | ✅ | 2.1.4
 | Quality of Terraria | ✅ | 1.8.2
 | LuiAFK Reborn | ✅ | 1.2.5
+| Secrets of the Shadows | ✅ | 0.25.1.7
 
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.

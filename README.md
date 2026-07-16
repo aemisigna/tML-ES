@@ -66,6 +66,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Progression Journal | ✅ | 2.1.4
 | Quality of Terraria | ✅ | 1.8.2
 | LuiAFK Reborn | ✅ | 1.2.5
+| Secrets of the Shadows | ✅ | 0.25.1.7
 ---
 
 ## Comunidad
