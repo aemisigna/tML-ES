@@ -84,6 +84,11 @@ Configs: {
 			Tooltip: Desactiva la traducción de Calamity: Hunt of the Old God.
 		}
 
+		SecretOfTheShadowsLocalization: {
+			Label: Secret of the Shadows
+			Tooltip: Desactiva la traducción de Secret of the Shadows.
+		}
+
 		CalamityModMusicLocalization: {
 			Label: Calamity Mod Music
 			Tooltip: Desactiva la traducción de Calamity Mod Music.
@@ -104,6 +109,16 @@ Configs: {
 			Tooltip: Desactiva la traducción de Progression Journal.
 		}
 
+		ImproveGameLocalization: {
+			Label: Quality of Terraria
+			Tooltip: Desactiva la traducción de Quality of Terraria.
+		}
+
+		LuiAfkLocalization: {
+			Label: LuiAFK Reborn
+			Tooltip: Desactiva la traducción de LuiAFK Reborn.
+		}
+
 		ShowStartUpCollabMessage: {
 			Label: Mostrar anuncio de colaboradores al iniciar
 			Tooltip: Muestra un mensaje de anuncio indicando que el mod está abierto a recibir contribuciones de la comunidad al entrar a un mundo.
@@ -112,6 +127,11 @@ Configs: {
 		ShowTranslationModIncompatibilityScreen: {
 			Label: Mostrar pantalla de incompatibilidad de traducción de mods
 			Tooltip: Muestra una pantalla de advertencia si se detecta que un mod de traducciones no es compatible con tModLoader en Español.
+		}
+
+		ShowLanguageWarningScreen: {
+			Label: Mostrar advertencia de idioma
+			Tooltip: Muestra una pantalla de advertencia al entrar a un mundo si el idioma del juego no está configurado en español.
 		}
 
 		ShowOriginalItemNames: {
@@ -141,7 +161,7 @@ Misc.CollabMessage:
 	[tmles:CalamityModSpanish/DoremyGlyph] ¡Oye! ¡Es importante!
 	>*     tModLoader en Español está abierto a recibir contribuciones de la comunidad. 
 	>	    Si deseas ayudar a traducir mods, puedes unirte a nuestro Discord para obtener más detalles.
-	>	    ¡Los colaboradores recibirán créditos en el mod y una mascota exclusiva dentro del mod! ¡Gracias por tu apoyo!
+	>	    ¡Los colaboradores recibirán créditos y una mascota exclusiva dentro del mod! ¡Gracias por tu apoyo!
 	'''
 
 Buffs: {
