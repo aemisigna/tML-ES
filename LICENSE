@@ -1,0 +1,99 @@
+tML ES Localization Contribution License
+Copyright (c) 2026 tML ES Team
+
+This is not an OSI-approved open source license. It is a source-available
+contribution license for the public localization repository of tML ES
+("tModLoader en Español").
+
+----------------------------------------------------------------------
+0. WHAT THIS LICENSE COVERS
+----------------------------------------------------------------------
+
+This license applies ONLY to material whose copyright is held by tML ES
+Team and its contributors, including without limitation:
+
+  - Spanish localization files (typically under es-ES paths or names)
+  - Project documentation authored by tML ES Team (for example README,
+    CONTRIBUTING, HOW_TO_FORK, GLOSSARY, and similar docs)
+  - Contribution tooling authored by tML ES Team (for example CI
+    workflows and validation scripts in this repository), except where
+    a file states otherwise
+
+This license does NOT apply to English reference files (typically under
+en-US paths or names). Those files are provided solely as translation
+reference for contributors. Copyright and other rights in the original
+English text remain with the respective upstream mod authors and
+projects. tML ES Team does not claim ownership of those files and does
+not grant any license to them beyond whatever rights you already have
+from the original projects (if any).
+
+If a third-party file is included in this repository, its original
+license and copyright notices control for that file.
+
+----------------------------------------------------------------------
+1. PERMITTED USE (tML ES material only)
+----------------------------------------------------------------------
+
+For material covered by this license, you may:
+
+  a) View and download it for personal reference and for contributing
+     to tML ES;
+
+  b) Fork this repository and create branches solely to prepare and
+     submit Pull Requests to https://github.com/aemisigna/tML-ES
+     (or any successor repository designated by tML ES Team);
+
+  c) Modify covered files in your fork only as needed to prepare such
+     Pull Requests.
+
+----------------------------------------------------------------------
+2. RESTRICTED USE (tML ES material only)
+----------------------------------------------------------------------
+
+Unless you have prior written permission from tML ES Team, you may not:
+
+  a) Redistribute Spanish localization content from this repository,
+     in whole or in part, outside of a contribution workflow to tML ES;
+
+  b) Use that Spanish localization content in another mod, translation
+     pack, project, product, or service;
+
+  c) Publish derivative works based on that Spanish localization corpus
+     (other than Pull Requests submitted to tML ES);
+
+  d) Sell, sublicense, or commercially exploit that material.
+
+----------------------------------------------------------------------
+3. CONTRIBUTIONS
+----------------------------------------------------------------------
+
+By submitting a Pull Request, issue, or other contribution to this
+repository, you confirm that:
+
+  a) You have the right to submit the contribution (it is your original
+     work, or you are otherwise authorized to contribute it); and
+
+  b) You authorize tML ES Team to use, adapt, review, and publish your
+     contribution as part of this repository and as part of the tML ES
+     mod and its updates (including distribution on platforms such as
+     the Steam Workshop).
+
+Contributors are credited for their work (for example via GitHub
+contributors, and where applicable on the Steam Workshop page and
+community channels maintained by tML ES Team).
+
+----------------------------------------------------------------------
+4. NO WARRANTY
+----------------------------------------------------------------------
+
+THE CONTENTS OF THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+TML ES TEAM SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS REPOSITORY.
+
+----------------------------------------------------------------------
+5. CONTACT
+----------------------------------------------------------------------
+
+For permissions beyond those granted above, contact tML ES Team through
+the project Discord or other official channels listed in the README.
