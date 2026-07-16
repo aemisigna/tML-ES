@@ -316,6 +316,26 @@ El equipo puede solicitar cambios antes de integrar. Responde los comentarios de
 
 ---
 
+## Licencia y contribuciones
+
+Este repositorio usa una licencia de contribución controlada (no es MIT/GPL). El texto completo está en [`LICENSE`](LICENSE). En resumen:
+
+- La licencia de tML ES cubre las traducciones en español (`es-ES`), la documentación del proyecto y las herramientas de CI propias.
+- Los archivos en inglés (`en-US`) **no son de tML ES**: son de los mods originales y están aquí solo como referencia para traducir. No los edites ni reclames derechos sobre ellos.
+- Puedes ver, descargar y hacer fork del repositorio **para contribuir a tML ES** mediante Pull Requests.
+- No está permitido redistribuir las traducciones en español ni usarlas en otro mod o proyecto sin permiso del equipo.
+
+Al abrir una Pull Request confirmas que:
+
+1. El texto que aportas es original o tienes derecho a aportarlo.
+2. Autorizas a tML ES Team a usar, adaptar y publicar tu aporte como parte de este repositorio y del mod tML ES (incluidas las actualizaciones y la distribución en Steam Workshop).
+
+Tu aporte se acredita (por ejemplo en GitHub y, cuando corresponda, en la página de Steam Workshop y en los canales de la comunidad).
+
+Si tienes dudas sobre el alcance de la licencia, pregunta en Discord antes de contribuir.
+
+---
+
 ## Contacto
 
 Ante cualquier duda, consulta en el canal correspondiente del **[Discord del proyecto](https://discord.gg/Z43xMxKdXZ)** antes de empezar a trabajar.

@@ -99,6 +99,10 @@ Este proyecto existe en su estado actual gracias a todas las personas que han co
 
 ## Licencia
 
-Copyright © 2026 **tML ES Team**. Todos los derechos reservados.
+Copyright © 2026 **tML ES Team** (traducciones en español, documentación y herramientas del repositorio).
 
-Los archivos de localización de este repositorio no pueden ser copiados, redistribuidos ni utilizados en obras derivadas sin permiso escrito explícito del titular de los derechos.
+Este repositorio **no usa una licencia open source tipo MIT/GPL**: es de contribución controlada. Puedes forkar y proponer traducciones por Pull Request; no está permitido redistribuir el corpus en español ni usarlo en otros mods o proyectos sin permiso.
+
+Los archivos `en-US` son de los mods originales y se incluyen solo como referencia; tML ES no reclama derechos sobre ellos.
+
+Ver [`LICENSE`](LICENSE) para el texto completo y [`CONTRIBUTING.md`](CONTRIBUTING.md) para el proceso de contribución y el crédito a colaboradores.
