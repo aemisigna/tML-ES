@@ -64,25 +64,35 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 
 | Mod | Estado |
 |-----|--------|
-| Calamity Mod | ✅ | v2.2.1 
+| Calamity Mod | ✅ | v2.2.1
 | Infernum Mode | ✅ | v2.0.1.34
-| Wrath of the Gods | ✅ | v1.2.31
+| Calamity: Wrath of the Gods | ✅ | v1.2.31
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
-| Fargo's Souls DLC | ✅ | v1.2.0.26
+| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
 | Calamity Overhaul | ✅ | v0.9025
 | Catalyst Mod | ✅ | v1.1.7
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
+| The Stars Above | ✅ | v2.1.8.4
+| Calamity's Vanities | ✅ | v11.4.1
+| Calamity: Hunt of the Old God | ✅ | v1.2.3
+| Secrets of the Shadows | ✅ | v0.25.1.7
+| Thorium Mod | ✅ | v1.7.2.6
+| Ragnarok | ✅ | v1.6.0.5
 | Split | 🔴 | X
-| The Stars Above | ✅ | 2.1.8.4
-| AlchemistNPC Lite | ✅ | 1.9.9.3
-| Calamity's Vanities | ✅ | 11.4.1
-| Calamity: Hunt of the Old God | ✅ | 1.2.3
-| Progression Journal | ✅ | 2.1.4
-| Quality of Terraria | ✅ | 1.8.2
-| LuiAFK Reborn | ✅ | 1.2.5
-| Secrets of the Shadows | ✅ | 0.25.1.7
 
+| Calamity Mod Music | ✅ | v2.1
+| Infernum Mode Music | ✅ | v2.0.1.8
+| AlchemistNPC Lite | ✅ | v1.9.9.3
+| Progression Journal | ✅ | v2.1.4
+| Quality of Terraria | ✅ | v1.8.2
+| LuiAFK Reborn | ✅ | v1.2.5
+| Revengeance+ | ✅ | v0.6.1
+| Thrower Unification | ✅ | v0.3.15.3
+| Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
+| Unofficial Calamity Whips | ✅ | v1.2.2
+| Calamity Simple Whip Addon | ✅ | v1.15.9
+| Calamity: War Machine Invasion | ✅ | v0.1.6
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
