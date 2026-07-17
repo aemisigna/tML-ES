@@ -752,7 +752,7 @@ FirstMetTzeentch: {
 	Choice3_R3: Solo que la mayoría de finales no son agradables.
 	EndLine1: Entonces nos veremos de nuevo.
 	EndLine2: Pronto.
-	// Rolename: ?????????????????????
+	Rolename: ?????????????????????
 }
 
 DyeProtest: {
@@ -987,7 +987,7 @@ FirstMetShepel: {
 	CybCourseDeclineText: Ahora no
 	CybCourseAcceptResponse: Recibido; estableciendo enlace neural... Permanezca quieto.
 	CybCourseDeclineResponse: Entendido; credenciales guardadas en su partida; puede activarlas cuando quiera, amo.
-	// SpeakerName: SHPC
+	SpeakerName: SHPC
 }
 
 TheHerInThePast: {

@@ -1,0 +1,1726 @@
+RecipeGroups: {
+	AnyPhaseScourge: Cualquier Azote de Fase
+	AnyWood: Cualquier Madera
+}
+
+Items: {
+	WoodenWhip: {
+		DisplayName: Látigo de Madera
+		Tooltip: Multiplicador de daño de conexión por invocación: x1.07
+	}
+
+	RapierWhip: {
+		DisplayName: Látigo Estoque
+		Tooltip:
+			'''
+			8% de probabilidad de golpe crítico de conexión por invocación
+
+			El látigo estoque no es adecuado para atacar a múltiples enemigos.
+			'''
+	}
+
+	BreezePiercer: {
+		DisplayName: Perforador de la Brisa
+		Tooltip: 9% de probabilidad de golpe crítico de conexión por invocación
+	}
+
+	Gelxyribose: {
+		DisplayName: Gelxyribose
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.07
+			7% de probabilidad de golpe crítico de conexión por invocación
+			'''
+	}
+
+	OrangePhaseWhip: {
+		DisplayName: Látigo de Fase Naranja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	GreenPhaseWhip: {
+		DisplayName: Látigo de Fase Verde
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	BluePhaseWhip: {
+		DisplayName: Látigo de Fase Azul
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	PurplePhaseWhip: {
+		DisplayName: Látigo de Fase Púrpura
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	RedPhaseWhip: {
+		DisplayName: Látigo de Fase Roja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	WhitePhaseWhip: {
+		DisplayName: Látigo de Fase Blanca
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	YellowPhaseWhip: {
+		DisplayName: Látigo de Fase Amarilla
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	OrangePhaseScourge: {
+		DisplayName: Azote de Fase Naranja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	GreenPhaseScourge: {
+		DisplayName: Azote de Fase Verde
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	BluePhaseScourge: {
+		DisplayName: Azote de Fase Azul
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	PurplePhaseScourge: {
+		DisplayName: Azote de Fase Púrpura
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	RedPhaseScourge: {
+		DisplayName: Azote de Fase Roja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	WhitePhaseScourge: {
+		DisplayName: Azote de Fase Blanca
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	YellowPhaseScourge: {
+		DisplayName: Azote de Fase Amarilla
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	GlitterGutter: {
+		DisplayName: Canalón de Purpurina
+		Tooltip:
+			'''
+			10% de probabilidad de golpe crítico de conexión por invocación
+			Todos los enemigos golpeados por este látigo
+			hacen que el siguiente ataque de un súbdito
+			libere dos fragmentos de cristal teledirigidos
+			que infligen 20% de daño.
+			'''
+	}
+
+	Droptide: {
+		DisplayName: Marea Menguante
+		Tooltip: Multiplicador de daño de conexión por invocación: x1.12
+	}
+
+	Ectopia: {
+		DisplayName: Ectopia
+		Tooltip: 22% de probabilidad de golpe crítico de conexión por invocación
+	}
+
+	Unfathomable: {
+		DisplayName: Insondable
+		Tooltip: Multiplicador de daño de conexión por invocación: x1.25
+	}
+
+	DestructionChain: {
+		DisplayName: Cadena de Destrucción
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			hacen que el siguiente ataque de un súbdito
+			desencadene una explosión
+			que inflige 100% de daño.
+			Los enemigos eliminados por esta explosión
+			desencadenan otra explosión,
+			que puede seguir encadenándose.
+			'''
+	}
+
+	GloamshardConduit: {
+		DisplayName: Conducto de Fragmento Crepuscular
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.1
+			10% de probabilidad de golpe crítico de conexión por invocación
+
+			Todos los enemigos golpeados por este látigo
+			reciben x1.25 de daño del siguiente ataque de un súbdito y explotan,
+			infligiendo 10% de daño a los enemigos cercanos.
+			'''
+	}
+
+	Satellite: {
+		DisplayName: Satélite
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			reciben un golpe crítico garantizado de un súbdito.
+			'''
+	}
+
+	EntwinedBranches: {
+		DisplayName: Ramas Entrelazadas
+		Tooltip: Multiplicador de daño de conexión por invocación: x1.27
+	}
+
+	Necropsia: {
+		DisplayName: Necropsia
+		Tooltip: 27% de probabilidad de golpe crítico de conexión por invocación
+	}
+
+	ResonantVoid: {
+		DisplayName: Vacío Resonante
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.12
+			12% de probabilidad de golpe crítico de conexión por invocación
+
+			Todos los enemigos golpeados por este látigo
+			reciben x1.50 de daño del siguiente ataque de un súbdito y explotan,
+			infligiendo 20% de daño a los enemigos cercanos.
+
+			Este ataque de látigo ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	SkybreakerCoil: {
+		DisplayName: Bobina Rompecielos
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			reciben x1.30 de daño del siguiente ataque de un súbdito y liberan una descarga eléctrica,
+			electrocutando rápidamente a los enemigos cercanos durante un breve tiempo, ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	Milkyway: {
+		DisplayName: Vía Láctea
+		Tooltip:
+			'''
+			+10 de daño de conexión por invocación por acumulación
+			Todos los enemigos golpeados por este látigo
+			reciben un golpe crítico garantizado de x4 de daño de un súbdito.
+			La marca de este látigo se acumula consigo misma.
+			Las acumulaciones más antiguas expiran primero.
+			Una cantidad de cometas igual al número de acumulaciones orbita alrededor del enemigo.
+			'''
+	}
+
+	KusariGama: {
+		DisplayName: Kusari Gama
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.13
+			Otorga inmunidad al retroceso mientras se sostiene
+			'''
+	}
+
+	Loadout: {
+		DisplayName: Loadout
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.07
+			7% de probabilidad de golpe crítico de conexión por invocación
+			Todos los enemigos golpeados por este látigo
+			son alcanzados por un láser en el siguiente ataque de un súbdito,
+			infligiendo 50% del daño infligido.
+			Este láser ignora la armadura.
+			La reducción de daño no puede ser ignorada.
+			'''
+	}
+
+	AncientBonds: {
+		DisplayName: Vínculos Ancestrales
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
+			recibiendo 20% del daño del súbdito 3 veces seguidas.
+			El daño de empalamiento perfora 5 de armadura.
+			'''
+	}
+
+	PrimalBonds: {
+		DisplayName: Vínculos Primigenios
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
+			recibiendo 20% del daño del súbdito 5 veces seguidas.
+			El daño de empalamiento perfora 10 de armadura.
+			'''
+	}
+
+	ExistenceBonds: {
+		DisplayName: Vínculos de la Existencia
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
+			recibiendo 20% del daño del súbdito 6 veces seguidas.
+			El daño de empalamiento perfora 15 de armadura.
+			'''
+	}
+
+	MermaidsTear: {
+		DisplayName: Lágrima de Sirena
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo
+			son empalados por una lanza espectral en el siguiente ataque de un súbdito,
+			recibiendo 25% del daño del súbdito 8 veces seguidas.
+			El daño de empalamiento perfora 50 de armadura.
+			'''
+	}
+
+	MandibleLash: {
+		DisplayName: Latigazo de Mandíbula
+		Tooltip:
+			'''
+			1 de daño de conexión por invocación
+			Todos los enemigos golpeados por este látigo
+			hacen que el siguiente ataque de un súbdito lance una bola de arena
+			que cae por gravedad e inflige 40% de daño.
+			Explota al impactar con un bloque, dañando a los enemigos cercanos.
+			'''
+	}
+
+	DarkMandibleLash: {
+		DisplayName: Latigazo de Mandíbula Oscura
+		Tooltip:
+			'''
+			2 de daño de conexión por invocación
+			Todos los enemigos golpeados por este látigo
+			hacen que el siguiente ataque de un súbdito lance una bola de arena
+			que cae por gravedad e inflige 40% de daño.
+			Explota al impactar con un bloque, dañando a los enemigos cercanos.
+			'''
+	}
+
+	ShieldConduit: {
+		DisplayName: Conducto de Escudo
+		Tooltip:
+			'''
+			2 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo azules
+			durante un breve tiempo.
+			Recoger fragmentos acumula carga de escudo.
+			Al alcanzar 50 de carga, obtienes un escudo de 50 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos,
+			infligiendo 10% del daño del súbdito +3 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
+			que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo,
+			el enfriamiento de recarga se convierte en 60 segundos.
+			Durante el enfriamiento, cambia al Modo Ataque.
+			Cuando termina el enfriamiento, cambia al Modo Defensa.
+			Si queda algo de escudo, recoger fragmentos
+			restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkII: {
+		DisplayName: Conducto de Escudo Mk-II
+		Tooltip:
+			'''
+			4 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo azules
+			durante un breve tiempo.
+			Recoger fragmentos acumula carga de escudo.
+			Al alcanzar 100 de carga, obtienes un escudo de 100 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos,
+			infligiendo 10% del daño del súbdito +5 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
+			que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo,
+			el enfriamiento de recarga se convierte en 60 segundos.
+			Durante el enfriamiento, cambia al Modo Ataque.
+			Cuando termina el enfriamiento, cambia al Modo Defensa.
+			Si queda algo de escudo, recoger fragmentos
+			restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkIII: {
+		DisplayName: Conducto de Escudo Mk-III
+		Tooltip:
+			'''
+			7 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo azules
+			durante un breve tiempo.
+			Recoger fragmentos acumula carga de escudo.
+			Al alcanzar 150 de carga, obtienes un escudo de 150 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos,
+			infligiendo 10% del daño del súbdito +25 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
+			que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo,
+			el enfriamiento de recarga se convierte en 60 segundos.
+			Durante el enfriamiento, cambia al Modo Ataque.
+			Cuando termina el enfriamiento, cambia al Modo Defensa.
+			Si queda algo de escudo, recoger fragmentos
+			restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkIV: {
+		DisplayName: Conducto de Escudo Mk-IV
+		Tooltip:
+			'''
+			12 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo azules
+			durante un breve tiempo.
+			Recoger fragmentos acumula carga de escudo.
+			Al alcanzar 200 de carga, obtienes un escudo de 200 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos,
+			infligiendo 10% del daño del súbdito +50 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
+			que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo,
+			el enfriamiento de recarga se convierte en 60 segundos.
+			Durante el enfriamiento, cambia al Modo Ataque.
+			Cuando termina el enfriamiento, cambia al Modo Defensa.
+			Si queda algo de escudo, recoger fragmentos
+			restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkV: {
+		DisplayName: Conducto de Escudo Mk-V
+		Tooltip:
+			'''
+			20 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo azules
+			durante un breve tiempo.
+			Recoger fragmentos acumula carga de escudo.
+			Al alcanzar 250 de carga, obtienes un escudo de 250 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que
+			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos,
+			infligiendo 10% del daño del súbdito +150 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
+			que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo,
+			el enfriamiento de recarga se convierte en 60 segundos.
+			Durante el enfriamiento, cambia al Modo Ataque.
+			Cuando termina el enfriamiento, cambia al Modo Defensa.
+			Si queda algo de escudo, recoger fragmentos
+			restaura la durabilidad del escudo.
+			'''
+	}
+
+	LayeredPain: {
+		DisplayName: Dolor en Capas
+		Tooltip:
+			'''
+			+1 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo.
+			Las acumulaciones más antiguas expiran primero.
+			'''
+	}
+
+	NightButterfly: {
+		DisplayName: Mariposa Nocturna
+		Tooltip:
+			'''
+			+2 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo.
+			Las acumulaciones más antiguas expiran primero.
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
+			'''
+	}
+
+	ActiasAliena: {
+		DisplayName: Actias Aliena
+		Tooltip:
+			'''
+			+3 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo.
+			Las acumulaciones más antiguas expiran primero.
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
+			'''
+	}
+
+	ButterflyEffect: {
+		DisplayName: Efecto Mariposa
+		Tooltip:
+			'''
+			+6 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo.
+			Las acumulaciones más antiguas expiran primero.
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
+			'''
+	}
+
+	EtaCarinae: {
+		DisplayName: Eta Carinae
+		Tooltip:
+			'''
+			+10 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo.
+			Las acumulaciones más antiguas expiran primero.
+			Una cantidad de cometas igual al número de acumulaciones orbita alrededor del enemigo.
+			'''
+	}
+
+	GoldRush: {
+		DisplayName: Fiebre del Oro
+		Tooltip:
+			'''
+			8 de daño de conexión por invocación
+			Golpear enemigos invoca regularmente armas físicas que infligen 100% del daño del súbdito.
+			'''
+	}
+
+	GildedReliquary: {
+		DisplayName: Relicario Dorado
+		Tooltip:
+			'''
+			20 de daño de conexión por invocación
+			Golpear enemigos invoca rápidamente un veloz arsenal que inflige 120% del daño del súbdito
+			'''
+	}
+
+	AurelianSanctum: {
+		DisplayName: Santuario Aureliano
+		Tooltip:
+			'''
+			80 de daño de conexión por invocación
+			Golpear enemigos desata una implacable ráfaga de armas que infligen 200% del daño del súbdito
+			'''
+	}
+
+	KingsMajesty: {
+		DisplayName: Majestad del Rey
+		Tooltip:
+			'''
+			2 de daño de conexión por invocación
+			4% de probabilidad de golpe crítico de conexión por invocación
+			Mientras sostienes este látigo, una gema te sigue
+			y ataca cada vez que tus súbditos dañan a un enemigo marcado por el látigo.
+			El ataque de la gema inflige 50% del daño del golpe que lo desencadenó.
+			La gema se carga instantáneamente antes de disparar,
+			añadiendo 5% del daño infligido durante la carga a su ataque.
+			'''
+	}
+
+	EmeraldSplash: {
+		DisplayName: Salpicadura Esmeralda
+		Tooltip:
+			'''
+			5 de daño de conexión por invocación
+			7% de probabilidad de golpe crítico de conexión por invocación
+			Mientras sostienes este látigo, una gema te sigue
+			y ataca cada vez que tus súbditos dañan a un enemigo marcado por el látigo.
+			El ataque de la gema inflige 100% del daño del golpe que lo desencadenó.
+			La gema se carga instantáneamente antes de disparar,
+			añadiendo 15% del daño infligido durante la carga a su ataque.
+			'''
+	}
+
+	CrackoftheUniverse: {
+		DisplayName: Grieta del Universo
+		Tooltip:
+			'''
+			20 de daño de conexión por invocación
+			10% de probabilidad de golpe crítico de conexión por invocación
+			Mientras sostienes este látigo, una gema te sigue
+			y ataca cada vez que tus súbditos dañan a un enemigo marcado por el látigo.
+			El ataque de la gema inflige 100% del daño del golpe que lo desencadenó.
+			La gema se carga antes de disparar,
+			añadiendo 20% del daño infligido durante la carga a su ataque.
+			'''
+	}
+
+	Rubellus: {
+		DisplayName: Rubellus
+		Tooltip:
+			'''
+			8 de daño de conexión por invocación
+			8% de probabilidad de golpe crítico de conexión por invocación
+			Mientras sostienes este látigo, una gema te sigue
+			y ataca cada vez que tus súbditos dañan a un enemigo marcado por el látigo.
+			El ataque de la gema inflige 100% del daño del golpe que lo desencadenó.
+			La gema se carga instantáneamente antes de disparar,
+			añadiendo 40% del daño infligido durante la carga a su ataque.
+			El ataque de la gema desencadena una reacción en cadena, dirigida a los enemigos marcados.
+			'''
+	}
+
+	WulfrumArm: {
+		DisplayName: Brazo de Wulfrum
+		Tooltip:
+			'''
+			4 de daño de conexión por invocación
+			Los enemigos golpeados por este Brazo descargan al ser golpeados por un súbdito,
+			recibiendo 60% del daño del golpe que lo desencadenó y propagando
+			la cadena a los enemigos marcados por la misma marca.
+			La marca se consume al ser activada por un súbdito
+			o por el daño en cadena.
+			La punta puede sujetar y atraer objetos.
+			'''
+	}
+
+	MechanicalArm: {
+		DisplayName: Brazo Mecánico
+		Tooltip:
+			'''
+			15 de daño de conexión por invocación
+			Los enemigos golpeados por este Brazo descargan al ser golpeados por un súbdito,
+			recibiendo 100% del daño del golpe que lo desencadenó y propagando
+			la cadena a los enemigos marcados por la misma marca.
+			La marca se consume al ser activada por un súbdito
+			o por el daño en cadena.
+			La punta puede sujetar y atraer objetos.
+			'''
+	}
+
+	MassofWailing: {
+		DisplayName: Masa de Lamentos
+		Tooltip:
+			'''
+			5% de probabilidad de golpe crítico de conexión por invocación
+			Los enemigos marcados por este látigo
+			liberan glóbulos equivalentes al 15% del
+			daño infligido por los súbditos.
+			Los glóbulos se reúnen sobre el portador
+			y se separan para buscar enemigos
+			cuando están completamente cargados.
+			'''
+	}
+
+	ChorusofExecration: {
+		DisplayName: Coro de Execración
+		Tooltip:
+			'''
+			30% de probabilidad de golpe crítico de conexión por invocación
+			Los enemigos marcados por este látigo
+			liberan glóbulos equivalentes al 25% del
+			daño infligido por los súbditos.
+			Los glóbulos se reúnen sobre el portador
+			y se separan para buscar enemigos
+			cuando están completamente cargados.
+			'''
+	}
+
+	OpaqueOnyx: {
+		DisplayName: Ónix Opaco
+		Tooltip:
+			'''
+			3 de daño de conexión por invocación
+			5% de probabilidad de golpe crítico de conexión por invocación
+			Mientras sostienes este látigo, una gema te sigue
+			y ataca cada vez que tus súbditos dañan a un enemigo marcado por el látigo.
+			El ataque de la gema inflige 75% del daño del golpe que lo desencadenó.
+			La gema se carga instantáneamente antes de disparar,
+			añadiendo 10% del daño infligido durante la carga a su ataque.
+			'''
+	}
+
+	Accessories: {
+		BleachedNucleogenesis: {
+			DisplayName: Nucleogénesis Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 4
+				Otorga inmunidad a Llamaumbra e Irradiado
+				22% de aumento en el daño de invocación
+				Aumenta el retroceso de los súbditos
+				No puede equiparse junto con sus versiones inferiores o Blanqueadas.
+				'''
+		}
+
+		BleachedNuclearFuelRod: {
+			DisplayName: Barra de Combustible Nuclear Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 1
+				7% de aumento en el daño de invocación
+				Otorga inmunidad a Irradiado
+				No puede equiparse junto con sus versiones Blanqueadas.
+				'''
+		}
+
+		BleachedJellyChargedBattery: {
+			DisplayName: Batería Cargada de Gelatina Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 1
+				12% de aumento en el daño de invocación
+				No puede equiparse junto con sus versiones inferiores o Blanqueadas.
+				'''
+		}
+
+		BleachedStarbusterCore: {
+			DisplayName: Núcleo Rompeestrellas Blanqueado
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 1
+				10% de aumento en el daño de invocación
+				No puede equiparse junto con sus versiones Blanqueadas.
+				'''
+		}
+
+		BleachedStarTaintedGenerator: {
+			DisplayName: Generador Manchado de Estrellas Blanqueado
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 2
+				15% de aumento en el daño de invocación
+				Otorga inmunidad al efecto negativo Irradiado
+				No puede equiparse junto con sus versiones inferiores o Blanqueadas.
+				'''
+		}
+
+		BleachedStatisCurse: {
+			DisplayName: Maldición de Statis Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 3
+				17% de aumento en el daño de invocación
+				Otorga inmunidad al efecto negativo Llamaumbra
+				No puede equiparse junto con sus versiones inferiores o Blanqueadas.
+				'''
+		}
+
+		BleachedTheFirstShadowflame: {
+			DisplayName: La Primera Llama Sombría Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 1
+				5% de aumento en el daño de invocación
+				No puede equiparse junto con sus versiones Blanqueadas.
+				'''
+		}
+
+		BleachedVoltaicJelly: {
+			DisplayName: Gelatina Voltaica Blanqueada
+			Tooltip:
+				'''
+				Aumenta el máximo de súbditos en 1
+				5% de aumento en el daño de invocación
+				No puede equiparse junto con sus versiones Blanqueadas.
+				'''
+		}
+	}
+
+	LeatherGrip: {
+		DisplayName: Empuñadura de Cuero
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 10%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	SilkGrip: {
+		DisplayName: Empuñadura de Seda
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 10%
+			Los látigos obtienen 5% de probabilidad de golpe crítico de conexión por invocación.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	RubberGrip: {
+		DisplayName: Empuñadura de Goma
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 15%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.03
+			y 3% de probabilidad de golpe crítico de conexión por invocación.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	NecromanticGrip: {
+		DisplayName: Empuñadura Nigromántica
+		Tooltip:
+			'''
+			Aumenta el máximo de súbditos en 1
+			Aumenta el alcance del látigo en un 15%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05
+			y 5% de probabilidad de golpe crítico de conexión por invocación.
+			Permite que los látigos golpeen a los enemigos a través de paredes.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	EmperorsGrip: {
+		DisplayName: Empuñadura del Emperador
+		Tooltip:
+			'''
+			Aumenta el máximo de súbditos en 2
+			Aumenta el alcance del látigo en un 30%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.07
+			y 7% de probabilidad de golpe crítico de conexión por invocación.
+			Permite que los látigos golpeen a los enemigos a través de paredes.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	LightSpiritGrip: {
+		DisplayName: Empuñadura del Espíritu de Luz
+		Tooltip:
+			'''
+			Permite que los látigos golpeen a los enemigos a través de paredes.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	AirflowGrip: {
+		DisplayName: Empuñadura Aerodinámica
+		Tooltip:
+			'''
+			Reduce el alcance del látigo en un 15%
+			Permite que los látigos golpeen a los enemigos a través de paredes.
+			Solo se puede equipar un accesorio de Empuñadura
+			'''
+	}
+
+	CommanderGrip: {
+		DisplayName: Empuñadura de Comandante
+		Tooltip:
+			'''
+			Los proyectiles de los súbditos persiguen a los enemigos
+			golpeados por tu látigo durante un breve tiempo.
+			'''
+	}
+
+	MagneticGrip: {
+		DisplayName: Empuñadura Magnética
+		Tooltip:
+			'''
+			Reduce el alcance del látigo en un 15%
+			Los proyectiles de los súbditos persiguen a los enemigos
+			golpeados por tu látigo durante un breve tiempo.
+			'''
+	}
+
+	BuddyEmblem: {
+		DisplayName: Emblema del Compañero
+		Tooltip:
+			'''
+			Aumenta significativamente el daño cuando solo hay un Súbdito presente
+			El daño del súbdito aumenta según la cantidad de espacios de súbdito sin usar
+			Cuanto más potencia este efecto a un súbdito, ligeramente más grande se vuelve
+			Algunos súbditos no pueden beneficiarse de este efecto
+			Algunos efectos de marca de látigo se reducen
+			'¡Yo te elijo!'
+			'''
+	}
+
+	StrikerEmblem: {
+		DisplayName: Emblema del Atacante
+		Tooltip:
+			'''
+			Ya no puedes invocar súbditos ni centinelas
+			Los látigos golpean a los enemigos tres veces adicionales infligiendo 33% de daño
+			Estos golpes se benefician de los efectos de marca de invocación
+			Aumenta el alcance del látigo en un 10%
+			10% de aumento en el daño de invocación por cada espacio de súbdito sin usar
+			'¡Muere, monstruo!'
+			'''
+	}
+
+	WulfrumWhipMagnet: {
+		DisplayName: Imán de Látigo de Wulfrum
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 10%
+			Los látigos recogen cualquier objeto que golpeen.
+			'''
+	}
+
+	LoadTestItem: {
+		DisplayName: Objeto de Prueba de Carga
+		Tooltip: ""
+	}
+
+	InvisibleSummonTagItem: {
+		Tooltip: ""
+		DisplayName: Objeto de Marca de Invocación Invisible
+	}
+
+	InvisibleSummonTagItem3: {
+		Tooltip: ""
+		DisplayName: Objeto de Marca de Invocación Invisible 3
+	}
+
+	InvisibleSummonTagItem2: {
+		Tooltip: ""
+		DisplayName: Objeto de Marca de Invocación Invisible 2
+	}
+
+	InvisibleSummonTagItem1: {
+		Tooltip: ""
+		DisplayName: Objeto de Marca de Invocación Invisible 1
+	}
+
+	InvisibleBreezePiercer: {
+		Tooltip: ""
+		DisplayName: Perforador de la Brisa Invisible
+	}
+
+	InvisibleAncientBonds: {
+		DisplayName: Vínculos Ancestrales Invisible
+		Tooltip: ""
+	}
+
+	InvisibleDestructionChain: {
+		DisplayName: Cadena de Destrucción Invisible
+		Tooltip: ""
+	}
+
+	InvisibleDroptide: {
+		DisplayName: Marea Menguante Invisible
+		Tooltip: ""
+	}
+
+	InvisibleEctopia: {
+		DisplayName: Ectopia Invisible
+		Tooltip: ""
+	}
+
+	InvisibleEmperorsGrip: {
+		DisplayName: Empuñadura del Emperador Invisible
+		Tooltip: ""
+	}
+
+	InvisibleEntwinedBranches: {
+		DisplayName: Ramas Entrelazadas Invisible
+		Tooltip: ""
+	}
+
+	InvisibleExistenceBonds: {
+		DisplayName: Vínculos de la Existencia Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGelxyribose: {
+		DisplayName: Gelxyribose Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGlitterGutter: {
+		DisplayName: Canalón de Purpurina Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGloamshardConduit: {
+		DisplayName: Conducto de Fragmento Crepuscular Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGloamshardConduit2: {
+		DisplayName: Conducto de Fragmento Crepuscular Invisible 2
+		Tooltip: ""
+	}
+
+	InvisibleGreenPhaseScourge: {
+		DisplayName: Azote de Fase Verde Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGreenPhaseWhip: {
+		DisplayName: Látigo de Fase Verde Invisible
+		Tooltip: ""
+	}
+
+	InvisibleKusariGama: {
+		DisplayName: Kusari Gama Invisible
+		Tooltip: ""
+	}
+
+	InvisibleLeatherGrip: {
+		DisplayName: Empuñadura de Cuero Invisible
+		Tooltip: ""
+	}
+
+	InvisibleLoadout: {
+		DisplayName: Loadout Invisible
+		Tooltip: ""
+	}
+
+	InvisibleLoadout2: {
+		DisplayName: Loadout Invisible 2
+		Tooltip: ""
+	}
+
+	InvisibleMermaidsTear: {
+		DisplayName: Lágrima de Sirena Invisible
+		Tooltip: ""
+	}
+
+	InvisibleMilkyway: {
+		DisplayName: Vía Láctea Invisible
+		Tooltip: ""
+	}
+
+	InvisibleNecromanticGrip: {
+		DisplayName: Empuñadura Nigromántica Invisible
+		Tooltip: ""
+	}
+
+	InvisibleNecropsia: {
+		DisplayName: Necropsia Invisible
+		Tooltip: ""
+	}
+
+	InvisiblePrimalBonds: {
+		DisplayName: Vínculos Primigenios Invisible
+		Tooltip: ""
+	}
+
+	InvisibleRapierWhip: {
+		DisplayName: Látigo Estoque Invisible
+		Tooltip: ""
+	}
+
+	InvisibleResonantVoid: {
+		DisplayName: Vacío Resonante Invisible
+		Tooltip: ""
+	}
+
+	InvisibleResonantVoid2: {
+		DisplayName: Vacío Resonante Invisible 2
+		Tooltip: ""
+	}
+
+	InvisibleRubberGrip: {
+		DisplayName: Empuñadura de Goma Invisible
+		Tooltip: ""
+	}
+
+	InvisibleSatellite: {
+		DisplayName: Satélite Invisible
+		Tooltip: ""
+	}
+
+	InvisibleSilkGrip: {
+		DisplayName: Empuñadura de Seda Invisible
+		Tooltip: ""
+	}
+
+	InvisibleSkybreakerCoil: {
+		DisplayName: Bobina Rompecielos Invisible
+		Tooltip: ""
+	}
+
+	InvisibleUnfathomable: {
+		DisplayName: Insondable Invisible
+		Tooltip: ""
+	}
+
+	InvisibleWoodenWhip: {
+		DisplayName: Látigo de Madera Invisible
+		Tooltip: ""
+	}
+
+	InvisibleGlitterGutter2: {
+		DisplayName: Canalón de Purpurina Invisible 2
+		Tooltip: ""
+	}
+
+	InvisibleMandibleLash2: {
+		DisplayName: Latigazo de Mandíbula Invisible 2
+		Tooltip: ""
+	}
+
+	InvisibleMilkyway2: {
+		DisplayName: Vía Láctea Invisible 2
+		Tooltip: ""
+	}
+
+	TestWhip: {
+		Tooltip: ""
+		DisplayName: Látigo de Prueba
+	}
+}
+
+Buffs: {
+	SimpleWhipDebuff: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff.Description
+		DisplayName: Efecto Negativo de Látigo Simple
+	}
+
+	SimpleWhipDebuff10: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff10.Description
+		DisplayName: Efecto Negativo de Látigo Simple10
+	}
+
+	SimpleWhipDebuff70: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff70.Description
+		DisplayName: Efecto Negativo de Látigo Simple70
+	}
+
+	SimpleWhipDebuff08: {
+		DisplayName: Efecto Negativo de Látigo Simple08
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff08.Description
+	}
+
+	SimpleWhipDebuff10C: {
+		DisplayName: Efecto Negativo de Látigo Simple10 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff10C.Description
+	}
+
+	SimpleWhipDebuff0D09C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D09C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D09 C
+	}
+
+	SimpleWhipDebuff0D08C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D08C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D08 C
+	}
+
+	SimpleWhipDebuff09: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff09.Description
+		DisplayName: Efecto Negativo de Látigo Simple09
+	}
+
+	SimpleWhipDebuff11: {
+		DisplayName: Efecto Negativo de Látigo Simple11
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff11.Description
+	}
+
+	SimpleWhipDebuff12: {
+		DisplayName: Efecto Negativo de Látigo Simple12
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff12.Description
+	}
+
+	SimpleWhipDebuff13: {
+		DisplayName: Efecto Negativo de Látigo Simple13
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff13.Description
+	}
+
+	SimpleWhipDebuff14: {
+		DisplayName: Efecto Negativo de Látigo Simple14
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff14.Description
+	}
+
+	SimpleWhipDebuff15: {
+		DisplayName: Efecto Negativo de Látigo Simple15
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff15.Description
+	}
+
+	SimpleWhipDebuff20: {
+		DisplayName: Efecto Negativo de Látigo Simple20
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff20.Description
+	}
+
+	SimpleWhipDebuff25: {
+		DisplayName: Efecto Negativo de Látigo Simple25
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff25.Description
+	}
+
+	SimpleWhipDebuff5D05C: {
+		DisplayName: Efecto Negativo de Látigo Simple5 D05 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff5D05C.Description
+	}
+
+	SimpleWhipDebuff7D07C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff7D07C.Description
+		DisplayName: Efecto Negativo de Látigo Simple7 D07 C
+	}
+
+	SimpleWhipDebuff0D11C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D11C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D11 C
+	}
+
+	SimpleWhipDebuff0D20C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D20C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D20 C
+	}
+
+	SimpleWhipDebuff07: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff07.Description
+		DisplayName: Efecto Negativo de Látigo Simple07
+	}
+
+	SimpleWhipDebuff0D22C: {
+		DisplayName: Efecto Negativo de Látigo Simple0 D22 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D22C.Description
+	}
+
+	SimpleWhipDebuff27: {
+		DisplayName: Efecto Negativo de Látigo Simple27
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff27.Description
+	}
+
+	SimpleWhipDebuff2x: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff2x.Description
+		DisplayName: Efecto Negativo de Látigo Simple2x
+	}
+
+	SimpleWhipDebuffEx1: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx1.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex1
+	}
+
+	SimpleWhipDebuff10D10C: {
+		DisplayName: Efecto Negativo de Látigo Simple10 D10 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff10D10C.Description
+	}
+
+	SimpleWhipDebuffC100: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffC100.Description
+		DisplayName: Efecto Negativo de Látigo Simple C100
+	}
+
+	SimpleWhipDebuff0D10C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D10C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D10 C
+	}
+
+	SimpleWhipDebuff30: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff30.Description
+		DisplayName: Efecto Negativo de Látigo Simple30
+	}
+
+	SimpleWhipDebuff0D25C: {
+		DisplayName: Efecto Negativo de Látigo Simple0 D25 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D25C.Description
+	}
+
+	SimpleWhipDebuff15D15C: {
+		DisplayName: Efecto Negativo de Látigo Simple15 D15 C
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff15D15C.Description
+	}
+
+	SimpleWhipDebuffEx2: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex2
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx2.Description
+	}
+
+	SimpleWhipDebuff0D27C: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff0D27C.Description
+		DisplayName: Efecto Negativo de Látigo Simple0 D27 C
+	}
+
+	SimpleWhipDebuffAc05: {
+		DisplayName: Efecto Negativo de Látigo Simple Ac05
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAc05.Description
+	}
+
+	SimpleWhipDebuffAcC05: {
+		DisplayName: Efecto Negativo de Látigo Simple Ac C05
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAcC05.Description
+	}
+
+	SimpleWhipDebuffAc05C05: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAc05C05.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ac05 C05
+	}
+
+	SimpleWhipDebuffAc07C07: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAc07C07.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ac07 C07
+	}
+
+	SimpleWhipDebuffAc10C10: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAc10C10.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ac10 C10
+	}
+
+	SimpleWhipDebuffEx3: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx3.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex3
+	}
+
+	SimpleWhipDebuffC100x3: {
+		DisplayName: Efecto Negativo de Látigo Simple C100x3
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffC100x3.Description
+	}
+
+	SimpleWhipDebuffAcHo: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAcHo.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ac Ho
+	}
+
+	SimpleWhipDebuffAcHo2: {
+		DisplayName: Efecto Negativo de Látigo Simple Ac Ho2
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffAcHo2.Description
+	}
+
+	SimpleWhipDebuffEx4: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex4
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx4.Description
+	}
+
+	SimpleWhipDebuffEx5: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex5
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx5.Description
+	}
+
+	BuddyEmblemBuff: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.BuddyEmblemBuff.Description
+		DisplayName: Mejora del Emblema del Compañero
+	}
+
+	BuddyEmblemSoloBuff: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.BuddyEmblemSoloBuff.Description
+		DisplayName: Mejora en Solitario del Emblema del Compañero
+	}
+
+	SimpleWhipDebuffEx6: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx6.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex6
+	}
+
+	SimpleWhipDebuffEx7: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx7.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex7
+	}
+
+	SimpleWhipDebuffEx8: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx8.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex8
+	}
+
+	SimpleWhipDebuff7D07C2: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuff7D07C2.Description
+		DisplayName: Efecto Negativo de Látigo Simple7 D07 C2
+	}
+
+	SimpleWhipDebuffEx9: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex9
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx9.Description
+	}
+
+	SimpleWhipDebuffT2: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT2.Description
+		DisplayName: Efecto Negativo de Látigo Simple T2
+	}
+
+	SimpleWhipDebuffT1: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT1.Description
+		DisplayName: Efecto Negativo de Látigo Simple T1
+	}
+
+	SimpleWhipDebuffEx10: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex10
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx10.Description
+	}
+
+	SimpleWhipDebuffEx11: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex11
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx11.Description
+	}
+
+	SimpleWhipDebuffS1: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffS1.Description
+		DisplayName: Efecto Negativo de Látigo Simple S1
+	}
+
+	SimpleWhipDebuffS2: {
+		DisplayName: Efecto Negativo de Látigo Simple S2
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffS2.Description
+	}
+
+	SimpleWhipDebuffS3: {
+		DisplayName: Efecto Negativo de Látigo Simple S3
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffS3.Description
+	}
+
+	SimpleWhipDebuffS4: {
+		DisplayName: Efecto Negativo de Látigo Simple S4
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffS4.Description
+	}
+
+	SimpleWhipDebuffS5: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffS5.Description
+		DisplayName: Efecto Negativo de Látigo Simple S5
+	}
+
+	SimpleWhipDebuffT2St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT2St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T2 St
+	}
+
+	SimpleWhipDebuffT5St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT5St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T5 St
+	}
+
+	SimpleWhipDebuffT4St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT4St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T4 St
+	}
+
+	SimpleWhipDebuffT3St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT3St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T3 St
+	}
+
+	SimpleWhipDebuffT1St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT1St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T1 St
+	}
+
+	SimpleWhipDebuffT2St2: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT2St2.Description
+		DisplayName: Efecto Negativo de Látigo Simple T2 St2
+	}
+
+	SimpleWhipDebuffT10St: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT10St.Description
+		DisplayName: Efecto Negativo de Látigo Simple T10 St
+	}
+
+	SimpleWhipDebuffT20St: {
+		DisplayName: Efecto Negativo de Látigo Simple T20 St
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffT20St.Description
+	}
+
+	SimpleWhipDebuffEx12: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx12.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex12
+	}
+
+	SimpleWhipDebuffEx14: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx14.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex14
+	}
+
+	SimpleWhipDebuffEx13: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx13.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex13
+	}
+
+	SimpleWhipDebuffEx15: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx15.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex15
+	}
+
+	SimpleWhipDebuffEx16: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex16
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx16.Description
+	}
+
+	SimpleWhipDebuffEx17: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx17.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex17
+	}
+
+	SimpleWhipDebuffEx18: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx18.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex18
+	}
+
+	SimpleWhipDebuffEx19: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx19.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex19
+	}
+
+	SimpleWhipDebuffEx20: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex20
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx20.Description
+	}
+
+	SimpleWhipDebuffEx21: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx21.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex21
+	}
+
+	SimpleWhipDebuffEx22: {
+		DisplayName: Efecto Negativo de Látigo Simple Ex22
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx22.Description
+	}
+
+	SimpleWhipDebuffEx23: {
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx23.Description
+		DisplayName: Efecto Negativo de Látigo Simple Ex23
+	}
+}
+
+DamageClasses: {
+	PseudoSummonDamageClass.DisplayName: Clase de Daño de Pseudo-Invocación
+	PseudoSummonDamageClass2.DisplayName: Clase de Daño de Pseudo-Invocación 2
+}
+
+NPCs.WhipDebuffNPC.DisplayName: NPC de Efecto Negativo de Látigo
+
+Projectiles: {
+	SimpleWhipProj.DisplayName: Proyectil del Látigo Simple
+	WoodenWhipProj.DisplayName: Proyectil del Látigo de Madera
+	RapierWhipProj.DisplayName: Proyectil del Látigo Estoque
+	BreezePiercerProj.DisplayName: Proyectil del Perforador de la Brisa
+	BreezeTrail.DisplayName: Estela de Brisa
+	GelxyriboseProj.DisplayName: Proyectil de Gelxyribose
+	PhaseWhipProj.DisplayName: Proyectil del Látigo de Fase
+	BluePhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Azul
+	GreenPhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Verde
+	OrangePhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Naranja
+	PurplePhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Púrpura
+	RedPhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Roja
+	WhitePhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Blanca
+	YellowPhaseWhipProj.DisplayName: Proyectil del Látigo de Fase Amarilla
+	BluePhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Azul
+	GreenPhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Verde
+	OrangePhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Naranja
+	PurplePhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Púrpura
+	RedPhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Roja
+	WhitePhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Blanca
+	YellowPhaseScourgeProj.DisplayName: Proyectil del Azote de Fase Amarilla
+	GlitterGutterProj.DisplayName: Proyectil del Canalón de Purpurina
+	DroptideProj.DisplayName: Proyectil de la Marea Menguante
+	EctopiaProj.DisplayName: Proyectil de Ectopia
+	UnfathomableProj.DisplayName: Proyectil del Insondable
+	DestructionChainProj.DisplayName: Proyectil de la Cadena de Destrucción
+	DestructionChainTag.DisplayName: Marca de la Cadena de Destrucción
+	GloamshardConduitProj.DisplayName: Proyectil del Conducto de Fragmento Crepuscular
+	GloamshardConduitTag.DisplayName: Marca del Conducto de Fragmento Crepuscular
+	SatelliteProj.DisplayName: Proyectil del Satélite
+	SatelliteTag.DisplayName: Marca del Satélite
+	EntwinedBranchesProj.DisplayName: Proyectil de las Ramas Entrelazadas
+	NecropsiaProj.DisplayName: Proyectil de Necropsia
+	TestWhipProj.DisplayName: Proyectil del Látigo de Prueba
+	ResonantVoidProj.DisplayName: Proyectil del Vacío Resonante
+	ResonantVoidTag.DisplayName: Marca del Vacío Resonante
+	SkybreakerCoilTag.DisplayName: Marca de la Bobina Rompecielos
+	SkybreakerCoilProj.DisplayName: Proyectil de la Bobina Rompecielos
+	MilkywayProj.DisplayName: Proyectil de la Vía Láctea
+	MilkywayTag.DisplayName: Marca de la Vía Láctea
+	KusariGamaProj.DisplayName: Proyectil del Kusari Gama
+	LoadoutProj.DisplayName: Proyectil del Loadout
+	Loadout_Laser.DisplayName: Láser del Loadout
+	AncientBonds_Shot.DisplayName: Disparo de los Vínculos Ancestrales
+	AncientBondsProj.DisplayName: Proyectil de los Vínculos Ancestrales
+	PrimalBondsProj.DisplayName: Proyectil de los Vínculos Primigenios
+	PrimalBonds_Shot.DisplayName: Disparo de los Vínculos Primigenios
+	PrimalBonds_Tick.DisplayName: Tic de los Vínculos Primigenios
+	ExistenceBondsProj.DisplayName: Proyectil de los Vínculos de la Existencia
+	ExistenceBonds_Shot.DisplayName: Disparo de los Vínculos de la Existencia
+	ExistenceBonds_Tick.DisplayName: Tic de los Vínculos de la Existencia
+	AncientBonds_Tick.DisplayName: Tic de los Vínculos Ancestrales
+	MermaidsTear_Shot.DisplayName: Disparo de la Lágrima de Sirena
+	MermaidsTear_Tick.DisplayName: Tic de la Lágrima de Sirena
+	MermaidsTearProj.DisplayName: Proyectil de la Lágrima de Sirena
+	GlitterGutter_Shot.DisplayName: Disparo del Canalón de Purpurina
+	MandibleLashProj.DisplayName: Proyectil del Latigazo de Mandíbula
+	MandibleLash_Shot.DisplayName: Disparo del Latigazo de Mandíbula
+	MandibleLash_Explosion.DisplayName: Explosión del Latigazo de Mandíbula
+	DarkMandibleLash_Explosion.DisplayName: Explosión del Latigazo de Mandíbula Oscura
+	DarkMandibleLash_Shot.DisplayName: Disparo del Latigazo de Mandíbula Oscura
+	DarkMandibleLashProj.DisplayName: Proyectil del Latigazo de Mandíbula Oscura
+	DestructionChainTag2.DisplayName: Marca de la Cadena de Destrucción 2
+	ShieldConduitProj.DisplayName: Proyectil del Conducto de Escudo
+	WhipShieldProj.DisplayName: Proyectil del Escudo de Látigo
+	WhipShieldProjectile.DisplayName: Proyectil del Escudo de Látigo
+	WhipShieldChargeOrbProj.DisplayName: Proyectil del Orbe de Carga del Escudo de Látigo
+	ShieldConduitMkIIIProj.DisplayName: Proyectil del Conducto de Escudo Mk-III
+	ShieldConduitMkIIProj.DisplayName: Proyectil del Conducto de Escudo Mk-II
+	ShieldConduitMkIVProj.DisplayName: Proyectil del Conducto de Escudo Mk-IV
+	ShieldConduitMkVProj.DisplayName: Proyectil del Conducto de Escudo Mk-V
+	LayeredLashProj.DisplayName: Proyectil del Latigazo en Capas
+	LayeredPainProj.DisplayName: Proyectil del Dolor en Capas
+	NightButterflyProj.DisplayName: Proyectil de la Mariposa Nocturna
+	NightButterflyMoth.DisplayName: Polilla de la Mariposa Nocturna
+	NightButterflyParticle.DisplayName: Partícula de la Mariposa Nocturna
+	ActiasAlienaProj.DisplayName: Proyectil de Actias Aliena
+	ActiasAlienaParticle.DisplayName: Partícula de Actias Aliena
+	ActiasAlienaMoth.DisplayName: Polilla de Actias Aliena
+	ButterflyEffectProj.DisplayName: Proyectil del Efecto Mariposa
+	ButterflyEffectParticle.DisplayName: Partícula del Efecto Mariposa
+	ButterflyEffectMoth.DisplayName: Polilla del Efecto Mariposa
+	EtaCarinaeProj.DisplayName: Proyectil de Eta Carinae
+	EtaCarinaeParticle.DisplayName: Partícula de Eta Carinae
+	EtaCarinaeMoth.DisplayName: Polilla de Eta Carinae
+	MilkywayMoth.DisplayName: Polilla de la Vía Láctea
+	GoldRushProj.DisplayName: Proyectil de la Fiebre del Oro
+	GoldRush_Shot.DisplayName: Disparo de la Fiebre del Oro
+	GoldRush_Gate.DisplayName: Portal de la Fiebre del Oro
+	GildedReliquaryProj.DisplayName: Proyectil del Relicario Dorado
+	AurelianSanctumProj.DisplayName: Proyectil del Santuario Aureliano
+	EchoWhipProjectile.DisplayName: Proyectil del Látigo Eco
+	WhipEchoDamage.DisplayName: Daño de Eco del Látigo
+	WhipGemShot.DisplayName: Disparo de la Gema del Látigo
+	WhipGemProjectile.DisplayName: Proyectil de la Gema del Látigo
+	KingsMajestyProj.DisplayName: Proyectil de la Majestad del Rey
+	KingsMajestyGem.DisplayName: Gema de la Majestad del Rey
+	KingsMajestyShot.DisplayName: Disparo de la Majestad del Rey
+	EmeraldSplashShot.DisplayName: Disparo de la Salpicadura Esmeralda
+	EmeraldSplashGem.DisplayName: Gema de la Salpicadura Esmeralda
+	EmeraldSplashProj.DisplayName: Proyectil de la Salpicadura Esmeralda
+	KingsMajestyBeam.DisplayName: Rayo de la Majestad del Rey
+	CrackoftheUniverseProj.DisplayName: Proyectil de la Grieta del Universo
+	CrackoftheUniverseGem.DisplayName: Gema de la Grieta del Universo
+	CrackoftheUniverseBeam.DisplayName: Rayo de la Grieta del Universo
+	RubellusShot.DisplayName: Disparo de Rubellus
+	RubellusProj.DisplayName: Proyectil de Rubellus
+	RubellusGem.DisplayName: Gema de Rubellus
+	RubellusGem_Damage.DisplayName: Daño de la Gema de Rubellus
+	WulfrumArmProj.DisplayName: Proyectil del Brazo de Wulfrum
+	WulfrumLightning_Damage.DisplayName: Daño del Rayo de Wulfrum
+	MechanicalArmProj.DisplayName: Proyectil del Brazo Mecánico
+	MassofWailingProj.DisplayName: Proyectil de la Masa de Lamentos
+	WhipChargeProjectile.DisplayName: Proyectil de Carga del Látigo
+	ChorusofExecrationProj.DisplayName: Proyectil del Coro de Execración
+	ChargeCoreProjectile.DisplayName: Proyectil del Núcleo de Carga
+	ChargeBallProjectile.DisplayName: Proyectil de la Bola de Carga
+	OpaqueOnyxShot.DisplayName: Disparo del Ónix Opaco
+	OpaqueOnyxProj.DisplayName: Proyectil del Ónix Opaco
+	OpaqueOnyxGem.DisplayName: Gema del Ónix Opaco
+	OpaqueOnyxParticle.DisplayName: Partícula del Ónix Opaco
+}

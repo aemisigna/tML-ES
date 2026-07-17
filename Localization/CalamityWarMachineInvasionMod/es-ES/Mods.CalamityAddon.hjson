@@ -1,0 +1,275 @@
+Items: {
+	WulfrumSword: {
+		DisplayName: Espada de Wulfrum
+		Tooltip:
+			'''
+			Acumula carga al golpear enemigos
+			Al acumular suficiente carga, puedes presionar <right> para realizar una embestida
+			[c/83B87E:'¿¡Una espada gigante de wulfrum?! ¿¡Y encima se puede cargar!?']
+			[c/83B87E:'¡Dame dos!']
+			'''
+	}
+
+	WulfrumPipe: {
+		DisplayName: Tubería de Wulfrum
+		Tooltip: Era el cañón de un tanque
+	}
+
+	WulfrumLRocket: {
+		DisplayName: Cohete de Wulfrum
+		Tooltip:
+			'''
+			No destruye bloques
+			[c/83B87E:'Con autoapuntado']
+			'''
+	}
+
+	WulfrumLuncher: {
+		DisplayName: Lanzador de Wulfrum
+		Tooltip: "[c/83B87E:'Esto es más poderoso de lo que crees.']"
+	}
+
+	WulfrumTankBanner: {
+		DisplayName: Estandarte de Tanque de Wulfrum
+		Tooltip: ""
+	}
+
+	WulfrumWormBanner: {
+		DisplayName: Estandarte de Excavador de Wulfrum
+		Tooltip: ""
+	}
+
+	WulfrumMothershipRelic: {
+		DisplayName: Reliquia de Nave Nodriza de Wulfrum
+		Tooltip: ""
+	}
+
+	WulfrumHeart: {
+		Tooltip:
+			'''
+			Invoca a la Nave Nodriza de Wulfrum
+			No consumible
+			'''
+		DisplayName: Corazón de Wulfrum
+	}
+
+	WulfrumMothershipBag: {
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		DisplayName: Esfera de Wulfrum
+	}
+
+	Lore: {
+		LoreWulfrumMothership: {
+			DisplayName: Historia (Nave Nodriza de Wulfrum)
+			Tooltip:
+				'''
+				Durante la guerra, estas majestuosas máquinas estaban en óptimas condiciones,
+				Ostentando armadura pesada y gran maniobrabilidad, pero el tiempo no perdona a nadie...
+				Aunque estas Naves Nodriza de Wulfrum llevan mucho tiempo oxidándose,
+				Siguen siendo un enemigo formidable hasta el día de hoy, aún protegidas por creaciones menores de wulfrum.
+				'''
+		}
+
+		LoreWulfrumInvasion: {
+			Tooltip:
+				'''
+				Después de que destruyeras su nave nodriza, es lógico pensar
+				que las máquinas de Wulfrum se enfurecieron y buscaron venganza;
+				pero como estás leyendo esto, parece que repeliste su ataque.
+				Sin embargo, todavía quedan muchas máquinas de Wulfrum—probablemente vuelvas a encontrarlas...
+				'''
+			DisplayName: Historia de la Invasión de Wulfrum
+		}
+	}
+
+	WulfrumBook: {
+		DisplayName: Libro de Wulfrum
+		Tooltip:
+			'''
+			Crea máquinas de wulfrum a partir de maná
+			[c/83B87E:'Diseñar y comandar construcciones de Wulfrum.]
+			[c/83B87E:¡La cúspide de la ingeniería mecánica!']
+			'''
+	}
+
+	WulfrumStaff: {
+		DisplayName: Bastón de Wulfrum
+		Tooltip:
+			'''
+			Invoca una torreta protectora
+			[c/83B87E:'¡Tan poderosa y adorable!']
+			'''
+	}
+
+	WulfrumBomberBanner: {
+		Tooltip: ""
+		DisplayName: Estandarte de Bombardero de Wulfrum
+	}
+
+	WulfrumBarrel: {
+		Tooltip:
+			'''
+			Aumenta el daño del jugador en %
+			El daño aumenta 5% cada 15 segundos
+			Bonificación máxima de daño - 20%
+			Si el jugador recibe daño, la bonificación se reinicia a 0%
+			[c/83B87E:¡Wulfrum, ya que es el mejor del mundo!]
+			'''
+		DisplayName: Barril de Wulfrum
+	}
+
+	WulfrumMothershipTrophy: {
+		Tooltip: ""
+		DisplayName: Trofeo de Nave Nodriza de Wulfrum
+	}
+
+	UnstableBattery: {
+		Tooltip:
+			'''
+			Invoca la Invasión de Wulfrum
+			Colócala en el señuelo de Wulfrum
+			[c/83B87E:Batería interesante...]
+			'''
+		DisplayName: Batería Inestable
+	}
+
+	Weapons: {
+		Rogue: {
+			WulfrumJavelin: {
+				Tooltip:
+					'''
+					Las jabalinas tienen daño en área
+					En un golpe sigiloso, la jabalina vuela recta y más rápido
+					[c/83B87E:¡Siéntete como un espartano de Wulfrum!]
+					'''
+				DisplayName: Jabalina de Wulfrum
+			}
+		}
+	}
+
+	WDAS: {
+		Tooltip:
+			'''
+			[c/83B87E:Modo de ataque:]
+			Aparecen fragmentos de Wulfrum alrededor del jugador
+			Los fragmentos aparecen cada 1.5 segundos
+			Pueden aparecer un máximo de 4 fragmentos
+			Al ver a un enemigo, se mueven hacia él e infligen daño
+			[c/42F5F1:Modo de defenza:]
+			Aumenta la defensa del jugsador en 5
+			[c/83B87E:Decodificando: sistema defensivo-atakante de Wulfrum.]
+			'''
+		DisplayName: W.D.A.S.
+		KeybindInfo: Presiona {0} para cambiar el modo del accesorio
+	}
+
+	WulfrumJumperTrophy: {
+		Tooltip: ""
+		DisplayName: Trofeo de Saltador de Wulfrum
+	}
+
+	WulfrumJumperRelic: {
+		Tooltip: ""
+		DisplayName: Reliquia de Saltador de Wulfrum
+	}
+
+	WulfrumPrototypeItem: {
+		DisplayName: Plano de Wulfrum
+		Tooltip:
+			'''
+			Invoca un prototipo de wulfrum
+			El prototipo se mueve rápido y puede embestir
+			'''
+	}
+
+	WulfrumInvasionMusicBox: {
+		DisplayName: Invasión de Wulfrum (Caja de música)
+		Tooltip: Por - Spozmotosm
+	}
+
+	MechanismWarfareMusicBox: {
+		Tooltip: Por - Digidonix
+		DisplayName: Guerra de Mecanismos (Caja de música)
+	}
+}
+
+NPCs: {
+	WulfrumTank: {
+		DisplayName: Tanque de Wulfrum
+		Bestiary: Un tanque de patrulla blindado hecho de aleación de Wulfrum. Aunque estas máquinas eran relativamente simples, resultaban muy efectivas en el campo de batalla.
+	}
+
+	WulfrumWormBody.DisplayName: Excavador de Wulfrum
+
+	WulfrumWormHead: {
+		DisplayName: Excavador de Wulfrum
+		Bestiary: Estos excavadores de Wulfrum se usaban para perforar rápidamente la roca, pero cuando comenzó la guerra, su alta armadura y velocidad los convirtieron en oponentes formidables.
+	}
+
+	WulfrumWormTail.DisplayName: Excavador de Wulfrum
+
+	WulfrumMothership: {
+		DisplayName: Nave Nodriza de Wulfrum
+		Bestiary: Una nave nodriza masiva que coordina las acciones de las máquinas de Wulfrum. Armada con misiles teledirigidos y una minifábrica, también puede cargar a otras máquinas de Wulfrum.
+		SpawnInfo: Usa un [i:CalamityAddon/WulfrumHeart] durante el día en la superficie.
+		DespawnMessage: La Nave Nodriza de Wulfrum se ha retirado...
+	}
+
+	WulfrumShield.DisplayName: Nave Nodriza de Wulfrum
+
+	WulfrumBomber: {
+		DisplayName: Bombardero de Wulfrum
+		Bestiary: Inicialmente, los bombarderos de Wulfrum fueron diseñados para transportar diversas cargas pesadas por aire, pero cuando comenzó la guerra, fueron fácilmente convertidos para cargar y soltar pequeñas bombas. Cuando estos aparecían, el enemigo huía.
+	}
+
+	WulfrumJumperP1.DisplayName: Saltador de Wulfrum
+
+	WulfrumJumperP2: {
+		DisplayName: Saltador de Wulfrum
+		Bestiary: Estas máquinas fueron diseñadas especialmente para emboscar al ejército de Yharim en terreno montañoso. Sus lanzamisles destruyen el grueso de las tropas, y otras máquinas de wulfrum acaban fácilmente con los enemigos restantehs.
+	}
+}
+
+Projectiles: {
+	WulfrumRocket.DisplayName: Cohete de Wulfrum
+	WulfrumLRocketProj.DisplayName: Cohete de Wulfrum
+	WulfrumMachineProj.DisplayName: Máquina de Wulfrum
+	WulfrumTurret.DisplayName: Torreta de Wulfrum
+	WulfrumMinis.DisplayName: Mina de Wulfrum
+	WulfrumBigis.DisplayName: Mina de Wulfrum
+	WulfrumJavelinProj.DisplayName: Jabalina de Wulfrum
+	WDASShard.DisplayName: Fragmento de Wulfrum
+	WulfrumShockwave.DisplayName: Saltador de Wulfrum
+}
+
+Buffs: {
+	WulfrumTurretBuff: {
+		DisplayName: Torreta de Wulfrum
+		Description: Estás protegido por una torreta de wulfrum
+	}
+
+	WulfrumPrototypeBuff: {
+		Description: Prototipo de minitanque
+		DisplayName: Prototipo de Wulfrum
+	}
+}
+
+Mods: {
+	CalamityAddon: {
+		Events: {
+			WulfrumRush: {
+				InvasionName: Invasión de Wulfrum
+				SpawnInfo: Haz clic derecho en un [i:CalamityMod/WulfrumLureItem] con la [i:CalamityAddon/UnstableBattery] en tu inventario.
+			}
+		}
+	}
+}
+
+Keybinds.WDASKeybind.DisplayName: Cambio de modo W.D.A.S.
+
+Events: {
+	WulfrumRush: {
+		InvasionName: Invasión de Wulfrum
+		SpawnInfo: Haz clic derecho en un [i:CalamityMod/WulfrumLureItem] con la [i:CalamityAddon/UnstableBattery] en tu inventario.
+	}
+}

@@ -1,0 +1,1902 @@
+Buffs: {
+	AntarcticCreativityBuff: {
+		DisplayName: Creatividad Antártica
+		Description: El frío trae una gran inspiración
+		ItemTooltip: +15% de tasa de regeneración de inspiración y +10% de velocidad de ejecución sinfónica
+	}
+
+	AntarcticReinforcementBuff: {
+		DisplayName: Refuerzo Antártico
+		Description: El frío te protege
+		ItemTooltip: +8 de defensa y +2 de curación adicional
+	}
+
+	AntarcticExhaustionDebuff: {
+		DisplayName: Agotamiento Antártico
+		Description: El frío se instala en tus huesos
+	}
+
+	GuardianHealerBeamBuff: {
+		DisplayName: Bendición del Guardián Sanador
+		Description: Estás bajo una bendición profana
+		ItemTooltip: +10% de reducción de daño y +5 PV/s de regeneración de vida
+	}
+
+	ElementalScytheCooldown: {
+		DisplayName: Enfriamiento de la Guadaña Elemental
+		Description: ¡La Guadaña Elemental está en enfriamiento!
+	}
+
+	ScytheAirBuff: {
+		DisplayName: Bendición del Aire
+		Description: Siempre tienes viento a favor
+		ItemTooltip: +20% de velocidad de movimiento y tiempo de alas
+	}
+
+	ScytheBrimstoneBuff: {
+		DisplayName: Bendición del Azufre
+		Description: Tus enemigos estallan en llamas malditas
+		ItemTooltip: Inflige [cbuff:CalamityMod/BrimstoneFlames] al golpear
+	}
+
+	ScytheEarthBuff: {
+		DisplayName: Bendición de la Tierra
+		Description: La tierra te protege
+		ItemTooltip: +10 de defensa
+	}
+
+	ScytheOasisBuff: {
+		DisplayName: Bendición del Oasis
+		Description: Te sientes rejuvenecido por el oasis del desierto
+		ItemTooltip: +15 PV/s de regeneración de vida
+	}
+
+	ScytheSandBuff: {
+		DisplayName: Bendición de la Arena
+		Description: Las arenas te fortalecen
+		ItemTooltip: +5% de daño de ataque
+	}
+
+	ScytheWaterBuff: {
+		DisplayName: Bendición del Agua
+		Description: El agua guía tu mano
+		ItemTooltip: +5% de velocidad de todos los ataques
+	}
+
+	AuricSurge: {
+		DisplayName: Sobrecarga Áurica
+		Description: Estás siendo castigado desde tu interior.
+	}
+
+	KellyPetBuff: {
+		DisplayName: ¡Kelly!
+		Description: Kelly te seguirá.
+	}
+
+	NightfallenDebuff: {
+		DisplayName: Anochecido
+		Description: La oscuridad consume.
+		ItemTooltip:
+			'''
+			Sin tipo - 100 DPS
+			+10% de daño recibido de todas las fuentes
+			'''
+	}
+
+	LeviathanHeartBubble: {
+		DisplayName: Burbuja del Leviatán
+		Description: La Burbuja del Leviatán te otorga +5% de reducción de daño
+		ItemTooltip: +5% de reducción de daño
+	}
+
+	LeviathanHeartBubbleCorrupted: {
+		DisplayName: Burbuja del Leviatán Corrupta
+		Description:
+			'''
+			La Burbuja del Leviatán Corrupta te otorga +10% de daño
+			Pero recibes 5% más de daño
+			'''
+		ItemTooltip: +10% de daño de ataque, +5% de daño recibido de todas las fuentes
+	}
+}
+
+Tooltips: {
+	WhiteDwarfSetBonus:
+		'''
+		Los ataques de pícaro tienen un 5% de probabilidad de liberar una bengala de marfil desde el cosmos con 1.75x de daño
+		El daño de la bengala se basa en el daño no crítico, pero puede hacer crítico
+		'''
+
+	LeviathanHeart: {
+		NormalTooltip:
+			'''
+			Los hechizos de curación curan un 25% más de pv
+			Los hechizos de curación aplican [rbuff:RagnarokMod/LeviathanHeartBubble] al objetivo.
+			'''
+		CorruptTooltip:
+			'''
+			¡La Burbuja del Leviatán reacciona a tu energía oscura!
+			Todos los costos de vida se reducen en 1
+			Gastar vida te otorga [rbuff:RagnarokMod/LeviathanHeartBubbleCorrupted]
+			10% de velocidad de ataque radiante aumentada
+			'''
+	}
+}
+
+Compat: {
+	TechPoints: Aumenta tus puntos de técnica máximos en
+	Recharge: y la recarga en
+	BasicDamage: daño básico
+	DupeDamage: de tu daño de pícaro es duplicado
+	DupeCap: El daño de duplicación tiene un tope de
+	NoGuideStack: El efecto no se acumula con otras Guías
+	Power: % de Poder
+	Smited: fue castigado.
+	Darkness: cayó en la oscuridad.
+	TurnedToAmmo: fue convertido en munición.
+	Recoil: no pudo soportar el retroceso.
+}
+
+Items: {
+	DrumStick: {
+		DisplayName: Baqueta
+		Tooltip: "'¡Tus enemigos son tus tambores!'"
+	}
+
+	AerospecBard: {
+		DisplayName: Sombrero de Pala Aerospec
+		Tooltip:
+			'''
+			5% de velocidad de ejecución y regeneración de inspiración aumentada
+			+2 segundos a la duración de la potenciación
+			'''
+		SetBonus:
+			'''
+			Recibir más de 25 de daño en un solo golpe provoca una lluvia de plumas teledirigidas
+			Permite caer más rápido y desactiva el daño por caída
+			6% de daño sinfónico aumentado
+			7% de velocidad de movimiento aumentada
+			'''
+	}
+
+	AerospecHealer: {
+		DisplayName: Capucha Aerospec
+		Tooltip:
+			'''
+			10% de daño no radiante reducido
+			10% de daño radiante aumentado
+			+20 de maná máximo
+			'''
+		SetBonus:
+			'''
+			10% de daño no radiante reducido
+			10% de daño radiante aumentado
+			Recibir más de 25 de daño en un solo golpe provoca una lluvia de plumas teledirigidas
+			Permite caer más rápido y desactiva el daño por caída
+			Los hechizos de curación curan 2 de vida adicional
+			10% de velocidad de movimiento aumentada
+			'''
+	}
+
+	AuricTeslaFrilledHelmet: {
+		DisplayName: Yelmo Volante Tesla Áurico
+		DisplayNameEclipse: Yelmo Volante Tesla Primordial
+		Tooltip:
+			'''
+			20% de daño sinfónico, probabilidad de golpe crítico y velocidad de persecución de instrumentos de viento aumentada
+			5% de velocidad de movimiento aumentada
+			30% de regeneración de inspiración aumentada
+			+15 de inspiración máxima
+			+2 rebotes de proyectil de instrumentos de cuerda
+			'''
+		SetBonus:
+			'''
+			Efectos de armadura de Llamasangre, Matadioses y Rapsoda
+			Presionar la tecla '{$ThoriumMod.Keybinds.ArmorAbility.DisplayName}' activará ambas habilidades de armadura de Rapsoda
+			'''
+		SetBonusHelheim: Efectos de armadura de Estragón, Llamasangre y Matadioses
+	}
+
+	AuricTeslaHealerHead: {
+		DisplayName: Semblante Irradiante Tesla Áurico
+		DisplayNameEclipse: Semblante Irradiante Tesla Primordial
+		Tooltip:
+			'''
+			Corrompe tus poderes radiantes
+			100% de daño radiante aumentado pero 80% de daño no radiante reducido
+			25% de probabilidad de golpe crítico radiante aumentada
+			5% de velocidad de movimiento aumentada
+			25% de uso de maná reducido
+			Los hechizos de curación curan 10 de vida adicional
+			+100 de maná máximo
+			'''
+		ToggleTooltip: "[c/aaaaaa:Shift + clic derecho sobre este ítem en tu inventario para alternar] [c/CC44FF:poderes radiantes corrompidos]"
+		SetBonus:
+			'''
+			Efectos de armadura de Llamasangre, Silva y Tejedor de Sueños
+			Presionar la tecla '{$ThoriumMod.Keybinds.ArmorAbility.DisplayName}' activará ambas habilidades de armadura de Tejedor de Sueños
+			50% de daño radiante aumentado
+			'''
+		SetBonusHelheim:
+			'''
+			Efectos de armadura de Estragón, Llamasangre y Silva
+			50% de daño radiante aumentado
+			'''
+	}
+
+	BlazingDrumBeat: {
+		DisplayName: Baqueta Encendida
+		Tooltip:
+			'''
+			Acertar los tiempos correctamente aumentará de forma constante su daño y nivel de potenciación
+			Fallar los tiempos reducirá estos bonos considerablemente y costará 9 de inspiración
+			Estos bonos se mantienen entre cambios de arma, pero se desvanecen gradualmente mientras no sea tu arma activa
+			Encadenar dos o más aciertos liberará un gran tajo llameante
+			Los tajos llameantes infligen [cbuff:CalamityMod/HolyFlames] a todos los enemigos en el área
+			'''
+	}
+
+	BloodflareHeadBard: {
+		DisplayName: Yelmo con Púas Llamasangre
+		Tooltip:
+			'''
+			20% de daño sinfónico y 12% de probabilidad de golpe crítico sinfónico aumentados
+			+15% de regeneración de inspiración y +6 de inspiración máxima
+			+15% de probabilidad de que caigan notas de inspiración de los enemigos
+			'''
+		SetBonus:
+			'''
+			Infligir daño sinfónico aplicará Sangre Ardiente a los enemigos
+			Acumularás sed de sangre, 2 puntos por cada enemigo golpeado (solo puede ocurrir 3 veces por segundo)
+			Al alcanzar 100 puntos: 20% de daño y probabilidad de golpe sinfónico aumentados, 25% de velocidad de movimiento aumentada
+			Las potenciaciones se prolongarán 3 segundos adicionales y la regeneración de inspiración será 10% más rápida
+			Presionar la tecla 'Habilidad de Armadura' consumirá 20 puntos para restaurar 10 de inspiración
+			Perderás 25 puntos al recibir un golpe, y los perderás rápidamente si no golpeas enemigos durante más de 5 segundos
+			Tus puntos también se reinician cuando aparece un jefe
+			'''
+	}
+
+	BloodflareHeadHealer: {
+		DisplayName: Semblante Sombrío Llamasangre
+		Tooltip:
+			'''
+			20% de uso de maná reducido
+			70% de daño no radiante reducido y 50% de daño radiante aumentado
+			20% de probabilidad de golpe crítico radiante aumentada
+			Los hechizos de curación curarán 7 de vida adicional
+			+60 de maná máximo
+			'''
+		SetBonus:
+			'''
+			Infligir daño radiante aplicará Sangre Ardiente a los enemigos
+			Acumularás sed de sangre, 2 puntos por cada enemigo golpeado (solo puede ocurrir 3 veces por segundo)
+			Al alcanzar 100 puntos: 20% de daño y probabilidad de golpe radiante aumentados, 20% de velocidad de movimiento aumentada
+			y tus hechizos de curación curarán 3 de vida adicional
+			Además, te curas por una pequeña fracción del daño que infliges
+			Presionar la tecla 'Habilidad de Armadura' consumirá 20 puntos para restaurar 25 de vida + tu curación adicional
+			Perderás 25 puntos al recibir un golpe, y los perderás rápidamente si no golpeas enemigos durante más de 5 segundos
+			Tus puntos también se reinician cuando aparece un jefe
+			'''
+	}
+
+	CalamityBell: {
+		DisplayName: Campana de la Calamidad
+		Tooltip: Dispara ráfagas de fuego de azufre teledirigidas que infligen [cbuff:CalamityMod/BrimstoneFlames] al golpear
+	}
+
+	CelestialManaCost: 20% de costo de maná reducido
+
+	DaedalusHeadBard: {
+		DisplayName: Tocado de Dédalo
+		Tooltip:
+			'''
+			12% de daño sinfónico y 5% de probabilidad de golpe crítico sinfónico aumentados
+			+2 de inspiración máxima
+			'''
+		SetBonus:
+			'''
+			+10% de velocidad de regeneración de inspiración
+			Presionar la tecla '{$ThoriumMod.Keybinds.ArmorAbility.DisplayName}' te otorgará [rbuff:RagnarokMod/AntarcticCreativityBuff] por 15 segundos.
+			Cuesta 12 de inspiración
+			'''
+	}
+
+	DaedalusHeadHealer: {
+		DisplayName: Semblante de Dédalo
+		Tooltip:
+			'''
+			10% de uso de maná reducido
+			15% de daño no radiante reducido
+			15% de daño radiante aumentado y 7% de probabilidad de golpe crítico radiante aumentada
+			+40 de maná máximo
+			'''
+		SetBonus:
+			'''
+			Los hechizos de curación curan 3 de vida adicional
+			Presionar la tecla '{$ThoriumMod.Keybinds.ArmorAbility.DisplayName}' te otorgará un escudo de 50 de vida y [rbuff:RagnarokMod/AntarcticReinforcementBuff] por 15 segundos
+			Cuesta 100 de maná
+			'''
+	}
+
+	GodSlayerHeadBard: {
+		DisplayName: Tricornio Matadioses
+		Tooltip:
+			'''
+			25% de daño sinfónico y 15% de probabilidad de golpe crítico sinfónico aumentados
+			15% de regeneración de inspiración aumentada
+			+7 de inspiración máxima
+			+15% de probabilidad de que caigan notas de inspiración de los enemigos
+			'''
+		SetBonus: Mientras sostienes un instrumento, aplicarás potenciaciones aleatorias
+	}
+
+	SilvaHeadHealer: {
+		DisplayName: Yelmo Enredado de Silva
+		Tooltip:
+			'''
+			25% de uso de maná reducido
+			70% de daño no radiante reducido y 55% de daño radiante aumentado
+			20% de probabilidad de golpe crítico radiante aumentada
+			Los hechizos de curación curarán 9 de vida adicional
+			+80 de maná máximo
+			'''
+		SetBonus:
+			'''
+			Tus hechizos de curación aumentarán la recuperación de vida y la tasa de recuperación de vida de tus aliados
+			Los aliados curados recibirán 50 de vida máxima adicional
+			Ocasionalmente serás bendecido con curaciones o escudos de vida
+			Ocurrirá con más frecuencia con poca vida
+			+3 PV/s de regeneración de vida
+			5% de velocidad y aceleración máxima de carrera aumentadas
+			Recibir daño letal te revivirá y te hará invulnerable a todo daño durante 5 segundos
+			Este efecto tiene un enfriamiento de 5 minutos, que no disminuye mientras haya jefes o eventos activos
+			'''
+	}
+
+	StormFeather: {
+		DisplayName: Pluma de Tormenta
+		Tooltip:
+			'''
+			Se puede vender por un muy buen precio en las tiendas
+			'Una pequeña pluma caída del Gran Pájaro del Trueno, chisporrotea con electricidad'
+			'''
+	}
+
+	StrangeAlienMotherBoard: {
+		DisplayName: Placa Madre Alienígena Extraña
+		Tooltip:
+			'''
+			La placa madre del Explorador Estelar
+			'Esta tecnología está más allá de tu comprensión'
+			'''
+	}
+
+	BelchingSaxophoneOverride: {
+		DisplayName: "{$CalamityMod.Items.Weapons.Magic.BelchingSaxophone.DisplayName}"
+		Tooltip: "{$CalamityMod.Items.Weapons.Magic.BelchingSaxophone.Tooltip}"
+	}
+
+	AnahitasArpeggioOverride: {
+		DisplayName: "{$CalamityMod.Items.Weapons.Magic.AnahitasArpeggio.DisplayName}"
+		Tooltip: Lanza claves de sol de movimiento lento que confunden a los enemigos
+	}
+
+	FaceMelterOverride: {
+		DisplayName: "{$CalamityMod.Items.Weapons.Magic.FaceMelter.DisplayName}"
+		Tooltip: "{$CalamityMod.Items.Weapons.Magic.FaceMelter.Tooltip}"
+	}
+
+	EmpoweredGranite: {
+		DisplayName: Granito Potenciado
+		Tooltip: "'Bloque de granito cargado por completo de energía de la Tormenta de Energía de Granito'"
+	}
+
+	EnchantedMarble: {
+		DisplayName: Mármol Encantado
+		Tooltip: "'Mármol especial, imbuido con antigua magia sagrada'"
+	}
+
+	StatigelHeadBard: {
+		DisplayName: Sombrero de Statigel
+		Tooltip:
+			'''
+			10% de daño sinfónico aumentado
+			7% de probabilidad de golpe crítico sinfónico aumentada
+			'''
+		SetBonus:
+			'''
+			Al recibir más de 100 de daño en un solo golpe, te vuelves inmune al daño durante un período prolongado
+			Otorga un salto extra y mayor altura de salto
+			12% de velocidad de salto aumentada
+			+10% de probabilidad de caída de notas de inspiración
+			+5% de tasa de regeneración de inspiración
+			Las potenciaciones sinfónicas duran 2 segundos más
+			'''
+	}
+
+	StatigelHeadHealer: {
+		DisplayName: Tocado de Statigel
+		Tooltip:
+			'''
+			10% de daño no radiante reducido
+			10% de daño radiante aumentado
+			7% de probabilidad de golpe crítico radiante aumentada
+			'''
+		SetBonus:
+			'''
+			Al recibir más de 100 de daño en un solo golpe, te vuelves inmune al daño durante un período prolongado
+			Otorga un salto extra y mayor altura de salto
+			12% de velocidad de salto aumentada
+			Los hechizos de curación curan 2 de vida adicional
+			Maná máximo aumentado en 20
+			5% de uso de maná reducido
+			'''
+	}
+
+	StriderFang: {
+		DisplayName: Colmillo del Zancudo
+		Tooltip: "'Un colmillo helado extraído directamente de la boca del Zancudo Boreal'"
+	}
+
+	TarragonCowl: {
+		DisplayName: Capucha de Estragón
+		Tooltip:
+			'''
+			5% de reducción de daño aumentada
+			60% de daño no radiante reducido
+			40% de daño radiante aumentado y 15% de probabilidad de golpe crítico radiante aumentada
+			Curación adicional aumentada en 7
+			Maná máximo aumentado en 60
+			Uso de maná reducido en 20%
+			'''
+		SetBonus:
+			'''
+			Un Guardián Sanador te asistirá curando a tus aliados
+			Cura a los aliados una cantidad de vida igual a tu curación adicional + 5 de vida
+			y les otorga [rbuff:RagnarokMod/GuardianHealerBeamBuff] durante 20 segundos
+			{$CalamityMod.Items.Armor.PostMoonLord.TarragonBreastplate.CommonSetBonus}
+			'''
+	}
+
+	TarragonShroud: {
+		DisplayName: Sudario de Estragón
+		Tooltip:
+			'''
+			5% de reducción de daño aumentada
+			20% de daño sinfónico y 15% de probabilidad de golpe crítico sinfónico aumentados
+			15% de velocidad de ejecución aumentada
+			Regeneración de inspiración muy aumentada
+			+15% de probabilidad de que caigan notas de inspiración de los enemigos
+			+4 de inspiración máxima
+			'''
+		SetBonus:
+			'''
+			Los golpes críticos sinfónicos hacen que una potenciación activa al azar aumente un nivel
+			Tus potenciaciones duran 50% más
+			{$CalamityMod.Items.Armor.PostMoonLord.TarragonBreastplate.CommonSetBonus}
+			'''
+	}
+
+	VictideHeadHealer: {
+		DisplayName: Capucha Esponjosa de Victide
+		Tooltip: 5% de daño radiante aumentado pero 5% de daño no radiante reducido
+		SetBonus:
+			'''
+			Es menos probable que los enemigos te apunten a ti
+			+3 de regeneración de vida y 10% de daño radiante aumentado pero 10% de daño no radiante reducido mientras estés sumergido en líquido
+			'''
+	}
+
+	NightfallenHelmet: {
+		DisplayName: Yelmo Anochecido
+		Tooltip:
+			'''
+			Corrompe tus poderes radiantes
+			33% de daño no radiante reducido
+			33% de daño radiante aumentado
+			16% de probabilidad de golpe crítico radiante aumentada
+			25% de costo de maná reducido
+			Maná máximo aumentado en 60
+			'''
+		SetBonus:
+			'''
+			Los hechizos de curación curarán 4 de vida adicional
+			Todos los ataques infligen [rbuff:RagnarokMod/NightfallenDebuff]
+			'''
+	}
+
+	NightfallenBreastplate: {
+		DisplayName: Peto Anochecido
+		Tooltip:
+			'''
+			25% de daño no radiante reducido
+			25% de daño radiante aumentado
+			16% de probabilidad de golpe crítico radiante aumentada
+			20% de costo de maná reducido
+			'''
+	}
+
+	NightfallenGreaves: {
+		DisplayName: Grebas Anochecidas
+		Tooltip:
+			'''
+			20% de daño no radiante reducido
+			20% de daño radiante aumentado
+			12% de probabilidad de golpe crítico radiante aumentada
+			20% de costo de maná reducido
+			20% de velocidad de movimiento aumentada
+			'''
+	}
+
+	VictideHeadBard: {
+		DisplayName: Hatanemone de Victide
+		Tooltip: 5% de daño sinfónico aumentado
+		SetBonus:
+			'''
+			Es menos probable que los enemigos te apunten a ti
+			+3 de regeneración de vida y 10% de daño sinfónico aumentado mientras estés sumergido en líquido
+			'''
+	}
+
+	EquivalentExchange: {
+		DisplayName: Intercambio Equivalente
+		Tooltip:
+			'''
+			Dispara un rayo que roba vida
+			Presiona <right> para disparar en su lugar rayos curativos de movimiento rápido
+			'Debes seguir la ley del intercambio equivalente'
+			'Solo puedes obtener lo equivalente a lo que entregas'
+			'''
+	}
+
+	ProfanedScythe: {
+		DisplayName: Guadaña Profanada
+		Tooltip:
+			'''
+			Un infierno sagrado hecho guadaña
+			Presiona <right> para lanzar la guadaña en un arco que retorna
+			La guadaña inflige 20% más de daño al ser lanzada y arroja gotas fundidas durante el vuelo
+			'''
+	}
+
+	MarbleScythe: {
+		DisplayName: Guadaña de Mármol
+		Tooltip: El mármol mágico imbuye la cabeza de la guadaña con resplandor extra
+	}
+
+	ScoriaDualscythe: {
+		DisplayName: Guadaña Doble de Escoria
+		Tooltip:
+			'''
+			La escoria te permite girar la guadaña mucho más rápido al expulsar vapor constantemente
+			Presiona <right> para lanzar la guadaña, que se curvará en su camino de regreso
+			La guadaña inflige 20% más de daño al ser lanzada
+			'''
+	}
+
+	InspirationEssence.DisplayName: Esencia de Inspiración
+
+	AstralRipper: {
+		DisplayName: Desgarradora Astral
+		Tooltip:
+			'''
+			Girar esta guadaña crea estrellas que orbitan a tu alrededor.
+			Al completar un círculo entero, pulsan una vez antes de explotar.
+			Mantener <right> comenzará a cargar la guadaña.
+			Mientras se carga, las estrellas empezarán a caer rápidamente hacia tu cursor.
+			Suelta la carga para blandir la guadaña en un arco masivo.
+			Conectar el golpe hace que un gran grupo de estrellas caiga sobre el objetivo.
+			Todos los golpes de esta arma infligen [cbuff:CalamityMod/AstralInfectionDebuff].
+			'''
+	}
+
+	RadioMic: {
+		DisplayName: Micrófono de Radio
+		Tooltip:
+			'''
+			Canta una canción que crea una ráfaga de ondas de sonido de fuego sombrío
+			La onda de sonido central será maldita en su lugar
+			El sonido maldito invocará un tentáculo que atacará al primer enemigo golpeado
+			'El micrófono de un demonio famoso'
+			'''
+	}
+
+	CorrosiveFlux: {
+		DisplayName: Flujo Corrosivo
+		Tooltip: Dispara 3 burbujas tóxicas
+	}
+
+	WindReaver: {
+		DisplayName: Saqueador del Viento
+		Tooltip: Libera ocasionalmente un corte de viento al girar
+	}
+
+	TrueSquirrelScarf: {
+		DisplayName: Verdadera Bufanda de Ardilla
+		Tooltip:
+			'''
+			La forma verdadera y original de la bufanda de ardilla.
+			Otorga +999 Espacios de Centinela
+			'''
+	}
+
+	Prisma: {
+		DisplayName: Prisma
+		Tooltip: Dispara una estrella de mar de agua bendita que se fragmenta en 5 púas
+	}
+
+	VoidseerPearl: {
+		DisplayName: Perla Vidente del Vacío
+		Tooltip:
+			'''
+			Se puede vender por un muy buen precio en las tiendas
+			'Dicen que la belleza está en el ojo de quien mira... no creo que lo dijeran literalmente'
+			'''
+	}
+
+	QueenJelly: {
+		DisplayName: Gelatina de la Reina
+		Tooltip:
+			'''
+			Restaura 100 de vida
+			Mejoras medianas a todas las estadísticas
+			'Una deliciosa gelatina de medusa
+			Se podría decir que hace el sándwich más sabroso del mar'
+			'''
+	}
+
+	Steampipes: {
+		DisplayName: Gaita de Vapor
+		Tooltip: ¡Gaita a vapor!
+	}
+
+	ElysianSong: {
+		DisplayName: Canción Elísea
+		Tooltip: "'Tan cerca de la trompeta de un ángel, y sin embargo tan lejos...'"
+	}
+
+	ExecutionerMark05: {
+		DisplayName: El Verdugo: Marca 05
+		Tooltip:
+			'''
+			Comienza lento, pero irá ganando velocidad continuamente
+			Al alcanzar la velocidad máxima, se lanzará hacia el enemigo más cercano y explotará en una gran área de efecto
+			'El núcleo de XM-05 Thanatos reconstruido como una guadaña'
+			'''
+	}
+
+	JellySlicer: {
+		DisplayName: Cortadora Gelatinosa
+		Tooltip: Dispara un abanico de proyectiles de baba rebotantes al ser blandida
+	}
+
+	Splattercannon: {
+		DisplayName: Cañón de Salpicaduras
+		Tooltip:
+			'''
+			Presiona <right> para añadir 8 cartuchos a la recámara
+			Puede contener un máximo de 64 cartuchos en la recámara
+			Presiona <left> para liberar todos los cartuchos de una vez
+			Siempre tendrá 8 cartuchos en la recámara
+			Expulsa orbes de sangre al golpear enemigos
+			Recoger estos orbes de sangre reduce la duración de [rbuff:PotionSickness]
+			'¡LA SANGRE ES COMBUSTIBLE!'
+			'''
+	}
+
+	ProfanedBell: {
+		DisplayName: Campana Profanada
+		Tooltip:
+			'''
+			Dispara ráfagas de fuego sagrado
+			Los enemigos golpeados son afligidos con [cbuff:CalamityMod/HolyFlames] durante 3 segundos
+			'''
+	}
+
+	AuricDamru: {
+		DisplayName: Damru Áurico
+		Tooltip:
+			'''
+			Toca los bongós, infligiendo daño a todos los enemigos cercanos
+			Presiona <right> para disparar una Bengala Explosiva
+			Las Bengalas Explosivas afligen a los enemigos con [cbuff:CalamityMod/Dragonfire] durante 3 segundos
+			'''
+	}
+
+	NewLichRequirement: {
+		DisplayName: Nuevo Requisito del Liche
+		Tooltip: se supone que no deberías ver esto, ehhh...
+	}
+
+	EldritchShellFragment: {
+		DisplayName: Fragmento de Caparazón Eldritch
+		Tooltip:
+			'''
+			Consigue una buena fortuna en el mercado
+			'Un fragmento encantado de la prisión de un dios antiguo'
+			'''
+	}
+
+	SigilOfACruelWorld: {
+		DisplayName: Sigilo de un Mundo Cruel
+		Tooltip:
+			'''
+			Aumenta el daño sinfónico en 15%
+			Aumenta la velocidad de ejecución sinfónica en 8%
+			Aumenta la tasa de regeneración de inspiración en 8%
+			Aumenta la inspiración máxima en 3
+			'''
+	}
+
+	UniversalHeadset: {
+		DisplayName: Auriculares Universales
+		Tooltip:
+			'''
+			Aumenta el daño sinfónico en 20%
+			Aumenta la probabilidad de golpe crítico sinfónico en 7%
+			Aumenta la velocidad de ejecución sinfónica en 10%
+			Aumenta la tasa de regeneración de inspiración en 10%
+			Aumenta la inspiración máxima en 5
+			Cada potenciación única que tengas aumenta la velocidad de movimiento en 2% y la velocidad de ejecución en 1%
+			'''
+	}
+
+	GoldenBatDroppings: {
+		DisplayName: Excremento de Murciélago Dorado
+		Tooltip:
+			'''
+			+25% de monedas de los enemigos (50% en modo furia)
+			Aumenta el daño según las monedas que llevas (solo ranuras de monedas)
+			Este bono aumenta un 50% adicional en modo adrenalina
+			Perderás 25% de tus monedas de forma permanente al morir (50% al morir en modo maestro)
+			"¡No eres codicioso, solo estás loco por el dinero!"
+			'''
+	}
+
+	VerdurantBloom: {
+		DisplayName: Florecimiento Verdeante
+		Tooltip: Dispara una ráfaga de varios pétalos de flores
+	}
+
+	CosmicInjector: {
+		DisplayName: Inyector Cósmico
+		Tooltip:
+			'''
+			Dispara rápidamente agujas curativas y dañinas
+			Inflige [cbuff:CalamityMod/GodSlayerInferno] al golpear
+			Usa Jeringas como munición
+			'''
+	}
+
+	Korobeiniki: {
+		DisplayName: Korobeiniki
+		Tooltip:
+			'''
+			Hace que caigan Tetriminós desde el cielo
+			'Una consola de videojuegos sin ningún distintivo'
+			'''
+	}
+
+	GraspofVoid: {
+		DisplayName: Garra del Vacío
+		Tooltip: Dispara un fragmento de esencia del vacío, infligiendo [rbuff:ShadowFlame] al golpear
+	}
+
+	PhantasmalEdge: {
+		DisplayName: Filo Fantasmal
+		Tooltip:
+			'''
+			Girar esta guadaña crea muchas bolas de fuego en miniatura que te siguen mientras continúas girando la guadaña
+			Al dejar de girar la guadaña, las bolas de fuego buscan de inmediato el objetivo más cercano y explotan
+
+			Presiona <right> para lanzar la guadaña como un gancho, atrayendo a los enemigos hacia ti
+			¡Sin embargo, los enemigos más fuertes te atraerán a ti en su lugar!
+			'''
+	}
+
+	GodSlayersReap: {
+		DisplayName: Cosecha del Matadioses
+		Tooltip:
+			'''
+			Crea un pequeño holograma que se asemeja al Devorador de Dioses en el borde del giro de tu guadaña
+			Este holograma aumentará su daño con el tiempo hasta un límite e infligirá [cbuff:CalamityMod/GodSlayerInferno] al golpear
+			Dejar de usar la guadaña mientras un holograma está activo lo liberará para atacar al enemigo más cercano
+			El holograma liberado infligirá más daño e inflingirá [cbuff:CalamityMod/WhisperingDeath]
+			'''
+	}
+
+	LucentGemini: {
+		DisplayName: Géminis Luciente
+		Tooltip:
+			'''
+			Girar esta guadaña te rodea de un pulso etéreo de luz de luna
+			Los golpes generan [c/78C8FF:Esencia de Alma] y tienen probabilidad de generar [c/78C8FF:Estallido Estelar]
+			Presiona <right> con 5 o más Estallidos para invocar la constelación de [c/A0DCFF:Géminis]
+			Cada estrella dispara rayos perforantes de luz de luna que infligen [cbuff:CalamityMod/Voidfrost]
+			Presiona <right> de nuevo para descartar la constelación
+			'''
+	}
+
+	Arpeggiator: {
+		DisplayName: Arpegiador
+		Tooltip: Dispara proyectiles rápidamente en un patrón de arpegio
+	}
+
+	ElementalReaper: {
+		DisplayName: Guadaña Elemental
+		Tooltip:
+			'''
+			Girar esta guadaña crea proyectiles teledirigidos que infligen [rbuff:CalamityMod/ElementalMix]
+			Presiona <right> para otorgarte a ti y a todos tus aliados una de las siguientes Bendiciones Elementales durante 10 segundos:
+			[rbuff:RagnarokMod/ScytheAirBuff]
+			[rbuff:RagnarokMod/ScytheBrimstoneBuff]
+			[rbuff:RagnarokMod/ScytheEarthBuff]
+			[rbuff:RagnarokMod/ScytheOasisBuff]
+			[rbuff:RagnarokMod/ScytheSandBuff]
+			[rbuff:RagnarokMod/ScytheWaterBuff]
+			'''
+	}
+
+	BrimScythe: {
+		DisplayName: Guadaña de Azufre
+		Tooltip:
+			'''
+			Mientras giras, te rodea un círculo de Llamas de Azufre que inflige daño constante
+			Los enemigos golpeados por el círculo también son afligidos por [cbuff:CalamityMod/BrimstoneFlames] durante 5 segundos
+			Con menos del 25% de vida, matar a un enemigo con el círculo de fuego te curará por 3 + 5% de la vida máxima del enemigo
+			'''
+	}
+
+	MaxEmpowermentTester: {
+		DisplayName: Probador de Potenciación Máxima
+		Tooltip: Otorga todas las potenciaciones en un nivel especificado en el código del ítem :P
+	}
+
+	UnbreakableCombatUkulele: {
+		DisplayName: Ukelele de Combate Irrompible
+		Tooltip:
+			'''
+			Presiona <left> para tocar el ukelele
+			Presiona <right> para lanzar el ukelele
+			'No sirve como una buena disculpa'
+			'''
+	}
+
+	NightmareFreezer: {
+		DisplayName: Congelador de Pesadillas
+		Tooltip:
+			'''
+			Girar la guadaña libera periódicamente una ráfaga de dardos gélidos
+			'Encontrado en algún lugar entre Halloween y Navidad... ¡se podría hacer una película sobre eso!'
+			'''
+	}
+
+	DragonForce: {
+		DisplayName: Fuerza de Dragón
+		Tooltip:
+			'''
+			Consume inspiración rápidamente mientras canalizas un infierno hacia tu cursor
+			Presiona <right> para tocar el riff de [c/FF4500:Rugido del Dragón de la Jungla]
+			Mientras el riff está activo, el infierno que libera esta arma se amplifica
+			'''
+	}
+
+	Lamentation: {
+		DisplayName: Lamento
+		Tooltip: Dispara gigablastes de azufre teledirigidos que infligen [cbuff:CalamityMod/BrimstoneFlames] al golpear
+	}
+
+	Virusprayer: {
+		DisplayName: Pulverizador de Virus
+		Tooltip: Dispara una ráfaga de burbujas ácidas
+	}
+
+	IntergelacticRobohelm: {
+		DisplayName: Robocasco Intergaláctico
+		Tooltip:
+			'''
+			Aumenta el daño sinfónico, la probabilidad de golpe crítico y la velocidad de ejecución en 20%
+			Aumenta la regeneración de inspiración en 15%
+			Aumenta la inspiración máxima en 6
+			Aumenta la duración de la potenciación en 3 segundos
+			Reduce el daño recibido en 12%
+			'''
+	}
+
+	IntergelacticRamhelm: {
+		DisplayName: Casco de Carnero Intergaláctico
+		Tooltip:
+			'''
+			Reduce el daño no radiante en 40%
+			Aumenta el daño radiante en 30%
+			Aumenta la probabilidad de golpe crítico radiante y la velocidad de ataque en 15%
+			10% de uso de maná reducido
+			+60 de maná máximo
+			Tus hechizos de curación curarán 5 de vida adicional
+			'''
+	}
+
+	KellyPet: {
+		DisplayName: Vara de Anarchi
+		Tooltip:
+			'''
+			Invoca a Kelly para que te siga
+			'Ítem donado por HayWire799'
+			'Sprites por Zenovia'
+			'''
+	}
+
+	LeviathanHeart: {
+		DisplayName: Corazón del Leviatán
+		Tooltip: ""
+	}
+
+	SirenScale: {
+		DisplayName: Escama de Sirena
+		Tooltip:
+			'''
+			La Sirena canta junto con tu melodía encantadora.
+			Daño sinfónico aumentado en 15%
+			Tasa de regeneración de inspiración aumentada en 20%
+			Anahita cantará junto con tus instrumentos de cuerda, disparando proyectiles de agua adicionales
+			'''
+	}
+
+	ScourgesFrets: {
+		DisplayName: Trastes del Azote
+		Tooltip:
+			'''
+			Envía ondas de sonido rebotantes que parecen estar hechas de arena
+			Presiona <right> para tocar el riff de [c/34C9EB:Guardiana de los Antiguos Mares]
+			Mientras el riff está activo, los ataques de esta guitarra son el doble de grandes e infligen 25% más de daño
+			Sincroniza tus ataques durante el riff para reducir el enfriamiento
+			'''
+	}
+
+	AuricGreatscythe: {
+		DisplayName: Gran Guadaña Áurica
+		Tooltip:
+			'''
+			Esta guadaña se carga cuanto más tiempo la giras,
+			acelerando hasta velocidades increíbles
+			Presiona <right> para arrojar un rayo de electricidad
+			'''
+	}
+
+	IrradiantInfinity: {
+		DisplayName: Infinito Irradiante
+		Tooltip:
+			'''
+			Presiona <left> para disparar un orbe [c/FF5555:Rojo Irradiante] con retroceso masivo
+			Presiona <right> para invocar un orbe [c/55AAFF:Azul Irradiante] que sigue a tu cursor
+			El [c/55AAFF:Azul Irradiante] atrae a los enemigos cercanos y crece con cada golpe
+			Al alcanzar la masa crítica, golpéalo con el [c/FF5555:Rojo Irradiante] para liberar el [c/CC44FF:Púrpura Irradiante]
+			'''
+	}
+
+	PrimalTerror: {
+		DisplayName: Terror Primigenio
+		Tooltip: Mantenme como favorito ;P
+		HasAwoken: ¡El Wyrm Primordial ha despertado!
+	}
+
+	DevourerOfSines: {
+		DisplayName: Devorador de Senos
+		Tooltip:
+			'''
+			Canaliza esta arma para crear una onda senoidal masiva
+			Presiona <right> para tocar el riff de [c/501eb4:Colapso Universal]
+			Mientras el riff está activo, todos los jugadores en el área tienen vuelo ilimitado
+			'''
+	}
+
+	Ectambourine: {
+		DisplayName: Ectambourine
+		Tooltip:
+			'''
+			Lanza una cantidad interminable de panderetas fantasmales
+			Presiona <right> para hacer sonar las panderetas lanzadas, dañando a los enemigos cercanos
+			'''
+	}
+
+	InfectedOcarina: {
+		DisplayName: Ocarina Infectada
+		Tooltip:
+			'''
+			Emite un silbido maldito de ruido
+			Tiene probabilidad de disparar saliva vil
+			Presiona <right> para tocar el riff de [c/50477e:Mente Inmunda]
+			Mientras el riff está activo, pústulas infectadas aparecen a tu alrededor
+			Las pústulas infectadas escupirán fuego maldito hacia el enemigo más cercano
+			'''
+	}
+
+	Shredder: {
+		DisplayName: Trituradora
+		Tooltip:
+			'''
+			Envía ondas de choque sangrientas
+			Presiona <right> para tocar el riff de [c/AA1111:Coagulante de Sangre]
+			Mientras el riff está activo, todos los jugadores en el área tienen robo de vida
+			Sincroniza tus ataques durante el riff para reducir el enfriamiento
+			Fallar los tiempos durante el riff no reduce el enfriamiento, pero tampoco reduce tu daño
+			'''
+	}
+
+	SquirrelScarf: {
+		DisplayName: Bufanda de Ardilla
+		Tooltip:
+			'''
+			Aumenta tu número máximo de centinelas en 1
+			'Tan esponjosa como la cola de una ardilla'
+			'''
+	}
+
+	RiffTester: {
+		DisplayName: Probador de Riffs
+		Tooltip: Elimina los enfriamientos de Riff. Úsalo con responsabilidad.
+	}
+
+	StellarRiff: {
+		DisplayName: Riff Estelar
+		Tooltip:
+			'''
+			Envía estrellas teledirigidas, que se dividen en fragmentos teledirigidos
+			Un acierto al tocar aumentará la cantidad de fragmentos
+			Presiona <right> para tocar el riff de [c/00FFC8:Pisador Interestelar]
+			Mientras el riff está activo, llueven estrellas desde arriba
+			La cantidad de fragmentos teledirigidos se duplica mientras el riff está activo
+			Sincroniza tus ataques durante el riff para reducir el enfriamiento
+			'''
+	}
+
+	ToxicWaves: {
+		DisplayName: Ondas Tóxicas
+		Tooltip:
+			'''
+			Lanza nubes tóxicas flotantes que infligen [cbuff:CalamityMod/SulphuricPoisoning] y [cbuff:CalamityMod/Irradiated] al golpear
+			Las nubes perforan a los enemigos según tus rebotes adicionales de arma de cuerda
+			Presiona <right> para tocar el riff de [c/37C300:Sabiduría Tóxica]
+			Mientras el riff está activo, un vórtice sulfúrico invoca escualos ácidos desde arriba
+			Sincroniza tus ataques durante el riff para reducir el enfriamiento
+			'''
+	}
+
+	FateoftheGods: {
+		DisplayName: Destino de los Dioses
+		Tooltip:
+			'''
+			¡Gracias a todo el equipo, a todos los que apoyaron, y a quienes juegan el mod y lo mantienen vivo!
+			Los límites de esta pintura no son suficientes para incluir a todo el equipo
+			[c/999999:Mantén presionada la tecla Shift Izquierda para ver una lista de desarrolladores pasados y actuales]
+			'''
+		Donors: Donantes
+		Artists: Artistas
+		Programmers: Programadores
+		OtherDevelopers: Otros Desarrolladores
+	}
+
+	ProfanityFilter: {
+		DisplayName: Filtro de Groserías
+		Tooltip:
+			'''
+			Las armas electrónicas tienen 10% de daño reducido, pero 50% de velocidad de ejecución aumentada
+			15% de daño sinfónico aumentado para armas que no sean Electrónicas
+			10% de probabilidad de golpe crítico sinfónico aumentada
+			Aumenta la inspiración máxima en 4
+			El daño sinfónico tiene un 10% de probabilidad de aumentar el nivel de una de tus potenciaciones activas
+			Este efecto solo puede activarse una vez cada 2.5 segundos
+			'''
+	}
+
+	RedglassMonocle: {
+		DisplayName: Monóculo de Cristal Rojo
+		Tooltip:
+			'''
+			Usado en su día por una infame estrella del inframundo
+			25% de daño sinfónico aumentado
+			La potenciación de Daño Plano es dos veces más efectiva en ti
+			Mientras se lleve puesto, el Micrófono de Radio obtiene los siguientes bonos:
+			Costo de inspiración reducido en 2
+			Aumenta el nivel de la potenciación de Daño en 1
+			Inflige [rbuff:ThoriumMod/Charmed] durante 5 segundos
+			'''
+	}
+
+	RelicOfConvergenceOverride: {
+		Tooltip:
+			'''
+			Crea un cristal profanado en el cursor que canaliza un aura curativa antes de romperse
+			Todos los jugadores dentro del área de efecto se curan por {0} + 4x la curación adicional de PV
+			Los aliados obtienen 50% de curación extra
+			Sostener el cristal disminuye la defensa y aumenta el daño recibido
+			[c/FF8C00:Nunca conocí la amabilidad. Ni mis compañeros ni mi familia tuvieron una pizca de compasión por mí.]
+			[c/FF8C00:Deseé a alguien en quien pudiera confiar. Una presencia que me liberara de la ansiedad.]
+			[c/FF8C00:Y cuando vi Su sonrisa radiante al encontrarnos, supe que finalmente la había hallado.]
+			'''
+		DisplayName: Reliquia de la Convergencia
+	}
+
+	CorroslimeBass: {
+		Tooltip:
+			'''
+			Envía bolas de corroslime rebotantes
+			Presiona <right> para dividir las bolas en {0} bolas más pequeñas
+			Este proceso se puede realizar {1} veces
+			'''
+		DisplayName: Bajo de Corroslime
+	}
+
+	CrimslimeOboe: {
+		DisplayName: Oboe de Crimslime
+		Tooltip:
+			'''
+			Dispara dardos pegajosos de crimslime
+			Después de {0} segundos, los dardos explotarán
+			'''
+	}
+
+	StringsofOblivion: {
+		DisplayName: Cuerdas del Olvido
+		Tooltip: ""
+	}
+
+	WulfrumGuitar: {
+		Tooltip:
+			'''
+			Dispara ondas de sonido rebotantes
+			Presiona <right> para regresar las ondas
+			Las ondas que regresan ignorarán los bloques
+			'''
+		DisplayName: Guitarra Wulfrum
+	}
+
+	MenuMusicBox: {
+		DisplayName: Caja Musical (Título de Ragnarok)
+		Tooltip: Reproduce 'Menu Theme' de CrafterDaemon
+	}
+
+	InspirationSingularity.DisplayName: Singularidad de Inspiración
+
+	Asterion: {
+		DisplayName: Asterión
+		Tooltip:
+			'''
+			Crea un fractal ramificado de luz estelar a tu alrededor
+			Esta luz estelar te otorga ocasionalmente Estallidos Estelares al golpear enemigos con éxito
+			Presiona <right> con suficientes Estallidos Estelares para crear a Asterión
+			Asterión consume Estallidos Estelares rápidamente, pero libera pulsos estelares constantes
+			Estos pulsos te curan a ti y a los aliados cercanos, e infligen [cbuff:CalamityMod/Voidfrost] a los enemigos
+			'Tan leal como un sabueso'
+			'''
+	}
+
+	FungalCastanets: {
+		DisplayName: Castañuelas Fúngicas
+		Tooltip:
+			'''
+			Los clics alternos de las castañuelas rocían esporas fúngicas persistentes
+			Presiona <right> para tocar el riff de [c/00FFFF:¡1NF3S+@+!0N Riff!]
+			Durante el riff, tus castañuelas se convierten en las garras de Crabulon mientras llueven esporas desde arriba
+			'¡Suena como garras de cangrejo!'
+			'''
+	}
+
+	CantStopWontStop: {
+		DisplayName: No Puedo Parar No Voy a Parar
+		Tooltip: Esta es la canción que nunca termina...!
+	}
+
+	GlacialHarvester: {
+		DisplayName: Cosechadora Glacial
+		Tooltip:
+			'''
+			Mantén <left> para girar la guadaña
+			Presiona <right> para azotar la guadaña, enviando una ola masiva de hielo
+			Inflige [rbuff:Frostburn]
+			'''
+		Cooldown: El Golpe Glacial está en enfriamiento
+	}
+
+	Aphelion: {
+		DisplayName: Afelio
+		Tooltip:
+			'''
+			Mantén <left> para girar la guadaña, atrayendo a los enemigos cercanos hacia su vórtice
+			Gira el tiempo suficiente para invocar dos [c/DDEEFF:M][c/D2E3FA:a][c/C7D8F5:s][c/BCCDEF:a][c/B2C2EA:s] [c/A7B7E5:E][c/9CACE0:s][c/8697D5:t][c/7B8CD0:e][c/7181CB:l][c/6676C5:a][c/5B6BC0:r][c/5060BB:es] en órbita
+			Cuando ambas estén activas, presiona <right> para colapsar su órbita en una supernova
+			Inflige [rbuff:CalamityMod/MiracleBlight] al golpear
+			Las [c/DDEEFF:M][c/D2E3FA:a][c/C7D8F5:s][c/BCCDEF:a][c/B2C2EA:s] [c/A7B7E5:E][c/9CACE0:s][c/8697D5:t][c/7B8CD0:e][c/7181CB:l][c/6676C5:a][c/5B6BC0:r][c/5060BB:es] infligen [rbuff:CalamityMod/Dragonfire], [rbuff:CalamityMod/GodSlayerInferno], y [rbuff:CalamityMod/Daybroken] al contacto
+			'''
+	}
+
+	Thaumonomicon: {
+		DisplayName: Thaumonomicón
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	MelterAmpOverride.DisplayName: Anulación de Amplificador Fundidor
+	BlazingDrumBeatFireSlash.DisplayName: Tajo de Fuego de Baqueta Encendida
+	CalamityBellPro.DisplayName: Proyectil de la Campana de la Calamidad
+	CalamityBellPro2.DisplayName: Proyectil de la Campana de la Calamidad 2
+	TendrilStrike.DisplayName: Golpe de Tentáculo
+	GuardianHealer.DisplayName: Guardián Sanador
+	GuardianHealerBeam.DisplayName: Rayo del Guardián Sanador
+	CorrosiveFluxPro.DisplayName: Proyectil del Flujo Corrosivo
+	FractalPro1.DisplayName: Fractal Pro1
+	FractalPro2.DisplayName: Fractal Pro2
+	MarbleScythePro.DisplayName: Proyectil de la Guadaña de Mármol
+	PrismaPro1.DisplayName: Prisma Pro1
+	PrismaPro2.DisplayName: Prisma Pro2
+	ProfanedScythePro.DisplayName: Proyectil de la Guadaña Profanada
+	ScoriaDualscythePro.DisplayName: Proyectil de la Guadaña Doble de Escoria
+	WindReaverPro.DisplayName: Proyectil del Saqueador del Viento
+	WindSlashPro.DisplayName: Corte de Viento
+	NoProj.DisplayName: Sin Proyectil
+	SteampipesPro.DisplayName: Proyectil de la Gaita de Vapor
+	ElysianSongPro.DisplayName: Proyectil de la Canción Elísea
+	FractalOrb.DisplayName: Orbe Fractal
+	ExecutionerMark05Pro.DisplayName: Proyectil de El Verdugo Marca 05
+	ExecutionerMark05ThrowPro.DisplayName: Lanzamiento de El Verdugo Marca 05
+	WapBamBoom.DisplayName: Wap Bam Boom
+	GelScythePro1.DisplayName: Guadaña Gelatinosa Pro1
+	GelScythePro2.DisplayName: Guadaña Gelatinosa Pro2
+	AstralRipperPro.DisplayName: Proyectil de la Desgarradora Astral
+	AstralRipperStarPro.DisplayName: Estrella de la Desgarradora Astral
+	Splattershot.DisplayName: Disparo de Salpicadura
+	BloodOrb.DisplayName: Orbe de Sangre
+	ProfaneBellBlast.DisplayName: Explosión de la Campana Profana
+	ProfanedBellBlast.DisplayName: Explosión de la Campana Profanada
+	BellBlastBoom.DisplayName: Estallido de la Explosión de Campana
+	AuricDamruShock.DisplayName: Descarga del Damru Áurico
+	AuricDamruFlareBombBoom.DisplayName: Estallido de la Bengala Explosiva del Damru Áurico
+	AuricDamruFlareBomb.DisplayName: Bengala Explosiva del Damru Áurico
+	VerdurantBloomPro.DisplayName: Florecimiento Verdeante Pro
+	VerdurantBloomPro2.DisplayName: Florecimiento Verdeante Pro2
+	VerdurantBloomPro3.DisplayName: Florecimiento Verdeante Pro3
+	CosmicInjectorPro1.DisplayName: Inyector Cósmico Pro1
+	CosmicInjectorPro2.DisplayName: Inyector Cósmico Pro2
+	KorobeinikiPro1.DisplayName: Korobeiniki Pro1
+	KorobeinikiPro2.DisplayName: Korobeiniki Pro2
+	KorobeinikiPro3.DisplayName: Korobeiniki Pro3
+	KorobeinikiPro4.DisplayName: Korobeiniki Pro4
+	KorobeinikiPro5.DisplayName: Korobeiniki Pro5
+	KorobeinikiPro6.DisplayName: Korobeiniki Pro6
+	KorobeinikiPro7.DisplayName: Korobeiniki Pro7
+	GraspofVoidPro1.DisplayName: Garra del Vacío Pro1
+	GraspofVoidPro2.DisplayName: Garra del Vacío Pro2
+	PhantasmalEdgePro1.DisplayName: Filo Fantasmal Pro1
+	PhantasmalEdgeBombs.DisplayName: Bombas del Filo Fantasmal
+	PhantasmalEdgeHook.DisplayName: Gancho del Filo Fantasmal
+	ArpeggiatorPro1.DisplayName: Arpegiador Pro1
+	ArpeggiatorPro2.DisplayName: Arpegiador Pro2
+	ElementalReaperPro.DisplayName: Guadaña Elemental Pro
+	ElementalReaperPro2.DisplayName: Guadaña Elemental Pro2
+	UnbreakableCombatUkulelePro1.DisplayName: Ukelele de Combate Irrompible Pro1
+	UnbreakableCombatUkulelePro2.DisplayName: Ukelele de Combate Irrompible Pro2
+	UnbreakableCombatUkulelePro3.DisplayName: Ukelele de Combate Irrompible Pro3
+	NightmareFreezerPro.DisplayName: Congelador de Pesadillas Pro
+	NightmareFreezerPro2.DisplayName: Congelador de Pesadillas Pro2
+	NightmareFreezerPro3.DisplayName: Congelador de Pesadillas Pro3
+	ElementalBuff.DisplayName: Mejora Elemental
+	DragonForcePro1.DisplayName: Fuerza de Dragón Pro1
+	DragonForcePro2.DisplayName: Fuerza de Dragón Pro2
+	SupremeBellPro.DisplayName: Campana Suprema Pro
+	LamentationBoom.DisplayName: Estallido del Lamento
+	LamentationPro.DisplayName: Lamento Pro
+	VirusprayerPro1.DisplayName: Pulverizador de Virus Pro1
+	VirusprayerPro2.DisplayName: Pulverizador de Virus Pro2
+	KellyPetProjectile.DisplayName: Proyectil de la Mascota Kelly
+	GodSlayersReapPro1.DisplayName: Cosecha del Matadioses Pro1
+	MiniDoGHead.DisplayName: Cabeza del Mini DdD
+	MiniDoGExplosion.DisplayName: Explosión del Mini DdD
+	MiniDoGDeathRenderer.DisplayName: Renderizador de Muerte del Mini DdD
+	LeviathanHeartBubbleProj.DisplayName: Proyectil de la Burbuja del Corazón del Leviatán
+	BrimScytheFirePro.DisplayName: Fuego de la Guadaña de Azufre Pro
+	BrimScythePro.DisplayName: Guadaña de Azufre Pro
+	AnahitaWaterNote.DisplayName: Nota de Agua de Anahita
+	MiniAnahitaCompanion.DisplayName: Compañera Mini Anahita
+	AuricGreatscythePro.DisplayName: Gran Guadaña Áurica Pro
+	ScourgesFretsPro.DisplayName: Trastes del Azote Pro
+	IrradiantBlue.DisplayName: Azul Irradiante
+	IrradiantExplosion.DisplayName: Explosión Irradiante
+	IrradiantPurple.DisplayName: Púrpura Irradiante
+	IrradiantRed.DisplayName: Rojo Irradiante
+	AuricGreatscytheBolt.DisplayName: Rayo de la Gran Guadaña Áurica
+	AuricGreatscytheSwing.DisplayName: Golpe de la Gran Guadaña Áurica
+	LucentGeminiPro.DisplayName: Géminis Luciente
+	GeminiConstellation.DisplayName: Constelación de Géminis
+	GeminiMoonlightRay.DisplayName: Rayo de Luz de Luna de Géminis
+	RadioMicPro.DisplayName: Proyectil del Micrófono de Radio
+	RadioMicShadowBurst.DisplayName: Ráfaga Sombría del Micrófono de Radio
+	PlayerBrimstoneBarrage.DisplayName: Barrera de Azufre del Jugador
+	DevourerRiffSine.DisplayName: Seno del Riff del Devorador
+	ScourgesFretsWorm.DisplayName: Gusano de los Trastes del Azote
+	DevourerSineBeam.DisplayName: Rayo Senoidal del Devorador
+	EctambourinePro.DisplayName: Proyectil de Ectambourine
+	EctambourineProJingle.DisplayName: Cascabeleo de Ectambourine
+	InfectedOcarinaPro.DisplayName: Proyectil de la Ocarina Infectada
+	VileSpitFriendly.DisplayName: Saliva Vil Aliada
+	ShredderTendrils.DisplayName: Tentáculos de la Trituradora
+	ShredderPro.DisplayName: Proyectil de la Trituradora
+	StellarRiffPro.DisplayName: Proyectil del Riff Estelar
+	StellarAurora.DisplayName: Aurora Estelar
+	StellarShootingStar.DisplayName: Estrella Fugaz Estelar
+	ToxicWavesVortex.DisplayName: Vórtice de las Ondas Tóxicas
+	ToxicSharkron.DisplayName: Escualo Tóxico
+	ToxicWavesPro.DisplayName: Proyectil de las Ondas Tóxicas
+	DragonForceRiffBeam.DisplayName: Rayo del Riff de Fuerza de Dragón
+	InfectedPustule.DisplayName: Pústula Infectada
+	InfectedSporeCloud.DisplayName: Nube de Esporas Infectadas
+	InfectedSporeFire.DisplayName: Fuego de Esporas Infectadas
+	RelicOfConvergenceCrystalOverride.DisplayName: Anulación del Cristal de la Reliquia de la Convergencia
+	CorroslimeBassPro.DisplayName: Proyectil del Bajo de Corroslime
+	CrimslimeOboePro.DisplayName: Proyectil del Oboe de Crimslime
+	WulfrumGuitarPro.DisplayName: Proyectil de la Guitarra Wulfrum
+	AcidicSaxBubbleOverride.DisplayName: Anulación de Burbuja de Saxofón Ácido
+	AcidicReedOverride.DisplayName: Anulación de Lengüeta Ácida
+	AsterionConstellation.DisplayName: Constelación de Asterión
+	AstralRipperChargeSwing.DisplayName: Golpe Cargado de la Desgarradora Astral
+	AstralRipperStarfall.DisplayName: Lluvia de Estrellas de la Desgarradora Astral
+	ToxicSharkronGore.DisplayName: Restos del Escualo Tóxico
+	FungalCastanetClick.DisplayName: Clic de Castañuelas Fúngicas
+	FungalSpore.DisplayName: Espora Fúngica
+	InfestationMushroomHat.DisplayName: Controlador de Lluvia de Hongos de la Infestación
+	InfestationMushroomRain.DisplayName: Esporas de la Lluvia de Hongos de la Infestación
+	GlacialSlam.DisplayName: Golpe Glacial
+	GlacialHarvesterPro.DisplayName: Proyectil de la Cosechadora Glacial
+	GlacialWave.DisplayName: Ola Glacial
+	AphelionPro.DisplayName: Proyectil de Afelio
+	AphelionSun.DisplayName: Sol de Afelio
+	AphelionVortex.DisplayName: Vórtice de Afelio
+	AphelionSupernova.DisplayName: Supernova de Afelio
+}
+
+Configs: {
+	BossProgressionConfig: {
+		DisplayName: Configuración de Progresión de Jefes
+		Headers.BossProgressionChanges: Cambios de Progresión de Jefes
+
+		GrandFlareGun: {
+			Label: Cambio de Receta del Gran Pájaro del Trueno
+			Tooltip: Cambia la Gran Pistola de Bengalas y la Bengala de Tormenta para requerir Mandíbulas de León Marino de Tormenta en lugar de Plumas de Buitre. Por defecto: Verdadero
+		}
+
+		DesertMedallion: {
+			Label: Cambio de Receta del Azote del Desierto
+			Tooltip: Cambia el Medallón del Desierto para usar Lingotes de Arenisca del Gran Pájaro del Trueno. Por defecto: Verdadero
+		}
+
+		DecapoditaSprout: {
+			Label: Cambio de Receta de Crabulon
+			Tooltip: Cambia el Brote de Decapodita para usar Fragmentos de Perla, Plumas de Tormenta y Gelatina de la Reina. Por defecto: Verdadero
+		}
+
+		MarbleGranite: {
+			Label: Cambios de Receta de las Tormentas de Energía de Granito y el Campeón Enterrado
+			Tooltip: Cambia la Hoja Antigua y el Núcleo Inestable para requerir Lingotes de Aerialita. Por defecto: Verdadero
+		}
+
+		OverloadedSludge: {
+			Label: Cambio de Receta del Dios Limo
+			Tooltip: Cambia el Lodo Sobrecargado para usar Mármol Encantado y Granito Potenciado. Por defecto: Verdadero
+		}
+
+		StarCaller: {
+			Label: Cambio de Receta del Explorador Estelar
+			Tooltip: Cambia el Invocador de Estrellas para usar Lingotes de Aerialita y el material del jefe maligno. Por defecto: Verdadero
+		}
+
+		CryoKey: {
+			Label: Cambio de Receta de Cryogen
+			Tooltip: Cambia la Llave Crio para usar Colmillos del Zancudo. Por defecto: Verdadero
+		}
+
+		MechBosses: {
+			Label: Cambio de Receta de los Jefes Mecánicos
+			Tooltip: Cambia el Ojo, el Gusano y la Calavera Mecánicos para que cada uno requiera una Placa Madre Alienígena Extraña. Por defecto: Verdadero
+		}
+
+		Lich: {
+			Label: Cambio de Invocación del Liche
+			Tooltip: Cambia la Filacteria Antigua para requerir Esencia del Caos para invocar al Liche en lugar de calabazas. Por defecto: Verdadero
+		}
+
+		CharredIdol: {
+			Label: Cambio de Receta del Elemental de Azufre
+			Tooltip: Cambia el Ídolo Carbonizado para requerir un Corazón del Vacío. Por defecto: Verdadero
+		}
+
+		Seafood: {
+			Label: Cambio de Receta del Azote Acuático
+			Tooltip: Cambia el Marisco para requerir Gelatina de la Reina. Por defecto: Verdadero
+		}
+
+		EyeOfDesolation: {
+			Label: Cambio de Receta del Clon de Calamitas
+			Tooltip: Cambia el Ojo de la Desolación para requerir la Perla Vidente del Vacío. Por defecto: Verdadero
+		}
+
+		DeathWhistle: {
+			Label: Cambio de Receta del Devastador
+			Tooltip: Cambia el Silbato de la Muerte para requerir Tela Maldita. Por defecto: Verdadero
+		}
+
+		DoomSayerCoin: {
+			Label: Cambio de Receta de los Primordiales
+			Tooltip: Cambia la Moneda del Augur de Perdición para requerir Cenizas de la Calamidad. Por defecto: Verdadero
+		}
+
+		RuneOfKos: {
+			Label: Cambios de Aparición de la Providencia
+			Tooltip: Cambia la receta de la Marca de la Providencia para requerir Geodas Divinas y Esencias de los Primordiales, y hace que ya no caiga de la Providencia. Por defecto: Verdadero
+		}
+	}
+
+	ClassBalancerConfig: {
+		DisplayName: Configuración del Balanceador de Clases
+
+		Headers: {
+			ClassBalanceChanges: Cambios de Balance de Clases
+			ClassMechanicChanges: Cambios de Mecánicas de Clase
+		}
+
+		HealerDamageModifier: {
+			Label: Modificador de Daño de Sanador
+			Tooltip: Multiplicador para el daño de Sanador. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		BardDamageModifier: {
+			Label: Modificador de Daño de Bardo
+			Tooltip: Multiplicador para el daño de Bardo. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		RogueDamageModifier: {
+			Label: Modificador de Daño de Pícaro
+			Tooltip: Multiplicador para el daño de Pícaro/Lanzamiento. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		RangedDamageModifier: {
+			Label: Modificador de Daño a Distancia
+			Tooltip: Multiplicador para el daño a Distancia. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		MagicDamageModifier: {
+			Label: Modificador de Daño Mágico
+			Tooltip: Multiplicador para el daño Mágico. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		SummonDamageModifier: {
+			Label: Modificador de Daño de Invocación
+			Tooltip: Multiplicador para el daño de Invocación. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		MeleeDamageModifier: {
+			Label: Modificador de Daño Cuerpo a Cuerpo
+			Tooltip: Multiplicador para el daño Cuerpo a Cuerpo. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		HealingBonusModifier: {
+			Label: Modificador de Bono de Curación
+			Tooltip: Multiplicador para los bonos de curación. El multiplicador se aplica después de todos los demás cambios.
+		}
+
+		RiffsRequireRiffInstrumentToBeHeld: {
+			Label: Los Riffs Requieren que el Instrumento del Riff Esté Equipado
+			Tooltip: Los riffs terminan automáticamente cuando el arma deja de estar equipada.
+		}
+
+		MistimedDamagePen: {
+			Label: Penalización de Daño por Desincronización
+			Tooltip:
+				'''
+				Penalización de daño de Thorium por fallar los tiempos en ataques con instrumentos grandes.
+				El valor por defecto de Thorium es 0.75, lo que significa que los ataques desincronizados infligen 75% menos daño.
+				El valor por defecto de Ragnarok es 0.6, lo que significa que los ataques desincronizados infligen 60% menos daño.
+				[c/7C0A02:Sin embargo, algunos mods pueden forzar este valor a otro para su propio balance.]
+				'''
+		}
+	}
+
+	ItemBalancerConfig: {
+		DisplayName: Configuración del Balanceador de Ítems
+		Headers.ItemBalanceChanges: Encabezado de Cambios de Balance de Ítems
+
+		OmegaCore: {
+			Label: Núcleo Omega
+			Tooltip: Reduce el bono de velocidad de movimiento del Núcleo Omega para mantenerlo más equilibrado con el avance del juego.
+		}
+
+		genericweaponchanges: {
+			Label: Ajustes Genéricos de Armas
+			Tooltip: Aplica reajustes generales de balance de armas.
+		}
+	}
+
+	UIConfig: {
+		DisplayName: Configuración de Interfaz
+
+		Headers: {
+			UITweaks: Encabezado de Ajustes de Interfaz
+			Debug: Encabezado de Depuración
+		}
+
+		BardEmpowermentBarOffsetX: {
+			Label: Desplazamiento X de la Barra de Potenciación de Bardo
+			Tooltip: Desplazamiento X de la barra de potenciación de bardo. El valor por defecto ya debería corregir la superposición con los enfriamientos de ítems de Calamity.
+		}
+
+		BardEmpowermentBarOffsetY: {
+			Label: Desplazamiento Y de la Barra de Potenciación de Bardo
+			Tooltip: Desplazamiento Y de la barra de potenciación de bardo. El valor por defecto ya debería corregir la superposición con los enfriamientos de ítems de Calamity.
+		}
+	}
+
+	ModCompatConfig: {
+		DisplayName: Configuración de Compatibilidad de Mods
+		Headers.ModCompat: Compatibilidad de Mods
+
+		item_deduplication_mode: {
+			Label: Deduplicación de ítems de Bardo y Sanador de Calamity
+			Tooltip: Selecciona qué recetas de ítems duplicados se cargan. Desactivado habilita ambas versiones del mod.
+		}
+	}
+
+	CalamityBardHealer_selection_mode: {
+		Tooltip: ""
+
+		Off: {
+			Label: Desactivado
+			Tooltip: ""
+		}
+
+		Ragnarok: {
+			Label: Ragnarok Mod
+			Tooltip: ""
+		}
+
+		CalamityBardHealer: {
+			Label: Calamity Bard Healer
+			Tooltip: ""
+		}
+	}
+
+	BossConfig: {
+		DisplayName: Configuración de Jefes
+		Headers.BossChanges: Cambios de Jefes
+
+		bird: {
+			Label: IA del Gran Pájaro del Trueno
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento por defecto.
+		}
+
+		jelly: {
+			Label: IA de la Reina Medusa
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento por defecto.
+		}
+
+		bossstatstweak: {
+			Label: Ajuste de Estadísticas de Jefes
+			Tooltip: Selecciona si los jefes de Thorium reciben ajustes de estadísticas (daño de ataque, vida, defensa, reducción de daño) para el escalado de Calamity.
+		}
+
+		bossrush: {
+			Label: Maratón de Jefes de Thorium
+			Tooltip: Selecciona qué modo de maratón de jefes debe usarse. Desactivado deshabilita el maratón de jefes.
+		}
+
+		viscount: {
+			Label: IA del Vizconde
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+
+		granite: {
+			Label: IA de la Tormenta de Energía de Granito
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+
+		champion: {
+			Label: IA del Campeón Enterrado
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+
+		scouter: {
+			Label: IA del Explorador Estelar
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+
+		strider: {
+			Label: IA del Zancudo Boreal
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+
+		beholder: {
+			Label: IA del Contemplador Caído
+			Tooltip: Selecciona qué reelaboración de IA debe usarse. Desactivado para el comportamiento vanilla. Automático usa la IA de Ragnarok si no se detecta ninguna otra reelaboración.
+		}
+	}
+
+	ThoriumBossRework_selection_mode: {
+		Tooltip: ""
+
+		Off: {
+			Label: Desactivado
+			Tooltip: ""
+		}
+
+		Ragnarok: {
+			Label: Ragnarok
+			Tooltip: ""
+		}
+
+		ThoriumBossRework: {
+			Label: Reelaboración de Jefes de Thorium
+			Tooltip: ""
+		}
+
+		Auto: {
+			Label: Automático
+			Tooltip: ""
+		}
+	}
+
+	ClientConfig: {
+		DisplayName: Configuración de Cliente
+
+		Headers: {
+			Audio: Audio
+			UITweaks: Ajustes de Interfaz
+			WelcomeText: Texto de Bienvenida
+			Visual: Visuales
+			VisFluxMeter: Encabezado del Medidor de Flujo Visual
+		}
+
+		BardEmpowermentBarOffsetX: {
+			Label: Desplazamiento X de la Barra de Potenciación de Bardo
+			Tooltip: ""
+		}
+
+		BardEmpowermentBarOffsetY: {
+			Label: Desplazamiento Y de la Barra de Potenciación de Bardo
+			Tooltip: ""
+		}
+
+		RiffMusicVolume: {
+			Label: Volumen de Música de Riff
+			Tooltip:
+				'''
+				Establece el volumen para la música de Riff.
+				Ponerlo en 0 deshabilitará la música de Riff, y no atenuará la música que suena cuando comienza un riff.
+				'''
+		}
+
+		StartText: {
+			Label: Texto de Inicio
+			Tooltip: Habilita o Deshabilita el texto de bienvenida al entrar al mundo.
+		}
+
+		RiffScreenEffectIntensity: {
+			Label: Intensidad del Efecto de Pantalla de Riff
+			Tooltip: Controla la intensidad de los Efectos de Pantalla de Riff. Ponlo en 0 para deshabilitarlo.
+		}
+
+		MissSoundPreset: {
+			Label: Preajuste de Sonido de Fallo
+			Tooltip: Elige un estilo de sonido preestablecido para tus sonidos de tiempo fallado.
+		}
+
+		CustomMissSoundPath: {
+			Label: Ruta de Sonido de Fallo Personalizada
+			Tooltip:
+				'''
+				Escribe una ruta de sonido de mod para el sonido de tiempo fallado personalizado que deseas usar.
+				Por ejemplo, 'RagnarokMod/Sounds/bonk'.
+				Debe tener un archivo .ogg correspondiente en la carpeta Sounds del mod, de lo contrario podría causar fallos o simplemente no funcionar.
+				No hace nada a menos que el Preajuste de Sonido de Fallo esté configurado en Personalizado.
+				'''
+		}
+
+		MissSoundVolume: {
+			Label: Volumen del Sonido de Fallo
+			Tooltip: Establece el volumen para el sonido de tiempo fallado.
+		}
+
+		MissSoundDuringRiff: {
+			Label: Sonido de Fallo Durante el Riff
+			Tooltip: Determina si el sonido de tiempo fallado se reproducirá durante un riff activo.
+		}
+
+		PlaySoundDuringRiff: {
+			Label: Reproducir Sonido Durante el Riff
+			Tooltip:
+				'''
+				Determina si el sonido del instrumento se reproduce durante los riffs.
+				Ponlo en 1 para reproducir siempre el sonido durante los riffs, -1 para nunca reproducir el sonido durante los riffs.
+				0 solo reproducirá el sonido durante los riffs para ítems específicos previstos, como las Castañuelas Fúngicas.
+				'''
+		}
+
+		MeterOffsetX: {
+			Label: Desplazamiento X del Medidor
+			Tooltip: ""
+		}
+
+		MeterOffsetY: {
+			Label: Desplazamiento Y del Medidor
+			Tooltip: ""
+		}
+
+		RiffsOverrideEventMusic: {
+			Label: Los Riffs Anulan la Música de Eventos
+			Tooltip: Alterna si la Música de Riff anula la música de Evento
+		}
+
+		RiffsOverrideBossMusic: {
+			Label: Los Riffs Anulan la Música de Jefes
+			Tooltip: Alterna si la Música de Riff anula la música de Jefe
+		}
+	}
+
+	DebugConfig: {
+		DisplayName: Configuración de Depuración
+		Headers.Debugging: Depuración
+
+		ItemHoldOffsetX: {
+			Label: Desplazamiento X de Sostener Ítem
+			Tooltip: ""
+		}
+
+		ItemHoldOffsetY: {
+			Label: Desplazamiento Y de Sostener Ítem
+			Tooltip: ""
+		}
+
+		ItemUseStylePerpendicular: {
+			Label: Perpendicular del Estilo de Uso de Ítem
+			Tooltip: ""
+		}
+
+		ShootOffsetForward: {
+			Label: Desplazamiento de Disparo Hacia Adelante
+			Tooltip: ""
+		}
+
+		ShootOffsetPerpendicular: {
+			Label: Desplazamiento de Disparo Perpendicular
+			Tooltip: ""
+		}
+
+		ItemHoldPerpendicular: {
+			Label: Perpendicular de Sostener Ítem
+			Tooltip: ""
+		}
+	}
+
+	AprilChaos: {
+		DisplayName: Caos de Abril
+
+		Headers: {
+			AprilChaos: Caos de Abril
+			RadiantMage: Mago Radiante
+			MeleeSummoner: Invocador Cuerpo a Cuerpo
+			RogueRanger: Arquero Pícaro
+			ObnoxiousBard: Bardo Insoportable
+		}
+
+		MasterToggle: {
+			Label: Interruptor Maestro
+			Tooltip: Deshabilita/Habilita todas las opciones de abajo.
+		}
+
+		RadMage: {
+			Label: Mago Radiante
+			Tooltip:
+				'''
+				El Sanador se sentía como una simple extensión del Mago.
+				Así que lo arreglamos.
+				Reemplazando al Mago con el Sanador.
+				Toda la magia es curación si crees lo suficiente.
+				O golpeas lo suficientemente fuerte.
+				'''
+		}
+
+		MelSum: {
+			Label: Invocador Cuerpo a Cuerpo
+			Tooltip:
+				'''
+				El Invocador tenía algunos vacíos de progresión desafortunados.
+				Así que lo arreglamos.
+				Dándole todo el Cuerpo a Cuerpo al Invocador.
+				Tus esbirros ahora te respetan.
+				Tu espada no.
+				'''
+		}
+
+		RogRan: {
+			Label: Arquero Pícaro
+			Tooltip:
+				'''
+				El Pícaro está recuperando sus raíces.
+				Absorbiendo al Arquero.
+				Siempre fueron la misma persona.
+				Uno solo tenía mejores zapatos.
+				'''
+		}
+
+		ObBard: {
+			Label: Bardo Insoportable
+			Tooltip: Hace que tus riffs sean... menos riffescos
+		}
+
+		OwnRiffWeight: {
+			Label: Peso del Propio Riff
+			Tooltip: ""
+		}
+
+		RiffWeights: {
+			Label: Pesos de Riff
+			Tooltip: ""
+		}
+	}
+
+	MissSoundPreset: {
+		Tooltip: ""
+
+		Default: {
+			Label: Por Defecto
+			Tooltip: ""
+		}
+
+		Softer: {
+			Label: Más Suave
+			Tooltip: ""
+		}
+
+		Percussion: {
+			Label: Percusión
+			Tooltip: ""
+		}
+
+		Custom: {
+			Label: Personalizado
+			Tooltip: ""
+		}
+
+		Bounce: {
+			Label: Rebote
+			Tooltip: ""
+		}
+
+		Meow: {
+			Label: Maullido
+			Tooltip: ""
+		}
+
+		Clang: {
+			Label: Estruendo
+			Tooltip: ""
+		}
+	}
+}
+
+WikiMessage: "[i:RagnarokMod/EquivalentExchange][c/FF2929:¡Ayúdanos a completar la wiki oficial de ][c/B428FF:Ragnarok Mod][c/FF2929: en ][c/3898FF:ragnarokmod.wiki.gg][c/FF2929:!][i:RagnarokMod/CorrosiveFlux]"
+FandomWarning: "[i:GolfCupFlagRed][c/B428FF:Ragnarok Mod ][c/FF2929:nunca ha tenido una wiki de Fandom. ¡Cualquier información de Fandom puede ser inexacta!][i:GolfCupFlagRed]"
+DiscordInvite: "[i:WireKite][c/9696FF:¡Únete al Discord oficial de ][c/B428FF:Ragnarok Mod][c/9696FF:! ][c/3898FF:discord.gg/UBAQwtKCbf][i:WireKite]"
+PatreonAd: "[i:LuckyCoin][c/96FF96:Si disfrutas el mod, considera apoyarnos en Patreon: ][c/3898FF:patreon.com/c/DevTeamRagnarok][i:LuckyCoin]"
+DisableMe: "[i:Wrench][c/FFFF0A:¡Si quieres dejar de recibir estos mensajes, puedes desactivarlos en la configuración de tu menú de pausa!][i:Wrench]"
+
+Riffs: {
+	Cooldown: Enfriamiento de Riff
+	EmpowermentsHeader: Potenciaciones de Riff:
+}
+
+DamageClasses: {
+	ThoriumRogueClass.DisplayName: daño de pícaro
+	MeleeSummoner.DisplayName: daño invomelee
+	RadiantMagic.DisplayName: daño radiágico
+	RogueRanger.DisplayName: daño de picarodistancia
+}
+
+Tiles.MenuMusicBoxTile.MapEntry: Caja Musical del Menú

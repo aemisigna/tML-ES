@@ -1539,11 +1539,6 @@ Permascarf: {
 	Tooltip: Mantente fresco
 }
 
-Polterhook: {
-	DisplayName: Poltergancho
-	Tooltip: ""
-}
-
 MysteryPainting: {
 	DisplayName: Pintura Misteriosa
 	Tooltip: <right> para una pintura aleatoria

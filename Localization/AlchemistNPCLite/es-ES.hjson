@@ -661,7 +661,7 @@ Mods: {
 
 			AlchemistHorcrux: {
 				DisplayName: Horrocrux de la Alquimista
-				Tooltip: En su interior se encuentra un fragmento del alma del Alquimista.
+				Tooltip: En su interior se encuentra un fragmento del alma de la Alquimista.
 			}
 
 			APMC: {
@@ -1512,8 +1512,8 @@ Mods: {
 				}
 
 				AlchemistSpawn: {
-					Tooltip: Verdadero para habilitar la aparición del PNJ Alquimista, falso para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del Alquimista
+					Tooltip: Verdadero para habilitar la aparición de la PNJ Alquimista, falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición de la Alquimista
 				}
 
 				DisplayName: Configuración del mod

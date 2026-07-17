@@ -1,0 +1,59 @@
+Items: {
+	TerrariumHelmet: {
+		DisplayName: Casco de Terrario
+		Tooltip:
+			'''
+			'Todos caerán ante tu poder...'
+			La vida máxima aumenta en {0} y la regeneración de vida en {1}
+			Daño aumentado en {2}%
+			Mejora la visión en la oscuridad
+			'''
+		SetBonus:
+			'''
+			Las energías de Terraria buscarán protegerte en combate
+			Al presionar la tecla '{$Keybinds.ArmorAbility.DisplayName}', podrás cambiar y seleccionar un Enfoque de Clase
+			'''
+
+		Focus: {
+			Generic: {
+				Name: Sin Enfoque
+				Description: "{0}% de daño aumentado"
+			}
+
+			Melee: {
+				Name: Enfoque Cuerpo a Cuerpo
+				Description: "{0}% de reducción de daño aumentada"
+			}
+
+			Ranged: {
+				Name: Enfoque a Distancia
+				Description: "{0}% de velocidad de disparo aumentada"
+			}
+
+			Magic: {
+				Name: Enfoque Mágico
+				Description: Maná máximo aumentado en {0}
+			}
+
+			Summon: {
+				Name: Enfoque de Invocación
+				Description: Aumenta tu número máximo de súbditos en {0} y reduce el daño no de invocación en {1}%
+			}
+
+			Throwing: {
+				Name: Enfoque de Lanzamiento
+				Description: Aumenta tus puntos de técnica máximos en {0} y otorga +110 de sigilo
+			}
+
+			Healer: {
+				Name: Enfoque Radiante
+				Description: Los hechizos de curación restauran {0} puntos de vida adicionales
+			}
+
+			Bard: {
+				Name: Enfoque Sinfónico
+				Description: Aumenta la duración de los potenciadores en {0} {^0:segundo;segundos}
+			}
+		}
+	}
+}

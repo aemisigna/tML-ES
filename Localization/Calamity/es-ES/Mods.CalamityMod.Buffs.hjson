@@ -208,7 +208,7 @@ Dragonfire: {
 }
 
 GodSlayerInferno: {
-	DisplayName: Infierno Matagdioses
+	DisplayName: Infierno Matadioses
 	Description: Tu carne se está quemando
 	ItemTooltipPlayer: Calor - 20 DPS
 	ItemTooltipEnemy: Calor - 250 DPS

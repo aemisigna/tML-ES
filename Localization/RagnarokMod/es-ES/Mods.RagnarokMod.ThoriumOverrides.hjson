@@ -1,0 +1,634 @@
+Buffs: {
+	AssassinPotionBuff: {
+		DisplayName: Asesino
+		Description: Los ataques de pícaro fuera de combate causan un golpe crítico con x4 de daño
+	}
+
+	DeepFreezeCoatingBuff: {
+		DisplayName: Imbuición de Arma de Pícaro: Congelación Profunda
+		Description: El daño de pícaro tiene una probabilidad de entorpecer gravemente el movimiento del enemigo alcanzado
+	}
+
+	ExplosiveCoatingBuff: {
+		DisplayName: Imbuición de Arma de Pícaro: Explosiva
+		Description: El daño de pícaro tiene una probabilidad de estallar, incendiando a los enemigos cercanos
+	}
+
+	GorgonCoatingBuff: {
+		DisplayName: Imbuición de Arma de Pícaro: Jugo de Gorgona
+		Description: El daño de pícaro tiene una probabilidad de petrificar a los enemigos alcanzados
+	}
+
+	LichSetBuff: {
+		DisplayName: Cosecha de Almas
+		Description: Tu velocidad de movimiento y de ataque de pícaro se incrementan considerablemente
+	}
+
+	MyceliumVeins: {
+		DisplayName: Venas de Micelio
+		Description: La velocidad de ataque de pícaro ha aumentado un 10%
+	}
+
+	NinjaBuff: {
+		DisplayName: Juego de Manos
+		Description: Aumenta la velocidad del arma de pícaro, su cadencia y la probabilidad de golpe crítico
+	}
+
+	SporeCoatingBuff: {
+		DisplayName: Imbuición de Arma de Pícaro: Esporas
+		Description: El daño de pícaro tiene una probabilidad de infectar a los enemigos con micelio
+	}
+
+	LastStandBuff: {
+		DisplayName: Última Resistencia
+		Description: Velocidad y daño de arma de pícaro aumentados en 30%, pero a un precio...
+	}
+
+	ThrowingSpeed: {
+		DisplayName: Velocidad del Pícaro
+		Description: Tu velocidad de ataque de pícaro ha aumentado en 15%
+	}
+
+	ToxicCoatingBuff: {
+		DisplayName: Imbuición de Arma de Pícaro: Tóxico
+		Description: El daño de pícaro tiene una probabilidad de envenenar a los enemigos alcanzados
+	}
+
+	TrueStrike: {
+		DisplayName: Golpes Verdaderos
+		Description: Tu daño tiene una probabilidad del 100% de ser golpe crítico
+	}
+
+	GoldenScaleBuff: {
+		DisplayName: Pez Dorado
+		Description: Ahora tienes branquias y un delicioso sabor a galleta salada.\nPor desgracia, a los peces dorados no les gusta el Abismo.
+	}
+}
+
+Items: {
+	AmberRing: {
+		DisplayName: Anillo de Ámbar
+		Tooltip: 3% más de daño de invocación
+	}
+
+	AmethystRing: {
+		DisplayName: Anillo de Amatista
+		Tooltip: Aumenta la penetración de armadura en 2
+	}
+
+	AquamarineRing: {
+		DisplayName: Anillo de Aguamarina
+		Tooltip: 3% más de daño radiante
+	}
+
+	EmeraldRing: {
+		DisplayName: Anillo de Esmeralda
+		Tooltip: 3% más de daño a distancia
+	}
+
+	OpalRing: {
+		DisplayName: Anillo de Ópalo
+		Tooltip: 3% más de daño sinfónico
+	}
+
+	RubyRing: {
+		DisplayName: Anillo de Rubí
+		Tooltip: 3% más de daño cuerpo a cuerpo
+	}
+
+	SapphireRing: {
+		DisplayName: Anillo de Zafiro
+		Tooltip: 3% más de daño mágico
+	}
+
+	TheRing: {
+		DisplayName: El Anillo
+		Tooltip:
+			'''
+			4% más de daño
+			Aumenta la penetración de armadura en 3
+			Aumenta la probabilidad de golpe crítico en 4%
+			'''
+	}
+
+	TopazRing: {
+		DisplayName: Anillo de Topacio
+		Tooltip: 3% más de daño de pícaro
+	}
+
+	FlightMail: {
+		DisplayName: Cota de Vuelo
+		Tooltip:
+			'''
+			'El cielo es tu campo de juego'
+			10% más de daño de pícaro
+			'''
+	}
+
+	FlightMask: {
+		DisplayName: Sombrero de Vuelo
+		Tooltip:
+			'''
+			'El cielo es tu campo de juego'
+			5% más de daño de pícaro
+			6% más de probabilidad de golpe crítico de pícaro
+			'''
+	}
+
+	BronzeBreastplate: {
+		DisplayName: Coraza de Bronce
+		Tooltip: 20% más de daño de pícaro
+	}
+
+	BronzeGreaves: {
+		DisplayName: Grebas de Bronce
+		Tooltip:
+			'''
+			10% más de velocidad de pícaro
+			10% más de velocidad de movimiento
+			'''
+	}
+
+	BronzeHelmet: {
+		DisplayName: Casco de Bronce
+		Tooltip:
+			'''
+			10% más de probabilidad de golpe crítico de pícaro
+			10% más de velocidad de proyectil de pícaro
+			'''
+	}
+
+	DeepFreezeCoatingItem: {
+		DisplayName: Revestimiento de Congelación Profunda
+		Tooltip: Los ataques de pícaro tendrán una probabilidad de entorpecer gravemente el movimiento del enemigo alcanzado
+	}
+
+	ExplosiveCoatingItem: {
+		DisplayName: Revestimiento Explosivo
+		Tooltip: Los ataques de pícaro tendrán una probabilidad de estallar, derritiendo a los enemigos cercanos
+	}
+
+	GorgonCoatingItem: {
+		DisplayName: Revestimiento de Gorgona
+		Tooltip: Los ataques de pícaro tendrán una probabilidad de petrificar a los enemigos
+	}
+
+	SporeCoatingItem: {
+		DisplayName: Revestimiento de Esporas
+		Tooltip: Los ataques de pícaro tendrán una probabilidad de infectar a los enemigos con micelio
+	}
+
+	ToxicCoatingItem: {
+		DisplayName: Revestimiento Tóxico
+		Tooltip: Los ataques de pícaro tendrán una probabilidad de envenenar a los enemigos
+	}
+
+	PlagueLordFlask: {
+		DisplayName: Frasco del Señor de la Plaga
+		Tooltip:
+			'''
+			10% más de daño de pícaro
+			10% más de velocidad de proyectil de pícaro
+			10% más de velocidad de arma de pícaro
+			Usar un objeto de pícaro tiene un 20% de probabilidad de liberar dos Dagas de la Plaga
+			Las Dagas de la Plaga persiguen a los enemigos y les aplican una enfermedad altamente contagiosa
+			[c/FF0000:El daño de proyectil tiene un límite de 2000.]
+			'''
+	}
+
+	ShinobiSigil: {
+		DisplayName: Sello del Shinobi
+		Tooltip:
+			'''
+			6% más de probabilidad de golpe crítico de pícaro
+			Dar dos golpes críticos consecutivos con ataques de pícaro descarga un rayo oscuro y aumenta brevemente la velocidad de ataque de pícaro
+			[c/FF0000:El daño de proyectil tiene un límite de 500.]
+			'''
+	}
+
+	TideTurnerBreastplate: {
+		DisplayName: Guardaprofundo del Volteador de Mareas
+		Tooltip:
+			'''
+			15% más de daño cuerpo a cuerpo y de pícaro
+			10% más de velocidad de arma cuerpo a cuerpo y de pícaro
+			16% más de probabilidad de golpe crítico de arma cuerpo a cuerpo y de pícaro
+			'''
+	}
+
+	TideTurnerGreaves: {
+		DisplayName: Caminaprofundo del Volteador de Mareas
+		Tooltip:
+			'''
+			10% más de daño cuerpo a cuerpo y de pícaro
+			20% más de retroceso cuerpo a cuerpo y velocidad de proyectil de pícaro
+			30% más de velocidad de movimiento
+			'''
+	}
+
+	TideTurnersGaze: {
+		DisplayName: Corona Profunda del Volteador de Mareas
+		Tooltip:
+			'''
+			'Desata la ira acuática sobre tus enemigos'
+			25% más de daño de pícaro
+			50% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 2
+			El daño de pícaro aumenta brevemente en un 10% el daño que recibe el enemigo
+			Produce un glóbulo flotante cada 1 segundo
+			Cada glóbulo convierte tu próximo ataque en un mini-crítico, si es que no fue crítico
+			'''
+	}
+
+	LichCarapace: {
+		DisplayName: Caparazón del Liche
+		Tooltip:
+			'''
+			'Abraza la muerte...'
+			15% más de daño de pícaro
+			30% más de velocidad de proyectil de pícaro
+			'''
+	}
+
+	LichCowl: {
+		DisplayName: Capucha del Liche
+		Tooltip:
+			'''
+			'Abraza la muerte...'
+			10% más de daño de pícaro
+			33% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 2
+			'''
+	}
+
+	LichTalon: {
+		DisplayName: Garras del Liche
+		Tooltip:
+			'''
+			'Abraza la muerte...'
+			12.5% más de daño de pícaro
+			15% más de probabilidad de golpe crítico de pícaro
+			'''
+	}
+
+	AncientHallowedGuise: {
+		DisplayName: Disfraz Sagrado Antiguo
+		Tooltip:
+			'''
+			20% más de daño de pícaro
+			8% más de velocidad de arma y probabilidad de golpe crítico de pícaro
+			'''
+	}
+
+	NinjaRack: {
+		DisplayName: Estante del Ninja
+		Tooltip: Aumenta varias estadísticas de pícaro al interactuar con él
+	}
+
+	SandStoneGreaves: {
+		DisplayName: Grebas de Arenisca
+		Tooltip:
+			'''
+			'Envuelto por vientos del desierto'
+			3% más de velocidad de movimiento
+			5% más de daño de pícaro
+			'''
+	}
+
+	SandStoneHelmet: {
+		DisplayName: Casco de Arenisca
+		Tooltip:
+			'''
+			'Envuelto por vientos del desierto'
+			2% más de velocidad de movimiento
+			5% más de daño de pícaro
+			'''
+	}
+
+	SandstoneIngot: {
+		DisplayName: Lingote de Arenisca
+		Tooltip: "'Seco y quebradizo, pero servirá'"
+	}
+
+	SandStoneMail: {
+		DisplayName: Cota de Malla de Arenisca
+		Tooltip:
+			'''
+			'Envuelto por vientos del desierto'
+			5% más de velocidad de movimiento
+			5% más de daño de pícaro
+			'''
+	}
+
+	AssassinPotion: {
+		DisplayName: Poción de Asesino
+		Tooltip: Tu primer ataque de pícaro fuera de combate causará un golpe crítico con x4 de daño
+	}
+
+	BoneGrip: {
+		DisplayName: Agarre Óseo
+		Tooltip:
+			'''
+			Recoger munición de pícaro tiene un 33% de probabilidad de duplicarla y aumentar tu velocidad de ataque de pícaro
+			Este efecto solo puede activarse una vez cada medio segundo mientras estás fuera de combate
+			'''
+	}
+
+	Canteen: {
+		DisplayName: Cantimplora
+		Tooltip: Las armas de pícaro no consumibles tardarán un 40% más en agotarte
+	}
+
+	CaptainsPoniard: {
+		DisplayName: Puñal del Capitán
+		Tooltip: Golpear enemigos cercanos a ti aumenta brevemente tu velocidad de ataque de pícaro
+	}
+
+	FungusGuard: {
+		DisplayName: Guardián Fúngico
+		Tooltip:
+			'''
+			12% más de daño de pícaro
+			5% más de velocidad de arma de pícaro
+			'''
+	}
+
+	FungusHat: {
+		DisplayName: Gorro Fúngico
+		Tooltip:
+			'''
+			8% más de daño de pícaro
+			33% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 1
+			'''
+	}
+
+	FungusLeggings: {
+		DisplayName: Leotardos Fúngicos
+		Tooltip:
+			'''
+			10% más de daño de pícaro
+			5% más de probabilidad de golpe crítico de arma de pícaro
+			'''
+	}
+
+	MagnetoGrip: {
+		DisplayName: Agarre Magneto
+		Tooltip:
+			'''
+			Aumenta el alcance de recolección de objetos de pícaro en el suelo
+			Recoger un objeto de pícaro tiene un 33% de probabilidad de duplicarlo y aumentar tu velocidad de ataque de pícaro
+			Este efecto solo puede activarse una vez cada medio segundo mientras estás fuera de combate
+			'''
+	}
+
+	MermaidCanteen: {
+		DisplayName: Cantimplora de Sirena
+		Tooltip:
+			'''
+			Las armas de pícaro no consumibles tardarán un 60% más en agotarte
+			Las armas de pícaro no consumibles infligirán hasta un 15% más de daño cuanto menos agotado estés
+			'''
+	}
+
+	NinjaEmblem: {
+		DisplayName: Emblema del Multiclase
+		Tooltip:
+			'''
+			10% más de daño
+			2% más de probabilidad de golpe crítico
+			'''
+	}
+
+	OlympicTorch: {
+		DisplayName: Antorcha Olímpica
+		Tooltip:
+			'''
+			El daño de pícaro aumenta tu velocidad de movimiento en 1%, hasta un máximo de 25%
+			El daño de pícaro aumenta tu velocidad de ataque de pícaro en 0.4%, hasta un máximo de 10%
+			Estos efectos se desvanecerán tras 3 segundos sin infligir daño de pícaro
+			'''
+	}
+
+	PaddedGrip: {
+		DisplayName: Empuñadura Acolchada
+		Tooltip:
+			'''
+			Recoger un objeto de pícaro tiene un 25% de probabilidad de duplicarlo
+			Este efecto solo puede activarse una vez cada medio segundo mientras estás fuera de combate
+			'''
+	}
+
+	PiratesPurse: {
+		DisplayName: Bolsa del Pirata
+		Tooltip:
+			'''
+			Los enemigos eliminados por tu daño de pícaro liberan una ráfaga de monedas dañinas
+			Los enemigos dañados por las monedas quedan heridos y sueltan más dinero al morir
+			'''
+	}
+
+	PlagueDoctorsGarb: {
+		DisplayName: Atuendo del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa mezcla estarás preparando?'
+			14% más de daño de pícaro
+			10% más de velocidad de proyectil de pícaro
+			'''
+	}
+
+	PlagueDoctorsLeggings: {
+		DisplayName: Leotardos del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa mezcla estarás preparando?'
+			14% más de daño de pícaro
+			10% más de probabilidad de golpe crítico de arma de pícaro
+			'''
+	}
+
+	PlagueDoctorsMask: {
+		DisplayName: Máscara del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa mezcla estarás preparando?'
+			12% más de daño de pícaro
+			33% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 1
+			'''
+	}
+
+	ShadeMasterGarb: {
+		DisplayName: Atuendo del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y golpea con precisión'
+			15% más de daño de pícaro
+			10% más de velocidad de arma de pícaro
+			30% más de velocidad de proyectil de pícaro
+			'''
+	}
+
+	ShadeMasterMask: {
+		DisplayName: Máscara del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y golpea con precisión'
+			15% más de daño de pícaro
+			33% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 2
+			'''
+	}
+
+	ShadeMasterTreads: {
+		DisplayName: Pisadas del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y golpea con precisión'
+			12.5% más de daño de pícaro
+			20% más de probabilidad de golpe crítico de arma de pícaro
+			15% más de velocidad de movimiento
+			'''
+	}
+
+	TechniqueBlankScroll: {
+		DisplayName: Pergamino de Técnica en Blanco
+		Tooltip:
+			'''
+			'Se usa para crear habilidades de técnica únicas'
+			Tras activar una técnica, inflige daño de pícaro para cargar puntos de técnica
+			Los puntos de técnica se degradan con el tiempo si no sigues infligiendo daño
+			Presiona la tecla '{$Keybinds.ThrowingTechnique.DisplayName}' para usar la habilidad de tu técnica activa
+			'''
+	}
+
+	ThiefsWallet: {
+		DisplayName: Billetera del Ladrón
+		Tooltip: Los enemigos eliminados por tu daño de pícaro sueltan hasta 2 monedas de plata adicionales
+	}
+
+	ThrowingGuide: {
+		DisplayName: Pícaro 101
+		Tooltip: 15% de tu daño de pícaro se duplica
+	}
+
+	ThrowingGuideVolume2: {
+		DisplayName: Pícaro 101: Volumen II
+		Tooltip:
+			'''
+			10% más de daño de pícaro
+			20% de tu daño de pícaro se duplica
+			'''
+	}
+
+	ThrowingGuideVolume3: {
+		DisplayName: Pícaro 101: Volumen III
+		Tooltip:
+			'''
+			10% más de daño de pícaro
+			10% más de velocidad de proyectil de pícaro
+			25% de tu daño de pícaro se duplica
+			'''
+	}
+
+	WhiteDwarfGreaves: {
+		DisplayName: Grebas de Enano Blanco
+		Tooltip:
+			'''
+			15% más de daño de pícaro
+			20% más de probabilidad de golpe crítico de arma de pícaro
+			20% más de velocidad de movimiento
+			'''
+		SetBonus:
+			'''
+			Los golpes críticos desatan destellos de marfil provenientes del cosmos
+			Los destellos de marfil infligen un 0.05% de la vida máxima del objetivo alcanzado como daño
+			'''
+	}
+
+	WhiteDwarfGuard: {
+		DisplayName: Guardia de Enano Blanco
+		Tooltip:
+			'''
+			15% más de daño de pícaro
+			15% más de velocidad de arma de pícaro
+			30% más de velocidad de proyectil de pícaro
+			'''
+		SetBonus:
+			'''
+			Los golpes críticos desatan destellos de marfil provenientes del cosmos
+			Los destellos de marfil infligen un 0.05% de la vida máxima del objetivo alcanzado como daño
+			'''
+	}
+
+	WhiteDwarfMask: {
+		DisplayName: Máscara de Enano Blanco
+		Tooltip:
+			'''
+			15% más de daño de pícaro
+			33% de probabilidad de no consumir objetos de pícaro
+			Aumenta tu cantidad máxima de puntos de técnica en 2
+			'''
+		SetBonus:
+			'''
+			Los golpes críticos desatan destellos de marfil provenientes del cosmos
+			Los destellos de marfil infligen un 0.05% de la vida máxima del objetivo alcanzado como daño
+			'''
+	}
+
+	Wreath: {
+		DisplayName: Guirnalda
+		Tooltip:
+			'''
+			10% más de velocidad de proyectil de pícaro
+			10% más de velocidad de movimiento mientras sostienes un objeto de pícaro
+			'''
+	}
+
+	DepthDiverHelmet: {
+		DisplayName: Casco del Buzo de las Profundidades
+		Tooltip:
+			'''
+			'Conviértete en un protector desinteresado'
+			Probabilidad de golpe crítico aumentada en 6%
+			'''
+		SetBonus:
+			'''
+			Tú y tus aliados cercanos obtienen {0}% más de daño y {1}% más de velocidad de movimiento.
+			Tú y tus aliados también podrán respirar bajo el agua fuera del Abismo.
+			En el Abismo, tú y tus aliados obtienen +10 de defensa y +20% de velocidad de movimiento en su lugar.
+			También recuperarás algo de oxígeno aleatoriamente mientras estés en el Abismo.
+			'''
+	}
+
+	NagaSkinMask: {
+		DisplayName: Máscara de Piel de Naga
+		Tooltip:
+			'''
+			'Atuendo de los lanzadores acuáticos originales'
+			Maná máximo aumentado en 60.
+			Te permite respirar bajo el agua.
+			No funciona en el Abismo.
+			'''
+		SetBonus: Cada {0} de maná gastado aumentará drásticamente tu daño mágico y velocidad de lanzamiento de hechizos brevemente
+	}
+}
+
+Keybinds.ThrowingTechnique.DisplayName: Técnica de Pícaro
+
+ThrowerTechniques: {
+	UseToEnable: Establece tu técnica activa al usar | Inflige daño de pícaro para generar puntos
+	UseToDisable: Técnica Activa | Úsala de nuevo para desactivarla | Inflige daño de pícaro para generar puntos
+
+	LastStand: {
+		DisplayName: Última Resistencia
+		Description:
+			'''
+			Se activa automáticamente al recibir daño letal, otorgándote 8 segundos de invulnerabilidad
+			Mientras eres invulnerable, obtienes {1}% más de velocidad y daño de pícaro, pero mueres al finalizar la duración
+			'''
+	}
+}
+
+Configs.ThoriumConfigClient.Headers.ThrowerOptions: Opciones del Pícaro

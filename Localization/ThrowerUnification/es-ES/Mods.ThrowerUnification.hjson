@@ -1,0 +1,246 @@
+DefaultStealthStrikeTooltip: Los golpes furtivos infligen más daño y vuelan más rápido
+DefaultStealthStrikeTooltipDamage: Los golpes furtivos tienen +75% de daño
+DefaultStealthStrikeTooltipVelocity: Los golpes furtivos tienen +75% de velocidad
+CrumblingStrikeTooltip: Los golpes furtivos infligen más daño y causan Desmoronamiento durante 5 segundos
+CrunchStrikeTooltip: Los golpes furtivos infligen más daño y causan Aplastamiento de Armadura durante 5 segundos
+
+UI: {
+	IEoRNotice:
+		'''
+		AVISO: Thrower Unification no equilibra cada una de las clases moddeadas fusionadas.
+		También se ha detectado que estás usando tanto el mod Infernum Mode como Thorium Mod.
+		Si buscas una unificación más equilibrada, considera usar el mod Infernal Eclipse of Ragnarok.
+		'''
+	HummusNotice:
+		'''
+		AVISO: Thrower Unification no equilibra cada una de las clases moddeadas fusionadas.
+		También se ha detectado que estás usando tanto Calamity Mod como Thorium Mod.
+		Si buscas una unificación más equilibrada, considera usar el mod Hummus' Calamity/Thorium Balancing.
+		'''
+}
+
+ThoriumStealthStrike: {
+	CactusNeedle: Los golpes furtivos lanzan agujas en un abanico cerrado de 3
+	IcyTomahawk: Los golpes furtivos lanzan 4 hachas de velocidades diferentes que duran más y penetran más
+	ZephyrRuin: Los golpes furtivos lanzan una lanza más fuerte que siempre hace golpe crítico
+	ClockworkBomb: Los golpes furtivos crean un campo más grande que dura más
+	SoulBomb: Los golpes furtivos liberan una ráfaga de almas teledirigidas al detonar
+	PlayingCard: Los golpes furtivos lanzan 5 cartas teledirigidas que siempre son explosivas
+	Soulslasher: Los golpes furtivos también perseguirán agresivamente tras golpear a un enemigo
+	WhiteDwarfCutter: Durante un golpe furtivo, cada golpe crea destellos de marfil que dañan un 0.1% de la vida máxima del objetivo
+	CaptainsPoignard: Los golpes furtivos lanzan una ráfaga de 6 dagas y otorgan al jugador mayor velocidad de ataque durante 10 segundos
+	SoftServeSunderer: Los golpes furtivos invocan una lluvia de conos sobre el enemigo golpeado
+	ShadeShuriken: Los golpes furtivos lanzan un shuriken más grande y rápido con mayor penetración
+	LodestoneJav: Los golpes furtivos hacen que la tierra erupcione desde el enemigo golpeado, quebrantándolo
+	ValadiumThrowingAxe: Al primer golpe, los golpes furtivos crean un anillo de hachas que vuelan hacia el enemigo golpeado
+	ChlorophyteTomahawk: Los golpes furtivos durarán más, tendrán más penetración y generarán esporas teledirigidas durante toda su duración
+	DraculaFang: Los golpes furtivos lanzan un abanico de 4 colmillos que roban vida
+	WackWrench: Los golpes furtivos lanzan una llave más grande que atraviesa bloques y permanece en su lugar tras golpear a un enemigo
+	EnchantedKnife: Al golpear, los golpes furtivos invocan una estrella desde el cielo que golpea a los enemigos alcanzados
+	GoblinWarSpear: Los golpes furtivos se harán añicos en 3-4 fragmentos de madera de tejo al golpear, que siempre desgarran
+	MeteoriteClusterBomb: Los golpes furtivos se dividirán en otro grupo de sí mismos, formando un cúmulo recursivo
+	AquaiteKnife: Los golpes furtivos tallarán olas de alta penetración hacia afuera desde los enemigos golpeados
+	SteelThrowingAxe: Los golpes furtivos lanzan una ráfaga de 3 hachas que aturdirán a los enemigos al golpear
+	DurasteelThrowingSpear: Los golpes furtivos lanzan una ráfaga de 3 lanzas de mayor penetración que aturdirán a los enemigos al golpear
+	ShinobiSlicer: Al rebotar, los golpes furtivos liberan fragmentos de gel que persiguen a los enemigos cercanos
+	FireAxe:
+		'''
+		'Mejor evitar grietas con esto...'
+		Los golpes furtivos invocan un hacha espectral de llamas que hiende a los enemigos golpeados
+		'''
+	TerraKnife:
+		'''
+		Clic izquierdo para lanzar dagas de terra rápidamente
+		Clic derecho para lanzar un cuchillo perforante de terra que daña constantemente a tu objetivo elegido
+		Tanto las dagas como el cuchillo se lanzan en un golpe furtivo, y el cuchillo invoca una ráfaga de tajos al golpear
+		'''
+	GelGlove:
+		'''
+		Lanza una bola de gel que rebota en las superficies
+		Puede cargarse para aumentar el daño, los rebotes y el tamaño
+		Los golpes furtivos disparan shurikens a los enemigos cercanos mientras viajan
+		'''
+	TidalWave:
+		'''
+		'Arrasa con tus enemigos con la furia de la marea...'
+		Lanza un gran shuriken acuático que libera olas en miniatura
+		Los golpes furtivos generan una ola de marea dañina que sigue al shuriken y atrae a los enemigos
+		'''
+}
+
+GripsRework: {
+	PaddedRework:
+		'''
+		Los proyectiles arrojadizos tienen un 10% de probabilidad de otorgar al jugador 15% de velocidad de ataque arrojadizo durante 1 segundo al morir
+		Este efecto solo puede activarse una vez cada 2 segundos
+		'''
+	BoneRework:
+		'''
+		Los proyectiles arrojadizos tienen un 20% de probabilidad de otorgar al jugador 15% de velocidad de ataque arrojadizo durante 1 segundo al morir
+		Este efecto solo puede activarse una vez cada 2 segundos
+		'''
+	MagnetoRework:
+		'''
+		Los proyectiles arrojadizos tienen un 20% de probabilidad de otorgar al jugador 15% de velocidad de ataque arrojadizo durante 1 segundo al morir
+		Este efecto solo puede activarse una vez cada 1.5 segundos
+		'''
+}
+
+DamageClasses: {
+	UnitedModdedThrower: {
+		DisplayName: {
+			0: daño arrojadizo
+			1: daño de pícaro
+			2: daño malévolo
+			3: daño cinético
+			Thrower: daño arrojadizo
+			Rogue: daño de pícaro
+			Malevolent: daño malévolo
+			Kinetic: daño cinético
+			thrower: daño arrojadizo
+			rogue: daño de pícaro
+			malevolent: daño malévolo
+			kinetic: daño cinético
+		}
+	}
+}
+
+CustomName: daño {0}
+ClassTag: -Clase {0}-
+
+Configs: {
+	ThrowerModConfig: {
+		DisplayName: Configuración de Thrower Mod
+
+		Headers: {
+			General: General
+			ColoredDamageType: Tipo de Daño Coloreado
+			ClassTag: Encabezado de Etiqueta de Clase
+			Experimental: Experimental
+		}
+
+		Vanilla: {
+			Label: Vanilla
+			Tooltip: Activa la fusión de unificación de clases para cualquier mod que use la clase de daño arrojadizo vanilla. Esto incluye principalmente al mod Thorium.
+		}
+
+		Calamity: {
+			Label: Calamity
+			Tooltip: Activa la fusión de unificación de clases para la clase Pícaro del mod Calamity.
+		}
+
+		Vitality: {
+			Label: Vitality
+			Tooltip: Activa la fusión de unificación de clases para la clase Blood Hunter del mod Vitality.
+		}
+
+		SacredTools: {
+			Label: Shadows of Abaddon
+			Tooltip: Activa la fusión de unificación de clases para la clase Revenant de Shadows of Abaddon.
+		}
+
+		TooltipOverride: {
+			Label: Anulación de Nombre y Tooltips de Clase
+			Tooltip: Te permite ajustar el nombre de la clase a cualquiera de las clases soportadas, o al nombre personalizado establecido abajo.
+		}
+
+		R: {
+			Label: R
+			Tooltip: ""
+		}
+
+		G: {
+			Label: G
+			Tooltip: ""
+		}
+
+		B: {
+			Label: B
+			Tooltip: ""
+		}
+
+		StealthStrikes: {
+			Label: Golpes Furtivos
+			Tooltip:
+				'''
+				Activa los golpes furtivos que no son de Calamity añadidos por este mod.
+				Esta opción no tiene efecto si Calamity no está activado
+				'''
+		}
+
+		CustomTooltipOverride: {
+			Label: Anulación de Tooltip Personalizada
+			Tooltip:
+				'''
+				Te permite ingresar un nombre personalizado para la clase arrojadiza unificada.
+				Ingresa el nombre de clase deseado con la capitalización adecuada (ej. Thrower)
+				'''
+		}
+
+		ThoriumClassTag: {
+			Label: Etiqueta de Clase
+			Tooltip: Activa la etiqueta de clase que aparece en la parte superior del tooltip de un objeto.
+		}
+
+		TagR: {
+			Label: Etiqueta R
+			Tooltip: ""
+		}
+
+		TagG: {
+			Label: Etiqueta G
+			Tooltip: ""
+		}
+
+		TagB: {
+			Label: Etiqueta B
+			Tooltip: ""
+		}
+
+		LegacyVanillaThrowerWeapons: {
+			Tooltip: Activa la conversión de armas a distancia vanilla que solían ser arrojadizas a la clase arrojadiza.
+			Label: Armas Arrojadizas Vanilla Antiguas
+		}
+
+		ConsumableWeaponConversion: {
+			Label: Conversión de Armas Consumibles
+			Tooltip: Activa si las armas arrojadizas fuera de Calamity y Vanilla se vuelven no consumibles para igualar a las armas de Pícaro del mod Calamity
+		}
+	}
+
+	TooltipOverrideStyle: {
+		Tooltip: ""
+
+		Thrower: {
+			Label: Arrojadizo
+			Tooltip: ""
+		}
+
+		Rogue: {
+			Label: Pícaro
+			Tooltip: ""
+		}
+
+		Malevolent: {
+			Label: Malévolo
+			Tooltip: ""
+		}
+
+		Kinetic: {
+			Label: Cinético
+			Tooltip: ""
+		}
+
+		Custom: {
+			Label: Personalizado
+			Tooltip: ""
+		}
+	}
+}
+
+Projectiles: {
+	FireAxeStealthPro.DisplayName: Hacha de Fuego Furtiva Pro
+	RogueSpectreBlast.DisplayName: Ráfaga Espectral de Pícaro
+	TidalWaveWhirlpool.DisplayName: Remolino de Ola Gigante
+	ShinobiGelStealthPro.DisplayName: Gel Furtivo del Shinobi Pro
+}

@@ -1,0 +1,7 @@
+UI: {
+	Cooldowns: {
+		ShieldConduitDurability: Durabilidad del Conducto de Escudo
+		ShieldConduitRecharge: Recarga del Conducto de Escudo
+		ShieldConduitRecovery: Recuperación del Conducto de Escudo
+	}
+}

@@ -268,7 +268,7 @@ Mods: {
 			}
 
 			BlueSlimerBanner: {
-				DisplayName: Estandarte de Slimer Azul
+				DisplayName: Estandarte de Baboso Azul
 				Tooltip: ""
 			}
 
@@ -323,7 +323,7 @@ Mods: {
 			}
 
 			SnakePotBanner: {
-				DisplayName: Estandarte de Serpiente en Vasija
+				DisplayName: Estandarte de Maceta de Serpientes
 				Tooltip: ""
 			}
 
@@ -333,7 +333,7 @@ Mods: {
 			}
 
 			WallMimicBanner: {
-				DisplayName: Estandarte de Mímico de Pared
+				DisplayName: Estandarte de Mímico de Muro
 				Tooltip: ""
 			}
 
@@ -348,7 +348,7 @@ Mods: {
 			}
 
 			TwilightDevilBanner: {
-				DisplayName: Estandarte de Diablo del Crepúsculo
+				DisplayName: Estandarte de Demonio del Crepúsculo
 				Tooltip: ""
 			}
 
@@ -358,7 +358,7 @@ Mods: {
 			}
 
 			LesserWispBanner: {
-				DisplayName: Estandarte de Wisp Menor
+				DisplayName: Estandarte de Fuego Fatuo Menor
 				Tooltip: ""
 			}
 
@@ -383,12 +383,12 @@ Mods: {
 			}
 
 			CrimsonTreasureSlimeBanner: {
-				DisplayName: Estandarte de Slime del Tesoro del Carmesí
+				DisplayName: Estandarte de Slime del Tesoro Carmesí
 				Tooltip: ""
 			}
 
 			JungleTreasureSlimeBanner: {
-				DisplayName: Estandarte de Slime del Tesoro de la Selva
+				DisplayName: Estandarte de Slime del Tesoro de la Jungla
 				Tooltip: ""
 			}
 
@@ -408,7 +408,7 @@ Mods: {
 			}
 
 			PhaseSpeederBanner: {
-				DisplayName: Estandarte de Corredor de Fase
+				DisplayName: Estandarte de Deslizador de Fase
 				Tooltip: ""
 			}
 
@@ -1587,7 +1587,7 @@ Mods: {
 				Tooltip:
 					'''
 					Conjura estrellas que infligen 70% de daño y explotan infligiendo 140% de daño
-					'El dios extinto... ahora en forma de mangual'
+					'El dios extinto... ahora en forma de maza'
 					'''
 			}
 
@@ -5649,7 +5649,7 @@ Mods: {
 			}
 
 			EarthenGizmoBanner: {
-				DisplayName: Estandarte de Artilugio Terrenal
+				DisplayName: Estandarte de Artilugio Terrestre
 				Tooltip: ""
 			}
 
@@ -5673,7 +5673,7 @@ Mods: {
 			}
 
 			ThroeBanner: {
-				DisplayName: Estandarte de Throe
+				DisplayName: Estandarte de Agonía
 				Tooltip: ""
 			}
 
@@ -5721,7 +5721,7 @@ Mods: {
 			}
 
 			FamishedBanner: {
-				DisplayName: Estandarte de los Hambrientos
+				DisplayName: Estandarte de Hambriento
 				Tooltip: ""
 			}
 
@@ -5979,7 +5979,7 @@ Mods: {
 			}
 
 			MutagenTreasureSlimeBanner: {
-				DisplayName: Estandarte de Slime Tesoro Mutágeno
+				DisplayName: Estandarte de Slime del Tesoro Mutágeno
 				Tooltip: ""
 			}
 
@@ -6679,7 +6679,7 @@ Mods: {
 			}
 
 			FurnaceBanner: {
-				DisplayName: Estandarte de la Fundición Sangrienta
+				DisplayName: Estandarte de Fundición Sanguínea
 				Tooltip: ""
 			}
 
@@ -6759,12 +6759,12 @@ Mods: {
 			}
 
 			CoalCartBanner: {
-				DisplayName: Estandarte de la Vagoneta Capturada
+				DisplayName: Estandarte de Carreta Capturada
 				Tooltip: ""
 			}
 
 			VoidTreasureSlimeBanner: {
-				DisplayName: Estandarte de Slime Tesoro del Vacío
+				DisplayName: Estandarte de Slime del Tesoro del Vacío
 				Tooltip: ""
 			}
 
@@ -6779,7 +6779,7 @@ Mods: {
 			}
 
 			PupaFlyBanner: {
-				DisplayName: Estandarte de Mosca Tumbal
+				DisplayName: Estandarte de Mosca de la Podredumbre
 				Tooltip: ""
 			}
 
@@ -8660,7 +8660,7 @@ Mods: {
 			RedNatureBeat.DisplayName: Estallido Pulverizador
 			RedNatureBolt.DisplayName: Descarga Pulverizadora
 			RefractingCrystalProj.DisplayName: Contador del Cristal Refractante
-			ReleaseWallMimic.DisplayName: Liberación del Mimic de Pared
+			ReleaseWallMimic.DisplayName: Liberación del Mímico de Muro
 			RelocatorBeam.DisplayName: Haz Reubicador
 			RevolutionBolt.DisplayName: Descarga de la Revolución
 			RevolutionBoltDay.DisplayName: Descarga de la Revolución Diurna

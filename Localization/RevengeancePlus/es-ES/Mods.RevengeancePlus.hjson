@@ -1,0 +1,970 @@
+ModNotInstalled: ¡El mod correspondiente no está instalado actualmente!
+
+Modes: {
+	Revengeance: "[Revengeance]"
+	Death: "[Muerte]"
+	Eternity: "[Eternidad]"
+	EterniDeath: "[Eternidad+Muerte]"
+}
+
+SupportedMods: {
+	Tooltip:
+		'''
+		Nota: Pulsa {0} o {1} para seleccionar un jefe
+		Pulsa {2} para ver sus cambios de IA
+
+		Jefes soportados:
+		'''
+	Consolaria:
+		'''
+		-<Lepus>{$Mods.Consolaria.NPCs.Lepus.DisplayName}
+		-<Turkor>{$Mods.Consolaria.NPCs.TurkortheUngrateful.DisplayName}
+		-<Ocram>{$Mods.Consolaria.NPCs.Ocram.DisplayName}
+		'''
+	ContinentOfJourney:
+		'''
+		-<BigDipper>{$Mods.ContinentOfJourney.NPCs.BigDipper.DisplayName}
+		-<GoblinChariot>{$Mods.ContinentOfJourney.NPCs.GoblinChariot.DisplayName}
+		-<Motherbrain>{$Mods.ContinentOfJourney.NPCs.TheMotherbrain.DisplayName}
+		-<ScarabBelief>{$Mods.ContinentOfJourney.NPCs.ScarabBelief.DisplayName}
+		'''
+	Redemption:
+		'''
+		-<Thorn>{$Mods.Redemption.NPCs.Thorn.DisplayName}
+		-<Erhan>{$Mods.Redemption.NPCs.Erhan.DisplayName}
+		-<Keeper>{$Mods.Redemption.NPCs.Keeper.DisplayName}
+		-<SeedofInfection>{$Mods.Redemption.NPCs.SoI.DisplayName}
+		-<KingSlayer>{$Mods.Redemption.NPCs.KS3.DisplayName}
+		-<Gigapora>{$Mods.Redemption.NPCs.Gigapora.DisplayName}
+		-<OmegaObliterator>{$Mods.Redemption.NPCs.OO.DisplayName}
+		-<PatientZero>{$Mods.Redemption.NPCs.PZ.DisplayName}
+		-<Nebuleus>{$Mods.Redemption.NPCs.Nebuleus.DisplayName}
+		'''
+	SOTS:
+		'''
+		-<Glowmoth>{$Mods.SOTS.NPCs.Glowmoth.DisplayName}
+		-<PutridPinky>{$Mods.SOTS.NPCs.PutridPinkyPhase2.DisplayName}
+		-<PharaohsCurse>{$Mods.SOTS.NPCs.PharaohsCurse.DisplayName}
+		-<Advisor>{$Mods.SOTS.NPCs.TheAdvisorHead.DisplayName}
+		-<Polaris>{$Mods.SOTS.NPCs.NewPolaris.DisplayName}
+		-<Lux>{$Mods.SOTS.NPCs.Lux.DisplayName}
+		-<SubspaceSerpent>{$Mods.SOTS.NPCs.SubspaceSerpentHead.DisplayName}
+		'''
+	Spooky:
+		'''
+		-<RotGourd>{$Mods.Spooky.NPCs.RotGourd.DisplayName}
+		-<SpookySpirit>{$Mods.Spooky.NPCs.SpookySpirit.DisplayName}
+		-<Moco>{$Mods.Spooky.NPCs.Moco.DisplayName}
+		-<Daffodil>{$Mods.Spooky.NPCs.DaffodilEye.DisplayName}
+		-<OrroBoro>{$Mods.Spooky.NPCs.OrroHead.DisplayName} y {$Mods.Spooky.NPCs.BoroHead.DisplayName}
+		-<BigBone>{$Mods.Spooky.NPCs.BigBone.DisplayName}
+		'''
+	Split:
+		'''
+		-<Spirit>{$Mods.Split.NPCs.TheSpirit.DisplayName}
+		-<OneShot>{$Mods.Split.NPCs.OneShot.DisplayName}
+		-<Paraffin>{$Mods.Split.NPCs.Paraffin.DisplayName}
+		-<Insurgent>{$Mods.Split.NPCs.Insurgent.DisplayName}
+		-<Seth>{$Mods.Split.NPCs.Seth.DisplayName}
+		'''
+}
+
+AIChanges: {
+	Lepus:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Los conejos del desastre se mueven mucho más rápido
+		-Los huevos pequeños eclosionan más rápido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Los huevos pequeños no pueden ser destruidos
+		-Los huevos pequeños eclosionan aún más rápido
+		-Los huevos grandes eclosionan más rápido
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Crea 2 cuchillos cayendo al caer rápido
+		-Crea 4 cuchillos cayendo en saltos débiles
+		-Dispara huevos explosivos mientras carga
+		-Ocasionalmente se detiene y vomita
+		-Los conejos del desastre infligen Culpable al golpear
+		-La mayoría de los ataques infligen Aturdido, En Descomposición o Indefenso
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Aumenta a 4 los cuchillos cayendo al caer rápido
+		-Aumenta a 5 los cuchillos cayendo en saltos débiles
+		-Dispara huevos explosivos mucho más rápido
+		'''
+	Turkor:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Tanto el ataque de embestida como el de proyectiles tienen variantes alternativas
+		-Los cuchillos viajan más lejos
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-A veces usa ataques cuerpo a cuerpo y a distancia al mismo tiempo
+		-Los cuchillos viajan incluso más lejos
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-El cuerpo crea una espiral de cuchillos de vez en cuando
+		-La mayoría de los ataques infligen Culpable, En Descomposición o Aturdido
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-La espiral de cuchillos solo ocurre por debajo del 75% de vida
+		'''
+	Ocram:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Aumenta el desplazamiento de la embestida
+		-Aumenta aún más el desplazamiento de la embestida en la fase 2
+		-No puede recibir daño al transicionar de fase
+		-Dispara calaveras tras la ráfaga de láseres de la fase 1
+		-Dispara calaveras durante la ráfaga de láseres de la fase 2
+		-La mayoría de los ataques infligen Sangre Ardiente o Podredumbre Cerebral
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Aumenta aún más el desplazamiento de la embestida en general
+		-El láser de ráfaga de la fase 1 dispara 3 líneas en lugar de 1
+		-Dispara muchas más calaveras
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Los sirvientes pueden disparar llamas espectrales teledirigidas
+		-Las embestidas se curvan un poco y dejan un rastro de guadañas
+		-Tiene una tercera fase con ataques nuevos
+		-La mayoría de los ataques infligen una variedad de efectos negativos
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Aumenta las guadañas en la fase 3
+		-El barrido de láser de la fase 3 es más rápido
+		'''
+	Thorn:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Las bolas de astillas van acompañadas de una ráfaga de astillas
+		-Las enredaderas succionadoras aparecen más rápido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Las bolas de astillas explotan en más astillas
+		-Las enredaderas succionadoras aparecen aún más rápido
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Las bolas de astillas siguen al jugador durante un breve periodo
+		-La mayoría de los ataques infligen Infestado y En Descomposición
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Erhan:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Dispara luz teledirigida durante la lluvia de rayos láser en la fase 1
+		-Genera el doble de espadas de luz en la fase 1
+		-Lanza lanzas mientras la Biblia ataca en la fase 2
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Erhan no se cansa
+		-Entra a fases posteriores antes
+		-Lanza lanzas mientras la Biblia ataca en la fase 1
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-La mayoría de los ataques infligen Castigo Divino
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Keeper:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-La mayoría de los ataques infligen Sangre Ardiente
+		-Las olas de sangre se mueven más rápido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Se disparan calaveras junto con algunos ataques en la fase 2
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Las embestidas van seguidas de una ráfaga de olas de sangre en la fase 1
+		-Las embestidas dejan un rastro de garras acelerando en la fase 2
+		-La mayoría de los ataques infligen En Descomposición, Letárgico, Enfurecido o Llamaumbra
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	SeedofInfection:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Los fragmentos se mueven más rápido
+		-Embiste más rápido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-La mayoría de los ataques infligen Irradiado
+		-Embiste aún más rápido
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Deja un rastro de guadañas infecciosas al embestir
+		-El láser de la fase 2 crea un muro de proyectiles al dispararse
+		-Los cambios de Calamity están desactivados
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	KingSlayer:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Los drones de misiles disparan más rápido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Los drones de misiles disparan aún más rápido
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-La mayoría de los ataques infligen Pararrayos e Inyección Nano
+		-Las Granadas Cegadoras pueden aturdir a los jugadores
+		-Los cambios de Calamity están desactivados
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Gigapora:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El Gigarrayo dispara un muro de láseres similar al de Thanatos
+
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Los pernos del núcleo de escudo predicen el movimiento del jugador
+		-Los láseres de Gigapora apuntan al jugador cuando está lejos
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Todos los ataques infligen Pararrayos e Inyección Nano
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Reduce la predictibilidad de los pernos del núcleo de escudo
+		'''
+	OmegaObliterator:
+		'''
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Todos los ataques infligen Pararrayos e Inyección Nano
+		-El Rayo Aturdidor puede aturdir a los jugadores
+		'''
+	PatientZero:
+		'''
+		{$Mods.RevengeancePlus.Modes.Death}
+		-La mayoría de los ataques infligen Irradiado
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-La mayoría de los ataques infligen En Descomposición
+		'''
+	Nebuleus:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Algunos ataques de Nebulosa Perforante se duplican
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Las Nebulosas Perforantes se duplican aún más
+		-El ataque de Cadenas del Cosmos se omite
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Cadenas del Cosmos ahora es reemplazado por una ráfaga de estrellas
+		-La mayoría de los ataques infligen Castigo Divino y Purificado
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan (excepto la desactivación de Cadenas del Cosmos)
+		'''
+	Glowmoth:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El efecto en cascada de las bombas luminosas viaja más lejos
+		-Pasa menos tiempo persiguiendo al jugador
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Dispara 16 bolas tras embestir en lugar de 8
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-La fase 1 tiene un ataque nuevo donde se queda quieta y dispara destellos teledirigidos
+		-La fase 2 tiene un ataque nuevo donde rodea al jugador y dispara destellos
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Aumenta los proyectiles del ataque circular y de la espiral luminosa
+		'''
+	PutridPinky:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Reduce el intervalo del láser de ráfaga
+		-El ataque de rayo láser va seguido de un ataque de doble hélice
+		-Embiste varias veces tras el ataque de invisibilidad
+		-Dispara un proyectil teledirigido durante el ataque de ganchos giratorios
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Ataca más rápido en general
+		-Reduce aún más el intervalo del láser de ráfaga
+		-Aumenta enormemente el desplazamiento de la embestida
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-La fase 1 tiene un set de movimientos completo pensado como una versión más débil de la fase 2
+		-Dispara una masa gigante que se divide en 6 masas más pequeñas antes de disparar un láser
+		-Flota junto al jugador y luego dispara masas teledirigidas junto con hélices individuales tras el ataque de invisibilidad
+		-La mayoría de los ataques infligen Letárgico
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan (excepto la velocidad de ataque general aumentada)
+		-Las masas gigantes tienen ligero teledirigido y se dividen en 8 en lugar de 6
+		-El ataque de embestida ocurre tras el ataque de hélice simple en lugar del de invisibilidad
+		-Las dobles hélices se ondulan mucho más lejos
+		'''
+	PharaohsCurse:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Dispara proyectiles durante el ataque de tentáculos en la fase 1
+		-Gira alrededor del jugador y le dispara tras el ataque en espiral
+		-Dispara una ráfaga de proyectiles rojos tras el ataque de brazos
+		-La mayoría de los ataques infligen Maldito
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Dispara más proyectiles durante el ataque de tentáculos de la fase 1
+		-También dispara los seis proyectiles de maldición antes de embestir
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados (excepto los proyectiles que infligen Maldito)
+		-Hereda algunos ataques del Ataúd Maldito (onda de choque y huesos cruzados)
+		-La mayoría de los ataques infligen En Descomposición o Maldito
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Nerfea el ataque de ráfaga (porque ocurre junto con los huesos cruzados)
+		-Los brazos malditos curan al jefe una pequeña cantidad, igual que el Campeón del Espíritu
+		'''
+	Advisor:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Los misiles viajan más rápido y tardan menos en girar
+		-Recibe menos daño cuando flota justo encima del jugador
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Los proyectiles de rayo son más rápidos pero duran menos
+		-Las bolas moradas se dividen en 16 proyectiles en lugar de 8
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Dispara más rayos en espiral pero duran menos
+		-Dispara algunas bolas de rayo antes del rayo en espiral
+		-La mayoría de los ataques infligen Castigo Divino o Pararrayos
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Dispara más bolas de rayo antes del rayo en espiral
+
+		'''
+	Excavator:
+		'''
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-La mayoría de los ataques infligen Mecha Encendida, Pararrayos o Indefenso
+		'''
+	Polaris:
+		'''
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-La mayoría de los ataques infligen Letárgico o Indefenso
+		-Los rayos láser infligen Castigo Divino e Indefenso
+		'''
+	Lux:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Aumenta los proyectiles disparados durante el ataque de láseres cruzados
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Aumenta aún más los proyectiles disparados durante el ataque de láseres cruzados
+		-Aumenta los proyectiles durante el ataque de bolas teletransportadoras
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Hereda algunos ataques de Lieflight (campo de luz)
+		-Un segundo muro de proyectiles aparece durante los muros de láser
+		-La mayoría de los ataques infligen Castigo Divino o Purificado
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	SubspaceSerpent:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Dispara perdigones rojos y verdes durante el ataque circular
+		-Dispara una ráfaga retardada de perdigones rojos en cada embestida
+		-Dispara perdigones rojos durante la persecución del muro de láser en la fase 2
+		-Los perdigones rojos y las bolas de fuego de la fase 2 infligen Llamas de Azufre
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Dispara perdigones rojos con más frecuencia en el ataque circular
+		-Dispara perdigones verdes en la persecución de la serpiente en la fase 1
+		-La ráfaga de perdigones rojos ocurre con menos retraso
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Ocurre un ataque de anillo de bolas de fuego antes de las embestidas de lluvia de fuego de la fase 2
+		-Realiza un ataque de lanzallamas en barrido tras cada embestida de lluvia de fuego
+		-La mayoría de los ataques infligen Castigo Divino, Pararrayos o Mecha Encendida
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	RotGourd:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Libera esporas al aterrizar tras un salto alto
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Libera esporas mientras es transportada por moscas
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Crea una onda de choque al golpear el suelo
+		-La mayoría de los ataques infligen En Descomposición, Infestado o Atontado
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	SpookySpirit:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Embiste 1 vez extra
+		-Reduce el intervalo entre embestidas
+		-Se teletransporta más rápido
+		-El rayo ocular inflige Irradiado
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Embiste 2 veces extra en lugar de 1
+		-Reduce aún más el intervalo entre embestidas
+		-Se teletransporta incluso más rápido
+		-Aumenta la cantidad de rayos oculares amarillos
+		-Ataca más rápido en general
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-El rayo ocular inflige Castigo Divino
+		-Sigue disparando rayos oculares durante el rayo ocular
+		-Dispara una ráfaga de guadañas al embestir
+		-Dispara guadañas dirigidas mientras llueven calaveras
+		-Emite llamas mientras persigue al jugador en la fase 2
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		-Aumenta los proyectiles de los ataques del modo eternidad
+		'''
+	Moco:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El efecto Embabosado dura más
+		-Aumenta el desplazamiento de la embestida
+		-Embiste una vez extra
+		-Dispara el moco gigante dos veces
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-El efecto Embabosado dura aún más
+		-Aumenta aún más el desplazamiento de la embestida
+		-Embiste 2 veces extra en lugar de 1
+		-Dispara el moco gigante tres veces
+		-Ataca más rápido en general
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Deja un rastro de mocos cayendo al embestir
+		-Todos los mocos infligen Letárgico e Infestado
+		-Los mocos gigantes infligen Indefenso
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Daffodil:
+		'''
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Todos los ataques de espinas infligen Infestado
+		-Las flores infligen Infestado
+		-Las moscas infligen En Descomposición
+		-El láser de barrido inflige Mecha Encendida
+		'''
+	OrroBoro:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Ambos escupen en patrón de dispersión antes de la embestida larga
+		-Todos los ataques de escupitajo y las bolas de coágulo de Orro infligen Podredumbre Cerebral
+		-Los pilares de carne y las bolas de coágulo de Boro infligen Sangre Ardiente
+		-Boro escupe una ráfaga de 3 mientras embiste cuando está enfurecido
+		-Orro genera bombas poco después de embestir cuando está enfurecido
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Los proyectiles de escupitajo disparados antes de la embestida larga son mucho más rápidos
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Los escupitajos oculares infligen Letárgico e Indefenso
+		-Los coágulos y pilares de carne infligen En Descomposición
+		-Boro deja un rastro de sanguijuelas durante la embestida larga
+		-Orro crea un muro de tenias durante la embestida larga
+		-Boro libera dientes teledirigidos durante el ataque de lengua
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	BigBone:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Dispara flores teledirigidas mientras hace crecer las saltarinas
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Dispara flores mucho más rápido y con más frecuencia
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Los ataques de fuego infligen Mecha Encendida
+		-Los ataques de espinas y esporas infligen Infestado
+		-Los ataques de flores y huesos infligen En Descomposición
+		-Los ataques de cuchilla infligen Infestado e Indefenso
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	BigDipper:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Aumenta el desplazamiento de la embestida
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Aumenta aún más el desplazamiento de la embestida
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Dispara un anillo de proyectiles mientras el láser simple está activo
+		-Dispara una dispersión de proyectiles mientras el láser doble está activo
+		-La mayoría de los ataques infligen Castigo Divino y Pararrayos
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Aumenta la cantidad de proyectiles del anillo de proyectiles
+		-Los cambios de Calamity se reactivan
+		'''
+	GoblinChariot:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Aumenta la cantidad de proyectiles en la lluvia de balas de cañón
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-El ataque de bola gigante ocurre de inmediato si el jefe está justo encima del jugador
+		-Aumenta aún más la cantidad de proyectiles en la lluvia de balas de cañón
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-La mayoría de los ataques infligen Indefenso, Aturdido y Mecha Encendida
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Motherbrain:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El ataque de cuadrícula de sigilosos se usa dos veces
+		-La espiral de sigilosos se usa una vez más
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-La espiral de sigilosos se usa dos veces más en lugar de una
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Los sigilosos infligen Pararrayos e Indefenso
+		-Las formas holográficas de Linka heredan los efectos negativos del modo Eternidad de la entidad imitada
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	ScarabBelief:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El ataque de rayo va acompañado de rayos de luz que disparan en direcciones aleatorias
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Los rayos de luz que disparan en direcciones aleatorias ahora se disparan en dispersiones de 3
+
+		{$Mods.RevengeancePlus.Modes.Eternity}
+		-Los cambios de Calamity están desactivados
+		-Todos los ataques infligen Castigo Divino y Purificado
+
+		{$Mods.RevengeancePlus.Modes.EterniDeath}
+		-Los cambios de Calamity se reactivan
+		'''
+	Spirit:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Todos los proyectiles del ataque de bolas espirituales ya no caen
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Las bolas espirituales son más rápidas
+		-Todos los proyectiles del ataque de bolas espirituales se disparan más rápido
+		'''
+	OneShot:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-La teletransportación es más rápida
+		-La nube de nieve tiene un tiempo de preparación mucho más corto
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Las balas normales viajan más rápido
+		-Las bombas caen más rápido
+		'''
+	Paraffin:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Se recupera del mareo mucho antes
+		-Los puños tienen ligero teledirigido
+		-Las notas de fuego y los pernos teledirigidos infligen Llamas de Azufre
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Ya no se marea
+		-Los proyectiles son más rápidos
+		'''
+	Insurgent:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-Usa los ataques de la fase 2 mucho antes
+		-El ataque de onda verde ahora siempre dispara un total de 4 proyectiles
+		-Los huesos, las ondas verdes y el daño por contacto infligen la Plaga
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-Aumenta la agresividad por debajo del 33% de vida
+		-La explosión de huesos y las ondas verdes tienen tiempos de preparación más cortos
+		-Los proyectiles son más rápidos
+		'''
+	Seth:
+		'''
+		{$Mods.RevengeancePlus.Modes.Revengeance}
+		-El ataque de chasquido de calor gira más rápido
+		-El chasquido de calor ahora tiene una velocidad de rotación mínima
+		-El chasquido de calor inflige Fuego de Dragón si el jugador de algún modo lo sobrevive
+		-El ataque de giro de espada inflige Llamas de Azufre
+
+		{$Mods.RevengeancePlus.Modes.Death}
+		-El ataque de chasquido de calor gira aún más rápido
+		-El chasquido de calor ya no es constante y la dirección inicial siempre es aleatoria
+		'''
+}
+
+InfernumTitle: {
+	Lepus:
+		'''
+		Conejo del Desastre
+		Lepus
+		'''
+	TurkortheUngrateful:
+		'''
+		El Desagradecido
+		Turkor
+		'''
+	Ocram:
+		'''
+		Vasija Perdida en el Tiempo
+		Ocram
+		'''
+	Glowmoth:
+		'''
+		Voladora Luminiscente
+		Polilla Luminosa
+		'''
+	PutridPinkyPhase2:
+		'''
+		Sinvergüenza Tubero de Cacahuate
+		Pinky Pútrido
+		'''
+	PharaohsCurse:
+		'''
+		La Maldición de Ra
+		Maldición del Faraón
+		'''
+	TheAdvisorHead:
+		'''
+		Espíritu de Otro Mundo
+		El Asesor
+		'''
+	Excavator:
+		'''
+		Excavador del Mundo
+		Excavator
+		'''
+	Polaris:
+		'''
+		La Estrella del Norte
+		Polaris
+		'''
+	Lux:
+		'''
+		Espíritu del Caos
+		Lux
+		'''
+	SubspaceSerpentHead:
+		'''
+		La Serpiente de los Sabios
+		Serpiente del Subespacio
+		'''
+	RotGourd:
+		'''
+		Guardián en Descomposición
+		Rot Gourd
+		'''
+	SpookySpirit:
+		'''
+		El Aguafiestas
+		Spooky Spirit
+		'''
+	Moco:
+		'''
+		Alérgico a Todo
+		Moco
+		'''
+	DaffodilEye:
+		'''
+		Protector Florido
+		Daffodil
+		'''
+	OrroHeadP1:
+		'''
+		Gemelos de la Gula
+		Orro y Boro
+		'''
+	BigBone:
+		'''
+		Sellado en las Catacumbas
+		Big Bone
+		'''
+	BigDipper:
+		'''
+		Heraldo de la Estrella del Norte
+		Big Dipper
+		'''
+	GoblinChariot:
+		'''
+		Artefacto Imparable
+		Goblin Chariot
+		'''
+	PupperOpera:
+		'''
+		El Otro Títere
+		Phantom of the Opera
+		'''
+	TheMotherbrain:
+		'''
+		Antigua Mente de Guerra Perdida
+		The Motherbrain
+		'''
+	WallofShadow:
+		'''
+		Antiguo Espíritu de la Oscuridad
+		Wall of Shadows
+		'''
+	ScarabBelief:
+		'''
+		Antiguo Espíritu de la Luz
+		Scarab Belief
+		'''
+	TheLifebringerHead:
+		'''
+		Deidad de la Vida
+		The Lifebringer
+		'''
+	TheMaterealizer:
+		'''
+		Deidad de la Creación
+		The Materializer
+		'''
+	TheOverwatcher:
+		'''
+		Deidad del Tiempo
+		The Overwatcher
+		'''
+	SlimeGod:
+		'''
+		Deidad Solar sin Mente
+		Slime God
+		'''
+	WorldsEndEverlastingFallingWhale:
+		'''
+		Fin del Mundo
+		Everlasting Falling Whale
+		'''
+	TheSpirit:
+		'''
+
+		The Spirit
+		'''
+	Menace:
+		'''
+		Astrólogo Poseído
+		The Menace
+		'''
+	OneShot:
+		'''
+		Pirata Espacial Rebelde
+		Oscar Loneshot
+		'''
+	Paraffin:
+		'''
+		El (No Tan) Grandioso
+		Paraffin
+		'''
+	Insurgent:
+		'''
+		Espíritu del Cautiverio
+		The Insurgent
+		'''
+	Mirage:
+		'''
+		El Errante en el Desierto
+		Mirage
+		'''
+	CommandoBoss:
+		'''
+		Líder Marciano
+		The Commando
+		'''
+	Seth:
+		'''
+		La Tormenta Solar Rugiente
+		Seth
+		'''
+}
+
+Projectiles: {
+	AchingTooth.DisplayName: Diente Dolorido
+	BossRushTeleporter.DisplayName: Teletransportador del Maratón de Jefes
+	CurseCrossbone.DisplayName: Huesos Cruzados Malditos
+	CurseShockwave.DisplayName: Onda de Choque Maldita
+	ExplosiveEasterEgg.DisplayName: Huevo de Pascua Explosivo
+	FallingPetal.DisplayName: Pétalo Cayendo
+	FakeLux.DisplayName: Ilusión del Caos
+	GourdSlam.DisplayName: Golpe Podrido
+	InfectiousScythe.DisplayName: Guadaña Infecciosa
+	InfectiousShard.DisplayName: Fragmento Infeccioso
+	KeeperClaw.DisplayName: Garra del Guardián
+	Leech.DisplayName: Sanguijuela
+	LesserPhaseBolt.DisplayName: Rayo de Fase Menor
+	ManaDrain.DisplayName: Drenaje de Maná
+	NullPointer.DisplayName: Puntero Nulo
+	OcramBeam.DisplayName: Rayo de Ocram
+	OcramBeamTelegraph.DisplayName: Rayo de Ocram
+	OcramRay.DisplayName: Mirada de la Muerte
+	PinkBomb.DisplayName: Bomba Rosa
+	PinkHelix.DisplayName: Hélice Rosa
+	PinkPellet.DisplayName: Perdigón Rosa
+	PinkSplat.DisplayName: Salpicadura Rosa
+	ScarabBeam.DisplayName: Rayo Escarabajo
+	Sceyethe.DisplayName: Ojo-Guadaña
+	SeventhSeraphStar.DisplayName: Estrella del Séptimo Serafín
+	SpookyFlames.DisplayName: Llamas Espeluznantes
+	SubspaceFireBreath.DisplayName: Aliento de Fuego del Subespacio
+	Tapeworm.DisplayName: Tenia
+}
+
+Configs: {
+	DebugConfig: {
+		DisplayName: Configuración de Depuración
+
+		calamityDifficulty: {
+			Label: Probador de Dificultad de Calamity
+			Tooltip:
+				'''
+				Hace creer al juego que una dificultad de Calamity está activada
+				No funciona si Calamity está activado
+				0 - Ninguna
+				1 - Revengeance
+				2 - Muerte
+				3 - Malicia o Maratón de Jefes
+				'''
+		}
+
+		eternityMode: {
+			Label: Probador del Modo Eternidad
+			Tooltip:
+				'''
+				Hace creer al juego que el Modo Eternidad está activado
+				No funciona si Fargo's Souls está activado
+				'''
+		}
+
+		forceHJAltSprites: {
+			Label: Forzar Sprites Alternativos de Homeward Journey
+			Tooltip:
+				'''
+				Algunos jefes en Homeward Journey tienen sprites alternativos
+				Esto lo fuerza para probar si rompe algo
+				'''
+		}
+	}
+
+	SupportedModsConfig: {
+		DisplayName: Configuración de Mods Soportados
+
+		Calamity: {
+			Label: "[i/s1:1281] IAs de Revengeance"
+			Tooltip: IA del modo Revengeance para otros mods
+		}
+
+		Eternity: {
+			Label: "[i/s1:3577] IAs de Eternidad"
+			Tooltip: IA del modo Eternidad para otros mods
+		}
+
+		Infernum: {
+			Label: "[i/s1:2701] Infernum cuenta como Eternidad"
+			Tooltip: El modo Infernum cuenta como Malicia + modo Eternidad para los jefes de mods soportados (otros)
+		}
+
+		BossRush: {
+			Label: "[i/s1:43] Soporte para el Maratón de Jefes"
+			Tooltip:
+				'''
+				Añade los jefes de los mods soportados al maratón de jefes
+				NOTA: ¡El interruptor de soporte correspondiente de esos mods debe estar activado!
+				'''
+		}
+
+		DefenseDamage: {
+			Label: "[i/s1:442] Soporte de Daño a la Defensa"
+			Tooltip: Permite la integración del daño a la defensa para los mods soportados
+		}
+
+		Consolaria: {
+			Label: "[g:2] Consolaria"
+			Tooltip: <Revengeance+>Consolaria
+		}
+
+		Homeward: {
+			Label: "[i/s1:4765] Homeward Journey"
+			Tooltip: <Revengeance+>ContinentOfJourney
+		}
+
+		Redemption: {
+			Label: "[i/s1:554] Redemption"
+			Tooltip: <Revengeance+>Redemption
+		}
+
+		SOTS: {
+			Label: "[i/s1:3581] Secret of the Shadows"
+			Tooltip: <Revengeance+>SOTS
+		}
+
+		Spooky: {
+			Label: "[i/s1:1725] Spooky"
+			Tooltip: <Revengeance+>Spooky
+		}
+
+		Split: {
+			Label: "[i/s1:121] Split"
+			Tooltip: <Revengeance+>Split
+		}
+	}
+}

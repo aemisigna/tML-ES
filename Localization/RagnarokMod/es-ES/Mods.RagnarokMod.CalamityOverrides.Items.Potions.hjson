@@ -1,0 +1,9 @@
+StarBeamRye: {
+	DisplayName: Centeno de Rayo Estelar
+	Tooltip:
+		'''
+		Aumenta la regeneración de maná, incluso mientras usas un objeto
+		Las armas mágicas y radiantes infligen {0} veces más daño
+		{$Common.AlcoholWarning}
+		'''
+}

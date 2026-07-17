@@ -1,0 +1,63 @@
+Mods: {
+	InfernumSOTSSanctuaryAdjuster: {
+		Configs: {
+			SanctuarySpawnConfig: {
+				DisplayName: Configuración de Aparición del Santuario
+
+				Headers: {
+					General: General
+					Fraction: Modo de Fracción (0.0 - 1.0)
+					Tiles: Modo de Bloques
+					Nudge: Modo de Desplazamiento
+				}
+
+				OnlyWhenSpookyOrInfernum: {
+					Label: Aplicar solo si Spooky o Infernum está activado
+					Tooltip: ""
+				}
+
+				PositionMode: {
+					Label: Modo de Posición
+					Tooltip: ""
+				}
+
+				MinMarginTiles: {
+					Label: Margen mínimo desde los bordes del mundo (bloques)
+					Tooltip: ""
+				}
+
+				LeftFraction: {
+					Label: Fracción del lado izquierdo (cuando la Jungla está a la DERECHA)
+					Tooltip: ""
+				}
+
+				RightFraction: {
+					Label: Fracción del lado derecho (cuando la Jungla está a la IZQUIERDA)
+					Tooltip: ""
+				}
+
+				LeftTiles: {
+					Label: Bloques absolutos desde la izquierda (cuando la Jungla está a la DERECHA)
+					Tooltip: ""
+				}
+
+				RightTilesFromRightEdge: {
+					Label: Bloques absolutos desde el borde DERECHO (cuando la Jungla está a la IZQUIERDA)
+					Tooltip: ""
+				}
+
+				NudgeTilesTowardCenter: {
+					Label: Desplazamiento hacia el centro (bloques)
+					Tooltip: ""
+				}
+			}
+
+			PositionMode: {
+				Tooltip: ""
+				Fraction.Label: Fracción
+				Tiles.Label: Bloques
+				Nudge.Label: Desplazamiento
+			}
+		}
+	}
+}

@@ -26,97 +26,141 @@ Configs: {
 
 		CalamityModLocalization: {
 			Label: Calamity Mod
-			Tooltip: Desactiva la traducción de Calamity.
+			Tooltip: Activa/Desactiva la traducción de Calamity.
 		}
 
 		NoxusBossLocalization: {
 			Label: Calamity: Wrath of the Gods
-			Tooltip: Desactiva la traducción de Wrath of the Gods.
+			Tooltip: Activa/Desactiva la traducción de Wrath of the Gods.
 		}
 
 		InfernumModeLocalization: {
-			Tooltip: Desactiva la traducción de Infernum Mode.
+			Tooltip: Activa/Desactiva la traducción de Infernum Mode.
 			Label: Infernum Mode
 		}
 
 		FargowiltasLocalization: {
 			Label: Fargo's Mutant Mod
-			Tooltip: Desactiva la traducción de Fargo's Mutant Mod.
+			Tooltip: Activa/Desactiva la traducción de Fargo's Mutant Mod.
 		}
 
 		FargowiltasSoulsLocalization: {
 			Label: Fargo's Souls Mod
-			Tooltip: Desactiva la traducción de Fargo's Souls Mod.
+			Tooltip: Activa/Desactiva la traducción de Fargo's Souls Mod.
 		}
 
 		FargowiltasCrossmodLocalization: {
 			Label: Calamity - Fargo's Souls DLC
-			Tooltip: Desactiva la traducción de Calamity - Fargo's Souls DLC.
+			Tooltip: Activa/Desactiva la traducción de Calamity - Fargo's Souls DLC.
 		}
 
 		CalamityOverhaulLocalization: {
 			Label: Calamity Overhaul
-			Tooltip: Desactiva la traducción de Calamity Overhaul.
+			Tooltip: Activa/Desactiva la traducción de Calamity Overhaul.
 		}
 
 		CatalystModLocalization: {
 			Label: Catalyst Mod
-			Tooltip: Desactiva la traducción de Catalyst Mod.
+			Tooltip: Activa/Desactiva la traducción de Catalyst Mod.
 		}
 
 		WotmLocalization: {
 			Label: Calamity: Wrath of the Machines
-			Tooltip: Desactiva la traducción de Wrath of the Machines.
+			Tooltip: Activa/Desactiva la traducción de Wrath of the Machines.
 		}
 
 		StarsAboveLocalization: {
 			Label: The Stars Above
-			Tooltip: Desactiva la traducción de The Stars Above.
+			Tooltip: Activa/Desactiva la traducción de The Stars Above.
 		}
 
 		CalamityVanitiesLocalization: {
 			Label: Calamity's Vanities
-			Tooltip: Desactiva la traducción de Calamity's Vanities.
+			Tooltip: Activa/Desactiva la traducción de Calamity's Vanities.
 		}
 
 		CalamityHuntLocalization: {
 			Label: Calamity: Hunt of the Old God
-			Tooltip: Desactiva la traducción de Calamity: Hunt of the Old God.
+			Tooltip: Activa/Desactiva la traducción de Calamity: Hunt of the Old God.
 		}
 
 		SecretOfTheShadowsLocalization: {
 			Label: Secret of the Shadows
-			Tooltip: Desactiva la traducción de Secret of the Shadows.
+			Tooltip: Activa/Desactiva la traducción de Secret of the Shadows.
+		}
+
+		ThoriumModLocalization: {
+			Label: Thorium Mod
+			Tooltip: Activa/Desactiva la traducción de Thorium Mod.
+		}
+
+		RagnarokModLocalization: {
+			Label: Ragnarok Mod
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Ragnarok. 
+				[c/ff388e:Nota:] Se RECOMIENDA MUCHÍSIMO no desactivar la traducción de Calamity Mod ni Thorium Mod si tienes esta opción activada, ya que Ragnarok modifica contenido de ambos.
+				'''
 		}
 
 		CalamityModMusicLocalization: {
 			Label: Calamity Mod Music
-			Tooltip: Desactiva la traducción de Calamity Mod Music.
+			Tooltip: Activa/Desactiva la traducción de Calamity Mod Music.
 		}
 
 		InfernumModeMusicLocalization: {
 			Label: Infernum Mode Music
-			Tooltip: Desactiva la traducción de Infernum Mode Music.
+			Tooltip: Activa/Desactiva la traducción de Infernum Mode Music.
 		}
 
 		AlchemistNPCLiteLocalization: {
 			Label: AlchemistNPC Lite
-			Tooltip: Desactiva la traducción de AlchemistNPC Lite.
+			Tooltip: Activa/Desactiva la traducción de AlchemistNPC Lite.
 		}
 
 		ProgressionJournalLocalization: {
 			Label: Progression Journal
-			Tooltip: Desactiva la traducción de Progression Journal.
+			Tooltip: Activa/Desactiva la traducción de Progression Journal.
 		}
 
 		ImproveGameLocalization: {
 			Label: Quality of Terraria
-			Tooltip: Desactiva la traducción de Quality of Terraria.
+			Tooltip: Activa/Desactiva la traducción de Quality of Terraria.
 		}
 
 		LuiAfkLocalization: {
 			Label: LuiAFK Reborn
-			Tooltip: Desactiva la traducción de LuiAFK Reborn.
+			Tooltip: Activa/Desactiva la traducción de LuiAFK Reborn.
+		}
+
+		RevengeancePlusLocalization: {
+			Label: Revengeance+
+			Tooltip: Activa/Desactiva la traducción de Revengeance+.
+		}
+
+		ThrowerUnificationLocalization: {
+			Label: Thrower Unification
+			Tooltip: Activa/Desactiva la traducción de Thrower Unification.
+		}
+
+		InfernumSOTSSanctuaryAdjusterLocalization: {
+			Label: Infernum SOTS Sanctuary WorldGen Adjuster
+			Tooltip: Activa/Desactiva la traducción de Infernum SOTS Sanctuary WorldGen Adjuster.
+		}
+
+		UnofficialCalamityWhipsLocalization: {
+			Label: Unofficial Calamity Whips
+			Tooltip: Activa/Desactiva la traducción de Unofficial Calamity Whips.
+		}
+
+		CalamitySimpleWhipAddonLocalization: {
+			Label: Calamity Simple Whip Addon
+			Tooltip: Activa/Desactiva la traducción de Calamity Simple Whip Addon.
+		}
+
+		CalamityWarMachineInvasionLocalization: {
+			Label: Calamity: War Machine Invasion
+			Tooltip: Activa/Desactiva la traducción de Calamity: War Machine Invasion.
 		}
 
 		ShowStartUpCollabMessage: {
@@ -141,7 +185,7 @@ Configs: {
 				Muestra los nombres originales (sin traducir) de los objetos, manteniendo el resto de la traducción en español. 
 				Esto te facilitará la búsqueda de objetos en internet, ya que la mayoría de los tutoriales y guías están en inglés.
 				El cambio se aplica al instante, sin necesidad de recargar.
-				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos completa, solo mostrará los nombres de ellos en el idioma original
+				[c/ff388e:Nota:] Esto no Activa/Desactiva la traducción de objetos completa, solo mostrará los nombres de ellos en el idioma original
 				dejando las descripciones y demás textos en español.
 				'''
 		}
