@@ -1,0 +1,49 @@
+Items: {
+	EmeraldRing: {
+		DisplayName: Anillo de la Luna de Menta
+		Tooltip:
+			'''
+			Otorga la Mejora [cbuff:BlueMoon/MintyFreshnessBuff]
+			Aumenta el daño y la velocidad de movimiento en un 7%
+			'''
+	}
+
+	AmethystRing: {
+		DisplayName: Anillo de la Luna de Cereza
+		Tooltip:
+			'''
+			Otorga la Mejora [cbuff:BlueMoon/FloralBlessingBuff]
+			Otorga +2 de regeneración de vida por segundo
+			'''
+	}
+
+	SapphireRing: {
+		DisplayName: Anillo de la Luna Azul
+		Tooltip:
+			'''
+			Otorga la Mejora [cbuff:BlueMoon/LunarEmpowermentBuff]
+			Aumenta la suerte de quien lo porta, más aún en el modo difícil
+			'''
+	}
+
+	TopazRing: {
+		DisplayName: Anillo de la Luna de la Cosecha
+		Tooltip:
+			'''
+			Otorga la Mejora [cbuff:BlueMoon/BountifulHarvestBuff]
+			Aumenta la cantidad de monedas soltadas por enemigos x1,5, x2 en el modo difícil
+			'''
+	}
+
+	MoonsRing: {
+		DisplayName: Anillo de las Lunas Encantadas
+		Tooltip:
+			'''
+			Estás bendecido por el poder de todas las lunas encantadas
+			Aumenta el daño y la velocidad de movimiento en un 7%
+			Otorga +2 de regeneración de vida por segundo
+			Aumenta la suerte de quien lo porta, más aún en el modo difícil
+			Aumenta la cantidad de monedas soltadas por enemigos x1,5, x2 en el modo difícil
+			'''
+	}
+}

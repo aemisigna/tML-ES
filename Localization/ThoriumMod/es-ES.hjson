@@ -14515,7 +14515,7 @@ Mods: {
 			}
 
 			FallenBeholderRelic: {
-				DisplayName: Reliquia del Beholder Caído
+				DisplayName: Reliquia del Observador Caído
 				Tooltip: ""
 			}
 

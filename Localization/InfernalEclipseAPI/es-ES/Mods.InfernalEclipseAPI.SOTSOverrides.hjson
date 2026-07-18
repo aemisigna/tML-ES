@@ -1,0 +1,99 @@
+VisionAmuletTextList: {
+	4: Aumenta el daño crítico en un 5%, y se mejora a 10% en el modo difícil
+	6:
+		'''
+		Aumenta la vida máxima en 20
+		Aumenta el daño en un 5%, y se mejora a 10% en el modo difícil
+		'''
+}
+
+VisionAmuletTextList2: {
+	1:
+		'''
+
+		Reduce el costo de maná en un 20%, y se mejora a 25% en el modo difícil
+		'''
+	3:
+		'''
+
+		Otorga acceso a las estaciones de fabricación Banco de Trabajo, Horno y Yunque
+		También otorga acceso a la estación de fabricación Mesa de Alquimia en el modo difícil
+		Aumenta el maná máximo y el maná recibido de pociones en 40
+		'''
+	4:
+		'''
+
+		Aumenta todo el daño en un 10% de los aumentos recibidos a cualquier otro tipo de daño provenientes de otras fuentes
+		'''
+	5:
+		'''
+
+		La eficacia de la defensa enemiga se reduce en un 5%, y se mejora a 10% en el modo difícil
+		'''
+}
+
+NPCs.CorpseBloom.DisplayName: Flor de la Putrefacción
+
+Items: {
+	Sharanga.DisplayName: Kodanda
+	Dreamcatcher.DisplayName: Talismán de los Sueños
+	EnchantedPickaxe.DisplayName: Pico Místico
+	VigorPotion.Tooltip: Otorga la habilidad de esquivar 25 veces
+	HarvestersScythe.Tooltip:
+		'''
+		Aumenta el daño crítico en un 5%
+		Los enemigos tienen un 10% de probabilidad de soltar el doble de botín, o 20% cuando son eliminados por golpe crítico
+		'''
+	RockCandy.Tooltip:
+		'''
+		Aumenta el poder de picar en 4
+		Aumenta la velocidad de picar, la velocidad cuerpo a cuerpo y la velocidad de movimiento en un 5%
+		'''
+	HydrokineticAntennae.Tooltip:
+		'''
+		Usa hidrocinesis para extender el alcance efectivo de las armas cuerpo a cuerpo y otros objetos de bajo alcance, como los látigos
+		Reduce el daño cuerpo a cuerpo verdadero en un 15%
+		'''
+	FrostArtifactHelmet.Tooltip: 15% de daño cuerpo a cuerpo y a distancia aumentado
+	FrostArtifactChestplate.Tooltip: 15% de probabilidad de golpe crítico cuerpo a cuerpo y a distancia aumentada
+
+	ElementalBreastplate: {
+		DisplayName: Peto Elemental
+		Tooltip: TEMP
+		TooltipExt:
+			'''
+			Aumenta el daño cuerpo a cuerpo y de invocación en un 10%
+			Aumenta la regeneración de vida en 4
+			Presiona '{0}' para teletransportarte a tu cursor, causando 200% de tu defensa como daño a todos los enemigos en tu camino
+			Tiene un tiempo de reutilización de 15 segundos, pero aumenta la velocidad cuerpo a cuerpo en un 40% durante el tiempo de reutilización
+			'''
+	}
+}
+
+ArmorSetBonus.Earthen:
+	'''
+	Los golpes cuerpo a cuerpo tienen probabilidad de aplicar un desgaste acumulable y permanente en los enemigos, haciendo que reciban daño adicional de todos los ataques
+	Aumenta la velocidad de ataque en un 10%
+	'''
+TwilightAssassinsCircletText:
+	'''
+	Aumenta el máximo de centinelas en 1
+	Aumenta el daño de invocación y cuerpo a cuerpo en un 7%
+	Aumenta el vacío máximo en 50
+	Otorga un súbdito Holo Ojo para ayudar en combate
+	Presiona '{0}' para que lance un rayo desestabilizador que aplica 4 niveles de desestabilización, pero solo una vez por enemigo
+	Los enemigos desestabilizados obtienen un 5% adicional fijo de probabilidad de recibir golpe crítico
+	Cuesta 6 de vacío al lanzarlo
+	Holo Ojo permanece activo en el inventario cuando es marcado como favorito o mientras se usa en las ranuras de vanidad, pero no puede atacar
+	'''
+TwilightAssassinsCircletText2:
+	'''
+	Aumenta el máximo de centinelas en 1
+	Aumenta el daño de invocación y cuerpo a cuerpo en un 7%
+	Aumenta el vacío máximo en 50
+	Otorga un súbdito Holo Ojo para ayudar en combate
+	Presiona '{0}' para que lance un rayo desestabilizador que aplica 4 niveles de desestabilización, pero solo una vez por enemigo
+	Los enemigos desestabilizados obtienen un 5% adicional fijo de probabilidad de recibir golpe crítico
+	Cuesta 6 de vacío al lanzarlo
+	Holo Ojo permanece activo en el inventario cuando es marcado como favorito o mientras se usa en las ranuras de vanidad, pero no puede atacar
+	'''

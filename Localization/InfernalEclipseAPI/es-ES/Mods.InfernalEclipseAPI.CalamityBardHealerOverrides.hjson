@@ -1,0 +1,107 @@
+Items: {
+	TarragonParagonCrown: {
+		DisplayName: Corona Estandarte de Estragón
+		Tooltip:
+			'''
+			10% de daño radiante aumentado
+			30% de daño no radiante reducido
+			5% de probabilidad de golpe crítico radiante aumentada
+			5% de reducción de daño aumentada
+			+20 de vida máxima
+			Regeneración de vida ligeramente aumentada
+			Los hechizos curativos sanan 6 de vida adicional
+			'''
+	}
+
+	BloodflareRitualistMask: {
+		DisplayName: Máscara del Ritualista Llamasangre
+		Tooltip:
+			'''
+			15% de daño y probabilidad de golpe crítico radiantes aumentados
+			25% de daño no radiante reducido
+			+80 de vida máxima
+			Regeneración de vida moderadamente aumentada
+			Los hechizos curativos sanan 6 de vida adicional
+			'''
+	}
+
+	SilvaGuardianHelmet: {
+		DisplayName: Casco del Guardián Silva
+		Tooltip:
+			'''
+			12% de daño y probabilidad de golpe crítico radiantes aumentados
+			30% de daño no radiante reducido
+			+100 de vida máxima
+			Regeneración de vida moderadamente aumentada
+			Los hechizos curativos sanan 7 de vida adicional
+			'''
+	}
+
+	AuricTeslaValkyrieVisage: {
+		DisplayName: Semblante de la Valquiria Áurea Tesla
+		Tooltip:
+			'''
+			15% de daño radiante aumentado
+			35% de daño no radiante reducido
+			10% de probabilidad de golpe crítico radiante aumentada
+			45% de costo de maná reducido
+			+200 de vida máxima
+			+100 de maná máximo
+			Los hechizos curativos sanan 7 de vida adicional
+			'''
+	}
+
+	AugmentedAuricTeslaValkyrieVisage.Tooltip:
+		'''
+		15% de daño radiante aumentado
+		35% de daño no radiante reducido
+		10% de probabilidad de golpe crítico radiante aumentada
+		45% de costo de maná reducido
+		+200 de vida máxima
+		+100 de maná máximo
+		Los hechizos curativos sanan 7 de vida adicional
+		'''
+
+	IntergelacticProtectorHelm: {
+		Tooltip:
+			'''
+			11% de daño, probabilidad de golpe crítico y velocidad de lanzamiento radiantes aumentados
+			33% de daño no radiante reducido
+			'''
+		SetBonus:
+			'''
+			22% de daño radiante aumentado
+			Los hechizos curativos sanarán 6 de vida adicional
+			Los asteroides tienen un 20% de probabilidad de sanar {0} de vida al golpear enemigos
+			'''
+	}
+
+	ElementalBloom.Tooltip:
+		'''
+		Vida máxima aumentada en 40
+		Maná máximo aumentado en 20
+		15% de velocidad de curación aumentada
+		15% de daño radiante aumentado
+		10% de velocidad de lanzamiento radiante aumentada
+		5% de probabilidad de golpe crítico radiante aumentada
+		Los hechizos curativos sanarán 2 de vida adicional
+		Potencia ciertos ataques radiantes con energía elemental
+		Aumenta la fuerza de los efectos de daño a lo largo del tiempo en un 66%
+		"Cuando la luz y la oscuridad chocan, armonizan en una forma final"
+		'''
+	SymphonicFabrications.Tooltip:
+		'''
+		Dispara una ráfaga de coloridos misiles que despedazan a los objetivos
+		Mientras se sostiene el arma, dos altavoces Exo gigantes flotan a tu lado y ayudan en combate
+		Estos atacan junto a ti disparando ondas sonoras teledirigidas que hacen 150% de daño
+		Las ondas sonoras te sanan un 0,5% del daño infligido y tienen un 33% de probabilidad de sanar 1 de inspiración
+		"Ahora estás escuchando... ¡Exo-FM!"
+		'''
+}
+
+ItemDescriptions.DemonshadeGreaves:
+	'''
+	Aumenta tus puntos de técnica máximos en 2, la inspiración máxima en 15, y la sanación adicional en 10 de vida
+	Aumenta la velocidad y el alcance de rastreo de los instrumentos de viento en un 60% y los instrumentos de cuerda rebotan seis veces adicionales
+	Duplica el radio de efecto de tus potenciaciones y extiende su duración en 6 segundos
+	'''

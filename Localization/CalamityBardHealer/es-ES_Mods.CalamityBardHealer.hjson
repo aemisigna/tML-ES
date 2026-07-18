@@ -1,0 +1,1643 @@
+ItemDescriptions: {
+	AstralBreastplate: +6 de inspiración máxima y +4 de curación adicional
+	AstralHelm: 12% más de velocidad de regeneración de inspiración
+	CelestialCarrier: Los hechizos de curación curan 4 de vida adicional mientras uses la Armadura Celestial
+	ChampionWing: 10% más de daño
+	DemonshadeGreaves:
+		'''
+		Aumenta tus puntos de técnica máximos en 2, tu inspiración máxima en 15 y tu curación adicional en 25 de vida
+		Aumenta la velocidad de persecución y el alcance de los instrumentos de viento en un 60%, y los instrumentos de cuerda rebotan seis veces adicionales
+		Duplica el radio de efecto de tus empoderamientos y extiende su duración en 6 segundos
+		'''
+	DemonshadeHelm:
+		'''
+		30% más de daño radiante y sinfónico
+		35% más de velocidad de curación, lanzamiento radiante y ejecución sinfónica
+		55% más de velocidad de regeneración de inspiración y probabilidad de caída de notas
+		'''
+	DemonBloodWings: Regeneración de vida rápida durante el modo Furia mientras uses la Armadura de Sangre Demoníaca
+	DragonWings: Los ataques infligen infierno maldito mientras uses la Armadura de Dragón
+	DreadWings: Multiplicador de daño del modo Furia aumentado mientras uses la Armadura del Pavor
+	DridersGrace: Aumenta el número máximo de esbirros en 1 al usar la Armadura de Araña
+	FleshWings: Los ataques tienen probabilidad de robar vida mientras uses la Armadura de Carne
+	OmegaBlueSet:
+		'''
+		Aumenta los puntos de técnica máximos en 2 y la inspiración en 12
+		Los hechizos de curación curan 7 de vida adicional
+		'''
+	OmegaBlueSetNoThrower: Aumenta la inspiración máxima en 12 y la curación adicional en 7 de vida
+	RelicOfConvergence: No activa efectos al curar
+	ShootingStarTurboTuba: 15% más de velocidad de regeneración de inspiración mientras uses la Armadura de Estrella Fugaz
+	TerrariumWings: El tiempo de vuelo se duplica al usar la Armadura de Terrarium
+	TitanWings: 15% más de daño y reducción de daño especial mientras uses la Armadura Titánica
+	WhiteDwarfThrusters: Las armas arrojadizas tardan un 50% más en agotarte mientras uses la Armadura de Enano Blanco
+	WulfrumJacket: 25% más de alcance de empoderamiento
+}
+
+WhisperingHood: {
+	DesertScourge: Odio la arena, es áspera, es rasposa, se mete en todos lados...
+	Crabulon: Todo vuelve a ser cangrejo, tal como vuelve a la tierra...
+	HiveMind: Y aun así no pudieron ponerse de acuerdo en cómo derrotarnos...
+	PerforatorHive: No creí que fuera posible que un tumor creciera tanto...
+	SlimeGod: Con "otro día" te refieres a "nunca"...
+	AquaticScourge: ¿Alguna vez te preguntaste cómo se siente nadar en ácido estomacal?
+	Leviathan: Ahí va el grandote... ¿Me pregunto quién lo habrá invitado?
+	Anahita: Toda esa presentación solo para caer con más fuerza...
+	CalamitasClone: Fraude.
+	PlaguebringerGoliath: El olor, persiste...
+	AstrumAureus: Como con cualquier araña, quémala hasta las cenizas...
+	AstrumDeus: Para ser un "Dios", lo único que pudo mostrar fue el motivo de su propia derrota...
+	Ravager: La verdad es que es igual a su predecesor...
+	Providence: Sorprendente seguir pudiendo ver después de todo eso...
+	Polterghast: Tal vez todas esas almas debieron haberse unido en una forma más ideal...
+	OldDuke: Ok, boomer.
+	DevourerofGods: Palabras valientes de alguien que está al alcance de estas manos...
+	Yharon: Ok, ¿pero y si esta es una pelea que sí puedo ganar?
+}
+
+Items: {
+	AerospecBiretta: {
+		DisplayName: Birreta Aerospec
+		Tooltip:
+			'''
+			7% más de daño radiante y velocidad de lanzamiento
+			15% menos de daño no radiante
+			Los hechizos de curación curan 2 de vida adicional
+			'''
+		SetBonus:
+			'''
+			5% más de velocidad de movimiento
+			13% más de daño radiante
+			Los hechizos de curación curan 3 de vida adicional mientras estás en el aire
+			'''
+	}
+
+	AerospecHeadphones: {
+		DisplayName: Auriculares Aerospec
+		Tooltip: 8% más de daño sinfónico y velocidad de ejecución
+		SetBonus:
+			'''
+			5% más de velocidad de movimiento y velocidad de regeneración de inspiración
+			10% más de velocidad de persecución de instrumentos de viento
+			'''
+	}
+
+	AnahitasArpeggio: {
+		DisplayName: "{$Mods.CalamityMod.Items.Weapons.Magic.AnahitasArpeggio.DisplayName}"
+		Tooltip:
+			'''
+			Dispara claves de sol rebotantes
+			Las claves de sol vuelven a orbitar el cursor pasado un tiempo
+			Mientras orbitan, el daño infligido aumenta según cuántas veces rebotaron antes
+			Basada en el arpa de "Forbidden Lullaby" por DM Dokuro
+			'''
+	}
+
+	AquaiusAdvice: {
+		DisplayName: Consejo de Aquaius
+		Tooltip:
+			'''
+			Dispara rápidamente tentáculos abisales que se curvan en direcciones aleatorias
+			Eventualmente se asientan y forman corrientes de agua dañinas
+			Inflige [cbuff:CalamityMod/CrushDepth] al golpear
+			"Ahógate en las profundidades, o resurge de ellas... como aconsejó Aquaius, la Marea Sin Fin"
+			'''
+	}
+
+	ArcticReinforcement: {
+		DisplayName: Refuerzo Ártico
+		Tooltip:
+			'''
+			Dispara una mini tormenta de nieve de carámbanos
+			"La contraparte polar norteña"
+			Basada en el xilófono de "Antarctic Reinforcement" por DM Dokuro
+			'''
+	}
+
+	AugmentedAuricTeslaFeatheredHeadwear: {
+		DisplayName: Tocado Emplumado Áurico Tesla[c/70f4f4:+]
+		Tooltip:
+			'''
+			25% más de daño sinfónico
+			20% más de probabilidad de golpe crítico sinfónico
+			12% más de velocidad de ejecución sinfónica
+			Aumenta la velocidad de persecución y el alcance de los instrumentos de viento en un 20%
+			Los instrumentos de cuerda rebotan tres veces adicionales
+			'''
+		SetBonus:
+			'''
+			Efectos de las armaduras Bardo Intergeláctica, Bloodflare y del Verdugo de Dioses
+			Presiona {0} para hacer los asteroides más transparentes
+			El dash del Verdugo de Dioses usa la tecla de habilidad de armadura de Calamity
+			Canción Seductora usa la tecla de habilidad de armadura de Thorium
+			Aumenta la duración del empoderamiento en 5 segundos
+			Aumenta la velocidad de regeneración de inspiración en 20%
+			Aumenta la probabilidad de caída de notas de inspiración en 45%
+			'''
+	}
+
+	AugmentedAuricTeslaValkyrieVisage: {
+		DisplayName: Semblante de Valquiria Áurico Tesla[c/70f4f4:+]
+		Tooltip:
+			'''
+			15% más de daño radiante
+			35% menos de daño no radiante
+			10% más de probabilidad de golpe crítico radiante
+			45% menos de costo de maná
+			Regeneración de vida y maná masivamente aumentada
+			+100 de vida máxima
+			+200 de maná máximo
+			Los hechizos de curación curan 18 de vida adicional
+			'''
+		SetBonus:
+			'''
+			Efectos de las armaduras Sanador Intergeláctico, Bloodflare y Silva
+			Presiona {0} para hacer los asteroides más transparentes
+			40% más de daño radiante
+			20% más de probabilidad de golpe crítico radiante
+			16% más de velocidad de curación y lanzamiento radiante
+			'''
+	}
+
+	AuricTeslaFeatheredHeadwear: {
+		DisplayName: Tocado Emplumado Áurico Tesla
+		Tooltip:
+			'''
+			25% más de daño sinfónico
+			20% más de probabilidad de golpe crítico sinfónico
+			12% más de velocidad de ejecución sinfónica
+			Aumenta la velocidad de persecución y el alcance de los instrumentos de viento en un 20%
+			Los instrumentos de cuerda rebotan una vez adicional
+			'''
+		SetBonus:
+			'''
+			Efectos de las armaduras Bardo Tarragón, Bloodflare y del Verdugo de Dioses
+			El dash del Verdugo de Dioses usa la tecla de habilidad de armadura de Calamity
+			Canción Seductora usa la tecla de habilidad de armadura de Thorium
+			50% más de alcance de empoderamiento
+			Aumenta la duración del empoderamiento en 5 segundos
+			Aumenta la velocidad de regeneración de inspiración en 20%
+			Aumenta la probabilidad de caída de notas de inspiración en 45%
+			'''
+	}
+
+	AuricTeslaValkyrieVisage: {
+		DisplayName: Semblante de Valquiria Áurico Tesla
+		Tooltip:
+			'''
+			15% más de daño radiante
+			35% menos de daño no radiante
+			10% más de probabilidad de golpe crítico radiante
+			45% menos de costo de maná
+			Regeneración de vida y maná masivamente aumentada
+			+100 de vida máxima
+			+200 de maná máximo
+			Los hechizos de curación curan 18 de vida adicional
+			'''
+		SetBonus:
+			'''
+			Efectos de las armaduras Sanador Tarragón, Bloodflare y Silva
+			40% más de daño radiante
+			20% más de probabilidad de golpe crítico radiante
+			16% más de velocidad de curación y lanzamiento radiante
+			'''
+	}
+
+	BelchingSaxophone: {
+		DisplayName: "{$Mods.CalamityMod.Items.Weapons.Magic.BelchingSaxophone.DisplayName}"
+		Tooltip:
+			'''
+			Dispara una variedad de lengüetas, burbujas y notas
+			Las lengüetas y burbujas infligen irradiación
+			Las notas infligen [cbuff:CalamityMod/SulphuricPoisoning] y [cbuff:70]
+			'''
+	}
+
+	BigBangCymbals: {
+		DisplayName: Platillos del Big Bang
+		Tooltip:
+			'''
+			Mantén <left> y suelta para cargar un gran estruendo
+			Libera una imprecisa ráfaga de estrellas que se expanden hacia afuera
+			'''
+	}
+
+	BloodflareRitualistMask: {
+		DisplayName: Máscara de Ritualista Bloodflare
+		Tooltip:
+			'''
+			15% más de daño y probabilidad de golpe crítico radiante
+			25% menos de daño no radiante
+			+80 de vida máxima
+			Regeneración de vida moderadamente aumentada
+			Los hechizos de curación curan 12 de vida adicional
+			'''
+		SetBonus:
+			'''
+			27% más de daño radiante
+			11% más de velocidad de lanzamiento radiante
+			Presiona '{0}' para usar la mitad de tu vida e invocar un ritual de curación
+			El ritual curará a los aliados por {1} de vida rápidamente
+			Solo puede haber un ritual activo a la vez
+			Esta habilidad no tiene tiempo de reutilización, pero abusar de ella te matará
+			'''
+	}
+
+	BloodflareSirenSkull: {
+		DisplayName: Cráneo de Sirena Bloodflare
+		Tooltip:
+			'''
+			10% más de daño y probabilidad de golpe crítico sinfónico
+			12% más de velocidad de ejecución sinfónica
+			'''
+		SetBonus:
+			'''
+			+4 de inspiración máxima
+			8% más de daño sinfónico
+			5% más de probabilidad de golpe crítico y velocidad de ejecución sinfónica
+			Aumenta la duración del empoderamiento en 4 segundos
+			Presiona '{0}' para obtener la mejora Canción Seductora por 5 segundos
+			Canción Seductora aumenta la velocidad de regeneración de inspiración y el alcance de empoderamiento en 50%, y la duración del empoderamiento en 5 segundos
+			Recibir daño mientras Canción Seductora está activa te cura 200 de vida fija, pero elimina Canción Seductora
+			Canción Seductora tiene un tiempo de reutilización de 45 segundos
+			'''
+	}
+
+	BloomingSaintessDevotion: {
+		DisplayName: Devoción de la Santa Floreciente
+		Tooltip:
+			'''
+			Dispara un tallo expansivo que florece en flores explosivas
+			"La devoción inspira valentía, la valentía inspira sacrificio"
+			'''
+	}
+
+	BloomingSaintessStatue: {
+		DisplayName: Estatua de la Santa Floreciente
+		Tooltip:
+			'''
+			Vida máxima aumentada en 20
+			Maná máximo aumentado en 20
+			12% más de velocidad de curación
+			14% más de daño radiante
+			6% más de velocidad de lanzamiento radiante
+			8% más de probabilidad de golpe crítico radiante
+			Los hechizos de curación curan 2 de vida adicional
+			Empodera los ataques radiantes con amanecer roto
+			"Por suerte, es demasiado grande para caber en un frasco"
+			'''
+	}
+
+	CherubimOmega: {
+		DisplayName: Cherubim Omega
+		Tooltip:
+			'''
+			Ignora 75 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Envía tajos de siega divina hacia el cursor en cada golpe
+			Los tajos abren una gran grieta en el tejido de la realidad
+			La grieta libera hasta cinco energías celestiales autoguiadas
+			Cada tercer golpe, la guadaña gira sobre sí misma
+			Mientras gira, la cantidad de tajos generados se duplica
+			"Un momento, ¡esto no es Celestus!"
+			'''
+	}
+
+	ChristmasCarol: {
+		DisplayName: Villancico Navideño
+		Tooltip:
+			'''
+			Arroja una pandereta grande y muy decorada que vuelve a ti
+			Al golpear, la pandereta rebota hacia atrás y luego se congela en el aire para bombardear al último objetivo golpeado con adornos
+			Acertar el ritmo correctamente aumenta constantemente su nivel de empoderamiento y daño
+			Acertar el ritmo correctamente también hace que la pandereta embista a los enemigos
+			{$Mods.ThoriumMod.Common.Tooltips.BigInstrument}
+			'''
+	}
+
+	ColdShoulder: {
+		DisplayName: Frialdad
+		Tooltip:
+			'''
+			Ignora 10 puntos de defensa
+			Gira una guadaña criónica que inflige [cbuff:324] al golpear
+			Escupe constantemente carámbanos que infligen 50% de daño
+			<right> para arrojar la guadaña, que se curvará en su camino de regreso
+			La guadaña inflige 30% más de daño al ser arrojada
+			"¡Toma tu dosis de frialdad!"
+			'''
+	}
+
+	CottonMouth: {
+		DisplayName: Boca Seca
+		Tooltip:
+			'''
+			Ignora 20 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una ráfaga de nubes de gas ácido por cada golpe
+			Inflige [cbuff:70] y [cbuff:CalamityMod/SulphuricPoisoning] al golpear
+			'''
+	}
+
+	CrystalHydraulophone: {
+		DisplayName: Hidrauliófono de Cristal
+		Tooltip:
+			'''
+			Dispara dos cristales de agua curvos que se hacen añicos al golpear
+			"Lo mejor del hombre es como el agua, el agua beneficia a todas las cosas"
+			Basado en el sonido similar al piano de "Sanctuary" por DM Dokuro
+			'''
+	}
+
+	DaedalusCowl: {
+		DisplayName: Capucha de Dédalo
+		Tooltip:
+			'''
+			10% más de daño radiante
+			25% menos de daño no radiante
+			5% más de velocidad de curación
+			Los hechizos de curación curan 3 de vida adicional
+			'''
+		SetBonus:
+			'''
+			25% más de daño radiante
+			Los hechizos de curación curan 1 de vida adicional
+			Presiona '{0}' para invocar una máquina de helados en tu ubicación, presiona '{0}' de nuevo para desinvocarla
+			Los jugadores pueden hacer clic derecho en la máquina de helados para recibir la mejora Subidón de Azúcar por 1 minuto
+			Los jugadores también se curan {1}0 de vida al hacerlo, pero tiene un tiempo de reutilización de 3 minutos
+			'''
+	}
+
+	DaedalusHat: {
+		DisplayName: Sombrero de Dédalo
+		Tooltip:
+			'''
+			13% más de daño sinfónico
+			7% más de probabilidad de golpe crítico sinfónico
+			'''
+		SetBonus:
+			'''
+			5% más de velocidad de ejecución sinfónica
+			Aumenta la velocidad de regeneración de inspiración en 10%
+			Aumenta la duración del empoderamiento en 3 segundos
+			El daño sinfónico inflige [cbuff:44] y [cbuff:324] al golpear
+			Los aliados cercanos tienen probabilidad de infligir [cbuff:44] al golpear
+			'''
+	}
+
+	DeathAdder: {
+		DisplayName: Víbora de la Muerte
+		Tooltip:
+			'''
+			Ignora 35 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una ráfaga de espíritus fantasma en cada golpe
+			Los espíritus fantasma persiguen a los objetivos
+			"Omnicidio estaría orgulloso... y enfadado"
+			'''
+	}
+
+	DesertedDrugDeal: {
+		DisplayName: Sangre de Grandes Tiburones de Arena
+		Tooltip:
+			'''
+			Ignora 30 puntos de defensa
+			Dispara jeringas llenas de sangre de Gran Tiburón de Arena
+			Las jeringas se aferran a enemigos o jugadores golpeados y los inyectan
+			Al hacerlo, los daña continuamente o cura si es un jugador
+			Inflige [cbuff:CalamityMod/CrushDepth] y [cbuff:CalamityMod/ArmorCrunch] a los enemigos golpeados
+			Inflige [cbuff:ThoriumMod/LifeRecovery] de larga duración a los aliados curados
+			Puede usarse para curarte a ti mismo
+			"Contiene una pequeña cantidad de Herobrine"
+			'''
+	}
+
+	Disaster: {
+		DisplayName: Desastre
+		Tooltip:
+			'''
+			Ignora 70 puntos de defensa
+			Crea tres látigos ardientes que dejan un rastro de tajos
+			Cada tercer golpe, la guadaña gira sobre sí misma
+			Al girar, deja atrás un torbellino abrasador en su lugar
+			El torbellino abrasador daña tanto a jugadores como a enemigos
+			Inflige [cbuff:CalamityMod/VulnerabilityHex] al golpear
+			Esta guadaña se blande direccionalmente en vez de girar
+			[c/C61B40:'¿Estás seguro de querer perder la vida?]
+			[c/C61B40:¿A manos de una bruja que solo te ha traído conflicto?']
+			'''
+	}
+
+	DoomsdayCatharsis: {
+		DisplayName: Catarsis del Juicio Final
+		Tooltip:
+			'''
+			Dispara rápidamente un bocinazo ardiente que se autoguía hacia los objetivos
+			Ignora 35 puntos de defensa
+			Inflige [cbuff:CalamityMod/Dragonfire] al golpear
+			Cada 25.° ataque, dos versiones más grandes del arma aparecen a los costados de la pantalla para atacar en una dirección fija
+			Acertar el ritmo correctamente aumenta constantemente su nivel de empoderamiento, daño, alcance de persecución y cantidad de trompetas
+			{$Mods.ThoriumMod.Common.Tooltips.BigInstrument}
+			"¡Necesita al menos tres pulmones para tocarse! Es decir, de a pares"
+			'''
+	}
+
+	DryMouth: {
+		DisplayName: Sequedad Bucal
+		Tooltip:
+			'''
+			Ignora 5 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una tormenta de polvo en miniatura en cada golpe
+			"¡Arena de bolsillo!"
+			'''
+	}
+
+	Duality: {
+		DisplayName: Dualidad
+		Tooltip:
+			'''
+			Gira una guadaña de estatigel que emite energía roja y morada en cada filo
+			Golpear enemigos con la energía morada les inflige [cbuff:153]
+			Golpear enemigos con la energía roja aumenta enormemente la regeneración de vida
+			<right> para arrojar la guadaña, que se curvará en su camino de regreso
+			La guadaña inflige 20% más de daño al ser arrojada
+			"Tengo dos lados: el que olfida y el que se acurerda"
+			'''
+	}
+
+	DustDevilDrums: {
+		DisplayName: Tambores de Torbellino de Polvo
+		Tooltip:
+			'''
+			Libera unos cuantos torbellinos de polvo alrededor del usuario que atraviesan enemigos y bloques
+			Tiene 25% de probabilidad de invocar un torbellino de polvo turquesa que persigue a los enemigos
+			"¿Qué travesuras hay que hacer para necesitar un sistema de refrigeración para esto?"
+			'''
+	}
+
+	ElectricQuarterstaff: {
+		DisplayName: S-TSL: Bastón Eléctrico
+		Tooltip:
+			'''
+			Gira un bastón eléctrico aturdidor
+			Emite un relámpago encadenado al primer golpe de cada giro
+			El relámpago encadenado puede rebotar de nuevo en los mismos enemigos
+			"Un bastón retráctil con un táser incorporado"
+			'''
+	}
+
+	ElementalBloom: {
+		DisplayName: Florecimiento Elemental
+		Tooltip:
+			'''
+			Vida máxima aumentada en 40
+			Maná máximo aumentado en 20
+			15% más de velocidad de curación
+			20% más de daño radiante
+			10% más de velocidad de lanzamiento radiante
+			12% más de probabilidad de golpe crítico radiante
+			Los hechizos de curación curan 2 de vida adicional
+			Empodera los ataques radiantes con [cbuff:CalamityMod/ElementalMix]
+			Aumenta la fuerza de los efectos de daño continuo en 66%
+			"Cuando la luz y la oscuridad chocan, armonizan en una forma final"
+			'''
+	}
+
+	Exorectionist: {
+		DisplayName: Exorectionista
+		Tooltip:
+			'''
+			Dispara una larga línea de carga eléctrica que cura rápidamente a los jugadores
+			"El intento de Draedon de innovar la tecnología de desfibrilación"
+			'''
+	}
+
+	FaceMelter: {
+		DisplayName: "{$Mods.CalamityMod.Items.Weapons.Magic.FaceMelter.DisplayName}"
+		Tooltip:
+			'''
+			Dispara un chorro de notas al rojo vivo
+			Las notas pueden infligir afinación o [cbuff:CalamityMod/Dragonfire], o devolver inspiración
+			Las notas infligen más daño contra objetivos que sufren efectos de daño continuo
+			<right> para invocar un amplificador que dispara notas hacia tu cursor
+			"¡WOOO!! ¡MUNDOOO FAAAAANTÁSTICOOO!"
+			'''
+	}
+
+	FeralKeytar: {
+		DisplayName: Keytar Feral
+		Tooltip:
+			'''
+			Ignora 30 puntos de defensa
+			Dispara un pentagrama musical que atraviesa indefinidamente
+			"Una amalgama muy feral de notas y almas"
+			'''
+	}
+
+	FilthyFlute: {
+		DisplayName: Flauta Inmunda
+		Tooltip:
+			'''
+			Dispara una bola veloz de infierno maldito
+			Acertar el ritmo correctamente aumenta constantemente su nivel de empoderamiento y velocidad
+			Al quinto acierto de ritmo consecutivo, atraes a un raro espécimen de arrastrado inmundo que pelea por ti
+			{$Mods.ThoriumMod.Common.Tooltips.BigInstrument}
+			"La canción de la consciencia colectiva de la corrupción"
+			Basada en la flauta de "Filthy Mind" por DM Dokuro feat. SixteenInMono
+			'''
+	}
+
+	FireHazard: {
+		DisplayName: Riesgo de Incendio
+		Tooltip:
+			'''
+			Ignora 15 puntos de defensa
+			Libera una ráfaga ardiente de llamas
+			Inflige [cbuff:CalamityMod/BrimstoneFlames] al golpear
+			"Llamar a esto un riesgo de incendio sería quedarse corto"
+			'''
+	}
+
+	FlightoftheGoliath: {
+		DisplayName: Vuelo del Goliat
+		Tooltip:
+			'''
+			Ignora 20 puntos de defensa
+			Dispara misiles enjambradores de plaga que atacan continuamente a su objetivo
+			"¡HAGAN RUIDOOOOO!"
+			Basado en el sonido chiptune de "Fly of Beelzebub" por DM Dokuro
+			'''
+	}
+
+	Gashadokuro: {
+		DisplayName: Gashadokuro
+		Tooltip:
+			'''
+			Toca la icónica campana que todos conocen y aman
+			Inflige [cbuff:CalamityMod/VulnerabilityHex] al golpear y causa que rayos de piedra sulfúrea castiguen a los enemigos
+			[c/C61B40:'Una campana perteneciente a un músico legendario, si tan solo aún estuviera con nosotros...']
+			'''
+	}
+
+	GelatinTherapy: {
+		DisplayName: Terapia de Gelatina
+		Tooltip: Dispara una bola de lodo rebotante que puede curar y curar cualquier estado negativo de cualquier jugador, incluyéndote a ti
+	}
+
+	GodSlayerDeathsingerCowl: {
+		DisplayName: Capucha de Cantante de la Muerte del Verdugo de Dioses
+		Tooltip:
+			'''
+			14% más de daño y probabilidad de golpe crítico sinfónico
+			9% más de velocidad de ejecución sinfónica y regeneración de inspiración
+			Aumenta la velocidad de persecución de instrumentos de viento en 15%
+			Los instrumentos de cuerda rebotan dos veces adicionales
+			'''
+		SetBonus:
+			'''
+			20% más de daño crítico de percusión
+			50% más de alcance de empoderamiento
+			18% más de velocidad de regeneración de inspiración
+			Una campana de Calamity flota sobre tu cabeza y suena ocasionalmente mientras atacas
+			Cuando la campana suena, los enemigos a tu alrededor reciben 7500 de daño verdadero
+			'''
+	}
+
+	HarmonyoftheOldGod: {
+		DisplayName: Armonía del Viejo Dios
+		Tooltip:
+			'''
+			Crea un pentagrama gigante sobre el usuario al sostenerlo, visible solo para él
+			Al tocar este instrumento, oleadas de notas fluirán a través del pentagrama
+			Eventualmente, las notas caerán y atacarán
+			"Construyendo armonía con todos los limos del mundo"
+			'''
+	}
+
+	HarpY: {
+		DisplayName: Harp-Y
+		Tooltip: Dispara tres plumas rebotantes
+	}
+
+	HydrogenSulfide: {
+		DisplayName: Sulfuro de Hidrógeno
+		Tooltip:
+			'''
+			Ignora 50 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una ola ardiente acompañada de 2 llamas autoguiadas
+			Inflige [cbuff:CalamityMod/CrushDepth] y [cbuff:323] al golpear
+			"Un catalizador para una reacción química letal"
+			'''
+	}
+
+	HydrothermicGasMask: {
+		DisplayName: Máscara de Gas Hidrotérmica
+		Tooltip:
+			'''
+			12% más de daño radiante
+			27% menos de daño no radiante
+			6% más de probabilidad de golpe crítico radiante
+			Los hechizos de curación curan 4 de vida adicional
+			'''
+		SetBonus:
+			'''
+			28% más de daño radiante
+			9% más de velocidad de curación y lanzamiento radiante
+			Los hechizos de curación curan 2 de vida adicional
+			Recibir más de 75 de daño genera un oasis que dura 3 segundos
+			El oasis cura {0} de vida cada 1/3 de segundo
+			Solo puede haber un oasis activo a la vez
+			'''
+	}
+
+	HydrothermicHat: {
+		DisplayName: Sombrero Hidrotérmico
+		Tooltip:
+			'''
+			12% más de daño sinfónico
+			5% más de velocidad de ejecución sinfónica
+			10% más de probabilidad de golpe crítico sinfónico
+			'''
+		SetBonus:
+			'''
+			15% más de daño crítico de percusión
+			Aumenta la velocidad de regeneración de inspiración en 12%
+			Los golpes críticos sinfónicos hacen que los objetivos estallen en llamas de sulfuro
+			Solo puede ocurrir una erupción y tiene un tiempo de reutilización de 3 segundos por activación
+			'''
+	}
+
+	HyphaeBaton: {
+		DisplayName: Batuta de Hifas
+		Tooltip: Genera esporas persistentes cada vez que se obtiene esencia del alma
+	}
+
+	InfestedCastanet: {
+		DisplayName: C4$+@ñ3+@$
+		Tooltip:
+			'''
+			Empuña dos garras de cangrejo que crean chasquidos de corto alcance
+			Los chasquidos se disparan en una dispersión pareja de tres
+			Basada en las castañuelas de "1nf3$+@+!0n" por DM Dokuro
+			'''
+	}
+
+	IntergelacticCloche: {
+		DisplayName: Cloché Intergaláctico
+		Tooltip:
+			'''
+			18% más de daño, probabilidad de golpe crítico y velocidad de ejecución sinfónica
+			Aumenta la velocidad de persecución y el alcance de los instrumentos de viento en 12%
+			Los instrumentos de cuerda rebotan tres veces adicionales
+			'''
+		SetBonus:
+			'''
+			17% más de velocidad de regeneración de inspiración
+			Aumenta la inspiración máxima en 7
+			Aumenta la duración del empoderamiento en 2 segundos
+			Los asteroides tienen 33% de probabilidad de curar 3 de inspiración al golpear enemigos
+			'''
+	}
+
+	IntergelacticProtectorHelm: {
+		DisplayName: Casco Protector Intergaláctico
+		Tooltip:
+			'''
+			11% más de daño, probabilidad de golpe crítico y velocidad de lanzamiento radiante
+			33% menos de daño no radiante
+			Los hechizos de curación curan 4 de vida adicional
+			'''
+		SetBonus:
+			'''
+			22% más de daño radiante
+			Los hechizos de curación curan 6 de vida adicional
+			Los asteroides tienen 20% de probabilidad de curar {0} de vida al golpear enemigos
+			'''
+	}
+
+	InterstellarShredder: {
+		DisplayName: Trituradora Interestelar
+		Tooltip:
+			'''
+			Dispara un cristal de llama astral rebotante, no perforante y autoguiado
+			El cristal está acompañado de dos láseres astrales que rebotan dos veces
+			<right> para invocar 6 cristales de llama astral a costa de más inspiración
+			Inflige infección astral al golpear
+			"¡Riffs increíbles que viajan por todo el universo!"
+			Basado en el solo de guitarra de "Interstellar Stomper" por DM Dokuro
+			'''
+	}
+
+	IrradiatedKusarigama: {
+		DisplayName: Kusarigama Irradiada
+		Tooltip:
+			'''
+			Esta maza cuenta como una guadaña
+			Realiza un combo doble arrojando primero un núcleo de maza y luego una pequeña guadaña
+			Los golpes con la bola generan niebla curativa, con solo 3 permitidas a la vez
+			Los golpes con la guadaña, o cuando regresa al usuario, crean burbujas autoguiadas
+			Inflige [cbuff:70] y [cbuff:CalamityMod/SulphuricPoisoning] al golpear
+			'''
+	}
+
+	LostOasis: {
+		DisplayName: Oasis Perdido
+		Tooltip:
+			'''
+			Invoca un oasis en expansión
+			Cura cada medio segundo
+			"Da igual chicos, ya lo encontré"
+			'''
+	}
+
+	MilkyWay: {
+		DisplayName: Vía Láctea
+		Tooltip:
+			'''
+			Ignora 35 puntos de defensa
+			<right> para arrojar la guadaña, que se curvará en su camino de regreso
+			Emite estrellas desde la distancia que giran en espiral hacia adentro
+			"Los astros se han alineado"
+			'''
+	}
+
+	NoisebringerGoliath: {
+		DisplayName: Goliat Portador de Ruido
+		Tooltip:
+			'''
+			150 de daño sinfónico
+			Invoca dos parlantes que atacan junto a ti
+			Inflige plaga y afinación a los enemigos al golpear
+			"¡QUE ALGUIEN GRIIIIITE!"
+			'''
+	}
+
+	OathofSacrifice: {
+		DisplayName: Juramento de Sacrificio
+		Tooltip:
+			'''
+			Empuñar este hechizo elimina toda tu protección y te vuelve más vulnerable
+			Crea un círculo ritual a tu alrededor que revive a los jugadores caídos que entren en contacto con él
+			Los jugadores vivos dentro del círculo ritual no pueden morir bajo ninguna circunstancia
+			Los jugadores vivos también quedan liberados de la mayoría de los efectos de estado negativos
+			[c/C61B40:'El mismísimo báculo que la bruja usó para resucitar a sus hermanos.']
+			'''
+	}
+
+	OldDukesWisdom: {
+		DisplayName: Sabiduría del Viejo Duque
+		Tooltip:
+			'''
+			Dispara una ráfaga de bolas de dientes que explotan en más dientes
+			Inflige [cbuff:70] y [cbuff:CalamityMod/SulphuricPoisoning] al golpear
+			Basado en el extraño sonido de metales de "Toxic Wisdom" por DM Dokuro
+			'''
+	}
+
+	OmnicidesLaw: {
+		DisplayName: Ley de Omnicidio
+		Tooltip:
+			'''
+			Ignora 40 puntos de defensa
+			Dispara cráneos que se curvan en direcciones aleatorias antes de autoguiarse hacia un enemigo
+			Inflige [cbuff:CalamityMod/Plague] al golpear
+			"Toda vida tiene un comienzo y un fin, como afirma Omnicidio, el Profanador de la Vida"
+			'''
+	}
+
+	OmniSpeaker: {
+		DisplayName: Omni-Parlante
+		Tooltip:
+			'''
+			15% más de daño, velocidad de ejecución y probabilidad de golpe crítico sinfónico
+			150% más de alcance de empoderamiento
+			Aumenta la duración del empoderamiento en 2 segundos
+			Los instrumentos de cuerda rebotan tres veces adicionales
+			Tus ataques con instrumentos de viento ahora intentan autoguiarse rápidamente hacia enemigos
+			Si el ataque ya se autoguía hacia enemigos, lo hace con mayor rapidez
+			Los golpes críticos causados por ataques de instrumentos de metal liberan una dispersión de energía perforante
+			Los golpes críticos de percusión infligen 10% más de daño y aturden brevemente a los enemigos
+			Tú y los aliados cercanos tienen probabilidad de infligir infierno del verdugo de dioses al atacar objetivos
+			"¡A través del poder de la tecnología de agujeros de gusano, todos en el mundo pueden vibrar con tu música!"
+			'''
+	}
+
+	PhoenicianBeak: {
+		DisplayName: Pico Fenicio
+		Tooltip:
+			'''
+			Ignora 50 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara un tajo poderoso que deja un rastro de fuego
+			Inflige [cbuff:CalamityMod/Dragonfire] al golpear
+			'''
+	}
+
+	PledgeofSelflessness: {
+		DisplayName: Voto de Altruismo
+		Tooltip:
+			'''
+			Empuñar este hechizo elimina toda tu protección y te vuelve más vulnerable
+			Dispara 3 rayos de piedra sulfúrea que se autoguían hacia hasta 3 jugadores distintos y los curan
+			Si hay menos de 3 jugadores, los rayos extra pueden curar a los mismos jugadores de nuevo
+			[c/C61B40:'Como agradecimiento de parte de los hermanos de la bruja, ellos juraron su altruismo.']
+			'''
+	}
+
+	Procioplexon: {
+		DisplayName: Procioplexón
+		Tooltip:
+			'''
+			100 de Penetración de Armadura
+			Esta guadaña se blande direccionalmente en vez de girar
+			Envía mareas abisales en cada golpe junto con tajos abisales
+			Cada tercer golpe, la guadaña gira sobre sí misma
+			Mientras gira, esta arma libera múltiples tormentas implacables
+			'''
+	}
+
+	PurgatoriumPandemonium: {
+		DisplayName: Pandemonio Purgatorio
+		Tooltip:
+			'''
+			Ignora 150 puntos de defensa
+			Dispara una descarga de almas buenas y malas que ondulan mientras viajan
+			Las almas buenas persiguen a los jugadores y los curan, o curan al usuario si golpean enemigos
+			Las almas malas persiguen a los enemigos e infligen muerte susurrante al golpearlos
+			"¡La primera alma en salvar a un jugador moribundo gana un boleto solo de ida al Cielo!"
+			'''
+	}
+
+	ReturntoSludge: {
+		DisplayName: Vuelta al Lodo
+		Tooltip:
+			'''
+			Mantén <left> para acumular una bomba de lodo y suelta para dispararla
+			La bomba de lodo inflige más daño cuanto más tiempo se cargue
+			La bomba de lodo puede infligir hasta 10 veces más daño como máximo
+			'''
+	}
+
+	SARS: {
+		DisplayName: S.A.R.S.
+		Tooltip:
+			'''
+			Ignora 10 puntos de defensa
+			Libera rastros de plaga mientras gira
+			Libera aún más al golpear enemigos
+			Los rastros de plaga tienen un seguimiento débil
+			Inflige [cbuff:CalamityMod/Plague] al golpear
+			"Por favor, practica el distanciamiento social"
+			'''
+	}
+
+	SavingGrace: {
+		DisplayName: Más Allá de la Gracia Salvadora
+		Tooltip:
+			'''
+			Dispara rápidamente una hélice curativa de energía cósmica
+			La hélice eventualmente se autoguiará hacia un jugador
+			Los jugadores por debajo del 10% de vida se curan por completo
+			"¿Quién es Grace y por qué la estamos salvando?"
+			'''
+	}
+
+	SchoolNurse: {
+		DisplayName: Enfermera Escolar
+		Tooltip:
+			'''
+			Dispara una ráfaga de hielo resbaladizo que cura y sana estados negativos
+			"Solo hace falta una bolsa de hielo y algo de fe"
+			'''
+	}
+
+	ScrapGuitar: {
+		DisplayName: G-GSS: Guitarra de Chatarra
+		Tooltip:
+			'''
+			Dispara rayos eléctricos lentos que rebotan entre enemigos
+			El número de rebotes aumenta según la estadística de rebote de instrumentos de cuerda
+			<right> para blandir la guitarra, afinando a los objetivos golpeados y restaurando inspiración
+			"Toca Stairway to Heaven al tocar los cables expuestos"
+			'''
+	}
+
+	ScreamingClam: {
+		DisplayName: Almeja Chillona
+		Tooltip:
+			'''
+			22 de daño sinfónico
+			Invoca una almeja que flota sobre tu cabeza y grita ocasionalmente
+			Inflige marea roja y afinación a los enemigos golpeados
+			"Almejestuosa"
+			'''
+	}
+
+	ScuffedKeytar: {
+		DisplayName: K-GSS: Keytar Maltrecho
+		Tooltip:
+			'''
+			Ignora 5 puntos de defensa
+			Dispara un pentagrama musical que atraviesa indefinidamente
+			"Un viejo keytar que apenas funciona... Palabra clave: 'funciona'"
+			'''
+	}
+
+	SilvaGuardianHelmet: {
+		DisplayName: Casco del Guardián Silva
+		Tooltip:
+			'''
+			12% más de daño y probabilidad de golpe crítico radiante
+			30% menos de daño no radiante
+			Regeneración de vida moderadamente aumentada
+			+100 de vida máxima
+			Los hechizos de curación curan 15 de vida adicional
+			'''
+		SetBonus:
+			'''
+			32% más de daño radiante
+			11% más de velocidad de curación
+			Recibir daño intenso de un solo golpe le otorga a los jugadores con menos vida la mejora Ángel Guardián por 30 segundos
+			'''
+	}
+
+	Singularity: {
+		DisplayName: Singularidad
+		Tooltip:
+			'''
+			Ignora 100 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara estrellas autoguiadas que golpean varias veces en cada golpe
+			Tiene un combo de tres golpes
+			En el primer golpe, la guadaña dispara una estrella autoguiada
+			En el segundo golpe, la guadaña dispara tres estrellas autoguiadas
+			Cada tercer golpe, la guadaña gira sobre sí misma
+			Al girar, emite hasta seis estrellas autoguiadas
+			"Infinitamente densa, igual que tu mamá"
+			'''
+	}
+
+	SlagFurysIntent: {
+		DisplayName: Voluntad de la Furia de Escoria
+		Tooltip:
+			'''
+			Dispara rápidamente rayos de piedra sulfúrea que se curvan en direcciones aleatorias
+			Inflige [cbuff:CalamityMod/BrimstoneFlames] al golpear
+			"Una reliquia de los restos de Azafure, tal como quiso la Furia de Escoria, la Primera Llama"
+			'''
+	}
+
+	SongoftheAncients: {
+		DisplayName: Canción de los Ancestros
+		Tooltip:
+			'''
+			Ignora 15 puntos de defensa
+			Dispara dos rayos elementales que se mueven en patrón de hélice antes de dividirse
+			Acertar el ritmo correctamente aumenta constantemente su nivel de empoderamiento
+			{$Mods.ThoriumMod.Common.Tooltips.BigInstrument}
+			'''
+	}
+
+	SongoftheCosmos: {
+		DisplayName: Canción del Cosmos
+		Tooltip:
+			'''
+			Ignora 75 puntos de defensa
+			Dispara cinco rayos cósmicos que se mueven en patrón de hélice
+			Puede golpear al mismo objetivo varias veces
+			Infligir suficiente daño permite usar <right> con esta arma para invocar un pequeño estallido
+			Los pequeños estallidos producen estrellas más débiles que se autoguían hacia el enemigo más cercano e infligen el doble de daño
+			Mientras cualquier pequeño estallido esté activo, el costo de inspiración se reduce a la mitad
+			"La misma canción que armoniza el universo"
+			'''
+	}
+
+	SongoftheElements: {
+		DisplayName: Canción de los Elementos
+		Tooltip:
+			'''
+			Ignora 25 puntos de defensa
+			Dispara tres rayos elementales que se mueven en patrón de hélice
+			Puede golpear al mismo objetivo varias veces
+			"La misma canción que trae equilibrio a muchos mundos"
+			'''
+	}
+
+	SpookyMonth: {
+		DisplayName: Mes Espeluznante
+		Tooltip:
+			'''
+			Dispara una ráfaga de cráneos de calabaza en llamas que se autoguían hacia los objetivos
+			De vez en cuando, dispara un cráneo gigante solitario que inflige 7 veces más daño pero no se autoguía
+			'''
+	}
+
+	SoulSplicer: {
+		DisplayName: Empalmador de Almas
+		Tooltip:
+			'''
+			Ignora 10 puntos de defensa
+			Gira rápidamente una guadaña empalmadora de almas
+			Libera periódicamente apariciones de sí misma
+			Inflige [cbuff:144] y [cbuff:323] al golpear
+			'''
+	}
+
+	StarBirth: {
+		DisplayName: Nacimiento Estelar
+		Tooltip:
+			'''
+			Invoca una nebulosa en expansión que cura cada tercio de segundo
+			Se forman estrellas en la nebulosa que se autoguían hacia los jugadores, pero curan la mitad
+			Sin embargo, estas estrellas autoguiadas no pueden curar al invocador
+			'''
+	}
+
+	StarCluster: {
+		DisplayName: Cúmulo de Estrellas
+		Tooltip:
+			'''
+			Mantén <left> para acumular lentamente un cúmulo de estrellas
+			Suelta <left> para liberarlas todas de golpe en una ráfaga
+			Las estrellas perforan infinitamente, pero solo pueden golpear al mismo enemigo una vez
+			La cantidad máxima de estrellas que se pueden acumular es igual a la inspiración máxima
+			'''
+	}
+
+	StatigelEarrings: {
+		DisplayName: Aretes de Estatigel
+		Tooltip:
+			'''
+			10% más de daño y velocidad de ejecución sinfónica
+			7% más de probabilidad de golpe crítico sinfónico
+			Los instrumentos de cuerda rebotan una vez adicional
+			'''
+	}
+
+	StatigelFoxMask: {
+		DisplayName: Máscara de Zorro de Estatigel
+		Tooltip:
+			'''
+			9% más de daño y velocidad de lanzamiento radiante
+			27% menos de daño no radiante
+			Los hechizos de curación curan 4 de vida adicional
+			'''
+		SetBonus:
+			'''
+			9% más de velocidad de curación
+			14% más de daño radiante
+			'''
+	}
+
+	Supercluster: {
+		DisplayName: Supercúmulo
+		Tooltip:
+			'''
+			Dispara un cúmulo en miniatura de estrellas que caen hacia arriba
+			Caerá hacia el enemigo más cercano al cursor
+			Explota en estrellas persistentes al impactar
+			'''
+	}
+
+	SymphonicFabrications: {
+		DisplayName: Fabricaciones Sinfónicas
+		Tooltip:
+			'''
+			Dispara una ráfaga de misiles coloridos que despedazan objetivos
+			Mientras sostienes el arma, dos parlantes Exo gigantes flotan a tu lado y ayudan en combate
+			Estos atacan junto a ti disparando ondas sonoras autoguiadas que infligen 150% de daño
+			Las ondas sonoras te curan por 5% del daño infligido y tienen 33% de probabilidad de curar 1 de inspiración
+			"¡Ahora estás escuchando a... Exo-FM!"
+			'''
+	}
+
+	Syzygy: {
+		DisplayName: Sicigia
+		Tooltip:
+			'''
+			Ignora 25 puntos de defensa
+			<right> para arrojar la guadaña, que se curvará en su camino de regreso
+			Genera constantemente energía elemental persistente que gira alrededor
+			"Una catástrofe terrible para la mayoría, una hermosa armonía para algunos"
+			'''
+	}
+
+	TarragonChapeau: {
+		DisplayName: Sombrero Tarragón
+		Tooltip:
+			'''
+			10% más de daño, probabilidad de golpe crítico y velocidad de ejecución sinfónica
+			5% más de reducción de daño
+			'''
+		SetBonus: Generas silencios de negra a tu alrededor que curan inspiración al golpear enemigos
+	}
+
+	TarragonParagonCrown: {
+		DisplayName: Corona Paragón Tarragón
+		Tooltip:
+			'''
+			10% más de daño radiante
+			30% menos de daño no radiante
+			5% más de probabilidad de golpe crítico radiante
+			5% más de reducción de daño
+			+20 de vida máxima
+			Regeneración de vida ligeramente aumentada
+			Los hechizos de curación curan 8 de vida adicional
+			'''
+		SetBonus:
+			'''
+			30% más de daño radiante
+			Ocasionalmente emite un pulso curativo que cura y protege a los aliados con {0} puntos
+			'''
+	}
+
+	TectonicPlates: {
+		DisplayName: Placas Tectónicas
+		Tooltip:
+			'''
+			Dispara dos rocas que colisionan en la posición del cursor
+			Al colisionar, crea una explosión de tamaño medio que inflige [cbuff:CalamityMod/CrushDepth]
+			"Patrocinado por Alfred Wegener"
+			'''
+	}
+
+	TidalForce: {
+		DisplayName: Fuerza de Marea
+		Tooltip:
+			'''
+			Ignora 40 puntos de defensa
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una mini ola de marea en cada golpe que se divide tras recorrer una distancia determinada
+			Inflige [cbuff:CalamityMod/CrushDepth] al golpear
+			'''
+	}
+
+	TimesOldRoman: {
+		DisplayName: Times Old Roman
+		Tooltip:
+			'''
+			Blande una pluma cómicamente grande que deja un rastro de tinta dañino
+			El rastro de tinta puede otorgarle esencia del alma al usuario
+			"Goozma vivió la época en que solo existía Times Roman"
+			'''
+	}
+
+	TheWindmill: {
+		DisplayName: El Molino de Viento
+		Tooltip:
+			'''
+			Deja atrás un torbellino en cada golpe
+			"¡Fiuu! ¡Impulsado por viento!"
+			'''
+	}
+
+	Transfiguration: {
+		DisplayName: Transfiguración
+		Tooltip:
+			'''
+			Invoca un rayo sagrado de luz sobre tu cursor que curará a los aliados debajo de él
+			"Prepárate para recibir algo de espíritu sagrado..."
+			'''
+	}
+
+	TreeWhispererAmulet: {
+		DisplayName: Amuleto del Susurrador de Árboles
+		Tooltip:
+			'''
+			12% más de daño, velocidad de ejecución y probabilidad de golpe crítico sinfónico
+			Los instrumentos de cuerda rebotan dos veces adicionales
+			Tus ataques con instrumentos de viento ahora intentan autoguiarse rápidamente hacia enemigos
+			Si el ataque ya se autoguía hacia enemigos, lo hace con mayor rapidez
+			Los golpes críticos causados por ataques de instrumentos de metal liberan una dispersión de energía perforante
+			Los golpes críticos de percusión infligen 10% más de daño y aturden brevemente a los enemigos
+			"¡Habla por los árboles, escúchalos, usa sus ideas para componer algunos ritmos!"
+			'''
+	}
+
+	TreeWhisperersHarp: {
+		DisplayName: Arpa del Susurrador de Árboles
+		Tooltip:
+			'''
+			Dispara un tronco de árbol que se ramifica y crece hojas
+			Las hojas eventualmente caen y se autoguían hacia los enemigos
+			"Todos necesitan un amigo, ¡incluso un pequeño árbol feliz!"
+			'''
+	}
+
+	Trinity: {
+		DisplayName: Trinidad
+		Tooltip:
+			'''
+			Gira una guadaña triple muy veloz que golpea objetivos con mayor frecuencia
+			Los golpes con esta arma ocasionalmente generan tres rayos curvos de fuego astral
+			<right> para arrojar la guadaña, que se curvará en su camino de regreso
+			La guadaña inflige 30% más de daño al ser arrojada
+			'''
+	}
+
+	VictideAmmoniteHat: {
+		DisplayName: Sombrero de Amonita Victide
+		Tooltip: 5% más de daño sinfónico y velocidad de regeneración de inspiración
+		SetBonus: +1.5 de regeneración de vida por segundo y 10% más de velocidad de regeneración de inspiración mientras estás sumergido en líquido
+	}
+
+	Violince: {
+		DisplayName: Violince
+		Tooltip:
+			'''
+			Dispara una dispersión de icor rebotante
+			Acertar el ritmo correctamente aumenta constantemente su nivel de empoderamiento y velocidad
+			Cada 3 aciertos de ritmo consecutivos, la cantidad de proyectiles disparados aumenta hasta un máximo de 6
+			{$Mods.ThoriumMod.Common.Tooltips.BigInstrument}
+			"Clasificada +18 por saxo y violince"
+			Basada en el violín de "Blood Coagulant" por DM Dokuro feat. SixteenInMono
+			'''
+	}
+
+	Vivapollum: {
+		DisplayName: Vivapollum
+		Tooltip:
+			'''
+			Dispara una ráfaga de burbujas abisales que explotan al golpear infligiendo opresión vital
+			Quedarte sin inspiración provoca un torrente ascendente de burbujas abisales de corta duración
+			Una vez activado, no puede volver a ocurrir hasta que el usuario recupere toda su inspiración
+			'''
+	}
+
+	VoidFaquirBiretta: {
+		DisplayName: Birreta de Sacerdote de Guerra Faquir del Vacío
+		Tooltip:
+			'''
+			+30% de Daño Radiante
+			-35% de Daño No Radiante
+			+15% de Velocidad de Curación
+			+8 de Curación Adicional
+			<armorBonus>
+			'''
+		SetBonus:
+			'''
+			Aumenta la energía del vacío generada poco después de curar a un aliado u obtener esencia del alma
+			La energía del vacío obtenida al curar aliados disminuye lentamente cuanto más tiempo los cures
+			'''
+	}
+
+	VoidFaquirChapeau: {
+		DisplayName: Sombrero de Cantante de la Muerte Faquir del Vacío
+		Tooltip:
+			'''
+			+25% de Daño Sinfónico
+			+15% de Velocidad de Ejecución Sinfónica
+			+15% de Velocidad de Regeneración de Inspiración
+			<armorBonus>
+			'''
+		SetBonus:
+			'''
+			Aumenta la energía del vacío generada por cada empoderamiento activo
+			Aumenta aún más cuanto mayor sea el nivel de cada empoderamiento
+			'''
+	}
+
+	WilloftheRagnarok: {
+		DisplayName: Voluntad del Ragnarök
+		Tooltip:
+			'''
+			Efectos combinados de todas las degradaciones
+			"Borra a quienes perturben el equilibrio del universo"
+			'''
+	}
+
+	Windward: {
+		DisplayName: A Favor del Viento
+		Tooltip: Dispara dos plumas ligeramente autoguiadas
+	}
+
+	WulfrumMegaphone: {
+		DisplayName: Megáfono Wulfrum
+		Tooltip:
+			'''
+			Dispara una onda sonora que crece y acelera
+			Atraviesa objetivos, pero el daño se reduce en una cantidad fija
+			Afina a los objetivos al golpear, aumentando el daño que reciben en un 5%
+			"¡He aquí! ¡El Insultador-Barato-Inator!"
+			'''
+	}
+
+	WulfrumWeedWacker: {
+		DisplayName: Desmalezadora Wulfrum
+		Tooltip:
+			'''
+			Esta guadaña se blande direccionalmente en vez de girar
+			Dispara una onda de corto alcance en cada golpe
+			"La desmalezadora wulfrum desmaleza maleza con wulfrum"
+			'''
+	}
+
+	YharimsJam: {
+		DisplayName: Jam de Yharim
+		Tooltip:
+			'''
+			930 de daño sinfónico
+			Invoca tres parlantes supersónicos que flotan a tu lado y debajo de ti
+			Los parlantes dispararán ritmos ardientes que rastrean al enemigo más cercano
+			Inflige [cbuff:CalamityMod/Dragonfire] y afinación a los enemigos golpeados
+			"Estamos superando la barrera del sonido con este [i/s1:2701][i/s1:2701][i/s1:2701]"
+			'''
+	}
+}
+
+Projectiles: {
+	AcidicReed.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.AcidicReed.DisplayName}"
+	AcidicSaxBubble.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.AcidicSaxBubble.DisplayName}"
+	AcidicSaxMist.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.AcidicSaxMist.DisplayName}"
+	AnahitasArpeggioNote.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.AnahitasArpeggioNote.DisplayName}"
+	AnahitasArpeggioNote2.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.AnahitasArpeggioNote.DisplayName}"
+	AncientSong.DisplayName: Canción Ancestral
+	AquaiusAdvice.DisplayName: Consejo de Aquaius
+	ArcticReinforcement.DisplayName: Refuerzo Ártico
+	ArcticReinforcement2.DisplayName: Refuerzo Ártico
+	AstralFlames.DisplayName: Llamas Astrales
+	BigBangCymbals.DisplayName: Platillos del Big Bang
+	BigBangStar.DisplayName: Estrella del Big Bang
+	BloodflareRitual.DisplayName: Ritual Bloodflare
+	BloomingSaintessDevotion.DisplayName: Devoción de la Santa Floreciente
+	BloomingSaintessDevotion2.DisplayName: Flor de la Santa Floreciente
+	BloomingSaintessDevotion3.DisplayName: Pétalo de la Santa Floreciente
+	BurningBeat.DisplayName: Ritmo Ardiente
+	CalamityBell.DisplayName: Campana de Calamity
+	CalamityBellRing.DisplayName: Tañido de la Campana de Calamity
+	CherubimBeam.DisplayName: Rayo Cherubim
+	CherubimOmega.DisplayName: Cherubim Omega
+	CherubimRift.DisplayName: Grieta Cherubim
+	CherubimSlash.DisplayName: Tajo Cherubim
+	ChristmasCarol.DisplayName: Villancico Navideño
+	ChristmasCarolDecor.DisplayName: Decoración Navideña
+	ColdShoulder.DisplayName: Frialdad
+	ColdShoulderIcicle.DisplayName: Carámbano
+	CosmicEncore.DisplayName: Bis Cósmico
+	CosmicEncoreStar.DisplayName: Bis Cósmico
+	CosmicSong.DisplayName: Canción Cósmica
+	CottonMouth.DisplayName: Boca Seca
+	CottonMouthGas.DisplayName: Gas Hilarante
+	CrystalHydraulophone.DisplayName: Hidrauliófono de Cristal
+	DeathAdder.DisplayName: Víbora de la Muerte
+	DeathAdderSoul.DisplayName: Alma de la Víbora de la Muerte
+	DesertedDrugDeal.DisplayName: Sangre de Grandes Tiburones de Arena
+	Disaster.DisplayName: Desastre
+	DisasterSlash.DisplayName: Desastre
+	DisasterSlashes.DisplayName: Desastre
+	DoomsdayCatharsis.DisplayName: Catarsis del Juicio Final
+	DoomsdayToot.DisplayName: Bocinazo del Juicio Final
+	DryMouth.DisplayName: Sequedad Bucal
+	DryMouthSand.DisplayName: Arena de Bolsillo
+	Duality.DisplayName: Dualidad
+	DustDevil.DisplayName: Torbellino de Polvo
+	ElectricChain.DisplayName: Relámpago Encadenado
+	ElectricQuarterstaff.DisplayName: Bastón Eléctrico
+	ElementalSong.DisplayName: Canción Elemental
+	ElementalSyzygy.DisplayName: Sicigia
+	Exorectionist.DisplayName: Exorectionista
+	ExoSound.DisplayName: Sonido Envolvente Exo
+	ExoSurroundSound.DisplayName: Sonido Envolvente Exo
+	FeralKeytar.DisplayName: Keytar Feral
+	FilthyCreeper.DisplayName: Raro Arrastrado Inmundo
+	FilthyFlute.DisplayName: Flauta Inmunda
+	FireHazard.DisplayName: Riesgo de Incendio
+	FireStarter.DisplayName: Iniciador de Fuego
+	Gashadokuro.DisplayName: Gashadokuro
+	GashadokuroCracks.DisplayName: Gashadokuro
+	GodNote.DisplayName: Nota Divina
+	HarmonyoftheOldGod.DisplayName: Armonía del Viejo Dios
+	HarpY.DisplayName: Harp-Y
+	HydrogenSulfide.DisplayName: Sulfuro de Hidrógeno
+	HydrogenSulfideFlames.DisplayName: Sulfuro de Hidrógeno
+	HydrogenSulfideWave.DisplayName: Sulfuro de Hidrógeno
+	HydrothermalEruption.DisplayName: Erupción Hidrotermal
+	HydrothermalOasis.DisplayName: Oasis Hidrotermal
+	HyphaeBaton.DisplayName: Batuta de Hifas
+	HyphaeBatonSporeCloud.DisplayName: Batuta de Hifas
+	IceCreamMachine.DisplayName: Máquina de Helados
+	IceCube.DisplayName: Cubo de Hielo
+	InfestedCastanet.DisplayName: C4$+@+ñ3+
+	InterstellarShredder.DisplayName: Trituradora Interestelar
+	InterstellarShredder2.DisplayName: Trituradora Interestelar
+	IrradiatedKusarigama.DisplayName: Kusarigama Irradiada
+	IrradiatedOasis.DisplayName: Oasis Irradiado
+	IrradiatedVortex.DisplayName: Vórtice Irradiado
+	LostOasis.DisplayName: Oasis Perdido
+	LuxorBard.DisplayName: Canción de Luxor
+	LuxorHealer.DisplayName: Cura de Luxor
+	MelterAmp.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.MelterAmp.DisplayName}"
+	MelterNote1.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.MelterNote1.DisplayName}"
+	MelterNote2.DisplayName: "{$Mods.CalamityMod.Projectiles.Magic.MelterNote2.DisplayName}"
+	MilkyWay.DisplayName: Vía Láctea
+	MilkyWaySpur.DisplayName: Espolón de la Vía Láctea
+	Noisebringer.DisplayName: Portador de Ruido
+	NoisebringerGoliath.DisplayName: Goliat Portador de Ruido
+	OathofSacrifice.DisplayName: Juramento de Sacrificio
+	OldDukesWisdom.DisplayName: Sabiduría del Viejo Duque
+	OldDukesWisdomTooth.DisplayName: Muela del Juicio del Viejo Duque
+	OmnicidesLaw.DisplayName: Ley de Omnicidio
+	PhoenicianBeak.DisplayName: Pico Fenicio
+	PhoenicianBeakSlice.DisplayName: Tajo del Pico Fenicio
+	PlagueSwarmerMissile.DisplayName: Enjambrador de Plaga
+	PlagueTrace.DisplayName: Rastro de Plaga
+	PledgeofSelflessness.DisplayName: Voto de Altruismo
+	Procioplexon.DisplayName: Procioplexón
+	ProcioplexonSlash.DisplayName: Procioplexón
+	ProcioplexonVortex.DisplayName: Procioplexón
+	ProcioplexonWave.DisplayName: Procioplexón
+	PurgedSoul.DisplayName: Alma Purgada
+	SARS.DisplayName: S.A.R.S.
+	SavingGrace.DisplayName: Más Allá de la Gracia Salvadora
+	ScorchingMaelstrom.DisplayName: Torbellino Abrasador
+	ScrapGuitar.DisplayName: Guitarra de Chatarra
+	ScrapGuitar2.DisplayName: Guitarra de Chatarra
+	ScreamingClam.DisplayName: Almeja Chillona
+	ScreamingClamScream.DisplayName: Almeja Chillona
+	ScuffedKeytar.DisplayName: Keytar Maltrecho
+	SharkBloodInjection.DisplayName: Inyección de Sangre de Tiburón
+	Singularity.DisplayName: Singularidad
+	SingularityStar.DisplayName: Singularidad
+	SlagFurysIntent.DisplayName: Voluntad de la Furia de Escoria
+	SludgeBomb.DisplayName: Bomba de Lodo
+	SoulSplicer.DisplayName: Empalmador de Almas
+	SoulSplicerApparition.DisplayName: Empalmador de Almas
+	SpookyMonth.DisplayName: Mes Espeluznante
+	SpookyMonthBig.DisplayName: Mes Espeluznante
+	StarBirth.DisplayName: Nebulosa
+	StarBirthStar.DisplayName: Estrella Recién Nacida
+	StarCluster.DisplayName: Cúmulo de Estrellas
+	Supercluster.DisplayName: Supercúmulo
+	SuperclusterStar.DisplayName: Supercúmulo
+	SymphonicExoMissile.DisplayName: Misil Exo Sinfónico
+	Syzygy.DisplayName: Sicigia
+	TarragonHeartbeat.DisplayName: Latido Tarragón
+	TarragonQuarterRest.DisplayName: Silencio de Negra Tarragón
+	TectonicCollision.DisplayName: Colisión Tectónica
+	TectonicPlate.DisplayName: Placa Tectónica
+	TidalForce.DisplayName: Fuerza de Marea
+	TidalWave.DisplayName: Ola de Marea
+	TimesOldRoman.DisplayName: Times Old Roman
+	TimesOldTrail.DisplayName: Times Old Roman
+	TherapeuticSludge.DisplayName: Lodo Terapéutico
+	TheWindmill.DisplayName: El Molino de Viento
+	ToxicEightNote.DisplayName: "{$ProjectileName.EightNote}" Tóxica
+	ToxicQuarterNote.DisplayName: "{$ProjectileName.QuarterNote}" Tóxica
+	ToxicTiedEightNote.DisplayName: "{$ProjectileName.TiedEightNote}" Tóxica
+	Transfiguration.DisplayName: Transfiguración
+	Trinity.DisplayName: Trinidad
+	Violince.DisplayName: Violince
+	ViolinceBow.DisplayName: Violince
+	Vivapollum.DisplayName: Vivapollum
+	VivapollumExplosion.DisplayName: Vivapollum
+	Whirlwind.DisplayName: Torbellino
+	WhisperingLeaf.DisplayName: Hoja Susurrante
+	WhisperingTrunk.DisplayName: Tronco Susurrante
+	WilloftheRagnarok.DisplayName: Voluntad del Ragnarök
+	Windward.DisplayName: A Favor del Viento
+	WulfrumSoundWave.DisplayName: Onda Sonora
+	WulfrumWeedWacker.DisplayName: Desmalezadora Wulfrum
+	WulfrumWeedWackerWave.DisplayName: Desmalezadora Wulfrum
+	YharimsJam.DisplayName: Jam de Yharim
+}
+
+Buffs: {
+	AlluringSong: {
+		DisplayName: Canción Seductora
+		Description:
+			'''
+			50% más de velocidad de regeneración de inspiración y alcance de empoderamiento
+			La duración del empoderamiento se extiende 5 segundos más
+			Recibir daño te cura 250 de vida fija, pero elimina Canción Seductora
+			"Para conquistar a algunas elementales"
+			'''
+	}
+
+	AlluringSongCD: {
+		DisplayName: Tiempo de Reutilización de Canción Seductora
+		Description:
+			'''
+			No puedes usar Canción Seductora por un tiempo
+			"Nunca vuelvas a cocinar"
+			'''
+	}
+
+	CalamityBell: {
+		DisplayName: Campana de Calamity
+		Description: Solo está ahí, esperando, amenazante...
+	}
+}
+
+FargoEnchantments: {
+	AtaxiaEnchant:
+		'''
+		Recibir más de 75 de daño genera un oasis que dura 3 segundos
+		El oasis cura vida equivalente a tu curación adicional cada 1/3 de segundo
+		Los golpes críticos sinfónicos hacen que los objetivos estallen en llamas de sulfuro
+		Solo puede ocurrir una erupción y tiene un tiempo de reutilización de 3 segundos por activación
+		'''
+	BloodflareEnchant:
+		'''
+		Presiona la tecla de 'Habilidad de Armadura' para usar la mitad de tu vida e invocar un ritual de curación que curará a los aliados una cantidad equivalente a tu curación adicional
+		Solo puede haber un ritual activo a la vez y esta habilidad no tiene tiempo de reutilización, pero abusar de ella te matará
+		Al hacer esto también obtienes la mejora Canción Seductora por 5 segundos
+		Canción Seductora aumenta la velocidad de regeneración de inspiración y el alcance de empoderamiento en 50%, y la duración del empoderamiento en 5 segundos
+		Recibir daño mientras Canción Seductora está activa te cura 200 de vida fija, pero elimina Canción Seductora
+		'''
+	GodSlayerEnchant:
+		'''
+		Una campana de Calamity flota sobre tu cabeza y suena ocasionalmente mientras atacas
+		Cuando la campana suena, los enemigos a tu alrededor reciben 15000 de daño verdadero y los proyectiles enemigos cercanos son destruidos
+		'''
+	SilvaEnchant: Recibir daño intenso de un solo golpe le otorga a los jugadores con menos vida la mejora Ángel Guardián por 30 segundos
+	TarragonEnchant:
+		'''
+		Generas dos silencios de negra a tu alrededor que curan inspiración al golpear enemigos
+		Ocasionalmente emites un pulso curativo que cura y protege a los aliados una cantidad equivalente a tu curación adicional
+		'''
+}
+
+Configs: {
+	BalanceConfig: {
+		DisplayName: Configuración de Equilibrio
+
+		expensiveDraedonsForge: {
+			Label: Forja de Draedon Costosa
+			Tooltip: La Forja de Draedon requiere materiales raros de Thorium para ser fabricada
+		}
+
+		rogueThrowerMerge: {
+			Label: Fusionar las clases Pícaro y Lanzador
+			Tooltip: Se desactiva automáticamente cuando el mod Ragnarok está instalado
+		}
+
+		generalItemBalanceChanges: {
+			Label: Cambios Generales de Equilibrio de Ítems
+			Tooltip: Habilita cambios de equilibrio variados en los ítems de Thorium
+		}
+
+		showItemChanges: {
+			Label: Mostrar Cambios de Ítems
+			Tooltip: Define si se muestra o no el tooltip "Modificado por" en los ítems cambiados por este mod
+		}
+
+		defenseDamage: {
+			Label: Daño por Defensa en enemigos de Thorium
+			Tooltip: Habilita el daño por defensa para los enemigos de Thorium
+		}
+
+		convertItems: {
+			Label: Convertir ítems de Calamity a sus respectivas clases de Thorium
+			Tooltip:
+				'''
+				Convierte ciertos ítems de Calamity en un ítem de bardo o sanador
+				Podría rediseñar los ítems respectivos para que funcionen mejor con este cambio
+				Ítems modificados:
+				-Arpegio de Anahita -> Instrumento de cuerda, su comportamiento también fue rediseñado
+				-Saxofón Eructante -> Instrumento de metal
+				-Derretidor de Rostros -> Híbrido de instrumento eléctrico-de cuerda, su comportamiento también fue rediseñado
+				-Reliquia de Convergencia -> Hechizo de curación, curación base aumentada para mantenerse a la par de otros hechizos de curación
+				'''
+		}
+
+		bard: {
+			Label: Multiplicador de daño de armas de bardo
+			Tooltip:
+				'''
+				Multiplicador de daño para armas de bardo
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		radiant: {
+			Label: Multiplicador de daño de armas radiantes
+			Tooltip:
+				'''
+				Multiplicador de daño para armas de sanador ofensivo
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		soulEssence: {
+			Label: Multiplicador de esencia del alma
+			Tooltip:
+				'''
+				Multiplicador de esencia del alma otorgada para armas de sanador ofensivo
+				Limitado a 5
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		healing: {
+			Label: Multiplicador de curación
+			Tooltip:
+				'''
+				Multiplicador de curación para hechizos de curación
+				Un valor de 0 significa que solo curará 1 de vida
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+	}
+}

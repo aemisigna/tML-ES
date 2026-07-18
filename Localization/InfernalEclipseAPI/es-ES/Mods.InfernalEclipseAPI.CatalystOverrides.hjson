@@ -1,0 +1,46 @@
+Items: {
+	CoralCrusher.Tooltip:
+		'''
+		4% de daño de conexión por invocación
+		{$Mods.CatalystMod.Tooltips.WhipTooltip}
+		Golpear a un enemigo con la punta incrusta un fragmento de coral
+		Los ataques de los súbditos pueden romper el fragmento de coral, deteniendo su movimiento y provocando 6% de daño de conexión por invocación
+		'''
+	ResonantStriker.Tooltip:
+		'''
+		8% de daño de conexión por invocación
+		{$Mods.CatalystMod.Tooltips.WhipTooltip}
+		Libera orbes de electricidad teledirigidos al golpear
+		Tus súbditos aturden a los enemigos que no sean jefes al golpear
+		'''
+	BlossomsBlessing.Tooltip:
+		'''
+		12% de daño de conexión por invocación
+		{$Mods.CatalystMod.Tooltips.WhipTooltip}
+		Es arrastrada por el viento cargando flores
+		Toca el pétalo más grande para recibir una bendición de regeneración, daño y espinas
+		'Florece, florece, se marchita y se dobla.'
+		'''
+	UnrelentingTorment.Tooltip:
+		'''
+		10% de daño de conexión por invocación
+		{$Mods.CatalystMod.Tooltips.WhipTooltip}
+		Libera una cascada de garras de otro mundo para desgarrar a los enemigos
+		'''
+	Catharsis.Tooltip:
+		'''
+		12% de daño de conexión por invocación
+		{$Mods.CatalystMod.Tooltips.WhipTooltip}
+		Atacar con el látigo cuesta salud
+		Golpear enemigos almacena una carga de sangre. Se pueden almacenar hasta 20 cargas
+		<right> activa las cargas, potenciando temporalmente a Catarsis y restaurando la salud perdida
+		[c/c61b40:La luz purificadora, abandonada y consumida por el dolor,]
+		[c/c61b40:regresó a este reino como sombra aniquiladora.]
+		'''
+}
+
+ArmorSetBonus.IntergelacticRanged:
+	'''
+	Las armas a distancia invocan estrellas con 10% de daño
+	Eres inmune a la Marchitez Astral y tus ataques la infligen
+	'''

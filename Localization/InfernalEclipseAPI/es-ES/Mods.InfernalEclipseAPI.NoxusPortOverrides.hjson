@@ -1,0 +1,6 @@
+Items: {
+	EntropicBar: {
+		DisplayName: Barra Entrópica
+		Tooltip: Una barra de aspecto imponente forjada a partir de pura entropía.
+	}
+}

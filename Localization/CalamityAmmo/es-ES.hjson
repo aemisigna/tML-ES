@@ -1,0 +1,752 @@
+Mods: {
+	CalamityAmmo: {
+		TownNPCMood: {
+			QianXing: {
+				Content: Me llevo bien contigo.
+				NoHome: ¿Tienes alguna habitación libre? No quiero vivir en el mismo cuarto que otros.
+				LoveSpace: Tener suficiente espacio privado me hace sentir muy cómoda. Aunque haga algo a escondidas, nadie me va a encontrar.
+				FarFromHome: Bueno... ¿podrías prestarme tu espejo mágico?
+				DislikeCrowded: Mucha gente anda ocupada, pero no puedo dormir por el ruido.
+				HateCrowded: Sentar cabeza y tener sexo no es una buena actividad.
+				LikeBiome: Este lugar está lleno de peligros y tesoros, me gusta. ¿Estás lista para morir en cualquier momento?
+				LoveBiome: Ni lo sueñes, elegir el bosque es solo por tu propia conveniencia para ir de compras.
+				DislikeBiome: La tormenta de arena de aquí me deja sucia, ¿puedo mudarme a otro lugar?
+				HateBiome: Ninguna gata en su sano juicio saltaría al océano para pescar la cena.
+				LikeNPC: "{NPCName} básicamente no vende chatarra, no está nada mal."
+				LikeNPC_Princess: ¿Por qué me cae bien {NPCName}? La respuesta oficial es: "A todos los NPC les cae bien la princesa." La respuesta privada es: "El bastón de resonancia es demasiado fácil de usar."
+				LoveNPC: "{NPCName} platica bien conmigo, ¿será porque ambas tenemos orejas de animal?"
+				DislikeNPC: Todos los días {NPCName} compite conmigo por clientes y me queda mirando, es bastante incómodo.
+				HateNPC: "¡{NPCName}, ese mocoso malvado de nacimiento, no merece vivir junto a mí!"
+			}
+		}
+
+		Projectiles: {
+			Magic: {
+				HydrothermicExplosion.DisplayName: Explosión Hidrotérmica
+				WulfrumBoltRanged.DisplayName: Perno de Wulfrum
+			}
+
+			Typeless: {
+				DivineGeodeMeteor.DisplayName: Meteoro de Geoda Divina
+				DivineGeodeMeteor2.DisplayName: Meteoro de Geoda Divina
+			}
+
+			ArcaneArrow_Proj.DisplayName: Flecha Arcana
+			Crabulon_Spore.DisplayName: Espora de Crabulon
+			HealOrb.DisplayName: Orbe de Curación
+			RadioAura.DisplayName: Aura de Rayo Rojo
+			Shroomere.DisplayName: Shroomere
+			Spore1.DisplayName: Nube de Esporas
+			Spore2.DisplayName: Nube de Esporas
+			Spore3.DisplayName: Nube de Esporas
+			HydrothermicArrow_Proj.DisplayName: Flecha Hidrotérmica
+			HydrothermicExplosion.DisplayName: Explosión Hidrotérmica
+			HydrothermicBullet_Proj.DisplayName: Bala Hidrotérmica
+			HydrothermicVolcano.DisplayName: Volcán Hidrotérmico
+			VolcanicFireballRanged.DisplayName: Bola de Fuego Volcánica
+			MirageArrow_Proj.DisplayName: Flecha Espejismo
+			MirageArrow_Proj2.DisplayName: Flecha Espejismo
+			SoulBullet_Proj.DisplayName: Espíritu Fantasma
+			Chengying_Fumo_Proj.DisplayName: Fumo de Chengying
+			_BloodBullet.DisplayName: Bala de Sangre
+			_DesertFeatherArrow.DisplayName: Flecha de Pluma del Desierto
+			_PearlArrow.DisplayName: Flecha de Perla
+			_PearlBullet.DisplayName: Bala de Perla
+			_PrismBullet.DisplayName: Bala de Prisma
+			_RottenBullet.DisplayName: Bala Podrida
+			_RottenBullet2.DisplayName: Bala Podrida
+			_SeaBubble.DisplayName: Corriente de Agua
+			_VictideArrow.DisplayName: Flecha de Victide
+			_VictideBullet.DisplayName: Bala de Victide
+			_WulfArrow.DisplayName: Flecha de Wulfrum
+			_AstralArrow.DisplayName: Flecha Astral
+			_AstralBullet.DisplayName: Bala Astral
+			_AstralMine.DisplayName: Mina Astral
+			_AstralShot.DisplayName: Láser Astral
+			_AstralStar.DisplayName: Estrella Astral
+			_AstralStar2.DisplayName: Estrella Astral
+			_DazzlingAstralArrow.DisplayName: Flecha Astral Deslumbrante
+			_DazzlingAstralBullet.DisplayName: Bala Astral Deslumbrante
+			_Flower.DisplayName: Flor Perenne
+			_FossilArrow.DisplayName: Flecha Fósil
+			_FossilBullet.DisplayName: Bala Fósil
+			_FossilShard.DisplayName: Fragmento Fósil
+			_FossilShard2.DisplayName: Fragmento Fósil
+			_NapalmBullet.DisplayName: Bala de Napalm
+			_Seed.DisplayName: Semilla Perenne
+			_WeakAstralArrow.DisplayName: Bala Astral Débil
+			_WeakAstralBullet.DisplayName: Bala Astral Débil
+			FakeSeaStar1.DisplayName: Estrella Acuática
+			FakeSeaStar2.DisplayName: Estrella Quebradiza
+			_ElementalArrow.DisplayName: Flecha Elemental
+			_ElementalBullet.DisplayName: Zanahoria Celestial Triturada
+			_GoldenFeatherArrow.DisplayName: Flecha de Pluma Dorada
+			_RedLightning.DisplayName: Rayo Rojo
+			HealingRain.DisplayName: Lluvia Curativa
+			HealingStarcloud.DisplayName: Nebulosa Curativa
+			LightningVortex.DisplayName: Vórtice de Rayos
+			MetorSolar.DisplayName: Bola de Fuego Solar
+			WulfrumBoltRanged.DisplayName: Perno de Wulfrum
+			AeroGrenade.DisplayName: Aerocohete
+			AeroMine.DisplayName: Aerocohete
+			AeroRocket.DisplayName: Aerocohete
+			AeroSnowman.DisplayName: Aerocohete
+			Mushroom_ClusterRocketI.DisplayName: Hongo
+			Mushroom_ClusterRocketII.DisplayName: Hongo
+			Mushroom_DryRocket.DisplayName: Hongo
+			Mushroom_HoneyRocket.DisplayName: Hongo
+			Mushroom_LavaRocket.DisplayName: Hongo
+			Mushroom_MiniNukeRocketI.DisplayName: Hongo
+			Mushroom_MiniNukeRocketII.DisplayName: Hongo
+			Mushroom_RocketI.DisplayName: Hongo
+			Mushroom_RocketII.DisplayName: Hongo
+			Mushroom_RocketIII.DisplayName: Hongo
+			Mushroom_RocketIV.DisplayName: Hongo
+			Mushroom_WetRocket.DisplayName: Hongo
+			Sand_Rocket.DisplayName: Misil Perforador de Tierra
+			SandGrenade.DisplayName: Misil Perforador de Tierra
+			SandMine.DisplayName: Misil Perforador de Tierra
+			SandSnowman.DisplayName: Misil Perforador de Tierra
+			Spike.DisplayName: Púa
+			SpikyBall.DisplayName: Bola de Púas
+			ThePack_ClusterRocketI.DisplayName: Misil de la Manada
+			ThePack_ClusterRocketII.DisplayName: Misil de la Manada
+			ThePack_DryRocket.DisplayName: Misil de la Manada
+			ThePack_HoneyRocket.DisplayName: Misil de la Manada
+			ThePack_LavaRocket.DisplayName: Misil de la Manada
+			ThePack_MiniNukeRocketI.DisplayName: Misil de la Manada
+			ThePack_MiniNukeRocketII.DisplayName: Misil de la Manada
+			ThePack_RocketI.DisplayName: Misil de la Manada
+			ThePack_RocketII.DisplayName: Misil de la Manada
+			ThePack_RocketIII.DisplayName: Misil de la Manada
+			ThePack_RocketIV.DisplayName: Misil de la Manada
+			ThePack_SandRocket.DisplayName: Misil de la Manada
+			ThePack_WetRocket.DisplayName: Misil de la Manada
+			ThePackLittle_ClusterRocketI.DisplayName: Minimisil de la Manada
+			ThePackLittle_ClusterRocketII.DisplayName: Minimisil de la Manada
+			ThePackLittle_DryRocket.DisplayName: Minimisil de la Manada
+			ThePackLittle_HoneyRocket.DisplayName: Minimisil de la Manada
+			ThePackLittle_LavaRocket.DisplayName: Minimisil de la Manada
+			ThePackLittle_MiniNukeRocketI.DisplayName: Minimisil de la Manada
+			ThePackLittle_MiniNukeRocketII.DisplayName: Minimisil de la Manada
+			ThePackLittle_RocketI.DisplayName: Minimisil de la Manada
+			ThePackLittle_RocketII.DisplayName: Minimisil de la Manada
+			ThePackLittle_RocketIII.DisplayName: Minimisil de la Manada
+			ThePackLittle_RocketIV.DisplayName: Minimisil de la Manada
+			ThePackLittle_WetRocket.DisplayName: Minimisil de la Manada
+			_AstralFlame.DisplayName: Cristal Astral
+			Explode.DisplayName: Explotar
+			GrapeProj.DisplayName: Uva
+			GrapeShot.DisplayName: Uva
+			Summon.VolcanicFireballRanged.DisplayName: Bola de Fuego Volcánica
+			StcikyChewingGum.DisplayName: Chicle Pegajoso
+			_DazzlingAstralArrowNew.DisplayName: Flecha Astral Deslumbrante
+			DivineArrow_Proj.DisplayName: Flecha Divina
+			DivineGeodeMeteor.DisplayName: Meteoro de Geoda Divina
+			DivineGeodeMeteor2.DisplayName: Meteoro de Geoda Divina
+			DivineBullet_Proj.DisplayName: Bala Divina
+			DeathMarkRound.DisplayName: Bala Marcadora
+			IceBomb.DisplayName: Bomba de Hielo
+			IceRain.DisplayName: Lluvia de Hielo
+			BrimstoneHellblast.DisplayName: Explosión Infernal de Azufre
+			ElectricStream.DisplayName: Sobrecarga Eléctrica
+			seaPrismShard.DisplayName: Fragmento de Prisma Marino
+			rottenBulletProj.DisplayName: Bala Podrida
+		}
+
+		Items: {
+			ArcaneQuiver: {
+				DisplayName: Carcaj Arcano
+				Tooltip:
+					'''
+					El daño de tus flechas se ve afectado por la Enfermedad del Maná
+					Te permite consumir maná para encantar flechas, causando daño extra
+					El bonus de daño se basa en el maná restante
+					Activar la visibilidad reemplazará cualquier flecha por una flecha arcana
+					Aumenta enormemente la velocidad de las flechas
+					20% de probabilidad de no consumir flechas
+					"Los magos conjuraban flechas arcanas para vendérselas a los cazadores, hasta que estos aprendieron la magia suficiente para hacerlo ellos mismos."
+					'''
+			}
+
+			EvilMushroom: {
+				DisplayName: Hongo Maligno
+				Tooltip: Tanto tú como los enemigos que golpees reciben Marcado para Morir
+			}
+
+			FastHolster: {
+				DisplayName: Funda Rápida
+				Tooltip:
+					'''
+					Reduce el tiempo de uso de las armas de fuego en 10%
+					Reduce la probabilidad de golpe crítico a distancia en 4%
+					"No te preocupes por tu puntería. Dispara lo suficiente y te garantizo que algo va a impactar."
+					'''
+			}
+
+			GrapeLauncher: {
+				DisplayName: Lanzador de Cartuchos Colgantes
+				Tooltip: Dispara una serie de balas tras golpear a un enemigo 8 veces seguidas
+			}
+
+			InfectedCrabGill: {
+				DisplayName: Branquia de Cangrejo Infectada
+				Tooltip:
+					'''
+					Invoca esporas con el tiempo que dañan a los enemigos
+					Las armas de fuego tienen probabilidad de disparar una ronda fúngica extra que se divide al morir
+					Reduce la regeneración de vida en 1
+					'''
+			}
+
+			LifeMushroom: {
+				DisplayName: Hongo Vivo
+				Tooltip: Crecen hongos aleatoriamente a tu alrededor; recógelos para restaurar 15 de vida
+			}
+
+			MarvelousMycelium: {
+				DisplayName: Micelio Maravilloso
+				Tooltip:
+					'''
+					6% de aumento al daño a distancia y 9% de aumento a la probabilidad de golpe crítico a distancia
+					Al recibir daño pierdes estos beneficios por un breve tiempo y obtienes Reblandecido
+					"La muerte continúa hacia la vida, y la vida alcanza la muerte pronto"
+					'''
+			}
+
+			ModifiedCoil: {
+				DisplayName: Bobina Modificada
+				Tooltip:
+					'''
+					7% de aumento al daño a distancia
+					Aumenta ligeramente la velocidad de los proyectiles a distancia
+					"Cables expuestos, manéjalo con cuidado"
+					'''
+			}
+
+			MushroomUnitedNations: {
+				DisplayName: Naciones Unidas del Hongo
+				Tooltip:
+					'''
+					Reduce la defensa en 5 y la regeneración de vida en 2, 15% de aumento al daño a distancia y 5% de aumento a la probabilidad de golpe crítico a distancia
+					El efecto anterior se revierte brevemente al recibir daño
+					Invoca esporas con el tiempo que dañan a los enemigos
+					Las armas de fuego tienen probabilidad de disparar una ronda fúngica extra que se divide al morir
+					Al recibir daño pierdes estos beneficios por un breve tiempo y obtienes Reblandecido
+					Presiona [KEY] para activar el efecto Alucinado
+					Un rifle de francotirador con forma de hongo flota sobre tu cabeza, disparando al enemigo más lejano dentro de rango
+					Reduce la probabilidad de que los enemigos te ataquen a ti
+					"¿Por qué siento que cada vez somos menos miembros?"
+					'''
+			}
+
+			OdddMushroom: {
+				DisplayName: Hongo Extraño
+				Tooltip:
+					'''
+					Presiona [KEY] para activar el efecto Alucinado
+					"No siempre puedes confiar en lo que ves."
+					'''
+			}
+
+			SuperCoil: {
+				DisplayName: Bobina de Adamantita
+				Tooltip:
+					'''
+					Aumenta la probabilidad de golpe crítico a distancia según la velocidad de uso del arma equipada
+					Aumenta moderadamente la velocidad de los proyectiles a distancia
+					'''
+			}
+
+			TitaniumCoil: {
+				DisplayName: Bobina de Titanio
+				Tooltip:
+					'''
+					Aumenta el daño a distancia según la velocidad de uso del arma equipada
+					Aumenta moderadamente la velocidad de los proyectiles a distancia
+					'''
+			}
+
+			WulfrumCoil: {
+				DisplayName: Bobina de Wulfrum
+				Tooltip:
+					'''
+					7% de aumento al daño a distancia
+					Aumenta ligeramente la velocidad de los proyectiles a distancia
+					'''
+			}
+
+			AstralArrow: {
+				DisplayName: Flecha Astral
+				Tooltip: Derrota a los terrores entre las estrellas para completar nuestra propia evolución
+			}
+
+			AstralBullet: {
+				DisplayName: Bala Astral
+				Tooltip: Derrota a los terrores entre las estrellas para completar nuestra propia evolución
+			}
+
+			DazzlingAstralArrow: {
+				DisplayName: Flecha Astral Deslumbrante (Antigua)
+				Tooltip: ""
+			}
+
+			DazzlingAstralBullet: {
+				DisplayName: Bala Astral Deslumbrante
+				Tooltip: ¡Planetas y estrellas! ¡Poder para tomar!
+			}
+
+			FossilArrow: {
+				DisplayName: Flecha Fósil
+				Tooltip:
+					'''
+					El fósil sólido destroza la defensa del enemigo
+					El fósil corroído causa envenenamiento sulfúrico
+					'''
+			}
+
+			FossilBullet: {
+				DisplayName: Bala Fósil
+				Tooltip:
+					'''
+					El fósil sólido destroza la defensa del enemigo
+					El fósil corroído causa envenenamiento sulfúrico
+					'''
+			}
+
+			HydrothermicArrow: {
+				DisplayName: Flecha Hidrotérmica
+				Tooltip:
+					'''
+					Libera una explosión hidrotérmica
+					"¿Te atreves a golpear mi escudo con tu lanza? ¡Eso va a terminar contigo hecho pedazos!"
+					'''
+			}
+
+			HydrothermicBullet: {
+				DisplayName: Bala Hidrotérmica
+				Tooltip:
+					'''
+					Invoca un volcán hidrotérmico bajo el enemigo
+					El volcán hidrotérmico emite un pilar de fuego y llamas hidrotérmicas
+					"¡Mi cuerpo arde a más de 1.400 grados!"
+					'''
+			}
+
+			NapalmBullet: {
+				DisplayName: Bala de Napalm
+				Tooltip:
+					'''
+					¡Causa Embadurnado y En Llamas!
+					"Jajaja, ¡un poco de fuego nunca le hizo daño a nadie!"
+					'''
+			}
+
+			PerennialSeed: {
+				DisplayName: Semilla Perenne
+				Tooltip: Prosperidad duradera
+			}
+
+			WeakAstralArrow: {
+				DisplayName: Flecha Astral Débil
+				Tooltip: Derrota a un Mech Behemoth infectado por lo Astral para evolucionar
+			}
+
+			WeakAstralBullet: {
+				DisplayName: Bala Astral Débil
+				Tooltip: Derrota a un Mech Behemoth infectado por lo Astral para evolucionar
+			}
+
+			ElementalBullet: {
+				DisplayName: Zanahoria Celestial Triturada
+				Tooltip:
+					'''
+					Inflige Mezcla Elemental
+					Golpear a un enemigo hace que los siguientes proyectiles del mismo tipo reciban un bonus de daño del 100%, que decae linealmente a 0 en 0.25 segundos
+					'''
+			}
+
+			GoldenFeatherArrow: {
+				DisplayName: Flecha de Pluma Dorada
+				Tooltip:
+					'''
+					Puede atraer algo pequeño
+					Invoca un rayo rojo al infligir golpes no críticos
+					'''
+			}
+
+			MirageArrow: {
+				DisplayName: Flecha Espejismo
+				Tooltip: Otras dos, otras dos, otras dos, y otras dos más
+			}
+
+			SoulBullet: {
+				DisplayName: Bala de Alma
+				Tooltip:
+					'''
+					Se dirige hacia el enemigo más cercano, perforando tres veces con daño decreciente en cada golpe
+					"Hecha al comprimir almas miserables dentro de casquillos, puede atraer a esas mismas almas lastimeras."
+					'''
+			}
+
+			BloodBullet: {
+				DisplayName: Bala de Sangre
+				Tooltip:
+					'''
+					Inflige Sangre Ardiente
+					Absorbe vida de los enemigos, curándote por el 20% del daño infligido
+					"¿Pero a qué costo?"
+					'''
+			}
+
+			DesertFeatherArrow: {
+				DisplayName: Flecha de Pluma del Desierto
+				Tooltip: "Cuando la pluma todavía estaba en el buitre, no era tan rápida"
+			}
+
+			DesertFeather: {
+				DisplayName: Pluma del Desierto
+				Tooltip: ""
+			}
+
+			ElectricArrow: {
+				DisplayName: Flecha Eléctrica
+				Tooltip: Persiguiendo la tormenta
+			}
+
+			PearlArrow: {
+				DisplayName: Flecha de Perla
+				Tooltip: Invoca un fragmento de perla al impactar
+			}
+
+			PearlBullet: {
+				DisplayName: Bala de Perla
+				Tooltip: Cubre a los enemigos con un brillo nacarado calmante, ralentizando sus movimientos
+			}
+
+			RottenBullet: {
+				DisplayName: Bala Podrida
+				Tooltip:
+					'''
+					Inflige Podredumbre Cerebral
+					Matar a un enemigo hace que explote en cuatro disparos
+					'''
+			}
+
+			SPBullet: {
+				DisplayName: Bala de Prisma Marino
+				Tooltip: Crea fragmentos de prisma al impactar
+			}
+
+			VictideArrow: {
+				DisplayName: Flecha de Victide
+				Tooltip:
+					'''
+					Se mueve más rápido bajo el agua
+					Golpear a un enemigo invoca una Marea de la Victoria
+					'''
+			}
+
+			VictideBullet: {
+				DisplayName: Bala de Victide
+				Tooltip:
+					'''
+					Se mueve más rápido bajo el agua
+					Golpear a un enemigo invoca una Marea de la Victoria
+					'''
+			}
+
+			WulfrumArrow: {
+				DisplayName: Flecha de Wulfrum
+				Tooltip:
+					'''
+					"Es demasiado pesado para hacer flechas."
+					"¿En serio?"
+					'''
+			}
+
+			WulfrumBullet: {
+				DisplayName: Bala de Chatarra de Wulfrum
+				Tooltip:
+					'''
+					Irradia rayos de energía de Wulfrum con una ligera capacidad de rastreo
+					El rayo tiene 10 de penetración de armadura base
+					"Último Hamon, hijo."
+					'''
+			}
+
+			Chengying_Fumo: {
+				DisplayName: Fumo de Chengying
+				Tooltip: Debes entender que la oscuridad no se puede tratar con delicadeza, debemos usar fuego.
+				TooltipDay:
+					'''
+					¡Un brindis por todos los que buscaron matarme!
+					Fallaron.
+					'''
+			}
+
+			ChewingGum: {
+				DisplayName: Chicle
+				Tooltip:
+					'''
+					Aumenta el rango de visión para las armas de fuego (clic derecho para alejar)
+					Al sostener un arma de fuego, muestra una línea de visión y reemplaza el cursor con un punto de mira
+					'''
+			}
+
+			ChewingGun: {
+				DisplayName: Pistola de Chicle
+				Tooltip: apenas utilizable
+			}
+
+			HardTack: {
+				DisplayName: Galleta Marinera
+				Tooltip:
+					'''
+					{$CommonItemTooltip.MajorStats}
+					"Con solo una mirada quedas lleno."
+					'''
+			}
+
+			HardTackChest: {
+				DisplayName: Cofre Áurico
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			KnowledgeAuric: {
+			}
+
+			SpectreRifle: {
+				DisplayName: Rifle Espectral
+				Tooltip: Convierte balas de mosquete en poderosas almas homing
+			}
+
+			Aerocket: {
+				DisplayName: Aerocohete
+				Tooltip: Clic derecho para cambiar los proyectiles a minas flotantes
+			}
+
+			BeenadeLauncher: {
+				DisplayName: Lanzador de Granabejas
+				Tooltip: Usa granadas como munición
+			}
+
+			MushroomMortar: {
+				DisplayName: Mortero de Hongo
+				Tooltip: Vuelve a guardarlo rápido, el autor todavía no lo ha terminado
+			}
+
+			PlaguenadeLauncher: {
+				DisplayName: " Lanzador de Plaganadas"
+				Tooltip: Usa granadas como munición
+			}
+
+			SandRocket: {
+				DisplayName: Misil Perforador de Tierra
+				Tooltip:
+					'''
+					Viaja a través de los bloques, dirigiéndose hacia los enemigos
+					Se mueve más rápido en la arena
+					'''
+			}
+
+			SandWorm: {
+				DisplayName: Perro de Arena
+				Tooltip:
+					'''
+					Dispara una bola de púas quebradiza
+					Cada seis ataques disparará ráfagas de arena en su lugar
+					'''
+			}
+
+			Paper: {
+				DisplayName: Papel
+				Tooltip: ""
+			}
+
+			Paper2: {
+				DisplayName: Papel de Bambú
+				Tooltip: ""
+			}
+
+			DazzlingAstralArrowNew: {
+				DisplayName: Flecha Astral Deslumbrante
+				Tooltip:
+					'''
+					"¡Mira al cielo! ¡Los astros se alinean!"
+					"¿Estás segura de eso?"
+					'''
+			}
+
+			DivineArrow: {
+				DisplayName: Flecha Divina
+				Tooltip: Invoca un meteorito más emocionante que el de Elysian que golpea al desafortunado
+			}
+
+			DivineBullet: {
+				DisplayName: Bala Divina
+				Tooltip: Causa una explosión de Fuego Sagrado más violenta
+			}
+
+			Lore: {
+				KnowledgeAuric: {
+					DisplayName: Conocimiento Áurico
+					Tooltip: ""
+				}
+			}
+
+			ElementalArrow: {
+				DisplayName: Flecha Elemental
+				Tooltip:
+					'''
+					Inflige Mezcla Elemental
+					Cada enemigo perforado aumenta el daño en 10%, hasta 4 veces
+					'''
+			}
+
+			DeathMarkMagnum: {
+				DisplayName: Magnum Marca de Muerte
+				Tooltip:
+					'''
+					Los disparos reducen la protección del enemigo
+					"¿Te apetece bailar con la muerte?"
+					'''
+			}
+
+			FrigidCoil: {
+				DisplayName: Bobina Gélida
+				Tooltip:
+					'''
+					Reduce la velocidad a distancia en 10%
+					Aumenta moderadamente la velocidad de los proyectiles a distancia
+					Los proyectiles a distancia causarán Quemadura de Hielo
+					Coloca bombas de hielo alrededor del enemigo que golpees
+					Este efecto tiene un tiempo de reutilización de 5 segundos
+					'''
+			}
+
+			ScorchingCoil: {
+				DisplayName: Bobina Abrasadora
+				Tooltip:
+					'''
+					Aumenta la probabilidad de golpe crítico a distancia en 7%
+					Aumenta moderadamente la velocidad de los proyectiles a distancia
+					Los proyectiles a distancia causarán Llamas de Azufre
+					Dispara una ráfaga en forma de arco de 6 Explosiones Infernales de Azufre cada 6 golpes
+					Los proyectiles que pueden dañar a los enemigos varias veces solo se contarán una vez
+					'''
+			}
+
+			AutoCalculationCoil: {
+				DisplayName: Bobina de Autocálculo de Draedon
+				Tooltip:
+					'''
+					Aumenta moderadamente la velocidad de los proyectiles a distancia
+					Los proyectiles a distancia perseguirán automáticamente a los enemigos
+					Presiona [KEY] para cambiar entre distintos algoritmos de búsqueda
+					'''
+			}
+
+			TransformerCoil: {
+				DisplayName: Bobina Transformadora
+				Tooltip:
+					'''
+					Aumenta significativamente la velocidad de los proyectiles a distancia
+					Los proyectiles a distancia causarán Electrificado, eres inmune a Electrificado
+					Una descarga eléctrica destellará en los últimos dos enemigos que golpees
+					'''
+			}
+
+			AuricBullet: {
+				DisplayName: Bala Áurica
+				Tooltip: ""
+			}
+		}
+
+		Buffs: {
+			Focus: {
+				DisplayName: Enfoque
+				Description: Puedo hacer esto todo el día
+			}
+
+			Heal: {
+				DisplayName: Curación
+				Description:
+					'''
+					Velocidad de regeneración de vida aumentada
+					Hoy tienes suerte, gusano... No, no es nada. Escuchaste mal
+					'''
+			}
+
+			tideOfVictory: {
+				DisplayName: Marea de la Victoria
+				Description: Aumenta el daño a distancia, probabilidad de golpe crítico, defensa, movilidad, reducción de daño y regeneración de vida
+			}
+		}
+
+		NPCs: {
+			QianXing: {
+				TownNPCMood: {
+					Content: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.Content}"
+					NoHome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.NoHome}"
+					FarFromHome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.FarFromHome}"
+					LoveSpace: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LoveSpace}"
+					DislikeCrowded: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.DislikeCrowded}"
+					HateCrowded: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.HateCrowded}"
+					LoveBiome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LoveBiome}"
+					LikeBiome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LikeBiome}"
+					DislikeBiome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.DislikeBiome}"
+					HateBiome: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.HateBiome}"
+					LoveNPC: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LoveNPC}"
+					LikeNPC: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LikeNPC}"
+					DislikeNPC: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.DislikeNPC}"
+					HateNPC: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.HateNPC}"
+					LikeNPC_Princess: "{$Mods.CalamityAmmo.TownNPCMood.QianXing.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+
+				DisplayName: Traficante de Munición
+			}
+		}
+
+		Bestiary.QianXing: Una chica gata que te vende munición, tiene una apariencia adorable y precios accesibles. Con suficiente dinero incluso puedes intentar comprarla a ella misma (siempre y cuando no te maten primero con un hacha gigante).
+		QX: Estelar
+		Glove: Efectos similares también se aplican al ranger
+
+		Keybinds: {
+			Odd.DisplayName: Alucinado
+			autoCoil.DisplayName: Algoritmo de Búsqueda Automática
+		}
+
+		sld: Búsqueda Automática: el enemigo con menor defensa
+		shd: Búsqueda Automática: el enemigo con mayor defensa
+		selectOff: Búsqueda Automática: desactivada
+		selectLowLife: Búsqueda automática: el enemigo con menos vida
+		selectLowLP: Búsqueda automática: el enemigo con menor porcentaje de vida
+		selectNearPlayer: Búsqueda Automática: el enemigo más cercano al jugador
+		selectNearMouse: Búsqueda Automática: el enemigo más cercano a la posición del ratón
+		selectLowDefense: Búsqueda Automática: el enemigo más cercano a la posición del ratón
+		selectHighDef: Búsqueda Automática: el enemigo con mayor defensa
+		Homeless1: Hmm... si puedes verme, debes ser un ranger!
+		Homeless2: No puedo creer que ni siquiera tengas una habitación, ¿ni siquiera puedes construir una prisión básica para NPC? Aughhhhhhhh
+		Any1: ¿Por qué cargo esta hacha? Porque solía ser un hacha de batalla divina con 44 de daño!
+		Any2: Si empiezas a repasar las conversaciones de los NPC, te sugiero que busques a alguien para que juegue contigo en línea.
+		Any3: ¿Se te acabaron los materiales de munición desde que llegué aquí?
+		Any4: No he comido en dos minutos. Tengo tanta hambre... ¿Tienes algo de comer?
+		Day1: Administrar un servidor es realmente agotador, como dueño tienes que resolver todos los problemas.
+		Day2: Mi costumbre es nombrar al personaje como "Qianxing" xx Generación cada vez que empiezo una partida nueva, ahora se estima que va por la generación 25.
+		Day3: Tengo 20.000 de vida, sin ningún accidente puedo vivir hasta que te gradúes.
+		Day4: No toques mi cola, es de mala educación.
+		Night1: ¿Qué quieres que haga de noche? Los noctámbulos tampoco pueden soportar tus problemas.
+		Night2: Si fuera yo, elegiría usar el reloj de sol mágico en lugar de quedarme despierta de noche sin hacer nada.
+		Night3: Estrellas fugaces... Buen material, con 300 debería alcanzar.
+		Night4: ¡No toques eso ahí!
+		BM1: ¡Apúrate y mata monstruos! ¡No pierdas el tiempo aquí!
+		BM2: ¿Cuántos orbes de sangre has conseguido?
+		Party: Un evento inútil... lo único de valor es el pastel.
+		HateAnger1: Ira
+		HateAnger2: No me cae bien este niño, tengo que asignarle una prisión de alto nivel.
+		Goblin1: Por suerte aquí es Calamity, si no
+		Goblin2: el Chatarrero Goblin te vaciaría la billetera.
+	}
+}

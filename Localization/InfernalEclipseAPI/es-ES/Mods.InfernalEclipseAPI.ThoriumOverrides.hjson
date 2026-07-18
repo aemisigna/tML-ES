@@ -1,0 +1,604 @@
+Buffs: {
+	NinjaBuff.Description: La velocidad de lanzamiento aumenta en un 20%, y la probabilidad de golpe crítico de lanzamiento aumenta en un 10%
+	BloodRush.Description: 15% de velocidad de picar aumentada
+}
+
+Items: {
+	CapeoftheSurvivor: {
+		DisplayName: Capa del Superviviente
+		Tooltip:
+			'''
+			'La propia tela de esta capa ha sido diseñada para guiarte a través de los días más difíciles'
+			Ganas rápidamente hasta un 15% de reducción de daño con el tiempo
+			Recibir un golpe reduce brevemente esta bonificación a -10% de reducción de daño
+			Mientras esta bonificación esté por encima de 0%, ganas hasta 2 de recuperación de vida
+			'''
+	}
+
+	/*
+	ScryingGlass: {
+	DisplayName: Scrying Glass
+	Tooltip: Pressing the '{$Keybinds.AccessoryAbility.DisplayName}' key will toggle an increased range of view
+	}
+	*/
+	
+	ShootingStarHat.SetBonus:
+		'''
+		Las potenciaciones sinfónicas duran 6 segundos más
+		Cada potenciación única que tengas aumenta tu daño sinfónico en un 2,5%
+		Cada potenciación única que tengas aumenta tu regeneración de inspiración en un 2%
+		'''
+
+	SoulofPlight: {
+		DisplayName: Alma de la Aflicción
+		Tooltip: "'La esencia de las criaturas malditas'"
+	}
+
+	SoulofPlightinaBottle: {
+		DisplayName: Alma de Aflicción en Botella
+		Tooltip: ""
+	}
+
+	KeyofPlight: {
+		DisplayName: Llave de Aflicción
+		Tooltip: "'Cargada con la esencia de muchas almas'"
+	}
+
+	MasterMarksmansScouter.Tooltip:
+		'''
+		'La pólvora eliminará a los débiles'
+		El enemigo más cercano es marcado y recibe 10% más de daño de todas las fuentes
+		Tu daño a distancia aplica llamas malditas a los enemigos
+		'''
+	AssassinsGuard.Tooltip:
+		'''
+		16% de daño a distancia aumentado
+		15% de probabilidad de golpe crítico a distancia aumentada
+		25% de probabilidad de no consumir munición reducida
+		'''
+
+	Kinetoscythe: {
+		DisplayName: Cineto-guadaña
+		Tooltip:
+			'''
+			Hace girar rápidamente una guadaña de alta tecnología a tu alrededor
+			<right> para generar una guadaña de energía giratoria estacionaria
+			Gira la guadaña mientras la guadaña de energía está activa para hacer que rastree a los enemigos
+			'''
+	}
+
+	BlackMIDI: {
+		DisplayName: MIDI Negro
+		Tooltip:
+			'''
+			Libera rápidamente un océano de ruido hacia tu cursor
+			El ruido amarillo sana al usuario por 0,5% del daño infligido
+			'''
+	}
+
+	DreamCatcher: {
+		DisplayName: Atrapasueños
+		Tooltip:
+			'''
+			Invoca hasta un atrapasueños en la ubicación del cursor
+			Permanecer dentro del atrapasueños te sanará 20% de la vida máxima si recibes daño fatal
+			Los jugadores revividos tendrán estadísticas temporalmente reducidas y no podrán revivir de nuevo durante 2 minutos
+			'Para atrapar y acunar las esperanzas del mundo...'
+			'''
+	}
+
+	HereticBreaker: {
+		DisplayName: Rompeherejes
+		Tooltip: Roba 3 de vida
+	}
+
+	CrystalHoney: {
+		DisplayName: Miel Cristalina
+		Tooltip:
+			'''
+			Vida máxima aumentada en 20
+			5% de daño radiante aumentado
+			5% de probabilidad de golpe crítico radiante aumentada
+			'''
+	}
+
+	DarkGlaze: {
+		DisplayName: Glaseado Oscuro
+		Tooltip:
+			'''
+			'Diabólicamente dulce'
+			Potencia ciertos ataques radiantes con energía oscura
+			Vida máxima aumentada en 20
+			10% de daño radiante aumentado
+			5% de probabilidad de golpe crítico radiante aumentada
+			'''
+	}
+
+	DemonTongue: {
+		DisplayName: Lengua Demoníaca
+		Tooltip:
+			'''
+			Potencia ciertos ataques radiantes con energía oscura
+			10% de daño radiante aumentado
+			Reduce a la mitad los costos de vida radiante pero no su efecto de transferencia de vida
+			'''
+	}
+
+	ArchDemonCurse: {
+		DisplayName: Maldición del Archidemonio
+		Tooltip:
+			'''
+			Potencia ciertos ataques radiantes con energía oscura
+			Vida máxima aumentada en 20
+			10% de velocidad de lanzamiento radiante aumentada
+			12% de daño radiante aumentado
+			5% de probabilidad de golpe crítico radiante aumentada
+			'''
+	}
+
+	FlightMask.Tooltip:
+		'''
+		2% de daño de lanzamiento aumentado
+		5% de probabilidad de golpe crítico de lanzamiento aumentada
+		'El cielo es tu campo de juego'
+		'''
+	FlightMail.Tooltip:
+		'''
+		3% de daño de lanzamiento aumentado
+		'El cielo es tu campo de juego'
+		'''
+
+	BronzeHelmet: {
+		DisplayName: Casco de Bronce
+		Tooltip:
+			'''
+			6% de probabilidad de golpe crítico de lanzamiento aumentada
+			10% de velocidad de armas arrojadizas aumentada
+			'''
+	}
+
+	BronzeBreastplate: {
+		DisplayName: Coraza de Bronce
+		Tooltip: 10% de daño de lanzamiento aumentado
+	}
+
+	BronzeGreaves: {
+		DisplayName: Grebas de Bronce
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			10% de velocidad de movimiento aumentada
+			'''
+	}
+
+	PlagueDoctorsMask: {
+		DisplayName: Máscara del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa pócima estarás preparando?'
+			5% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 1
+			'''
+	}
+
+	PlagueDoctorsGarb: {
+		DisplayName: Atuendo del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa pócima estarás preparando?'
+			15% de daño de lanzamiento aumentado
+			10% de velocidad de armas arrojadizas aumentada
+			'''
+	}
+
+	PlagueDoctorsLeggings: {
+		DisplayName: Leotardos del Doctor de la Peste
+		Tooltip:
+			'''
+			'¿Qué asquerosa pócima estarás preparando?'
+			10% de daño de lanzamiento aumentado
+			10% de probabilidad de golpe crítico de armas arrojadizas aumentada
+			'''
+	}
+
+	FungusHat: {
+		DisplayName: Gorro Fúngico
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 1
+			'''
+	}
+
+	FungusGuard: {
+		DisplayName: Guardián Fúngico
+		Tooltip: 10% de daño de lanzamiento aumentado
+	}
+
+	HallowedGuise: {
+		DisplayName: Disfraz Sagrado
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			8% de probabilidad de golpe crítico de lanzamiento aumentada
+			'''
+	}
+
+	LichCarapace: {
+		DisplayName: Caparazón del Liche
+		Tooltip:
+			'''
+			'Abraza la muerte...'
+			15% de daño de lanzamiento aumentado
+			30% de velocidad de lanzamiento aumentada
+			'''
+	}
+
+	LichTalon: {
+		DisplayName: Garras del Liche
+		Tooltip:
+			'''
+			'Abraza la muerte...'
+			10% de daño de lanzamiento aumentado
+			10% de probabilidad de golpe crítico de lanzamiento aumentada
+			'''
+	}
+
+	ShadeMasterMask: {
+		DisplayName: Máscara del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y ataca con precisión'
+			10% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 2
+			'''
+	}
+
+	ShadeMasterGarb: {
+		DisplayName: Atuendo del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y ataca con precisión'
+			15% de daño de lanzamiento aumentado
+			30% de velocidad de lanzamiento aumentada
+			'''
+	}
+
+	ShadeMasterTreads: {
+		DisplayName: Pisadas del Maestro Sombrío
+		Tooltip:
+			'''
+			'Vive en las sombras y ataca con precisión'
+			10% de daño de lanzamiento aumentado
+			15% de probabilidad de golpe crítico de armas arrojadizas aumentada
+			15% de velocidad de movimiento aumentada
+			'''
+	}
+
+	WhiteDwarfMask: {
+		DisplayName: Máscara de Enano Blanco
+		Tooltip:
+			'''
+			15% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 2
+			'''
+	}
+
+	WhiteDwarfGuard: {
+		DisplayName: Guardia de Enano Blanco
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			30% de velocidad de armas arrojadizas aumentada
+			'''
+	}
+
+	WhiteDwarfGreaves: {
+		DisplayName: Grebas de Enano Blanco
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			20% de probabilidad de golpe crítico de armas arrojadizas aumentada
+			20% de velocidad de movimiento aumentada
+			'''
+	}
+
+	IridescentHelmet: {
+		DisplayName: Casco Iridiscente
+		Tooltip: 5% de daño radiante aumentado
+	}
+
+	IridescentMail: {
+		DisplayName: Coraza Iridiscente
+		Tooltip:
+			'''
+			10% de daño radiante aumentado
+			2% de probabilidad de golpe crítico radiante aumentada
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	IridescentGreaves: {
+		DisplayName: Grebas Iridiscentes
+		Tooltip:
+			'''
+			5% de daño radiante aumentado
+			8% de velocidad de movimiento aumentada
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	BloomingTabard: {
+		DisplayName: Túnica de Floración
+		Tooltip:
+			'''
+			10% de daño no radiante reducido
+			5% de daño radiante aumentado
+			Regeneración de maná moderadamente aumentada
+			Los hechizos curativos sanarán 2 de vida adicional
+			'''
+	}
+
+	BioTechGarment: {
+		DisplayName: Túnica Biotecnológica
+		Tooltip:
+			'''
+			25% de daño no radiante reducido
+			25% de daño radiante aumentado
+			Regeneración de maná aumentada
+			10% de costo de maná reducido
+			Los hechizos curativos sanarán 3 de vida adicional
+			'''
+	}
+
+	WarlockHood: {
+		DisplayName: Capucha del Hechicero
+		Tooltip:
+			'''
+			Corrompe tus poderes radiantes
+			10% de daño no radiante reducido
+			10% de daño radiante aumentado
+			7% de probabilidad de golpe crítico radiante aumentada
+			Maná máximo aumentado en 20
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	WarlockGarb: {
+		DisplayName: Túnica del Hechicero
+		Tooltip:
+			'''
+			15% de daño no radiante reducido
+			15% de daño radiante aumentado
+			7% de probabilidad de golpe crítico radiante aumentada
+			Los hechizos curativos sanarán 2 de vida adicional
+			'''
+	}
+
+	WarlockLeggings: {
+		DisplayName: Leotardos del Hechicero
+		Tooltip:
+			'''
+			12% de daño no radiante reducido
+			12% de daño radiante aumentado
+			15% de costo de maná reducido
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	FallenPaladinFaceguard: {
+		DisplayName: Máscara del Paladín Caído
+		Tooltip:
+			'''
+			10% de daño no radiante reducido
+			10% de daño radiante aumentado
+			3% de probabilidad de golpe crítico radiante aumentada
+			Velocidad de regeneración de vida aumentada
+			'''
+	}
+
+	FallenPaladinCuirass: {
+		DisplayName: Coraza del Paladín Caído
+		Tooltip:
+			'''
+			20% de daño no radiante reducido
+			20% de daño radiante aumentado
+			8% de probabilidad de golpe crítico radiante aumentada
+			15% de reducción de daño aumentada
+			Los hechizos curativos sanarán 2 de vida adicional
+			'''
+	}
+
+	FallenPaladinGreaves: {
+		DisplayName: Grebas del Paladín Caído
+		Tooltip:
+			'''
+			15% de daño no radiante reducido
+			15% de daño radiante aumentado
+			4% de probabilidad de golpe crítico radiante aumentada
+			15% de costo de maná reducido
+			20% de velocidad de movimiento aumentada
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	WhisperingHood: {
+		DisplayName: Capucha Susurrante
+		Tooltip:
+			'''
+			Corrompe tus poderes radiantes
+			20% de daño no radiante reducido
+			20% de daño radiante aumentado
+			10% de probabilidad de golpe crítico radiante aumentada
+			Maná máximo aumentado en 40
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	WhisperingTabard: {
+		DisplayName: Tabardo Susurrante
+		Tooltip:
+			'''
+			25% de daño no radiante reducido
+			25% de daño radiante aumentado
+			8% de probabilidad de golpe crítico radiante aumentada
+			Los hechizos curativos sanarán 2 de vida adicional
+			'''
+	}
+
+	WhisperingLeggings: {
+		DisplayName: Calzas Susurrantes
+		Tooltip:
+			'''
+			15% de daño no radiante reducido
+			15% de daño radiante aumentado
+			15% de costo de maná reducido
+			Los hechizos curativos sanarán 1 de vida adicional
+			'''
+	}
+
+	DreamWeaversHelmet: {
+		DisplayName: Casco del Tejedor de Sueños
+		Tooltip:
+			'''
+			'Ata a los enemigos de tu futuro en agonía temporal'
+			Corrompe tus poderes radiantes
+			45% de daño no radiante reducido
+			45% de daño radiante aumentado
+			36% de probabilidad de golpe crítico radiante aumentada
+			Maná máximo aumentado en 20
+			'''
+	}
+
+	DreamWeaversHood: {
+		DisplayName: Capucha del Tejedor de Sueños
+		Tooltip:
+			'''
+			'Manifiesta tus sueños más preciados a través de tus aliados'
+			25% de daño no radiante reducido
+			30% de daño radiante aumentado
+			16% de probabilidad de golpe crítico radiante aumentada
+			35% de costo de maná reducido
+			Regeneración de maná masivamente aumentada
+			Maná máximo aumentado en 60
+			Los hechizos curativos sanarán 6 de vida adicional
+			'''
+	}
+
+	DreamWeaversTabard: {
+		DisplayName: Túnica del Tejedor de Sueños
+		Tooltip:
+			'''
+			25% de daño no radiante reducido
+			25% de daño radiante aumentado
+			14% de probabilidad de golpe crítico radiante aumentada
+			20% de costo de maná reducido
+			Regeneración de maná masivamente aumentada
+			Los hechizos curativos sanarán 2 de vida adicional
+			'''
+	}
+
+	TideTurnersGaze: {
+		DisplayName: Corona Profunda del Volteador de Mareas
+		Tooltip:
+			'''
+			'Desata la ira acuática sobre tus enemigos'
+			35% de daño de lanzamiento aumentado
+			50% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 2
+			El daño de lanzamiento aumenta brevemente el daño que recibe el enemigo en un 10%
+			Produce un glóbulo flotante cada 1 segundo
+			Cada glóbulo hace que tu próximo ataque sea un mini-crítico, si no crítica
+			'''
+	}
+
+	TideTurnerBreastplate: {
+		DisplayName: Guardaprofundo del Volteador de Mareas
+		Tooltip:
+			'''
+			15% de daño cuerpo a cuerpo y de lanzamiento aumentado
+			10% de velocidad cuerpo a cuerpo aumentada
+			16% de probabilidad de golpe crítico cuerpo a cuerpo y de lanzamiento aumentada
+			'''
+	}
+
+	TideTurnerGreaves: {
+		DisplayName: Caminaprofundo del Volteador de Mareas
+		Tooltip:
+			'''
+			10% de daño cuerpo a cuerpo y de lanzamiento aumentado
+			20% de retroceso cuerpo a cuerpo y velocidad de lanzamiento aumentados
+			30% de velocidad de movimiento aumentada
+			'''
+	}
+
+	MagmaSeersMask.Tooltip:
+		'''
+		'Comanda un ejército fortificado en magma'
+		50% de daño de invocación aumentado
+		Aumenta tu número máximo de súbditos y centinelas en 2
+		Aumenta el retroceso de los súbditos
+		'''
+	CursedFlailCore.Tooltip:
+		'''
+		Las armas de mangual liberan una bola con púas maldita al primer golpe
+		Los golpes posteriores tienen probabilidad de liberar más bolas con púas malditas
+		Las bolas con púas malditas aplican llamas malditas a los enemigos dañados
+		'''
+	VileFlailCore.Tooltip:
+		'''
+		Las armas de mangual liberan una bola con púas vil al primer golpe
+		Los golpes posteriores tienen probabilidad de liberar más bolas con púas viles
+		Las bolas con púas viles aplican icor a los enemigos dañados
+		'''
+	IronFlailCore.Tooltip:
+		'''
+		Las armas de mangual liberan una bola con púas rodante al primer golpe
+		Los golpes posteriores tienen probabilidad de liberar más bolas con púas rodantes
+		'''
+	BloomingShield.Tooltip:
+		'''
+		Generas constantemente un escudo de 20 de vida
+		Los hechizos curativos sanarán 1 de vida adicional, 2 si el escudo está al máximo
+		Fuera de combate, tu recuperación de vida aumentará hasta 5 con el tiempo
+		'''
+	AstroBeetleHusk.Tooltip:
+		'''
+		Daño recibido reducido en un 5%
+		Generas constantemente un escudo de 50 de vida
+		'''
+}
+
+ThrowerTechniques: {
+	Decoy: {
+		DisplayName: Señuelo
+		Description:
+			'''
+			Invoca un señuelo enemigo y gana velocidad de ataque aumentada durante un segundo
+			El señuelo intentará captar la atención de los enemigos cercanos
+			'''
+	}
+
+	BloodLotus: {
+		DisplayName: Loto Sangriento
+		Description:
+			'''
+			Detente en el lugar y libera un torrente de cuchillos hacia el enemigo más cercano
+			Cada cuchillo te sana hasta 10% del daño infligido
+			El torrente otorga al jugador 100 de defensa, pero se desvanece al recibir daño
+			'''
+	}
+
+	SmokeBomb: {
+		DisplayName: Bomba de Humo
+		Description:
+			'''
+			Libera una bomba de humo
+			Las bombas de humo te otorgan brevemente inmunidad al daño y velocidad de ataque aumentada durante 2 segundos
+			'''
+	}
+}

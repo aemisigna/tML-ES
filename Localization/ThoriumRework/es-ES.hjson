@@ -1,0 +1,2146 @@
+PhotosensitivityWarning:
+	'''
+	ADVERTENCIA DE FOTOSENSIBILIDAD: ¡Thorium Helheim añade muchos efectos vistosos! ¡Especialmente en las peleas contra jefes!
+	Si eres fotosensible, ve a Configuración -> Configuración del Mod -> Thorium Helheim -> Configuración Visual y pon todos los deslizadores en 0
+	También puedes desactivar esta advertencia en la configuración si no quieres seguir viéndola
+	'''
+
+ProgressionTweaks: {
+	GolemNoAbyssion: Un ser olvidado se agita en las profundidades acuáticas para proteger al culto lunar...
+	AbyssionNoGolem: Un antiguo guardián en la jungla vuelve a la vida para proteger al culto lunar...
+	AbyssionAndGolem: ¡Un poderoso culto aparece en el borde del mundo!
+}
+
+ItemDescriptions: {
+	ChampionsRebuttal:
+		'''
+		Permite al jugador embestir a través de un enemigo
+		Doble toque en una dirección
+		El doble del daño que recibes o el daño que causas al embestir se añade a tu próximo ataque
+		Se puede alcanzar un máximo de 300 de daño adicional
+		'''
+	Rapier:
+		'''
+		Causar daño reduce temporalmente el daño recibido
+		Clic derecho para dar un golpe normal, el daño causado aumenta si apuñalas más de tres veces
+		'''
+	DreamWeaversHelmet: Aumenta la vida máxima en 60
+	DreamWeaversHood: Aumenta la vida máxima en 100
+	DreamWeaversTabard: Reduce el daño recibido en un 20%
+	DreamWeaversTreads:
+		'''
+		20% más de velocidad radiante
+		Aumenta la vida máxima en 80
+		'''
+	TideTurnerBreastplate:
+		'''
+		Reduce el daño recibido en un 10%
+		La defensa y la reducción de daño aumentan cuanto menor sea la vida del portador
+		Hasta 100 de defensa y 60% de reducción de daño
+		'''
+	TideTurnerGreaves: 20% más de velocidad cuerpo a cuerpo y de lanzamiento
+	TideTurnerHelmet:
+		'''
+		La velocidad cuerpo a cuerpo aumenta cuanto menor sea la vida del portador
+		Hasta un 200% de aumento en la velocidad cuerpo a cuerpo
+		'''
+	TideTurnersGaze: Aumenta el daño de lanzamiento en 50
+	MasterArbalestHood: El daño a distancia ignora 100 de defensa
+	MasterMarksmansScouter: 12% más de velocidad de disparo
+	AssassinsGuard: Aumenta el daño a distancia en 20
+	AssassinsWalkers: 20% más de velocidad de disparo
+	MagmaSeersMask:
+		'''
+		40% más de velocidad de látigo
+		Aumenta el daño de invocación en 30
+		'''
+	PyromancerCowl: Reduce el uso de maná en un 40%
+	PyromancerLeggings:
+		'''
+		30% más de velocidad de lanzamiento
+		Aumenta tu número máximo de centinelas en 1
+		'''
+	PyromancerTabard:
+		'''
+		75% más de alcance de látigo
+		Aumenta tu número máximo de invocaciones en 2
+		'''
+	InspiratorsHelmet: 25% más de velocidad de interpretación sinfónica
+	RhapsodistChestWoofer: El daño sinfónico ignora 250 de defensa
+	RhapsodistBoots: El alcance de potenciación sinfónica se duplica
+	SoloistHat: Aumenta la inspiración máxima en 8
+	ThoriumArmor:
+		'''
+		Los golpes críticos acumulan un medidor que, al llenarse, hace que los ataques generen descargas eléctricas retardadas
+		Usar objetos hechos mayormente de barras de Torio llena este medidor con cualquier golpe en lugar de solo críticos
+		'''
+	ThoriumRevolver: Convierte las bengalas en descargas de trueno de alcance medio
+	ThoriumSpear: Libera un rayo débil al atacar
+	ChampionBomberStaff:
+		'''
+		Dispara un misil explosivo mágico que atraviesa a los enemigos antes de explotar
+		Los golpes críticos hacen que los misiles duren más y atraviesen una vez adicional
+		'''
+	ChampionSwiftBlade:
+		'''
+		Dispara una poderosa onda de choque que causa 50% de daño
+		Cada tercer y cuarto ataque invoca apariciones de espada
+		'''
+	ChampionsTrifectaShot:
+		'''
+		Carga el arco para aumentar el poder de la flecha
+		Sobrecarga el arco para convertir la flecha en poderosas flechas elementales
+		Ciertos tipos de flecha solo pueden convertirse en un tipo de flecha elemental
+		'''
+	GraniteCrossbow:
+		'''
+		Cada 3 disparos, se lanza una descarga de 3 flechas de granito que desbordan a los enemigos
+		Los enemigos desbordados reciben 5% más de daño
+		'''
+	IllumiteBarrage:
+		'''
+		Cada 6to ataque invoca un portal que dispara a los enemigos cercanos
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	IllumiteBlade:
+		'''
+		Empuña dos espadas de illumite a la vez
+		Golpea a los objetivos iluminados cercanos con rayos luminosos
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	IllumiteBlaster:
+		'''
+		Cada 6to ataque invoca un portal que dispara a los enemigos cercanos
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	IllumiteShotbow:
+		'''
+		Cada 6to ataque invoca un portal que dispara a los enemigos cercanos
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	IllumiteSpear:
+		'''
+		Cada tercer ataque dispara una imagen de lanza de illumite
+		La imagen dispara rayos luminosos a los objetivos cercanos
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	IllumiteScythe:
+		'''
+		Crea cortes de luz sobre un enemigo cercano
+		Los enemigos golpeados quedarán iluminados y recibirán 10% más de daño
+		'''
+	CobaltPopper: Aumenta la defensa con el tiempo mientras se usa
+	PalladiumSubmachineGun: Aumenta la regeneración de vida con el tiempo mientras se usa
+	MythrilPelter: Eventualmente duplica la velocidad de ataque mientras se usa
+	OrichalcumPelter: Aumenta gradualmente la velocidad de ataque con el tiempo mientras se usa
+	AdamantiteCarbine: Aumenta la probabilidad de golpe crítico con el tiempo mientras se usa
+	TitaniumRifle: Aumenta la penetración de armadura con el tiempo mientras se usa
+	PyroclastStaff:
+		'''
+		Dispara un patrón de 1 a 5 bolas de fuego piroclásticas
+		Las bolas de fuego piroclásticas se dividen en submuniciones al impactar
+		'''
+	Obliterator:
+		'''
+		Clic izquierdo para disparar un rayo láser que no atraviesa
+		Clic derecho para disparar una bola de fuego que explota en una dispersión circular de balas que causan 50% de daño
+		Disparar a la bola de fuego con el láser hará que rebote hacia objetivos cercanos u otras bolas de fuego
+		Cada rebote aumenta su daño en un 100% de su daño inicial, alcanzando un tope de 1000%
+		'''
+	OmegaBlaster:
+		'''
+		Toca el disparo para lanzar una ráfaga triple de descargas de energía, carga para potenciar la ráfaga
+		Carga completamente el arma para disparar un poderoso rayo de energía que causa 800% de daño
+		Causar daño con las descargas de energía acumula un medidor
+		Cuando el medidor está lleno, Clic derecho para liberar un poderoso sable de rayo que causa 1100% de daño
+		Después de usar el sable de rayo, el medidor de energía no puede acumularse durante 10 segundos
+		Sin embargo, el arma no costará maná
+		'Conviértete en el mayor guardián de Heavenhold'
+		'''
+	HitScanner:
+		'''
+		Las balas de mosquete disparadas por esta arma no tienen tiempo de vuelo e ignoran 50 de defensa
+		Las balas de mosquete también atraviesan bloques durante un breve periodo de tiempo
+		'''
+	ParticleWhip:
+		'''
+		Dispara un rayo de partículas acelerado que rebota entre enemigos
+		Al rebotar, el rayo de partículas se convierte en un rayo curvo
+		"No es realmente ese tipo de látigo..."
+		'''
+	LodeStoneBow:
+		'''
+		El daño quiebra a los enemigos, aumentando el daño que reciben en un 10%
+		Cada tercer ataque dispara cargas magnéticas que persiguen a los enemigos quebrados
+		'''
+	LodeStoneQuickDraw:
+		'''
+		El daño quiebra a los enemigos, aumentando el daño que reciben en un 10%
+		Cada tercer ataque dispara cargas magnéticas que persiguen a los enemigos quebrados
+		'''
+	ValadiumBow:
+		'''
+		El daño golpea a los enemigos con energía interdimensional
+		Cada tercer ataque castiga al enemigo maldito de luz más cercano con luz vacía
+		'''
+	ValadiumFoeBlaster:
+		'''
+		El daño golpea a los enemigos con energía interdimensional
+		Cada tercer ataque castiga al enemigo maldito de luz más cercano con luz vacía
+		'''
+	ValadiumSpear:
+		'''
+		El daño golpea a los enemigos con energía interdimensional
+		El daño también genera una ráfaga de luz vacía que corta rápidamente a los enemigos
+		'''
+	OrnateArmor: Los instrumentos grandes ya no pueden desincronizarse, pero la regeneración de inspiración se congela mientras sostengas alguno
+	SoulRender:
+		'''
+		Cada tercer y cuarto ataque, la guadaña gira, liberando cuchillas de alma volátiles que causan 40% de daño
+		Las cuchillas de alma volátiles causan más daño cuanto mayor sea tu velocidad de ataque, para compensar con menos proyectiles disparados
+		'''
+	FleshSkewer:
+		'''
+		Los ataques tienen probabilidad de robar vida, pero impiden brevemente la regeneración de vida
+		Los golpes críticos tienen una probabilidad garantizada de devolver vida y no impedirán la regeneración de vida
+		'''
+	ToothOfTheConsumer:
+		'''
+		Empuña dos dagas que roban vida
+		Los ataques tienen probabilidad de robar vida, pero impiden brevemente la regeneración de vida
+		Los golpes críticos tienen una probabilidad garantizada de devolver vida y no impedirán la regeneración de vida
+		Clic derecho para liberar sangre aferrante a costa de 1 de vida
+		'''
+	DragonTooth:
+		'''
+		Cada cuarto ataque libera un espíritu de dragón maldito
+		Los golpes críticos crean un anillo de infierno maldito
+		'''
+	DragonTalon: Atacar libera un aliento de infierno maldito en la punta de la lanza
+	DreadBlaster:
+		'''
+		Toca clic izquierdo para disparar una ráfaga de pulsos de pavor
+		Mantén clic izquierdo para desatar una descarga de pulsos de pavor
+		Golpear enemigos expulsa energía de pavor ofensiva
+		'''
+	DemonBloodStaff:
+		'''
+		Libera una descarga de almas de sangre demoníaca teledirigidas, así como almas de icor, cada cuarto ataque
+		Causar daño te otorgará una carga de sangre
+		Al máximo de cargas, tu próximo ataque causará 2x de daño y te curará por el 20% del daño causado
+		'''
+	DreadRazor:
+		'''
+		Cada tercer y cuarto ataque libera un espíritu de dragón maldito
+		Clic derecho para liberar un chorro de energía de pavor
+		Atacar acumula energía de pavor automáticamente
+		'''
+	DreadTearer:
+		'''
+		Gira rápidamente una guadaña altamente corrupta a tu alrededor
+		Ganar esencia de alma con esta arma hace que sus próximos cinco golpes generen energía de pavor
+		Golpear enemigos expulsa energía de pavor ofensiva
+		'''
+	DemonBloodSword:
+		'''
+		Cuando la cosecha de sangre está en reutilización, esta arma dispara corazones de sangre teledirigidos
+		Causar daño te otorgará una carga de sangre
+		Al máximo de cargas, tu próximo ataque causará 2x de daño y te curará por el 20% del daño causado
+		'''
+	DemonBloodRipper:
+		'''
+		Gira rápidamente una guadaña impulsada por demonios a tu alrededor
+		Ganar esencia de alma con esta arma hace que tus próximos cinco golpes invoquen corazones de sangre teledirigidos
+		Causar daño te otorgará una carga de sangre
+		Al máximo de cargas, tu próximo ataque causará 2x de daño y te curará por el 20% del daño causado
+		'''
+	DemonBloodSpear:
+		'''
+		Libera una descarga de imágenes de lanza sangrienta cada tercer ataque
+		Causar daño te otorgará una carga de sangre
+		Al máximo de cargas, tu próximo ataque causará 2x de daño y te curará por el 20% del daño causado
+		'''
+	PrimesFury:
+		'''
+		Cada cuarto ataque dispara un poderoso rayo que causa el triple de daño
+		Clic derecho para liberar una ráfaga de ataques que causan la mitad de daño
+		"Tenemos una espada motosierra en casa"
+		'''
+	TitanArmor:
+		'''
+		Los golpes críticos otorgan al jugador +2 de escudo
+		Aumenta la probabilidad de golpe crítico según el escudo total
+		'''
+	TitanBoomerang:
+		'''
+		Lanza discos titánicos veloces que forman un remolino antes de regresar
+		Los golpes críticos causarán daño adicional
+		'''
+	TitanSword:
+		'''
+		Empuña dos espadas titánicas a la vez
+		Los golpes críticos causarán daño adicional
+		'''
+	TitanScythe:
+		'''
+		Gira rápidamente una guadaña doble titánica
+		Ganar esencia de alma con esta arma crea un remolino en expansión
+		Los golpes críticos causarán daño adicional
+		'''
+	TerrariumBomber:
+		'''
+		Dispara lentamente misiles cromáticos teledirigidos
+		Los misiles cromáticos se dividen en tres al golpear a un enemigo
+		25% de probabilidad de ahorrar munición
+		'''
+	TerrariumPulseRifle:
+		'''
+		Dispara en ráfagas de cuatro
+		Convierte munición adecuada en rayos de pulso que heredan el efecto al golpear de tus balas
+		15% de probabilidad de ahorrar munición
+		'''
+	TerrariumSaber:
+		'''
+		Empuña dos sables de Terrarium a la vez
+		Libera energía de Terrarium teledirigida al golpear
+		'''
+	RealitySlasher:
+		'''
+		Mantén clic izquierdo para girar una guadaña desgarradora de realidad que acumula velocidad
+		Cuando se alcanza la velocidad máxima, suelta clic izquierdo para lanzar la guadaña
+		Al lanzarla, mantén clic izquierdo de nuevo para mover la guadaña hacia tu cursor
+		'''
+	DoomSayersCoin:
+		'''
+		Inflige Lucidez Terminal en la fase 2, el jefe no puede recibir daño hasta que se elimine
+		Vuela hacia los círculos morados que veas si quieres vivir y eliminar la Lucidez Terminal
+		Estos círculos morados están resaltados por una flecha colocada en tu ubicación
+		Cuando se elimina la Lucidez Terminal, comienza la fase de DPS y dura 20 segundos
+		Si el temporizador de la Lucidez Terminal se agota, morirás instantáneamente
+		El Devorador de Sueños puede recibir daño permanentemente durante las peleas de revancha
+		Si el Devorador de Sueños ha sido derrotado al menos una vez, haz Clic derecho en este objeto para invocarlo directamente
+		Además, si los Primordiales estaban vivos al hacer clic derecho en esto, desaparecen
+		'''
+	DoomSayersCoinNoLucidity:
+		'''
+		Si el Devorador de Sueños ha sido derrotado al menos una vez, haz Clic derecho en este objeto para invocarlo directamente
+		Además, si los Primordiales estaban vivos al hacer clic derecho en esto, desaparecen
+		'''
+}
+
+NPCRenames: {
+	Beholder: Sirviente de Coznix
+	FallenBeholder: Coznix, el Observador Caído
+	FallenBeholder2: Coznix, el Trascendente
+	Lich: Liche, Discípulo del Profanador
+	LichHeadless: Liche, Apóstol de la Muerte
+	ForgottenOne: Cascarón del Olvidado
+	ForgottenOneCracked: Abyssion, el Olvidado
+	ForgottenOneReleased: Abyssion, Antiguo Dios de las Mareas
+	DreamEater: Realidad Moribunda, El Ragnarök
+}
+
+Toggler: {
+	BandofCratons: Sobrecarga de Poder
+	BannerofWar: Estandarte de Guerra
+	BeholderTentacles: Quemadura del Observador
+	BeholderTentacles2: Dominio del Observador
+	CrystallizedFinality: Finalidad Cristalizada
+	DeepDarkShellShield: Sobre-sobreescudo
+	ZephyrWings: Sinergia de Céfiro
+	QueenJellyPin: Tentáculos Regios
+	SierraChimera: Sierra Chimera
+	StarScoutReticle: Impulso Parpadeante
+	StriderMouthguard: Escarcha del Estríder
+	StriderMouthguard2: Ácaros Poderosos
+	UndyingGaze: Cosecha de Almas
+	ValkyrienSkyStone: Piedra Celeste Valkyrien
+	VampireCape: Transformación en Enjambre de Murciélagos
+}
+
+ActiveSkills: {
+	BeholderTentacles2: {
+		DisplayName: Dominio del Observador
+		Tooltip: Invoca el Ojo del Observador para drenar rápidamente la vida de los enemigos y curar al usuario
+	}
+
+	VampireCape: {
+		DisplayName: Enjambre de Murciélagos
+		Tooltip: Transfórmate en un enjambre de murciélagos que sigue tu cursor
+	}
+}
+
+InfernumIntros: {
+	Aquaius:
+		'''
+		Marea Infinita
+		Aquaius
+		'''
+	BoreanStrider:
+		'''
+		Artrópodo de Sangre Fría
+		Estríder Boreal
+		'''
+	BuriedChampion:
+		'''
+		Guerrero Ancestral
+		Campeón Enterrado
+		'''
+	DreamEater:
+		'''
+		Realidad Moribunda
+		El Ragnarök
+		'''
+	FallenBeholder:
+		'''
+		Observador Trascendente
+		Coznix
+		'''
+	ForgottenOne:
+		'''
+		Antiguo Dios de las Mareas
+		Abyssion
+		'''
+	GraniteEnergyStorm:
+		'''
+		Masa Terrestre Inestable
+		Tormenta de Energía Granítica
+		'''
+	Lich:
+		'''
+		Apóstol del Profanador de Vida
+		El Liche
+		'''
+	QueenJellyfish:
+		'''
+		Mutante Marina Regia
+		Reina Medusa
+		'''
+	Omnicide:
+		'''
+		Profanador de Vida
+		Omnicidio
+		'''
+	SlagFury:
+		'''
+		Llama Primordial
+		Furia de Escoria
+		'''
+	StarScouter:
+		'''
+		Viajero Cósmico
+		Explorador Estelar
+		'''
+	TheGrandThunderBird:
+		'''
+		Carroñero Feral
+		El Gran Ave del Trueno
+		'''
+	Viscount:
+		'''
+		Duque de las Cavernas
+		Vizconde
+		'''
+}
+
+Projectiles: {
+	AbyssalApparition.DisplayName: Aparición Abisal
+	AbyssBubble.DisplayName: Burbuja Tóxica
+	AbyssBubble2.DisplayName: Burbuja Tóxica
+	AquaiusBubble.DisplayName: Burbuja
+	AquaiusPunchAttack.DisplayName: Manos de la Marea
+	AquaiusWhirlpool.DisplayName: Remolino Implacable
+	BannerofWar.DisplayName: Estandarte de Guerra
+	BandofCratons.DisplayName: Banda de Cratones
+	BeamSaber.DisplayName: Sable de Rayo
+	BeholderBlade.DisplayName: Voluntad de Coznix
+	BeholdersDomain.DisplayName: Ojo del Observador
+	BiterofSouls.DisplayName: Mordedor de Almas
+	BiteyBaby.DisplayName: Bebé Mordedor
+	BlackHole.DisplayName: Agujero Negro
+	BubbleBomb.DisplayName: Gran Bomba de Burbuja
+	BubbleColumn.DisplayName: Columna de Burbujas
+	ChampionBomber.DisplayName: Estallido Mágico
+	ChampionBomberF.DisplayName: Estallido Mágico
+	ChampionShield.DisplayName: Réplica del Campeón
+	ChampionSlash.DisplayName: Espada Veloz del Campeón
+	ChampionSlice.DisplayName: Descarga Enterrada
+	ChampionSliceF.DisplayName: Descarga Enterrada
+	ChampionsRebuttal.DisplayName: Réplica del Campeón
+	ChampionsSwiftBlade.DisplayName: Espada Veloz del Campeón
+	ChampionsSwiftBladeClone.DisplayName: Espada Veloz del Campeón
+	ChampionsTrifectaShot.DisplayName: Disparo Trifecta del Campeón
+	ChampionWarHorn.DisplayName: Cuerno de Guerra del Campeón
+	ChironsCure.DisplayName: Cura de Chirón
+	ConcussiveInstrument.DisplayName: Instrumento Contundente
+	DancingJellyfish.DisplayName: Medusa Danzante
+	Darkness.DisplayName: Oscuridad
+	DeathRain.DisplayName: Lluvia de Muerte
+	DemonBloodSword.DisplayName: Espada de Sangre Demoníaca
+	DragonTooth.DisplayName: Diente de Dragón
+	DragonToothDragon.DisplayName: Diente de Dragón
+	DreadRazor.DisplayName: Navaja del Pavor
+	DreadPulse.DisplayName: Pulso del Pavor
+	DukeFish.DisplayName: Pez Duque
+	DukeFishBubble.DisplayName: Burbuja del Pez Duque
+	DyingReality.DisplayName: Realidad Moribunda
+	EaterPiper.DisplayName: Flautista Devorador
+	EightNote.DisplayName: "{$ProjectileName.EightNote}"
+	EnergizedGranite.DisplayName: Granito Energizado
+	EnergyBurst.DisplayName: Estallido de Energía Granítica
+	EnergySpike.DisplayName: Pico de Energía Granítica
+	EnergySurge.DisplayName: Oleada de Energía Granítica
+	EnergySurgeTelegraph.DisplayName: Oleada de Energía Granítica
+	EradicationBeam.DisplayName: Rayo de Erradicación
+	EradicationBeamF.DisplayName: Rayo de Erradicación
+	EradicationRay.DisplayName: Rayo de Erradicación
+	EraserLaser.DisplayName: Láser Borrador
+	ExtinctionRay.DisplayName: Rayo de Extinción
+	FalseBeholder.DisplayName: Observador Falso
+	FalseSun.DisplayName: Sol Falso
+	FlareSlash.DisplayName: Corte de Bengala
+	Flash.DisplayName: Destello
+	FluteofCurses.DisplayName: Flauta de Maldiciones
+	FlyingFlute.DisplayName: Flauta Voladora
+	FlyingFlute2.DisplayName: Flauta Voladora
+	GildedFlyingFlute.DisplayName: Flauta Voladora Dorada
+	Glacier.DisplayName: Glaciar
+	Glacier2.DisplayName: Glaciar
+	GrandThunder.DisplayName: Gran Trueno
+	GrandThunderBirdEffects.DisplayName: Gran Trueno
+	GrandThunderF.DisplayName: Gran Trueno
+	GrandThunderTelegraph.DisplayName: Gran Trueno
+	GraniteCharge.DisplayName: Carga de Granito
+	GraniteEnergyStormEffects.DisplayName: Energía Granítica
+	GravitonOrb.DisplayName: Orbe de Gravitón
+	HandheldRocket.DisplayName: Cohete de Mano
+	HeadHunter.DisplayName: Cazacabezas
+	HeadHunterShard.DisplayName: Cazacabezas
+	HealingOrbRainbow.DisplayName: Orbe Curativo
+	HealingOrbTeal.DisplayName: Orbe Curativo
+	HealingOrbYellow.DisplayName: Orbe Curativo
+	HighTide.DisplayName: Marea Alta
+	HighTideWave.DisplayName: Marea Alta
+	HitScan.DisplayName: Impacto Directo
+	IceAnomaly.DisplayName: Anomalía de Hielo
+	IceShard.DisplayName: Fragmento de Hielo
+	IllumiteBlade.DisplayName: Espada de Illumite
+	IllumitePortal.DisplayName: Portal de Illumite
+	ImpendingDread.DisplayName: Pavor Inminente
+	ImpendingDreadF.DisplayName: Pavor Inminente
+	InfernalRay.DisplayName: Rayo Infernal
+	InfernalRayTelegraph.DisplayName: Rayo Infernal
+	JammingJellyfish.DisplayName: Medusa Interferente
+	JellyfishJam.DisplayName: Medusa Interferente
+	JellyfishShock.DisplayName: Descarga de Medusa
+	KingTrumpet.DisplayName: Trompeta Real
+	Kusarigama.DisplayName: Kusarigama
+	KusarigamaOrb.DisplayName: Orbe del Viento
+	LichLantern.DisplayName: Linterna Volátil
+	LichWhip.DisplayName: Instrumento de Tormento
+	LodeStoneClaymore.DisplayName: Mandoble de Piedra Imán
+	LodeStoneMagnetMace.DisplayName: Maza Magnética de Piedra Imán
+	Loudener.DisplayName: Amplificador
+	LucidNuke.DisplayName: Energía Lúcida
+	LucidRay.DisplayName: Energía Lúcida
+	LucidRayTelegraph.DisplayName: Energía Lúcida
+	MightyMyte.DisplayName: Ácaro Poderoso
+	Mjolnir.DisplayName: Rayo Legendario
+	NightmareClaw.DisplayName: Garra de Pesadilla
+	NightmareSlash.DisplayName: Garra de Pesadilla
+	Obliterator.DisplayName: Obliterador
+	ObliteratorRay.DisplayName: Obliterador
+	OmegaRay.DisplayName: Rayo Omega
+	OmniBoom.DisplayName: Explosión Nuclear
+	OmniBurst.DisplayName: Explosión Nuclear
+	OmniSlash.DisplayName: Corte de Muerte
+	OmnicidePunchAttack.DisplayName: Puño del Caos
+	Oneirophobia.DisplayName: Oneirofobia
+	OneirophobiaBlade.DisplayName: Filo Lúcido
+	OneirophobiaBolt.DisplayName: Misil Lúcido
+	OneirophobiaLaser.DisplayName: Rayo Lúcido
+	OneirophobiaMinion.DisplayName: Instrumento Lúcido
+	OneirophobiaNuke.DisplayName: Explosión Lúcida
+	OneirophobiaSlice.DisplayName: Corte Lúcido
+	Paylode.DisplayName: Carga Magnética
+	PrimesFury.DisplayName: Furia de Prime
+	QuarterNote.DisplayName: "{$ProjectileName.QuarterNote}"
+	QueenJellyPin.DisplayName: Alfiler de Medusa Reina
+	SevenSeasDevastatorWhirlpool.DisplayName: Devastador de los Siete Mares
+	ShellxophoneHealing.DisplayName: Restauración de Marea
+	ShellxophoneBubble.DisplayName: Burbuja Tóxica
+	ShellxophoneStrike.DisplayName: Golpe Abisal
+	ShoulderBlade.DisplayName: Cuchilla del Hombro
+	ShoulderBlade2.DisplayName: Cuchilla del Hombro
+	SoulBleed.DisplayName: Sangrado de Alma
+	SoulRender.DisplayName: Cortaalmas
+	SoulSnatcher.DisplayName: Arrebatador de Almas
+	SoulSteal.DisplayName: "{Mods.ThoriumMod.Projectiles.Boss.SoulSteal}"
+	SpittingShroom.DisplayName: Hongo Escupidor
+	SpittingShroomSpore.DisplayName: Espora de Hongo Escupidor
+	SpittingShroomSporeBurst.DisplayName: Estallido de Esporas del Hongo Escupidor
+	StableRealityRift.DisplayName: Grieta de Realidad Estable
+	StarCore.DisplayName: Núcleo Estelar
+	StarScouterEffects.DisplayName: Explorador Estelar
+	StellarTune.DisplayName: "{$ProjectileName.SparkleGuitar}"
+	Stuff.DisplayName: Cosas
+	TerrariumPulseRay.DisplayName: Rayo de Pulso de Terrarium
+	TerrariumSaber.DisplayName: Sable de Terrarium
+	TerrariumSoulScourge.DisplayName: Azote de Almas de Terrarium
+	TerrariumSoulScourge2.DisplayName: Azote de Almas de Terrarium
+	ThoriumBludgeon.DisplayName: Maza de Torio
+	ThoriumHeavyScythe.DisplayName: Guadaña Pesada de Torio
+	ThoriumRevolver.DisplayName: Descarga de Trueno
+	ThoriumSpear.DisplayName: Descarga de Trueno
+	ThoriumWhistle.DisplayName: Descarga de Trueno
+	TideDagger.DisplayName: Tormenta Acuática
+	TiedEightNote.DisplayName: "{$ProjectileName.TiedEightNote}"
+	TitanSword.DisplayName: Espada Titánica
+	TitanWhirlpool.DisplayName: Remolino Titánico
+	ToothOfTheConsumer.DisplayName: Diente del Devorador
+	ValadiumHeavyScythe.DisplayName: Guadaña Pesada de Valadium
+	ValadiumHeavyScytheWave.DisplayName: Guadaña Pesada de Valadium
+	ValadiumRay.DisplayName: Rayo Vacío
+	ValadiumSlash.DisplayName: Corte Vacío
+	ValadiumSlicer.DisplayName: Cortador de Valadium
+	VampireCape.DisplayName: Murciélago Vampiro
+	Vaporize.DisplayName: Vaporizador
+	VaporizingBeam.DisplayName: Rayo Vaporizador
+	VaporizingFlames.DisplayName: Llamas Vaporizadoras
+	VaporizingFreeze.DisplayName: Congelación Vaporizadora
+	VaporizingPoison.DisplayName: Veneno Vaporizador
+	VisualCrack.DisplayName: Grieta
+	VisualShockwave.DisplayName: Onda de Choque
+	Void.DisplayName: el vacío
+	VoidEye.DisplayName: Ojo de Coznix
+	VoidEyeF.DisplayName: Voluntad de Coznix
+	ZephyrFeather.DisplayName: Pluma de Céfiro
+	ZephyrsRuin.DisplayName: Ruina de Céfiro
+	FallingSand.DisplayName: Arena Cayendo
+}
+
+Items: {
+	BandofCratons: {
+		DisplayName: "{$Mods.ThoriumRework.Items.BandofCratonsCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Otorga inmunidad a Desbordado y hace que tus ataques lo inflijan
+			Otorga un escudo pasivo de 40
+			Restaura los recursos del jugador según la cantidad de escudo perdido
+			Perder más de 20 de escudo crea una descarga eléctrica que destruye 3 proyectiles cercanos
+			{$Mods.ThoriumRework.Items.BandofCratonsCosmetic.Tooltip}
+			'''
+	}
+
+	BandofCratonsCosmetic: {
+		DisplayName: Banda de Cratones
+		Tooltip: '''"Suficientemente resistente para soportar la deriva continental"'''
+	}
+
+	BannerofWar: {
+		DisplayName: "{$Mods.ThoriumRework.Items.BannerofWarCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			El daño y la curación adicional aumentan lentamente con el tiempo mientras estás en combate
+			Estos bonos se desvanecen gradualmente al salir del combate
+			Mientras estás en combate, emites periódicamente un pulso curativo que sana a los aliados por una cantidad igual a la curación adicional
+			La frecuencia de los pulsos aumenta cuanto más tiempo llevas en combate
+			El alcance de potenciación de Bardo afecta el alcance del pulso curativo
+			'''
+	}
+
+	BannerofWarCosmetic: {
+		DisplayName: Estandarte de Guerra
+		Tooltip: ""
+	}
+
+	BeholderBlade: {
+		DisplayName: Voluntad de Coznix
+		Tooltip:
+			'''
+			El tercer y cuarto ataque disparan un rayo vacío erradicador
+			Los golpes críticos crean una burbuja vacía en la ubicación del objetivo golpeado
+			La burbuja vacía invoca ojos para atacar a los enemigos causando 50% de daño
+			Solo puede haber una burbuja vacía activa a la vez
+			'''
+	}
+
+	BeholderHeart: {
+		DisplayName: Corazón del Observador
+		Tooltip:
+			'''
+			Aumenta la vida máxima en 10 y la curación adicional en 1
+			Cada 30 de vida aliada curada libera un rayo de energía radiante dañina
+			Además, recuperas vida igual a la curación adicional
+			'''
+	}
+
+	BeholderTentacles: {
+		DisplayName: "{$Mods.ThoriumRework.Items.BeholderTentaclesCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Los ataques infligen Chamuscado, el daño contra objetivos Chamuscados aumenta en un 20%
+			{$Mods.ThoriumRework.Items.BeholderTentaclesCosmetic.Tooltip}
+			'''
+	}
+
+	BeholderTentaclesCosmetic: {
+		DisplayName: Tentáculos del Observador
+		Tooltip:
+			'''
+			Efectos de {$ItemName.FrogLeg} y {$ItemName.LavaWaders} pero sin la inmunidad a la lava
+			"Deben ser de Will"
+			'''
+	}
+
+	BiterofSouls: {
+		DisplayName: Mordedor de Almas
+		Tooltip:
+			'''
+			Lanza pequeños devoradores de almas que enfurecen tras cierta distancia
+			Mientras están enfurecidos, atraviesan indefinidamente y pueden golpear al mismo objetivo varias veces
+			'''
+	}
+
+	ChampionWarHorn: {
+		DisplayName: Cuerno de Guerra del Campeón
+		Tooltip:
+			'''
+			Dispara un eco de guerra teledirigido
+			"¡A LA CARGA!"
+			'''
+	}
+
+	ChironsCure: {
+		DisplayName: Cura de Chirón
+		Tooltip: Intercambia vida por un rayo sanador de vida que cura algunos efectos negativos básicos
+	}
+
+	ConcussiveInstrument: {
+		DisplayName: Instrumento Contundente
+		Tooltip:
+			'''
+			Los ataques de instrumentos de percusión lanzan martillos hacia arriba que eventualmente caen
+			"¿Es... solo un martillo?"
+			'''
+	}
+
+	CrystallizedFinality: {
+		DisplayName: Finalidad Cristalizada
+		Tooltip:
+			'''
+			Efectos de [i:ThoriumRework/BeholderTentacles]{$ItemName.FrogLeg}, [i:ThoriumRework/BeholderTentacles]{$ItemName.LavaWaders} pero sin la inmunidad a la lava, y [i:ThoriumRework/StriderMouthguard]{$ItemName.HandWarmer}
+			[i:ThoriumRework/BeholderTentacles][i:ThoriumRework/StriderMouthguard] Los ataques infligen Congelación por Escarcha y Fuego Infernal, causan más daño y otorgan escudo contra objetivos afectados por cualquiera de esos efectos negativos
+			[i:ThoriumRework/StriderMouthguard][i:ThoriumRework/UndyingGaze] Mantén el ataque para generar hasta tres Ácaros de Escarcha, deja de atacar para liberarlos, otorgando Esencia del Alma al golpear
+			[i:ThoriumRework/UndyingGaze] Los golpes críticos otorgan Esencia del Alma, los ataques que usan vida o que ya otorgan Esencia del Alma dan más
+			[i:ThoriumRework/DeepDarkShellShield] Otorga un escudo pasivo de 20, inmunidad al retroceso y duplica el aumento de vida por escudo, además de incrementar tus estadísticas defensivas
+			"UN. ÚLTIMO. ACTO. DE ENTROPÍA."
+			'''
+	}
+
+	DeathsingerPotion: {
+		DisplayName: Poción del Cantor de la Muerte
+		Tooltip: 7% más de daño y velocidad de interpretación sinfónica
+	}
+
+	DeepDarkShellShield: {
+		DisplayName: "{$Mods.ThoriumRework.Items.DeepDarkShellShieldCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			{$Mods.ThoriumRework.Items.DeepDarkShellShieldCosmetic.Tooltip}
+			Duplica el aumento de vida por escudo
+			Además, el escudo aumenta la defensa y la reducción de daño
+			'''
+	}
+
+	DeepDarkShellShieldCosmetic: {
+		DisplayName: Escudo de Concha de las Profundidades Oscuras
+		Tooltip:
+			'''
+			Otorga un escudo pasivo de 20
+			Otorga inmunidad al retroceso
+			'''
+	}
+
+	DukeFish: {
+		DisplayName: Pez Duque
+		Tooltip:
+			'''
+			Mantén <left> para inflar una burbuja creciente y suéltala para dispararla
+			La burbuja curará a los aliados y los encerrará en un escudo protector
+			"Se llama Ron, por cierto"
+			'''
+	}
+
+	EaterPiper: {
+		DisplayName: Flautista Devorador
+		Tooltip:
+			'''
+			Invoca gusanos retorcidos que muerden a los enemigos
+			Ignora 15 puntos de Defensa enemiga
+			"Dale un frasco de pimientos encurtidos"
+			'''
+	}
+
+	ExecutionersContract: {
+		DisplayName: Contrato del Verdugo
+		Tooltip:
+			'''
+			Ganar esencia de alma con guadañas radiantes otorga una carga agregada acumulable
+			El daño radiante de proyectiles de guadaña o armas que no son guadañas consume la carga agregada para otorgar esencia de alma
+			"Tráeme sus almas..."
+			'''
+	}
+
+	FanDonations: {
+		DisplayName: Donaciones de Fans
+		Tooltip:
+			'''
+			Todos los ataques de instrumentos explotan al golpear, el tamaño de la explosión varía y causa 50% menos de daño crítico
+			Los ataques de instrumentos de cuerda que atraviesan aumentan de velocidad con cada golpe y ya no pierden daño
+			Ciertos ataques de instrumentos de cuerda que activan efectos al colisionar con bloques también se activan al golpear
+			Los ataques de instrumentos de percusión lanzan martillos hacia arriba que eventualmente caen
+			Los proyectiles de instrumentos electrónicos son considerablemente más rápidos
+			Aumenta la inspiración máxima en 5
+			"No vende mucho, lamentablemente. Al menos alguien es lo bastante amable para aportar..."
+			'''
+	}
+
+	FlyingFlute: {
+		DisplayName: Flauta Voladora
+		Tooltip:
+			'''
+			Invoca una flauta alada que disparará a los enemigos
+			Otorga Tiempo de Vuelo II y Regeneración de Recursos I cada vez que ataca
+			"¿Acaso te parece que le importa un pito?"
+			'''
+	}
+
+	GildedFlyingFlute: {
+		DisplayName: Flauta Voladora Dorada
+		Tooltip:
+			'''
+			{0}% más de daño sinfónico
+			{1}% más de velocidad de interpretación sinfónica
+			Aumenta la velocidad de persecución de los instrumentos de viento en {2}%
+			Tus ataques de instrumentos de viento ahora intentan perseguir rápidamente a los enemigos
+			Si el ataque ya persigue a los enemigos, lo hace mucho más rápido
+			Invoca una flauta alada que disparará a los enemigos
+			Otorga Tiempo de Vuelo II y Regeneración de Recursos I cada vez que ataca
+			'''
+	}
+
+	HandheldRocket: {
+		DisplayName: Cohete de Mano
+		Tooltip:
+			'''
+			Lanza un cohete de mano que explotará cuatro veces a una distancia determinada
+			"¡Cohete de Bolsillo!"
+			'''
+	}
+
+	HeadHunter: {
+		DisplayName: Cazacabezas
+		Tooltip:
+			'''
+			Esta guadaña se blande direccionalmente y gira dos veces cada 2 golpes
+			Ganar esencia de alma, dar golpes críticos o estar en combate crea fragmentos de hielo que te siguen
+			Los fragmentos de hielo otorgan +10 de defensa cada uno, pero solo puede haber 4 a la vez
+			<right> o cambia de arma para disparar todos los fragmentos de hielo al enemigo más cercano a tu cursor
+			"Pertenece a cierto demonio que supuestamente regenta una cafetería..."
+			'''
+	}
+
+	HelheimSoul: {
+		DisplayName: Alma de Helheim
+		Tooltip:
+			'''
+			Otorga inmunidad a [i:ThoriumRework/QueenJellyPin]En Burbuja, [i:ThoriumRework/VampireCape]Sangrado, [i:ThoriumRework/VampireCape]Maldición del Vampiro y [i:ThoriumRework/DeepDarkShellShield]retroceso
+			Efectos de [i:ThoriumRework/BeholderTentacles]{$ItemName.FrogLeg}, [i:ThoriumRework/BeholderTentacles]{$ItemName.LavaWaders}, y [i:ThoriumRework/StriderMouthguard]{$ItemName.HandWarmer}
+			[i:ThoriumRework/BeholderTentacles][i:ThoriumRework/StriderMouthguard] Los ataques infligen Congelación por Escarcha y Fuego Infernal, causan más daño y otorgan escudo contra objetivos afectados por cualquiera de esos efectos negativos
+			[i:ThoriumRework/StriderMouthguard][i:ThoriumRework/UndyingGaze] Mantén el ataque para generar hasta tres Ácaros de Escarcha, deja de atacar para liberarlos, otorgando Esencia del Alma al golpear
+			[i:ThoriumRework/DeepDarkShellShield][i:ThoriumRework/BandofCratons] Otorga un escudo pasivo de 40, inmunidad a Desbordado y hace que tus ataques lo inflijan, y duplica el aumento de vida por escudo además de incrementar tus estadísticas defensivas
+			[i:ThoriumRework/BandofCratons] Restaura los recursos del jugador según la cantidad de escudo perdido, perder más de 20 de escudo crea una descarga eléctrica que destruye 3 proyectiles
+			[i:ThoriumRework/UndyingGaze] Los golpes críticos otorgan Esencia del Alma, los ataques que usan vida o que ya otorgan Esencia del Alma dan más
+			[i:ThoriumRework/QueenJellyPin] Invoca tentáculos a tu alrededor que se aferran a los enemigos, aumentando la regeneración de vida y recursos al golpear, el daño de los tentáculos aumenta según la defensa
+			[i:ThoriumRework/VampireCape] Recibes considerablemente menos daño y tienes muchas menos probabilidades de ser el objetivo de los enemigos mientras el Enjambre de Murciélagos está activo
+			[i:ThoriumRework/ZephyrWings] Engancharse en el aire con la cría del Agarre de Céfiro extiende el tiempo de vuelo
+			[i:ThoriumRework/ZephyrWings] La cría del Agarre de Céfiro puede volver a invocarse tras planear un rato, causar daño la restaura más rápido
+			[i:ThoriumRework/StarScoutReticle] Permite respirar en el espacio y otorga visión nocturna
+			[i:ThoriumRework/StarScoutReticle] El impulso te teletransporta unos bloques hacia adelante y te da un impulso si aún no tienes uno
+			[i:ThoriumRework/BannerofWar] El daño y la curación adicional aumentan con el tiempo mientras estás en combate, pero se desvanecen gradualmente al salir de él
+			[i:ThoriumRework/BannerofWar] Mientras estás en combate, emites periódicamente un pulso que cura a los aliados por una cantidad igual a la curación adicional, el alcance de potenciación de Bardo afecta el alcance, y la frecuencia aumenta con el tiempo
+			'''
+	}
+
+	ImpulseAmplifier: {
+		DisplayName: Amplificador de Impulso
+		Tooltip: Los proyectiles de instrumentos electrónicos son considerablemente más rápidos
+	}
+
+	InspirationRegenerationPotion: {
+		DisplayName: Poción de Regeneración de Inspiración
+		Tooltip: Mayor regeneración de inspiración
+	}
+
+	FluteofCurses: {
+		DisplayName: Flauta de Maldiciones
+		Tooltip: Dispara calaveras malditas que se aferran a los enemigos, causando daño continuo
+	}
+
+	JellyfishJam: {
+		DisplayName: Medusa Interferente
+		Tooltip: Dispara medusas danzantes que atraviesan
+	}
+
+	KingTrumpet: {
+		DisplayName: Trompeta Real
+		Tooltip:
+			'''
+			Rocía una ráfaga de esporas que infectan a los objetivos golpeados
+			Ignora 10 puntos de Defensa enemiga
+			'''
+	}
+
+	Kusarigama: {
+		DisplayName: Kusarigama
+		Tooltip:
+			'''
+			Esta maza cuenta como guadaña
+			Golpear enemigos con la cuchilla genera esencia de alma
+			Golpear enemigos con el mango genera energía curativa persistente
+			Puede haber hasta 2 energías curativas a la vez
+			'''
+	}
+
+	LichWhip: {
+		DisplayName: Instrumento de Tormento
+		Tooltip:
+			'''
+			Lanza un triple latigazo potenciado por fuego de alma
+			Los enemigos golpeados sangrarán sus almas y curarán a sus objetivos
+			"Una herramienta usada para atormentar almas en el más allá"
+			'''
+	}
+
+	LodeStoneMagnetMace: {
+		DisplayName: Maza Magnética de Piedra Imán
+		Tooltip:
+			'''
+			Blande una maza magnética que libera energía curativa persistente en su primer golpe
+			Puede haber hasta 4 energías curativas a la vez
+			El daño quiebra a los enemigos, aumentando el daño que reciben en un 10% y atrayendo la maza hacia ellos
+			'''
+	}
+
+	Loudener: {
+		DisplayName: Amplificador
+		Tooltip:
+			'''
+			Los ataques de instrumentos de viento y metal explotan al golpear
+			El tamaño de la explosión varía según el instrumento tocado
+			Las explosiones causan 50% menos de daño crítico
+			"¡Tú tienes un silenciador, yo tengo un amplificador!"
+			'''
+	}
+
+	LunateCharm: {
+		DisplayName: Amuleto Lunar
+		Tooltip: Ganar esencia de alma otorga escudo cuando la vida está al máximo
+	}
+
+	RedCresent: {
+		DisplayName: Media Luna Roja
+		Tooltip:
+			'''
+			Dispara murciélagos que regresan al golpear, otorgando sangre
+			<right> para consumir sangre y liberar murciélagos que curan a los aliados por <healAmount> de vida
+			<legendaryModeOnly>Cuesta vida usarlo en el modo Legendario
+			Sifón de Sangre: <bloodSiphon>
+			"Una maravillosa balada de los murciélagos"
+			'''
+	}
+
+	MagicalHarp: {
+		DisplayName: "{$ItemName.MagicalHarp}"
+		Tooltip: ""
+	}
+
+	Oneirophobia: {
+		DisplayName: Oneirofobia
+		Tooltip:
+			'''
+			Crea una aparición lúcida que funciona como armas aleatorias
+			En los dos primeros ataques, el arma se transforma en espada
+			El primer golpe crea una feroz onda de choque, el segundo crea tres
+			En el tercer ataque, la cuchilla del arma se desprende y es lanzada hacia adelante
+			El arma entonces se transforma en guadaña
+			En el cuarto ataque, el arma gira y libera rayos teledirigidos
+			En el quinto ataque, el arma se transforma en un bastón mágico
+			Luego dispara una bola de energía volátil que explota tras un tiempo
+			En el sexto ataque, el arma se transforma en un arma láser con puntería automática
+			Se convierte en un sintetizador invocación consciente cuando se guarda, atacando enemigos
+			"La manifestación del miedo irracional a los sueños y pesadillas"
+			'''
+	}
+
+	QueenJellyPin: {
+		DisplayName: "{$Mods.ThoriumRework.Items.QueenJellyPinCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Otorga inmunidad a En Burbuja
+			Invoca tentáculos a tu alrededor que se aferran a los enemigos
+			El daño de los tentáculos aumenta según la defensa
+			Los tentáculos aumentan la regeneración de vida y recursos al golpear
+			{$Mods.ThoriumRework.Items.QueenJellyPinCosmetic.Tooltip}
+			'''
+	}
+
+	QueenJellyPinCosmetic: {
+		DisplayName: Alfiler de Medusa Reina
+		Tooltip: '''"¡Arriba y junto a tu cabeza!"'''
+	}
+
+	PickShapedPebble: {
+		DisplayName: Guijarro con Forma de Pico
+		Tooltip:
+			'''
+			Ciertos ataques de instrumentos de cuerda que activan efectos al colisionar con bloques también se activan al golpear
+			"¡Es para música rock!"
+			'''
+	}
+
+	PocketEnergyStorm: {
+		DisplayName: Tormenta de Energía de Bolsillo
+		Tooltip:
+			'''
+			Lanza hasta 20 bolas de energía inestable que desbordan a los objetivos
+			Los enemigos desbordados reciben 5% más de daño
+			Suelta <left> para liberar todas esas bolas a la vez
+			No te agota
+			"Un nuevo significado para quedarse con las bolas"
+			'''
+	}
+
+	RepurposedStarCaller: {
+		DisplayName: Llamador Estelar Reutilizado
+		Tooltip:
+			'''
+			Invoca los núcleos elementales del Explorador Estelar para luchar por ti
+			Los núcleos Piro queman a los objetivos, los núcleos Bio envenenan, y los núcleos Crio infligen quemadura por frío
+			"Hemos recibido tu llamado, ¿ahora qué?"
+			'''
+	}
+
+	SealedContract: {
+		DisplayName: Contrato Sellado
+		Tooltip:
+			'''
+			Aumenta la vida máxima en 60
+			Los hechizos curativos otorgan 5 de vida adicional
+			Ganar esencia de alma con guadañas radiantes otorga una carga agregada acumulable y escudo cuando la vida está al máximo
+			El daño radiante de proyectiles de guadaña o armas que no son guadañas consume la carga agregada para otorgar esencia de alma
+			"¡Sella el trato!"
+			'''
+	}
+
+	Shellxophone: {
+		DisplayName: Odisea del Mar Profundo
+		Tooltip:
+			'''
+			Dispara ondas rebotantes acompañadas de golpes abisales teledirigidos
+			<right> para disparar gotas teledirigidas que curan a los aliados a costa de 10 de inspiración
+			La curación aumenta por cada potenciación única que tengan los aliados según su nivel
+			"Llamando a los acechantes de las profundidades acuáticas a tocar la más fina sinfonía"
+			'''
+	}
+
+	ShoulderBlade: {
+		DisplayName: Cuchilla del Hombro
+		Tooltip:
+			'''
+			Lanza un hacha de carne que se detiene a cierta distancia
+			Mientras está estacionaria, el arma tiene un breve punto óptimo donde invoca rayos de sanguijuela teledirigidos al golpear
+			'''
+	}
+
+	SierraChimera: {
+		DisplayName: Sierra Chimera
+		Tooltip:
+			'''
+			Otorga inmunidad a [i:ThoriumRework/QueenJellyPin]En Burbuja, [i:ThoriumRework/VampireCape]Sangrado y [i:ThoriumRework/VampireCape]Maldición del Vampiro
+			[i:ThoriumRework/QueenJellyPin] Invoca tentáculos a tu alrededor que se aferran a los enemigos y aumentan la regeneración de vida y recursos al golpear
+			[i:ThoriumRework/QueenJellyPin] El daño de los tentáculos aumenta según la defensa
+			[i:ThoriumRework/VampireCape] Recibes considerablemente menos daño y tienes muchas menos probabilidades de ser el objetivo de los enemigos mientras el Enjambre de Murciélagos está activo
+			[i:ThoriumRework/ZephyrWings] Engancharse en el aire con la cría del Agarre de Céfiro extiende el tiempo de vuelo
+			[i:ThoriumRework/ZephyrWings] La cría del Agarre de Céfiro puede volver a invocarse tras planear un rato, causar daño la restaura más rápido
+			'''
+	}
+
+	SoulSnatcher: {
+		DisplayName: Arrebatador de Almas
+		Tooltip:
+			'''
+			Esta maza cuenta como guadaña
+			Golpear enemigos con la cuchilla genera esencia de alma
+			Golpear enemigos con el mango genera energía curativa persistente
+			Puede haber hasta 5 energías curativas a la vez
+			"¡Tu alma pertenece al arrebatador!"
+			'''
+	}
+
+	SpittingShroomStaff: {
+		DisplayName: Bastón del Hongo Escupidor
+		Tooltip:
+			'''
+			Invoca un hongo escupidor de esporas que ataca a los enemigos
+			Se esconde cuando los enemigos se acercan, causando una explosión letal
+			'''
+	}
+
+	StarScoutReticle: {
+		DisplayName: "{$Mods.ThoriumRework.Items.StarScoutReticleCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Permite respirar en el espacio y otorga visión nocturna
+			El impulso te teletransporta unos bloques hacia adelante
+			No funciona con impulsos especiales
+			Te da un impulso si aún no tienes uno
+			{$Mods.ThoriumRework.Items.StarScoutReticleCosmetic.Tooltip}
+			'''
+	}
+
+	StarScoutReticleCosmetic: {
+		DisplayName: Retícula del Explorador Estelar
+		Tooltip: '''"¿Miedo a la oscuridad? No te preocupes, ¡me tienes a mí!"'''
+	}
+
+	StellarTune: {
+		DisplayName: "{$ItemName.SparkleGuitar}"
+		Tooltip: "{$ItemTooltip.SparkleGuitar}"
+	}
+
+	StriderMouthguard: {
+		DisplayName: "{$Mods.ThoriumRework.Items.StriderMouthguardCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Los ataques infligen Quemadura por Frío, otorgan escudo al dañar objetivos afectados por Quemadura por Frío
+			Mantén el ataque para generar hasta tres Ácaros de Escarcha, deja de atacar para liberarlos
+			{$Mods.ThoriumRework.Items.StriderMouthguardCosmetic.Tooltip}
+			'''
+	}
+
+	StriderMouthguardCosmetic: {
+		DisplayName: Protector Bucal del Estríder
+		Tooltip: Efectos de {$ItemName.HandWarmer}
+	}
+
+	TerrariumSoulScourge: {
+		DisplayName: Azote de Almas de Terrarium
+		Tooltip:
+			'''
+			Blande una maza prismática que libera energía curativa persistente en su primer golpe
+			Puede haber hasta 10 energías curativas a la vez
+			Invoca copias arcoíris de sí misma al generar orbes curativos
+			'''
+	}
+
+	TitanHat: {
+		DisplayName: Sombrero Titánico
+		Tooltip:
+			'''
+			'Imbuido de energía primordial'
+			Aumenta la velocidad de interpretación sinfónica y la tasa de regeneración de inspiración en 15%
+			Aumenta la duración de potenciación en 3 segundos
+			Aumenta enormemente el alcance de potenciación
+			'''
+	}
+
+	TitanHood: {
+		DisplayName: Capucha Titánica
+		Tooltip:
+			'''
+			'Imbuido de energía primordial'
+			Aumenta la velocidad de lanzamiento en 15%
+			Aumenta los puntos de técnica máximos en 3
+			Las armas de lanzamiento no consumibles tardan 40% más en agotarte
+			'''
+	}
+
+	TitanVisage: {
+		DisplayName: Semblante Titánico
+		Tooltip:
+			'''
+			'Imbuido de energía primordial'
+			Aumenta el daño radiante y la velocidad de lanzamiento en 15%
+			Los hechizos curativos curarán 6 de vida adicional
+			Tus hechizos curativos pueden dar golpe crítico, duplicando su curación
+			'''
+	}
+
+	TitanVisor: {
+		DisplayName: Visor Titánico
+		Tooltip:
+			'''
+			'Imbuido de energía primordial'
+			Aumenta el máximo de invocaciones en 3 y de centinelas en 1
+			Aumenta el alcance del látigo en 15%
+			Aumenta la probabilidad de golpe crítico de invocación en 6%
+			Las invocaciones y centinelas pueden dar golpe crítico
+			'''
+	}
+
+	ThoriumBludgeon: {
+		DisplayName: Maza de Torio
+		Tooltip:
+			'''
+			Blande una maza radiactiva que libera energía curativa persistente en su primer golpe
+			Puede haber hasta 2 energías curativas a la vez
+			'''
+	}
+
+	ThoriumHeavyScythe: {
+		DisplayName: Guadaña Pesada de Torio
+		Tooltip: Esta guadaña se blande direccionalmente en lugar de girar
+	}
+
+	ThoriumWhistle: {
+		DisplayName: Silbato de Torio
+		Tooltip: Dispara una descarga de rayos de corto alcance
+	}
+
+	UndyingGaze: {
+		DisplayName: "{$Mods.ThoriumRework.Items.UndyingGazeCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			Cualquier golpe crítico ahora otorga Esencia del Alma
+			Los ataques que usan vida otorgarán Esencia del Alma con cualquier golpe
+			Los ataques que ya otorgan Esencia del Alma otorgarán una carga extra
+			'''
+	}
+
+	UndyingGazeCosmetic: {
+		DisplayName: Mirada Inmortal
+		Tooltip: Tus ojos emiten un tenue resplandor
+	}
+
+	ValadiumHeavyScythe: {
+		DisplayName: Guadaña Pesada de Valadium
+		Tooltip:
+			'''
+			Esta guadaña se blande direccionalmente en lugar de girar
+			Libera una onda de energía oscura de corto alcance que atraviesa
+			El daño golpea a los enemigos con energía interdimensional
+			'''
+	}
+
+	ValkyrienSkyStone: {
+		DisplayName: Piedra Celeste Valkyrien
+		Tooltip:
+			'''
+			[i:ThoriumRework/StarScoutReticle] Permite respirar en el espacio y otorga visión nocturna
+			[i:ThoriumRework/StarScoutReticle] El impulso te teletransporta unos bloques hacia adelante y te da un impulso si aún no tienes uno
+			[i:ThoriumRework/BannerofWar] El daño y la curación adicional aumentan con el tiempo mientras estás en combate, pero se desvanecen gradualmente al salir de él
+			[i:ThoriumRework/BannerofWar] Mientras estás en combate, emites periódicamente un pulso curativo que sana a los aliados por una cantidad igual a la curación adicional, el alcance de potenciación de Bardo afecta el alcance del pulso
+			[i:ThoriumRework/BannerofWar] La frecuencia de los pulsos aumenta cuanto más tiempo llevas en combate
+			[i:ThoriumRework/BandofCratons] Otorga un escudo pasivo de 40, inmunidad a Desbordado y hace que tus ataques lo inflijan
+			[i:ThoriumRework/BandofCratons] Restaura los recursos del jugador según la cantidad de escudo perdido, perder más de 20 de escudo crea una descarga eléctrica que destruye 3 proyectiles
+			'''
+	}
+
+	VampireCape: {
+		DisplayName: "{$Mods.ThoriumRework.Items.VampireCapeCosmetic.DisplayName}"
+		Tooltip: Otorga inmunidad al sangrado y a la Maldición del Vampiro
+	}
+
+	VampireCapeCosmetic: {
+		DisplayName: Capa de Murciélago Vampiro
+		Tooltip: ""
+	}
+
+	ZephyrsRuin: {
+		DisplayName: Ruina de Céfiro
+		Tooltip:
+			'''
+			Se clava en los enemigos golpeados, o en el suelo si falla
+			Invoca un rayo que castiga a los enemigos golpeados tras un tiempo
+			Los golpes críticos castigan a los enemigos al impacto inicial
+			No te agota
+			"Dicen que un rayo nunca cae dos veces en el mismo lugar"
+			'''
+	}
+
+	ZephyrWings: {
+		DisplayName: "{$Mods.ThoriumRework.Items.ZephyrWingsCosmetic.DisplayName}"
+		Tooltip:
+			'''
+			{$Mods.ThoriumRework.Items.ZephyrWingsCosmetic.Tooltip}
+			Engancharse en el aire con la cría del Agarre de Céfiro extiende la duración de vuelo
+			La cría del Agarre de Céfiro puede volver a invocarse tras planear un rato
+			Causar daño hace que la cría pueda volver a invocarse mucho antes
+			'''
+	}
+
+	ZephyrWingsCosmetic: {
+		DisplayName: Alas de Céfiro
+		Tooltip:
+			'''
+			Permite volar y caer lentamente
+			Las mismas estadísticas que {$ItemName.CreativeWings}
+			'''
+	}
+}
+
+Buffs: {
+	BubblyShield: {
+		DisplayName: Escudo Burbujeante
+		Description: +10 de defensa, sobreescudo y reducción de daño especial
+	}
+
+	Deathsinger: {
+		DisplayName: Cantor de la Muerte
+		Description: 7% más de daño y velocidad de interpretación sinfónica
+	}
+
+	Inspired: {
+		DisplayName: Inspirado
+		Description: Mayor regeneración de inspiración
+	}
+
+	SoulBleed: {
+		DisplayName: Sangrado de Alma
+		Description: Tu alma se está disipando...
+	}
+
+	StarCalled: {
+		DisplayName: Llamado Estelar
+		Description: Ellos recibieron tu señal
+	}
+
+	TerminalLucidity: {
+		DisplayName: Lucidez Terminal
+		Description:
+			'''
+			-Mecánica de Jefe-
+			El Devorador de Sueños no puede recibir daño mientras este efecto negativo esté activo
+			Te mata cuando el temporizador se agota
+			Toca una grieta de realidad estable para iniciar la fase de DPS y reiniciar el temporizador
+			Las grietas de realidad estables son los portales morados brillantes
+			"El destino aguarda..."
+			'''
+	}
+
+	LucidRetaliation: {
+		DisplayName: Represalia Lúcida
+		Description:
+			'''
+			-Mecánica de Jefe-
+			El Devorador de Sueños puede recibir daño mientras esta mejora esté activa
+			Recibir un golpe de grietas de realidad inestables elimina esta mejora antes de tiempo
+			Las grietas de realidad inestables son los ataques de grietas negras
+			Otorga vuelo infinito
+			"El destino llega..."
+			'''
+	}
+
+	VampireCape: {
+		DisplayName: Enjambre de Murciélagos Vampiro
+		Description: Eres un enjambre de murciélagos vampíricos
+	}
+}
+
+Prefixes: {
+	Careless: {
+		DisplayName: Descuidado
+		Description: +2 de costo de vida
+	}
+
+	Complicated: {
+		DisplayName: Complicado
+		Description: +25% de velocidad del temporizador
+	}
+
+	Favored: {
+		DisplayName: Favorecido
+		Description: -25% de velocidad del temporizador
+	}
+
+	Risky: {
+		DisplayName: Arriesgado
+		Description: +1 de costo de vida
+	}
+
+	Simplified: {
+		DisplayName: Simplificado
+		Description: -25% de velocidad del temporizador
+	}
+
+	Suicidal: {
+		DisplayName: Suicida
+		Description: +3 de costo de vida
+	}
+}
+
+Configs: {
+	ReworkConfig: {
+		DisplayName: Configuración Visual
+
+		flash: {
+			Label: Intensidad de luces parpadeantes
+			Tooltip: Qué tan brillantes o tenues son los destellos
+		}
+
+		overlay: {
+			Label: Intensidad de superposición
+			Tooltip: Qué tan transparentes son las superposiciones de pantalla
+		}
+
+		seizures: {
+			Label: Advertencia de fotosensibilidad
+			Tooltip: Muestra una advertencia de fotosensibilidad al entrar a un mundo
+		}
+
+		bossRenames: {
+			Label: Renombrado de jefes
+			Tooltip: Activa los renombrados de jefes añadidos por este mod
+		}
+
+		starScouterEnrageText: {
+			Label: "[i:ThoriumMod/StarScouterMask]Texto de Furia del Explorador Estelar"
+			Tooltip:
+				'''
+				Si el Explorador Estelar muestra o no un texto emergente indicando furia
+				Solo funciona en el Explorador Estelar reworkeado, la versión sin reworkear no se ve afectada por esta configuración ya que no puede enfurecerse
+				'''
+		}
+
+		starScouterEnrageVisuals: {
+			Label: "[i:ThoriumMod/StarScouterMask]Visuales de Furia del Explorador Estelar"
+			Tooltip:
+				'''
+				Si el Explorador Estelar se pone rojo o no al enfurecerse
+				Solo funciona en el Explorador Estelar reworkeado, la versión sin reworkear no se ve afectada por esta configuración ya que no puede enfurecerse
+				'''
+		}
+
+		lichOutline: {
+			Label: "[i:ThoriumMod/LichMask]Intensidad del Aura del Liche"
+			Tooltip:
+				'''
+				Controla la intensidad del tenue resplandor rojo alrededor del Liche
+				Solo funciona en el Liche reworkeado, la versión sin reworkear no se ve afectada por esta configuración
+				Usa esto si quieres paridad visual con el diseño original o si tienes problemas para verlo
+				'''
+		}
+	}
+
+	CompatConfig: {
+		DisplayName: Configuración de Compatibilidad entre Mods
+
+		healthScale: {
+			Label: Multiplicador de vida
+			Tooltip: Multiplica la vida de los jefes de Thorium por esta cantidad
+		}
+
+		damageScale: {
+			Label: Multiplicador de daño
+			Tooltip: Multiplica el daño de ataque de los jefes de Thorium por esta cantidad
+		}
+
+		speedScale: {
+			Label: Multiplicador de velocidad
+			Tooltip:
+				'''
+				Multiplica la velocidad de movimiento de los jefes de Thorium por esta cantidad
+				Limitado a 2x de velocidad, ya que más alto rompe a los jefes
+				1.35x es lo recomendado para Infernum
+				'''
+		}
+
+		terraItemsFix: {
+			Label: Paridad de Recetas de Objetos Terra de Thorium
+			Tooltip:
+				'''
+				(¡Recomendado!)
+				Cambia todas las armas Terra de Thorium para usar recetas similares a la Espada Terra vanilla
+				Se desactiva automáticamente si Unofficial Calamity Bard & Healer está instalado, ya que ese mod ya hace esto
+				'''
+		}
+
+		extraItems: {
+			Label: Contenido de Objetos Extra
+			Tooltip:
+				'''
+				(Opcional)
+				Añade algunos objetos no relacionados que provienen de este mod
+				'''
+		}
+
+		extraPotions: {
+			Label: Contenido de Pociones Extra
+			Tooltip:
+				'''
+				(Opcional)
+				Añade algunas pociones de mejora relacionadas con las clases de Thorium que provienen de este mod
+				'''
+		}
+
+		extraPrefixes: {
+			Label: Contenido de Prefijos Extra
+			Tooltip:
+				'''
+				(Opcional)
+				Añade algunos prefijos relacionados con los objetos de clase de Thorium que provienen de este mod
+				'''
+		}
+
+		masterDrops: {
+			Label: Objetos de Modo Maestro
+			Tooltip:
+				'''
+				(¡Recomendado!)
+				Los jefes de Thorium tendrán armas exclusivas que caen en modo maestro, revancha o eternidad
+				'''
+		}
+
+		masterDropsAreNonExclusive: {
+			Label: Los objetos de maestro caen como objetos de experto
+			Tooltip:
+				'''
+				Las armas exclusivas de modo maestro caen en modo experto
+				Recomendado si no te gusta jugar en maestro u otros mods rompen los objetos de maestro
+				(ej: el modo eternidad se convierte en modo masoquista o infernum no es usable en modo maestro)
+				'''
+		}
+
+		itemReworks: {
+			Label: Reworkear Algunos Objetos de Thorium
+			Tooltip:
+				'''
+				(¡Recomendado!)
+				Reworkea algunos objetos del mod Thorium para que sean mucho mejores
+				'''
+		}
+
+		postDoGRag: {
+			Label: Reajustar Tier de los Primordiales en Calamity o Fargo's Souls
+			Tooltip:
+				'''
+				(¡Recomendado!)
+				Hace que los Primordiales se ubiquen en progresión después del Devorador
+				Antes de Eridanus en Fargo's Souls
+				Entre ambos si los dos mods están activados
+				'''
+		}
+
+		vanillaBard: {
+			Label: Stellar Tune y Magical Harp son de Bardo
+			Tooltip: Stellar Tune y Magical Harp ahora son instrumentos de cuerda y otorgan potenciaciones
+		}
+
+		DoD: {
+			Label: Devorador de Sueños (Configuración de broma)
+			Tooltip:
+				'''
+				Esta configuración es completamente una broma, le da al Devorador de Dioses los ataques originales del Devorador de Sueños
+				Puede que sea justa y equilibrada, o puede que no
+				'''
+		}
+
+		thorlamityBR: {
+			Label: Jefes de Thorium en el Boss Rush de Calamity
+			Tooltip: Los Jefes de Thorium aparecen en el Boss Rush de Calamity, ordenados según el tier apropiado de progresión
+		}
+
+		defenseDamage: {
+			Label: Soporte de Daño a la Defensa
+			Tooltip: Permite que algunos ataques de jefes de Thorium inflijan daño a la defensa si el mod Calamity está activado
+		}
+
+		eternityModeOnly: {
+			Label: Solo modo eternidad
+			Tooltip:
+				'''
+				Los reworks de jefes de este mod solo se aplican cuando el modo eternidad está activo
+				También cambia los objetos de maestro (si están activados) por objetos de eternidad
+				Además, los jefes de Thorium ahora pueden dejar caer accesorios de modo eternidad
+				Esta configuración no hace nada si Fargo's Souls no está instalado
+				'''
+		}
+
+		infernumModeOnly: {
+			Label: Solo modo infernum
+			Tooltip:
+				'''
+				Los reworks de jefes de este mod solo se aplican cuando el modo infernum está activo
+				Esta configuración no hace nada si Infernum no está instalado
+				'''
+		}
+	}
+
+	ReworkTogglesConfig: {
+		DisplayName: Interruptores de Rework de Jefes
+
+		bird: {
+			Label: "[i:ThoriumMod/TheGrandThunderBirdMask]El Gran Ave del Trueno"
+			Tooltip: Rework de El Gran Ave del Trueno
+		}
+
+		jelly: {
+			Label: "[i:ThoriumMod/QueenJellyfishMask]Reina Medusa"
+			Tooltip: Rework de la Reina Medusa
+		}
+
+		bat: {
+			Label: "[i:ThoriumMod/ViscountMask]Vizconde"
+			Tooltip: Rework del Vizconde
+		}
+
+		champ: {
+			Label: "[i:ThoriumMod/BuriedChampionMask]Campeón Enterrado"
+			Tooltip: Rework del Campeón Enterrado
+		}
+
+		ges: {
+			Label: "[i:ThoriumMod/GraniteEnergyStormMask]Tormenta de Energía Granítica"
+			Tooltip: Rework de la Tormenta de Energía Granítica
+		}
+
+		scout: {
+			Label: "[i:ThoriumMod/StarScouterMask]Explorador Estelar"
+			Tooltip: Rework del Explorador Estelar
+		}
+
+		coznix: {
+			Label: "[i:ThoriumMod/FallenBeholderMask]Coznix"
+			Tooltip: Rework del Observador Caído
+		}
+
+		strider: {
+			Label: "[i:ThoriumMod/BoreanStriderMask]Estríder Boreal"
+			Tooltip: Rework del Estríder Boreal
+		}
+
+		lich: {
+			Label: "[i:ThoriumMod/LichMask]Liche"
+			Tooltip: Rework del Liche
+		}
+
+		abyssion: {
+			Label: "[i:ThoriumMod/ForgottenOneMask]Abyssion"
+			Tooltip: Rework de El Olvidado
+		}
+
+		requireAbyssion: {
+			Label: "[i:ThoriumMod/ForgottenOneMask]Requerir a Abyssion en la Progresión"
+			Tooltip:
+				'''
+				El Olvidado ahora necesita ser derrotado junto al Golem para permitir que los cultistas aparezcan
+				Se desactiva automáticamente en mundos donde las Profundidades Acuáticas no se generaron
+				'''
+		}
+
+		rag: {
+			Label: "[i:ThoriumMod/TheOmegaCore]Ragnarök"
+			Tooltip: Rework de los Primordiales y el Devorador de Sueños
+		}
+
+		terminalLucidity: {
+			Label: "[i:ThoriumMod/TheOmegaCore]Dificultad Mínima de Lucidez Terminal"
+			Tooltip:
+				'''
+				La dificultad más baja en la que puede aparecer la Lucidez Terminal
+				0 - Solo en Boss Rush
+				1 - Activado para todos
+				2 - Maestro o Revancha
+				3 - Legendario, Muerte o Eternidad
+				4 - GFB, Infernum, Masoquista o Eternidad-Muerte
+				'''
+		}
+	}
+
+	ItemReworksConfig: {
+		DisplayName: Interruptores de Rework/Mejora de Objetos
+
+		showItemReworks: {
+			Label: Mostrar Reworks de Objetos
+			Tooltip:
+				'''
+				Muestra qué objetos son reworkeados por este mod en su descripción
+				PROBLEMA CONOCIDO: No funciona correctamente cuando el orden de carga de mods está desordenado
+				También casi no funciona en ciertas armaduras y armas de bardo
+				'''
+		}
+
+		ThoriumArmor: {
+			Label: "[i:ThoriumMod/ThoriumMail]Armadura de Torio"
+			Tooltip: Nota: El bono de conjunto es lo que está reworkeado, no la armadura en sí
+		}
+
+		ThoriumRevolver: {
+			Label: "[i:ThoriumMod/ThoriumRevolver]Revólver de Torio"
+			Tooltip: Nota: Esto vuelve a añadir su receta de crafteo
+		}
+
+		ThoriumSpear: {
+			Label: "[i:ThoriumMod/ThoriumSpear]Lanza de Torio"
+			Tooltip: ""
+		}
+
+		HitScanner: {
+			Label: "[i:ThoriumMod/HitScanner]Escáner de Impacto"
+			Tooltip: ""
+		}
+
+		ParticleWhip: {
+			Label: "[i:ThoriumMod/ParticleWhip]Látigo de Partículas"
+			Tooltip: ""
+		}
+
+		ChampionBomberStaff: {
+			Label: "[i:ThoriumMod/ChampionBomberStaff]Bastón Bombardero del Campeón"
+			Tooltip: ""
+		}
+
+		ChampionSwiftBlade: {
+			Label: "[i:ThoriumMod/ChampionSwiftBlade]Espada Veloz del Campeón"
+			Tooltip: ""
+		}
+
+		ChampionsTrifectaShot: {
+			Label: "[i:ThoriumMod/ChampionsTrifectaShot]Disparo Trifecta del Campeón"
+			Tooltip: ""
+		}
+
+		ChampionsRebuttal: {
+			Label: "[i:ThoriumMod/ChampionsRebuttal]Réplica del Campeón"
+			Tooltip: ""
+		}
+
+		GraniteCrossbow: {
+			Label: "[i:ThoriumMod/GraniteCrossbow]Ballesta de Granito"
+			Tooltip: ""
+		}
+
+		GraniteReflector: {
+			Label: "[i:ThoriumMod/GraniteReflector]Reflector de Granito"
+			Tooltip: ""
+		}
+
+		EnergyStormPartisan: {
+			Label: "[i:ThoriumMod/EnergyStormPartisan]Partisana de Tormenta de Energía"
+			Tooltip: ""
+		}
+
+		CobaltPopper: {
+			Label: "[i:ThoriumMod/CobaltPopper]Reventador de Cobalto"
+			Tooltip: ""
+		}
+
+		PalladiumSubmachineGun: {
+			Label: "[i:ThoriumMod/PalladiumSubmachineGun]Subfusil de Paladio"
+			Tooltip: ""
+		}
+
+		MythrilPelter: {
+			Label: "[i:ThoriumMod/MythrilPelter]Lanzador de Mythril"
+			Tooltip: ""
+		}
+
+		OrichalcumPelter: {
+			Label: "[i:ThoriumMod/OrichalcumPelter]Lanzador de Oricalco"
+			Tooltip: ""
+		}
+
+		AdamantiteCarbine: {
+			Label: "[i:ThoriumMod/AdamantiteCarbine]Carabina de Adamantita"
+			Tooltip: ""
+		}
+
+		TitaniumRifle: {
+			Label: "[i:ThoriumMod/TitaniumRifle]Rifle de Titanio"
+			Tooltip: ""
+		}
+
+		HellishHalberd: {
+			Label: "[i:ThoriumMod/HellishHalberd]Alabarda Infernal"
+			Tooltip: ""
+		}
+
+		Obliterator: {
+			Label: "[i:ThoriumMod/Obliterator]Obliterador"
+			Tooltip: ""
+		}
+
+		PyroclastStaff: {
+			Label: "[i:ThoriumMod/PyroclastStaff]Bastón Piroclástico"
+			Tooltip: ""
+		}
+
+		OmegaBlaster: {
+			Label: "[i:ThoriumMod/OmegaBlaster]Megacañón Omega"
+			Tooltip: ""
+		}
+
+		SuperPlasmaCannon: {
+			Label: "[i:ThoriumMod/SuperPlasmaCannon]Súper Cañón de Plasma"
+			Tooltip: ""
+		}
+
+		LodeStoneBow: {
+			Label: "[i:ThoriumMod/LodeStoneBow]Arco de Piedra Imán"
+			Tooltip: ""
+		}
+
+		LodeStoneQuickDraw: {
+			Label: "[i:ThoriumMod/LodeStoneQuickDraw]Disparo Rápido de Piedra Imán"
+			Tooltip: ""
+		}
+
+		LodeStoneClaymore: {
+			Label: "[i:ThoriumMod/LodeStoneClaymore]Mandoble de Piedra Imán"
+			Tooltip: ""
+		}
+
+		ValadiumBow: {
+			Label: "[i:ThoriumMod/ValadiumBow]Arco de Valadium"
+			Tooltip: ""
+		}
+
+		ValadiumFoeBlaster: {
+			Label: "[i:ThoriumMod/ValadiumFoeBlaster]Cañón Valadium"
+			Tooltip: ""
+		}
+
+		ValadiumSpear: {
+			Label: "[i:ThoriumMod/ValadiumSpear]Lanza de Valadium"
+			Tooltip: ""
+		}
+
+		ValadiumSlicer: {
+			Label: "[i:ThoriumMod/ValadiumSlicer]Cortador de Valadium"
+			Tooltip: ""
+		}
+
+		PrimesFury: {
+			Label: "[i:ThoriumMod/PrimesFury]Furia de Prime"
+			Tooltip: ""
+		}
+
+		EnergyCatalyst: {
+			Label: "[i:ThoriumMod/EnergyCatalyst]Catalizador de Energía"
+			Tooltip: ""
+		}
+
+		OrnateArmor: {
+			Label: "[i:ThoriumMod/OrnateJerkin]Armadura Ornamentada"
+			Tooltip: Nota: El bono de conjunto es lo que está reworkeado, no la armadura en sí
+		}
+
+		SoulRender: {
+			Label: "[i:ThoriumMod/SoulRender]Cortaalmas"
+			Tooltip: ""
+		}
+
+		SoulCleaver: {
+			Label: "[i:ThoriumMod/SoulCleaver]Hendidor de Almas"
+			Tooltip: ""
+		}
+
+		FleshSkewer: {
+			Label: "[i:ThoriumMod/FleshSkewer]Ensartador de Carne"
+			Tooltip: ""
+		}
+
+		FleshHorn: {
+			Label: "[i:ThoriumMod/FleshHorn]Cuerno de Carne"
+			Tooltip: ""
+		}
+
+		ToothOfTheConsumer: {
+			Label: "[i:ThoriumMod/ToothOfTheConsumer]Diente del Devorador"
+			Tooltip: ""
+		}
+
+		DragonsGaze: {
+			Label: "[i:ThoriumMod/DragonsGaze]Mirada del Dragón"
+			Tooltip: ""
+		}
+
+		DragonTooth: {
+			Label: "[i:ThoriumMod/DragonTooth]Diente de Dragón"
+			Tooltip: ""
+		}
+
+		DragonTalon: {
+			Label: "[i:ThoriumMod/DragonTalon]Garra de Dragón"
+			Tooltip: ""
+		}
+
+		DragonsWail: {
+			Label: "[i:ThoriumMod/DragonsWail]Lamento del Dragón"
+			Tooltip: ""
+		}
+
+		TitanArmor: {
+			Label: "[i:ThoriumMod/TitanBreastplate]Armadura Titánica"
+			Tooltip:
+				'''
+				Nota: El bono de conjunto es lo que está reworkeado, no la armadura en sí
+				Además, los cascos añadidos se activan mediante Objetos Extra, no esto
+				'''
+		}
+
+		TitanBoomerang: {
+			Label: "[i:ThoriumMod/TitanBoomerang]Bumerán Titánico"
+			Tooltip: ""
+		}
+
+		TitanSword: {
+			Label: "[i:ThoriumMod/TitanSword]Espada Titánica"
+			Tooltip: ""
+		}
+
+		TitanScythe: {
+			Label: "[i:ThoriumMod/TitanScythe]Guadaña Titánica"
+			Tooltip: ""
+		}
+
+		IllumiteBarrage: {
+			Label: "[i:ThoriumMod/IllumiteBarrage]Descarga de Illumite"
+			Tooltip: ""
+		}
+
+		IllumiteBlaster: {
+			Label: "[i:ThoriumMod/IllumiteBlaster]Lanzador de Illumite"
+			Tooltip: ""
+		}
+
+		IllumiteShotbow: {
+			Label: "[i:ThoriumMod/IllumiteShotbow]Arco de Ráfaga de Illumite"
+			Tooltip: ""
+		}
+
+		IllumiteBlade: {
+			Label: "[i:ThoriumMod/IllumiteBlade]Espada de Illumite"
+			Tooltip: ""
+		}
+
+		IllumiteSpear: {
+			Label: "[i:ThoriumMod/IllumiteSpear]Lanza de Illumite"
+			Tooltip: ""
+		}
+
+		IllumiteScythe: {
+			Label: "[i:ThoriumMod/IllumiteScythe]Guadaña de Illumite"
+			Tooltip: ""
+		}
+
+		FallenPaladinArmor: {
+			Label: "[i:ThoriumMod/FallenPaladinCuirass]Armadura del Paladín Caído"
+			Tooltip: Esto es un nerf, este conjunto de armadura está terriblemente roto
+		}
+
+		TerrariumHolyScythe: {
+			Label: "[i:ThoriumMod/TerrariumHolyScythe]Guadaña Sagrada de Terrarium"
+			Tooltip: ""
+		}
+
+		TerrariumSaber: {
+			Label: "[i:ThoriumMod/TerrariumSaber]Sable de Terrarium"
+			Tooltip: ""
+		}
+
+		TerrariumRippleKnife: {
+			Label: "[i:ThoriumMod/TerrariumRippleKnife]Cuchillo Ondulante de Terrarium"
+			Tooltip: ""
+		}
+
+		TerrariumBomber: {
+			Label: "[i:ThoriumMod/TerrariumBomber]Bombardero de Terrarium"
+			Tooltip: ""
+		}
+
+		TerrariumPulseRifle: {
+			Label: "[i:ThoriumMod/TerrariumPulseRifle]Rifle de Pulso de Terrarium"
+			Tooltip: ""
+		}
+
+		TerrariumAutoharp: {
+			Label: "[i:ThoriumMod/TerrariumAutoharp]Autoarpa de Terrarium"
+			Tooltip: ""
+		}
+
+		RealitySlasher: {
+			Label: "[i:ThoriumMod/RealitySlasher]Cortador de Realidades"
+			Tooltip: ""
+		}
+
+		Lucidity: {
+			Label: "[i:ThoriumMod/Lucidity]Lucidez"
+			Tooltip: ""
+		}
+
+		BlackMIDI: {
+			Label: "[i:ThoriumMod/BlackMIDI]MIDI Negro"
+			Tooltip: ""
+		}
+
+		TheJavelin: {
+			Label: "[i:ThoriumMod/TheJavelin]La Jabalina"
+			Tooltip: ""
+		}
+
+		OmniCannon: {
+			Label: "[i:ThoriumMod/OmniCannon]Omni-Cañón"
+			Tooltip: ""
+		}
+
+		OmniBow: {
+			Label: "[i:ThoriumMod/OmniBow]Omni-Arco"
+			Tooltip: ""
+		}
+
+		WyrmDecimator: {
+			Label: "[i:ThoriumMod/WyrmDecimator]Diezmador de Wyrm"
+			Tooltip: ""
+		}
+
+		SevenSeasDevastator: {
+			Label: "[i:ThoriumMod/SevenSeasDevastator]Devastador de los Siete Mares"
+			Tooltip: ""
+		}
+
+		DevilsClaw: {
+			Label: "[i:ThoriumMod/DevilsClaw]Garra del Diablo"
+			Tooltip: ""
+		}
+
+		AlmanacofAgony: {
+			Label: "[i:ThoriumMod/AlmanacofAgony]Almanaque de Agonía"
+			Tooltip: ""
+		}
+
+		TidalWave: {
+			Label: "[i:ThoriumMod/TidalWave]Marejada"
+			Tooltip: ""
+		}
+
+		DeitysTrefork: {
+			Label: "[i:ThoriumMod/DeitysTrefork]Trinche de la Deidad"
+			Tooltip: ""
+		}
+
+		EdgeofImagination: {
+			Label: "[i:ThoriumMod/EdgeofImagination]Filo de la Imaginación"
+			Tooltip: ""
+		}
+
+		Holophonor: {
+			Label: "[i:ThoriumMod/Holophonor]Holofonor"
+			Tooltip: ""
+		}
+
+		Sousaphone: {
+			Label: "[i:ThoriumMod/Sousaphone]Sousafón"
+			Tooltip: ""
+		}
+
+		TheSet: {
+			Label: "[i:ThoriumMod/TheSet]El Conjunto"
+			Tooltip: ""
+		}
+
+		Mjolnir: {
+			Label: "[i:ThoriumMod/Mjolnir]Mjölnir"
+			Tooltip: ""
+		}
+
+		DreadBlaster: {
+			Label: "[i:ThoriumMod/DreadBlaster]Destructor del Pavor"
+			Tooltip: ""
+		}
+
+		DemonBloodStaff: {
+			Label: "[i:ThoriumMod/DemonBloodStaff]Bastón de Sangre Demoníaca"
+			Tooltip: ""
+		}
+
+		DreadRazor: {
+			Label: "[i:ThoriumMod/DreadRazor]Navaja del Pavor"
+			Tooltip: ""
+		}
+
+		DemonBloodSword: {
+			Label: "[i:ThoriumMod/DemonBloodSword]Espada de Sangre Demoníaca"
+			Tooltip: ""
+		}
+
+		DreadTearer: {
+			Label: "[i:ThoriumMod/DreadTearer]Desgarrador del Pavor"
+			Tooltip: ""
+		}
+
+		DemonBloodRipper: {
+			Label: "[i:ThoriumMod/DemonBloodRipper]Desgarrador de Sangre Demoníaca"
+			Tooltip: ""
+		}
+
+		DreadFork: {
+			Label: "[i:ThoriumMod/DreadFork]Horca del Pavor"
+			Tooltip: ""
+		}
+
+		DemonBloodSpear: {
+			Label: "[i:ThoriumMod/DemonBloodSpear]Lanza de Sangre Demoníaca"
+			Tooltip: ""
+		}
+
+		HallowedScythe: {
+			Label: "[i:ThoriumMod/HallowedScythe]Guadaña Santificada"
+			Tooltip: ""
+		}
+
+		TerraScythe: {
+			Label: "[i:ThoriumMod/TerraScythe]Guadaña Terra"
+			Tooltip: ""
+		}
+
+		TerraKnife: {
+			Label: "[i:ThoriumMod/TerraKnife]Cuchillo Terra"
+			Tooltip: ""
+		}
+
+		OnemanQuartet: {
+			Label: "[i:ThoriumMod/OnemanQuartet]Cuarteto de un Solo Hombre"
+			Tooltip: ""
+		}
+
+		Rapier: {
+			Label: "[i:ThoriumMod/Rapier]Estoque"
+			Tooltip: ""
+		}
+
+		PearlPike: {
+			Label: "[i:ThoriumMod/PearlPike]Pica de Perla"
+			Tooltip: ""
+		}
+
+		IncandescentAlacrity: {
+			Label: "[i:ThoriumMod/IncandescentAlacrity]Alacridad Incandescente"
+			Tooltip: No reworkea este objeto en absoluto, solo permite que funcione con {$ItemName.EmpressFlightBooster}
+		}
+	}
+}
+
+Achievements: {
+	CoreCollapse: {
+		FriendlyName: Colapso del Núcleo
+		Description: Derrota a los tres núcleos del Explorador Estelar en menos de seis segundos
+	}
+
+	MyBatsAreKindaChamberless: {
+		FriendlyName: Mis Murciélagos No Tienen Munición...
+		Description: Derrota al Vizconde sin dejar que un solo Bebé Mordedor te drene vida
+	}
+}

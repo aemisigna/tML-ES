@@ -1,0 +1,614 @@
+Items: {
+	OrangePhaseWhip: {
+		DisplayName: Látigo de Fase Naranja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	GreenPhaseWhip: {
+		DisplayName: Látigo de Fase Verde
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	BluePhaseWhip: {
+		DisplayName: Látigo de Fase Azul
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	PurplePhaseWhip: {
+		DisplayName: Látigo de Fase Púrpura
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	RedPhaseWhip: {
+		DisplayName: Látigo de Fase Roja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	WhitePhaseWhip: {
+		DisplayName: Látigo de Fase Blanca
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	YellowPhaseWhip: {
+		DisplayName: Látigo de Fase Amarilla
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.08
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	OrangePhaseScourge: {
+		DisplayName: Azote de Fase Naranja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	GreenPhaseScourge: {
+		DisplayName: Azote de Fase Verde
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	BluePhaseScourge: {
+		DisplayName: Azote de Fase Azul
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	PurplePhaseScourge: {
+		DisplayName: Azote de Fase Púrpura
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	RedPhaseScourge: {
+		DisplayName: Azote de Fase Roja
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	WhitePhaseScourge: {
+		DisplayName: Azote de Fase Blanca
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	YellowPhaseScourge: {
+		DisplayName: Azote de Fase Amarilla
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.09
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	GlitterGutter: {
+		DisplayName: Canalón de Purpurina
+		Tooltip:
+			'''
+			10% de probabilidad de golpe crítico de conexión por invocación
+			Los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito libere fragmentos de cristal teledirigidos
+			'''
+	}
+
+	DestructionChain: {
+		DisplayName: Cadena de Destrucción
+		Tooltip:
+			'''
+			Los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito desencadene una explosión
+			Los enemigos eliminados por esta explosión desencadenan otra explosión, que puede seguir encadenándose
+			'''
+	}
+
+	GloamshardConduit: {
+		DisplayName: Conducto de Fragmento Crepuscular
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.1
+			10% de probabilidad de golpe crítico de conexión por invocación
+
+			   Los enemigos golpeados por este látigo reciben x1.25 de daño del siguiente ataque de un súbdito y explotan
+			'''
+	}
+
+	Satellite: {
+		DisplayName: Satélite
+		Tooltip: "   Los enemigos golpeados por este látigo reciben un golpe crítico garantizado de un súbdito."
+	}
+
+	ResonantVoid: {
+		DisplayName: Vacío Resonante
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.12
+			12% de probabilidad de golpe crítico de conexión por invocación
+
+			Los enemigos golpeados por este látigo reciben x1.25 de daño del siguiente ataque de un súbdito y explotan
+
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	SkybreakerCoil: {
+		DisplayName: Bobina Rompecielos
+		Tooltip:
+			'''
+			Todos los enemigos golpeados por este látigo reciben x1.30 de daño del siguiente ataque de un súbdito y liberan una descarga eléctrica
+			La descarga electrocuta rápidamente a los enemigos cercanos durante un breve tiempo y tiene penetración de armadura
+			'''
+	}
+
+	Milkyway: {
+		DisplayName: Vía Láctea
+		Tooltip:
+			'''
+			+10 de daño de conexión por invocación por acumulación
+			Los enemigos golpeados por este látigo reciben un golpe crítico garantizado de x4 de daño de un súbdito
+			La marca de este látigo se acumula consigo misma
+			Una cantidad de cometas igual al número de acumulaciones orbita alrededor del enemigo
+			'''
+	}
+
+	Loadout: {
+		DisplayName: Loadout
+		Tooltip:
+			'''
+			Multiplicador de daño de conexión por invocación: x1.07
+			7% de probabilidad de golpe crítico de conexión por invocación
+			Los enemigos golpeados por este látigo son alcanzados por un láser en el siguiente ataque de un súbdito
+			Ignora parte de la armadura de los enemigos
+			'''
+	}
+
+	AncientBonds: {
+		DisplayName: Vínculos Ancestrales
+		Tooltip:
+			'''
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 20% del daño del súbdito 3 veces seguidas
+			El daño de empalamiento perfora 5 de armadura
+			'''
+	}
+
+	PrimalBonds: {
+		DisplayName: Vínculos Primigenios
+		Tooltip:
+			'''
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 20% del daño del súbdito 5 veces seguidas
+			El daño de empalamiento perfora 10 de armadura
+			'''
+	}
+
+	ExistenceBonds: {
+		DisplayName: Vínculos de la Existencia
+		Tooltip:
+			'''
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 20% del daño del súbdito 6 veces seguidas
+			El daño de empalamiento perfora 15 de armadura
+			'''
+	}
+
+	MermaidsTear: {
+		DisplayName: Lágrima de Sirena
+		Tooltip:
+			'''
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 25% del daño del súbdito 8 veces seguidas
+			El daño de empalamiento perfora 50 de armadura
+			'''
+	}
+
+	MandibleLash: {
+		DisplayName: Latigazo de Mandíbula
+		Tooltip:
+			'''
+			1 de daño de conexión por invocación
+			Los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito lance una bola de arena
+			La bola de arena es afectada por la gravedad e inflige 40% del daño del súbdito
+			La bola de arena explota al impactar con un bloque, dañando a los enemigos cercanos
+			'''
+	}
+
+	DarkMandibleLash: {
+		DisplayName: Latigazo de Mandíbula Oscura
+		Tooltip:
+			'''
+			2 de daño de conexión por invocación
+			Los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito lance una bola de arena
+			La bola de arena es afectada por la gravedad e inflige 40% del daño del súbdito
+			La bola de arena explota al impactar con un bloque, dañando a los enemigos cercanos
+			'''
+	}
+
+	ShieldConduit: {
+		DisplayName: Conducto de Escudo
+		Tooltip:
+			'''
+			2 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo
+			Recoger fragmentos acumula carga de escudo
+			Al alcanzar 50 de carga, obtienes un escudo de 50 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +3 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos
+			Durante el enfriamiento, cambia al Modo Ataque
+			Cuando termina el enfriamiento, cambia al Modo Defensa
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkII: {
+		DisplayName: Conducto de Escudo Mk-II
+		Tooltip:
+			'''
+			4 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo
+			Recoger fragmentos acumula carga de escudo
+			Al alcanzar 100 de carga, obtienes un escudo de 100 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +5 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos
+			Durante el enfriamiento, cambia al Modo Ataque
+			Cuando termina el enfriamiento, cambia al Modo Defensa
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkIII: {
+		DisplayName: Conducto de Escudo Mk-III
+		Tooltip:
+			'''
+			7 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo
+			Recoger fragmentos acumula carga de escudo
+			Al alcanzar 150 de carga, obtienes un escudo de 150 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +25 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos
+			Durante el enfriamiento, cambia al Modo Ataque
+			Cuando termina el enfriamiento, cambia al Modo Defensa
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkIV: {
+		DisplayName: Conducto de Escudo Mk-IV
+		Tooltip:
+			'''
+			12 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo
+			Recoger fragmentos acumula carga de escudo
+			Al alcanzar 200 de carga, obtienes un escudo de 200 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +50 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos
+			Durante el enfriamiento, cambia al Modo Ataque
+			Cuando termina el enfriamiento, cambia al Modo Defensa
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
+			'''
+	}
+
+	ShieldConduitMkV: {
+		DisplayName: Conducto de Escudo Mk-V
+		Tooltip:
+			'''
+			20 de daño de conexión por invocación
+			Cambia automáticamente entre dos modos.
+			'''
+		HoldShiftTooltip:
+			'''
+			-----------------------------
+			Modo Defensa:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo
+			Recoger fragmentos acumula carga de escudo
+			Al alcanzar 250 de carga, obtienes un escudo de 250 HP
+			-----------------------------
+			Modo Ataque:
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +150 de daño fijo.
+			-----------------------------
+			La liberación de fragmentos de escudo tiene un enfriamiento muy corto
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos
+			Durante el enfriamiento, cambia al Modo Ataque
+			Cuando termina el enfriamiento, cambia al Modo Defensa
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
+			'''
+	}
+
+	LayeredPain: {
+		DisplayName: Dolor en Capas
+		Tooltip:
+			'''
+			+1 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo, expirando primero las acumulaciones más antiguas
+			'''
+	}
+
+	NightButterfly: {
+		DisplayName: Mariposa Nocturna
+		Tooltip:
+			'''
+			+2 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo, expirando primero las acumulaciones más antiguas
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo
+			'''
+	}
+
+	ActiasAliena: {
+		DisplayName: Actias Aliena
+		Tooltip:
+			'''
+			+3 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo, expirando primero las acumulaciones más antiguas
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo
+			'''
+	}
+
+	ButterflyEffect: {
+		DisplayName: Efecto Mariposa
+		Tooltip:
+			'''
+			+6 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo, expirando primero las acumulaciones más antiguas
+			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo
+			'''
+	}
+
+	EtaCarinae: {
+		DisplayName: Eta Carinae
+		Tooltip:
+			'''
+			+10 de daño de conexión por invocación por acumulación
+			El daño de marca de este látigo se acumula consigo mismo, expirando primero las acumulaciones más antiguas
+			Una cantidad de cometas igual al número de acumulaciones se adhieren al enemigo
+			'''
+	}
+
+	GoldRush: {
+		DisplayName: Fiebre del Oro
+		Tooltip:
+			'''
+			8 de daño de conexión por invocación
+			Golpear enemigos invoca regularmente armas físicas que infligen 100% del daño de tu súbdito.
+			'''
+	}
+
+	GildedReliquary: {
+		DisplayName: Relicario Dorado
+		Tooltip:
+			'''
+			20 de daño de conexión por invocación
+			Golpear enemigos invoca rápidamente un veloz arsenal que inflige 120% del daño de tu súbdito
+			'''
+	}
+
+	AurelianSanctum: {
+		DisplayName: Santuario Aureliano
+		Tooltip:
+			'''
+			80 de daño de conexión por invocación
+			Golpear enemigos desata una implacable ráfaga de armas que infligen 200% del daño de tu súbdito
+			'''
+	}
+
+	LeatherGrip: {
+		DisplayName: Empuñadura de Cuero
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 10%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	SilkGrip: {
+		DisplayName: Empuñadura de Seda
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 10%
+			Los látigos obtienen 5% de probabilidad de golpe crítico de conexión por invocación
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	RubberGrip: {
+		DisplayName: Empuñadura de Goma
+		Tooltip:
+			'''
+			Aumenta el alcance del látigo en un 15%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.03 y 3% de probabilidad de golpe crítico de conexión por invocación
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	NecromanticGrip: {
+		DisplayName: Empuñadura Nigromántica
+		Tooltip:
+			'''
+			Aumenta el máximo de súbditos en 1
+			Aumenta el alcance del látigo en un 15%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05 y 5% de probabilidad de golpe crítico de conexión por invocación
+			Permite que los látigos golpeen a los enemigos a través de paredes
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	EmperorsGrip: {
+		DisplayName: Empuñadura del Emperador
+		Tooltip:
+			'''
+			Aumenta el máximo de súbditos en 2
+			Aumenta el alcance del látigo en un 30%
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.07 y 7% de probabilidad de golpe crítico de conexión por invocación
+			Permite que los látigos golpeen a los enemigos a través de paredes
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	LightSpiritGrip: {
+		DisplayName: Empuñadura del Espíritu de Luz
+		Tooltip:
+			'''
+			Permite que los látigos golpeen a los enemigos a través de paredes
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	AirflowGrip: {
+		DisplayName: Empuñadura Aerodinámica
+		Tooltip:
+			'''
+			Reduce el alcance del látigo en un 15%
+			Permite que los látigos golpeen a los enemigos a través de paredes
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	CommanderGrip: {
+		DisplayName: Empuñadura de Comandante
+		Tooltip:
+			'''
+			Los proyectiles de los súbditos hacen menos daño, pero ahora persiguen al enemigo marcado durante un breve tiempo
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	MagneticGrip: {
+		DisplayName: Empuñadura Magnética
+		Tooltip:
+			'''
+			Reduce el alcance del látigo en un 15% pero los proyectiles de los súbditos persiguen al enemigo marcado durante un breve tiempo
+			Solo se puede equipar un accesorio de Empuñadura a la vez
+			'''
+	}
+
+	BuddyEmblem: {
+		DisplayName: Emblema del Compañero
+		Tooltip:
+			'''
+			Aumenta significativamente el daño cuando solo hay un Súbdito presente
+			El daño del súbdito aumenta según la cantidad de espacios de súbdito sin usar
+			Cuanto más potencia este efecto a un súbdito, ligeramente más grande se vuelve
+			Algunos súbditos no pueden beneficiarse de este efecto
+			Algunos efectos de marca de látigo se reducen
+			'¡Yo te elijo!'
+			'''
+	}
+
+	StrikerEmblem: {
+		DisplayName: Emblema del Atacante
+		Tooltip:
+			'''
+			Ya no puedes invocar súbditos ni centinelas
+			Los látigos golpean a los enemigos tres veces adicionales infligiendo 33% de daño
+			Estos golpes se benefician de los efectos de marca de invocación
+			Aumenta el alcance del látigo en un 10%
+			10% de aumento en el daño de invocación por cada espacio de súbdito sin usar
+			'¡Muere, monstruo!'
+			'''
+	}
+}

@@ -1,0 +1,438 @@
+ItemDescriptions: {
+	BagOfCharms: <Replace>2 Los golpes críticos roban vida, regeneran vacío, recuperan maná y devuelven inspiración
+	DemonTongue: Reduce a la mitad el costo de vacío de las armas vacío-radiantes y los hechizos curativos
+	FoggyClairvoyance: No otorga inmunidad a los efectos negativos que funcionan como tiempo de reutilización de conjunto de armadura, accesorio o auto-revivificación
+	HarvestersScythe:
+		'''
+		La esencia del alma de las guadañas radiantes también recuperará algo de vacío
+		La esencia del alma de las guadañas vacío-radiantes recupera aún más vacío
+		'''
+	InfrasonicTunerExtras:
+		'''
+		Además, invoca un espíritu oscuro que dispara notas malditas a los enemigos
+		Las notas malditas se ven potenciadas por las estadísticas de instrumentos de cuerda y viento
+		Además, tus armas de bardo dejarán tinta
+		La tinta derramada escala con las estadísticas del arma empuñada y también aceita a los enemigos golpeados
+		'''
+	SafetySwitch: Funciona incluso estando en el inventario
+	SoulCharm: <Replace>0 Los golpes críticos roban vida, regeneran vacío, recuperan maná y devuelven inspiración
+	TerrariumParticleSprinters: Doble toque de esquiva mientras estás en el suelo para obtener un enorme impulso de aceleración
+	VoidRadiantWeapon: Consume {0} de vacío y drena {1} de vida
+}
+
+WhisperingHood: {
+	PutridPinky: Tal vez deberías comer menos manteca de maní y más verduras, ¿no?
+	Glowmoth: Brillaste tanto y aún así seguís siendo un poco lerda...
+	PharaohsCurse: Que las arenas del tiempo te entierren para siempre...
+	TheAdvisor: ¿Mi consejo? Simplemente dejá de intentarlo.
+	Excavator: Excavando tu propia tumba, ¿no?
+	Polaris: El frío nunca me molestó en lo absoluto...
+	Lux: Casi divina, y aún así caída...
+	SubspaceSerpent: Ni siquiera los sabios pudieron salvarte aquí...
+}
+
+Toggler: {
+	SubspaceBootsDash: Esquiva del Subespacio
+	GildedBladeWingsFlight: Alas de Luz
+}
+
+Items: {
+	AbsoLute: {
+		DisplayName: Abso-Laúd
+		Tooltip:
+			'''
+			Libera acordes absolutos en un patrón estelar
+			"AbsoLAÚDamente diLAÚDo"
+			'''
+	}
+
+	AncientHarp: {
+		DisplayName: Arpa Antigua
+		Tooltip:
+			'''
+			Libera un flujo de energía de piedra angular que rebota
+			El bonus de rebote de cuerdas no aumenta la cantidad total de rebotes
+			En cambio, hace que los proyectiles duren más tiempo
+			"Los fragmentos de piedra angular reaccionan de forma extraña al sonido, por eso"
+			'''
+	}
+
+	BladedSnowflake: {
+		DisplayName: Copo de Nieve con Filo
+		Tooltip:
+			'''
+			Lanza un copo de nieve con filo que se divide en cuchillos al impactar
+			Los golpes críticos invocan copos de nieve adicionales que orbitan al usuario
+			Los copos de nieve adicionales se disparan al usar otra arma
+			'''
+	}
+
+	ChoirofOne: {
+		DisplayName: Coro de Uno
+		Tooltip:
+			'''
+			<left> para disparar lentamente una doble hélice que puede perseguir enemigos
+			<right> para disparar rápidamente rayos veloces de sonido supersónico
+			Acertar los golpes a tiempo aumentará gradualmente su daño, alcance de persecución y nivel de empoderamiento
+			Los empoderamientos de este instrumento comienzan en el nivel 2 en lugar del nivel 1 como el resto
+			Fallar el tiempo de los golpes reducirá enormemente estos bonos y consumirá <VoidCost> de vacío
+			Esta penalización se reduce según la cantidad de golpes acertados a tiempo
+			Estos bonos se mantienen entre cambios de arma, pero se desvanecen gradualmente mientras no sea tu arma activa
+			Sintoniza a los enemigos al golpearlos, aumentando el daño que reciben en un 15%
+			"Una voz. Una elección. Una invitación..."
+			'''
+	}
+
+	CursedAnkhStaff: {
+		DisplayName: Bastón de Anj Maldito
+		Tooltip:
+			'''
+			Invoca un anj maldito que sigue al cursor
+			El anj ataca a los enemigos cercanos con zarcillos
+			Al infligir daño, los aliados cercanos son curados
+			'''
+	}
+
+	DeathThroesThrows: {
+		DisplayName: Estertores Arrojadizos
+		Tooltip:
+			'''
+			Lanza puñetazos rápidos hacia el cursor
+			"Más vale que aprendas a atraparlos"
+			'''
+	}
+
+	DualStylophone: {
+		DisplayName: Estilófono Doble
+		Tooltip:
+			'''
+			Dispara un montón de lápices ópticos vibrantes
+			Los lápices ópticos atraviesan algunos bloques
+			'''
+	}
+
+	ForbiddenMaelstrom: {
+		DisplayName: Torbellino Prohibido
+		Tooltip:
+			'''
+			Lanza sierras malditas que despedazan a los enemigos al impactar
+			Los golpes causarán la formación de un pequeño torbellino dañino
+			'''
+	}
+
+	GoopwoodReap: {
+		DisplayName: Siega de Goopwood
+		Tooltip: Libera tres bolas de gelatina que rebotan por todos lados
+	}
+
+	GoopwoodSplit: {
+		DisplayName: División de Goopwood
+		Tooltip:
+			'''
+			Se duplica al golpear a un enemigo
+			Se duplica más con golpes críticos
+			'''
+	}
+
+	GoopwoodWiggle: {
+		DisplayName: Contoneo de Goopwood
+		Tooltip:
+			'''
+			Dispara dos ruidos serpenteantes de colores diferentes al tocarse
+			Ambos regresan al jugador tras un tiempo o distancia
+			'''
+	}
+
+	HypersonicTuner: {
+		DisplayName: Afinador Hipersónico
+		Tooltip:
+			'''
+			Suma toda la inspiración al vacío máximo
+			Todas las armas de bardo usan vacío en lugar de inspiración
+			Los bonos de regeneración de inspiración se convierten en velocidad de regeneración de vacío
+			Recoger notas de inspiración cura vacío en su lugar
+			Sin embargo, las notas de inspiración ya no otorgan sus efectos relacionados con la armadura
+			Los empoderamientos que potencian recursos son mucho más fuertes en las estadísticas de vacío
+			"¡Canaliza el poder de sonidos más allá del rango auditivo!"
+			'''
+	}
+
+	InfrasonicTuner: {
+		DisplayName: Afinador Infrasónico
+		Tooltip:
+			'''
+			Recoger notas de inspiración cura vacío mientras empuñás un arma de bardo-vacío
+			Al quedarte sin inspiración, consume 25 de vacío para rellenarla por completo
+			"¡Canaliza el poder del sutil ruido de fondo!"
+			'''
+	}
+
+	PhaseKarambit: {
+		DisplayName: Karambit Fase
+		Tooltip:
+			'''
+			Hace girar un karambit caótico que invoca copias de sí mismo
+			Las copias se lanzarán hacia el enemigo más cercano
+			"Podría venderse mucho en cierta comunidad"
+			'''
+	}
+
+	PromiseofDemise: {
+		DisplayName: Promesa de Perdición
+		Tooltip:
+			'''
+			Mantené <left> para cargar un rayo de extinción
+			Soltá <left> para liberarlo
+			Atraviesa paredes
+			"Impulsado por las voces de mil almas"
+			'''
+	}
+
+	RingofRest: {
+		DisplayName: Anillo del Descanso
+		Tooltip: Los golpes críticos devuelven inspiración
+	}
+
+	Serpentbite: {
+		DisplayName: Mordisco de Serpiente
+		Tooltip:
+			'''
+			Crea un rayo del subespacio al impactar
+			Los golpes críticos activan el rayo dos veces
+			'''
+	}
+
+	SerpentCharmerofSage: {
+		DisplayName: Encantador de la Serpiente de Sabio
+		Tooltip:
+			'''
+			Invoca una serpiente teledirigida que ataca a los enemigos
+			Acertar los golpes a tiempo aumentará gradualmente su daño, alcance de persecución y nivel de empoderamiento
+			Los empoderamientos de este instrumento comienzan en el nivel 2 en lugar del nivel 1 como el resto
+			Fallar el tiempo de los golpes reducirá enormemente estos bonos y consumirá <VoidCost> de vacío
+			Esta penalización se reduce según la cantidad de golpes acertados a tiempo
+			Estos bonos se mantienen entre cambios de arma, pero se desvanecen gradualmente mientras no sea tu arma activa
+			Basado en "Serpent of Sage" de Heart Plus Up
+			'''
+	}
+
+	SerpentFangScythe: {
+		DisplayName: Guadaña Colmillo de Serpiente
+		Tooltip:
+			'''
+			Libera un poderoso tajo que perfora
+			El tajo va acompañado de tres ráfagas de onda
+			Una ráfaga de onda es roja, las otras son verdes
+			Las ráfagas de onda rojas persiguen a los aliados heridos y los curan
+			Sin embargo, no se activan los efectos al curar
+			Las ráfagas de onda verdes persiguen a los enemigos y los golpean continuamente
+			Devuelve vacío al obtener esencia del alma
+			'''
+	}
+
+	SerpentsTongue: {
+		DisplayName: Lengua de Serpiente
+		Tooltip:
+			'''
+			15% de aumento en el daño radiante
+			20% de aumento en el daño crítico
+			Los enemigos tienen un 10% de probabilidad de soltar el doble de botín
+			20% si son eliminados con golpes críticos
+			Empodera ciertos ataques con energía oscura
+			Reduce a la mitad los costos de vida radiante, pero no su efecto de transferencia de vida
+			Reduce a la mitad el costo de vacío de las armas vacío-radiantes y los hechizos curativos
+			La esencia del alma de las guadañas radiantes también recuperará algo de vacío
+			La esencia del alma de las guadañas vacío-radiantes recupera aún más vacío
+			"SSSSS-PICANTEEE!"
+			'''
+	}
+
+	SubsonicTuner: {
+		DisplayName: Afinador Subsónico
+		Tooltip:
+			'''
+			Recoger notas de inspiración cura vacío mientras empuñás un arma de bardo-vacío
+			Al quedarte sin inspiración, consume 50 de vacío para rellenarla por completo
+			"¿Y qué es exactamente lo que te inspira?" "El vacío."
+			'''
+	}
+
+	TesseractTuner: {
+		DisplayName: Afinador Tetradimensional
+		Tooltip:
+			'''
+			Suma toda la inspiración al vacío máximo
+			Todas las armas de bardo usan vacío en lugar de inspiración
+			Los bonos de regeneración de inspiración se convierten en velocidad de regeneración de vacío
+			Recoger notas de inspiración cura vacío en su lugar
+			Sin embargo, las notas de inspiración ya no otorgan sus efectos relacionados con la armadura
+			Los empoderamientos que potencian recursos son mucho más fuertes en las estadísticas de vacío
+			Todas las armas de bardo crean una onda de choque al golpear enemigos
+			Los ataques de instrumentos de cuerda también activan sus efectos de impacto en bloques al golpear enemigos
+			Los proyectiles de instrumentos de cuerda aumentan su velocidad en un 20% con cada perforación
+			Los ataques de instrumentos de percusión invocan un martillo cayendo al golpear enemigos
+			Los proyectiles de instrumentos electrónicos son significativamente más rápidos
+			"Sonido capaz de crear agujeros de gusano hacia otros mundos"
+			'''
+	}
+
+	TurboSlicer: {
+		DisplayName: Turbo Rebanadora
+		Tooltip:
+			'''
+			Gira más rápido que la mayoría de las guadañas
+			Girar esta guadaña durante un tiempo la cargará
+			Una vez cargada, se lanza al dejar de atacar
+			Sin embargo, no otorga esencia del alma al ser lanzada
+			Devuelve vacío al obtener esencia del alma o al golpear con el lanzamiento cargado
+			'''
+	}
+
+	TwilightAscendance: {
+		DisplayName: Ascensión Crepuscular
+		Tooltip:
+			'''
+			Dispara anillos de caos dañinos en grupos
+			Mientras estén agrupados, los aliados que toquen los anillos de caos serán curados
+			Explota en 3 anillos de caos normales tras un tiempo o al curar a un aliado
+			Los anillos de caos normales persiguen a los enemigos
+			'''
+	}
+
+	UltrasonicBassBooster: {
+		DisplayName: Potenciador de Graves Ultrasónico
+		Tooltip:
+			'''
+			Dispara una ráfaga de ruido hiperamplificado que persigue a los enemigos
+			El ruido emitido viene en tres colores, cada uno infligiendo un efecto negativo distinto
+			El amarillo inflige icor, el rosa inflige iluminado y el morado inflige maldición de luz
+			'''
+	}
+
+	VibrantResonator: {
+		DisplayName: Resonador Vibrante
+		Tooltip:
+			'''
+			Restaura 20 de vacío a un aliado
+			Cura el doble si el aliado está quieto
+			No activa los efectos al curar
+			'''
+	}
+
+	VibrantTomahawk: {
+		DisplayName: Tomahawk Vibrante
+		Tooltip: Lanza un tomahawk vibrante que no se ve afectado por la gravedad
+	}
+}
+
+Projectiles: {
+	AbsoLute.DisplayName: Abso-Laúd
+	AncientHarp.DisplayName: Arpa Antigua
+	AnkhHealing.DisplayName: Curación de Anj
+	BladedSnowflake.DisplayName: Copo de Nieve con Filo
+	CharmedSerpent.DisplayName: Serpiente Encantada de Sabio
+	ChaosCircle.DisplayName: Anillo de Caos
+	ChaosSphere.DisplayName: Anillo de Caos
+	ChoirofOne.DisplayName: Coro de Uno
+	CursedAnkh.DisplayName: Anj Maldito
+	DeathThroesThrow.DisplayName: Estertor Arrojadizo
+	DeathThroesThrows.DisplayName: Estertores Arrojadizos
+	DualStylophone.DisplayName: Estilófono Doble
+	DualStylophonePro.DisplayName: Estilófono Doble
+	ForbiddenMaelstrom.DisplayName: Torbellino Prohibido
+	GoopwoodReap.DisplayName: Siega de Goopwood
+	GoopwoodReapPro.DisplayName: Siega de Goopwood
+	GoopwoodSplit.DisplayName: División de Goopwood
+	GoopwoodWiggle.DisplayName: Contoneo de Goopwood
+	InfrasonicTuner.DisplayName: Afinador Infrasónico
+	PhaseKarambit.DisplayName: Karambit Fase
+	PromiseofDemise.DisplayName: Promesa de Perdición
+	Serpentbite.DisplayName: Mordisco de Serpiente
+	SerpentFangScythe.DisplayName: Guadaña Colmillo de Serpiente
+	SerpentFangSlash.DisplayName: Guadaña Colmillo de Serpiente
+	SerpentLightning.DisplayName: Mordisco de Serpiente
+	SnowflakeBlade.DisplayName: Cuchilla de Copo de Nieve
+	SubsonicTuner.DisplayName: Afinador Subsónico
+	TurboSlicer.DisplayName: Turbo Rebanadora
+	TurboSlicerThrown.DisplayName: Turbo Rebanadora
+	UltrasonicBassBooster.DisplayName: Potenciador de Graves Ultrasónico
+	VibrantResonator.DisplayName: Resonador Vibrante
+	VibrantTomahawk.DisplayName: Tomahawk Vibrante
+	WaveBlast.DisplayName: Ráfaga de Onda
+}
+
+Prefixes: {
+	Chthonic.DisplayName: "{$Mods.SOTS.Prefixes.Chthonic.DisplayName}"
+	Famished.DisplayName: "{$Mods.SOTS.Prefixes.Famished.DisplayName}"
+	Omnipotent.DisplayName: "{$Mods.SOTS.Prefixes.Omnipotent.DisplayName}"
+	Potent.DisplayName: "{$Mods.SOTS.Prefixes.Potent.DisplayName}"
+	Precarious.DisplayName: "{$Mods.SOTS.Prefixes.Precarious.DisplayName}"
+}
+
+DamageClasses: {
+	VoidRadiant.DisplayName: vacío + {$Mods.ThoriumMod.DamageClasses.HealerDamage.DisplayName}
+	VoidSymphonic.DisplayName: vacío + {$Mods.ThoriumMod.DamageClasses.BardDamage.DisplayName}
+	VoidThrowing.DisplayName: vacío + daño de lanzamiento
+}
+
+Configs: {
+	BalanceConfig: {
+		DisplayName: Ajustes de Balance
+
+		thrower: {
+			Label: Multiplicador de daño de armas arrojadizas
+			Tooltip:
+				'''
+				Multiplicador de daño para armas arrojadizas
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		bard: {
+			Label: Multiplicador de daño de armas de bardo
+			Tooltip:
+				'''
+				Multiplicador de daño para armas de bardo
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		radiant: {
+			Label: Multiplicador de daño de armas radiantes
+			Tooltip:
+				'''
+				Multiplicador de daño para armas ofensivas de sanador
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		soulEssence: {
+			Label: Multiplicador de esencia del alma
+			Tooltip:
+				'''
+				Multiplicador de esencia del alma otorgada para armas ofensivas de sanador
+				Limitado a 5
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		healing: {
+			Label: Multiplicador de curación
+			Tooltip:
+				'''
+				Multiplicador de curación para hechizos curativos
+				Un valor de 0 significa que solo curará 1 de vida
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+
+		voidCost: {
+			Label: Costo de vacío
+			Tooltip:
+				'''
+				Multiplicador de costo de vacío para las armas de vacío de este mod
+				(¡Se requiere reiniciar el mundo para que esto tenga efecto!)
+				'''
+		}
+	}
+}

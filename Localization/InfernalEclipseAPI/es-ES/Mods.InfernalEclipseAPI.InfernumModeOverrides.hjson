@@ -1,0 +1,25 @@
+IntroScreen: {
+	AEWIntroScreen.TextToDisplay:
+		'''
+		Guardian Abisal
+		El Gusano Primordial
+		'''
+	BossRushIntroText1.TextToDisplay:
+		'''
+		El Desafio de Xeroc
+		Conjunto de Tontos
+		'''
+	HypnosDraedonScreen.TextToDisplay:
+		'''
+		El Ingeniero Cosmico
+		Draedon
+		'''
+}
+
+Status: {
+	MultiplayerWarning: Infernal Eclipse of Ragnarok: El multijugador no está soportado oficialmente por el mod Infernum Mode; aunque este mod busca hacerlo compatible con multijugador, puede haber algunos errores. No reportes errores de multijugador al equipo de Infernum Mode, sino al equipo de Infernal Eclipse of Ragnarok en nuestro discord (https://discord.gg/ieor).
+	TwinsForcefieldSummonSpazmatism: HSy-01: DEFENSAS PENETRADAS. INICIANDO PROCEDIMIENTO FFLD-17ECF9.
+	TwinsForcefieldSummonRetinazer: HSx-00: DEFENSAS PENETRADAS. INICIANDO PROCEDIMIENTO FFLD-17ECF9.
+	TwinsFinalPhaseSpazmatism: HSy-01: ERROR AL DETECTAR UNIDAD SECUNDARIA. QUEMANDO RESERVAS DE COMBUSTIBLE EXCEDENTES.
+	TwinsFinalPhaseRetinazer: HSx-00: ERROR AL DETECTAR UNIDAD SECUNDARIA. QUEMANDO RESERVAS DE COMBUSTIBLE EXCEDENTES.
+}

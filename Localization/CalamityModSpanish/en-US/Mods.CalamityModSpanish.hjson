@@ -98,8 +98,29 @@ Configs: {
 			Label: Ragnarok Mod
 			Tooltip:
 				'''
-				Activa/Desactiva la traducción de Ragnarok. 
-				[c/ff388e:Nota:] Se RECOMIENDA MUCHÍSIMO no desactivar la traducción de Calamity Mod ni Thorium Mod si tienes esta opción activada, ya que Ragnarok modifica contenido de ambos.
+				Activa/Desactiva la traducción de Ragnarok.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Calamity Mod ni Thorium Mod si tienes esta opción activada, ya que Ragnarok modifica contenido de ambos.
+				'''
+		}
+
+		InfernalEclipseAPILocalization: {
+			Label: Infernal Eclipse of Ragnarok
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Infernal Eclipse of Ragnarok.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de:
+				- Thorium Mod
+				- Secret of the Shadows
+				- Catalyst Mod
+				- Infernum Mode
+				- Calamity Simple Whip Addon
+				- Enchanted Moons
+				- Thorium Helheim
+				- Consolaria
+				- Unofficial Calamity Bard & Healer
+				- Unofficial SOTS Bard, Thrower and Healer
+				- Calamity Ranger Expansion
+				...si tienes esta opción activada, ya que Infernal Eclipse of Ragnarok modifica contenido de todos ellos.
 				'''
 		}
 
@@ -161,6 +182,48 @@ Configs: {
 		CalamityWarMachineInvasionLocalization: {
 			Label: Calamity: War Machine Invasion
 			Tooltip: Activa/Desactiva la traducción de Calamity: War Machine Invasion.
+		}
+
+		BlueMoonLocalization: {
+			Label: Enchanted Moons
+			Tooltip: Activa/Desactiva la traducción de Enchanted Moons.
+		}
+
+		ThoriumReworkLocalization: {
+			Label: Thorium Helheim
+			Tooltip: Activa/Desactiva la traducción de Thorium Helheim.
+		}
+
+		ConsolariaLocalization: {
+			Label: Consolaria
+			Tooltip: Activa/Desactiva la traducción de Consolaria.
+		}
+
+		CalamityBardHealerLocalization: {
+			Label: Unofficial Calamity Bard & Healer
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Unofficial Calamity Bard & Healer.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Calamity Mod ni Thorium Mod si tienes esta opción activada, ya que este mod modifica contenido de ambos.
+				'''
+		}
+
+		SOTSBardHealerLocalization: {
+			Label: Unofficial SOTS Bard, Thrower and Healer
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Unofficial SOTS Bard, Thrower and Healer.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Thorium Mod ni Secret of the Shadows si tienes esta opción activada, ya que este mod modifica contenido de ambos.
+				'''
+		}
+
+		CalamityAmmoLocalization: {
+			Label: Calamity Ranger Expansion
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Calamity Ranger Expansion.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Calamity Mod si tienes esta opción activada, ya que este mod requiere de Calamity Mod.
+				'''
 		}
 
 		ShowStartUpCollabMessage: {

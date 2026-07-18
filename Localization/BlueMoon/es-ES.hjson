@@ -1,0 +1,104 @@
+Mods: {
+	BlueMoon: {
+		Items: {
+			BlueMedallion: {
+				Tooltip: Invoca una rara Luna Azul durante la noche
+				DisplayName: Medallón Azul
+			}
+
+			CherryAmulet: {
+				Tooltip: Invoca una encantadora Luna de Cereza durante la noche
+				DisplayName: Amuleto de Cereza
+			}
+
+			HarvestLantern: {
+				Tooltip: Invoca una festiva Luna de la Cosecha durante la noche
+				DisplayName: Farol de la Cosecha
+			}
+
+			HarvestMoonMusicBox: {
+				Tooltip: ""
+				DisplayName: Caja de Música de la Luna de la Cosecha
+			}
+
+			CherryMoonMusicBox: {
+				Tooltip: ""
+				DisplayName: Caja de Música de la Luna de Cereza
+			}
+
+			BlueMoonMusicBox: {
+				Tooltip: ""
+				DisplayName: Caja de Música de la Luna Azul
+			}
+
+			MintRing: {
+				Tooltip: Invoca una refrescante Luna de Menta durante la noche
+				DisplayName: Anillo de Menta
+			}
+
+			MintMoonMusicBox: {
+				Tooltip: ""
+				DisplayName: Caja de Música de la Luna de Menta
+			}
+
+			SapphireRing: {
+				DisplayName: Anillo de Zafiro
+				Tooltip: Otorga la Mejora Empoderamiento Lunar
+			}
+
+			TopazRing: {
+				DisplayName: Anillo de Topacio
+				Tooltip: Otorga la Mejora Cosecha Abundante
+			}
+
+			AmethystRing: {
+				DisplayName: Anillo de Amatista
+				Tooltip: Otorga la Mejora Bendición Floral
+			}
+
+			EmeraldRing: {
+				DisplayName: Anillo de Esmeralda
+				Tooltip: Otorga la Mejora Frescura Mentolada
+			}
+
+			MoonsRing: {
+				DisplayName: Anillo de las Lunas
+				Tooltip: Aumenta la cantidad de monedas soltadas, la regeneración de vida, la probabilidad de golpe crítico y el daño mágico.
+			}
+		}
+
+		Buffs: {
+			BountifulHarvestBuff: {
+				DisplayName: Cosecha Abundante
+				Description: La bendición de la Luna de la Cosecha llena tus bolsillos de riquezas. Los enemigos sueltan más monedas para ti.
+			}
+
+			FloralBlessingBuff: {
+				DisplayName: Bendición Floral
+				Description: Abraza la aura curativa de la Luna de Cereza. Tus heridas sanan rápidamente.
+			}
+
+			LunarEmpowermentBuff: {
+				DisplayName: Empoderamiento Lunar
+				Description: La luna otorga parte de su suerte a ti.
+			}
+
+			MintyFreshnessBuff: {
+				DisplayName: Frescura Mentolada
+				Description: La luz brillante de la Luna de Menta mejora tus habilidades mágicas. Infliges más daño y tienes menores tiempos de reutilización.
+			}
+
+			MoonsRingBuff: {
+				DisplayName: Armonía Lunar
+				Description: Estás bendecido por el poder de las cuatro lunas celestiales.
+			}
+		}
+
+		Tiles: {
+			HarvestMoonMusicBoxTile.MapEntry: Caja de Música de la Luna de la Cosecha
+			CherryMoonMusicBoxTile.MapEntry: Caja de Música de la Luna de Cereza
+			BlueMoonMusicBoxTile.MapEntry: Caja de Música de la Luna Azul
+			MintMoonMusicBoxTile.MapEntry: Caja de Música de la Luna de Menta
+		}
+	}
+}

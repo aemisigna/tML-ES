@@ -1,0 +1,28 @@
+Items: {
+	WulfrumCoil: {
+		DisplayName: Bobina de Wulfrum
+		Tooltip:
+			'''
+			5% de daño a distancia aumentado
+			Aumenta ligeramente la velocidad de los proyectiles a distancia
+			'''
+	}
+
+	WulfrumBullet: {
+		DisplayName: Bala de Chatarra de Wulfrum
+		Tooltip:
+			'''
+			Irradia rayos de energía wulfrum con una ligera capacidad de rastreo
+			"El último Hamon, hijo."
+			'''
+	}
+
+	SoulBullet: {
+		DisplayName: Bala de Alma
+		Tooltip:
+			'''
+			Rastrea al enemigo más cercano, hace la mitad de daño pero atraviesa tres veces con daño decreciente en cada golpe
+			"Hecha presionando almas miserables dentro de casquillos de bala, puede atraer a esas mismas almas lastimosas."
+			'''
+	}
+}

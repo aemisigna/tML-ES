@@ -1,0 +1,44 @@
+Items: {
+	ImpulseAmplifier.Tooltip:
+		'''
+		Los proyectiles de instrumentos electrónicos son significativamente más rápidos e infligen [cbuff:Electrified] al primer golpe
+		Los proyectiles de instrumentos electrónicos también encadenan un rayo al primer golpe por 10% de daño al enemigo cercano más próximo
+		'''
+	FanDonations.Tooltip:
+		'''
+		Todos los ataques de instrumentos explotan al golpear, el tamaño de la explosión varía y hace 50% menos de daño crítico
+		Los ataques perforantes de instrumentos de cuerda aumentan de velocidad con cada golpe y ya no pierden daño
+		Ciertos ataques de instrumentos de cuerda que activan efectos al colisionar con bloques también se activan al golpear
+		Los ataques de instrumentos de percusión lanzan martillos hacia arriba que eventualmente caen
+		Los proyectiles de instrumentos electrónicos son significativamente más rápidos e infligen [cbuff:Electrified] al primer golpe
+		Los proyectiles de instrumentos electrónicos también encadenan un rayo al primer golpe por 10% de daño al enemigo cercano más próximo
+		Aumenta la inspiración máxima en 5
+		'''
+	LunateCharm.Tooltip:
+		'''
+		Ganar esencia de alma otorga un escudo cuando la vida está al máximo
+		Elimina la penalización de daño radiante del debilitamiento [cbuff:InfernalEclipseAPI/BrokenOath]
+		'''
+	SealedContract.Tooltip:
+		'''
+		Vida máxima aumentada en 60
+		Los hechizos curativos otorgan 5 de vida adicional
+		Ganar esencia de alma otorga un escudo cuando la vida está al máximo
+		Elimina la penalización de daño radiante del debilitamiento [cbuff:InfernalEclipseAPI/BrokenOath]
+		Ganar esencia de alma con guadañas radiantes otorga una carga de acumulación agregada
+		El daño radiante de proyectiles de guadaña o de armas que no son guadañas consume la carga agregada para otorgar esencia de alma
+		"¡Sella el trato!"
+		'''
+}
+
+ItemDescriptions: {
+	TideTurnerGreaves: ""
+	PyromancerTabard:
+		'''
+		25% de alcance de látigo aumentado
+		Aumenta en 1 tu número máximo de súbditos
+		'''
+	MagmaSeersMask: 20% de velocidad de látigo aumentada
+	MasterMarksmansScouter: ""
+	AssassinsGuard: ""
+}

@@ -1,0 +1,85 @@
+Items: {
+	OstaraHat: {
+		DisplayName: Sombrero de Ostara
+		Tooltip: 7% de velocidad de movimiento aumentada
+		SetBonus:
+			'''
+			Permite el auto-salto y anula el daño por caída
+			Los saltos de conejo dispararán 5 cuchillos perforantes hacia afuera
+			Puedes hacer esto consecutivamente hasta 5 veces, reiniciándose los cuchillos cada 3 segundos
+			'''
+	}
+
+	JadeSeal: {
+		DisplayName: Sello de Jade
+		Tooltip:
+			'''
+			Clic izquierdo para invocar un farol dorado que flota lentamente hacia el cursor y sana a los aliados
+			Clic derecho para invocar un farol de jade que flota en su lugar, potenciando el daño y la defensa de los aliados en su radio
+			Solo puede existir un farol a la vez
+			'''
+	}
+
+	OldViperChestplate: {
+		DisplayName: Chaqueta Antigua de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			20% de velocidad de lanzamiento aumentada
+			'''
+	}
+
+	OldViperHelmet: {
+		DisplayName: Casco Antiguo de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 2
+			'''
+	}
+
+	OldViperLegs: {
+		DisplayName: Pantalones Antiguos de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			15% de probabilidad de golpe crítico de lanzamiento aumentada
+			15% de velocidad de movimiento aumentada
+			'''
+	}
+
+	ViperChestplate: {
+		DisplayName: Chaqueta de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			20% de velocidad de lanzamiento aumentada
+			'''
+	}
+
+	ViperHelmet: {
+		DisplayName: Casco de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			33% de probabilidad de no consumir objetos arrojadizos
+			Aumenta tus puntos de técnica máximos en 2
+			'''
+		SetBonus:
+			'''
+			El daño de lanzamiento tiene un 10% de probabilidad de envenenar a los enemigos
+			Los enemigos cercanos reciben daño adicional de veneno y ponzoña
+			'''
+	}
+
+	ViperLegs: {
+		DisplayName: Pantalones de Víbora
+		Tooltip:
+			'''
+			10% de daño de lanzamiento aumentado
+			15% de probabilidad de golpe crítico de lanzamiento aumentada
+			15% de velocidad de movimiento aumentada
+			'''
+	}
+}
