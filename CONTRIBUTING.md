@@ -85,14 +85,14 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
-| Progression Journal | ✅ | v2.1.4
+| Progression Journal | ✅ | v2.1.5
 | Quality of Terraria | ✅ | v1.8.2
 | LuiAFK Reborn | ✅ | v1.2.5
 | Revengeance+ | ✅ | v0.6.1
 | Thrower Unification | ✅ | v0.3.15.3
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
-| Calamity Simple Whip Addon | ✅ | v1.15.9
+| Calamity Simple Whip Addon | ✅ | v1.15.10
 | Calamity: War Machine Invasion | ✅ | v0.1.6
 | Enchanted Moons | ✅ | v2.0.2.1
 | Thorium Helheim | ✅ | v1.5.10
