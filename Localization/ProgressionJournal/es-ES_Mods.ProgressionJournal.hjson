@@ -284,4 +284,143 @@ Tiers: {
 	FromGuide: Del Guía
 }
 
+ExternalConditions: {
+	CalamityMod: {
+		Misc: {
+			Tier1ArsenalRecipeCondition: Ver un esquema sin encriptar del laboratorio cerca del Mar Hundido
+			Tier2ArsenalRecipeCondition: Descifrar un esquema del laboratorio en el gran planetoide en el cielo
+			Tier3ArsenalRecipeCondition: Descifrar un esquema del laboratorio en las profundidades de la selva
+			Tier4ArsenalRecipeCondition: Descifrar un esquema del laboratorio cerca de los bordes del inframundo
+			Tier5ArsenalRecipeCondition: Descifrar un esquema del laboratorio en las profundidades de las cavernas heladas
+			SunkenSeaSchematicRecipeCondition: Colocar un esquema del laboratorio cerca del Mar Hundido en tu inventario al menos una vez
+			PlanetoidSchematicRecipeCondition: Colocar un esquema del laboratorio en el gran planetoide en tu inventario al menos una vez
+			JungleSchematicRecipeCondition: Colocar un esquema del laboratorio en las profundidades de la selva en tu inventario al menos una vez
+			UnderworldSchematicRecipeCondition: Colocar un esquema del laboratorio cerca de los bordes del inframundo en tu inventario al menos una vez
+			IceSchematicRecipeCondition: Colocar un esquema del laboratorio en las cavernas heladas en tu inventario al menos una vez
+		}
+
+		Condition: {
+			Drops: {
+				CataclysmKilledLast: Cae si es derrotado después del Constructo Catastrófico
+				CatastropheKilledLast: Cae si es derrotado después del Constructo Cataclísmico
+				Cynosure: Tras derrotar a Draedon y a Calamitas
+				FirstKill: Solo cae en la primera muerte
+				MechBoss: Cae en la primera muerte del último Jefe Mecánico
+				ProvidenceEnraged: Cae si Providencia fue enfurecida
+				ProvidenceChallenge: Cae si Providencia fue derrotada solo con el Artefacto del Alma Profanada
+			}
+
+			HasFlareGun: Al sostener una mejora de Pistola de Bengalas
+			LacewingBestiary: Cuando al menos el 40% del Bestiario ha sido completado
+			CrescentMoons: Durante una luna creciente
+			GibbousMoons: Durante una luna gibosa
+			HasRogueArmor: Al llevar armadura de pícaro
+			HasWings: Al llevar alas
+			InAstral: En la Infección Astral
+			InCrag: En las Grietas de Azufre
+			InSulph: En el Mar Sulfuroso
+			InSunken: En el Mar Hundido
+			InRev: En Modo Revengeance
+			InRevOrMM: En Modo Revengeance o en Modo Maestro
+			HasFoundCorruptionEffigy: Tras obtener la Efigie de la Corrupción
+			HasFoundCrimsonEffigy: Tras obtener la Efigie del Carmesí
+			HasFoundUnstableGraniteCore: Tras obtener el Núcleo de Granito Inestable
+			HasFoundGladiatorsLocket: Tras obtener el Medallón del Gladiador
+			HasFoundFrozenCube: Tras obtener el Cubo Congelado
+			HasFoundTrinketOfChi: Tras obtener la Baratija de Chi
+			HasFoundFungalSymbiote: Tras obtener el Simbionte Fúngico
+			HasFoundLuxorsGift: Tras obtener el Regalo de Luxor
+		}
+	}
+
+	AAModClassic: {
+		Common: {
+			Conditions: {
+				DownedRajah: Después de derrotar a Rajah Rabbit
+				GoblinsDefeated: Si se ha derrotado al Ejército de duendes
+				GolemDefeated: Si se ha derrotado a Gólem
+				InAnyInferno: En el bioma Inferno
+				InAnyMire: En el bioma Mire
+				InAnyRedMushroom: En el bioma de Champiñones Rojos
+				InAnyVoid: En el bioma Void
+				InSunkenShipPreSoC: Cerca del Barco Hundido tras derrotar a todos los Ancients
+				IsMaster: En Modo Maestro
+				Unofficial: En mundos no oficiales
+				NotUnofficial: En mundos oficiales
+				PostLateAncientsAndRemovedWorld: Post-Late Ancients
+				SpawnedBySubzeroSerpent: Si Subzero Serpent no está vivo actualmente
+				OneMechDefeated: Si se ha derrotado a un jefe mecánico
+				SkeletronDefeated: Si se ha derrotado a Esqueletrón
+			}
+		}
+	}
+
+	FargowiltasSouls: {
+		Conditions: {
+			RoombaPetSold: Cuando la configuración de la Roomba está activada
+			DownedEvilBoss: Después de derrotar a cualquier Jefe Maligno
+			EMode: Tasa de caída del Modo Eternidad
+			EModeEarlyBirdHM: Tasa de caída del Modo Eternidad en Modo Difícil
+			EModeEarlyBirdPHM: Tasa de caída del Modo Eternidad pre-Modo Difícil
+			EModeNotMaster: Esta es una tasa de caída del Modo Maestro/Eternidad
+			NotEMode: Tasa de caída fuera del Modo Eternidad
+			TimsConcoction: Tasa de caída del Brebaje de Tim
+			Patreon: Botín de Patreon
+			PatreonEMode: Botín de Patreon en Modo Eternidad
+			PatreonPlant: Botín de Patreon en la Selva durante una Luna de Sangre
+			FirstKill: Cae en el Modo Eternidad en la primera muerte
+		}
+	}
+}
+
+ExternalConditionTypes: {
+	AAModClassic: {
+		GoblinsDefeated: Si se ha derrotado al Ejército de duendes
+		GolemDefeated: Si se ha derrotado a Gólem
+		OneMechDefeated: Si se ha derrotado a un jefe mecánico
+		PostLateAncients: Post-Late Ancients
+		MasterMode: En Modo Maestro
+		MasterModeDropRate: Esta es una tasa de caída del Modo Maestro
+		SkeletronDefeated: Si se ha derrotado a Esqueletrón
+		SubzeroSerpentNotAlive: Si Subzero Serpent no está vivo actualmente
+		OpenedDuringDay: Si se abre durante el Día
+		OpenedDuringNight: Si se abre durante la Noche
+		EquinoxWormsDefeated: Si se ha derrotado a los Equinox Worms
+	}
+
+	CalamityMod: {
+		Revengeance: Modo Revengeance
+		ProvidenceChallenge:
+			'''
+			Cae si Providencia fue derrotada solo con el Artefacto del Alma Profanada
+			Esta es una tasa de caída del Modo Experto
+			'''
+	}
+
+	FargowiltasSouls: {
+		FirstKill: Cae en el Modo Eternidad en la primera muerte
+		DownedEvilBoss: Después de derrotar a cualquier Jefe Maligno
+		EMode: Tasa de caída del Modo Eternidad
+		EModeEarlyBirdHM: Tasa de caída del Modo Eternidad en Modo Difícil
+		EModeEarlyBirdPHM: Tasa de caída del Modo Eternidad pre-Modo Difícil
+		EModeNotMaster: Esta es una tasa de caída del Modo Maestro/Eternidad
+		NotEMode: Tasa de caída fuera del Modo Eternidad
+		TimsConcoction: Tasa de caída del Brebaje de Tim
+		PatreonPlant: Botín de Patreon en la Selva durante una Luna de Sangre
+		Patreon: Botín de Patreon
+		PatreonEMode: Botín de Patreon en Modo Eternidad
+	}
+
+	ThoriumMod: {
+		Underworld: Se obtiene en el Inframundo
+		AquaticDepthsHardmode: Se obtiene en las Profundidades Acuáticas en Modo Difícil
+		CookNotSellingEtherianGrog: Se obtiene si el Cocinero aún no está vendiendo Grog Etheriano
+		DownedFallenBeholder: Se obtiene si el Observador Caído ha sido derrotado
+		DownedSkeletron: Se obtiene si Esqueletrón ha sido derrotado
+		Desert: Se obtiene en el Desierto
+		HardmodeUnderworld: Se obtiene en el Inframundo en Modo Difícil
+		BloodMoon: Se obtiene durante una Luna de Sangre
+	}
+}
+
 Keybinds.ToggleProgressionJournal.DisplayName: Alternar Diario de progresión
