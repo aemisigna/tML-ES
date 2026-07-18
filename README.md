@@ -64,6 +64,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Secrets of the Shadows | ✅ | v0.25.1.7
 | Thorium Mod | ✅ | v1.7.2.6
 | Ragnarok | ✅ | v1.6.0.5
+| Infernal Eclipse of Ragnarok | ✅ | v0.10.6.4
 | Split | 🔴 | X
 
 | Calamity Mod Music | ✅ | v2.1
@@ -78,6 +79,12 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Unofficial Calamity Whips | ✅ | v1.2.2
 | Calamity Simple Whip Addon | ✅ | v1.15.9
 | Calamity: War Machine Invasion | ✅ | v0.1.6
+| Enchanted Moons | ✅ | v2.0.2.1
+| Thorium Helheim | ✅ | v1.5.10
+| Consolaria | ✅ | v2.2.2
+| Unofficial Calamity Bard & Healer | ✅ | v0.13.6
+| Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.1
+| Calamity Ranger Expansion | ✅ | v1.2.2.0
 ---
 
 ## Comunidad
