@@ -81,7 +81,6 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Ragnarok | ✅ | v1.6.0.5
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.6.4
 | Split | 🔴 | X
-
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
