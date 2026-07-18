@@ -16,7 +16,7 @@ Mods: {
 				LikeNPC_Princess: ¿Por qué me cae bien {NPCName}? La respuesta oficial es: "A todos los NPC les cae bien la princesa." La respuesta privada es: "El bastón de resonancia es demasiado fácil de usar."
 				LoveNPC: "{NPCName} platica bien conmigo, ¿será porque ambas tenemos orejas de animal?"
 				DislikeNPC: Todos los días {NPCName} compite conmigo por clientes y me queda mirando, es bastante incómodo.
-				HateNPC: "¡{NPCName}, ese mocoso malvado de nacimiento, no merece vivir junto a mí!"
+				HateNPC: ¡{NPCName}, ese mocoso malvado de nacimiento, no merece vivir junto a mí!
 			}
 		}
 
@@ -401,7 +401,7 @@ Mods: {
 
 			DesertFeatherArrow: {
 				DisplayName: Flecha de Pluma del Desierto
-				Tooltip: "Cuando la pluma todavía estaba en el buitre, no era tan rápida"
+				Tooltip: Cuando la pluma todavía estaba en el buitre, no era tan rápida
 			}
 
 			DesertFeather: {

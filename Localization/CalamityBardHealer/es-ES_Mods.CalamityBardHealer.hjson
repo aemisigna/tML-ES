@@ -1483,9 +1483,9 @@ Projectiles: {
 	TimesOldTrail.DisplayName: Times Old Roman
 	TherapeuticSludge.DisplayName: Lodo Terapéutico
 	TheWindmill.DisplayName: El Molino de Viento
-	ToxicEightNote.DisplayName: "{$ProjectileName.EightNote}" Tóxica
-	ToxicQuarterNote.DisplayName: "{$ProjectileName.QuarterNote}" Tóxica
-	ToxicTiedEightNote.DisplayName: "{$ProjectileName.TiedEightNote}" Tóxica
+	ToxicEightNote.DisplayName: "{$ProjectileName.EightNote} Tóxica"
+	ToxicQuarterNote.DisplayName: "{$ProjectileName.QuarterNote} Tóxica"
+	ToxicTiedEightNote.DisplayName: "{$ProjectileName.TiedEightNote} Tóxica"
 	Transfiguration.DisplayName: Transfiguración
 	Trinity.DisplayName: Trinidad
 	Violince.DisplayName: Violince
