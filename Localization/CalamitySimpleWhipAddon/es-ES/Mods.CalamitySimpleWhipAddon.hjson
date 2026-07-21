@@ -50,8 +50,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -61,8 +60,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -72,8 +70,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -83,8 +80,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -94,8 +90,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -105,8 +100,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.08
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -116,8 +110,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -127,8 +120,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -138,8 +130,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -149,8 +140,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -160,8 +150,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -171,8 +160,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -182,8 +170,7 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.09
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -192,10 +179,7 @@ Items: {
 		Tooltip:
 			'''
 			10% de probabilidad de golpe crítico de conexión por invocación
-			Todos los enemigos golpeados por este látigo
-			hacen que el siguiente ataque de un súbdito
-			libere dos fragmentos de cristal teledirigidos
-			que infligen 20% de daño.
+			Los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito libere fragmentos de cristal teledirigidos
 			'''
 	}
 
@@ -218,13 +202,8 @@ Items: {
 		DisplayName: Cadena de Destrucción
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			hacen que el siguiente ataque de un súbdito
-			desencadene una explosión
-			que inflige 100% de daño.
-			Los enemigos eliminados por esta explosión
-			desencadenan otra explosión,
-			que puede seguir encadenándose.
+			Todos los enemigos golpeados por este látigo hacen que el siguiente ataque de un súbdito desencadene una explosión
+			Los enemigos eliminados por esta explosión desencadenan otra explosión, que puede seguir encadenándose.
 			'''
 	}
 
@@ -235,19 +214,13 @@ Items: {
 			Multiplicador de daño de conexión por invocación: x1.1
 			10% de probabilidad de golpe crítico de conexión por invocación
 
-			Todos los enemigos golpeados por este látigo
-			reciben x1.25 de daño del siguiente ataque de un súbdito y explotan,
-			infligiendo 10% de daño a los enemigos cercanos.
+			Todos los enemigos golpeados por este látigo reciben x1.25 de daño del siguiente ataque de un súbdito y explotan
 			'''
 	}
 
 	Satellite: {
 		DisplayName: Satélite
-		Tooltip:
-			'''
-			Todos los enemigos golpeados por este látigo
-			reciben un golpe crítico garantizado de un súbdito.
-			'''
+		Tooltip: Todos los enemigos golpeados por este látigo reciben un golpe crítico garantizado de un súbdito.
 	}
 
 	EntwinedBranches: {
@@ -267,12 +240,9 @@ Items: {
 			Multiplicador de daño de conexión por invocación: x1.12
 			12% de probabilidad de golpe crítico de conexión por invocación
 
-			Todos los enemigos golpeados por este látigo
-			reciben x1.50 de daño del siguiente ataque de un súbdito y explotan,
-			infligiendo 20% de daño a los enemigos cercanos.
+			Los enemigos golpeados por este látigo reciben x1.25 de daño del siguiente ataque de un súbdito y explotan
 
-			Este ataque de látigo ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -280,10 +250,8 @@ Items: {
 		DisplayName: Bobina Rompecielos
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			reciben x1.30 de daño del siguiente ataque de un súbdito y liberan una descarga eléctrica,
-			electrocutando rápidamente a los enemigos cercanos durante un breve tiempo, ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Todos los enemigos golpeados por este látigo reciben x1.30 de daño del siguiente ataque de un súbdito y liberan una descarga eléctrica
+			La descarga rápidamente electrocuta a los enemigos cercanos durante un breve tiempo y tiene penetración de armadura
 			'''
 	}
 
@@ -292,10 +260,8 @@ Items: {
 		Tooltip:
 			'''
 			+10 de daño de conexión por invocación por acumulación
-			Todos los enemigos golpeados por este látigo
-			reciben un golpe crítico garantizado de x4 de daño de un súbdito.
-			La marca de este látigo se acumula consigo misma.
-			Las acumulaciones más antiguas expiran primero.
+			Todos los enemigos golpeados por este látigo reciben un golpe crítico garantizado de x4 de daño de un súbdito.
+			El golpe de este látigo se acumula consigo mismo.
 			Una cantidad de cometas igual al número de acumulaciones orbita alrededor del enemigo.
 			'''
 	}
@@ -315,11 +281,8 @@ Items: {
 			'''
 			Multiplicador de daño de conexión por invocación: x1.07
 			7% de probabilidad de golpe crítico de conexión por invocación
-			Todos los enemigos golpeados por este látigo
-			son alcanzados por un láser en el siguiente ataque de un súbdito,
-			infligiendo 50% del daño infligido.
-			Este láser ignora la armadura.
-			La reducción de daño no puede ser ignorada.
+			Todos los enemigos golpeados por este látigo son alcanzados por un láser en el siguiente ataque de un súbdito,
+			Ignora parte de la armadura del enemigo
 			'''
 	}
 
@@ -327,8 +290,7 @@ Items: {
 		DisplayName: Vínculos Ancestrales
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
+			Todos los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito,
 			recibiendo 20% del daño del súbdito 3 veces seguidas.
 			El daño de empalamiento perfora 5 de armadura.
 			'''
@@ -338,10 +300,9 @@ Items: {
 		DisplayName: Vínculos Primigenios
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
-			recibiendo 20% del daño del súbdito 5 veces seguidas.
-			El daño de empalamiento perfora 10 de armadura.
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 20% del daño del súbdito 5 veces seguidas
+			El daño de empalamiento tiene 10 de penetración de armadura
 			'''
 	}
 
@@ -349,10 +310,9 @@ Items: {
 		DisplayName: Vínculos de la Existencia
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			son empalados por una hoja espectral en el siguiente ataque de un súbdito,
-			recibiendo 20% del daño del súbdito 6 veces seguidas.
-			El daño de empalamiento perfora 15 de armadura.
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 20% del daño del súbdito 6 veces seguidas
+			El daño de empalamiento tiene 15 de penetración de armadura
 			'''
 	}
 
@@ -360,10 +320,9 @@ Items: {
 		DisplayName: Lágrima de Sirena
 		Tooltip:
 			'''
-			Todos los enemigos golpeados por este látigo
-			son empalados por una lanza espectral en el siguiente ataque de un súbdito,
-			recibiendo 25% del daño del súbdito 8 veces seguidas.
-			El daño de empalamiento perfora 50 de armadura.
+			Los enemigos golpeados por este látigo son empalados por una hoja espectral en el siguiente ataque de un súbdito
+			La hoja espectral inflige 25% del daño del súbdito 8 veces seguidas
+			El daño de empalamiento tiene 50 de penetración de armadura
 			'''
 	}
 
@@ -372,10 +331,9 @@ Items: {
 		Tooltip:
 			'''
 			1 de daño de conexión por invocación
-			Todos los enemigos golpeados por este látigo
-			hacen que el siguiente ataque de un súbdito lance una bola de arena
-			que cae por gravedad e inflige 40% de daño.
-			Explota al impactar con un bloque, dañando a los enemigos cercanos.
+			Los enemigos golpeados por éste hacen que el siguiente ataque de un súbdito lance una bola de arena
+			La bola de arena es afectada por la gravedad e inflige 40% del daño del súbdito
+			La bola de arena explota al impactar con un bloque, dañando a los enemigos cercanos
 			'''
 	}
 
@@ -384,10 +342,9 @@ Items: {
 		Tooltip:
 			'''
 			2 de daño de conexión por invocación
-			Todos los enemigos golpeados por este látigo
-			hacen que el siguiente ataque de un súbdito lance una bola de arena
-			que cae por gravedad e inflige 40% de daño.
-			Explota al impactar con un bloque, dañando a los enemigos cercanos.
+			Los enemigos golpeados por éste hacen que el siguiente ataque de un súbdito lance una bola de arena
+			La bola de arena es afectada por la gravedad e inflige 40% del daño del súbdito
+			La bola de arena explota al impactar con un bloque, dañando a los enemigos cercanos
 			'''
 	}
 
@@ -402,27 +359,20 @@ Items: {
 			'''
 			-----------------------------
 			Modo Defensa:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo azules
-			durante un breve tiempo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules por un breve tiempo.
 			Recoger fragmentos acumula carga de escudo.
-			Al alcanzar 50 de carga, obtienes un escudo de 50 HP
+			Al alcanzar 50 de carga, obtienes un escudo de 50 PV
 			-----------------------------
 			Modo Ataque:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
-			Los fragmentos rojos persiguen a los enemigos,
-			infligiendo 10% del daño del súbdito +3 de daño fijo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +3 de daño fijo.
 			-----------------------------
-			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
-			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
-			que dura entre 5 y 50 segundos según el escudo restante.
-			Si el escudo se rompe por completo,
-			el enfriamiento de recarga se convierte en 60 segundos.
+			Los fragmentos de escudo liberados tienen un enfriamiento muy corto.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos.
 			Durante el enfriamiento, cambia al Modo Ataque.
 			Cuando termina el enfriamiento, cambia al Modo Defensa.
-			Si queda algo de escudo, recoger fragmentos
-			restaura la durabilidad del escudo.
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
 			'''
 	}
 
@@ -437,27 +387,20 @@ Items: {
 			'''
 			-----------------------------
 			Modo Defensa:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo azules
-			durante un breve tiempo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo.
 			Recoger fragmentos acumula carga de escudo.
-			Al alcanzar 100 de carga, obtienes un escudo de 100 HP
+			Al alcanzar 100 de carga, obtienes un escudo de 100 PV
 			-----------------------------
 			Modo Ataque:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
-			Los fragmentos rojos persiguen a los enemigos,
-			infligiendo 10% del daño del súbdito +5 de daño fijo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +5 de daño fijo.
 			-----------------------------
 			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
-			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
-			que dura entre 5 y 50 segundos según el escudo restante.
-			Si el escudo se rompe por completo,
-			el enfriamiento de recarga se convierte en 60 segundos.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos.
 			Durante el enfriamiento, cambia al Modo Ataque.
 			Cuando termina el enfriamiento, cambia al Modo Defensa.
-			Si queda algo de escudo, recoger fragmentos
-			restaura la durabilidad del escudo.
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
 			'''
 	}
 
@@ -472,27 +415,20 @@ Items: {
 			'''
 			-----------------------------
 			Modo Defensa:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo azules
-			durante un breve tiempo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo.
 			Recoger fragmentos acumula carga de escudo.
-			Al alcanzar 150 de carga, obtienes un escudo de 150 HP
+			Al alcanzar 150 de carga, obtienes un escudo de 150 PV
 			-----------------------------
 			Modo Ataque:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
-			Los fragmentos rojos persiguen a los enemigos,
-			infligiendo 10% del daño del súbdito +25 de daño fijo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +25 de daño fijo.
 			-----------------------------
 			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
-			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
-			que dura entre 5 y 50 segundos según el escudo restante.
-			Si el escudo se rompe por completo,
-			el enfriamiento de recarga se convierte en 60 segundos.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos.
 			Durante el enfriamiento, cambia al Modo Ataque.
 			Cuando termina el enfriamiento, cambia al Modo Defensa.
-			Si queda algo de escudo, recoger fragmentos
-			restaura la durabilidad del escudo.
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
 			'''
 	}
 
@@ -507,27 +443,20 @@ Items: {
 			'''
 			-----------------------------
 			Modo Defensa:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo azules
-			durante un breve tiempo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo.
 			Recoger fragmentos acumula carga de escudo.
-			Al alcanzar 200 de carga, obtienes un escudo de 200 HP
+			Al alcanzar 200 de carga, obtienes un escudo de 200 PV
 			-----------------------------
 			Modo Ataque:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
-			Los fragmentos rojos persiguen a los enemigos,
-			infligiendo 10% del daño del súbdito +50 de daño fijo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +50 de daño fijo.
 			-----------------------------
 			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
-			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
-			que dura entre 5 y 50 segundos según el escudo restante.
-			Si el escudo se rompe por completo,
-			el enfriamiento de recarga se convierte en 60 segundos.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos.
 			Durante el enfriamiento, cambia al Modo Ataque.
 			Cuando termina el enfriamiento, cambia al Modo Defensa.
-			Si queda algo de escudo, recoger fragmentos
-			restaura la durabilidad del escudo.
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
 			'''
 	}
 
@@ -542,27 +471,20 @@ Items: {
 			'''
 			-----------------------------
 			Modo Defensa:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo azules
-			durante un breve tiempo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo azules durante un breve tiempo.
 			Recoger fragmentos acumula carga de escudo.
-			Al alcanzar 250 de carga, obtienes un escudo de 250 HP
+			Al alcanzar 250 de carga, obtienes un escudo de 250 PV
 			-----------------------------
 			Modo Ataque:
-			Golpear a un enemigo con el látigo hace que
-			los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
-			Los fragmentos rojos persiguen a los enemigos,
-			infligiendo 10% del daño del súbdito +150 de daño fijo.
+			Golpear a un enemigo con el látigo hace que los ataques de los súbditos liberen fragmentos de escudo rojos durante un breve tiempo.
+			Los fragmentos rojos persiguen a los enemigos, infligiendo 10% del daño del súbdito +150 de daño fijo.
 			-----------------------------
 			La liberación de fragmentos de escudo tiene un enfriamiento muy corto.
-			Cuando el escudo recibe daño, entra en un enfriamiento de recarga
-			que dura entre 5 y 50 segundos según el escudo restante.
-			Si el escudo se rompe por completo,
-			el enfriamiento de recarga se convierte en 60 segundos.
+			Cuando el escudo recibe daño, entra en un enfriamiento de recarga que dura entre 5 y 50 segundos según el escudo restante.
+			Si el escudo se rompe por completo, el enfriamiento de recarga se convierte en 60 segundos.
 			Durante el enfriamiento, cambia al Modo Ataque.
 			Cuando termina el enfriamiento, cambia al Modo Defensa.
-			Si queda algo de escudo, recoger fragmentos
-			restaura la durabilidad del escudo.
+			Si queda algo de escudo, recoger fragmentos restaura la durabilidad del escudo.
 			'''
 	}
 
@@ -571,8 +493,7 @@ Items: {
 		Tooltip:
 			'''
 			+1 de daño de conexión por invocación por acumulación
-			El daño de marca de este látigo se acumula consigo mismo.
-			Las acumulaciones más antiguas expiran primero.
+			Este látigo inflige daño de marca que se acumula consigo mismo, con las acumulaciones más antiguas expirando primero.
 			'''
 	}
 
@@ -581,8 +502,7 @@ Items: {
 		Tooltip:
 			'''
 			+2 de daño de conexión por invocación por acumulación
-			El daño de marca de este látigo se acumula consigo mismo.
-			Las acumulaciones más antiguas expiran primero.
+			Este látigo inflige daño de marca que se acumula consigo mismo, con las acumulaciones más antiguas expirando primero.
 			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
 			'''
 	}
@@ -592,8 +512,7 @@ Items: {
 		Tooltip:
 			'''
 			+3 de daño de conexión por invocación por acumulación
-			El daño de marca de este látigo se acumula consigo mismo.
-			Las acumulaciones más antiguas expiran primero.
+			Este látigo inflige daño de marca que se acumula consigo mismo, con las acumulaciones más antiguas expirando primero.
 			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
 			'''
 	}
@@ -603,8 +522,7 @@ Items: {
 		Tooltip:
 			'''
 			+6 de daño de conexión por invocación por acumulación
-			El daño de marca de este látigo se acumula consigo mismo.
-			Las acumulaciones más antiguas expiran primero.
+			Este látigo inflige daño de marca que se acumula consigo mismo, con las acumulaciones más antiguas expirando primero.
 			Una cantidad de polillas igual al número de acumulaciones se adhieren al enemigo.
 			'''
 	}
@@ -614,9 +532,8 @@ Items: {
 		Tooltip:
 			'''
 			+10 de daño de conexión por invocación por acumulación
-			El daño de marca de este látigo se acumula consigo mismo.
-			Las acumulaciones más antiguas expiran primero.
-			Una cantidad de cometas igual al número de acumulaciones orbita alrededor del enemigo.
+			Este látigo inflige daño de marca que se acumula consigo mismo, con las acumulaciones más antiguas expirando primero.
+			Una cantidad de cometas igual al número de acumulaciones se adhieren al enemigo.
 			'''
 	}
 
@@ -867,7 +784,7 @@ Items: {
 			'''
 			Aumenta el alcance del látigo en un 10%
 			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -877,7 +794,7 @@ Items: {
 			'''
 			Aumenta el alcance del látigo en un 10%
 			Los látigos obtienen 5% de probabilidad de golpe crítico de conexión por invocación.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -886,9 +803,8 @@ Items: {
 		Tooltip:
 			'''
 			Aumenta el alcance del látigo en un 15%
-			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.03
-			y 3% de probabilidad de golpe crítico de conexión por invocación.
-			Solo se puede equipar un accesorio de Empuñadura
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.03 y 3% de probabilidad de golpe crítico de conexión por invocación.
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -898,10 +814,9 @@ Items: {
 			'''
 			Aumenta el máximo de súbditos en 1
 			Aumenta el alcance del látigo en un 15%
-			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05
-			y 5% de probabilidad de golpe crítico de conexión por invocación.
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.05 y 5% de probabilidad de golpe crítico de conexión por invocación.
 			Permite que los látigos golpeen a los enemigos a través de paredes.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -911,10 +826,9 @@ Items: {
 			'''
 			Aumenta el máximo de súbditos en 2
 			Aumenta el alcance del látigo en un 30%
-			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.07
-			y 7% de probabilidad de golpe crítico de conexión por invocación.
+			Los látigos obtienen un multiplicador de daño de conexión por invocación de x1.07 y 7% de probabilidad de golpe crítico de conexión por invocación.
 			Permite que los látigos golpeen a los enemigos a través de paredes.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -923,7 +837,7 @@ Items: {
 		Tooltip:
 			'''
 			Permite que los látigos golpeen a los enemigos a través de paredes.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -933,7 +847,7 @@ Items: {
 			'''
 			Reduce el alcance del látigo en un 15%
 			Permite que los látigos golpeen a los enemigos a través de paredes.
-			Solo se puede equipar un accesorio de Empuñadura
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -941,8 +855,8 @@ Items: {
 		DisplayName: Empuñadura de Comandante
 		Tooltip:
 			'''
-			Los proyectiles de los súbditos persiguen a los enemigos
-			golpeados por tu látigo durante un breve tiempo.
+			Los proyectiles de los súbditos persiguen a los enemigos golpeados por tu látigo durante un breve tiempo
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -951,8 +865,8 @@ Items: {
 		Tooltip:
 			'''
 			Reduce el alcance del látigo en un 15%
-			Los proyectiles de los súbditos persiguen a los enemigos
-			golpeados por tu látigo durante un breve tiempo.
+			Los proyectiles de los súbditos persiguen a los enemigos golpeados por tu látigo durante un breve tiempo
+			Solo se puede equipar un accesorio de Empuñadura a la vez
 			'''
 	}
 
@@ -1592,6 +1506,11 @@ Buffs: {
 		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx23.Description
 		DisplayName: Efecto Negativo de Látigo Simple Ex23
 	}
+
+	BuddyEmblemSoloHalfBuff: {
+		DisplayName: Mejora en Solitario del Emblema del Compañero a la Mitad
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.BuddyEmblemSoloHalfBuff.Description
+	}
 }
 
 DamageClasses: {
@@ -1599,7 +1518,7 @@ DamageClasses: {
 	PseudoSummonDamageClass2.DisplayName: Clase de Daño de Pseudo-Invocación 2
 }
 
-NPCs.WhipDebuffNPC.DisplayName: NPC de Efecto Negativo de Látigo
+NPCs.WhipDebuffNPC.DisplayName: P N J de Efecto Negativo de Látigo
 
 Projectiles: {
 	SimpleWhipProj.DisplayName: Proyectil del Látigo Simple

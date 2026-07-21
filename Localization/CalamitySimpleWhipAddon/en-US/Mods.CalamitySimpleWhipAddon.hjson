@@ -39,8 +39,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -50,8 +49,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -61,8 +59,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -72,8 +69,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -83,8 +79,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -94,8 +89,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -105,8 +99,7 @@ Items: {
 			'''
 			1.08x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -116,8 +109,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -127,8 +119,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -138,8 +129,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -149,8 +139,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -160,8 +149,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -171,8 +159,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -182,8 +169,7 @@ Items: {
 			'''
 			1.09x summon tag damage multiplier
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -192,10 +178,7 @@ Items: {
 		Tooltip:
 			'''
 			10% summon tag critical strike chance
-			All enemies struck by this whip
-			cause the next minion attack
-			to release two tracking crystal shards
-			that deal 20% damage.
+			Enemies struck by this whip cause the next minion attack to release tracking crystal shards
 			'''
 	}
 
@@ -218,13 +201,8 @@ Items: {
 		DisplayName: Destruction Chain
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			cause the next minion attack
-			to trigger an explosion
-			that deals 100% damage.
-			Enemies killed by this explosion
-			trigger another explosion,
-			which can continue to chain.
+			Enemies struck by this whip cause the next minion attack to trigger an explosion
+			Enemies killed by this explosion trigger another explosion, which can continue to chain
 			'''
 	}
 
@@ -235,19 +213,13 @@ Items: {
 			1.1x summon tag damage multiplier
 			10% summon tag critical strike chance
 
-			All enemies struck by this whip
-			take 1.25x damage from the next minion attack and explode,
-			dealing 10% damage to nearby enemies.
+			Enemies struck by this whip take 1.25x damage from the next minion attack and explode
 			'''
 	}
 
 	Satellite: {
 		DisplayName: Satellite
-		Tooltip:
-			'''
-			All enemies struck by this whip
-			take one guaranteed critical hit from a minion.
-			'''
+		Tooltip: Enemies struck by this whip take one guaranteed critical hit from a minion.
 	}
 
 	EntwinedBranches: {
@@ -267,12 +239,9 @@ Items: {
 			1.12x summon tag damage multiplier
 			12% summon tag critical strike chance
 
-			All enemies struck by this whip
-			take 1.50x damage from the next minion attack and explode,
-			dealing 20% damage to nearby enemies.
+			Enemies struck by this whip take 1.25x damage from the next minion attack and explode
 
-			This whip attack ignores armor.
-			Damage reduction cannot be ignored.
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -280,10 +249,8 @@ Items: {
 		DisplayName: Skybreaker Coil
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			take 1.30x damage from the next minion attack and unleash an electrical burst,
-			rapidly shocking nearby enemies for a short time, ignores armor.
-			Damage reduction cannot be ignored.
+			All enemies struck by this whiptake 1.30x damage from the next minion attack and unleash an electrical burst
+			The burst rapidly shocks nearby enemies for a short time and has armor penetration
 			'''
 	}
 
@@ -292,11 +259,9 @@ Items: {
 		Tooltip:
 			'''
 			+10 summon tag damage per stack
-			All enemies struck by this whip
-			take one guaranteed 4x damage critical hit from a minion.
-			This whip's tag stacks with itself.
-			Older stacks expire first.
-			A number of comets equal to the stacks count orbit around the enemy.
+			Enemies struck by this whip take one guaranteed 4x damage critical hit from a minion
+			This whip's tag stacks with itself
+			Comets equal to the stacks count orbit around the enemy
 			'''
 	}
 
@@ -315,11 +280,8 @@ Items: {
 			'''
 			1.07x summon tag damage multiplier
 			7% summon tag critical strike chance
-			All enemies struck by this whip
-			are hit by a laser on the next minion attack,
-			dealing 50% of the damage dealt.
-			This laser ignores armor.
-			Damage reduction cannot be ignored.
+			Enemies struck by this whip are hit by a laser on the next minion attack
+			Ignores part of the enemies armor
 			'''
 	}
 
@@ -327,10 +289,9 @@ Items: {
 		DisplayName: Ancient Bonds
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			are impaled by a spectral blade on the next minion attack,
-			taking 20% of the minion’s damage 3 times in succession.
-			The impaling damage pierces 5 armor.
+			Enemies struck by this whip are impaled by a spectral blade on the next minion attack
+			The spectral blade deals 20% of the minion’s damage 3 times in succession
+			The impaling damage has 5 armor penetration
 			'''
 	}
 
@@ -338,10 +299,9 @@ Items: {
 		DisplayName: Primal Bonds
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			are impaled by a spectral blade on the next minion attack,
-			taking 20% of the minion’s damage 5 times in succession.
-			The impaling damage pierces 10 armor.
+			Enemies struck by this whip are impaled by a spectral blade on the next minion attack
+			The spectral blade deals 20% of the minion’s damage 5 times in succession
+			The impaling damage has 10 armor penetration
 			'''
 	}
 
@@ -349,10 +309,9 @@ Items: {
 		DisplayName: Existence Bonds
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			are impaled by a spectral blade on the next minion attack,
-			taking 20% of the minion’s damage 6 times in succession.
-			The impaling damage pierces 15 armor.
+			Enemies struck by this whip are impaled by a spectral blade on the next minion attack
+			The spectral blade deals 20% of the minion’s damage 6 times in succession
+			The impaling damage has 15 armor penetration
 			'''
 	}
 
@@ -360,10 +319,9 @@ Items: {
 		DisplayName: Mermaid's Tear
 		Tooltip:
 			'''
-			All enemies struck by this whip
-			are impaled by a spectral spear on the next minion attack,
-			taking 25% of the minion’s damage 8 times in succession.
-			The impaling damage pierces 50 armor.
+			Enemies struck by this whip are impaled by a spectral blade on the next minion attack
+			The spectral blade deals 25% of the minion’s damage 8 times in succession
+			The impaling damage has 50 armor penetration
 			'''
 	}
 
@@ -372,10 +330,9 @@ Items: {
 		Tooltip:
 			'''
 			1 summon tag damage
-			All enemies struck by this whip
-			cause the next minion attack to launch a sandball
-			that falls with gravity and deals 40% damage.
-			Explodes on block impact, damaging nearby enemies.
+			Enemies struck by this whip cause the next minion attack to launch a sandball
+			The sandball is effected by gravity and deals 40% of the minion's damage
+			The sandball explodes on block impact, damaging nearby enemies
 			'''
 	}
 
@@ -384,10 +341,9 @@ Items: {
 		Tooltip:
 			'''
 			2 summon tag damage
-			All enemies struck by this whip
-			cause the next minion attack to launch a sandball
-			that falls with gravity and deals 40% damage.
-			Explodes on block impact, damaging nearby enemies.
+			Enemies struck by this whip cause the next minion attack to launch a sandball
+			The sandball is effected by gravity and deals 40% of the minion's damage
+			The sandball explodes on block impact, damaging nearby enemies
 			'''
 	}
 
@@ -396,33 +352,26 @@ Items: {
 		Tooltip:
 			'''
 			2 summon tag damage
-			Switches automatically between two modes.
+			Automatically switches between two modes.
 			'''
 		HoldShiftTooltip:
 			'''
 			-----------------------------
 			Defense Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release blue shield shards
-			for a short time.
-			Collecting shards builds shield charge.
-			At 50 charge, gain a 50 HP shield
+			Striking an enemy with the whip causes minion attacks to release blue shield shards for a short time
+			Collecting shards builds shield charge
+			At 50 charge, you gain a 50 HP shield
 			-----------------------------
 			Attack Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release red shield shards for a short time.
-			Red shards home in on enemies,
-			dealing 10% of minion damage +3 flat damage.
+			Striking an enemy with the whip causes minion attacks to release red shield shards for a short time.
+			Red shards home in on enemies, dealing 10% of the minion's damage +3 flat damage.
 			-----------------------------
-			Shield shard release has a very short cooldown.
-			When the shield takes damage, it enters a recharge cooldown
-			lasting 5–50 seconds based on remaining shield.
-			If the shield is fully broken,
-			the recharge cooldown becomes 60 seconds.
-			During cooldown, switches to Attack Mode.
-			When cooldown ends, switches to Defense Mode.
-			If any shield remains, collecting shards
-			restores shield durability.
+			Shield shard release has a very short cooldown
+			When the shield takes damage, it enters a recharge cooldown lasting 5–50 seconds based on your remaining shield
+			If the shield is fully broken, the recharge cooldown becomes 60 seconds
+			During cooldown, switches to Attack Mode
+			When the cooldown ends, switches to Defense Mode
+			If any shield remains, collecting shards restores shield durability.
 			'''
 	}
 
@@ -437,27 +386,20 @@ Items: {
 			'''
 			-----------------------------
 			Defense Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release blue shield shards
-			for a short time.
-			Collecting shards builds shield charge.
-			At 100 charge, gain a 100 HP shield
+			Striking an enemy with the whip causes minion attacks to release blue shield shards for a short time
+			Collecting shards builds shield charge
+			At 100 charge, you gain a 100 HP shield
 			-----------------------------
 			Attack Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release red shield shards for a short time.
-			Red shards home in on enemies,
-			dealing 10% of minion damage +5 flat damage.
+			Striking an enemy with the whip causes minion attacks to release red shield shards for a short time.
+			Red shards home in on enemies, dealing 10% of the minion's damage +5 flat damage.
 			-----------------------------
-			Shield shard release has a very short cooldown.
-			When the shield takes damage, it enters a recharge cooldown
-			lasting 5–50 seconds based on remaining shield.
-			If the shield is fully broken,
-			the recharge cooldown becomes 60 seconds.
-			During cooldown, switches to Attack Mode.
-			When cooldown ends, switches to Defense Mode.
-			If any shield remains, collecting shards
-			restores shield durability.
+			Shield shard release has a very short cooldown
+			When the shield takes damage, it enters a recharge cooldown lasting 5–50 seconds based on your remaining shield
+			If the shield is fully broken, the recharge cooldown becomes 60 seconds
+			During cooldown, switches to Attack Mode
+			When the cooldown ends, switches to Defense Mode
+			If any shield remains, collecting shards restores shield durability.
 			'''
 	}
 
@@ -472,27 +414,20 @@ Items: {
 			'''
 			-----------------------------
 			Defense Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release blue shield shards
-			for a short time.
-			Collecting shards builds shield charge.
-			At 150 charge, gain a 150 HP shield
+			Striking an enemy with the whip causes minion attacks to release blue shield shards for a short time
+			Collecting shards builds shield charge
+			At 150 charge, you gain a 150 HP shield
 			-----------------------------
 			Attack Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release red shield shards for a short time.
-			Red shards home in on enemies,
-			dealing 10% of minion damage +25 flat damage.
+			Striking an enemy with the whip causes minion attacks to release red shield shards for a short time.
+			Red shards home in on enemies, dealing 10% of the minion's damage +25 flat damage.
 			-----------------------------
-			Shield shard release has a very short cooldown.
-			When the shield takes damage, it enters a recharge cooldown
-			lasting 5–50 seconds based on remaining shield.
-			If the shield is fully broken,
-			the recharge cooldown becomes 60 seconds.
-			During cooldown, switches to Attack Mode.
-			When cooldown ends, switches to Defense Mode.
-			If any shield remains, collecting shards
-			restores shield durability.
+			Shield shard release has a very short cooldown
+			When the shield takes damage, it enters a recharge cooldown lasting 5–50 seconds based on your remaining shield
+			If the shield is fully broken, the recharge cooldown becomes 60 seconds
+			During cooldown, switches to Attack Mode
+			When the cooldown ends, switches to Defense Mode
+			If any shield remains, collecting shards restores shield durability.
 			'''
 	}
 
@@ -507,27 +442,20 @@ Items: {
 			'''
 			-----------------------------
 			Defense Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release blue shield shards
-			for a short time.
-			Collecting shards builds shield charge.
-			At 200 charge, gain a 200 HP shield
+			Striking an enemy with the whip causes minion attacks to release blue shield shards for a short time
+			Collecting shards builds shield charge
+			At 200 charge, you gain a 200 HP shield
 			-----------------------------
 			Attack Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release red shield shards for a short time.
-			Red shards home in on enemies,
-			dealing 10% of minion damage +50 flat damage.
+			Striking an enemy with the whip causes minion attacks to release red shield shards for a short time.
+			Red shards home in on enemies, dealing 10% of the minion's damage +50 flat damage.
 			-----------------------------
-			Shield shard release has a very short cooldown.
-			When the shield takes damage, it enters a recharge cooldown
-			lasting 5–50 seconds based on remaining shield.
-			If the shield is fully broken,
-			the recharge cooldown becomes 60 seconds.
-			During cooldown, switches to Attack Mode.
-			When cooldown ends, switches to Defense Mode.
-			If any shield remains, collecting shards
-			restores shield durability.
+			Shield shard release has a very short cooldown
+			When the shield takes damage, it enters a recharge cooldown lasting 5–50 seconds based on your remaining shield
+			If the shield is fully broken, the recharge cooldown becomes 60 seconds
+			During cooldown, switches to Attack Mode
+			When the cooldown ends, switches to Defense Mode
+			If any shield remains, collecting shards restores shield durability.
 			'''
 	}
 
@@ -542,27 +470,20 @@ Items: {
 			'''
 			-----------------------------
 			Defense Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release blue shield shards
-			for a short time.
-			Collecting shards builds shield charge.
-			At 250 charge, gain a 250 HP shield
+			Striking an enemy with the whip causes minion attacks to release blue shield shards for a short time
+			Collecting shards builds shield charge
+			At 250 charge, you gain a 250 HP shield
 			-----------------------------
 			Attack Mode:
-			Striking an enemy with the whip causes
-			minion attacks to release red shield shards for a short time.
-			Red shards home in on enemies,
-			dealing 10% of minion damage +150 flat damage.
+			Striking an enemy with the whip causes minion attacks to release red shield shards for a short time.
+			Red shards home in on enemies, dealing 10% of the minion's damage +150 flat damage.
 			-----------------------------
-			Shield shard release has a very short cooldown.
-			When the shield takes damage, it enters a recharge cooldown
-			lasting 5–50 seconds based on remaining shield.
-			If the shield is fully broken,
-			the recharge cooldown becomes 60 seconds.
-			During cooldown, switches to Attack Mode.
-			When cooldown ends, switches to Defense Mode.
-			If any shield remains, collecting shards
-			restores shield durability.
+			Shield shard release has a very short cooldown
+			When the shield takes damage, it enters a recharge cooldown lasting 5–50 seconds based on your remaining shield
+			If the shield is fully broken, the recharge cooldown becomes 60 seconds
+			During cooldown, switches to Attack Mode
+			When the cooldown ends, switches to Defense Mode
+			If any shield remains, collecting shards restores shield durability.
 			'''
 	}
 
@@ -571,8 +492,7 @@ Items: {
 		Tooltip:
 			'''
 			+1 summon tag damage per stack
-			This whip's tag damage stacks with itself.
-			Older stacks expire first.
+			This whip's tag damage stacks with itself, with older stacks expiring first
 			'''
 	}
 
@@ -581,9 +501,8 @@ Items: {
 		Tooltip:
 			'''
 			+2 summon tag damage per stack
-			This whip's tag damage stacks with itself.
-			Older stacks expire first.
-			A number of moths equal to the stacks attach themselves to the enemy.
+			This whip's tag damage stacks with itself, with older stacks expiring first
+			A number of moths equal to the number of stacks attach themselves to the enemy
 			'''
 	}
 
@@ -592,9 +511,8 @@ Items: {
 		Tooltip:
 			'''
 			+3 summon tag damage per stack
-			This whip's tag damage stacks with itself.
-			Older stacks expire first.
-			A number of moths equal to the stacks attach themselves to the enemy.
+			This whip's tag damage stacks with itself, with older stacks expiring first
+			A number of moths equal to the number of stacks attach themselves to the enemy
 			'''
 	}
 
@@ -603,9 +521,8 @@ Items: {
 		Tooltip:
 			'''
 			+6 summon tag damage per stack
-			This whip's tag damage stacks with itself.
-			Older stacks expire first.
-			A number of moths equal to the stacks attach themselves to the enemy.
+			This whip's tag damage stacks with itself, with older stacks expiring first
+			A number of moths equal to the number of stacks attach themselves to the enemy
 			'''
 	}
 
@@ -614,9 +531,8 @@ Items: {
 		Tooltip:
 			'''
 			+10 summon tag damage per stack
-			This whip's tag damage stacks with itself.
-			Older stacks expire first.
-			A number of comets equal to the stacks count orbit around the enemy.
+			This whip's tag damage stacks with itself, with older stacks expiring first
+			A number of comets equal to the number of stacks attach themselves to the enemy
 			'''
 	}
 
@@ -625,7 +541,7 @@ Items: {
 		Tooltip:
 			'''
 			8 summon tag damage
-			Striking enemies regularly summons physical weapons dealing 100% of minion damage.
+			Striking enemies regularly summons physical weapons dealing 100% of your minion's damage.
 			'''
 	}
 
@@ -634,7 +550,7 @@ Items: {
 		Tooltip:
 			'''
 			20 summon tag damage
-			Striking enemies rapidly summons a swift arsenal dealing 120% of minion damage
+			Striking enemies rapidly summons a swift arsenal dealing 120% of your minion's damage
 			'''
 	}
 
@@ -643,7 +559,7 @@ Items: {
 		Tooltip:
 			'''
 			80 summon tag damage
-			Striking enemies unleashes a relentless barrage of weapons dealing 200% of minion damage
+			Striking enemies unleashes a relentless barrage of weapons dealing 200% of your minion's damage
 			'''
 	}
 
@@ -866,8 +782,8 @@ Items: {
 		Tooltip:
 			'''
 			Increases whip range by 10% 
-			Whips gain 1.05x summon tag damage multiplier.
-			Only one Grip accessory can be equipped
+			Whips gain 1.05x summon tag damage multiplier
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -876,8 +792,8 @@ Items: {
 		Tooltip:
 			'''
 			Increases whip range by 10% 
-			Whips gain 5% summon tag critical strike chance.
-			Only one Grip accessory can be equipped
+			Whips gain 5% summon tag critical strike chance
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -886,9 +802,8 @@ Items: {
 		Tooltip:
 			'''
 			Increases whip range by 15% 
-			Whips gain 1.03x summon tag damage multiplier
-			and 3% summon tag critical strike chance.
-			Only one Grip accessory can be equipped
+			Whips gain 1.03x summon tag damage multiplier and 3% summon tag critical strike chance
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -898,10 +813,9 @@ Items: {
 			'''
 			Increases max minions by 1
 			Increases whip range by 15% 
-			Whips gain 1.05x summon tag damage multiplier
-			and 5% summon tag critical strike chance.
-			Allows whips to hit enemies through walls.
-			Only one Grip accessory can be equipped
+			Whips gain 1.05x summon tag damage multiplier and 5% summon tag critical strike chance
+			Allows whips to hit enemies through walls
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -911,10 +825,9 @@ Items: {
 			'''
 			Increases max minions by 2
 			Increases whip range by 30% 
-			Whips gain 1.07x summon tag damage multiplier
-			and 7% summon tag critical strike chance.
-			Allows whips to hit enemies through walls.
-			Only one Grip accessory can be equipped
+			Whips gain 1.07x summon tag damage multiplier and 7% summon tag critical strike chance
+			Allows whips to hit enemies through walls
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -922,8 +835,8 @@ Items: {
 		DisplayName: Light Spirit Grip
 		Tooltip:
 			'''
-			Allows whips to hit enemies through walls.
-			Only one Grip accessory can be equipped
+			Allows whips to hit enemies through walls
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -932,8 +845,8 @@ Items: {
 		Tooltip:
 			'''
 			Reduces whip range by 15%
-			Allows whips to hit enemies through walls.
-			Only one Grip accessory can be equipped
+			Allows whips to hit enemies through walls
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -941,8 +854,8 @@ Items: {
 		DisplayName: Commander Grip
 		Tooltip:
 			'''
-			Minion projectiles home in on enemies
-			struck by your whip for a short duration.
+			Minion projectiles deal less damage but now home in on the taged enemy for a short duration
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -950,9 +863,8 @@ Items: {
 		DisplayName: Magnetic Grip
 		Tooltip:
 			'''
-			Reduces whip range by 15%
-			Minion projectiles home in on enemies
-			struck by your whip for a short duration.
+			Reduces whip range by 15% but minion projectiles home in on the taged enemy for a short duration
+			Only one Grip accessory can be equipped at a time
 			'''
 	}
 
@@ -1591,6 +1503,11 @@ Buffs: {
 	SimpleWhipDebuffEx23: {
 		Description: Mods.CalamitySimpleWhipAddon.Buffs.SimpleWhipDebuffEx23.Description
 		DisplayName: Simple Whip Debuff Ex23
+	}
+
+	BuddyEmblemSoloHalfBuff: {
+		DisplayName: Buddy Emblem Solo Half Buff
+		Description: Mods.CalamitySimpleWhipAddon.Buffs.BuddyEmblemSoloHalfBuff.Description
 	}
 }
 
