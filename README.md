@@ -84,6 +84,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Unofficial Calamity Bard & Healer | ✅ | v0.13.6
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.1
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
+| Infernal Arsenal Mod | ✅ | v1.6.0.2
 ---
 
 ## Comunidad

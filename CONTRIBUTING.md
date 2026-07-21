@@ -99,6 +99,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Unofficial Calamity Bard & Healer | ✅ | v0.13.6
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.1
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
+| Infernal Arsenal Mod | ✅ | v1.6.0.2
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
