@@ -1,0 +1,613 @@
+FootballZombie.DisplayName: Zombi Futbolista
+Moonwalker.DisplayName: Caminante Lunar
+RebelliousWisp.DisplayName: Fuego Fatuo Rebelde
+FreeSoul.DisplayName: Alma Libre
+FunkySoul.DisplayName: Alma Funky
+Husk.DisplayName: Cáscara
+ShadowCaster.DisplayName: Conjurador de Sombras
+SpikedLavaSlime.DisplayName: Baboso de Lava con Púas
+
+Astrologist: {
+	DisplayName: Astróloga
+
+	TownNPCMood: {
+		Content: No sé qué tal los demás, pero a mí me parece bien todo.
+		NoHome: ¿Una casita, por favor? ...¿no se supone que para eso debería acudir a ti?
+		FarFromHome: Sé que a cierta persona le encanta dormir al aire libre, pero yo prefiero tener mi propia caja de madera.
+		LoveSpace: No había tenido tanto espacio desde... Vaya, ¡NUNCA había tenido tanto espacio!
+		DislikeCrowded: Deshazte de la multitud, por favor.
+		HateCrowded: Qué agobio hay aquí, es como estar de vuelta en el Nexo.
+		LoveBiome: Me encanta {BiomeName}. ¡El cielo está clarísimo aquí!
+		LikeBiome: "{BiomeName}... No hay magos atractivos por aquí, pero tampoco está mal."
+		DislikeBiome: "{BiomeName} no es lo mío. Confundo la nieve con las estrellas."
+		HateBiome: ¡¿{BiomeName}?! ¡Yo paso!
+		LoveNPC: "{NPCName}... Él sí que tiene aura."
+		LikeNPC: Me gusta {NPCName}. ¡Los ancianos son lo mejor!
+		DislikeNPC: "{NPCName} me molesta un poco."
+		HateNPC: "{NPCName} es un recordatorio andante de todo lo que no me gustaba del Nexo."
+		LikeNPC_Princess: ¿{NPCName}? Vaya, ¿no es adorable?
+		Princess_LovesNPC: "{NPCName}... ¡ella sí que es especial!"
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+AstrologistBad: {
+	DisplayName: Persona Amenazante
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+Collector: {
+	DisplayName: Coleccionista
+
+	TownNPCMood: {
+		Content: No está tan mal, supongo. Felicidades.
+		NoHome: ¿Se supone que tengo que dormir sobre el pasto? Pobre de mi espalda...
+		FarFromHome: ¿Cuánto se supone que tengo que caminar? Eh, ¿no puedes simplemente pedirme un uber espacial o algo así?
+		LoveSpace: Está desolado ahí fuera, tal como me gusta.
+		DislikeCrowded: Hay demasiada gente aquí. Gente que no acata mis órdenes.
+		HateCrowded: Demasiada gente burlándose de mí por aquí, ¡es horrible!
+		LoveBiome: "{BiomeName} me hace sentir como en casa."
+		LikeBiome: ¿Sabes qué? {BiomeName} no está tan mal.
+		DislikeBiome: Puaj, {BiomeName}, apesta ahí fuera.
+		HateBiome: ¿{BiomeName}? Debería evacuar de inmediato.
+		LoveNPC: ¡Adoro a {NPCName}! ¡Yo también odio la Navidad!
+		LikeNPC: "{NPCName} es un buen tipo. ¡Tiene dinero!"
+		DislikeNPC: Este mundo se vería mucho mejor sin pasto, ¡y {NPCName} tiene que estar de acuerdo conmigo!
+		HateNPC: "{NPCName} no tiene ni idea de lo que habla. ¡Nadie entiende Terraria mejor que yo!"
+		LikeNPC_Princess: Pfff... ¿{NPCName} de verdad se cree mejor que todos?
+		Princess_LovesNPC: "{NPCName}... Por favor, ahora no."
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+	RecipeBrowser.ExchangeTip: Intercambia con Genoshi
+}
+
+CollectorTeleport.DisplayName: Genoshi
+
+Commando: {
+	DisplayName: Comando
+
+	Names: {
+		0: Ooo
+		1: Grey
+		2: Ford
+		3: Zaphod
+		4: Douglas
+		5: Marvin
+		6: Slartibartfast
+	}
+
+	TownNPCMood: {
+		Content: Después de todo este tiempo, puedo decir con confianza... ¡Me siento bien!
+		NoHome: Sé que ahora mismo no estoy en la mejor posición... Pero puedo tener esperanzas de un refugio, ¿no?
+		FarFromHome: Oh, ¡rayos! ¡Espero no estar perdido otra vez!
+		LoveSpace: ¡Aquí hay tantísimo espacio! Sospechosamente espacioso...
+		DislikeCrowded: ¿Siempre ha habido tanta gente aquí, o solo me lo parece a mí?
+		HateCrowded: Me temo que ni siquiera un traje espacial me protegerá de lo rápido que se está consumiendo el aire aquí...
+		LoveBiome: Me encanta {BiomeName}. ¡Los copos de nieve me recuerdan a las estrellas!
+		LikeBiome: Me gusta {BiomeName}. ¡Es igual que Marte!
+		DislikeBiome: "{BiomeName}... Es demasiado raro aquí, incluso para mí."
+		HateBiome: "{BiomeName} me asusta, creo que volví a ver ese dron espía..."
+		LoveNPC: "{NPCName} me entiende como nadie más... ¡Es tan traidor como yo!"
+		LikeNPC: "{NPCName} siempre encuentra puntos en común con gente que no parece gente..."
+		DislikeNPC: Me cuesta elegir a alguien que no me guste, pero si a nadie le gusta {NPCName}, a mí tampoco.
+		HateNPC: ¡Por favor, explíquenle a Santa que no voy a robarme la Navidad! ¡Eso no era parte de mi misión!
+		LikeNPC_Princess: "{NPCName} cree que todos merecen ser felices. ¡Incluso los alienígenas como yo!"
+		Princess_LovesNPC: ¡{NPCName} es el amigo que nos ha faltado todo este tiempo!
+	}
+
+	Start: Oh, lo siento mucho.. Hay tanta gente sana en tu mundo, todas estas reuniones, fiestas, juegos, y siempre están tan alegres, tan.. ingenuos.. En mi planeta natal, solo se podría soñar con una vida tan pacífica. ¡Solo quería ser parte de tu gran familia!
+	BloodMoon: Da un poco de miedo ahí fuera. Pensé que comer cerebros había pasado de moda entre los humanos hace un par de siglos.
+	Party: Estoy cansado de que todos me ofrezcan un trago. ¡Como si pudiera quitarme el casco espacial para probarlo sin morir envenenado por oxígeno!
+
+	Talk: {
+		0: ¡Aloha! ¿No es así como se saludan ustedes, los humanos?
+		1: Oh, ¡aquí estás! ¿Necesitas algo?
+		2: Si un robot repara a otro robot, ¿lo llamarías mecánico o médico?.. Oh, ¡hola! Perdona, estaba pensando...
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+Magician: {
+	DisplayName: Mago
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+MenaceNPC: {
+	DisplayName: Amenaza
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+MirageNPC: {
+	DisplayName: Comunicador Extraño
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+MirageNPC2: {
+	DisplayName: Espejismo
+
+	TownNPCMood: {
+		Content: Estoy contenta.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+Shutterbug: {
+	DisplayName: Fotomaniática
+
+	TownNPCMood: {
+		Content: Eh. Podría ser peor.
+		NoHome: Estaría genial tener mi propio espacio para vivir.
+		LoveSpace: Aprecio la tranquilidad.
+		FarFromHome: A mí esto no me parece una casa.
+		DislikeCrowded: ¿Puedes llevarte a todos estos vagos bien lejos de aquí?
+		HateCrowded: Hay demasiada gente aquí. ¡¿Cuántos mods de contenido tienes instalados?!
+		LoveBiome: Amo {BiomeName}. Si vivo aquí, llamaré tu atención más seguido, lo que significa que no olvidarás tomar más fotos y conseguir recompensas.
+		LikeBiome: Claro, {BiomeName} es uno de los biomas.
+		DislikeBiome: ¿Sabes? Estoy bastante segura de que hay una razón inteligente y lógica por la que no me gusta {BiomeName}. Solo que aún no la he descubierto.
+		HateBiome: Oh, {BiomeName}... ¿Por dónde empiezo?
+		LikeNPC: "{NPCName} es genial. Seguro compartimos las mismas ideas políticas."
+		DislikeNPC: De todos los visitantes de otros mundos, {NPCName} es el que menos sentido tiene.
+		HateNPC: Y... no soporto a la gente alta. En serio, si {NPCName} vuelve a llamarme muñequita, ¡la exterminaré!
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+TwilightWalker: {
+	DisplayName: Caminante del Ocaso
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+Vulcan: {
+	DisplayName: Vulcano
+	Start: Así que tú eres quien derrotó a esa traviesa vela, ya veo. ¡Qué encantador! Soy Vulcano, el herrero, así que si necesitas reforjar tu armadura, ¡habla conmigo!
+	Cup: Oh, caramba... ¿Cómo...? ¡Dondequiera que hayas encontrado esto, devuélvelo! ¡No trae más que problemas!
+	PoorUnfortunateSoul: ¡Oye! ¡Claro que recuerdo esas cosas! Normalmente se canalizan con algún objeto y sirven como, bueno... un disco duro viviente. Dividen tu cerebro en fracciones y te permiten almacenar solo lo más importante en tu memoria, descartando lo inútil. Los aristócratas las llevaban a las reuniones para retener información aburrida mientras dormían. Pero, no te preocupes, ¡son inofensivas! ...todo depende del dueño.
+	Nickname: ¿El mismo nombre, eh? Más fácil de recordar.
+
+	Buttons: {
+		Reforge: Reforjar
+		Lore: Historia
+	}
+
+	Chat: {
+		1: ¡Hola! Espero que nadie te haya seguido. ¿Necesitas reforjar algo?
+		2: Oh, no pongas esa cara triste. Simplemente ignora todos tus problemas, están lejos, y tú estás aquí. Mírame, estoy completamente tranquilo. Nunca nos van a encontrar. ¿Verdad?
+		3: No te preocupes, está bien ser odiado. Solo los que son peores piensan mal de nosotros. Los que son mejores que nosotros... ¡simplemente no les importa!
+		4: No-no-no, prefiero quedarme aquí. No estoy de humor para convertirme en una enorme calavera monstruosa hoy.
+		5: Ya no soy tan buen herrero como antes. Todo por culpa de esa maldita vela... Espero que aprenda la lección.
+		6: ¡Si necesitas reforjar tu armadura, habla conmigo!
+		7: ¿Has notado que algunos personajes son bastante más pequeños o más grandes que otros? No, en su mayoría esto no se debe a la falta de estilo y buen gusto. Es solo que la gente de arena nace enorme e informe, y sus cuerpos se comprimen con la edad, llenándose de experiencia y trauma. Así que sí, quienes quieran perder peso tal vez prefieran ver algún melodrama cursi en lugar de una dieta saludable e ir al gimnasio. ¡Increíble!
+	}
+
+	LoreStart: Oh, ¡hola de nuevo! Así que... ¿parece que le pusiste fin a sus travesuras, y el recipiente no va a causar más problemas? En ese caso, por fin puedo contarte mi historia. Es triste, así que prepara tus pañuelos.
+
+	Lore: {
+		0: ¿Sabes? No siempre fui tan desesperado. Tenía una vida alegre y despreocupada, pero un día todo se fue al traste. Tuve que esconderme de la gente del Nexo en unas aburridas cuevas en las profundidades. Sin importar cuántas armas forjara y cuántas cosas construyera, ¡no había nadie cerca para valorar mi trabajo! Y entonces se me ocurrió una idea terrible.
+		1: Recogí cera y cenizas e hice una escultura, la vinculé a este lugar para que no pudiera escapar ni ser encontrada por nadie de fuera, y le di vida usando mi copa con la llama viviente. Parecía un gran plan, el amigo perfecto que jamás te traicionaría y apoyaría cualquiera de tus empresas...
+		2: Por supuesto, si has leído suficientes libros y visto suficientes películas, sabes qué anda mal en una historia como esta. Resultó ser demasiado entrometida, tosca, ruda e irritante, ¡y se metía en todas partes! Y como la vinculé al inframundo, ¡me quedaría atrapado con ella para siempre!
+		3: No podía quitarle la vida sin su consentimiento, pero necesitaba mantenerla alejada... Entonces se me ocurrió otra idea brillante, recolecté huesos y piedras e hice otra escultura viviente. Me pareció que la única forma de deshacerme de esa vela era desviar su atención, así que lo hice fuerte, ardiente, e inventé una historia épica y disparatada para captar su interés.
+		4: Cuando creí que por fin estaba solo, él vino a mí, exhausto y deprimido: al parecer, ni siquiera con toda su paciencia pudo soportar sus travesuras. Estaba a punto de hacer otra estatua para curar su depresión, pero entonces me di cuenta de que ya había gastado toda la llama en esos dos.
+		5: Más tarde esa noche, irrumpió en mi piso, se arrancó la llama del pecho de la manera más dramática posible, la devolvió a la copa y la ató con cadenas formando un nudo, dejando solo un montón de piedras atrás. Nunca había visto a mi vela tan furiosa, no podía creer que su amado simplemente hubiera desaparecido, y me culpó a mí por su encarcelamiento.
+		6: Arruinó mis ruinas, se llevó la copa junto con una enorme jaula y un juego de llaves, y se adentró en las profundidades... No sé qué estaba tratando de hacer, tal vez fingir su escape para congraciarse con algún desconocido... Bueno, si quieres escuchar esta historia otra vez, solo pregunta, de todos modos no tengo mucho que hacer.
+	}
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+SheepNPC.DisplayName: Oveja
+Breathtaker.DisplayName: Quitaaliento
+Idler.DisplayName: Ocioso
+Latopus.DisplayName: Latopus
+OverloaderBody.DisplayName: Sobrecargador
+OverloaderHead.DisplayName: Sobrecargador
+OverloaderTail.DisplayName: Sobrecargador
+Savage.DisplayName: Salvaje
+TectonicMimic.DisplayName: Mímico Tectónico
+Toiler.DisplayName: Obrero
+Unfairy.DisplayName: Anti-Hada
+BoneSerpentBody.DisplayName: Serpiente de Huesos Hembra
+BoneSerpentHead.DisplayName: Serpiente de Huesos Hembra
+BoneSerpentTail.DisplayName: Serpiente de Huesos Hembra
+
+CommandoBoss: {
+	DisplayName: Comando
+	Revealed: Oh.. ¡rayos! ¡Mi disfraz! ¡Mi hermoso disfraz!
+}
+
+Insurgent: {
+	DisplayName: Insurgente
+	Summon: ¡El Insurgente ha despertado!
+}
+
+InsurgentDefeated.DisplayName: Insurgente
+
+Menace: {
+	DisplayName: Amenaza
+	DeathMessage: ¡Ja! ¡Nunca le pasa nada malo a Amenaza!
+
+	Escape: {
+		1: <Amenaza> ¡La próxima vez, debilucho!
+		2: <Amenaza> ¡Ni se te ocurra rendirte!
+	}
+}
+
+MenaceDefeated.DisplayName: Amenaza
+MirageDefeated.DisplayName: Espejismo
+OneShotFall.DisplayName: Disparo Único
+OneShotIcePrison.DisplayName: Prisión de Hielo
+OneShotSpawn.DisplayName: Disparo Único
+
+OneShot: {
+	DisplayName: Disparo Único
+	Summon: ¡Disparo Único ha despertado!
+	Defeat: ¡Disparo Único ha sido derrotado!
+}
+
+ParaffinDefeated.DisplayName: Parafina
+
+ParaffinStalker: {
+	DisplayName: Parafina
+
+	TownNPCMood: {
+		Content: Estoy contenta.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+SethDefeated.DisplayName: Seth
+SpiritOfCaptivity.DisplayName: Espectro Encadenado
+TheSpiritAnchor.DisplayName: Orbe de Inspiración
+TheSpiritDefeated.DisplayName: Espíritu
+UltimateSethDefeated.DisplayName: Seth
+CaveImp.DisplayName: Diablillo de Cueva
+Hobgoblin.DisplayName: Trasgo
+Sentinel.DisplayName: Centinela
+Decaying.DisplayName: Descompuesto
+Stalker.DisplayName: Acechador
+Fortress.DisplayName: Fortaleza
+Magneto.DisplayName: Magneto
+Echo.DisplayName: Susurrador
+Fairyfly.DisplayName: Hada Luciérnaga
+ShinyPixie.DisplayName: Hada Brillante
+SkeletonJester.DisplayName: Esqueleto Bufón
+GreatToxicSludge.DisplayName: Gran Fango Tóxico
+MudBrain.DisplayName: Corazón Resplandeciente
+Sarracenia.DisplayName: Sarracenia
+GoldenDrone.DisplayName: Dron Dorado
+PurpleDrone.DisplayName: Dron Púrpura
+Colossus.DisplayName: Coloso
+ColossusDeath.DisplayName: Coloso
+Darknut.DisplayName: Darknut
+Garghoul.DisplayName: Gárgola
+Jumpkin.DisplayName: Saltacalabazas
+Knocker.DisplayName: Llamador
+MindFlayer.DisplayName: Devoramentes
+Threater.DisplayName: Amenazador
+Troll.DisplayName: Trollo
+TrollDeath.DisplayName: Trollo
+Crabcannon.DisplayName: Cangrejo Mortero
+GlassButterfly.DisplayName: Mariposa de Cristal
+FacelessPirate.DisplayName: Pirata sin Rostro
+HauntedAnchor.DisplayName: Ancla Encantada
+HeadlessPirate.DisplayName: Pirata sin Cabeza
+HeadlessPirateExplode.DisplayName: Pirata sin Cabeza
+Muskeleton.DisplayName: Mosqueleto
+Thriller.DisplayName: Thriller
+Witness.DisplayName: Testigo
+Combuster.DisplayName: Combustor
+PossessedShadowArmor.DisplayName: Armadura de Sombras Poseída
+PossessedFrostArmor.DisplayName: Armadura de Escarcha Poseída
+
+TectonicCage: {
+	DisplayName: Jaula Tectónica
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LoveBiome: Me encanta {BiomeName}.
+		LikeBiome: Me gusta {BiomeName}.
+		DislikeBiome: No me gusta {BiomeName}.
+		HateBiome: Odio {BiomeName}.
+		LoveNPC: Me encanta {NPCName}.
+		LikeNPC: Me gusta {NPCName}.
+		DislikeNPC: No me gusta {NPCName}.
+		HateNPC: Odio a {NPCName}.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+ParaffinRejected.DisplayName: Parafina Rechazada
+ParaffinReleased.DisplayName: Parafina Liberada
+TheSpiritSpawn.DisplayName: Aparición del Espíritu
+FortressBall.DisplayName: Bola de la Fortaleza
+LatopusGold.DisplayName: Latopus Dorado
+
+TheSpirit: {
+	DisplayName: El Espíritu
+
+	Dialogues: {
+		Call: Conectando... Por favor, no cuelgue...
+		Summon_1: ¡Espíritu se ha unido!
+		Summon_2: ¡Espíritu ha llegado!
+		Downed: ¡Espíritu ha sido derrotada!
+		Treat_1: ¡Alto ahí, escoria criminal, y prepárate para la justicia!
+		Treat_2: Oh, caracoles, ¡mi transmisor está muerto! ¿Acaso sabes lo caro que es esto hoy en día?
+		Treat_3: ¡Reportaré eso! ¡Reportaré todo!
+		Escape: <Espíritu> ¡Buenas noches a todos!
+	}
+
+	Confusion: Espíritu está... ¿perpleja?
+
+	DefeatDialogues: {
+		Start: Pensé que sería más fácil... Oye, ¡tú no pareces un pirata espacial! ¡Claro que no lo eres! ¿Acaso... Oh! ¿Me confundí de todo?... Pero mi transmisor recibió una señal desde aquí... ¡Ahora está absoluta e irremediablemente destruido! ¿Cómo vuelvo ahora...
+		StartConfirm: Lo siento...
+
+		Talk: {
+			0: La forma de vida basada en carbono está intentando relacionarse conmigo. ¿Qué debería hacer?
+			1: Estoy en medio de algo...
+			2: No me hagas caso, solo estoy esperando que algún pensamiento me cruce la mente.
+			3: ¿Oyes esta música? Suena algo siniestra, como si algo serio fuera a pasar.
+			4: ¡Tantas respuestas y tan pocas preguntas!
+		}
+	}
+}
+
+MirageOscarNPC: {
+	DisplayName: Espejismo y Oscar
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}
+
+SpiritNPC.DisplayName: Espíritu Ocupada
+MenacingPerson.DisplayName: Persona Amenazante
+
+Paraffin: {
+	DisplayName: Parafina
+
+	Rejected: {
+		1: ¿Cómo pudo ser?... ¿No fui suficiente para ti?
+		2: Nadie... ¡Nadie se atreve a rechazar a Parafina!
+	}
+
+	Defeat: {
+		1: ¡Parafina ha sido derrotada!
+		2: ¡Parafina sale volando otra vez!
+		3: El Dominio del Inframundo se ha calmado...
+	}
+
+	Summon: {
+		1: ¡Parafina ha despertado!
+		2: ¡Parafina contraataca!
+	}
+
+	Unleashed: Un mal ancestral ha sido desatado...
+}
+
+Seth: {
+	DisplayName: Seth
+
+	HeatSnapDeath: {
+		1: Seth se derritió por completo...
+		2: Seth muerde el polvo...
+		3: Seth no era digno...
+	}
+
+	Summon: {
+		1: ¡Seth ha llegado!
+		2: ¡El Desencadenado ha despertado!
+	}
+
+	Defeat: {
+		1: ¡Seth ha sido derrotado!
+		2: ¡El Desencadenado ha sido derrotado!
+	}
+
+	Approaching: La tormenta solar se aproxima...
+
+	Taunt: {
+		1: <Seth> Alimaña.
+		2: <Seth> Sométete, alimaña.
+		3: <Seth> No eres nada.
+		4: <Seth> Escoria.
+		5: <Seth> Quiébrate ante mí.
+		6: <Seth> Tu cuerpo se hará añicos.
+		7: <Seth> Ahora es momento de temer.
+		8: <Seth> Débil.
+		9: <Seth> Grita, alimaña.
+		10: <Seth> Error.
+	}
+
+	Fail: {
+		1: El Sol del Templo no ha salido. No lo apresures.
+		2: El Sol del Templo no ha salido. Aniquila a su guardián.
+		3: El Sol del Templo no ha salido. El Golem debe ser derrotado.
+		4: El Sol del Templo no ha salido. Todavía no estás listo.
+	}
+}
+
+NewMenace.DisplayName: Nueva Amenaza
+
+Mirage: {
+	DisplayName: Espejismo
+
+	Summon: {
+		1: ¡Espejismo ha despertado!
+		2: Desafío aceptado...
+	}
+
+	Defeated: ¡Espejismo ha sido derrotada!
+	Retreat: Espejismo tiene mejores asuntos que atender durante el día...
+}
+
+VulcanNPC.DisplayName: Vulcano
+
+Angler: {
+	QuestFish: {
+		AuroraBorealis: ¿Aurora boreal? ¿En esta época del año? ¿A esta hora del día? ¿Localizada enteramente en mi pecera? Oh sí, ¡asegúrate de que eso pase! Será la luz nocturna más hermosa que el mundo haya visto jamás.
+		Blockfish: No sé de dónde vino este barco, pero la energía que emana hace que todo ser vivo en la zona se convierta en hielo. Me es simplemente imposible pescar en esas condiciones, qué bueno que estés cerca. Si atrapas algo, tráemelo, y te recompensaré.
+	}
+
+	FishLocation.StrandedShip: Atrapado en el Barco Varado
+}
+
+TheSpiritFrend.DisplayName: El Espíritu

@@ -1,0 +1,201 @@
+Common: {
+	PercentIncreasedManaOverflow: "{0}% de sobrecarga de maná aumentada"
+	PercentIncreasedSentryDamage: "{0}% de daño de centinela aumentado"
+	PercrentIncreasedHeavyMeleeCrit: "{0}% de probabilidad de golpe crítico cuerpo a cuerpo pesado aumentada"
+	PercrentIncreasedHeavyMeleeSpeed: "{0}% de velocidad de ataque cuerpo a cuerpo pesado aumentada"
+	PercentIncreasedHeavyMeleeDefense: "{0}% de defensa cuerpo a cuerpo pesado aumentada"
+}
+
+Sheep: {
+	Name: Oveja ({0})
+	0: Lechosa
+	1: Cremosa
+	2: Vainilla
+	3: Lima
+	4: Cielo
+	5: Violeta
+	6: Rosa
+	7: Chocolate
+	8: Ahumada
+	9: Sombra
+	10: Lava
+	11: Fósforo
+	12: Disco
+}
+
+Tooltip: {
+	ArmorPrefix: {
+		Rooted: Aumenta la defensa mientras estás quieto
+		Shielded: Otorga inmunidad al retroceso
+		Marine: Otorga la habilidad de nadar
+		Barbed: Los atacantes también reciben daño
+		Lit: Ilumina el área alrededor
+		Shamanic: Aumenta el alcance del látigo en 22%
+		Elusive: Aumenta la duración de la invencibilidad después de recibir daño
+		Strong: Aumenta la vida máxima en 20
+		Enchanted: Aumenta el maná máximo en 40
+	}
+
+	ReforgeWarning: Quizás alguien más pueda reforjar esto...
+}
+
+LazuriteBuff: {
+	Title: Absorción Oceánica
+	Description: Si alguna entidad en el área de ataque tiene ciertos efectos negativos, este ítem se potenciará y propagará el efecto negativo absorbido a los enemigos cercanos.
+}
+
+InsurgentBuff: {
+	Title: Vínculo Etéreo
+	Description: Este ítem te permite consumir una fracción de tu vida a cambio de poder. La vida consumida se almacena como Vínculo Etéreo y se restaura cuando cumples cierta condición; sin embargo, se pierde si cambias de ítem.
+}
+
+BasaltBuff: {
+	Title: Resonancia Tectónica
+	Description: Este ítem se potenciará y obtendrá nuevas habilidades mientras estés en el Dominio del Inframundo o bajo ciertas circunstancias...
+}
+
+RecipeGroup: {
+	SilverBar: Barra de Plata o Tungsteno
+	GoldBar: Barra de Oro o Platino
+	CobaltBar: Barra de Cobalto o Paladio
+	MythrilBar: Barra de Mithril u Orichalcum
+	AdamantiteBar: Barra de Adamantita o Titanio
+	CooperBroadsword: Espadón de Cobre o Estaño
+	IronBroadsword: Espadón de Hierro o Plomo
+	SilverBroadsword: Espadón de Plata o Tungsteno
+	GoldBroadsword: Espadón de Oro o Platino
+	BewitchedHats: Cualquier sombrero engemado
+	BewitchedRobes: Cualquier túnica engemada
+	GemHooks: Cualquier gancho engemado
+	AnyIce: Cualquier hielo
+	AnyPhasesaber: Cualquier espada de fase
+}
+
+Supporters: {
+	Thanks: ¡Gracias por el apoyo, {0}!
+	CustomColors: Este ítem usa tus colores personalizados.
+}
+
+Dialogue: {
+	Menace: {
+		Defeat:
+			'''
+			! name Amenaza
+			! portrait 0 1
+			! delay 2.2
+			! pause_at 2 0.5
+			- ¡Ja! ¡Nunca le pasa nada malo a la Amenaza!
+			! portrait 1 1
+			! shake 20 1.0
+			! name Amenaza (Derrotada)
+			! delay 0.2
+			...
+			! portrait 2 1
+			! delay 1
+			...
+			'''
+		Escape:
+			'''
+			! name Amenaza
+			! portrait 3 1
+			! delay 2
+			- ¡La próxima vez, debilucho!
+			'''
+	}
+
+	MysteriousStranger:
+		'''
+		! name Forastero Misterioso
+		! portrait 4 0
+		! delay 2.5
+		! pause_at 9 0.5
+		- Adelante, diles lo que viste.
+		- Nadie te creerá.
+		'''
+}
+
+Biomes: {
+	StrandedShipBiome: {
+		DisplayName: Barco Varado
+		TownNPCDialogueName: el Barco Varado
+	}
+
+	UnderworldDomainBiome: {
+		DisplayName: Dominio del Inframundo
+		TownNPCDialogueName: el Dominio del Inframundo
+	}
+}
+
+DamageClasses.HeavyMeleeDamageClass.DisplayName: daño cuerpo a cuerpo pesado
+
+Photography: {
+	ShutterbugShop: Tienda de Recuerdos de la Fotomaniática
+	ThemeTooltip:
+		'''
+		Tema: [c/{0}:{1}]
+		Haz doble clic derecho para abrir la carpeta de Temas.
+		Haz clic derecho para recargar los temas de usuario.
+		'''
+	PageIndicator: Página
+	PageNumber: "{0} / {1}"
+	SpecialReward: ¡Completa 6 entradas para recibir una recompensa especial!
+
+	Card: {
+		RewardAvailable: ¡Recompensa disponible!
+		PosterAvailable: ¡Copia imprimible disponible!
+		PrimeRewardAvailable: ¡La página de fotografía está completa!
+		CrossModAvailable: ¡Una página de fotografía especial está completa!
+		New: ¡Nuevo!
+	}
+
+	Visit: Visita a {0} para reclamar tus recompensas.
+	CameraDetection: ¡Presencia fotogénica detectada!
+
+	Themes: {
+		Default: Predeterminado
+		Magma: Magma
+		Stranded: Varado
+		Crimson: Carmesí
+	}
+
+	Rarity: {
+		Common: Común
+		Uncommon: Poco Común
+		Rare: Raro
+		VeryRare: Muy Raro
+	}
+}
+
+BlacksmithUI: Coloca una armadura para reforjar
+MeltedHeartPopup: PV Máx.
+
+Configs: {
+	SplitClientSideConfig: {
+		DisplayName: Configuración del Lado del Cliente de Split
+
+		IsDebugMenuEnabled: {
+			Label: ¿Está el Menú de Depuración Habilitado?
+			Tooltip: ""
+		}
+
+		ScreenshakeIntensity: {
+			Label: Intensidad del Temblor de Pantalla
+			Tooltip: ""
+		}
+
+		FlashEffectsIntensity: {
+			Label: Intensidad de Efectos de Destello
+			Tooltip: ""
+		}
+
+		ContrastEffectIntensity: {
+			Label: Intensidad del Efecto de Contraste
+			Tooltip: ""
+		}
+
+		BossCameraFocus: {
+			Label: Enfoque de Cámara en Jefes
+			Tooltip: ""
+		}
+	}
+}

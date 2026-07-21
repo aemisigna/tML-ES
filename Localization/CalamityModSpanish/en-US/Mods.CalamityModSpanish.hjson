@@ -226,6 +226,16 @@ Configs: {
 				'''
 		}
 
+		InfernalEclipseWeaponsDLCLocalization: {
+			Label: Infernal Arsenal Mod
+			Tooltip: Activa/Desactiva la traducción de Infernal Arsenal Mod.
+		}
+
+		SplitLocalization: {
+			Label: Split Mod
+			Tooltip: Activa/Desactiva la traducción de Split Mod.
+		}
+
 		ShowStartUpCollabMessage: {
 			Label: Mostrar anuncio de colaboradores al iniciar
 			Tooltip: Muestra un mensaje de anuncio indicando que el mod está abierto a recibir contribuciones de la comunidad al entrar a un mundo.

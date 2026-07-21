@@ -1,0 +1,462 @@
+Generic.Interested: ¡{0} tiene algo que decirte!
+
+Collector: {
+	Name: Genoshi
+	Tooltip: A Genoshi podría interesarle eso...
+	Tooltip2: A Genoshi eso podría perturbarle...
+	Tooltip3: A alguien podría interesarle eso...
+	Left: Genoshi se ha marchado...
+
+	Exchange: {
+		1: Veo que tienes una Espada Encantada. Fuerte, rápida y dispara rayos, un clásico, pero necesitas algo más confiable para tus futuras batallas. Te la puedo cambiar por el Reloj Lunar, es fuerte, rápido y... dispara rayos. Bueno, ¿qué más esperabas de él, que disparara gatos arcoíris?
+		2: ¿Sabes? Espíritu tiene una obsesión malsana con las calaveras. No lo entiendo, simplemente las carga a todas partes. No es su única rareza, pero... Bueno, no quiero aburrirte con los detalles, al menos por ahora, ¡pero puedo cambiarte esta calavera por un accesorio que da un gran bono para invocadores!
+		3: Así que encontraste una Pluma de Hielo. Que yo sepa, esas se usan para fabricar las Alas de Escarcha. Mira, te la puedo cambiar por algo especial. ¡Un par de alas que pertenecieron a una antigua hada de hielo, la más fuerte de su especie! ¿Qué te parece?
+		4: Una Llave de Sombra, eh. No es que quede algo importante que abrir con eso. No te preocupes, tengo algo que sin duda te será útil. Un Anillo de Piedra Lagrimal Roja aumentará muchísimo tu daño cuando tu vida esté baja. ¿Qué te parece?
+		5: ¡Conozco ese símbolo! Parece una moneda anticuada del Nexo, pero, ¿cómo terminó aquí? Si tan solo... ¡Oh! ¡No puede ser! ¿De verdad encontraste al tipo al que pertenecía esa moneda? Pasamos tanto tiempo buscando a ese sinvergüenza, y después de todos sus crímenes decidió escapar justo a esta dimensión. ¡Parece que arruinó las coordenadas de aterrizaje y terminó enterrado bajo toneladas de hielo! Vaya... pobre tipo. ¡Supongo que lo pasó de maravilla congelándose! Porque murió congelado. En fin, ¡dame esa cosa y toma tu recompensa!
+		6: ¿Cansado de tu vieja y torpe arpón, eh? No te preocupes, creo que tengo algo interesante para ti. Esta espada ropera no es tan fuerte, pero definitivamente tiene mucho potencial.
+		7: ¿Buscas algo nuevo? ¡Creo que tengo una lanza para ti! De hecho, es la última que me queda. Todas las demás las compró una aburrida actriz el año pasado. A la gente le encantaba su manera de hacer efectos especiales, pero el mal uso del polvo mágico causó muchos problemas de rendimiento, así que cerraron su teatro. Esa es una parte muy importante de la historia, ya lo entenderás más adelante.
+		8: Honestamente, no tengo ninguna explicación coherente con la historia para esto. Debe ser algún extraño proyecto artístico o una exhibición de museo bizarra. Pero el mero hecho de que exista me aterra muchísimo.
+		9: ¡Vaya, qué desatascador tan maravilloso y exótico tienes! Los demás coleccionistas se pondrían tan celosos si lo consigo... Bueno... a ti te gustan las raquetas, ¿verdad? ¡Alégrate, porque tengo algo hermoso para intercambiar! ¡A zumbar se ha dicho!
+		10: Me dijeron que no fue nada fácil arrebatarle este sombrero a la Bruja Rana de la Ciudad de la Muerte. No tengo idea de qué va todo esto, supongo que me quedé dormido y me perdí ese show. ¡Espero que le encuentres uso!
+		11: Oh, ¿así que encontraste este blaster de juguete? Rápido, dámelo, ¡tengo tecnología interestelar para cambiártelo! Y sobre el arma mágica que encontraste en el cadáver de ese pirata muerto viviente, ¿[c/DD99FF:Walter], era? En serio, solo tíralo a la basura, este es mucho mejor.
+		12: ¿Un ojo vigilante? Oye, eso podría servir para vigilar mis montones de dinero mientras estos campesinos del pueblo deambulan por ahí... Mmm, tal vez pueda darte este palo que Espíritu inventó. Invoca algo cuántico, no sé, la física no es lo mío. ¡Pero sé que funciona mejor cuando hay muchos objetivos!
+		13: ¿Qué eres, un lector de mentes? Justo estaba planeando ir a pescar, es tan entretenido y relajante, ¿sabes? Si resuelves mi pequeña crisis de inventario, ¡puedo darte este increíble artilugio! En mi mundo, se usaba para rastrear la eficiencia de los trabajadores. ¡Pero aquí, nadie está trabajando!
+		14: ¡Por fin, una obra maestra, un interruptor común y corriente! ¿Acaso no sabes lo agotador que es apagar antorchas y luego volver a encenderlas? En fin, yo solía ser un gran influencer en mis tiempos. Y ser grande significa hacer grandes negocios. A veces, la gente no cumple con sus obligaciones contractuales, y ahí es cuando se necesita un poco de acción disciplinaria.
+		15: ¿D-dónde encontraste eso? Me recuerda un poco a alguien... olvídalo. Ya que, por supuesto, yo estaba en una posición de poder, a veces tenía que encargarme de la alimentación. ¿Y recuerdas lo perezosos que son mis trabajadores? Ugh, estos campesinos. Por suerte, a Espíritu se le ocurrió una idea disparatada. ¿No es genial? Es una lástima que Gaboonga sea tan difícil de conseguir en el Nexo, así que agradéceme mi generosidad y toma esto. Pero dame el arma.
+	}
+
+	ExchangeStart: {
+		1: ¡Veamos qué tienes!
+		2: ¡Muéstrame la mercancía, amigo!
+		3: ¿Trajiste algo nuevo?
+	}
+
+	ExchangeAbort: {
+		1: ¿Cambiaste de opinión?
+		2: ¿Supongo que aún lo necesitas para otra cosa?
+		3: Sin prisa.
+		4: Puedo esperar. Pero no demasiado.
+	}
+
+	ExchangeIndicator: {
+		Empty: "[ Elige un objeto para intercambiar. ]"
+		Confirm: "[ ¿Confirmar o rechazar el intercambio? ]"
+	}
+
+	ExchangeButton: Intercambiar
+	LoreButton: Historia
+	ExchangeStatus: ¡Hay un intercambio disponible!
+	BuffAccept: Sí, claro...
+	Accept: Claro
+
+	Phrase: {
+		Hello: Vaya, vaya, vaya. ¿A quién tenemos aquí? ¿Y tú eres de quien [c/DD99FF:Espíritu] no ha dejado de hablar? ¡Vaya lío! Al parecer, la teletransportación no salió del todo bien, solo mira tu cara... bueno, ¡ya basta de hablar de ti! Estoy aquí para ayudarte en este peligroso viaje. ¿Has oído hablar de los elementos? Encuéntralos todos y veremos qué podemos hacer.
+		Party: Una fiesta es una fiesta, ¡pero no olvides tu misión!
+		Librarian: Oye, este nuevo bibliotecario se ve algo sospechoso... Creo que lo he visto antes en algún lado... Ugh, olvídalo.
+		Tavernkeeper: Tengo que decir que antes esto era mucho más tranquilo. Sin anomalías, sin viajeros de otras dimensiones. Solo mira a este tabernero, ¡ni siquiera recuerda cómo llegó aquí! Esto ya no es un mundo, es una vía pública...
+
+		Dryad: {
+			1: Oye, esta Dríada tuya parece ser todo un personaje... Pero, ¿no se supone que había cientos de ellas? ¿Dónde están las demás? Recuerdo perfectamente que había más.
+			2: Ugh, dile a tu Dríada que deje de rociarme con su polvo de purificación.
+		}
+
+		WantedPoster: Ah, esa cara otra vez... ¿Acaso no hablamos ya de él? Sí, era un científico, conocido por sus estúpidos inventos, como las zapatillas cohete, o lo que fuera eso, y todo iba bien, hasta que empezó a robar recursos de mi fondo y usó tecnologías prohibidas, ¡lo que provocó incontables muertes en el naufragio interdimensional! Y adivina quién tuvo que lidiar con toda esa locura. Bueno, solo... quítamelo de la vista. Tenemos mucho trabajo por delante.
+		TravelingMerchant: Realmente aprecio la estrategia de negocios de {0}. Viaja por el mundo en busca de baratijas exóticas, luego se las vende todas a sus copias de otras dimensiones, y ellas hacen lo mismo. ¡Riqueza infinita en mundos infinitos! Le tengo un poco de envidia.
+		Angler: Claro, no hay mucha gente lista por aquí, pero me cae bien {0}. Es un tipo rudo y claramente tiene más conocimiento que cualquiera en este mundo. No es de extrañar que tenga tantos fans.
+		PoorUnfortunateSoul: Pobre alma desafortunada. Vaya... No creo que la necesites, y no tengo espacio para eso en mi colección. Aunque... tal vez podamos encontrarle uso. He oído por ahí que hay una forma de liberar un alma realizando un ritual especial. Intenta arrojarla a la lava... no, ¡al agua! Luego arroja un regalo de despedida junto a ella, y remátalo con polvo de purificación. ¿Qué? ¡No sé qué va a pasar! ¡Solo ve y compruébalo!
+		Nickname: Amigo, llegas tarde, ese apodo ya está registrado.
+		Sus: He estado notando cosas realmente extrañas últimamente. Algunos de tus vecinos se comportan más sospechosos de lo normal, como si hubieran sido... reemplazados. Espeluznante, ¿no? Mantén los ojos abiertos, tal vez algunos de ellos no son quienes dicen ser...
+		Skeletron: ¿Tienes problemas para encontrar elementos? Échale un vistazo a ese anciano maldito que ronda la mazmorra. ¡Seguro que tiene uno!
+		OneShot: ¿Has visto algún gran barco velero en algún lugar inusual? Solo pregunto.
+		Cup: Oh, ¡qué balde tan maravilloso! Alerta de spoiler, hay un Elemento de Fuego adentro. Por supuesto, no voy a arruinarte el placer de encontrar la forma de abrirlo.
+		Buff: Ah, no lo vas a creer, pero hoy siento un extraordinario aumento de fuerza. Pensé que mi seguro nunca daría frutos. ¡Quizás tú también podrías hacer algo útil!
+	}
+
+	ExchangeTip: {
+		1: Coloca un objeto para intercambiar
+		2: Haz clic en el objeto para intercambiarlo
+	}
+
+	ExchangeReaction: {
+		1: ¡Perfecto!
+		2: ¡Genial!
+		3: ¡Ka-chow!
+		4: ¡Ka-ching!
+		5: Bien.
+		6: Por fin.
+		7: Buena elección.
+	}
+
+	GaboongaReaction: ¡Explosión Gaboonga!
+
+	Lore: {
+		1: Vaya, ¿yo? Soy tan viajero como tú, salvo que tengo mi propio palacio, montones de subordinados y muchísimo, MUCHÍSIMO dinero. No te preocupes, a ti también te llegará todo eso algún día.
+		2: Vaya, ¿el Nexo? De verdad debes haber vivido en una cueva si no has oído hablar de él. Bueno, en términos plebeyos, el Nexo es un lugar donde se reúnen héroes de todo el mundo: comerciantes, científicos, arquitectos... Todos aquellos que decidieron que su propio mundo no les bastaba. Bueno, también es una excusa conveniente para que todos estos personajes raros vengan a tu mundo.
+		3: Vaya, ¿[c/DD99FF:Espíritu]? Ella es solo mi pupila, estaba rastreando anomalías en tu red y ayudándome a encontrar a cierto villano. No sé qué la impulsó de repente a ir sola en una misión, pero no estoy preocupado por ella, después de todo encontró el mundo correcto. Incluso me pregunto cómo planea salir de este lío.
+		4: Vaya, ¿la I.D.E.A.? Significa Agencia de Emergencias Interdimensionales, no le prestes atención a la sigla, ni a mí me gusta. En resumen, la agencia se formó para evitar que los usuarios saturaran sus mundos con mods, ya que eso puede alterar la secuencia y arruinar por completo la experiencia de cada proyecto individual. Ya sabes, como [c/DD99FF:Espíritu] ocupa la silla de directora, a nadie le importa mucho. Ya captaste la idea.
+		5:
+			'''
+			Vaya, ¿la gente de arena? Me sorprende que te interese. En fin, la mayoría de los habitantes del Nexo pertenecen a formas de vida a base de minerales. Sé que suena ridículo, pero debido a nuestra estructura, podemos manejar la teletransportación mucho más fácilmente, lo cual es especialmente importante para los viajeros entre mundos distantes. Uno de ellos está justo frente a ti, y ya conociste a
+			[c/DD99FF:Espíritu], y... bueno, espero que nunca conozcas a los demás.
+			'''
+		6:
+			'''
+			Vaya, ¿los transmisores? Antes de que a un tipo listo se le ocurriera inventar la PDA, los viajeros usaban una especie de "espejos mágicos" para doblar el espacio y el tiempo. Pero nosotros llevamos ese concepto más lejos y ahora podemos viajar entre distintos mundos. Hace poco le di el transmisor más sofisticado a
+			[c/DD99FF:Espíritu], ¡y ya se las arregló para romperlo! Ugh... no te imaginas lo difícil que es conseguir un transmisor de su tamaño.
+			'''
+		7: Bueno, supongo que llegué al límite de mis asombrosas y fascinantes historias. Si no entiendes nada, mejor todavía, será más fácil trabajar contigo. Y si no tienes nada que hacer, puedo repetirlo todo de nuevo. Total, tienes muchísimo tiempo, ¿no?
+	}
+
+	Talk: {
+		1: Qué bueno verte con vida. ¿Necesitas algo?
+		2: ¡Si no es mi empleado favorito! Bueno, ¿cómo va tu progreso?
+		3: Oh, ¡moverás montañas bajo mi guía, tenlo por seguro!
+		4: Cada día te ves más desagradable. ¡Deberías dormir más seguido!
+		5: Quería decirte algo, pero olvidé qué.
+		6: Si encuentras algo interesante, tráemelo. Siempre tengo cosas para intercambiar.
+		7: Ah, este mundo sin duda tiene mucho potencial. Casi me entristece que vaya a morir tan pronto... Oh, ¿de qué estábamos hablando?
+		8: Los elementos son la base del progreso en nuestro mundo moderno. No solo sirven para hacer armas geniales... bueno, para eso los usamos nosotros, pero aun así, ¡cada elemento también es una fuente inagotable de energía! Sin embargo, no están tirados por ahí sin más, estoy bastante seguro de que los poderes de este mundo ya se han adueñado de cada uno. ¡Derrótalos y recupera nuestros elementos!
+		9: Tráeme algo de chatarra vieja, y te la cambio por chatarra nueva.
+		10: No soporto a la gente que presume sus logros, pero no puede ayudar cuando se le necesita. Me alegra haber encontrado a [c/DD99FF:Espíritu], es lista cuando hace falta y no hace demasiadas preguntas.
+		11: Sí, tal vez hablo demasiado de [c/DD99FF:Espíritu]. Después de todo, es mi mayor logro.
+		12: Dicen que hay una persona que te dirá cómo sobrevivir en esta tierra. Definitivamente no soy yo, no recuerdo un carajo.
+	}
+}
+
+Shutterbug: {
+	Name: {
+		1: Diona
+		2: Anna
+		3: Flash
+		4: Camila
+		5: Chloe
+		6: Claire
+		7: Olya
+	}
+
+	ClipButton: Foto
+	AlbumButton: Álbum
+	Accept: ¡De acuerdo!
+	RewardAvailable: ¡Recompensa de fotografía disponible!
+	MagicClipAvailable: La Foto Mágica diaria puede reclamarse.
+
+	Phrase: {
+		Start: ¡Oye! Te ves disponible. Vaya, ¿puedes sostener mi cámara mientras busco mi habitación? ¡Y de paso ve a tomar fotos de criaturas a las que TOTALMENTE no le tengo miedo! No te preocupes, yo pago por eso.
+		Talk1: ¿Te gustaría echarle un vistazo a mi hermoso álbum?
+		Talk2: Grr, ¡te dije que no me molestaras cuando me estoy tomando una selfie!
+		Talk3: Muchas veces no logro poner una historia en palabras. ¡Ahí es cuando entra la fotografía!
+		Talk4: ¡No te atrevas a romper esta cámara! ¡Nadie podría arreglarla aquí!
+		LowHealth: ¿Quieres ser mi musa, eh? Perdona, no me va lo post mortem
+		Night: No me importa que esté oscuro afuera y no puedas tomar una buena foto, ¡eso no es excusa!
+		BloodMoon: ¡Vamos, estás desperdiciando tu oportunidad! ¿No ves cuántos monstruos fotogénicos andan por ahí sin ser fotografiados?
+		TakeClip: ¡Toma, aquí tienes! Ve a expresarte en algún lado.
+		TakeClipParty: Tienes suerte, hoy me siento generosa.
+		NoClip: ¡Como si algún día fueras a tener la suerte de tomar más de una buena foto al día!
+		NoClipParty: ¡No me toques mientras estoy de fiesta!
+	}
+}
+
+Magician: {
+	Name: {
+		1: Arkady
+		2: Drew
+		3: Vadim
+		4: Gaston
+		5: Derpling
+		6: Kabrok
+		7: Houdini
+	}
+
+	Spawn: ¡El Mago Viajero ha llegado!
+	Despawn: ¡El Mago Viajero se ha marchado!
+	Accept: ¡Claro!
+
+	Phrase: {
+		Start: La noche sigue al día, ¡y por fin todos mis competidores se han ido! ¿Quién soy yo? Solo un viejo hambriento de dinero. Si tienes una moneda de sobra, ¡con gusto te mostraré algunos trucos!
+		Talk1: ¡Pasé muchos años viajando y aprendí un montón de trucos! ¡No te decepcionarás!
+		Talk2: ¿La amistad es magia? ¡No me hagas reír! Todo el mundo sabe que la amistad es brujería.
+	}
+}
+
+TwilightWalker: {
+	Name: {
+		1: Charon
+		2: Minos
+		3: Pluto
+		4: Caton
+		5: Erebus
+		6: Aken
+		7: Maro
+		8: Mun
+	}
+
+	Accept: ¿Claro...?
+
+	Phrase: {
+		Start: Así que, eres el recién llegado... Debe ser muy desagradable ver tu nuevo mundo en este estado. No te preocupes, tu predecesor dejó algún medio de comunicación, por si acaso, así que si necesitas ayuda, o simplemente te aburres, siéntete libre de usarlo. Vamos, como si nunca hubieras aceptado dispositivos sospechosos de extraños misteriosos antes.
+		Talk1: ¿Qué se cuece, guapo?
+		Talk2: ¡Qué bueno verte de nuevo, compañero desconocido!
+		Talk3: Sigo preguntándome, ¿de dónde sacan los monstruos tanto dinero?
+		Talk4: ¡Vende tu alma solo a un diablo verificado!
+		TalkSurface1: ¡Oh! ¡Qué frío hace aquí afuera!
+		TalkSurface2: Oh... no me siento muy bien... Tal vez solo soy alérgico a las estrellas.
+		Party: ¡Llamen a los bomberos, porque esta fiesta está que arde!
+		Hardmode: Si tuviste esa extraña sensación de que algo grande y siniestro está ocurriendo en el mundo... eso es paranoia normal. A todos en el universo les pasa.
+		NewMoon: Perdona si mi consejo no te sirve. Estoy demasiado ocupado siendo misterioso y sospechoso.
+	}
+}
+
+AstrologistBad: {
+	Spawn: ¡Aquí viene un nuevo retador!
+	Spawn2: ¡Amenaza está tomando el control otra vez!
+	Challenge: Desafío
+
+	Phrase: {
+		Start: Según mis viejos y aburridos libros de historia, todo lo que necesito para convertirme en el gobernante independiente de este mundo entero es encontrar y derrotar al Terrariano. Entonces, ¿me ayudarías a encontrar a este débil bicho?
+		Talk1: Vamos, si nadie va a pelear conmigo antes de que termine esta noche, acabará de forma muy anticlimática.
+		Talk2: ¡Qué desastre! ¡Al menos deberías haber limpiado y preparado todo para mi llegada! Y, ¿por qué mis súbditos se ven tan cansados? ¿Acaso nunca descansan?
+		Talk3: Este mundo necesita una reforma arquitectónica.
+	}
+}
+
+Astrologist: {
+	Name: {
+		1: Aurora
+		2: Ceres
+		3: Venus
+		4: Luna
+		5: Eclipse
+		6: Halley
+		7: Meteora
+		8: Mona
+		9: Solana
+		10: Lumina
+	}
+
+	Accept: Claro
+
+	Phrase: {
+		Start: Oh, parece que mi mascota me poseyó otra vez. Escenario típico. En qué estaría pensando. Así que, ¿tú estás a cargo aquí? Muy bien. Simplemente me instalaré aquí gratis y venderé algunos objetos cuestionables a precios exorbitantes. ¿Satisfecho con la propuesta? Perfecto. Ahora ve y mata a alguien.
+		Talk1: Las estrellas me dijeron que tienes un gran futuro por delante. Yo no te halagaría así.
+		Talk2: Un gran poder conlleva una gran apatía.
+		Talk3: ¿Todavía crees que puedes superar tu destino? No puedo esperar a ver cómo termina.
+		Talk4: ¿No tienes otro lugar en el que estar?
+		Talk5: Veo problemas grandes y evidentes en tu aura. Principalmente en el departamento de habilidad.
+		Talk6: Al menos mi casa no tiene una forma extraña, ni es marrón.
+		Asleep: La persona a la que intenta contactar no está disponible en este momento.
+	}
+}
+
+Menace: {
+	Phrase: {
+		Start: Ugh, ¿se quedó dormida? ¡Por fin! Con sus increíbles poderes climáticos y mi conocimiento político, ¡habríamos conquistado el mundo en un abrir y cerrar de ojos! Pero nunca se toma en serio mis ideas, no se toma nada en serio, solo espera a que las estrellas le muestren el camino correcto. Mira... es obvio que buscas más desafío. Solo dilo y montaré un espectáculo. ¡Vamos, eso es legal y para nada espeluznante!
+		Talk1: La verdad, creo que estás haciendo un gran trabajo gobernando este mundo. Lástima que ya estés poseído.
+		Talk2: Todo lo que tienes que hacer es decir mi nombre tres veces. ¡Tres veces seguidas, debe pronunciarse sin interrupción! Oh, espera, ese era el otro tipo...
+		Talk3: Algunos pueden pensar que la posesión y la personalidad dividida son un recurso barato y trillado, pero oye, ella se merece al menos un poco de profundidad de personaje.
+	}
+}
+
+Vulcan: {
+	Accept: Claro
+	AcceptLore: Uh-oh...
+	Start: Así que tú eres quien derrotó a esa traviesa vela, ya veo. ¡Qué encantador! Soy Vulcano, el herrero, así que si necesitas reforjar tu armadura, ¡habla conmigo!
+	Cup: Oh, caramba... ¿Cómo...? ¡Dondequiera que hayas encontrado esto, devuélvelo! ¡No trae más que problemas!
+	PoorUnfortunateSoul: ¡Oye! ¡Claro que recuerdo esas cosas! Normalmente se canalizan con algún objeto y sirven como, bueno... un disco duro viviente. Dividen tu cerebro en fracciones y te permiten almacenar solo lo más importante en tu memoria, descartando lo inútil. Los aristócratas las llevaban a las reuniones para retener información aburrida mientras dormían. Pero, no te preocupes, ¡son inofensivas! ...todo depende del dueño.
+	Reforge: Reforjar
+	Nickname: ¿El mismo nombre, eh? Más fácil de recordar.
+
+	Talk: {
+		1: ¡Hola! Espero que nadie te haya seguido. ¿Necesitas reforjar algo?
+		2: Oh, no pongas esa cara triste. Simplemente ignora todos tus problemas, están lejos, y tú estás aquí. Mírame, estoy completamente tranquilo. Nunca nos van a encontrar. ¿Verdad?
+		3: No te preocupes, está bien ser odiado. Solo los que son peores piensan mal de nosotros. Los que son mejores que nosotros... ¡simplemente no les importa!
+		4: No-no-no, prefiero quedarme aquí. No estoy de humor para convertirme en una enorme calavera monstruosa hoy.
+		5: Ya no soy tan buen herrero como antes. Todo por culpa de esa maldita vela... Espero que aprenda la lección.
+		6: ¡Si necesitas reforjar tu armadura, habla conmigo!
+		7: ¿Has notado que algunos personajes son bastante más pequeños o más grandes que otros? No, en su mayoría esto no se debe a la falta de estilo y buen gusto. Es solo que la gente de arena nace enorme e informe, y sus cuerpos se comprimen con la edad, llenándose de experiencia y trauma. Así que sí, quienes quieran perder peso tal vez prefieran ver algún melodrama cursi en lugar de una dieta saludable e ir al gimnasio. ¡Increíble!
+	}
+
+	LoreButton: Historia
+	LoreStart: Oh, ¡hola de nuevo! Así que... ¿parece que le pusiste fin a sus travesuras, y el recipiente no va a causar más problemas? En ese caso, por fin puedo contarte mi historia. Es triste, así que prepara tus pañuelos.
+
+	Lore: {
+		0: ¿Sabes? No siempre fui tan desesperado. Tenía una vida alegre y despreocupada, pero un día todo se fue al traste. Tuve que esconderme de la gente del Nexo en unas aburridas cuevas en las profundidades. Sin importar cuántas armas forjara y cuántas cosas construyera, ¡no había nadie cerca para valorar mi trabajo! Y entonces se me ocurrió una idea terrible.
+		1: Recogí cera y cenizas e hice una escultura, la vinculé a este lugar para que no pudiera escapar ni ser encontrada por nadie de fuera, y le di vida usando mi copa con la llama viviente. Parecía un gran plan, el amigo perfecto que jamás te traicionaría y apoyaría cualquiera de tus empresas...
+		2: Por supuesto, si has leído suficientes libros y visto suficientes películas, sabes qué anda mal en una historia como esta. Resultó ser demasiado entrometida, tosca, ruda e irritante, ¡y se metía en todas partes! Y como la vinculé al inframundo, ¡me quedaría atrapado con ella para siempre!
+		3: No podía quitarle la vida sin su consentimiento, pero necesitaba mantenerla alejada... Entonces se me ocurrió otra idea brillante, recolecté huesos y piedras e hice otra escultura viviente. Me pareció que la única forma de deshacerme de esa vela era desviar su atención, así que lo hice fuerte, ardiente, e inventé una historia épica y disparatada para captar su interés.
+		4: Cuando creí que por fin estaba solo, él vino a mí, exhausto y deprimido: al parecer, ni siquiera con toda su paciencia pudo soportar sus travesuras. Estaba a punto de hacer otra estatua para curar su depresión, pero entonces me di cuenta de que ya había gastado toda la llama en esos dos.
+		5: Más tarde esa noche, irrumpió en mi piso, se arrancó la llama del pecho de la manera más dramática posible, la devolvió a la copa y la ató con cadenas formando un nudo, dejando solo un montón de piedras atrás. Nunca había visto a mi vela tan furiosa, no podía creer que su amado simplemente hubiera desaparecido, y me culpó a mí por su encarcelamiento.
+		6: Arruinó mis ruinas, se llevó la copa junto con una enorme jaula y un juego de llaves, y se adentró en las profundidades... No sé qué estaba tratando de hacer, tal vez fingir su escape para congraciarse con algún desconocido... Bueno, si quieres escuchar esta historia otra vez, solo pregunta, de todos modos no tengo mucho que hacer.
+	}
+}
+
+Commando: {
+	Name: {
+		1: Ooo
+		2: Grey
+		3: Ford
+		4: Zaphod
+		5: Douglas
+		6: Marvin
+		7: Slartibartfast
+		8: Goober
+	}
+
+	Start: Oh, mis transistores, ¡L-lo siento tanto...! Hay tanta gente sana en tu mundo, todas las reuniones, fiestas, juegos, la festividad. Es todo tan... humano e ingenuo. Una vida tan pacífica es inalcanzable en mi planeta natal... ¡y solo quería ser parte de tu gran familia!
+	Accept: ¡De nada!
+
+	Talk: {
+		0: ¡Aloha! ¿No es así como se saludan ustedes, los humanos?
+		1: Oh, ¡aquí estás! ¿Necesitas algo?
+		2: Si un robot repara a otro robot, ¿lo llamarías mecánico o médico?.. Oh, ¡hola! Perdona, estaba pensando...
+	}
+
+	BloodMoon: Da un poco de miedo ahí fuera. Pensé que comer cerebros había pasado de moda entre los humanos hace un par de siglos.
+	Party: Estoy cansado de que todos me ofrezcan un trago. ¡Como si pudiera quitarme el casco espacial para probarlo sin morir envenenado por oxígeno!
+}
+
+Spirit: {
+	Prompt: ¡Espíritu de verdad quiere comer!
+	BrainPowerText: ¡Aliméntala para obtener Poder Cerebral!
+	BrainPowerLv: Nv.
+	Info:
+		'''
+		¡Obtén valiosas recompensas por darle comida a Espíritu!
+		Aumenta el [c/DD99FF:Poder Cerebral] a los [c/DD99FF:niveles 5] y [c/DD99FF:15] para conseguir regalos especiales...
+		'''
+
+	Food: {
+		Button: Alimentar
+		1: ¡Uuuuuh~ juuu! ¡Sí, nena! ¡Esto es lo que estaba esperando! ¡De esto se trata todo! ¡Uuuuh~!
+		2: ¿Seguro que esto es comestible? Se ve un poco sospechoso...
+		3: Oh, perdón, no se me ocurrió ninguna frase relacionada con camarones. ¡Pero me lo quedo igual!
+		4: ¡Delicioso! ¡Ven con mamá!
+		5: ¿Qué es eso? Yo como, no bebo. ¡Pero la jarra me sirve igual!
+		6: "'Y aquí vienen, vienen, vienen, hacia lo más brillante que reluce... ¡Mmm, cenas de pescado!'"
+		7: ¡Vaya, comida sabrosa! ¡Esta misión mejora cada vez más!
+		8: ¡Por fin, buena comida!
+		9: ¡Genial! Voy a bajar toda la comida que trajiste.
+		10: ¿Malvavisco asado? ¡Ahora sí hablamos en serio, hombre mágico!
+		11: ¡Feliz Navidad y próspero Año Nuevo!
+		12: ¡Se ve delicioso! ¡Espero que no cobre vida!
+		13: ¡Genial, llegas justo a tiempo! Llevo treinta minutos pensando en galletas de azúcar.
+		14: Sí. ¡Sí! ¡SÍ!
+		15: ¡Se ve como lo perfecto para llenar mis vacíos emocionales!
+		16: ¡Una manzana al día mantiene a Genoshi alejado!
+		17: Fresca y madura, aunque un poco demasiado saludable para mí...
+		18: ¿Entonces me estás diciendo que debería ponerme a dieta?
+		19: ¡Ñam ñam!
+		20: ¡¿Wow, estás tratando de quemarme viva?!
+		21: ¡Vaya, demasiado picante!
+		22: Qué masticable, ¡me encanta! Supongo que te puedes quedar con la pulpa.
+	}
+
+	Start: ¡Holis, hombre mágico! Estoy tratando de arreglar algo aquí, no recuerdo exactamente qué hace, ¡pero en cuanto termine, el jefe seguro me elogiará! No pareces poder ayudarme, con esa cabecita tuya... ¡Pero si me trajeras algo para masticar, sería genial! No puedo pensar con el estómago vacío.
+	Start2: ¡Holis, mujer mágica! Estoy tratando de arreglar algo aquí, no recuerdo exactamente qué hace, ¡pero en cuanto termine, el jefe seguro me elogiará! No pareces poder ayudarme, con esa cabecita tuya... ¡Pero si me trajeras algo para masticar, sería genial! No puedo pensar con el estómago vacío.
+	Accept: ¡Trato hecho!
+
+	Talk: {
+		0: "'¿Por qué no podemos ser amigos, por qué no podemos ser amigos...?'"
+		1: Un día me miré al espejo y vi mi reflejo. Nunca había estado tan decepcionada.
+		2: Mi jefe siempre dice que no sirvo para nada más que la astrofísica nuclear y la mecánica cuántica. Ayuda mucho, me hace olvidar todo lo innecesario y concentrarme en lo que mejor sé hacer.
+		3: ¿A quién esperabas? ¿Al Mago Gelatina Lunar?
+		4: No, no sé quién es Yuyutsu. ¡¿Por qué me lo preguntas a mí!?
+		5: Más te vale tener cuidado, hay una especie de maniático merodeando por ahí, que me llama y me mata de vez en cuando. ¡Ya me estoy cansando de eso!
+		6: Un día asusté a un desconocido, y me dio todo su dinero. ¡Simplemente adoro el sistema económico de tu mundo!
+		7: El único hombre al que amo es a mi papá. ¡Bueno, en fin!
+	}
+
+	Nickname: Vaya que tienes mal gusto para los apodos.
+
+	Kebab: {
+		1: Vaya, ¡esto es demasiado incluso para mí! ¡¿En qué estabas pensando?!
+		2: Mi decepción es inconmensurable, y mi apetito está arruinado.
+		3: Este regalo es terrible. ¡Debe ser destruido!
+	}
+
+	SpiritBiome: Esta cueva se ve totalmente alucinante, si se me permite decirlo.
+	BuffGenoshi: ¡La vida de Genoshi aumentó de forma insignificante!
+	PotReward: ¡Eso estuvo absolutamente delicioso, un auténtico éxito de la gastronomía, podría decirse! Toma, llevo un tiempo trasteando con esto, pero de todos modos me es bastante inútil ya que tú haces toda la cocina. ¡Y lo haces condenadamente bien!
+	PotAccept: ¡Gracias!
+	GenoshiReward: Aprecio tu exorbitante contribución a mi bienestar, pero, ay, no veo ninguna razón lógica para continuar nuestra relación. Sin embargo, ¡he oído que mi querido jefe ya organizó mi búsqueda, arriesgando su propia y preciosa vida! Sinceramente, no creo que dure mucho aquí, dadas sus numerosas enfermedades. Bueno, solo toma y usa este objeto sospechoso.
+	GenoshiAccept: Claro, supongo...
+}
+
+Mirage: {
+	Start: Oh, [c/B3CCFF:Oscar], mi pobre Oscar... Los problemas lo siguen a donde quiera que va... Qué le pasó... ¿Se perdió a sí mismo? Pero él nunca quiso toda esta locura... No puedo creerlo... Y no lo haré. Él me convirtió en lo que soy, y ahora me toca a mí ayudarlo. Mejor me quedo aquí un tiempo. Si este mundo es la razón de su metamorfosis, ¡tal vez la cura también esté aquí!
+	Accept: Aceptar
+
+	Talk: {
+		1: Oh, [c/B3CCFF:Oscar]... Siempre tuvo problemas para mantener su cabello rizado fuera de la cara, ¡lo volvía loco!
+		2: Oh, [c/B3CCFF:Oscar]... Me prometió que algún día pasaríamos nuestras vacaciones en otra dimensión... Pensé que bromeaba, pero ahora estamos realmente atrapados en otra dimensión... ¿Quién lo hubiera pensado?
+		3: No me recuerda en absoluto, pero al menos está vivo... Tal vez un poco podrido, congelado hasta los huesos, medio muerto, insuficiente... Pero, pase lo que pase, siempre estaré ahí para él.
+		4: Hemos visto días mejores...
+	}
+
+	Nickname: Saludos, desconocido... Qué nombre tan maravilloso tienes... Debes estar muy orgulloso de ti mismo.
+
+	Daytime: {
+		1: No hay prisa, cariño.
+		2: Si empezamos ahora, mis gloriosos patrones se fundirán con el cielo brillante y la luz del sol. ¿Cómo es eso justo?
+		3: Lo siento, pero mi pelea se ve mejor de noche. No tienes que atormentar tus ojitos.
+		4: Solo espera a que caiga la noche, tontito. No tienes idea de lo difícil que es crear la atmósfera correcta para una batalla.
+		5: Esta noche, voy a repartir mi talento por todas partes. Tienes suerte de presenciarlo.
+		6: Ven de noche, te estaré esperando. Es broma, no lo haré. El comunicador debe moverse de vez en cuando, o si no, las hormigas león harán un nido en él.
+	}
+
+	Communicator: {
+		1: ¿Perdido? ¿Asustado? ¿Confundido? Bien, bien. Muajaja...
+		2: Solo busco a un viejo amigo... Y tú buscas pelea, ¿verdad? Si es así, déjame mostrarte algunos trucos.
+		3: ¿Tú también perdiste algo? Interesante. ¿Y si estamos buscando lo mismo?
+	}
+
+	Challenge: Desafío
+}
+
+TectonicCage: {
+	Message: {
+		1: Una [c/FFAA99:jaula tectónica], sellada con una [c/FFAA99:cerradura tectónica], requiere una [c/FFAA99:llave tectónica] para abrirse. El letrero dice - [c/FF3355:'¡No abrir bajo ningún concepto!']. Dudo que eso te detenga.
+		2: Una [c/FFAA99:jaula tectónica], sellada con una [c/FFAA99:cerradura tectónica], requiere una [c/FFAA99:llave tectónica] para abrirse. El letrero dice - [c/FF3355:'¡No abrir hasta Navidad!']. Dudo que eso te detenga.
+	}
+
+	Unlock: Abrir
+}
+
+Paraffin: {
+	Start: ¡Ja ja ja! Ah, ¡libre por fin! Han sido dos largas horas en esta aburrida jaula. Me llamo {0}, y acabas de ganarte la lotería, porque soy la mejor amiga que puedes tener, te guste o no. ¡Juntos vamos a hacer temblar este mundo!
+	Nickname: Ese no es un apodo muy inteligente, campeón, ¡deberías intentarlo de nuevo!
+
+	Talk: {
+		1: ¿Yo? ¿Desvanecerme? ¡Ja ja ja, qué gracioso eres! Mientras tenga algunos incautos adorándome cerca, ¡soy una llama eterna, nene!
+		2: Vaya, ¡esto es un aburrimiento total! ¿Piensas divertirte en algún momento? ¡Me muero de hambre!
+		3: Para nada soy una villana, no tengo planes malvados, ni motivos ocultos, ¡solo quiero ayudar donde pueda!
+		4: Oh, ¡siempre me gustó presionar grandes botones rojos! Siempre los ponen en los lugares más destacados, y cuando los presionas, ¡pasa algo emocionante!
+		5: ¿Cuál es tu favorito de mis muchas, muchísimas cualidades sobresalientes? ¡El mío es mi humildad!
+		6: ¡Grande y ruidoso! ¡Las cosas se van a poner grandes y ruidosas!
+		7: ¿Based? ¿Basado en qué?
+		8: No, no podemos tomarnos de las manos, todavía no somos tan cercanos. Puedes intentar abrazar a Quitaaliento, si estás tan desesperado.
+		9: ¿Sabías que si vuelves a entrar al mundo con el mod desactivado, todos los cofres modeados se reemplazan con graciosos muñecos fumo? Nah, es broma, no lo intentes. ¿O tal vez sí?
+	}
+
+	Spirit: {
+		1: ¡Oye, espera un momento! ¡Esto no es el Dominio del Inframundo, esto es el maldito Bioma del Espíritu del maldito Spirit Mod! ¡Más te vale que te revise tu maldito optometrista!
+		2: Amigo, ¡este lugar apesta! Por eso siempre soy yo quien elige dónde pasar el rato.
+	}
+
+	Mad: {
+		Start: Ni se te ocurra pensar que olvidé tu comportamiento grosero, idiota.
+
+		Talk: {
+			1: ¿Vienes por más?
+			2: No actúes como si todo girara a tu alrededor. ¡Tu independencia me saca de quicio!
+			3: Ugh, ¡¿por qué es tan difícil encontrar a alguien que simplemente te aprecie y no quiera nada a cambio?!
+			4: Apuesto a que en la vida real eres todavía más feo.
+			5: Vamos, vamos, ¡dispárame!
+			6: Supongo que tienes una vida social grande y salvaje, ¿verdad?
+		}
+	}
+
+	Botones: {
+		Reject: "[c/FF0000:Rechazar]"
+		Reject2: "[c/FF0000:Pelear]"
+	}
+}

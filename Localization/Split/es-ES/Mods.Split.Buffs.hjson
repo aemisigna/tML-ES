@@ -1,0 +1,739 @@
+ShadowScepterBuff: {
+	DisplayName: Secreto de las Sombras
+	Description: Restaura maná al infligir daño
+}
+
+FirecasterBlessing: {
+	DisplayName: Bendición del Lanzafuego
+	Description: Aumenta todas las estadísticas
+}
+
+FightingColdBuff: {
+	DisplayName: Luchando contra el Frío
+	Description: Aumenta la penetración de armadura
+}
+
+LunarflareBuff: {
+	DisplayName: Llamarada Lunar
+	Description:
+		'''
+		Los ataques de Shattering Design mejoran
+		Se acerca un poderoso golpe final...
+		'''
+}
+
+HeavyMetalBuff: {
+	DisplayName: Metal Pesado
+	Description:
+		'''
+		Otorga bonificaciones de cuerpo a cuerpo pesado de {0}
+		- Inmunidad al retroceso.
+		- Aumenta la defensa en {1}.
+		{2}
+		'''
+}
+
+AttractionBuff: {
+	DisplayName: Atracción
+	Description: Aumenta el alcance de recogida de todos los objetos
+}
+
+GelidRegeneration: {
+	DisplayName: Regeneración Gélida
+	Description: Recupera vida
+}
+
+DiligenceBuff: {
+	DisplayName: Diligencia
+	Description: Aumenta la velocidad de ataque de los esbirros en un 10%
+}
+
+PurityBuff: {
+	DisplayName: Pureza
+	Description: Otorga inmunidad temporal a la mayoría de los efectos negativos
+}
+
+SolarRadianceBuff: {
+	DisplayName: Resplandor Solar
+	Description: Los ataques de Solsticio liberan Rayos de Tormenta Solar
+}
+
+StrategicAdvantage: {
+	DisplayName: Ventaja Estratégica
+	Description: Aumenta la velocidad de ataque de los centinelas en un 10%
+}
+
+CrabRave: {
+	DisplayName: Rave del Cangrejo
+	Description: Aumenta temporalmente el daño en un 10%
+}
+
+CrabGrave: {
+	DisplayName: Tumba del Cangrejo
+	Description: Reduce temporalmente el daño recibido en un 20%
+}
+
+GalacticallyAwesome: {
+	DisplayName: Galácticamente Increíble
+	Description: Mejora tus habilidades mágicas
+}
+
+TimeRuinBuff: {
+	DisplayName: Ruina Temporal
+	Description: Aumenta la velocidad de ataque a distancia en {0}
+}
+
+StupidMelodyBuff: {
+	DisplayName: ¡Melodía Tonta y Pegadiza!
+	Description: Aumenta la velocidad cuerpo a cuerpo, la defensa y la regeneración
+}
+
+AegisBuff: {
+	DisplayName: Égida
+	Description: Aumenta temporalmente la defensa en 6
+}
+
+AgileStance: {
+	DisplayName: Postura Ágil
+	Description: Aumenta la velocidad de cuerpo a cuerpo pesado
+}
+
+AnxiousnessBuff: {
+	DisplayName: Ansiedad
+	Description:
+		'''
+		Aumenta el daño en un 10% al moverte
+		Reduce el daño al quedarte quieto
+		'''
+}
+
+Balance: {
+	DisplayName: Perfectamente Equilibrado
+	Description: Otorga inmunidad al retroceso
+}
+
+Breakdown: {
+	DisplayName: Colapso
+	Description: ¡La defensa se reduce a la mitad!
+}
+
+BrokenAegisBuff: {
+	DisplayName: Némesis
+	Description: Anula tu defensa
+}
+
+AmethystCandle: {
+	DisplayName: Pies Ardientes
+	Description: Crea llamas moradas bajo tus pies
+}
+
+DiamondCandle: {
+	DisplayName: Pies Ardientes
+	Description:
+		'''
+		Crea llamas blancas bajo tus pies
+		Las llamas suben lentamente y pueden infligir más daño
+		'''
+}
+
+EmeraldCandle: {
+	DisplayName: Pies Ardientes
+	Description:
+		'''
+		Crea llamas verdes bajo tus pies
+		Los enemigos eliminados por estas llamas otorgan más oro
+		'''
+}
+
+RainbowCandle: {
+	DisplayName: Aire Ardiente
+	Description: Crea llamas de arcoíris en tu posición actual
+}
+
+RubyCandle: {
+	DisplayName: Pies Ardientes
+	Description:
+		'''
+		Crea llamas escarlata bajo tus pies
+		La llama restaura tu vida al infligir daño a los enemigos
+		'''
+}
+
+SapphireCandle: {
+	DisplayName: Pies Ardientes
+	Description:
+		'''
+		Crea llamas azules bajo tus pies
+		La llama restaura tu maná al infligir daño a los enemigos
+		'''
+}
+
+TopazCandle: {
+	DisplayName: Pies Ardientes
+	Description:
+		'''
+		Crea llamas bajo tus pies
+		Cada llama inflige el efecto negativo ¡En Llamas! a los enemigos
+		'''
+}
+
+ChampionsShield: {
+	DisplayName: Escudo del Campeón
+	Description: Aumenta la defensa en 12
+}
+
+InfusionFearful: {
+	DisplayName: Infusión de Alma: Temerosa
+	Description: Todas tus armas infligen el efecto negativo '¡En Llamas!' a los enemigos
+}
+
+InfusionMighty: {
+	DisplayName: Infusión de Alma: Poderosa
+	Description: Todas tus armas infligen el efecto negativo '¡En Llamas!' a los enemigos
+}
+
+InfusionSighting: {
+	DisplayName: Infusión de Alma: Certera
+	Description: Todas tus armas infligen el efecto negativo '¡En Llamas!' a los enemigos
+}
+
+Constellated: {
+	DisplayName: Mods.Split.BuffName.Constellated
+	Description: Mods.Split.BuffDescription.Constellated
+}
+
+EtherealTeaBuff: {
+	DisplayName: Té Etéreo
+	Description: Mayor impulso de regeneración
+}
+
+FastRegeneration: {
+	DisplayName: Regeneración Rápida
+	Description: Aumenta enormemente tu regeneración
+}
+
+FunkyTime: {
+	DisplayName: Hora Funky
+	Description: Aumenta enormemente tu regeneración de vida y maná
+}
+
+Fury: {
+	DisplayName: ¡Rage Quit!
+	Description: Aumenta significativamente la velocidad de combate cuerpo a cuerpo regular y pesado
+}
+
+GoldenTeaBuff: {
+	DisplayName: Té Dorado
+	Description: Impulso significativo de regeneración
+}
+
+HeavyMetal: {
+	DisplayName: Metal Pesado
+	Description: Otorga inmunidad al retroceso y defensa adicional por arma pesada
+}
+
+Immobilized: {
+	DisplayName: Inmovilizado
+	Description: No puedes moverte
+}
+
+InsidiousAddiction: {
+	DisplayName: Adicción Insidiosa
+	Description:
+		'''
+		Reduce todas las estadísticas
+		¡Corre por tu vida!
+		'''
+}
+
+MagiciansVenomDebuff: {
+	DisplayName: Veneno del Mago
+	Description: El costo de maná se cuadruplica
+}
+
+MarkedDebuff: {
+	DisplayName: Marcado
+	Description: Marcado para recibir daño
+}
+
+MenacingAura: {
+	DisplayName: Llamarada Abrasadora
+	Description: Pierdes vida rápidamente
+}
+
+MOD: {
+	DisplayName: Maestro de la Defensa
+	Description: Otorga inmunidad al retroceso y aún más defensa por arma pesada
+}
+
+OutOfBounds: {
+	DisplayName: Fuera de Límites
+	Description: Pierdes vida rápidamente
+}
+
+InkDemonBuff: {
+	DisplayName: Diablo de Tinta
+	Description: ¿Quién se ríe ahora?
+}
+
+JackFrostBuff: {
+	DisplayName: Jack Frost
+	Description: ¡Heee-ya ho!
+}
+
+LifeGalBuff: {
+	DisplayName: Chica Vida
+	Description: Trae corazones cuando te queda poca vida
+}
+
+LunaBuff: {
+	DisplayName: Luna
+	Description: "'¿Has visto mi sombra?'"
+}
+
+ManaGalBuff: {
+	DisplayName: Chica Maná
+	Description: Trae estrellas de maná cuando te queda poco maná
+}
+
+NimbusMountBuff: {
+	DisplayName: Nimbo Furioso
+	Description: Llueve sobre tus enemigos
+}
+
+UnpixieBuff: {
+	DisplayName: Pixy
+	Description: "'¡No me metas en problemas!'"
+}
+
+WitnessPetBuff: {
+	DisplayName: Pequeño Testigo
+	Description: La medusa que emite luz
+}
+
+PoisedStance: {
+	DisplayName: Postura Serena
+	Description: Aumenta la velocidad de cuerpo a cuerpo pesado
+}
+
+PossessedSaberBuff: {
+	DisplayName: Sable Poseído
+	Description: "'Rey de cortar y trocear'"
+}
+
+PowerWithin: {
+	DisplayName: Poder Interior
+	Description: Otorga inmunidad al retroceso y aumenta la penetración de armadura
+}
+
+ProtectiveReflexes: {
+	DisplayName: Reflejos Protectores
+	Description: Aumenta temporalmente la defensa; los enemigos tienen más probabilidades de atacarte
+}
+
+ScorchingBlaze: {
+	DisplayName: Llamarada Abrasadora
+	Description: Pierdes vida rápidamente
+}
+
+SpicyBuff: {
+	DisplayName: ¡Veo (casi) todo!
+	Description: Emite un aura de luz que te permite ver enemigos cercanos y fuentes de peligro
+}
+
+SpongyBuff: {
+	DisplayName: Frenesí de Pesca
+	Description: Detecta peces enganchados, aumenta la habilidad de pesca y la probabilidad de obtener un cofre
+}
+
+StarAscended: {
+	DisplayName: Estrella Ascendida
+	Description: Regeneración de maná superior
+}
+
+StrongBuff: {
+	DisplayName: ¡Con todo!
+	Description: Aumenta tu retroceso, daño y probabilidad de golpe crítico en un 10%
+}
+
+FireflyBuff: {
+	DisplayName: Luciérnaga
+	Description: Las luciérnagas lucharán por ti
+}
+
+GhostBuff: {
+	DisplayName: Fantasma
+	Description: "'Ya sabes, eso de estar muerto'"
+}
+
+IceFairyBuff: {
+	DisplayName: Hada de Hielo
+	Description: "'¡No me llames b-baka!'"
+}
+
+NuclearFairyBuff: {
+	DisplayName: Hada Nuclear
+	Description: "'¿A quién llamas hada, tontorrón?'"
+}
+
+RazorfrostBuff: {
+	DisplayName: Copo Filoso
+	Description: "'A sangre fría'"
+}
+
+StarBuff: {
+	DisplayName: Campo Estelar
+	Description: "'¡Naciste bajo una estrella de la suerte!'"
+}
+
+TravellingPrincessBuff: {
+	DisplayName: Compañera Aeyh
+	Description: "'Si quieres conocer mi trasfondo, revisa mi perfil de redes sociales!'"
+}
+
+VampireFairyBuff: {
+	DisplayName: Hada Vampiro
+	Description: "'Solo he visto humanos en forma de bebida...'"
+}
+
+VolcanicHammerBuff: {
+	DisplayName: Martillo Volcánico
+	Description: "'¡Vamos, golpea con fuerza!'"
+}
+
+SupportRelay: {
+	DisplayName: Relevo de Apoyo
+	Description: Mejora a tus aliados
+}
+
+SupportRelayDamage: {
+	DisplayName: Relevo de Apoyo: Daño
+	Description: Aumenta el daño y la probabilidad de golpe crítico
+}
+
+SupportRelayDefense: {
+	DisplayName: Relevo de Apoyo: Defensa
+	Description: Aumenta la defensa
+}
+
+SupportRelayLife: {
+	DisplayName: Relevo de Apoyo: Vida
+	Description: Aumenta la curación
+}
+
+SweetBuff: {
+	DisplayName: Dulce y Tranquilo
+	Description: Aumenta la velocidad de minería en un 25%, aumenta la velocidad y el alcance de colocación, y reduce la agresividad enemiga
+}
+
+Triumph: {
+	DisplayName: Triunfo
+	Description: Grandes mejoras a todas las estadísticas
+}
+
+VivifyingTeaBuff: {
+	DisplayName: Té Vivificante
+	Description: Ligero impulso de regeneración
+}
+
+WellForged: {
+	DisplayName: Furia Forjada
+	Description: 25% de probabilidad de no consumir ingredientes al fundir
+}
+
+Moonbounce: {
+	DisplayName: Rebote Lunar
+	Description: Aumenta tu número máximo de esbirros
+}
+
+MirrorLockdown: {
+	DisplayName: Esencia Impía
+	Description: No puedes ver tu propio reflejo...
+}
+
+BlueCrescentMoon: {
+	DisplayName: Luna Creciente Azul
+	Description: "'Solo una pieza del todo.'"
+}
+
+GreenCrescentMoon: {
+	DisplayName: Luna Creciente Verde
+	Description: "'Solo una pieza del todo.'"
+}
+
+LuckyMoonBuff: {
+	DisplayName: Luna de la Suerte
+	Description: Cambia su apariencia según la fase lunar
+}
+
+PinkCrescentMoon: {
+	DisplayName: Luna Creciente Rosa
+	Description: "'Solo una pieza del todo.'"
+}
+
+YellowCrescentMoon: {
+	DisplayName: Luna Creciente Amarilla
+	Description: "'Solo una pieza del todo.'"
+}
+
+FunkyMirrorPetBuff: {
+	DisplayName: Espejo Poseído
+	Description: "'¡La vida en cautiverio no está tan mal!'"
+}
+
+SunnyBuff: {
+	DisplayName: Sr. Sunny
+	Description: "'El mundo en verdad está girando...'"
+}
+
+VioletBuff: {
+	DisplayName: Vi
+	Description: "'¡No soy una abeja cualquiera!'"
+}
+
+AstrolotlBuff: {
+	DisplayName: Astrolotl
+	Description: "'Es difícil exagerar mi satisfacción'"
+}
+
+FrogletBuff: {
+	DisplayName: Ranita
+	Description: "'¿Qué haces?'"
+}
+
+SpooksterBuff: {
+	DisplayName: Spookster
+	Description: "'¡Ooga Booga!'"
+}
+
+StarfaceJrBuff: {
+	DisplayName: Starface Jr.
+	Description: ¡No pertenezco a ningún grupo social, soy un personaje individual!
+}
+
+SheepMountBuff: {
+	DisplayName: Oveja Compañera
+	Description: "'¡Déjame en paz!'"
+}
+
+HouseOfEvil: {
+	DisplayName: Casa del Mal
+	Description: Evita que aparezcan varios NPCs viajeros
+}
+
+MasterOfDefense: {
+	DisplayName: Maestro de la Defensa
+	Description: Mods.Split.Buffs.MasterOfDefense.Description
+}
+
+ZapCooldown: {
+	DisplayName: Enfriamiento de Descarga
+	Description: Mods.Split.Buffs.ZapCooldown.Description
+}
+
+ZapTagDebuff: {
+	DisplayName: Efecto Negativo de Marca de Descarga
+	Description: Mods.Split.Buffs.ZapTagDebuff.Description
+}
+
+PoisonBreakBuff: {
+	DisplayName: Arremetida Tóxica
+	Description: Aumenta la velocidad de ataque de Poison Break por cada efecto negativo infligido
+}
+
+TheHummerBuff: {
+	DisplayName: El Hummer
+	Description: "'¡Voy a quemar un agujero en el camino!'"
+}
+
+MasterSpiritBuff: {
+	DisplayName: Srta. Espíritu
+	Description: "'¡Sí, porque eres mi estrella de rock!'"
+}
+
+DemonCompendiumBuff: {
+	DisplayName: Compendio Demoníaco
+	Description: "'... donde se reúnen los demonios.'"
+}
+
+MonolithBuff: {
+	DisplayName: Protección del Monolito
+	Description: La próxima vez que recibas daño, este se reduce a la mitad y ignoras el retroceso
+}
+
+EccentricBuff: {
+	DisplayName: Resolución Infinita
+	Description: Tus próximos golpes de tijera se ven potenciados
+}
+
+GelidStarPower: {
+	DisplayName: Poder Estelar Gélido
+	Description: "[fx/mof:Desbordamiento de Maná] mejora"
+}
+
+MoonWheelBuff: {
+	DisplayName: Mirada de los Héroes
+	Description: El poder de la amistad te otorga
+	And: y
+	Melee: defensa
+	Ranged: velocidad
+	Magic: regeneración de vida
+	Summon: velocidad de arma
+}
+
+StarsignBuff: {
+	DisplayName: Signo Estelar
+	Description: Aumenta la probabilidad de golpe crítico mágico
+}
+
+OverbladeBuff: {
+	DisplayName: Espadas Supremas
+	Description: Las Espadas Celestiales obedecerán tus órdenes...
+	DisplayNameNight: Cae la Noche...
+	DescriptionNight: Las espadas atacarán a los enemigos como mejor les parezca, restaurando maná
+}
+
+BewitchedStepBuff: {
+	DisplayName: Paso Embrujado
+	Description: Tu magia incendia el suelo bajo tus pies
+}
+
+StargazerBuff: {
+	DisplayName: Presencia Contempladora de Estrellas
+	Description: El aire a tu alrededor se siente colorido...
+}
+
+SpiritWrathBuff: {
+	DisplayName: Ira del Espíritu
+	Description: Aumenta la velocidad de tus esbirros y látigos
+}
+
+AfterlifeLifeDebtDebuff: {
+	DisplayName: Efecto Negativo de Deuda de Vida del Más Allá
+	Description: Mods.Split.Buffs.AfterlifeLifeDebtDebuff.Description
+}
+
+AfterlifeTagDebuff: {
+	DisplayName: Efecto Negativo de Marca del Más Allá
+	Description: Mods.Split.Buffs.AfterlifeTagDebuff.Description
+}
+
+ReverberationBuff: {
+	DisplayName: Reverberación Glacial
+	Description:
+		'''
+		Aumenta la velocidad de ataque de los esbirros invocados
+		Los esbirros de corto alcance disfrutan de un aumento de velocidad duplicado
+		'''
+}
+
+StrandedWhipTagDebuff: {
+	DisplayName: Efecto Negativo de Marca de Látigo Varado
+	Description: Mods.Split.Buffs.StrandedWhipTagDebuff.Description
+}
+
+JellyBondBuff: {
+	DisplayName: Vínculo Gelatinoso
+	Description: La Armadura Gelatinosa se ve enormemente potenciada
+}
+
+DevouringHunt: {
+	DisplayName: Caza Devoradora
+	Description:
+		'''
+		{$CommonItemTooltip.IncreasesWhipRangeByPercent} y velocidad en {1}%
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@2}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@3}
+		Aumenta la regeneración de vida
+		'El Vacío persiste...'
+		'''
+}
+
+GelTagDebuff: {
+	DisplayName: Efecto Negativo de Marca de Gel
+	Description: Mods.Split.Buffs.GelTagDebuff.Description
+}
+
+SpaceJellyfishBuff: {
+	DisplayName: Amigos del Futuro
+	Description: ¡Están aquí para gelificar a tus enemigos!
+}
+
+ShroomedDebuff: {
+	DisplayName: Efecto Negativo Enchampiñado
+	Description: Mods.Split.Buffs.ShroomedDebuff.Description
+}
+
+CrabWhipTagDebuff: {
+	DisplayName: Efecto Negativo de Marca de Látigo Cangrejo
+	Description: Mods.Split.Buffs.CrabWhipTagDebuff.Description
+}
+
+MotorbugPetBuff: {
+	DisplayName: Mi Pequeña Máquina de Matar
+	Description: "'Soy una herramienta del Señor. Destruirme es blasfemia.'"
+}
+
+SunStrikeBuff: {
+	DisplayName: Golpe Solar
+	Description: Tus próximos ataques liberarán rayos solares retorcidos
+}
+
+StarshroomBuff: {
+	DisplayName: Enhongado Estelar
+	Description: Regenera vida lentamente, mientras estés cerca de centinelas
+}
+
+StunlockedDebuff: {
+	DisplayName: Efecto Negativo de Aturdimiento Encadenado
+	Description: Mods.Split.Buffs.StunlockedDebuff.Description
+}
+
+StunlockDebuff: {
+	DisplayName: Efecto Negativo de Aturdimiento
+	Description: Mods.Split.Buffs.StunlockDebuff.Description
+}
+
+MasterParaffinPetBuff: {
+	DisplayName: Vela de Apariencia Discreta
+	Description: "'Claramente, no tienes una freidora de aire...'"
+}
+
+MasterMiragePetBuff: {
+	DisplayName: El Recuerdo Más Querido
+	Description: "'Oh, la miseria...'"
+}
+
+RimeBreakerBuff: {
+	DisplayName: Rompehielos
+	Description: Aumenta el daño y el crítico de tu próximo ataque cuerpo a cuerpo pesado
+
+	Epic: {
+		DisplayName: Golpe Épico
+		Description:
+			'''
+			Tu próximo ataque cuerpo a cuerpo pesado se duplicará
+			'¡Es hora de acabar con ellos!'
+			'''
+	}
+}
+
+EyesoreTagDebuff: {
+	DisplayName: Efecto Negativo de Marca Molesta a la Vista
+	Description: Mods.Split.Buffs.EyesoreTagDebuff.Description
+}
+
+MetalcoreBuff: {
+	DisplayName: Metalcore
+	Description: Otorga inmunidad al retroceso y aumenta la penetración de armadura
+}
+
+BreakdownBuff: {
+	DisplayName: Colapso
+	Description: Mods.Split.Buffs.BreakdownBuff.Description
+}
+
+WrathOfTheMaskBuff: {
+	DisplayName: Ira de la Máscara
+	Description: Los efectos de la Máscara del Mal se duplican
+}

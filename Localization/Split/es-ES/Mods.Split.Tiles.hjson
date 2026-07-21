@@ -1,0 +1,70 @@
+HiddenGoldenChest: {
+	ContainerName: Cofre Dorado Oculto
+	MapEntry: Cofre Dorado Oculto
+}
+
+PorkChest: {
+	ContainerName: Cofre de Cerdo
+	MapEntry: Cofre de Cerdo
+}
+
+FrostbiteBarrel: {
+	ContainerName: Barril de Escarcha
+	MapEntry: Barril de Escarcha
+}
+
+FrostbiteWoodChest: {
+	ContainerName: Cofre Dorado Oculto
+	MapEntry: Cofre de Madera de Escarcha
+}
+
+FrostbiteWoodDresserTile.ContainerName: Tocador de Madera de Escarcha
+
+ChampionChestTile: {
+	ContainerName: Cofre del Campeón
+	MapEntry: Cofre del Campeón
+	MapEntryLocked: Cofre del Campeón Cerrado
+}
+
+TectonicChest: {
+	ContainerName: Cofre Tectónico
+	MapEntry: Cofre Tectónico
+	MapEntryLocked: Cofre Tectónico Cerrado
+}
+
+LordsCog.MapEntry: Engranaje del Señor
+FrostbiteCrateTile.MapEntry: Cajón
+Banners.MapEntry: Estandarte
+Amplifier.MapEntry: Amplificador
+BlastForge.MapEntry: Forja de Explosión
+StoneofInspiration.MapEntry: Piedra de Inspiración
+CoolwellTile.MapEntry: Pozo Frío
+CriminalStatueTile.MapEntry: Estatua
+GoodwellTile.MapEntry: Buen Pozo
+HiddenGoldenChest_Locked.MapEntry: Cofre Dorado Oculto Cerrado
+KitCatClockTile.MapEntry: Reloj Kit Cat
+MusicBoxes.MapEntry: Caja Musical
+HiddenGoldenChest_Trapped.MapEntry: Cofre Dorado Oculto
+PorkChest_Trapped.MapEntry: Cofre de Cerdo
+FrostbiteWoodChest_Trapped.MapEntry: Cofre de Madera de Escarcha
+TectonicChest_Trapped.MapEntry: Cofre Tectónico
+BatPot.MapEntry: Olla Grande
+CultistStatueTile.MapEntry: Estatua
+HolographicBoardTile.MapEntry: Tablero Holográfico
+HuskStatueTile.MapEntry: Estatua
+KeystoneTile.MapEntry: Piedra Angular
+OceanAltar.MapEntry: Faro Oceánico
+RevealingSignTile.MapEntry: Cartel Revelador
+RoundCactus.MapEntry: Cactus Redondo
+ShovelStatueTile.MapEntry: Estatua
+TeslaTowerTile.MapEntry: Torre Tesla
+WarningSignTile.MapEntry: Cartel de Advertencia
+FrostbiteSapling.MapEntry: Retoño de Escarcha
+FrozenGravestoneTile.MapEntry: Lápida Congelada
+FrostbiteWoodBedTile.MapEntry: Cama de Ejemplo
+FrostbiteWoodWorkbenchTile.MapEntry: Mesa de Trabajo de Escarcha
+BasaltitePot.MapEntry: Olla de Basaltita
+BasaltitePot2.MapEntry: Olla Explosiva de Basaltita
+ChampionChestTile_Locked.MapEntry: Cofre del Campeón Cerrado
+MonsterCageTile.MapEntry: Jaula de Monstruo
+TectonicChest_Locked.MapEntry: Cofre Tectónico

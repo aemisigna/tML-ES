@@ -1,0 +1,5145 @@
+Tooltip: {
+	SlimeGun: ... no lo suficientemente inofensivo para tecnología alienígena, sin embargo.
+	ReforgeWarning: Quizás alguien más pueda reforjar esto...
+	SharpReforge: Puede usarse para quitar prefijos de armadura
+	TroublesomeVessel: ... o simplemente márcalo como favorito, por el amor de Dios.
+	PrimeRewardsComplete:
+		'''
+		'¡Parece que agotaste mi colección prime! En serio, no tengo nada más que regalarte por ahora...'
+		'¿Qué puedo decir... ¡[c/{0}:Felicidades]!'
+		'''
+}
+
+# Armor
+ContraptionistHat: {
+	DisplayName: Sombrero del Artefactista
+	Tooltip:
+		'''
+		"Propulsores de cohete, pistolas láser y narcisismo no necesariamente incluidos"
+		Aumenta en 1 tu número máximo de centinelas
+		Aumenta el daño de invocación en un 14%
+		'''
+	Set:
+		'''
+		Aumenta en 1 tu número máximo de esbirros
+		Invoca una torreta de Artefacto Helicoidal para arrasar con los enemigos objetivo
+		Matar enemigos y dañar jefes deja caer munición
+		Pulsa ARRIBA dos veces para activar/desactivar la torreta
+		'''
+}
+
+ContraptionistChestplate: {
+	DisplayName: Peto de Engranajes del Artefactista
+	Tooltip:
+		'''
+		Aumenta en 1 tu número máximo de centinelas
+		Aumenta el daño de invocación en un 16%
+		'''
+}
+
+ContraptionistBoots: {
+	DisplayName: Botas del Artefactista
+	Tooltip: Aumenta la velocidad de movimiento en un 15%
+}
+
+JellyGelmet: {
+	DisplayName: Casco Gelatinoso
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxSentriesBy}
+		Los golpes de centinela aplican {1} de daño de marca de esbirro
+		'''
+	Set:
+		'''
+		¡Pulsa W dos veces para invocar a [c/CE861A:{$SlimeGooberName}] para que resista la zona por ti!
+		Pulsa W dos veces para hacer volver a [c/CE861A:{$SlimeGooberName}]
+		'''
+	SlimeGooberName: Gellita Jr.
+
+	JellyBond: {
+		Title: Vínculo Gelatinoso
+		Description:
+			'''
+			- {$CommonItemTooltip.IncreasesMaxMinionsBy}
+			- {$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+			- La defensa aumenta en {1}
+			- [c/CE861A:{$SlimeGooberName}] tiene más daño y también arrojará trozos de gelatina volátil a los enemigos cercanos
+			'''
+	}
+}
+
+JellySlimeplate: {
+	DisplayName: Placa Viscosa de Gelatina
+	Tooltip:
+		'''
+		{$Common.PercentIncreasedSentryDamage}
+		{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+		'''
+}
+
+JellyWobblers: {
+	DisplayName: Tambaleantes de Gelatina
+	Tooltip: Mejora tu capacidad de salto
+}
+
+GravekeeperHood: {
+	DisplayName: Capucha del Sepulturero
+	Tooltip: Aumenta el daño de invocación en un 3%
+	Set:
+		'''
+		Aumenta tu número máximo de esbirros
+		Pulsa ARRIBA dos veces para transformarte en Polilla Etérea
+		Se recarga con el daño infligido por esbirros y con el tiempo
+		'''
+}
+
+GravekeeperJacket: {
+	DisplayName: Túnica del Sepulturero
+	Tooltip:
+		'''
+		Aumenta el daño de invocación en un 3%
+		Aumenta tu número máximo de esbirros
+		'''
+}
+
+GravekeeperLeggings: {
+	DisplayName: Pantalones del Sepulturero
+	Tooltip: Aumenta el daño de invocación en un 3%
+}
+
+WarlochSetItem: {
+	DisplayName: Armadura Warloch
+	Tooltip: ""
+}
+
+WarlochBreastplate: {
+	DisplayName: Peto Warloch
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
+		{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+		'''
+}
+
+WarlochHat: {
+	DisplayName: Sombrero Warloch
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
+		{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+		'El Rostro de las Profundidades'
+		'''
+	Set:
+		'''
+		Puedes atraer y devorar criaturas acuáticas usando tu látigo
+		Devorar otorga mejoras de daño y defensa
+		Tu presa se resalta en rojo
+		'''
+}
+
+WarlochLeggings: {
+	DisplayName: Pantalones Warloch
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+}
+
+CrabHelmet: {
+	DisplayName: Casco de Caparazón de Cangrejo
+	Tooltip: Aumenta el daño cuerpo a cuerpo pesado en un 12%
+	Set: Bloquea ataques cuerpo a cuerpo y reduce el daño de proyectiles recibido por la espalda
+}
+
+CrabBreastplate: {
+	DisplayName: Peto de Caparazón de Cangrejo
+	Tooltip: Aumenta la probabilidad de golpe crítico cuerpo a cuerpo pesado en un 6%
+}
+
+CrabLeggings: {
+	DisplayName: Patas de Cangrejo
+	Tooltip:
+		'''
+		Aumenta la velocidad de movimiento en un 10%
+		Mejora la movilidad bajo el agua
+		'''
+}
+
+StarRangerCoat: {
+	DisplayName: Abrigo de Guardabosques Estelar
+	Tooltip:
+		'''
+		Aumenta el daño a distancia en un 8%
+		25% de probabilidad de no consumir munición
+		'Adecuado para un guardián galáctico'
+		'''
+}
+
+StarRangerHat: {
+	DisplayName: Sombrero de Guardabosques Estelar
+	Tooltip:
+		'''
+		Aumenta el daño a distancia y la probabilidad de golpe crítico en un 8%
+		Aumenta la mana máxima en 60
+		'Adecuado para un guardián galáctico'
+		'''
+
+	GalacticallyAwesome: {
+		Title: ¡Galácticamente Asombroso!
+		Description: Convierte temporalmente todas las bonificaciones a distancia otorgadas por la armadura en bonificaciones mágicas. Reduce enormemente el consumo de mana y aumenta la velocidad de ataque de todas las armas mágicas. Además, activa inmediatamente [fx/mov:Sobrecarga de Mana].
+	}
+
+	Set:
+		'''
+		Restaura gradualmente la Estrella Destrozada al infligir daño con armas a distancia
+		Cuando esté completamente restaurada, usa un arma mágica para volverte [fx/mov:Galácticamente Asombroso]
+		'''
+}
+
+StarRangerPants: {
+	DisplayName: Pantalones de Guardabosques Estelar
+	Tooltip:
+		'''
+		Aumenta la velocidad de movimiento en un 15%
+		Aumenta la probabilidad de golpe crítico a distancia en un 8%
+		'Adecuado para un guardián galáctico'
+		'''
+}
+
+ArachnidLegs: {
+	DisplayName: Patas de Arácnido
+	Tooltip:
+		'''
+		Aumenta el daño de invocación en un 6%
+		Aumenta la velocidad de movimiento en un 10%
+		Aumenta en 1 tu número máximo de centinelas
+		'No son geniales para trepar por chorros de agua'
+		'''
+}
+
+StargazerHat: {
+	DisplayName: Sombrero del Observador de Estrellas
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMagicDamage}
+		{$Common.PercentIncreasedManaOverflow@1}
+		'''
+	Set:
+		'''
+		Tus movimientos gráciles emiten un magnífico polvo estelar que deslumbra a los enemigos cercanos
+		Durante [fx/mov:Sobrecarga de Mana], tus proyectiles también lo emitirán
+		'''
+}
+
+StargazerRobe: {
+	DisplayName: Túnica del Observador de Estrellas
+	Tooltip:
+		'''
+		Aumenta la mana máxima en 100
+		Reduce el uso de mana en un 20%
+		'''
+}
+
+PossessedHelmet: {
+	DisplayName: Casco Poseído
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		{$CommonItemTooltip.PercentIncreasedCritChance@1}
+		'''
+
+	Charge: {
+		Title: Silencioso
+		Description: Al recuperar o perder vida, carga la transformación en [fx/eb:Bestia del Silencio]. Durante esta, el personaje será inmune al daño y se curará si tiene poca vida.
+	}
+
+	Set:
+		'''
+		La regeneración de vida aumenta mientras [fx/eb:Vínculo Etéreo] está activo
+		Pulsa W dos veces para transformarte en una calavera embistiente
+		'''
+}
+
+PossessedBreastplate: {
+	DisplayName: Peto Poseído
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		Aumenta el daño etéreo en un {1}%
+		'''
+}
+
+PossessedLeggings: {
+	DisplayName: Pantalones Poseídos
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+}
+
+TectonicHelmet: {
+	DisplayName: Casco Tectónico
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
+	Set: Al matar enemigos, deja caer Bombas de Cinabrio explosivas
+}
+
+TectonicBreastplate: {
+	DisplayName: Peto Tectónico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		Aumenta la velocidad de ataque en un {1}%
+		'''
+}
+
+TectonicLeggings: {
+	DisplayName: Pantalones Tectónicos
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+}
+
+RimebreakerHelmet: {
+	DisplayName: Casco Rompehielo
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMeleeDamage}"
+	Set:
+		'''
+		¡Invoca a un [c/7AE5FF:Eco Glacial] para que clave su espada helada en los enemigos mientras atacas!
+		Cada vez que inflige daño a los enemigos, obtienes una carga de [c/7AE5FF:Rompehielo]
+		'''
+
+	Icebreak: {
+		Title: Rompehielo
+		Description: Cada carga aumenta enormemente el daño cuerpo a cuerpo pesado y la probabilidad de golpe crítico, pero se reinicia con el siguiente golpe. Al alcanzar 6 cargas, la mejora se transforma en [c/7AE5FF:Golpe Épico], que además duplica el daño infligido en el siguiente ataque.
+	}
+}
+
+RimebreakerBreastplate: {
+	DisplayName: Placa de Hielo Rompehielo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed}
+		Los enemigos tienen más probabilidad de atacarte a ti
+		'''
+}
+
+RimebreakerLeggings: {
+	DisplayName: Pantalones Rompehielo
+	Tooltip: "'¿Tienes los pies fríos?'"
+}
+
+# Armor: Bewitched Hats
+WitchAmethystHat: {
+	DisplayName: Sombrero de Amatista
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMagicDamage}
+		{$Common.PercentIncreasedManaOverflow@1}
+		'''
+	CommonSet: Tus pasos encienden Llamas Hechizadas bajo tus pies
+	Set:
+		'''
+		{$CommonSet}
+		Probabilidad de restaurar [fx/mof:Desbordamiento de Mana] cuando los enemigos reciben daño de las Llamas
+		'''
+}
+
+WitchDiamondHat: {
+	DisplayName: Sombrero de Diamante
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Las Llamas tendrán una mayor probabilidad de golpe crítico
+		'''
+}
+
+WitchEmeraldHat: {
+	DisplayName: Sombrero de Esmeralda
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Los enemigos se envenenan al pisar las Llamas
+		'''
+}
+
+WitchRubyHat: {
+	DisplayName: Sombrero de Rubí
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Probabilidad de restaurar Vida cuando los enemigos reciben daño de las Llamas
+		'''
+}
+
+WitchSapphireHat: {
+	DisplayName: Sombrero de Zafiro
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Probabilidad de restaurar Mana cuando los enemigos reciben daño de las Llamas
+		'''
+}
+
+WitchTopazHat: {
+	DisplayName: Sombrero de Topacio
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Los enemigos se queman al pisar las Llamas
+		'''
+}
+
+WitchAmberHat: {
+	DisplayName: Sombrero de Ámbar
+	Tooltip: "{$WitchAmethystHat.Tooltip}"
+	Set:
+		'''
+		{$WitchAmethystHat.CommonSet}
+		Los enemigos se queman durante mucho tiempo al pisar las Llamas
+		'''
+}
+
+# Food
+Kebab: {
+	DisplayName: Kebab
+	Tooltip:
+		'''
+		Otorga regeneración de vida
+		Eres una persona horrible.
+		'''
+}
+
+DietzNuts: {
+	DisplayName: Las Nueces de Dietz
+	Tooltip: Pequeñas mejoras a todas las estadísticas
+}
+
+# Potions
+AnxiousnessPotion: {
+	DisplayName: Poción de Ansiedad
+	Tooltip:
+		'''
+		Aumenta temporalmente el daño en un 10% mientras el jugador se mueve
+		Disminuye el daño al quedarte quieto.
+		'''
+}
+
+AttractionPotion: {
+	DisplayName: Poción de Atracción
+	Tooltip: Aumenta temporalmente el alcance de recogida de todos los objetos durante 5 minutos
+}
+
+GreaterStrangeBrew: {
+	DisplayName: Brebaje Más Extraño
+	Tooltip:
+		'''
+		{$SideEffects}
+		'Se ve y huele... ligeramente mejor que antes.'
+		'''
+	SideEffects:
+		'''
+		Los efectos secundarios pueden incluir:
+		- Curación aún más impredecible
+		- Enfermedad de Poción Caótica
+		- Períodos constantes de invulnerabilidad inexplicable
+		'''
+	RestoreHealthRange: Restaura entre {0} y {1} de vida
+}
+
+GreatestStrangeBrew: {
+	DisplayName: Brebaje Extrañísimo
+	Tooltip:
+		'''
+		{$GreaterStrangeBrew.SideEffects}
+		'¡Deja de mirarlo y olerlo, y solo bébetelo!'
+		'''
+}
+
+DiligencePotion: {
+	DisplayName: Poción de Diligencia
+	Tooltip: Aumenta la velocidad de ataque de esbirros en un 10%
+}
+
+GelidHealingPotion: {
+	DisplayName: Poción Curativa Gélida
+	Tooltip: Restaura 100 de vida adicional con el tiempo
+}
+
+LesserGelidHealingPotion: {
+	DisplayName: Poción Curativa Gélida Menor
+	Tooltip: Restaura 75 de vida adicional con el tiempo
+}
+
+PurifyingPotion: {
+	DisplayName: Poción Purificante
+	Tooltip: Otorga inmunidad temporal a la mayoría de los efectos negativos, pero provoca Enfermedad de Poción
+}
+
+GelidManaPotion: {
+	DisplayName: Poción de Mana Gélida
+	Tooltip: Aumenta la bonificación de [fx/mof:Desbordamiento de Mana] en {0}
+}
+
+# Accessories
+BubbleShield: {
+	DisplayName: Escudo de Burbuja
+	Tooltip:
+		'''
+		Infligir daño hace crecer una burbuja protectora alrededor del jugador
+		'Es muy bene-pez-icioso'
+		'''
+
+	Shield: {
+		Title: Burbuja Protectora
+		Description: Al recibir un golpe, absorbe daño y libera burbujas que dañan a los enemigos cercanos. Al reventar, entra en enfriamiento de hasta 9 segundos, dependiendo de la fuerza del escudo.
+	}
+}
+
+JellyShield: {
+	DisplayName: Escudo de Gelatina
+	Tooltip:
+		'''
+		Libera periódicamente gelatina volátil que daña a los enemigos
+		La mayoría de los babosos se vuelven amistosos
+		Potencia enormemente el set [c/CE861A:Armadura de Gelatina] al usarse en conjunto
+		'''
+}
+
+MementoVivere: {
+	DisplayName: Memento Vivere
+	Tooltip:
+		'''
+		La legendaria Espada del Dragón cortará periódicamente a los enemigos
+		Inflige daño cuerpo a cuerpo pesado y aumenta la defensa de tu arma en un 100%
+		'Ve y vive...'
+		'''
+}
+
+# Accessories: Magic
+DiscourteosFullMoon: {
+	DisplayName: Luna Llena de Discourteos
+	Tooltip: Aumenta la probabilidad de golpe crítico mágico en un {0}% / {1}% / {2}% al alternar entre diferentes armas
+}
+
+DiscourteosNewMoon: {
+	DisplayName: Luna Nueva de Discourteos
+	Tooltip:
+		'''
+		{$MainTooltip@1}
+		{$PrimordialEbonstone.BonusOverflowTooltip}
+		'''
+	MainTooltip:
+		'''
+		Recoger Estrellas de Mana recupera [fx/mof:{0} de Desbordamiento de Mana]
+		Evita que otros jugadores que no sean magos recojan Estrellas de Mana
+		'''
+}
+
+PrimordialEbonstone: {
+	DisplayName: Ebonita Primordial
+	Tooltip:
+		'''
+		{$MainTooltip}
+		{$BonusOverflowTooltip}
+		'''
+	MainTooltip: "[fx/mof:El Desbordamiento de Mana] se regenerará naturalmente al atacar enemigos"
+	BonusOverflowTooltip: +{0} de desbordamiento de mana adicional
+}
+
+LunarSmirkCharm: {
+	DisplayName: Amuleto de la Sonrisa Lunar
+	Tooltip:
+		'''
+		{$DiscourteosFullMoon.Tooltip@1}
+		{$PrimordialEbonstone.MainTooltip}
+		{$DiscourteosNewMoon.MainTooltip@4}
+		{$PrimordialEbonstone.BonusOverflowTooltip}
+		'Hacemos un poco de desbordamiento'
+		'''
+}
+
+MoonRock: {
+	DisplayName: Roca Lunar
+	Tooltip:
+		'''
+		{$ShortTip}
+		Otorga mejoras a los jugadores cercanos cuando está cargada
+		'''
+	ShortTip: Activar [fx/mov:Sobrecarga de Mana] invocará una Rueda Lunar
+
+	MoonWheel: {
+		Title: Rueda Lunar
+		Description:
+			'''
+			Cuando cualquier jugador u otra entidad inflige daño, un fragmento alineado con esa clase se iluminará y otorgará las siguientes mejoras al activarse:
+			- [c/{3}:Magia]: aumenta la regeneración de vida
+			- [c/{4}:A Distancia]: +{1} de velocidad de movimiento
+			- [c/{5}:Invocación]: +{2} de velocidad de ataque
+			- [c/{6}:Cuerpo a Cuerpo]: +{0} de defensa
+			'''
+	}
+}
+
+MoonHand: {
+	DisplayName: Mano Lunar
+	Tooltip:
+		'''
+		Aumenta la velocidad de ataque mágico mientras [fx/mov:Sobrecarga de Mana] está activa
+		'No me creas, solo mira'
+		'''
+}
+
+NightoSphere: {
+	DisplayName: Noche-o-Esfera
+	Tooltip:
+		'''
+		{$MoonRock.ShortTip}, otorgando mejoras a los jugadores cercanos
+		{$MoonHand.Tooltip}
+		{$DiscourteosFullMoon.Tooltip@1}
+		{$PrimordialEbonstone.MainTooltip}
+		{$DiscourteosNewMoon.MainTooltip@4}
+		{$PrimordialEbonstone.BonusOverflowTooltip}
+		'''
+}
+
+CelestialGlobe: {
+	DisplayName: Globo Celestial
+	Tooltip:
+		'''
+		{$MoonRock.ShortTip}, otorgando mejoras a los jugadores cercanos
+		{$MoonHand.Tooltip}
+		{$DiscourteosFullMoon.Tooltip@1}
+		{$PrimordialEbonstone.MainTooltip}
+		{$DiscourteosNewMoon.MainTooltip@4}
+		Aumenta estadísticas y permite las transformaciones de Sirénido / Hombre Lobo
+		{$PrimordialEbonstone.BonusOverflowTooltip}
+		'Pero ahora el cielo es de opalita...'
+		'''
+}
+
+# Accessoriers: Summoner
+BrightstoneChunk: {
+	DisplayName: Trozo de Piedra Brillante
+	Tooltip:
+		'''
+		{$RawTooltip}
+		Si tienes menos de 2 espacios de esbirro o centinela, los aumenta en 1
+		'''
+	RawTooltip:
+		'''
+		Durante la noche, aumenta la velocidad de los esbirros en un {0}%
+		Durante el día, el daño de los centinelas aumenta en un {1}%
+		'''
+}
+
+AlluringSkull: {
+	DisplayName: Calavera Seductora
+	Tooltip:
+		'''
+		{$BrightstoneChunk.RawTooltip}
+		Aumenta la capacidad de esbirros y centinelas en 1
+		'''
+}
+
+AvengerMask: {
+	DisplayName: Máscara del Vengador
+	Tooltip: Al caer por debajo del {0}% de vida, aumenta temporalmente la velocidad de látigo y esbirros en un {1}%
+}
+
+SagesHead: {
+	DisplayName: Cabeza del Sabio
+	Tooltip:
+		'''
+		Aumenta la defensa en {0} por cada centinela invocado
+		Aumenta el daño de invocación en un {1}% por cada esbirro invocado
+		'''
+}
+
+MaskOfEvil: {
+	DisplayName: Máscara del Mal
+	Tooltip:
+		'''
+		Aumenta el daño de invocación, la velocidad de ataque y la velocidad de látigo en un {0}% por cada esbirro o centinela invocado
+		Mientras estés por debajo del {1}% de vida, estas bonificaciones se duplican
+		'''
+}
+
+MalachiteCasket: {
+	DisplayName: Caja de Malaquita
+	Tooltip:
+		'''
+		{$MaskOfEvil.Tooltip}
+		{$AlluringSkull.Tooltip@2}
+		Aumenta el retroceso de tus esbirros y el daño de invocación en un {4}%
+		{$CommonItemTooltip.IncreasesMaxMinionsBy@5}
+		'''
+}
+
+Starshroom: {
+	DisplayName: Hongo Estelar
+	Tooltip:
+		'''
+		Planta un campo de hongos curativos alrededor de tus centinelas
+		{$Common.PercentIncreasedSentryDamage}
+		'''
+}
+
+BrokenOverclocker: {
+	DisplayName: Sobreacelerador Roto
+	Tooltip:
+		'''
+		Te permite azotar a tus centinelas con el látigo para sobreacelerarlos
+		Los centinelas sobreacelerados disparan un 50% más rápido
+		'''
+}
+
+ClockworkShield: {
+	DisplayName: Escudo de Relojería
+	Tooltip:
+		'''
+		{$BrokenOverclocker.Tooltip}
+		{$CommonItemTooltip.IncreasesMaxSentriesBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
+}
+
+MyceliumFortress: {
+	DisplayName: Fortaleza de Micelio
+	Tooltip:
+		'''
+		{$Starshroom.Tooltip}
+		{$ClockworkShield.Tooltip@1}
+		'''
+}
+
+# Accessories: Vanity
+PhantomHat: {
+	DisplayName: Sombrero Fantasma
+	Tooltip: ¡Le da a tu montura un elegante sombrero para llevar!
+
+	Masquerade: {
+		Title: Mascarada
+		Description: Haz clic derecho con un sombrero o casco para que el Sombrero Fantasma lo imite.
+		Wear: Actualmente, tu montura llevará {0}.
+	}
+}
+
+# Tiles: Misc
+AgateGrapplePoint: {
+	DisplayName: Punto de Enganche de Ágata
+	Tooltip:
+		'''
+		Se puede enganchar a través de bloques
+		'Con un gran poder...'
+		'''
+}
+
+JadeGrapplePoint: {
+	DisplayName: Punto de Enganche de Jade
+	Tooltip:
+		'''
+		Se puede enganchar a través de bloques
+		'Con un gran poder...'
+		'''
+}
+
+TourmalineGrapplePoint: {
+	DisplayName: Punto de Enganche de Turmalina
+	Tooltip:
+		'''
+		Se puede enganchar a través de bloques
+		'Con un gran poder...'
+		'''
+}
+
+TectonicGrapplePoint: {
+	DisplayName: Punto de Enganche Tectónico
+	Tooltip:
+		'''
+		Se puede enganchar a través de bloques
+		'Con un gran poder...'
+		'''
+}
+
+# Tiles: Paintings
+Hunchback: {
+	DisplayName: Jorobado
+	Tooltip: "'¿Cómodo?'"
+}
+
+# Weapons: Racquets
+
+/* Temporary text edit, terraria doesn't render blank lines. */
+CommonTooltip.RacquetSlash: ""
+
+BeeRacquet: {
+	DisplayName: Raqueta de Abejminton
+	Tooltip:
+		'''
+		Invoca una bola de colmena que se puede lanzar
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+Chilblain: {
+	DisplayName: Sabañón
+	Tooltip:
+		'''
+		Invoca 3 bolas de escarcha que se pueden lanzar
+		Las bolas de escarcha acumulan frío y se hacen añicos al ser golpeadas
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+Crabquet: {
+	DisplayName: Cangrejoqueta
+	Tooltip:
+		'''
+		Invoca tres burbujas que se pueden lanzar
+		Las burbujas tienen probabilidad de explotar
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+EnchantedRacquet: {
+	DisplayName: Raqueta Encantada
+	Tooltip:
+		'''
+		Invoca una bola mágica que se puede lanzar
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+Fartcquet: {
+	DisplayName: Raqueta Apestosa
+	Tooltip:
+		'''
+		Invoca una bola apestosa que se puede lanzar
+		{$CommonTooltip.RacquetSlash}
+		'¿Pero por qué?'
+		'''
+}
+
+Hyperboloid: {
+	DisplayName: Hiperboloide
+	Tooltip:
+		'''
+		Invoca 3 orbes eléctricos que se pueden lanzar
+		Los enemigos cercanos son alcanzados por rayos
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+Instigator: {
+	DisplayName: Instigador
+	Tooltip:
+		'''
+		Invoca 3 bolas de fuego que se pueden lanzar
+		Las bolas de fuego explotan al impactar
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+NitroRacquet: {
+	DisplayName: Raqueta de Nitro
+	Tooltip:
+		'''
+		Invoca 3 bolas de fuego pixeladas que se pueden lanzar
+		Una de las bolas se dividirá en 6 al golpear a un enemigo
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+RacquetOfCthulhu: {
+	DisplayName: La Llamada de Cthulhu
+	Tooltip:
+		'''
+		Invoca un ojo que se puede lanzar
+		Caer por debajo del 50% de vida hace que el ojo embista a los enemigos cercanos
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+RibRacquet: {
+	DisplayName: Raqueta de Costillas
+	Tooltip:
+		'''
+		Invoca dos bolas de marfil que se pueden lanzar y atraviesan enemigos
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+SawRacquet: {
+	DisplayName: Modo Malicia
+	Tooltip:
+		'''
+		Invoca dos sierras que se pueden lanzar y atraviesan enemigos
+		Capaz de infligir daño varias veces
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+Terracquet: {
+	DisplayName: Terraqueta
+	Tooltip:
+		'''
+		Invoca cuatro margaritas que se pueden lanzar
+		Las flores liberan pétalos coloridos
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+WoodenRacquet: {
+	DisplayName: Raqueta de Madera
+	Tooltip:
+		'''
+		Invoca una bola que se puede lanzar
+		{$CommonTooltip.RacquetSlash}
+		'''
+}
+
+# Weapons: Magic
+AstralMayhem: {
+	DisplayName: Caos Astral
+	Tooltip: ""
+}
+
+BlazingRiff: {
+	DisplayName: Riff Ardiente
+	Tooltip: Ataque cargado a distancia
+}
+
+BloodyStream: {
+	DisplayName: Corriente Sangrienta
+	Tooltip: Dispara proyectiles serpenteantes autodirigidos que atraviesan enemigos
+}
+
+ColdFront: {
+	DisplayName: Frente Frío
+	Tooltip: Dispara rayos helados de diversas formas
+}
+
+EyeOfBelial: {
+	DisplayName: Ojo de Belial
+	Tooltip: Dispara una ráfaga de estrellas llameantes con gran dispersión
+}
+
+EyeOfColossus: {
+	DisplayName: Ojo del Coloso
+	Tooltip: ""
+}
+
+FrostflakeFan: {
+	DisplayName: Abanico de Copos Helados
+	Tooltip:
+		'''
+		Mantén presionado para crear un remolino helado que succiona a los enemigos y objetos cercanos
+		'¡Abraza el hielo!'
+		'''
+}
+
+Galaxia: {
+	DisplayName: Galaxia
+	Tooltip:
+		'''
+		¡Incinera a los enemigos con rayos multicolores!
+		Cada 5to disparo es una ráfaga de escopeta prismática
+		'''
+}
+
+KillerWand: {
+	DisplayName: Varita Asesina
+	Tooltip:
+		'''
+		Sopla burbujas
+		[c/ffa500:<right>] para hacerlas explotar a distancia
+		'''
+}
+
+Landcrusher: {
+	DisplayName: Isla de Pascua
+	Tooltip: Hace llover rocas
+}
+
+TearfulScepter: {
+	DisplayName: Cetro Lloroso
+	Tooltip:
+		'''
+		Dispara Rayos de Lágrima adicionales cuando la mana supera el 75%
+		'¡Me estás destrozando!'"
+		'''
+}
+
+MassDestructionOld: {
+	DisplayName: Destrucción Masiva
+	Tooltip: "'¡Este rayo es el rayo que atravesará los cielos!'"
+}
+
+MonolithTome: {
+	DisplayName: Tomo del Monolito
+	Tooltip:
+		'''
+		Lanza pesados rayos de escudo a corta distancia
+		Cada tercer golpe invocará un Escudo Mágico
+		'''
+
+	Shield: {
+		Title: Escudo Mágico
+		Description:
+			'''
+			Reduce el daño recibido y otorga los efectos de
+			[i:554] [c/FFF014:Collar de la Cruz], [i:156] [c/FFF014:Escudo de Cobalto] a los jugadores dentro del alcance. Se consumirá al recibir daño y restaurará [c/327DFF:Mana] a su dueño.
+			'''
+	}
+}
+
+Overtaker: {
+	DisplayName: Rebasador
+	Tooltip:
+		'''
+		Comanda una Formación Celestial de espadas para aniquilar enemigos
+		<right> para invocar una espada adicional, aumentando el costo de mana
+		'''
+
+	NightState: {
+		Title: Anochecer
+		Description: Al cambiar de arma con espadas invocadas activas, hasta 3 espadas de Anochecer permanecerán para atacar enemigos de forma pasiva y restaurar Mana junto con [fx/mof:Desbordamiento de Mana] adicional.
+	}
+}
+
+PatromancerTome: {
+	DisplayName: Tomo de Patromancia
+	Tooltip: Dispara un chorro de fuego arcoíris, infligiendo efectos negativos aleatorios al golpear
+}
+
+SwarmOfWrath: {
+	DisplayName: Enjambre de la Ira
+	Tooltip: ""
+}
+
+TheConstellation: {
+	DisplayName: Constelador
+	Tooltip:
+		'''
+		'Estrellas Fugaces'
+		Aumenta la probabilidad de golpe crítico durante la noche
+		'''
+}
+
+TrueColor: {
+	DisplayName: Verdadero Color
+	Tooltip: "'Nunca olvides mostrar tu verdadero color'"
+}
+
+TomeofDarkPyromancy: {
+	DisplayName: Tomo de Piromancia Oscura
+	Tooltip: Lanza un chorro de llamas sombrías
+}
+
+TomeofPyromancy: {
+	DisplayName: Tomo de Piromancia
+	Tooltip: Lanza un chorro de fuego
+}
+
+Highlighter: {
+	DisplayName: Resaltador
+	Tooltip: Desata un trío de explosiones que atacan a una distancia fija
+}
+
+PointofView: {
+	DisplayName: Punto de Vista
+	Tooltip: Ataca a una distancia fija
+}
+
+DeadMansSaw: {
+	DisplayName: Sierra del Hombre Muerto
+	Tooltip:
+		'''
+		Lanza una Sierra Oscilante en miniatura que se adhiere a los enemigos
+		Golpear a un enemigo con una sierra adherida restaurará mana con un tiempo de reutilización
+		Además restaurará el Desbordamiento de Mana
+		Solo pueden existir 3 sierras en enemigos a la vez
+		'''
+}
+
+TraitorsRequiem: {
+	DisplayName: Réquiem del Traidor
+	Tooltip: Ataca a distancia
+}
+
+AnthemOfWar: {
+	DisplayName: Himno de Guerra
+	Tooltip: Ataca a distancia
+}
+
+SongOfTheSiren: {
+	DisplayName: Canción de la Sirena
+	Tooltip: Ataca a distancia
+}
+
+CrabCannon: {
+	DisplayName: Cañón de Cangrejos
+	Tooltip:
+		'''
+		Dispara Cangrejos Mina que se aferrarán a los enemigos
+		¡Pulsa <right> para ordenarles que detonen!
+		'''
+}
+
+RazzleDazzle: {
+	DisplayName: Deslumbrante
+	Tooltip:
+		'''
+		Fulmina a los enemigos en línea de visión con láseres de Esmeralda
+		Dispara más rápido cuando hay muchos enemigos
+		'''
+}
+
+AmberCandelabra: {
+	DisplayName: Candelabro de Ámbar
+	Tooltip: ""
+}
+
+AmethystCandelabra: {
+	DisplayName: Candelabro de Amatista
+	Tooltip: ""
+}
+
+DiamondCandelabra: {
+	DisplayName: Candelabro de Diamante
+	Tooltip: ""
+}
+
+EmeraldCandelabra: {
+	DisplayName: Candelabro de Esmeralda
+	Tooltip: ""
+}
+
+RubyCandelabra: {
+	DisplayName: Candelabro de Rubí
+	Tooltip: ""
+}
+
+SapphireCandelabra: {
+	DisplayName: Candelabro de Zafiro
+	Tooltip: ""
+}
+
+TopazCandelabra: {
+	DisplayName: Candelabro de Topacio
+	Tooltip: ""
+}
+
+ShadowScepter: {
+	DisplayName: Cetro de las Sombras
+	Tooltip:
+		'''
+		Libera una ráfaga de rayos sombríos
+		Clic derecho para colocar un Tótem de las Sombras en el suelo
+		El tótem otorgará mejoras a los jugadores cercanos
+		'''
+
+	SecretOfShadows: {
+		Title: Secreto de las Sombras
+		Description: Aumenta la regeneración de mana; restaura mana periódicamente poco después de infligir daño mágico mientras estés dentro del radio.
+	}
+}
+
+FirecasterScepter: {
+	DisplayName: Cetro del Piromante
+	Tooltip:
+		'''
+		Dispara bolas de fuego que incendian a los enemigos
+		Clic derecho para colocar un Tótem Llameante en el suelo
+		El tótem otorgará mejoras a los jugadores cercanos
+		'''
+
+	Blessing: {
+		Title: Bendición del Piromante
+		Description: Aumenta todas las estadísticas de los aliados dentro del radio.
+	}
+}
+
+SnowHalation: {
+	DisplayName: Halo de Nieve
+	Tooltip:
+		'''
+		Libera una ráfaga de rayos de nieve autodirigidos
+		Clic derecho para colocar un Tótem Polar
+		El tótem otorgará mejoras a los jugadores cercanos
+		'''
+
+	Blessing: {
+		Title: Combatiendo el Frío
+		Description: Aumenta la penetración de armadura de los aliados dentro del radio.
+	}
+}
+
+# Weapons: Ranged
+Musketron: {
+	DisplayName: Musketrón
+	Tooltip: Mantén presionado el clic derecho para desatar un ataque especial
+
+	SpinToWin: {
+		Title: Gira para Ganar
+		Description: Mantén presionado el clic derecho y gira el cursor para acumular impulso, luego suéltalo en el momento justo para desatar una ráfaga de huesos espectrales. Tiene un tiempo de reutilización de {0} segundos.
+	}
+}
+
+SupportGun: {
+	DisplayName: Intercambiador
+	Tooltip: Crea un aura que te otorga mejoras a ti y a los aliados cercanos.
+
+	SupportRelay: {
+		Title: Relevo de Apoyo
+		Description: Se activa al golpear a un enemigo y otorga mejoras a los aliados cercanos. Clic derecho para cambiar el efecto de apoyo entre los tres disponibles. El aura persiste al cambiar de arma, pero drenará mana de forma pasiva.
+	}
+
+	ProtocolRed: {
+		Title: Protocolo: Rojo
+		Description: Aumenta la regeneración de vida de los aliados cercanos.
+	}
+
+	ProtocolYellow: {
+		Title: Protocolo: Amarillo
+		Description: Aumenta todo el daño infligido y la probabilidad de golpe crítico de los aliados cercanos.
+	}
+
+	ProtocolBlue: {
+		Title: Protocolo: Azul
+		Description: Aumenta en 6 la defensa de los aliados cercanos.
+	}
+}
+
+EchoOfParadise: {
+	DisplayName: Ecos del Paraíso
+	Tooltip: <right> para aplicar el efecto [c/FF7F50:Ruina Temporal] a todas las armas a distancia
+
+	TimeRuin: {
+		Title: Ruina Temporal
+		Description: Convierte la probabilidad de golpe crítico en un aumento de velocidad de ataque.
+	}
+}
+
+Drizzle: {
+	DisplayName: Llovizna
+	Tooltip:
+		'''
+		Cubre a los enemigos con una lluvia de flechas de agua en arco
+		Las flechas explotan en más flechas y absorben efectos negativos de los enemigos
+		'''
+}
+
+Precipitation: {
+	DisplayName: Precipitación
+	Tooltip:
+		'''
+		Cubre a los enemigos con una tormenta de Flechas de Agua
+		Las Flechas de Agua explotan periódicamente en gotas de agua e infligen un fuerte daño en área
+		'''
+}
+
+# Weapons: Melee
+WingedSpear: {
+	DisplayName: Lanza Alada
+	Tooltip:
+		'''
+		Atraviesa a los enemigos con una poderosa corriente de agua
+		Aumenta la velocidad de ataque por cada mejora que tengas
+		'''
+}
+
+PoisonBreak: {
+	DisplayName: Ruptura Venenosa
+	Tooltip:
+		'''
+		Diseca a los enemigos con una ráfaga de saliva venenosa
+		Aumenta la velocidad de ataque por cada efecto negativo que tenga el enemigo
+		'''
+}
+
+Hellgaze: {
+	DisplayName: Mirada Infernal
+	Tooltip: Recibe daño para invocar hasta 6 Latidos Ardientes
+
+	Notes: {
+		Title: Latidos Ardientes
+		Description: Orbitan alrededor del jugador e infligen daño a los enemigos. Aumentan pasivamente la regeneración, la velocidad cuerpo a cuerpo y la defensa por cada nota. Al cambiar fuera de Mirada Infernal, restauran {0} de vida por cada Latido Ardiente, consumiéndolos.
+	}
+}
+
+Onyxx: {
+	DisplayName: Ónice
+	Tooltip: Se divide en dos espectros rebotantes al golpear a un enemigo
+}
+
+Ballistick: {
+	DisplayName: Balístico
+	Tooltip:
+		'''
+		Inflige daño adicional a los enemigos en llamas
+		[c/db7093:<right>] para embestir
+		'''
+}
+
+Chikage: {
+	DisplayName: Chikage
+	Tooltip:
+		'''
+		<right> para realizar una embestida sangrienta
+		El tiempo de reutilización se reinicia al matar a un enemigo
+		'''
+}
+
+Windfall: {
+	DisplayName: Golpe de Suerte
+	Tooltip:
+		'''
+		Clic derecho para caer en picada contra el suelo, creando una poderosa explosión
+		Golpear enemigos convertirá {0} de vida en [fx/eb:Vínculo Etéreo]
+		Al llenarlo, haz clic derecho para lanzar un ataque especial...
+		'''
+
+	SpecialPlunge: {
+		Title: Eón de la Disolución
+		Description: Tras caer en picada, te transformas en una Polilla de Cristal, infligiendo daño etéreo cuerpo a cuerpo a los enemigos cercanos y consumiendo el [fx/eb:Vínculo Etéreo] para restaurar la vida drenada.
+	}
+}
+
+# Weapons: Heavy Melee
+ThornyGreatsword: {
+	DisplayName: Mandoble Espinoso
+	Tooltip:
+		'''
+		Tiene probabilidad de envenenar a los enemigos al golpear
+		Golpear a enemigos envenenados liberará espinas dañinas
+		'''
+}
+
+TheArchitect: {
+	DisplayName: El Arquitecto
+	Tooltip:
+		'''
+		Ataca los Fragmentos Arcaicos para lanzarlos contra los enemigos
+		'¡Tendré orden!'
+		'''
+
+	ArchaicShards: {
+		Title: Fragmentos Arcaicos
+		Description: Golpear enemigos con armas cuerpo a cuerpo pesadas mientras El Arquitecto está en la barra de acceso rápido creará periódicamente [c/{0}:Fragmentos Arcaicos]. Desvíalos para infligir daño colosal.
+	}
+}
+
+ShatteringDesignItem: {
+	DisplayName: Diseño Fragmentador
+	Tooltip:
+		'''
+		Al golpear enemigos o bloques con el tercer golpe pesado, entra en el estado [c/1e90ffff:Llamarada Lunar].
+		Durante este estado, todos los ataques se vuelven más poderosos.
+		Cuando termina, se administrará el [c/1e90ffff:Juicio Fragmentador]...
+		'''
+}
+
+Solstice: {
+	DisplayName: Solsticio
+	Tooltip: Acumula [c/e69138:ignición] para desatar ataques poderosos.
+
+	Ignition: {
+		Title: Ignición
+		Description: Se obtiene al atacar enemigos normalmente. Cuando el indicador de llama esté lleno, haz clic derecho para entrar en la [c/ff5a00:postura especial].
+	}
+
+	SpecialStance: {
+		Title: Postura Especial
+		Description: Presiona cualquiera de los botones del ratón para consumir la [c/ffb000:Ignición] y lanzar [c/ff5a00:Matriz del Vacío] o [c/ff5a00:Ápice Solar].
+	}
+
+	VoidArray: {
+		Title: Matriz del Vacío
+		Description: Carga tres golpes, cada uno invoca múltiples cuchillos autodirigidos que infligen [c/ff5a00:200 de daño crítico]. Aplica [c/ffb000:Resplandor Solar] durante 6 segundos.
+	}
+
+	SolarApex: {
+		Title: Ápice Solar
+		Description: Embiste hacia adelante, creando un sol oscuro que explota e inflige [c/ff5a00:3000 de daño crítico] en un área enorme. Aplica [c/ffb000:Resplandor Solar] durante 12 segundos y tiene un tiempo de reutilización de 12 segundos.
+	}
+
+	SolarRadiance: {
+		Title: Resplandor Solar
+		Description: Mejora el combo de ataque normal, desatando ondas de hojas a distancia. Mientras esté activo, contará como [c/ff5a00:modo de ráfaga].
+	}
+}
+
+AncientSolstice: {
+	DisplayName: Solsticio Ancestral
+	Tooltip: ""
+}
+
+EccentricScissors: {
+	DisplayName: Tijeras Excéntricas
+	Tooltip:
+		'''
+		<right> para parar ataques enemigos
+		Parar en el momento perfecto liberará una onda expansiva y mejorará los siguientes golpes
+		'''
+}
+
+QliphothCutter: {
+	DisplayName: Cortador Qliphoth
+	Tooltip:
+		'''
+		Cada cuarto golpe cortará un serpenteante rayo solar hacia los enemigos
+		<right> para parar ataques enemigos
+		Parar en el momento perfecto liberará una onda expansiva y mejorará los siguientes golpes
+		'''
+}
+
+# Weapons: Whips
+Sparky: {
+	DisplayName: Chispitas
+	Tooltip:
+		'''
+		Los esbirros invocados generan un rayo en cadena al golpear al enemigo marcado
+		'... Y su música era eléctrica.'
+		'''
+}
+
+CrabWhip: {
+	DisplayName: Látigo de Langosta
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		Golpear a un enemigo puede producir un Corazón de Cangrejo que aumenta el daño infligido
+		'Bajo el mar'
+		'''
+}
+
+BlueCrabWhip: {
+	DisplayName: Látigo de Langosta Azul
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		Golpear a un enemigo puede producir un Corazón de Cangrejo que reduce el daño recibido
+		'¿Crustáceos fritos? Lloré de frustración'
+		'''
+}
+
+AfterlifeAnchor: {
+	DisplayName: Ancla del Más Allá
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		Puede mejorar el daño de marca a [fx/eb:Deuda de Vida] a costa de la vida del jugador
+		Aumentará el daño de marca en {1} y la probabilidad de golpe crítico de los esbirros en un {2}%
+		Si un esbirro asesta un golpe crítico, se restaura vida al jugador
+		'Quizás en otra vida...'
+		'''
+}
+
+StrandedWhip: {
+	DisplayName: Látigo Varado
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		Golpear enemigos aumenta la velocidad de los esbirros en un {1}%
+		Cuando los esbirros golpean al enemigo a corta distancia, el aumento de velocidad se duplica
+		Además, obtienen un {2}% de aumento en la probabilidad de golpe crítico
+		'''
+}
+
+# Weapons: Sentries
+ArachnidRod: {
+	DisplayName: Vara Arácnida
+	Tooltip:
+		'''
+		Invoca un Aracni-cañón para disparar proyectiles de telaraña a tus enemigos
+		Esparce telaraña dañina en el suelo al impactar con un enemigo o bloque
+		'''
+}
+
+SmartStick: {
+	DisplayName: Vara Inteligente
+	Tooltip: Invoca un centinela Grieta Cuántica que dispara relámpagos en cadena a tus enemigos
+}
+
+VinemongerStaff: {
+	DisplayName: Vara del Vendedor de Enredaderas
+	Tooltip:
+		'''
+		¡Invoca un centinela de planta carnívora de tres cabezas para masticar a tus enemigos!
+		Inflige daño aumentado a los zombis
+		'No queremos zombis en el jardín'
+		'''
+}
+
+FungusRod: {
+	DisplayName: Vara de Hongo
+	Tooltip:
+		'''
+		¡Invoca al Gran Hongo para golpear lentamente a los enemigos cercanos con sus puños!
+		Los enemigos golpeados se debilitan e infligen menos daño
+		'¡Hongueado!'
+		'''
+}
+
+AlbedoRod: {
+	DisplayName: Vara de Albedo
+	Tooltip:
+		'''
+		Invoca un centinela de cristal de Albedo que ataca rápidamente a enemigos aleatorios
+		'Cenizas a las cenizas, polvo al polvo...'
+		'''
+}
+
+SprinklerRod: {
+	DisplayName: Vara Aspersora
+	Tooltip:
+		'''
+		Invoca un centinela Nube Aspersora para regar a los enemigos cercanos
+		Absorbe los efectos negativos cercanos, aumentando el alcance y el daño
+		'¿Qué estás regando?'
+		'''
+}
+
+# Accessories: Damage
+RedPatch: {
+	DisplayName: Parche Rojo
+	Tooltip: Inflige daño dos veces a los enemigos con la vida completa
+}
+
+# Treasure Bags
+InsurgentBag: {
+	DisplayName: Bolsa del Tesoro (Insurgente)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MenaceBag: {
+	DisplayName: Bolsa del Tesoro (Amenaza)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MirageBag: {
+	DisplayName: Bolsa del Tesoro (Espejismo)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+OneShotBag: {
+	DisplayName: Bolsa del Tesoro (Disparo Único)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ParaffinBag: {
+	DisplayName: Bolsa del Tesoro (Parafina)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SethBag: {
+	DisplayName: Bolsa del Tesoro (Seth)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+TheSpiritBag: {
+	DisplayName: Bolsa del Tesoro (Espíritu)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+# Misc
+PhotographyPoster.DisplayName: Póster: {0}
+
+DiamondShip: {
+	DisplayName: Barco de Diamante
+	Tooltip:
+		'''
+		Úsalo para enviar un Pulso de Diamante hacia el Barco Varado
+		'Deja que guíe tu camino...'
+		'''
+}
+
+EpicSethLore: {
+	DisplayName: Su Historia
+	Tooltip:
+		'''
+		1) Cuando Seth nació, le dijo '¡Felicidades!' a sus padres
+		2) No ha dicho una palabra desde entonces, porque charlar es de débiles
+		3) Esconde sus ojos bajo una venda, porque el mundo podría decepcionarlo
+		4) Compró una licencia de WinRar y nunca la usó
+		5) Mató y se comió al último dragón de huesos, obteniendo poderes de fuego épicos
+		'''
+}
+
+# Master Mode
+HellBikerKeys: {
+	DisplayName: Llaves del Motociclista Infernal
+	Tooltip: ¡Invoca a [c/ffb000:El Hummer], una motocicleta épica!
+
+	Execution: {
+		Title: Chasquido de Calor Jr.
+		Description: Pulsa ARRIBA dos veces para lanzar un ataque devastador que inflige un daño descomunal a todos los enemigos en pantalla. Solo puede usarse una vez cada {0} minutos.
+	}
+
+	ColorTooltip: Esquema de Color: {0} (Clic derecho para cambiar)
+
+	Colors: {
+		0: "[c/ffb000:Resplandor]"
+		1: "[c/C15EFF:Desencadenado]"
+		2: Patrocinador
+	}
+}
+
+HellBikerUpgrade: {
+	DisplayName: "'CreadorDeMotos 8.1'"
+	Tooltip:
+		'''
+		Potencia a [c/ffb000:El Hummer] con poderes Desencadenados...
+		¡Desbloquea nuevos colores de llama!
+		'''
+}
+
+SheepSneakersUpgrade: {
+	DisplayName: Zapatillas Sospechosamente Chorreantes
+	Tooltip:
+		'''
+		Otorga a Sheep la capacidad de esprintar y un salto mejorado
+		Aumenta la Genialidad en un 15%
+		'A la velocidad de la Luz...'
+		'''
+}
+
+EccentricGoggles: {
+	DisplayName: Gafas Excéntricas
+	Tooltip: ¡Invoca a la Srta. Espíritu para que te siga!
+}
+
+DemonCompendium: {
+	DisplayName: Compendio Demoníaco
+	Tooltip: ¡Invoca un Tomo Poseído para que te siga!
+
+	AutoSummon: {
+		Title: Invocador del Diablo
+		Description: Invoca a todos tus esbirros al reaparecer. Funciona tanto equipado como en el inventario, y usará el primer báculo de invocación que tengas.
+	}
+}
+
+EtherealThrone: {
+	DisplayName: El Trono Etéreo del Dolor y el Sufrimiento
+	Tooltip: "'El destino puede ser cruel.'"
+}
+
+TRustedRemote: {
+	DisplayName: Control Remoto T-oxidado
+	Tooltip: ¡Invoca a la Máquina Asesina para que ruede a tu lado!
+}
+
+GasLighter: {
+	DisplayName: Encendedor de Gas
+	Tooltip: ¡Invoca a Bob Vela para desorientar tus aventuras!
+}
+
+BelovedMemoryLocket: {
+	DisplayName: Relicario del Recuerdo Amado
+	Tooltip:
+		'''
+		Invoca a los tortolitos para que te sigan
+		'No te cambiaría por nada en el mundo.'
+		'''
+}
+
+# Unsorted
+Painmaker: {
+	DisplayName: Creador de Dolor
+	Tooltip:
+		'''
+		{$Split.Items.SacrificialBand.Tooltip}
+		{$CommonItemTooltip.IncreasesArmorPenBy@2}
+		{$ItemTooltip.CrossNecklace}
+		Al ser herido, libera estrellas caídas, abejas y obtiene mayor velocidad
+		{$Items.Morgenstern.Tooltip}
+		'''
+}
+
+DangerRoom: {
+	DisplayName: Sala de Peligro
+	Tooltip:
+		'''
+		{$Split.Items.SacrificialBand.Tooltip}
+		{$ItemTooltip.PanicNecklace}
+		{$Items.Morgenstern.Tooltip}
+		'''
+}
+
+NotoriousSpark: {
+	DisplayName: Chispa Notoria
+	Tooltip:
+		'''
+		{$Items.SacrificialBand.Tooltip}
+		{$Items.Morgenstern.Tooltip}
+		'''
+}
+
+Moltenstern: {
+	DisplayName: Moltenstern
+	Tooltip: Libera bolas de púas ardientes al ser herido
+}
+
+Morgenstern: {
+	DisplayName: Morgenstern
+	Tooltip: Libera bolas de púas al ser herido
+}
+
+SacrificialBand: {
+	DisplayName: Brazalete Sacrificial
+	Tooltip:
+		'''
+		Almacena hasta {0} almas de enemigos caídos, liberándolas al recibir daño
+		Obtén un {1}% de reducción de daño por cada alma
+		'''
+}
+
+HostileCharm: {
+	DisplayName: Amuleto Hostil
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesArmorPenBy}
+		{$Split.Items.Thallium.Tooltip}
+		{$ItemTooltip.HoneyComb}
+		'''
+}
+
+PestilentNecklace: {
+	DisplayName: Collar Pestilente
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesArmorPenBy}
+		{$Split.Items.Thallium.Tooltip}
+		'''
+}
+
+Thallium: {
+	DisplayName: Losa de Talio
+	Tooltip: Te da probabilidad de inmovilizar a un enemigo durante unos segundos
+}
+
+SweetStarNecklace: {
+	DisplayName: Collar de Estrella Dulce
+	Tooltip:
+		'''
+		{$ItemTooltip.PanicNecklace}
+		{$ItemTooltip.BeeCloak}
+		'''
+}
+
+BejeweledWings: {
+	DisplayName: Alas Enjoyadas
+	Tooltip: Permite volar y caer lentamente
+}
+
+GlassWings: {
+	DisplayName: Alas de Cristal
+	Tooltip: Permite volar y caer lentamente
+}
+
+MalachiteWings: {
+	DisplayName: Alas de Malaquita
+	Tooltip: Permite volar y caer lentamente
+}
+
+ParaffinWings: {
+	DisplayName: Alas Encendidas
+	Tooltip: Permite volar y caer lentamente
+}
+
+SethWings: {
+	DisplayName: Alas de Tormenta
+	Tooltip: Permite volar y caer lentamente
+}
+
+Bellmet: {
+	DisplayName: Cascampana
+	Tooltip: Inmoviliza a todos los enemigos cercanos al recibir daño
+}
+
+FootballHelmet: {
+	DisplayName: Casco de Fútbol Americano
+	Tooltip: Aumenta la velocidad de movimiento en un 25%
+}
+
+HuskSkull: {
+	DisplayName: Calavera de Cáscara
+	Tooltip:
+		'''
+		Aumenta el daño cuerpo a cuerpo en un 4%
+		Los ataques cuerpo a cuerpo pueden absorber la vida de los enemigos
+		'''
+}
+
+ImperialGoldCrown: {
+	DisplayName: Corona Imperial de Oro
+	Tooltip: ""
+}
+
+ImperialPlatinumCrown: {
+	DisplayName: Corona Imperial de Platino
+	Tooltip: ""
+}
+
+PaperBag: {
+	DisplayName: Bolsa de Papel
+	Tooltip: Los enemigos tienen menos probabilidad de atacarte
+}
+
+RavenMask: {
+	DisplayName: Máscara de Cuervo
+	Tooltip: Aumenta en 1 tu número máximo de esbirros y centinelas
+}
+
+SerpentSkull: {
+	DisplayName: Calavera de Serpiente
+	Tooltip: ""
+}
+
+StrikersHelmet: {
+	DisplayName: Casco del Atacante
+	Tooltip: Convierte la defensa adicional de las armas cuerpo a cuerpo pesadas en penetración de armadura
+}
+
+YellowObsidianSkull: {
+	DisplayName: Calavera de Obsidiana Amarilla
+	Tooltip: Aumenta la velocidad de minado en un 25%
+}
+
+FrostbiteBreastplate: {
+	DisplayName: Peto de Congelación
+	Tooltip: ""
+}
+
+FrostbiteHelmet: {
+	DisplayName: Casco de Congelación
+	Tooltip: ""
+	SetBonus: Otorga inmunidad a los efectos negativos de frío
+}
+
+FrostbiteLeggings: {
+	DisplayName: Pantalones de Congelación
+	Tooltip: ""
+}
+
+BlackKnightBreastplate: {
+	DisplayName: Peto del Caballero Negro
+	Tooltip: ""
+}
+
+BlackKnightGreaves: {
+	DisplayName: Grebas del Caballero Negro
+	Tooltip: ""
+}
+
+BlackKnightHelmet: {
+	DisplayName: Casco del Caballero Negro
+	Tooltip: ""
+}
+
+CheapAstrologistCape: {
+	DisplayName: Capa Barata de Astróloga
+	Tooltip: ""
+}
+
+CheapAstrologistHat: {
+	DisplayName: Sombrero Barato de Astróloga
+	Tooltip: ""
+}
+
+CheapAstrologistTights: {
+	DisplayName: Mallas Baratas de Astróloga
+	Tooltip: ""
+}
+
+CleverNightCap: {
+	DisplayName: Gorro Astuto
+	Tooltip: ""
+}
+
+CleverPajama: {
+	DisplayName: Pijama Astuto
+	Tooltip: ""
+}
+
+DemonicShorts: {
+	DisplayName: Shorts Demoníacos
+	Tooltip: ""
+}
+
+DemonicTattoosBody: {
+	DisplayName: Tatuajes Demoníacos (Cuerpo)
+	Tooltip: ""
+}
+
+DemonicTattoosFace: {
+	DisplayName: Tatuajes Demoníacos (Cara)
+	Tooltip: ""
+}
+
+DesertSorceressHood: {
+	DisplayName: Capucha de la Hechicera del Desierto
+	Tooltip: ""
+}
+
+DesertSorceressSkirt: {
+	DisplayName: Falda de la Hechicera del Desierto
+	Tooltip: ""
+}
+
+DesertSorceressTop: {
+	DisplayName: Blusa de la Hechicera del Desierto
+	Tooltip: ""
+}
+
+PaleBraccas: {
+	DisplayName: Braccas del Doctor
+	Tooltip: ""
+}
+
+PaleRostrum: {
+	DisplayName: Rostrum del Doctor
+	Tooltip: ""
+}
+
+PaleVestis: {
+	DisplayName: Vestis del Doctor
+	Tooltip: ""
+}
+
+DreamwalkerHat: {
+	DisplayName: Sombrero del Caminante de Sueños
+	Tooltip: ""
+}
+
+DreamwalkerCloak: {
+	DisplayName: Capa del Caminante de Sueños
+	Tooltip: ""
+}
+
+HollowBreastplate: {
+	DisplayName: Peto Hueco
+	Tooltip: ""
+}
+
+HollowGreaves: {
+	DisplayName: Grebas Huecas
+	Tooltip: ""
+}
+
+HollowHelmet: {
+	DisplayName: Casco Hueco
+	Tooltip: ""
+}
+
+IDPDChestplate: {
+	DisplayName: Peto I.D.P.D.
+	Tooltip: ""
+}
+
+IDPDGruntHelmet: {
+	DisplayName: Casco de Soldado I.D.P.D.
+	Tooltip: ""
+}
+
+IDPDInspectorHelmet: {
+	DisplayName: Casco de Inspector I.D.P.D.
+	Tooltip: ""
+}
+
+IDPDPants: {
+	DisplayName: Grebas I.D.P.D.
+	Tooltip: ""
+}
+
+IDPDShielderHelmet: {
+	DisplayName: Casco de Escudero I.D.P.D.
+	Tooltip: ""
+}
+
+CrownOfNothing: {
+	DisplayName: Corona de la Nada
+	Tooltip: "'Huele ligeramente a pizza'"
+}
+
+LunarRags: {
+	DisplayName: Harapos Lunares
+	Tooltip: "'Huele ligeramente a pizza'"
+}
+
+LunarScapular: {
+	DisplayName: Escapulario Lunar
+	Tooltip: "'Huele ligeramente a pizza'"
+}
+
+MagicalHat: {
+	DisplayName: Sombrero Mágico
+	Tooltip: ""
+}
+
+MagicalJacket: {
+	DisplayName: Chaqueta Mágica
+	Tooltip: ""
+}
+
+MagicalSkirt: {
+	DisplayName: Falda Mágica
+	Tooltip: ""
+}
+
+BejeweledCrown: {
+	DisplayName: Corona Enjoyada
+	Tooltip: ""
+}
+
+BlueCup: {
+	DisplayName: Taza Azul
+	Tooltip: ""
+}
+
+BlueStripedHat: {
+	DisplayName: Sombrero de Rayas Azules
+	Tooltip: ""
+}
+
+Comedy: {
+	DisplayName: Comedia
+	Tooltip: ""
+}
+
+DerpMask: {
+	DisplayName: Máscara Bobalicona
+	Tooltip: ""
+}
+
+FeralSlimeMask: {
+	DisplayName: Máscara de Baboso Feral
+	Tooltip: ""
+}
+
+FrogHat: {
+	DisplayName: Sombrero de Rana
+	Tooltip: ""
+}
+
+FunkyHat: {
+	DisplayName: Sombrero Funky
+	Tooltip: "'Amo mi sombrero.'"
+}
+
+GyrosHat: {
+	DisplayName: Sombrero del Jinete
+	Tooltip: "'¡Nyo-ho-ho!'"
+}
+
+LowkeyHorns: {
+	DisplayName: Cuernos Discretos
+	Tooltip: "'Con un propósito glorioso'"
+}
+
+MaskoftheFather: {
+	DisplayName: Máscara del Padre
+	Tooltip: "'¡La leyenda nunca morirá!'"
+}
+
+RedCup: {
+	DisplayName: Taza Roja
+	Tooltip: ""
+}
+
+RedStripedHat: {
+	DisplayName: Sombrero de Rayas Rojas
+	Tooltip: "'Te atraparé, y parecerá un sangriento accidente'"
+}
+
+SentinelsHood: {
+	DisplayName: Capucha del Centinela
+	Tooltip: ""
+}
+
+StarHat: {
+	DisplayName: Sombrero de Estrella
+	Tooltip: ""
+}
+
+Tragedy: {
+	DisplayName: Tragedia
+	Tooltip: ""
+}
+
+MoonPrinceBreastplate: {
+	DisplayName: Túnica del Príncipe Lunar
+	Tooltip: ""
+}
+
+MoonPrinceGreaves: {
+	DisplayName: Grebas del Príncipe Lunar
+	Tooltip: ""
+}
+
+MoonPrinceHelmet: {
+	DisplayName: Corona del Príncipe Lunar
+	Tooltip: ""
+}
+
+ArmorOfShovelry: {
+	DisplayName: Armadura de la Palería
+	Tooltip: ""
+}
+
+HelmetOfShovelry: {
+	DisplayName: Casco de la Palería
+	Tooltip: ""
+}
+
+PantsOfShovelry: {
+	DisplayName: Pantalones de la Palería
+	Tooltip: ""
+}
+
+SmoothHat: {
+	DisplayName: Sombrero Suave
+	Tooltip: "'Annie, ¿estás bien?'"
+}
+
+SmoothJacket: {
+	DisplayName: Chaqueta Suave
+	Tooltip: "'¿Estás bien?'"
+}
+
+SmoothPants: {
+	DisplayName: Pantalones Suaves
+	Tooltip: "'¿Estás bien, Annie?'"
+}
+
+BlueSnowMaidenHat: {
+	DisplayName: Sombrero de Doncella de Nieve Azul
+	Tooltip: ""
+}
+
+BlueSnowMaidenRobe: {
+	DisplayName: Túnica de Doncella de Nieve Azul
+	Tooltip: ""
+}
+
+RedSnowMaidenHat: {
+	DisplayName: Sombrero de Doncella de Nieve Roja
+	Tooltip: ""
+}
+
+RedSnowMaidenRobe: {
+	DisplayName: Túnica de Doncella de Nieve Roja
+	Tooltip: ""
+}
+
+SpacemanBoots: {
+	DisplayName: Botas de Astronauta
+	Tooltip: ""
+}
+
+SpacemanChestplate: {
+	DisplayName: Peto de Astronauta
+	Tooltip: ""
+}
+
+SpacemanHelmet: {
+	DisplayName: Casco de Astronauta
+	Tooltip: ""
+}
+
+SwagGoggles: {
+	DisplayName: Gafas con Estilo
+	Tooltip: ""
+}
+
+SwagHoodie: {
+	DisplayName: Sudadera con Estilo
+	Tooltip: ""
+}
+
+SwagPants: {
+	DisplayName: Pantalones con Estilo
+	Tooltip: ""
+}
+
+Agate: {
+	DisplayName: Ágata
+	Tooltip: ""
+}
+
+Jade: {
+	DisplayName: Jade
+	Tooltip: ""
+}
+
+Tourmaline: {
+	DisplayName: Turmalina
+	Tooltip: ""
+}
+
+BlackAlloy: {
+	DisplayName: Aleación Negra
+	Tooltip: "'La cúspide de todas las aleaciones'"
+}
+
+BlueAlloy: {
+	DisplayName: Aleación Azul
+	Tooltip: ""
+}
+
+BottleOfGlue: {
+	DisplayName: Pegamento Embotellado
+	Tooltip: Te permite pegar diferentes cosas
+}
+
+BurningCoal: {
+	DisplayName: Carbón Ardiente
+	Tooltip: "'¡Arde, arde, arde!'"
+}
+
+ChthonicPearl: {
+	DisplayName: Perla Ctónica
+	Tooltip: Se encuentra en racimos que crecen sobre la Basaltita
+}
+
+CrabShell: {
+	DisplayName: Caparazón de Cangrejo
+	Tooltip: ""
+}
+
+ElementOfAir: {
+	DisplayName: Elemento del Aire
+	Tooltip: Robado por Amenaza, un compañero aventurero con ambiciones desmedidas
+}
+
+ElementOfArt: {
+	DisplayName: Elemento del Arte
+	Tooltip: Dominado por Espejismo, un idealista maniático de tierras lejanas
+}
+
+ElementOfDarkness: {
+	DisplayName: Elemento de la Oscuridad
+	Tooltip: Devorado por el Muro de Carne, el Amo y Núcleo del Mundo
+}
+
+ElementOfDeath: {
+	DisplayName: Elemento de la Muerte
+	Tooltip: Poseído por Skeletron, el maldito Guardián de la Mazmorra
+}
+
+ElementOfEarth: {
+	DisplayName: Elemento de la Tierra
+	Tooltip: Cultivado por Plantera, la monstruosidad de las Profundidades de la Jungla
+}
+
+ElementOfFire: {
+	DisplayName: Elemento del Fuego
+	Tooltip: Inspirado por Seth, un Guerrero de corazón ardiente
+}
+
+ElementOfIce: {
+	DisplayName: Elemento del Hielo
+	Tooltip: Descubierto por Loneshot, un romántico empedernido cegado por su propio potencial
+}
+
+ElementOfLife: {
+	DisplayName: Elemento de la Vida
+	Tooltip: Da poder a Golem, el ídolo de rostro pétreo de la Tribu Lihzahrd
+}
+
+ElementOfLight: {
+	DisplayName: Elemento de la Luz
+	Tooltip: Desatado por la Emperatriz de la Luz, responsable de todas esas luces llamativas y brillantina
+}
+
+ElementOfPain: {
+	DisplayName: Elemento del Dolor
+	Tooltip: Comprendido por Insurgente, pagando el precio por sus errores
+}
+
+ElementOfSpace: {
+	DisplayName: Elemento del Espacio
+	Tooltip: Forjado por el Señor de la Luna, el Supremo Soberano del Cosmos
+}
+
+ElementOfWater: {
+	DisplayName: Elemento del Agua
+	Tooltip: Usurpado por el Duque Fishron, terror mutante del mar
+}
+
+Ether: {
+	DisplayName: Éter
+	Tooltip: "'Una mezcla de magia y tecnología incomprensible'"
+}
+
+EtherealFeather: {
+	DisplayName: Pluma Etérea
+	Tooltip: "'No conseguí esto de un Hopoo'"
+}
+
+GlacialZircon: {
+	DisplayName: Circón Glacial
+	Tooltip: ""
+}
+
+GlassBlossom: {
+	DisplayName: Flor de Cristal
+	Tooltip: ""
+}
+
+GoldenGel: {
+	DisplayName: Gel Dorado
+	Tooltip: "'Resistente y brillante'"
+}
+
+GreenAlloy: {
+	DisplayName: Aleación Verde
+	Tooltip: ""
+}
+
+HemostoneItem: {
+	DisplayName: Hemopiedra
+	Tooltip: Un fragmento de la luna de sangre
+}
+
+IrradiantQuartz: {
+	DisplayName: Cuarzo Oscilante
+	Tooltip: ""
+}
+
+LazuriteBar: {
+	DisplayName: Barra de Lazurita
+	Tooltip: "'Resuena con el mar'"
+}
+
+LazuriteBrick: {
+	DisplayName: Ladrillo de Lazurita
+	Tooltip: ""
+}
+
+LazuriteBrickWallItem: {
+	DisplayName: Pared de Ladrillo de Lazurita
+	Tooltip: ""
+}
+
+LazuriteItem: {
+	DisplayName: Lazurita
+	Tooltip: Se puede encontrar en cuevas bajo el Océano
+}
+
+LightCore: {
+	DisplayName: Núcleo de Luz
+	Tooltip: ""
+}
+
+LordsCogItem: {
+	DisplayName: Engranaje del Señor
+	Tooltip:
+		'''
+		Una pieza de maquinaria arcana
+		Se puede encontrar en el Dominio del Inframundo
+		'''
+}
+
+MoltenHook: {
+	DisplayName: Gancho Fundido
+	Tooltip: ""
+}
+
+MoonDust: {
+	DisplayName: Polvo Lunar
+	Tooltip: "'Se puede encontrar en algunos lugares especialmente varados'"
+}
+
+PieceOfGlass: {
+	DisplayName: Trozo de Cristal
+	Tooltip: ""
+}
+
+PossessedArmorPiece: {
+	DisplayName: Pieza de Armadura Poseída
+	Tooltip: ""
+}
+
+ShinyDust: {
+	DisplayName: Polvo Brillante
+	Tooltip: ""
+}
+
+SkullHeart: {
+	DisplayName: Corazón de Calavera
+	Tooltip: "'Aquella de corazón puro verá su deseo concedido por el Corazón de Calavera.'"
+}
+
+StellarBar: {
+	DisplayName: Barra Estelar
+	Tooltip: Desaparece al amanecer
+}
+
+TectonicPlate: {
+	DisplayName: Placa Tectónica
+	Tooltip: ""
+}
+
+WildPetal: {
+	DisplayName: Pétalo Silvestre
+	Tooltip: ""
+}
+
+AwesomeLookingMatch: {
+	DisplayName: Cerillo de Aspecto Asombroso
+	Tooltip: Lánzalo a la lava para atraer a alguien impresionante
+}
+
+BrokenCamera: {
+	DisplayName: Cámara Rota
+	Tooltip: "'¿Cuántas de estas tiene ella siquiera?'"
+}
+
+ChampionKey: {
+	DisplayName: Llave del Campeón
+	Tooltip:
+		'''
+		Derrota al Desencadenado y toma el tesoro definitivo
+		Abre un Cofre de Campeón gigante en el dominio del Inframundo
+		'''
+}
+
+AuroraBorealis: {
+	DisplayName: Aurora Boreal
+	Tooltip: ""
+}
+
+BlazingLockBox: {
+	DisplayName: Cofre Llameante con Cerradura
+	Tooltip:
+		'''
+		Clic derecho para abrir
+		Requiere una Llave Tectónica
+		'''
+}
+
+Blockfish: {
+	DisplayName: Pezbloque
+	Tooltip: ""
+}
+
+DamnedCatcher: {
+	DisplayName: Capturador Condenado
+	Tooltip: Dispara láseres a los enemigos cercanos
+}
+
+Fangtooth: {
+	DisplayName: Colmillo Afilado
+	Tooltip:
+		'''
+		'Se puede pescar en algunos lugares especialmente varados'
+		'¡Ooh, escalofriante!'
+		'''
+}
+
+FrostbiteCrate: {
+	DisplayName: Cofre de Congelación
+	Tooltip: Clic derecho para abrir
+}
+
+GlacierCrate: {
+	DisplayName: Cofre Glaciar
+	Tooltip: Clic derecho para abrir
+}
+
+TectonicCrate: {
+	DisplayName: Cofre Tectónico
+	Tooltip: Clic derecho para abrir
+}
+
+GlassButterflyItem: {
+	DisplayName: Mariposa de Cristal
+	Tooltip: ""
+}
+
+GoldenLatopus: {
+	DisplayName: Latopus Dorado
+	Tooltip: ""
+}
+
+BlazingWhip: {
+	DisplayName: Látigo Llameante
+	Tooltip:
+		'''
+		Explota al contacto con los enemigos
+		44 de daño
+		'''
+}
+
+CrablingHook: {
+	DisplayName: Gancho de Cangrejito
+	Tooltip:
+		'''
+		Puede atrapar enemigos como si fueran cangrejos
+		22 de daño de cangrejo
+		'''
+}
+
+TrappersHook: {
+	DisplayName: Gancho del Trampero
+	Tooltip: Puede atrapar criaturas
+}
+
+PocketWormhole: {
+	DisplayName: Agujero de Gusano de Bolsillo
+	Tooltip: Te permite teletransportarte hacia los miembros del grupo
+}
+
+RelayMirror: {
+	DisplayName: Espejo de Relevo
+	Tooltip:
+		'''
+		Mira el espejo para volver a casa
+		Se creará un portal que lleva a tu posición anterior
+		Úsalo para volver a donde estabas antes
+		Entrará en un breve tiempo de reutilización tras usarlo
+		'''
+}
+
+SpaceCellPhone: {
+	DisplayName: Celular Espacial
+	Tooltip:
+		'''
+		Muestra todo
+		{$UnityMirror.Tooltip}
+		'''
+}
+
+UnityMirror: {
+	DisplayName: Espejo de Unidad
+	Tooltip:
+		'''
+		{$RelayMirror.Tooltip}
+		Te permite teletransportarte hacia los miembros del grupo
+		'''
+}
+
+RedHotSolution: {
+	DisplayName: Solución al Rojo Vivo
+	Tooltip:
+		'''
+		Usada por el Clentaminador
+		Esparce Basaltita
+		'''
+}
+
+TectonicKey: {
+	DisplayName: Llave Tectónica
+	Tooltip: Abre un Cofre Tectónico cerrado en el dominio del Inframundo
+}
+
+PoorUnfortunateSoul: {
+	DisplayName: Pobre Alma Desafortunada
+	Tooltip:
+		'''
+		'Suele estar cerca de los conjuradores de sombras'
+		Se puede atrapar con una red de bichos
+		'''
+}
+
+Garlic: {
+	DisplayName: Ajo
+	Tooltip: Invoca al Caminante del Ocaso si se lanza en el bioma de Corrupción/Carmesí, y él no está cerca
+}
+
+BlueBitOfSky: {
+	DisplayName: Pedazo Azul del Cielo
+	Tooltip:
+		'''
+		Invoca una luna creciente azul
+		Lamentablemente, desaparece al amanecer
+		'''
+}
+
+GreenBitOfSky: {
+	DisplayName: Pedazo Verde del Cielo
+	Tooltip:
+		'''
+		Invoca una luna creciente verde
+		Lamentablemente, desaparece al amanecer
+		'''
+}
+
+PinkBitOfSky: {
+	DisplayName: Pedazo Rosa del Cielo
+	Tooltip:
+		'''
+		Invoca una luna creciente rosa
+		Lamentablemente, desaparece al amanecer
+		'''
+}
+
+PowerMoon: {
+	DisplayName: Luna C
+	Tooltip: Invoca la luna de la suerte
+}
+
+YellowBitOfSky: {
+	DisplayName: Pedazo Amarillo del Cielo
+	Tooltip:
+		'''
+		Invoca una luna creciente amarilla
+		Lamentablemente, desaparece al amanecer
+		'''
+}
+
+FunkyMirror: {
+	DisplayName: Espejo Funky
+	Tooltip: Invoca un espejo poseído
+}
+
+Matchbook: {
+	DisplayName: Librillo de Cerillos
+	Tooltip: Invoca al Sr. Soleado
+}
+
+Beemerang: {
+	DisplayName: Abemerang
+	Tooltip: Invoca a Violeta
+}
+
+BlueSkyEnvelope: {
+	DisplayName: Sobre de Cielo Azul
+	Tooltip: <right> para abrir
+}
+
+DeepSeaEnvelope: {
+	DisplayName: Sobre de Mar Profundo
+	Tooltip: <right> para abrir
+}
+
+DungeonEnvelope: {
+	DisplayName: Sobre de la Mazmorra
+	Tooltip:
+		'''
+		<right> para abrir
+		Requiere una Llave Dorada
+		'''
+}
+
+EmeraldEnvelope: {
+	DisplayName: Sobre de Esmeralda
+	Tooltip: <right> para abrir
+}
+
+ExquisiteEnvelope: {
+	DisplayName: Sobre Exquisito
+	Tooltip: <right> para abrir
+}
+
+FieryEnvelope: {
+	DisplayName: Sobre Ardiente
+	Tooltip: <right> para abrir
+}
+
+GoldenEnvelope: {
+	DisplayName: Sobre Dorado
+	Tooltip: <right> para abrir
+}
+
+HorrificEnvelope: {
+	DisplayName: Sobre Horrífico
+	Tooltip: <right> para abrir
+}
+
+PitchBlackEnvelope: {
+	DisplayName: Sobre Negro Azabache
+	Tooltip: <right> para abrir
+}
+
+StandardEnvelope: {
+	DisplayName: Sobre Estándar
+	Tooltip: <right> para abrir
+}
+
+GroovyCamera: {
+	DisplayName: Cámara Genial
+	Tooltip:
+		'''
+		Se puede usar para tomar fotos de diversas criaturas
+		¡Usa los Clips Mágicos que recibes cada día para completar misiones y obtener recompensas!
+		'''
+	Share: ¡Clic derecho sobre un jugador cercano para compartir Clips Mágicos con él!
+}
+
+MagicClip: {
+	DisplayName: Clip Mágico
+	Tooltip: Se puede usar con la Cámara Genial
+}
+
+PhotoRifle: {
+	DisplayName: Rifle Fotográfico
+	Tooltip:
+		'''
+		Se puede usar para tomar fotos de diversas criaturas a mayores distancias
+		Mantén presionado para estrechar el visor y aumentar el alcance de captura
+		¡Usa los Clips Mágicos que recibes cada día para completar misiones y obtener recompensas!
+		'''
+}
+
+PrimeEnvelope: {
+	DisplayName: Sobre Prime
+	Tooltip: <right> para abrir
+}
+
+StarMap: {
+	DisplayName: Mapa Estelar
+	Tooltip: Invoca a un Astrolotl
+}
+
+Conductor: {
+	DisplayName: Conductor
+	Tooltip:
+		'''
+		Crea una nube de tormenta sobre tu cabeza
+		'Un ligero riesgo de lluvia'
+		'''
+}
+
+Toadstool: {
+	DisplayName: Hongo Luminoso
+	Tooltip: Invoca a una ranita compañera
+}
+
+ScarletHorns: {
+	DisplayName: Cuernos Escarlata
+	Tooltip: ""
+}
+
+SnowPigsRetribution: {
+	DisplayName: Retribución
+	Tooltip: Conviértete en el aspecto del mal
+}
+
+SpiritSoda: {
+	DisplayName: Refresco Espíritu
+	Tooltip:
+		'''
+		'¡Ahuyenta tu sed!'
+		Invoca al Espantoso
+		'''
+}
+
+SkyBell: {
+	DisplayName: Campana del Cielo
+	Tooltip: Invoca a Carastrella Jr.
+}
+
+ThePact: {
+	DisplayName: El Pacto
+	Tooltip: Dibuja un pentagrama bajo tus pies
+}
+
+SheepItem: {
+	DisplayName: Oveja
+	Tooltip:
+		'''
+		Invoca una montura de oveja cabalgable
+		Se niega a ser teñida...
+		'¡Tengo que atraparlos a todos!'
+		'''
+}
+
+BreathtakerBanner: {
+	DisplayName: Estandarte de Quitaaliento
+	Tooltip: ""
+}
+
+CaveImpBanner: {
+	DisplayName: Estandarte de Diablillo de Cueva
+	Tooltip: ""
+}
+
+ColossusBanner: {
+	DisplayName: Estandarte de Coloso
+	Tooltip: ""
+}
+
+CombusterBanner: {
+	DisplayName: Estandarte de Combustor
+	Tooltip: ""
+}
+
+CrabcannonBanner: {
+	DisplayName: Estandarte de Cangrejo Mortero
+	Tooltip: ""
+}
+
+DarknutBanner: {
+	DisplayName: Estandarte de Darknut
+	Tooltip: ""
+}
+
+DecayingBanner: {
+	DisplayName: Estandarte Decadente
+	Tooltip: ""
+}
+
+EchoBanner: {
+	DisplayName: Estandarte del Susurrante
+	Tooltip: ""
+}
+
+FacelessPirateBanner: {
+	DisplayName: Estandarte de Pirata sin Rostro
+	Tooltip: ""
+}
+
+FairyflyBanner: {
+	DisplayName: Estandarte de Hada Luciérnaga
+	Tooltip: ""
+}
+
+FootballZombieBanner: {
+	DisplayName: Estandarte de Zombi Futbolista
+	Tooltip: ""
+}
+
+FortressBanner: {
+	DisplayName: Estandarte de Fortaleza
+	Tooltip: ""
+}
+
+FunkySoulBanner: {
+	DisplayName: Estandarte de Alma Funky
+	Tooltip: ""
+}
+
+GarghoulBanner: {
+	DisplayName: Estandarte de Gárgola
+	Tooltip: ""
+}
+
+GlassButterflyBanner: {
+	DisplayName: Estandarte de Mariposa de Cristal
+	Tooltip: ""
+}
+
+GoldenDroneBanner: {
+	DisplayName: Estandarte de Dron Dorado
+	Tooltip: ""
+}
+
+GreatToxicSludgeBanner: {
+	DisplayName: Estandarte de Gran Fango Tóxico
+	Tooltip: ""
+}
+
+HauntedAnchorBanner: {
+	DisplayName: Estandarte de Ancla Encantada
+	Tooltip: ""
+}
+
+HeadlessPirateBanner: {
+	DisplayName: Estandarte de Pirata sin Cabeza
+	Tooltip: ""
+}
+
+HobgoblinBanner: {
+	DisplayName: Estandarte de Trasgo
+	Tooltip: ""
+}
+
+HuskBanner: {
+	DisplayName: Estandarte de Cáscara
+	Tooltip: ""
+}
+
+PossessedShadowArmorBanner: {
+	DisplayName: Estandarte de Armadura Sombría Poseída
+	Tooltip: ""
+}
+
+IdlerBanner: {
+	DisplayName: Estandarte del Holgazán
+	Tooltip: ""
+}
+
+JumpkinBanner: {
+	DisplayName: Estandarte de Saltacalabazas
+	Tooltip: ""
+}
+
+KnockerBanner: {
+	DisplayName: Estandarte del Golpeador
+	Tooltip: ""
+}
+
+LatopusBanner: {
+	DisplayName: Estandarte de Latopus
+	Tooltip: ""
+}
+
+MagnetoBanner: {
+	DisplayName: Estandarte de Magneto
+	Tooltip: ""
+}
+
+MindFlayerBanner: {
+	DisplayName: Estandarte de Devoramentes
+	Tooltip: ""
+}
+
+MoonwalkerBanner: {
+	DisplayName: Estandarte de Caminante Lunar
+	Tooltip: ""
+}
+
+PossessedFrostArmorBanner: {
+	DisplayName: Estandarte de Armadura de Escarcha Poseída
+	Tooltip: ""
+}
+
+MuskeletonBanner: {
+	DisplayName: Estandarte de Mosqueleto
+	Tooltip: ""
+}
+
+PurpleDroneBanner: {
+	DisplayName: Estandarte de Dron Púrpura
+	Tooltip: ""
+}
+
+RebelliousWispBanner: {
+	DisplayName: Estandarte de Fuego Fatuo Rebelde
+	Tooltip: ""
+}
+
+SarraceniaBanner: {
+	DisplayName: Estandarte de Sarracenia
+	Tooltip: ""
+}
+
+SavageBanner: {
+	DisplayName: Estandarte Salvaje
+	Tooltip: ""
+}
+
+SentinelBanner: {
+	DisplayName: Estandarte de Centinela
+	Tooltip: ""
+}
+
+ShadowCasterBanner: {
+	DisplayName: Estandarte de Conjurador de Sombras
+	Tooltip: ""
+}
+
+SheepNPCBanner: {
+	DisplayName: Estandarte de Oveja
+	Tooltip: ""
+}
+
+ShinyPixieBanner: {
+	DisplayName: Estandarte de Hada Brillante
+	Tooltip: ""
+}
+
+SkeletonJesterBanner: {
+	DisplayName: Estandarte de Esqueleto Bufón
+	Tooltip: ""
+}
+
+SpikedLavaSlimeBanner: {
+	DisplayName: Estandarte de Baboso de Lava con Púas
+	Tooltip: ""
+}
+
+StalkerBanner: {
+	DisplayName: Estandarte de Acechador
+	Tooltip: ""
+}
+
+TectonicMimicBanner: {
+	DisplayName: Estandarte de Mímico Tectónico
+	Tooltip: ""
+}
+
+ThreaterBanner: {
+	DisplayName: Estandarte del Amenazador
+	Tooltip: ""
+}
+
+ThrillerBanner: {
+	DisplayName: Estandarte Thriller
+	Tooltip: ""
+}
+
+ToilerBanner: {
+	DisplayName: Estandarte de Obrero
+	Tooltip: ""
+}
+
+TrollBanner: {
+	DisplayName: Estandarte de Trollo
+	Tooltip: ""
+}
+
+UnfairyBanner: {
+	DisplayName: Estandarte de Anti-Hada
+	Tooltip: ""
+}
+
+WitnessBanner: {
+	DisplayName: Estandarte de Testigo
+	Tooltip: ""
+}
+
+AmplifierItem: {
+	DisplayName: Amplificador
+	Tooltip: Se puede usar para canalizar Luz de Luna en objetos
+}
+
+AncientFurnace: {
+	DisplayName: Horno Ancestral
+	Tooltip: Se usa para fundir minerales
+}
+
+AncientHellforge: {
+	DisplayName: Forja Infernal Ancestral
+	Tooltip: ""
+}
+
+BlastForgeAncientItem: {
+	DisplayName: Forja de Explosión Ancestral
+	Tooltip:
+		'''
+		25% de probabilidad de no consumir los ingredientes de fundición
+		Se usa para fundir Aleaciones Negras
+		'''
+}
+
+BlastForgeItem: {
+	DisplayName: Forja de Explosión
+	Tooltip:
+		'''
+		25% de probabilidad de no consumir los ingredientes de fundición
+		Se usa para fundir Aleaciones Negras
+		'''
+}
+
+StoneofInspirationItem: {
+	DisplayName: Piedra de Inspiración
+	Tooltip: Se puede usar para mejorar objetos con el poder de los Elementos
+}
+
+BigDeal: {
+	DisplayName: Gran Cosa
+	Tooltip: ""
+}
+
+Coolwell: {
+	DisplayName: Pozo Fresco
+	Tooltip: Rellena baldes vacíos
+}
+
+CriminalStatue: {
+	DisplayName: Estatua del Criminal
+	Tooltip: ""
+}
+
+GlassButterflyJar: {
+	DisplayName: Frasco de Mariposa de Cristal
+	Tooltip: ""
+}
+
+Goodwell: {
+	DisplayName: Pozo Bueno
+	Tooltip: Rellena baldes vacíos
+}
+
+HiddenGoldenChestItem: {
+	DisplayName: Cofre Dorado Oculto
+	Tooltip: ""
+}
+
+KitCatClock: {
+	DisplayName: Reloj de Gato Kit
+	Tooltip: ""
+}
+
+AltStrandedShipMusicBox: {
+	DisplayName: Barco Varado - Extendida
+	Tooltip: ""
+}
+
+BasaltMusicBox: {
+	DisplayName: Caja Musical (Dominio del Inframundo)
+	Tooltip: ""
+}
+
+BasaltOldMusicBox: {
+	DisplayName: Caja Musical (Dominio del Inframundo - Otra Versión)
+	Tooltip: ""
+}
+
+InsurgentMusicBox: {
+	DisplayName: Caja Musical (Insurgente)
+	Tooltip: ""
+}
+
+MenaceMusicBox: {
+	DisplayName: Caja Musical (Amenaza)
+	Tooltip: ""
+}
+
+MenaceGrandpaMusicBox: {
+	DisplayName: Caja Musical (Amenaza - Ancestral)
+	Tooltip: ""
+}
+
+MirageMusicBox: {
+	DisplayName: Caja Musical (Espejismo)
+	Tooltip: ""
+}
+
+MysteriousPersonMusicBox: {
+	DisplayName: Caja Musical (Persona Misteriosa)
+	Tooltip: ""
+}
+
+OneShotMusicBox: {
+	DisplayName: Caja Musical (Disparo Único)
+	Tooltip: ""
+}
+
+ParaffinMusicBox: {
+	DisplayName: Caja Musical (Parafina)
+	Tooltip: ""
+}
+
+SethMusicBox: {
+	DisplayName: Caja Musical (Seth)
+	Tooltip: ""
+}
+
+SpiritMusicBox: {
+	DisplayName: Caja Musical (Espíritu)
+	Tooltip: ""
+}
+
+StrandedShipMusicBox: {
+	DisplayName: Caja Musical (Barco Varado)
+	Tooltip: ""
+}
+
+Aurora: {
+	DisplayName: "'Aurora'"
+	Tooltip: ""
+}
+
+BigFan: {
+	DisplayName: "'Gran Admirador'"
+	Tooltip: ""
+}
+
+ChildOfTheCorn: {
+	DisplayName: "'El Niño del Maíz'"
+	Tooltip: "'H. Zihnmer'"
+}
+
+DrCool: {
+	DisplayName: "'Dr. Genial'"
+	Tooltip: "'Dr. Genial'"
+}
+
+EverybodyLovesGlowtoad: {
+	DisplayName: "'Todos Aman al Sapo Luminoso'"
+	Tooltip: ""
+}
+
+FamiliarFace: {
+	DisplayName: "'Rostro Familiar'"
+	Tooltip: ""
+}
+
+FilthyFranChan: {
+	DisplayName: "'La Sucia Fran-chan'"
+	Tooltip: "'Dr. Genial'"
+}
+
+FullHouse: {
+	DisplayName: "'Casa Llena'"
+	Tooltip: ""
+}
+
+Huge: {
+	DisplayName: grande
+	Tooltip: chico grande
+}
+
+IBB: {
+	DisplayName: "'He estado ocupado...'"
+	Tooltip: ""
+}
+
+IDRTO: {
+	DisplayName: "'Cuídate'"
+	Tooltip: ""
+}
+
+KingoftheNight: {
+	DisplayName: "'Rey de la Noche'"
+	Tooltip: ""
+}
+
+LadyInWaiting: {
+	DisplayName: "'Dama de Compañía'"
+	Tooltip: ""
+}
+
+Loneliness: {
+	DisplayName: "'Soledad'"
+	Tooltip: "'A. Jackspy'"
+}
+
+ManOfShadows: {
+	DisplayName: "'Hombre de las Sombras'"
+	Tooltip: ""
+}
+
+MissingPoster: {
+	DisplayName: Cartel de Desaparecido
+	Tooltip: ""
+}
+
+MJ: {
+	DisplayName: "'M.J.'"
+	Tooltip: ""
+}
+
+MysteryMan: {
+	DisplayName: "'Hombre Misterioso'"
+	Tooltip: "'A. Jackspy'"
+}
+
+OneAndOnly: {
+	DisplayName: "'El Único'"
+	Tooltip: ""
+}
+
+OneSmallStepForAPirate: {
+	DisplayName: "'Un Pequeño Paso Para Mí...'"
+	Tooltip: "'O. Loneshot'"
+}
+
+OOOMagicianOOO: {
+	DisplayName: "'000_Mago_000'"
+	Tooltip: "'Dr. Genial'"
+}
+
+PageTurner: {
+	DisplayName: "'Pasapáginas'"
+	Tooltip: "'Dr. Genial'"
+}
+
+SpinalGalaxy: {
+	DisplayName: "'Galaxia Espinal'"
+	Tooltip: ""
+}
+
+TheGlassman: {
+	DisplayName: "'Hombre de Cristal'"
+	Tooltip: ""
+}
+
+TheGraduation: {
+	DisplayName: "'La Graduación'"
+	Tooltip: ""
+}
+
+TheIntruder: {
+	DisplayName: "'El Intruso'"
+	Tooltip: "'J. Spips'"
+}
+
+TheNexus: {
+	DisplayName: "'El Nexo'"
+	Tooltip: "'¿De dónde viene lo extraño?'"
+}
+
+TheSandbox: {
+	DisplayName: "'La Caja de Arena'"
+	Tooltip: ""
+}
+
+TheThunderbolt: {
+	DisplayName: "'El Rayo'"
+	Tooltip: "'O. Loneshot'"
+}
+
+TheTremor: {
+	DisplayName: "'El Temblor'"
+	Tooltip: "'H. Zihnmer'"
+}
+
+WantedPoster: {
+	DisplayName: Cartel de Se Busca
+	Tooltip: ""
+}
+
+PorkChestItem: {
+	DisplayName: Cofre de Cerdo
+	Tooltip: ""
+}
+
+PottedGlacierAster: {
+	DisplayName: Áster Glaciar en Maceta
+	Tooltip: ""
+}
+
+PottedGlassblossom: {
+	DisplayName: Flor de Cristal en Maceta
+	Tooltip: ""
+}
+
+PottedHibiscus: {
+	DisplayName: Hibisco en Maceta
+	Tooltip: ""
+}
+
+PottedPearlbush: {
+	DisplayName: Arbusto de Perla en Maceta
+	Tooltip: ""
+}
+
+PottedRosalia: {
+	DisplayName: Rosalia en Maceta
+	Tooltip: ""
+}
+
+TeddyBai: {
+	DisplayName: Teddy Bai
+	Tooltip: "'¡Nooo, no me conviertan en un peluche comercial!'"
+}
+
+TrappedFrostbiteWoodChest: {
+	DisplayName: Cofre de Madera de Congelación con Trampa
+	Tooltip: ""
+}
+
+TrappedHiddenGoldenChestItem: {
+	DisplayName: Cofre Dorado Oculto con Trampa
+	Tooltip: ""
+}
+
+TrappedPorkChestItem: {
+	DisplayName: Cofre de Cerdo con Trampa
+	Tooltip: ""
+}
+
+TrappedTectonicChest: {
+	DisplayName: Cofre Tectónico con Trampa
+	Tooltip: ""
+}
+
+CultistStatue: {
+	DisplayName: Estatua de Cultista
+	Tooltip: ""
+}
+
+HolographicBoardItem: {
+	DisplayName: Tablero Holográfico
+	Tooltip:
+		'''
+		Al colocarlo, captura al jugador más cercano
+		Mostrará la imagen y el estado de ese jugador
+		Se puede pintar
+		'''
+	Offline: "[DESCONECTADO]"
+	OfflineText: "[{0}]"
+}
+
+HuskStatue: {
+	DisplayName: Estatua de Cáscara
+	Tooltip: ""
+}
+
+Keystone: {
+	DisplayName: Piedra Angular
+	Tooltip: Aumenta la velocidad de ataque de los centinelas
+}
+
+RevealingSign: {
+	DisplayName: Cartel Revelador
+	Tooltip: Muestra su contenido en la superficie
+}
+
+ShovelStatue: {
+	DisplayName: Estatua de Pala
+	Tooltip: ""
+}
+
+TeslaTower: {
+	DisplayName: Torre Tesla
+	Tooltip: Crea descargas eléctricas
+}
+
+ThickBoulderItem: {
+	DisplayName: Roca Gruesa
+	Tooltip: "'¿Qué podría salir mal?'"
+}
+
+WarningSign: {
+	DisplayName: Cartel de Advertencia
+	Tooltip: Evita que varios NPCs viajeros aparezcan dentro del alcance
+}
+
+RelicInsurgent: {
+	DisplayName: Reliquia de Insurgente
+	Tooltip: ""
+}
+
+RelicMenace: {
+	DisplayName: Reliquia de Amenaza
+	Tooltip: ""
+}
+
+RelicMirage: {
+	DisplayName: Reliquia de Espejismo
+	Tooltip: ""
+}
+
+RelicOneShot: {
+	DisplayName: Reliquia de Disparo Único
+	Tooltip: ""
+}
+
+RelicParaffin: {
+	DisplayName: Reliquia de Parafina
+	Tooltip: ""
+}
+
+RelicSeth: {
+	DisplayName: Reliquia de Seth
+	Tooltip: ""
+}
+
+RelicSpirit: {
+	DisplayName: Reliquia de Espíritu
+	Tooltip: ""
+}
+
+FrostbiteSail: {
+	DisplayName: Vela de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWood: {
+	DisplayName: Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodFence: {
+	DisplayName: Cerca de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodPlatform: {
+	DisplayName: Plataforma de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodWall: {
+	DisplayName: Pared de Madera de Congelación
+	Tooltip: ""
+}
+
+FrozenGravestone: {
+	DisplayName: Lápida Congelada
+	Tooltip: ""
+}
+
+FrozenHeadstone: {
+	DisplayName: Lápida de Cabecera Congelada
+	Tooltip: ""
+}
+
+FrozenObelisk: {
+	DisplayName: Obelisco Congelado
+	Tooltip: ""
+}
+
+FrozenTombstone: {
+	DisplayName: Tumba Congelada
+	Tooltip: ""
+}
+
+FrostbiteBarrelItem: {
+	DisplayName: Barril de Congelación
+	Tooltip: ""
+}
+
+FrostbiteHelmetRack: {
+	DisplayName: Perchero de Casco de Congelación
+	Tooltip: ""
+}
+
+FrostbiteKnifeRack: {
+	DisplayName: Portacuchillos de Congelación
+	Tooltip: ""
+}
+
+FrostbiteMap: {
+	DisplayName: Mapa de Congelación
+	Tooltip: ""
+}
+
+FrostbiteSpearRack: {
+	DisplayName: Portalanzas de Congelación
+	Tooltip: ""
+}
+
+FrostbiteSwordRack: {
+	DisplayName: Portaespadas de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodBathtub: {
+	DisplayName: Bañera de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodBed: {
+	DisplayName: Cama de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodBookcase: {
+	DisplayName: Estantería de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodCandelabra: {
+	DisplayName: Candelabro de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodCandle: {
+	DisplayName: Vela de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodChair: {
+	DisplayName: Silla de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodChandelier: {
+	DisplayName: Candelabro Colgante de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodChestItem: {
+	DisplayName: Cofre de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodDoor: {
+	DisplayName: Puerta de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodDresser: {
+	DisplayName: Cómoda de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodGrandfatherClock: {
+	DisplayName: Reloj de Péndulo de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodLamp: {
+	DisplayName: Lámpara de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodLantern: {
+	DisplayName: Farol de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodPiano: {
+	DisplayName: Piano de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodSink: {
+	DisplayName: Fregadero de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodSofa: {
+	DisplayName: Sofá de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodStatue: {
+	DisplayName: Soldado de Madera
+	Tooltip: ""
+}
+
+FrostbiteWoodStatueKnight: {
+	DisplayName: Caballero de Madera
+	Tooltip: ""
+}
+
+FrostbiteWoodTable: {
+	DisplayName: Mesa de Madera de Congelación
+	Tooltip: ""
+}
+
+FrostbiteWoodWorkbench: {
+	DisplayName: Mesa de Trabajo de Madera de Congelación
+	Tooltip: ""
+}
+
+GlacialSoil: {
+	DisplayName: Suelo Glacial
+	Tooltip: Permite cultivar árboles de congelación con bellotas
+}
+
+StrandedMonolith: {
+	DisplayName: Monolito Varado
+	Tooltip: Emana un aura especialmente varada
+}
+
+WhiteWoodenBeam: {
+	DisplayName: Viga de Madera Blanca
+	Tooltip: ""
+}
+
+InsurgentTrophy: {
+	DisplayName: Trofeo de Insurgente
+	Tooltip: ""
+}
+
+MenaceTrophy: {
+	DisplayName: Trofeo de Amenaza
+	Tooltip: ""
+}
+
+MirageTrophy: {
+	DisplayName: Trofeo de Espejismo
+	Tooltip: ""
+}
+
+OneShotTrophy: {
+	DisplayName: Trofeo de Disparo Único
+	Tooltip: ""
+}
+
+ParaffinTrophy: {
+	DisplayName: Trofeo de Parafina
+	Tooltip: ""
+}
+
+SethTrophy: {
+	DisplayName: Trofeo de Seth
+	Tooltip: ""
+}
+
+SpiritTrophy: {
+	DisplayName: Trofeo de Espíritu
+	Tooltip: ""
+}
+
+BasaltiteBrickItem: {
+	DisplayName: Ladrillo de Basaltita
+	Tooltip: Un ladrillo volcánico épico
+}
+
+BasaltiteBrickPlatform: {
+	DisplayName: Plataforma de Ladrillo de Basaltita
+	Tooltip: ""
+}
+
+BasaltiteBrickWallItem: {
+	DisplayName: Pared de Ladrillo de Basaltita
+	Tooltip: ""
+}
+
+BasaltiteColumn: {
+	DisplayName: Columna de Basaltita
+	Tooltip: ""
+}
+
+BasaltiteItem: {
+	DisplayName: Basaltita
+	Tooltip:
+		'''
+		Una roca volcánica épica
+		Fundamento del Dominio del Inframundo
+		'''
+}
+
+BasaltiteRocks: {
+	DisplayName: Rocas de Basaltita
+	Tooltip: ""
+}
+
+BasaltiteStatue1: {
+	DisplayName: Estatua de la Mano Izquierda
+	Tooltip: ""
+}
+
+BasaltiteStatue2: {
+	DisplayName: Estatua de la Mano Derecha
+	Tooltip: ""
+}
+
+BasaltiteStatue3: {
+	DisplayName: Estatua del Maestro
+	Tooltip: ""
+}
+
+BasaltiteStatue4: {
+	DisplayName: Estructura de Basaltita
+	Tooltip: ""
+}
+
+BasaltiteWallItem: {
+	DisplayName: Pared de Basaltita
+	Tooltip: ""
+}
+
+ChampionChest: {
+	DisplayName: Cofre de Campeón
+	Tooltip: ""
+}
+
+MonsterCage: {
+	DisplayName: Jaula de Monstruo
+	Tooltip: ""
+}
+
+TectonicChestItem: {
+	DisplayName: Cofre Tectónico
+	Tooltip: ""
+}
+
+TectonicToilet: {
+	DisplayName: Inodoro Tectónico
+	Tooltip: ""
+}
+
+PrismaticBullet: {
+	DisplayName: Bala Prismática
+	Tooltip: "'¡Cualquier cosa puede ser una escopeta si te esfuerzas lo suficiente!'"
+}
+
+WeHaveTechnologyItem: {
+	DisplayName: Tenemos Tecnología
+	Tooltip: "'¡No somos cavernícolas!'"
+}
+
+ZirconWasterItem: {
+	DisplayName: Devastador de Circón
+	Tooltip: Hace añicos a los enemigos en una lluvia de cristales de neón
+}
+
+DreamoftheButterfly: {
+	DisplayName: Sueño de la Mariposa
+	Tooltip: Libera un enjambre de mariposas de cristal
+}
+
+SearingEmber: {
+	DisplayName: Brasa Abrasadora
+	Tooltip: Libera una poderosa onda de fuego
+}
+
+Blazerang: {
+	DisplayName: Bumerang Ardiente
+	Tooltip: Inflige Llama Sombría al golpear
+}
+
+Bouncer: {
+	DisplayName: Rebotador
+	Tooltip: Se acumula hasta 3 veces
+}
+
+PinkBouncer: {
+	DisplayName: Rebotador II
+	Tooltip: Se acumula hasta 3 veces
+}
+
+Fishbone: {
+	DisplayName: Espina de Pescado
+	Tooltip: "'Golpea con la furia de... un pez muerto'"
+}
+
+NightDisc: {
+	DisplayName: Disco Nocturno
+	Tooltip:
+		'''
+		Dispara láseres letales en la dirección de tu cursor
+		Se acumula hasta 5 veces
+		Cada disco aumenta la velocidad de ataque
+		'''
+}
+
+Pursuer: {
+	DisplayName: Perseguidor
+	Tooltip: Mantén presionado para que siga a tu cursor
+}
+
+RodOfDread: {
+	DisplayName: Vara del Pavor
+	Tooltip: "'...Pero el sol es eclipsado por la luna.'"
+}
+
+TheEclipse: {
+	DisplayName: El Eclipse
+	Tooltip: "'Y todo bajo el sol está en armonía...'"
+}
+
+Twister: {
+	DisplayName: Tornado
+	Tooltip: Invoca fragmentos de hielo desde arriba
+}
+
+Blockbuster: {
+	DisplayName: Bombazo
+	Tooltip: Dispara una enorme bola de flak que se divide en tres más pequeñas
+}
+
+FlakCannon: {
+	DisplayName: Cañón de Flak
+	Tooltip: Dispara una bola de flak que se divide en muchas balas
+}
+
+RedArc: {
+	DisplayName: Arco Rojo
+	Tooltip: ""
+}
+
+BallofFlesh: {
+	DisplayName: Bola de Carne
+	Tooltip:
+		'''
+		Suéltala mientras atacas para desatar al Hambriento
+		2 de daño de marca de invocación
+		'''
+}
+
+Eyesore: {
+	DisplayName: Adefesio
+	Tooltip:
+		'''
+		'¡Correa incluida!'
+		2 de daño de marca de invocación
+		'''
+}
+
+AstroQuiver: {
+	DisplayName: Carcaj Místico
+	Tooltip:
+		'''
+		Aumenta el daño de flechas en un 12% y aumenta enormemente su velocidad
+		20% de probabilidad de no consumir flechas
+		Hace que las flechas se dirijan ligeramente hacia los enemigos
+		Dispara flechas doradas adicionales al usar cualquier arco
+		'''
+}
+
+BadmintonBag: {
+	DisplayName: Bolsa de Bádminton
+	Tooltip:
+		'''
+		Mejora tus habilidades de bádminton
+		Añade una bola adicional para las raquetas
+		'''
+}
+
+BallPouch: {
+	DisplayName: Bolsa de Bolas
+	Tooltip: Añade una bola adicional para las raquetas
+}
+
+BlazingBangle: {
+	DisplayName: Brazalete Llameante
+	Tooltip: Aumenta el daño infligido a enemigos en llamas
+}
+
+ChillingCatalyst: {
+	DisplayName: Catalizador Helado
+	Tooltip: El primer golpe inflige Quemadura Helada a los enemigos
+}
+
+EvilCatalyst: {
+	DisplayName: Catalizador Maligno
+	Tooltip: El primer golpe inflige Icor/Infierno Maldito a los enemigos
+}
+
+FlamingCatalyst: {
+	DisplayName: Catalizador Flamígero
+	Tooltip: El primer golpe incendia a los enemigos
+}
+
+FrozenBangle: {
+	DisplayName: Brazalete Congelado
+	Tooltip: Aumenta el daño infligido a enemigos con Quemadura Helada
+}
+
+MaliciousBangle: {
+	DisplayName: Brazalete Malicioso
+	Tooltip: Aumenta el daño infligido a enemigos con Icor o Infierno Maldito
+}
+
+PerfidiousBangle: {
+	DisplayName: Brazalete Pérfido
+	Tooltip: Aumenta el daño infligido a enemigos con Veneno o Ponzoña
+}
+
+TheFirestarter: {
+	DisplayName: El Incendiario
+	Tooltip:
+		'''
+		El primer golpe incendia a los enemigos
+		Aumenta el daño infligido a enemigos en llamas
+		'''
+}
+
+TheIceberg: {
+	DisplayName: El Iceberg
+	Tooltip:
+		'''
+		El primer golpe inflige Quemadura Helada a los enemigos
+		Aumenta el daño infligido a enemigos con Quemadura Helada
+		'''
+}
+
+TheNemesis: {
+	DisplayName: El Némesis
+	Tooltip:
+		'''
+		El primer golpe inflige Icor/Infierno Maldito a los enemigos
+		Aumenta el daño infligido a enemigos con Icor o Infierno Maldito
+		'''
+}
+
+ThePlaguebringer: {
+	DisplayName: El Portador de la Plaga
+	Tooltip:
+		'''
+		El primer golpe envenena a los enemigos
+		Aumenta el daño infligido a enemigos con Veneno o Ponzoña
+		'''
+}
+
+ToxicCatalyst: {
+	DisplayName: Catalizador Tóxico
+	Tooltip: El primer golpe envenena a los enemigos
+}
+
+BlueTearstoneRing: {
+	DisplayName: Anillo de Piedra Lagrimal Azul
+	Tooltip: Aumenta enormemente la defensa cuando la vida es baja
+}
+
+BuryTheLight: {
+	DisplayName: Enterrar la Luz
+	Tooltip:
+		'''
+		Una espada épica que ataca cada vez que tú lo haces
+		Su daño se ve afectado por todas las bonificaciones de clase
+		No aparece si se coloca en la ranura oculta
+		'''
+}
+
+EnchantedArrow: {
+	DisplayName: Punta de Flecha Dorada
+	Tooltip:
+		'''
+		Dispara flechas doradas adicionales al usar cualquier arco
+		Consume 20 de mana por disparo
+		No dispara si se coloca en la ranura oculta
+		'''
+}
+
+BlazingScope: {
+	DisplayName: Mira Llameante
+	Tooltip: Los enemigos explotan al recibir un golpe crítico
+}
+
+ChampionsCrown: {
+	DisplayName: Corona del Campeón
+	Tooltip: Aumenta enormemente todo el daño crítico, pero disminuye ligeramente el daño no crítico
+}
+
+EonOfCaptivity: {
+	DisplayName: Eón del Cautiverio
+	Tooltip:
+		'''
+		Libera calaveras autodirigidas al moverte
+		Su daño escala con la defensa
+		'''
+}
+
+PalladiumShield: {
+	DisplayName: Escudo de Paladio
+	Tooltip:
+		'''
+		Aumenta temporalmente la defensa poco después de ser golpeado
+		'Baluarte de los débiles'
+		'''
+}
+
+PossessedNeedle: {
+	DisplayName: Aguja Poseída
+	Tooltip: Aumenta la penetración de armadura en 5
+}
+
+SunsetTiara: {
+	DisplayName: Tiara del Ocaso
+	Tooltip:
+		'''
+		Los enemigos explotan al recibir un golpe crítico
+		Aumenta enormemente todo el daño crítico, pero disminuye ligeramente el daño no crítico
+		'''
+}
+
+TerrorShield: {
+	DisplayName: Escudo del Terror
+	Tooltip:
+		'''
+		Aumenta temporalmente la defensa poco después de ser golpeado
+		Libera calaveras autodirigidas al moverte
+		Su daño escala con la defensa
+		'Ahora es momento de temer'
+		'''
+}
+
+WoodooHeart: {
+	DisplayName: Corazón Vudú
+	Tooltip:
+		'''
+		Aumenta la penetración de armadura en 5
+		El primer golpe inflige el doble de daño a tus enemigos
+		'''
+}
+
+EtherealTea: {
+	DisplayName: Té Etéreo
+	Tooltip:
+		'''
+		Aumenta temporalmente la regeneración de vida al usar pociones curativas
+		Comparte el efecto de las pociones curativas entre aliados, restaurando el 50% del efecto de la poción usada
+		'''
+}
+
+GoldenTea: {
+	DisplayName: Té Dorado
+	Tooltip:
+		'''
+		Aumenta temporalmente la regeneración de vida al usar pociones curativas
+		Comparte el efecto de las pociones curativas entre aliados, restaurando el 75% del efecto de la poción usada
+		'''
+}
+
+VivifyingTea: {
+	DisplayName: Té Vivificante
+	Tooltip:
+		'''
+		Aumenta temporalmente la regeneración de vida al usar pociones curativas
+		Comparte el efecto de las pociones curativas entre aliados, restaurando el 25% del efecto de la poción usada
+		'''
+}
+
+RingOfSun: {
+	DisplayName: Anillo del Sol
+	Tooltip: Aumenta la eficiencia de las pociones curativas
+}
+
+SaviourSchnapps: {
+	DisplayName: Schnapps Salvador
+	Tooltip: Usa automáticamente una poción curativa al recibir daño letal
+}
+
+ScarletSunRing: {
+	DisplayName: Amuleto del Sol Escarlata
+	Tooltip:
+		'''
+		Aumenta la eficiencia de las pociones curativas
+		Otorga regeneración de vida y reduce el tiempo de reutilización de las pociones curativas
+		'''
+}
+
+SeventhElement: {
+	DisplayName: 7mo Elemento
+	Tooltip:
+		'''
+		Aumenta temporalmente la regeneración de vida al usar pociones curativas
+		Comparte el efecto de las pociones curativas entre aliados, restaurando el 75% del efecto de la poción usada
+		Aumenta la eficiencia de las pociones curativas
+		Otorga regeneración de vida y reduce el tiempo de reutilización de las pociones curativas
+		Otorga invencibilidad durante unos segundos al usar pociones curativas
+		Usa automáticamente una poción curativa al recibir daño letal
+		'''
+}
+
+StairwayToHeaven: {
+	DisplayName: Escalera al Cielo
+	Tooltip: Otorga invencibilidad durante unos segundos al usar un objeto curativo
+}
+
+InsurgentsRing: {
+	DisplayName: Anillo del Insurgente
+	Tooltip: Aumenta enormemente el daño y la defensa cuando la vida está completa o suficientemente baja
+}
+
+MagnetQuiver: {
+	DisplayName: Carcaj Magnético
+	Tooltip: Hace que las flechas se dirijan ligeramente hacia los enemigos
+}
+
+PurpleTearstoneRing: {
+	DisplayName: Anillo de Piedra Lagrimal Púrpura
+	Tooltip: Aumenta enormemente el daño y la defensa cuando la vida es baja
+}
+
+RedTearstoneRing: {
+	DisplayName: Anillo de Piedra Lagrimal Roja
+	Tooltip: Aumenta enormemente el daño cuando la vida es baja
+}
+
+BoilingPoint: {
+	DisplayName: Punto de Ebullición
+	Tooltip: Aumenta temporalmente la velocidad cuerpo a cuerpo regular y pesada tras recibir daño
+}
+
+DragonShield: {
+	DisplayName: Escudo de Dragón
+	Tooltip:
+		'''
+		Aumenta temporalmente la velocidad cuerpo a cuerpo regular y pesada tras recibir daño
+		Duplica la bonificación de defensa por usar armas pesadas
+		'''
+}
+
+KnightmareShield: {
+	DisplayName: Escudo del Caballero
+	Tooltip:
+		'''
+		Aumenta temporalmente la velocidad cuerpo a cuerpo regular y pesada tras recibir daño
+		Duplica la bonificación de defensa por usar armas pesadas
+		Otorga inmunidad al retroceso, bloques de fuego y a la mayoría de los efectos negativos
+		'''
+}
+
+ToughstoneShield: {
+	DisplayName: Escudo de Piedra Dura
+	Tooltip: Duplica la bonificación de defensa por usar armas pesadas
+}
+
+SportsBag: {
+	DisplayName: Bolsa Deportiva
+	Tooltip: Otorga al usuario habilidades maestras de yoyo y bádminton
+}
+
+SuspiciousLookingBone: {
+	DisplayName: Mandíbula de Aspecto Sospechoso
+	Tooltip: Duplica la tasa de aparición y la cantidad máxima de enemigos y criaturas.
+}
+
+ToughGlove: {
+	DisplayName: Guante Resistente
+	Tooltip: Mejora tus habilidades de bádminton
+}
+
+MenacingVibe: {
+	DisplayName: Vibra Amenazante
+	Tooltip: "'Parece extraño...'"
+}
+
+StellaarHat: {
+	DisplayName: Sombrero Estelar
+	Tooltip:
+		'''
+		Aumenta el daño a distancia y de invocación en un 6%
+		Aumenta la probabilidad de golpe crítico a distancia en un 7%
+		'''
+}
+
+StellarCoat: {
+	DisplayName: Abrigo Estelar
+	Tooltip:
+		'''
+		Aumenta el daño a distancia y de invocación en un 6%
+		Aumenta en 1 tu número máximo de esbirros
+		'''
+}
+
+StellarPants: {
+	DisplayName: Pantalones Estelares
+	Tooltip:
+		'''
+		Aumenta el daño a distancia y de invocación en un 6%
+		Aumenta la velocidad de movimiento en un 20%
+		'''
+}
+
+AmberMirror: {
+	DisplayName: Espejo de Ámbar
+	Tooltip:
+		'''
+		Invoca a Espejismo
+		Solo se puede usar en el desierto durante la noche
+		'''
+}
+
+BoxOfDesired: {
+	DisplayName: Copa de Pandora
+	Tooltip:
+		'''
+		Invoca al mayor adversario
+		Solo se puede usar de noche
+		'''
+}
+
+BulletproofCoin: {
+	DisplayName: Regalo Simbólico
+	Tooltip: "'Su primer día de pago...'"
+}
+
+DragonSkullTrophy: {
+	DisplayName: Trofeo de Calavera de Dragón
+	Tooltip: ""
+}
+
+ForecastersRod: {
+	DisplayName: Vara del Pronosticador
+	Tooltip: Invoca un nimbo furioso cabalgable
+}
+
+HeartOfGuardian: {
+	DisplayName: Piedra del Guardián
+	Tooltip: Restaura toda la vida al reaparecer
+}
+
+InsurgentMask: {
+	DisplayName: Máscara de Insurgente
+	Tooltip: ""
+}
+
+InsurgentMaskAlt: {
+	DisplayName: Máscara de Insurgente Deforme
+	Tooltip: ""
+}
+
+MenaceMask: {
+	DisplayName: Máscara de Amenaza
+	Tooltip: ""
+}
+
+MirageMask: {
+	DisplayName: Sombrero de Espejismo
+	Tooltip: ""
+}
+
+OlympicTorch: {
+	DisplayName: Antorcha Olímpica
+	Tooltip:
+		'''
+		Invoca al Desencadenado
+		Derrota a Seth en su plenitud y obtén sus tesoros definitivos
+		Solo se puede usar de noche
+		'''
+}
+
+OneShotMask: {
+	DisplayName: Sombrero de Congelación
+	Tooltip: ""
+}
+
+ParaffinMask: {
+	DisplayName: Sombrero de Vela
+	Tooltip: ""
+}
+
+ParaffinsBox: {
+	DisplayName: Recipiente Problemático
+	Tooltip:
+		'''
+		Sellado y cerrado con llave
+		'Dale algo de cariño'
+		'''
+}
+
+SethMask: {
+	DisplayName: Calavera de Dragón de Obsidiana
+	Tooltip: ""
+}
+
+ShadowLocket: {
+	DisplayName: Artilugio de Aspecto Sospechoso
+	Tooltip:
+		'''
+		Envía una señal hacia lo desconocido
+		Solo se puede usar de noche
+		'''
+	SellTipCrimson: Quizás, alguien podría vendértelo en la oscuridad del Carmesí...
+	SellTipCorruption: Quizás, alguien podría vendértelo en la oscuridad de la Corrupción...
+}
+
+SinisterCandle: {
+	DisplayName: Vela Siniestra
+	Tooltip:
+		'''
+		Invoca a Parafina
+		Solo se puede usar en el inframundo
+		'''
+}
+
+SnowBeacon: {
+	DisplayName: Faro de Nieve
+	Tooltip:
+		'''
+		Invoca a Disparo Único
+		Solo se puede usar en el Barco Varado
+		'''
+}
+
+TheSpiritMask: {
+	DisplayName: Capucha de Espíritu
+	Tooltip: ""
+}
+
+TrustedKey: {
+	DisplayName: Llave de Confianza
+	Tooltip:
+		'''
+		Invoca al Insurgente
+		Solo se puede usar durante la noche
+		'''
+}
+
+ArmorPolishKit: {
+	DisplayName: Kit de Pulido de Armadura
+	Tooltip: Haz clic derecho en cualquier pieza de armadura con este objeto en mano para otorgarle un prefijo aleatorio
+}
+
+CrabHeart: {
+	DisplayName: Corazón de Cangrejo
+	Tooltip: ""
+}
+
+MoltenRing: {
+	DisplayName: Anillo Fundido
+	Tooltip:
+		'''
+		Crea un anillo de fuego a tu alrededor durante 5 minutos
+		Debe cargarse cerca de la lava cuando se enfríe
+		'''
+}
+
+MoltenRingCooled: {
+	DisplayName: Anillo Enfriado
+	Tooltip: Debe cargarse cerca de la lava
+}
+
+BlackTome: {
+	DisplayName: Tomo Negro
+	Tooltip: Invoca al diablo de tinta
+}
+
+BluePhylactery: {
+	DisplayName: Filacteria Azul
+	Tooltip: Invoca a un espíritu azul que ocasionalmente trae estrellas de mana
+}
+
+EnchantedHorn: {
+	DisplayName: Cuerno Encantado
+	Tooltip: Invoca medusas luminiscentes que iluminarán tu camino.
+}
+
+LifeStone: {
+	DisplayName: Piedra de Vida
+	Tooltip: Invoca a un elfo de nieve
+}
+
+OcculticCellPhone: {
+	DisplayName: Celular Oculto
+	Tooltip: Invoca al Pixy
+}
+
+PhosphorousLamp: {
+	DisplayName: Bombilla Extraña
+	Tooltip: Invoca a un pequeño extraño para iluminar tu camino
+}
+
+PinkPhylactery: {
+	DisplayName: Filacteria Rosa
+	Tooltip: Invoca a un espíritu rosa que ocasionalmente trae corazones
+}
+
+Timeskip: {
+	DisplayName: Salto Temporal
+	Tooltip: ""
+}
+
+TinyTinyCrystalHeart: {
+	DisplayName: Diminuto Corazón de Cristal
+	Tooltip:
+		'''
+		Aumenta permanentemente en 30 la vida máxima de tu compañero coleccionista
+		'Apenas está latiendo'
+		'''
+}
+
+WhoopieCushionRequiem: {
+	DisplayName: Réquiem del Cojín de Aire
+	Tooltip: "'El fin se acerca...'"
+}
+
+FullColor: {
+	DisplayName: Color Total
+	Tooltip: "'¡Prueba el Arcoíris!'"
+}
+
+ManaStaff: {
+	DisplayName: Cetro Lloroso
+	Tooltip: "'¡Me estás destrozando!'"
+}
+
+Solaris: {
+	DisplayName: Solaris
+	Tooltip: "'Solo tomaré prestado un poco de calor de una estrella rapidito'"
+}
+
+WoodenScepter: {
+	DisplayName: Cetro de Madera
+	Tooltip:
+		'''
+		Dispara orbes mágicos
+		<right> para un ataque espiral mágico
+		'''
+}
+
+ArcticOscillation: {
+	DisplayName: Oscilación Ártica
+	Tooltip: Libera afilados copos de nieve que cubren un área extensa
+}
+
+BurnMyDread: {
+	DisplayName: Quema Mi Temor
+	Tooltip: ¡Es un bumerán lanzallamas, qué más necesitas!
+}
+
+CeremonialKnife: {
+	DisplayName: Cuchillo Ceremonial
+	Tooltip: Libera dagas autodirigidas al matar a un enemigo
+}
+
+DeliciousSaturn: {
+	DisplayName: Delicioso Saturno
+	Tooltip:
+		'''
+		Crea un torbellino de hojas al golpear
+		Cada hoja aumenta tu defensa
+		'''
+}
+
+DemonBloodSword: {
+	DisplayName: Espada de Sangre Demoníaca
+	Tooltip:
+		'''
+		Golpea a los enemigos para consumir su energía
+		<right> para liberar la energía almacenada
+		'''
+}
+
+Dragun: {
+	DisplayName: Dragún
+	Tooltip:
+		'''
+		Dispara balas a los enemigos cercanos
+		Inflige más daño cuando está posicionado entre tú y el enemigo
+		'Hecho en Gungeon'
+		'''
+}
+
+Flamaxe: {
+	DisplayName: Hachallama
+	Tooltip: "[c/ffff00:<right>] para detonar el hacha en el aire"
+}
+
+FlareBlade: {
+	DisplayName: Pez Víbora
+	Tooltip: Crea un destello que se divide en varios fragmentos autodirigidos
+}
+
+ForestEcho: {
+	DisplayName: Sonido Remanente
+	Tooltip: ""
+}
+
+FrigidRapier: {
+	DisplayName: Estoque Gélido
+	Tooltip: Dispara un rayo de hielo que atraviesa enemigos
+}
+
+Glasserang: {
+	DisplayName: Cristalerang
+	Tooltip:
+		'''
+		Se hace añicos en su camino de vuelta
+		'No muy confiable'
+		'''
+}
+
+GoldenSickle: {
+	DisplayName: Hoz Dorada
+	Tooltip: Inflige el doble de daño al regresar
+}
+
+AntarcticOscillation: {
+	DisplayName: Oscilación Antártica
+	Tooltip: Lanza un enorme rayo glaciar
+}
+
+BonePlague: {
+	DisplayName: Plaga de Huesos
+	Tooltip: Libera huesos al golpear a un enemigo
+}
+
+CactusClaymore: {
+	DisplayName: Mandoble de Cactus
+	Tooltip: Tiene probabilidad de envenenar a los enemigos
+}
+
+DragonFish: {
+	DisplayName: Pez Dragón
+	Tooltip: ""
+}
+
+GoldClaymore: {
+	DisplayName: Mandoble de Oro
+	Tooltip: Aumenta la velocidad cuerpo a cuerpo pesada en cada tercer golpe
+}
+
+Laserbrand: {
+	DisplayName: Marca Láser
+	Tooltip: Inflige daño varias veces
+}
+
+Leviathan: {
+	DisplayName: El Leviatán
+	Tooltip:
+		'''
+		Golpear enemigos aumenta la velocidad cuerpo a cuerpo pesada
+		Aumenta la velocidad de movimiento mientras se sostiene
+		'''
+}
+
+MementoMori: {
+	DisplayName: Memento Mori
+	Tooltip:
+		'''
+		<right> para convertir 200 de vida en [fx/eb:Vínculo Etéreo]
+		Mejora enormemente los próximos ataques, pero te deja en un estado vulnerable
+		'''
+
+	Chains: {
+		DisplayName: Cadenas de la Divergencia
+		Tooltip: Mientras el [fx/eb:Vínculo Etéreo] está activo, golpear a los enemigos hará que otro enemigo aleatorio sea golpeado por una cadena, infligiendo daño etéreo. Cada golpe de cadena drenará 10 del valor del vínculo, y este se consumirá al agotarse, restaurando la vida del jugador.
+	}
+}
+
+Moondial: {
+	DisplayName: Reloj Lunar
+	Tooltip: Dispara un rayo lunar durante la noche
+}
+
+PlatinumClaymore: {
+	DisplayName: Mandoble de Platino
+	Tooltip: Aumenta la velocidad cuerpo a cuerpo pesada en cada tercer golpe
+}
+
+Schwarzwelt: {
+	DisplayName: Schwarzwelt
+	Tooltip: Lanza una serie de dagas de sangre en cada golpe
+}
+
+Scourge: {
+	DisplayName: El Flagelo
+	Tooltip:
+		'''
+		Cura al golpear al enemigo si hay suficiente poder almacenado
+		El poder se regenera pasivamente o si golpeas a un enemigo con la vida completa
+		'''
+}
+
+Zweihander: {
+	DisplayName: Zweihander
+	Tooltip: Clic derecho para un ataque cargado
+}
+
+Hermes: {
+	DisplayName: Hermes
+	Tooltip: "[c/90ee90:<right>] para embestir"
+}
+
+KingsBounty: {
+	DisplayName: Recompensa del Rey
+	Tooltip: Crea un aura dañina al contacto
+}
+
+MagnetYoyo: {
+	DisplayName: Colapso
+	Tooltip: Atrae a enemigos y objetos.
+}
+
+SkullAxe: {
+	DisplayName: Hachagüerra de Calavera
+	Tooltip: Invoca calaveras malditas que lucharán por ti al golpear enemigos
+}
+
+StarlightBreaker: {
+	DisplayName: Rompedor de Luz Estelar
+	Tooltip:
+		'''
+		Golpear enemigos crea estrellas
+		Las estrellas escalan con tu daño cuerpo a cuerpo y de invocación
+		<right> para un poderoso ataque láser
+		'¡Estrellas, reúnanse, y conviértanse en la luz que todo lo atraviesa!'
+		'''
+}
+
+Stella: {
+	DisplayName: Stella
+	Tooltip: ""
+}
+
+StellaFortuna: {
+	DisplayName: Stella Fortuna
+	Tooltip: Emite estrellas al moverte
+}
+
+Troglodyte: {
+	DisplayName: Troglodita
+	Tooltip:
+		'''
+		<right> para lanzar
+		'Hay un habitante del hielo en el chat'
+		'''
+}
+
+Warfare: {
+	DisplayName: Guerra
+	Tooltip: Invoca una calavera que luchará por ti al golpear enemigos
+}
+
+Zephyr: {
+	DisplayName: Céfiro
+	Tooltip:
+		'''
+		Mejora enormemente los ataques poco después de embestir
+		[c/9370db:<right>] para embestir
+		'''
+}
+
+ZirconSpear: {
+	DisplayName: Disarmonía
+	Tooltip: Crea múltiples reflejos de la lanza principal
+}
+
+DragonslayerArrow: {
+	DisplayName: Flecha Negra
+	Tooltip: Crea una copia de la flecha al golpear a un enemigo
+}
+
+LavaCream: {
+	DisplayName: Crema de Lava
+	Tooltip: ""
+}
+
+PiercingBullet: {
+	DisplayName: Bala Perforante
+	Tooltip: Atraviesa paredes delgadas
+}
+
+TracingArrow: {
+	DisplayName: Flecha de Rastreo
+	Tooltip: ""
+}
+
+BadForecast: {
+	DisplayName: Mal Pronóstico
+	Tooltip: Dispara flechas de relámpago, que invocan un nimbo furioso al golpear a un enemigo
+}
+
+BalloonGland: {
+	DisplayName: Glándula de Globo
+	Tooltip: Usa gel como munición
+}
+
+Dazzler: {
+	DisplayName: Deslumbrador
+	Tooltip: ""
+}
+
+Enforcer: {
+	DisplayName: Ejecutor
+	Tooltip: 50% de probabilidad de no consumir munición
+}
+
+FireBlaster: {
+	DisplayName: Lanzallamas de Lava
+	Tooltip:
+		'''
+		'La precisión no es su naturaleza'
+		Usa crema de lava como munición
+		33% de probabilidad de no consumir munición
+		'''
+}
+
+FireSalts: {
+	DisplayName: Sales de Fuego
+	Tooltip: "'De ninguna manera confundir con sales de baño'"
+}
+
+Gizmo: {
+	DisplayName: Artilugio
+	Tooltip: ""
+}
+
+GoldenBomb: {
+	DisplayName: Bomba Dorada
+	Tooltip: Crea una gran explosión en forma de cruz
+}
+
+GoldenDynamite: {
+	DisplayName: Dinamita Dorada
+	Tooltip: Crea una explosión en forma de cruz aún más grande
+}
+
+HailBow: {
+	DisplayName: Arco de Granizo
+	Tooltip: Probabilidad de disparar una flecha que explota en carámbanos
+}
+
+Heartmelter: {
+	DisplayName: Derretecorazones
+	Tooltip:
+		'''
+		Usa gel como munición
+		'Llamas de venganza... ni siquiera podrían derretir un malvavisco.'
+		'''
+}
+
+Klobbe: {
+	DisplayName: Klobbe
+	Tooltip: 25% de probabilidad de no consumir munición
+}
+
+LastSurprise: {
+	DisplayName: Última Sorpresa
+	Tooltip: ""
+}
+
+Macro: {
+	DisplayName: Macro
+	Tooltip:
+		'''
+		La velocidad de disparo es aleatoria
+		<right> para lanzar el arco como un bumerán
+		'''
+}
+
+MagicBow: {
+	DisplayName: Arco Encantado
+	Tooltip: Invoca flechas de la nada
+}
+
+MagicElementBow: {
+	DisplayName: Salpicadura de Chispa de Gema
+	Tooltip: ""
+}
+
+MagmaFang: {
+	DisplayName: Colmillo de Magma
+	Tooltip: Incendia cada flecha con una llama abrasadora letal
+}
+
+Messenger: {
+	DisplayName: Mensajero
+	Tooltip:
+		'''
+		<right> para disparar una flecha marcadora
+		Los enemigos marcados reciben más daño de cualquier fuente
+		'''
+}
+
+MiniMusketon: {
+	DisplayName: Musketrón
+	Tooltip:
+		'''
+		'Dispara cualquier cosa'
+		Mantén presionado el botón izquierdo del ratón para un disparo poderoso
+		'''
+}
+
+Monsoon: {
+	DisplayName: Monzón
+	Tooltip:
+		'''
+		Dispara una tormenta de cohetes
+		'No hay señales de sobrevivientes'
+		'''
+}
+
+Musketon: {
+	DisplayName: Musketrón Prime
+	Tooltip:
+		'''
+		'¡Dispara cualquier cosa, el doble de bien!'
+		Mantén presionado el botón izquierdo del ratón para un disparo poderoso
+		'''
+}
+
+Overflow: {
+	DisplayName: Desbordamiento
+	Tooltip: Dispara flechas tectónicas a velocidades increíblemente altas
+}
+
+Overgrowth: {
+	DisplayName: Sobrecrecimiento
+	Tooltip: <right> para disparar una flor que enreda a los enemigos cercanos
+}
+
+Ragnarok: {
+	DisplayName: Ragnarok
+	Tooltip:
+		'''
+		Incendia tus flechas con llama solar, haciendo explotar a los enemigos al golpear
+		50% de probabilidad de no consumir munición
+		'''
+}
+
+ReflexBow: {
+	DisplayName: Arco de Reflejos
+	Tooltip: ""
+}
+
+SnowFlakE: {
+	DisplayName: COPO-DE-FLAK-E
+	Tooltip: "'¡Se acerca el invierno!'"
+}
+
+Starbreaker: {
+	DisplayName: Rompedor de Estrellas
+	Tooltip: ""
+}
+
+Starstorm: {
+	DisplayName: Tormenta de Estrellas
+	Tooltip:
+		'''
+		Cubre a los enemigos con un chorro de estrellas
+		50% de probabilidad de no consumir estrellas
+		'''
+}
+
+Switcher: {
+	DisplayName: Intercambiador
+	Tooltip: Cada tercer disparo lanza un misil
+}
+
+TheCrescent: {
+	DisplayName: Creciente
+	Tooltip: Dispara flechas penetrantes, que liberan cúmulos de energía al golpear a un enemigo
+}
+
+Trifesta: {
+	DisplayName: Trifesta
+	Tooltip:
+		'''
+		50% de probabilidad de no consumir munición
+		Tiene un largo tiempo de carga
+		'''
+}
+
+Trigger: {
+	DisplayName: Gatillo
+	Tooltip:
+		'''
+		Aumenta tu velocidad de movimiento mientras se sostiene
+		50% de probabilidad de no consumir munición
+		'''
+}
+
+VulcanChaingun: {
+	DisplayName: Ametralladora Vulcan
+	Tooltip:
+		'''
+		Usa crema de lava como munición
+		50% de probabilidad de no consumir munición
+		'''
+}
+
+Walter: {
+	DisplayName: Walter
+	Tooltip:
+		'''
+		Esperar acumula disparos más poderosos
+		'Vino del espacio exterior...'
+		'''
+}
+
+WeatherRocket: {
+	DisplayName: Cohete Climático
+	Tooltip: <right> para reflejar proyectiles frente a ti
+}
+
+AdvancedTurretStaff: {
+	DisplayName: Vara de Torreta Avanzada
+	Tooltip:
+		'''
+		Invoca un centinela de torreta científica para luchar por ti
+		Solo obtiene el 25% de las bonificaciones de daño de marca
+		'¡Dispara un 65% más de bala por bala!'
+		'''
+}
+
+ExtraterrestrialRod: {
+	DisplayName: Vara Extraterrestre
+	Tooltip: Invoca un centinela de platillo lunar que dispara láseres letales a los enemigos
+}
+
+FireflyStaff: {
+	DisplayName: Vara de Luciérnaga
+	Tooltip: Invoca a una Luciérnaga para luchar por ti
+}
+
+GrandKeyRod: {
+	DisplayName: La Vara Llave
+	Tooltip: Invoca a Mimi la Mímica para atacar a los enemigos cercanos
+}
+
+IceFairyStaff: {
+	DisplayName: Vara del Hada de Hielo
+	Tooltip: Invoca a un Hada de Hielo para luchar por ti
+}
+
+NuclearFairyStaff: {
+	DisplayName: Vara del Hada Nuclear
+	Tooltip: Invoca a un Hada Nuclear para luchar por ti
+}
+
+OCStaff: {
+	DisplayName: Vara Casi Real
+	Tooltip: Invoca a una princesa viajera para luchar por ti
+}
+
+RazorfrostStaff: {
+	DisplayName: Vara de Copo Cortante
+	Tooltip:
+		'''
+		Invoca dos copos cortantes para luchar por ti
+		Solo obtiene el 50% de las bonificaciones de daño de marca
+		'''
+}
+
+StellarStaff: {
+	DisplayName: Vara Estrellada
+	Tooltip: Invoca una constelación de estrellas para luchar por ti
+}
+
+SupernaturalStaff: {
+	DisplayName: Vara Sobrenatural
+	Tooltip: Invoca a un Fantasma aterrador para luchar por ti
+}
+
+TurretStaff: {
+	DisplayName: Vara de Torreta
+	Tooltip:
+		'''
+		Invoca un centinela de torreta para luchar por ti
+		Solo obtiene el 25% de las bonificaciones de daño de marca
+		'¡Pon el dispensador aquí!'
+		'''
+}
+
+VampireFairyStaff: {
+	DisplayName: Vara Escarlata
+	Tooltip:
+		'''
+		Invoca a un Vampiro Sediento de Sangre para destruir cualquier cosa por ti
+		Mantén Shift + Pulsa ABAJO dos veces para desatar la verdadera Furia del Vampiro...
+		Restaurará vida al golpear mientras esté enfurecido
+		'''
+}
+
+VulcanianStaff: {
+	DisplayName: Vara Vulcaniana
+	Tooltip: Invoca martillos fundidos para luchar por ti
+}
+
+CinnabarPillar: {
+	DisplayName: Pilar de Cinabrio
+	Tooltip: ""
+}
+
+IronSledgehammer: {
+	DisplayName: Mazo de Hierro
+	Tooltip: "'Quiero ser tu mazo'"
+}
+
+LeadSledgehammer: {
+	DisplayName: Mazo de Plomo
+	Tooltip: "'Quiero ser tu mazo'"
+}
+
+Deflector: {
+	DisplayName: Deflector
+	Tooltip: "'Hoy no, gracias'"
+}
+
+NightsBane: {
+	DisplayName: Perdición de la Noche
+	Tooltip: Cada tercer golpe se potenciará
+}
+
+ZirconHelmet: {
+	DisplayName: Casco de Circón
+	Tooltip: ""
+}
+
+BlueCrabHeart: {
+	DisplayName: Corazón de Cangrejo Azul
+	Tooltip: ""
+}
+
+MusketronPrime: {
+	DisplayName: Musketrón Prime
+	Tooltip: ""
+}
+
+TheEnforcer: {
+	DisplayName: El Ejecutor
+	Tooltip: ""
+}
+
+BountifulCauldron: {
+	DisplayName: Caldero Abundante
+	Tooltip:
+		'''
+		Infunde a los jugadores cercanos con mejoras de poción
+		{$BountifulCauldron.NearbyWarning}
+		Alcance medio
+		'¡Nuevas tecnologías!'
+		'''
+	Toggle: Clic para activar/desactivar
+	QuickBuff: Clic derecho para aplicar todas las pociones
+	AddBuff: Doble clic para añadir desde
+	Inventory: el inventario
+	Clear: Clic derecho para limpiar los efectos
+	NearbyWarning: Solo un Caldero puede funcionar en el área a la vez
+	NearbyError:
+		'''
+		[c/FF0000:¡Ya hay otro caldero activo en el área!]
+		[c/FF0000:Desactívalo o rómpelo para seguir obteniendo mejoras.]
+		'''
+}
+
+EtherealCauldron: {
+	DisplayName: Caldero Etéreo
+	Tooltip:
+		'''
+		Infunde a los jugadores cercanos con mejoras de poción
+		{$BountifulCauldron.NearbyWarning}
+		Las mejoras se agotarán más lento cuando esté apagado
+		Aumenta la duración de las mejoras en un 25%
+		Alcance medio
+		'''
+}
+
+MoltenCauldron: {
+	DisplayName: Caldero Fundido
+	Tooltip:
+		'''
+		Infunde a los jugadores cercanos con mejoras de poción
+		{$BountifulCauldron.NearbyWarning}
+		Las mejoras no se agotarán mientras esté apagado
+		Añadir muchas pociones reduce la tasa de agotamiento
+		Aumenta la duración de las mejoras en un 50%
+		Alcance enorme
+		'''
+}
+
+MagicCauldron: {
+	DisplayName: Caldero Mágico
+	Tooltip:
+		'''
+		Infunde a los jugadores cercanos con mejoras de poción
+		Se puede apagar para detener por completo el agotamiento de pociones
+		Añadir muchas pociones reduce la tasa de agotamiento
+		Aumenta la duración de las mejoras en un 50%
+		Alcance infinito
+		'''
+}
+
+StarburstStaff: {
+	DisplayName: Vara de Estallido Estelar
+	Tooltip: ¡Invoca a una Medusa Espacial para presenciar crímenes por ti!
+}
+
+ExplodingBarrel: {
+	DisplayName: Barril Explosivo
+	Tooltip:
+		'''
+		Se puede encender con Sales de Fuego
+		'¡Es el día de demolición aleatoria de casas!'
+		'''
+}
+
+InsidiousRemote: {
+	DisplayName: Control Insidioso
+	Tooltip:
+		'''
+		Le brinda a tus mascotas una sesión gratuita de Terapia de Choque
+		'¡Muéstrales quién manda!'
+		'... pero, ¿en serio? Eres el peor ser humano en este mundo.'
+		'Y en los mundos más allá.'
+		'''
+}
+
+FrostyGlove: {
+	DisplayName: Guante Helado
+	Tooltip:
+		'''
+		Cubre a los enemigos con bolas de nieve mágicas
+		Se potencia con la mana al máximo
+		'''
+}
+
+OverloadingCrystal: {
+	DisplayName: Cristal Sobrecargador
+	Tooltip: Aumenta permanentemente la bonificación de [fx/mof:Desbordamiento de Mana]
+}
+
+BigGaboonga: {
+	DisplayName: Gran Gaboonga
+	Tooltip:
+		'''
+		Convierte las Balas de Mosquete en 'Gaboonglets'
+		Tras disparar 10 'Gaboonglets', dispara una 'Explosión Gaboonga' que arrasa a los enemigos
+		Inflige menos daño que la Minishark
+		'''
+}
+
+MemorySoapBar: {
+	DisplayName: Jabón de la Memoria
+	Tooltip:
+		'''
+		Se puede lanzar a algunos NPCs para que te olviden
+		Permite repetir diálogos de una sola vez
+		'Decepcionantemente, no produce espuma con memoria...'
+		'''
+}

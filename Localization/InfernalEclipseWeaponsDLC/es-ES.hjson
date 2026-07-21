@@ -1,0 +1,1286 @@
+Mods: {
+	InfernalEclipseWeaponsDLC: {
+		UI.Cooldowns.ImagiknightHeraldryBuff: Fuerza Imagiknight
+
+		Items: {
+			TwoPaths: {
+				DisplayName: Dos Caminos
+				Tooltip:
+					'''
+					Otorga 4 puntos de esencia de alma al impactar directamente
+					<left> para infligir daño completo en un radio mayor
+					<right> para consumir maná e invocar guadañas blancas que cortan al enemigo
+					'''
+			}
+
+			TheParallel: {
+				Tooltip:
+					'''
+					Invoca una lluvia de cuchillos cósmicos desde otra dimensión
+					Los cuchillos cósmicos entran en estado de emboscada al rebotar
+					Los cuchillos en estado de emboscada se cargan durante un tiempo
+					Una vez cargados por completo, atacarán al primer enemigo que se acerque infligiendo triple daño
+					Solo puede haber 27 cuchillos en estado de emboscada al mismo tiempo
+					Los cuchillos cósmicos que rebotan superando ese límite de 27 simplemente perseguirán al objetivo más cercano
+					'''
+				DisplayName: El Paralelo
+			}
+
+			SuperShotgun: {
+				Tooltip:
+					'''
+					<right> apuñala con la hoja de la escopeta, infligiendo daño cuerpo a cuerpo
+					'¿Qué? ¿Nunca habías visto una hoja en una escopeta?'
+					'''
+				DisplayName: Cuchilla-Gatillo
+			}
+
+			BellBallad: {
+				DisplayName: Balada de Campanas
+				Tooltip: ""
+			}
+
+			BirbSaxophone: {
+				DisplayName: Llamado del Pájaro
+				Tooltip: "'¡Invoca el poder del Pajarraco Abejorro!'"
+			}
+
+			DeepSeaDrawl: {
+				DisplayName: Sonsonete del Mar Profundo
+				Tooltip:
+					'''
+					'Un vestigio de su antigua fuerza, con sus partes esparcidas por todo el mundo'
+					[c/010057:Por un instante, juras ver un destello entre las burbujas ácidas que te rodean]
+					'''
+			}
+
+			DeathsWhisper: {
+				DisplayName: Susurro de la Muerte
+				Tooltip:
+					'''
+					Libera llamas devoradoras de fe que infligen [cbuff:CalamityMod/MarkedforDeath] y [cbuff:CalamityMod/GodSlayerInferno]
+					Por cada 5 llamas que dañan a un enemigo, libera un infierno de llamas teledirigidas
+					'''
+			}
+
+			BrimstoneHarp: {
+				DisplayName: Arpa de Azufre
+				Tooltip:
+					'''
+					Dispara un abanico de 3 cráneos de azufre perforantes
+					Los cráneos, al rebotar, se dividen en 3 pétalos de azufre que disparan al enemigo más cercano
+					'''
+			}
+
+			NecroticChorus: {
+				DisplayName: Coro Necrótico
+				Tooltip:
+					'''
+					Invoca hasta 10 espíritus que persiguen a los enemigos
+					<right> para un ataque alternativo de escupitajo de sangre
+					El escupitajo de sangre inflige [cbuff:CalamityMod/ArmorCrunch] y [cbuff:CalamityMod/BurningBlood]
+					'''
+			}
+
+			DeusFlute: {
+				DisplayName: Flauta del Viento Estelar
+				Tooltip: ""
+			}
+
+			CorrodedCane: {
+				DisplayName: Bastón Corroído
+				Tooltip: ""
+			}
+
+			Weapons: {
+				Rogue: {
+					OcramKnife: {
+						Tooltip: Los golpes sigilosos invocan dagas demoníacas adicionales que persiguen a los enemigos mientras aceleran
+						DisplayName: Daga del Olvidado
+					}
+
+					MothwingDagger: {
+						DisplayName: Daga Alapolilla
+						Tooltip:
+							'''
+							Lanza una daga alada con leve efecto teledirigido
+							Los golpes sigilosos crean pernos luminantes teledirigidos mientras viajan y al impactar
+							'''
+					}
+				}
+			}
+
+			TheBlight: {
+				DisplayName: La Plaga
+				Tooltip: ""
+			}
+
+			GrandThunderWhip: {
+				Tooltip:
+					'''
+					3 de daño de marca de invocación
+					Inflige [rbuff:Electrified] al impactar
+					'''
+				DisplayName: Gran Látigo del Trueno
+			}
+
+			DukeSynth: {
+				DisplayName: Sabiduría Viral
+				Tooltip: "'¡Por fin ha llegado!'"
+			}
+
+			SearingSpearTip: {
+				Tooltip: Las armas de lanza liberarán sulfuro de hidrógeno que quema a los enemigos al contacto
+				DisplayName: Punta de Lanza Abrasadora
+			}
+
+			ArcticSpearTip: {
+				DisplayName: Punta de Lanza Ártica
+				Tooltip: Las armas de lanza liberarán una punta criónica que no se ve afectada por la gravedad y perfora hasta 5 veces
+			}
+
+			DeepSeaDrawlShard1: {
+				DisplayName: Fragmento de la Boquilla
+				Tooltip:
+					'''
+					'La boquilla del Sonsonete del Mar Profundo Restaurado'
+					[c/010057:Permafrost contaba historias sobre sus encuentros con la tribu Lizhard]
+					[c/010057:Quizás él sepa algo...]
+					'''
+			}
+
+			DeepSeaDrawlShard2: {
+				DisplayName: Fragmento de la Campana
+				Tooltip:
+					'''
+					'La campana del Sonsonete del Mar Profundo Restaurado'
+					[c/010057:En un intento de mantener a otros alejados de este poder, la boquilla fue sellada en la mazmorra]
+					[c/010057:Se dice que la llave fue arrojada a las profundidades azules]
+					'''
+			}
+
+			DeepSeaDrawlShard3: {
+				DisplayName: Fragmento del Cuerpo
+				Tooltip:
+					'''
+					'El cuerpo del Sonsonete del Mar Profundo Restaurado'
+					[c/010057:Una gran forja de almas será el toque final para restaurar su poder]
+					[c/010057:Apresúrate, las olas pronto romperán a tu llamado]
+					'''
+			}
+
+			Legacy: {
+				DisplayName: Rugido de Ocram
+				Tooltip: ""
+			}
+
+			RestoredDeepSeaDrawl: {
+				DisplayName: Sonsonete del Mar Profundo Restaurado
+				Tooltip:
+					'''
+					Invoca un tornado de tiburones que arroja escombros acuáticos a los enemigos
+					Solo puedes tener un tornado de tiburones activo a la vez
+					<right> para un ataque alternativo de tifón que usa 2 de inspiración
+					'''
+			}
+
+			SulphuricShanty: {
+				DisplayName: Cántico Sulfúrico
+				Tooltip: ""
+			}
+
+			ExecutionersSword: {
+				DisplayName: Espadón del Exorcista
+				Tooltip:
+					'''
+					<left> para blandir la espada, restaurando 5 de vida al impactar
+					<right> para lanzar la espada, incrustándola en el enemigo golpeado
+					Cuando la espada está incrustada, liberará energía de luz y de oscuridad
+					La energía de luz persigue a los aliados cercanos y cura vida equivalente a la curación adicional
+					La energía de oscuridad persigue a los enemigos cercanos, infligiendo daño
+					Solo se puede tener una espada lanzada a la vez
+					'''
+			}
+
+			ButchersBloodmaker: {
+				DisplayName: Creasangre del Carnicero
+				Tooltip:
+					'''
+					Dispara una ráfaga de balas y un proyectil de sangre con leve efecto teledirigido
+					<right> para consumir 50 de vida, entrando en Furia Sangrienta durante 10 segundos
+					La Furia Sangrienta aumenta el daño de la Creasangre en un 50% y hace que los proyectiles de sangre inflijan [cbuff:CalamityMod/BurningBlood] al impactar
+					'''
+			}
+
+			NukeWhistle: {
+				Tooltip: "'Legalicen las canciones nucleares'"
+				DisplayName: Silbato Balístico Intercontinental
+			}
+
+			ListoftheDamned: {
+				DisplayName: Lista de los Condenados
+				Tooltip: Dispara una ráfaga de 6 almas que explotan hacia adelante tras un tiempo, infligiendo el doble de daño
+			}
+
+			AirPodShawty: {
+				DisplayName: AirPod Shawty
+				Tooltip:
+					'''
+					Puede disparar 2 tiros rápidamente antes de necesitar recargar
+					<left> para consumir inspiración y disparar un AirPod que estalla en sonido al impactar
+					El daño del AirPod aumenta con la munición consumida
+					<right> para disparar una ráfaga de balas de tu munición, sin otorgar potenciaciones
+					Estas balas escalan con los reforjados de bardo y las mejoras a distancia
+					"Airpod shawty voy a cobrarme una víctima con pinta bien sospechosa"
+					'''
+			}
+
+			AcidBelcher: {
+				DisplayName: Escupidor de Azufre
+				Tooltip: ""
+			}
+
+			ForeverHungry: {
+				DisplayName: Eternamente Hambriento
+				Tooltip: Los Hambrientos generan salpicaduras de sangre al rebotar
+			}
+
+			BottleOfSouls: {
+				DisplayName: Botella de Almas
+				Tooltip:
+					'''
+					Libera almas de la noche y de la luz desde el frasco
+					Las almas de la noche persiguen a los enemigos y les infligen daño, causando [rbuff:ShadowFlame]
+					Las almas de la luz persiguen y curan a los compañeros por una cantidad igual a la curación adicional
+					'''
+			}
+
+			SandSlasher: {
+				DisplayName: Cántico de los Mares de Antaño
+				Tooltip: Crea pequeños torbellinos de arena al rebotar
+			}
+
+			DeepseaTrident: {
+				DisplayName: Tridente Serpentino
+				Tooltip: ""
+			}
+
+			Stick: {
+				DisplayName: El Palo Definitivo de Poder Supremo y Destrucción Infinita
+				Tooltip:
+					'''
+					Filo V
+					Brecha IV
+					Aspecto Ígneo II
+					Irrompible III
+					Reparación
+					'Este palo encantado es totalmente legítimo'
+					'''
+			}
+
+			NeonRipper: {
+				DisplayName: Desgarrador C-PMA
+				Tooltip:
+					'''
+					Otorga 3 puntos de esencia de alma al impactar directamente
+					Golpear enemigos genera nanorrobots electrificantes
+					<right> para lanzar la guadaña, que se curvará en su camino de regreso
+					La guadaña inflige un 30% más de daño al ser lanzada
+					'''
+			}
+
+			PlasmaOcarina: {
+				Tooltip:
+					'''
+					Dispara un abanico de 3 rayos de plasma
+					Mantén <right> para cargar una gran onda de sonido dañina
+					[c/1FFBFF:'Una vez intenté crear instrumentos capaces de infligir daño.]
+					[c/1FFBFF:Este resulta ser uno de ellos, sin embargo estas armas nunca se produjeron en masa]
+					[c/1FFBFF:porque el ejército del Tirano no sabía tocarlas']
+					'''
+				DisplayName: Ocarina I-PLS
+			}
+
+			Infrariff: {
+				DisplayName: Infrariff I-LSR
+				Tooltip:
+					'''
+					Crea un espectáculo de luces de ondas infrarrojas que dañan a los enemigos al contacto
+					'La guitarra de espectáculo de luces por microondas, ya sabes cuál'
+					'''
+			}
+
+			Defibrillanator: {
+				DisplayName: Desfibrilador C-TSL
+				Tooltip:
+					'''
+					Consume vida para generar electricidad estática, alcanzando la carga completa tras 5 usos
+					Usar <left> con la carga completa dispara una ráfaga de rayos teledirigidos dañinos
+					Usar <right> en cambio dispara una ráfaga de rayos curativos
+					'¡Despejen!'
+					'''
+			}
+
+			ArckaneStaff: {
+				DisplayName: Bastón Arckane
+				Tooltip:
+					'''
+					Crea un rayo sobrecargado de elementos fluctuantes
+					Roba 5 de vida e inflige los siguientes efectos negativos:
+					[iabuff:Ichor], [iabuff:Confused], [iabuff:OnFire], [iabuff:Frostburn],
+					[iabuff:Poisoned], [iabuff:ShadowFlame], [iabuff:CursedInferno],
+					[iabuff:CalamityMod/Crumbling], [iabuff:CalamityMod/CrushDepth], [iabuff:CalamityMod/AstralInfectionDebuff],
+					[iabuff:CalamityMod/Plague], [iabuff:CalamityMod/BrimstoneFlames], [iabuff:ThoriumMod/MagickStaffDebuff],
+					[iabuff:ThoriumMod/Stunned] y [iabuff:ThoriumMod/Charmed]
+					'''
+			}
+
+			MystickStaff: {
+				DisplayName: Bastón Mystick
+				Tooltip:
+					'''
+					Crea un rayo supercargado de todos los elementos conocidos
+					Roba 10 de vida e inflige los siguientes efectos negativos:
+					[iabuff:CalamityMod/Voidfrost], [iabuff:CalamityMod/Dragonfire], [iabuff:CalamityMod/GodSlayerInferno],
+					[iabuff:CalamityMod/HolyFlames], [iabuff:CalamityMod/ElementalMix], [iabuff:CalamityMod/Laceration],
+					[iabuff:CalamityMod/MarkedforDeath], [iabuff:CalamityMod/WhisperingDeath], [iabuff:CalamityMod/VulnerabilityHex],
+					[iabuff:CalamityMod/MiracleBlight], [iabuff:Confused], [iabuff:OnFire], [iabuff:Frostburn],
+					[iabuff:Poisoned], [iabuff:ShadowFlame], [iabuff:CursedInferno],
+					[iabuff:CalamityMod/Crumbling], [iabuff:CalamityMod/CrushDepth], [iabuff:CalamityMod/AstralInfectionDebuff],
+					[iabuff:CalamityMod/Plague], [iabuff:CalamityMod/BrimstoneFlames], [iabuff:ThoriumMod/MagickStaffDebuff],
+					[iabuff:Ichor], [iabuff:ThoriumMod/Stunned] y [iabuff:ThoriumMod/Charmed]
+					'¡¿Cuánto más necesitas?!'
+					'''
+			}
+
+			GloomSwitch: {
+				DisplayName: Interruptor Sombrío
+				Tooltip:
+					'''
+					Un subfusil de fuego rápido con un amplio patrón de disparo que lanza una bola rebotante que inflige [rbuff:CursedInferno] cada 20 disparos
+					Disparar con más de 10 de maná lo consume, otorgando un tercio de segundo adicional de Ímpetu Sombrío y disparando un tiro más preciso
+					El Ímpetu Sombrío aumenta la velocidad de movimiento en un 25% mientras se empuña el Interruptor Sombrío
+					El daño de esta arma también se ve reducido por el Mal de Maná
+					'''
+			}
+
+			AuricBrimfireCrosier: {
+				Tooltip:
+					'''
+					Dispara bolas de magia de azufre en un patrón estelar
+					'¿Crees que la bruja es la única que puede lanzar esos hechizos?'
+					'''
+				DisplayName: Báculo Áureo de Fuego Sulfúrico
+			}
+
+			CataclysmicGauntletVoid: {
+				DisplayName: Guantelete Cataclísmico
+				Tooltip:
+					'''
+					Empodera tus puñetazos con energía de azufre para ráfagas de alto daño a corta distancia
+					Tiene un efecto especial cuando el Espadón Catastrófico está en la ranura contigua a este objeto
+					"'¡Cataclismo!'"
+					'''
+			}
+
+			CataclysmicGauntlet: {
+				DisplayName: Guantelete Cataclísmico
+				Tooltip:
+					'''
+					Empodera tus puñetazos con energía de azufre para ráfagas de alto daño a corta distancia
+					Tiene un efecto especial cuando el Espadón Catastrófico está en la ranura contigua a este objeto
+					"'¡Cataclismo!'"
+					'''
+			}
+
+			CatastrophicLongbladeVoid: {
+				DisplayName: Espadón Catastrófico
+				Tooltip:
+					'''
+					Dispara un haz de energía de azufre catastrófico hacia adelante
+					Tiene un efecto especial cuando el Guantelete Cataclísmico está en la ranura contigua a este objeto
+					'''
+			}
+
+			CatastrophicLongblade: {
+				DisplayName: Espadón Catastrófico
+				Tooltip:
+					'''
+					Dispara un haz de energía de azufre catastrófico hacia adelante
+					Tiene un efecto especial cuando el Guantelete Cataclísmico está en la ranura contigua a este objeto
+					'''
+			}
+
+			BarrenGarden: {
+				DisplayName: Jardín Yermo
+				Tooltip:
+					'''
+					<left> para disparar una ráfaga de pétalos teledirigidos, perforantes y curativos
+					<right> para invocar un gran loto congelado que disparará energías dañinas y curativas alternadamente
+					Solo puede haber un loto congelado activo a la vez y duran 30 segundos
+					'Hace tanto frío que siento que mis pulmones van a estallar'
+					'''
+			}
+
+			FroststeelGong: {
+				DisplayName: Gong de Acero Helado
+				Tooltip:
+					'''
+					Te permite golpear el gong rítmicamente
+					Acertar 3 golpes con buen ritmo también libera una ráfaga de 8 vibraciones congelantes hacia afuera
+					Acertar golpes con buen ritmo aumenta progresivamente su daño y nivel de potenciación
+					Fallar el ritmo de estos golpes reduce enormemente estas bonificaciones y cuesta 10 de inspiración
+					Estas bonificaciones se mantienen entre cambios de arma, pero se desvanecen gradualmente si no es tu arma activa
+					'''
+			}
+
+			EclipseBreastplate: {
+				DisplayName: Coraza del Eclipse
+				Tooltip:
+					'''
+					12% más de daño mágico y radiante
+					8% más de probabilidad de golpe crítico mágico y radiante
+					5% más de velocidad de lanzamiento mágico, curativo y radiante
+					15% más de reducción de daño
+					Los hechizos curativos sanan 3 de vida adicional
+					'''
+			}
+
+			EclipseGreaves: {
+				DisplayName: Grebas del Eclipse
+				Tooltip:
+					'''
+					8% más de daño mágico y radiante
+					4% más de probabilidad de golpe crítico mágico y radiante
+					Aumenta la ganancia de vacío en 1 y el vacío máximo en 50
+					15% menos de costo de maná
+					25% más de velocidad de movimiento
+					'''
+			}
+
+			EclipseHelm: {
+				DisplayName: Yelmo del Eclipse
+				Tooltip:
+					'''
+					8% más de daño mágico, radiante y de vacío
+					Aumenta la ganancia de vacío en 2 y el vacío máximo en 50
+					La regeneración de vida comienza más rápido
+					'''
+				SetBonus:
+					'''
+					Invoca un eclipse condensado
+					El eclipse liberará pulsos alternos de energía de luz y de oscuridad
+					Los pulsos de luz curarán a los aliados cercanos según tu curación adicional
+					Los pulsos de Oscuridad infligirán daño verdadero a los enemigos
+					'''
+				SetBonusExtra: Inmunidad al Juramento Roto
+			}
+
+			NecrosingerAnkles: {
+				DisplayName: Tobilleras del Necrocantante
+				Tooltip:
+					'''
+					20% más de daño de invocación, alcance del látigo y velocidad de movimiento
+					20% más de probabilidad de golpe crítico sinfónico
+					Aumenta la ganancia de vacío en 3 y el vacío máximo en 100
+					Aumenta el número máximo de centinelas en 3
+					'''
+			}
+
+			NecrosingerRibs: {
+				DisplayName: Costillas del Necrocantante
+				Tooltip:
+					'''
+					20% más de daño de invocación y sinfónico
+					+2.5 de regeneración de vida por segundo
+					Aumenta un 10% la probabilidad de que caigan notas de inspiración
+					Aumenta la duración de tus potenciaciones sinfónicas en 3 segundos
+					'''
+			}
+
+			NecrosingerSkull: {
+				DisplayName: Cráneo del Necrocantante
+				Tooltip:
+					'''
+					20% más de daño de invocación, sinfónico y de vacío
+					10% más de velocidad de látigo y de interpretación sinfónica
+					Aumenta la ganancia de vacío en 4 y el vacío máximo en 125
+					Aumenta la tasa de regeneración de inspiración en un 15%
+					Aumenta el número máximo de invocaciones en 3
+					'''
+				SetBonus:
+					'''
+					Invoca 3 notas fantasma que orbitan a tu alrededor
+					Estas notas pueden infligir daño de invocación causando [iabuff:Tuned] o bloquear un proyectil entrante
+					Este efecto tiene un tiempo de reutilización de 5 segundos
+					'''
+				SetBonusExtra: Usar un arma que no sea de bardo conserva las potenciaciones
+			}
+
+			SuperCellCirclet: {
+				DisplayName: Diadema de Garuda
+				Tooltip:
+					'''
+					25% más de daño a distancia y pícaro
+					15% más de daño de vacío
+					Aumenta tus puntos de técnica máximos en 2
+					Aumenta la ganancia de vacío en 4 y el vacío máximo en 75
+					'''
+				SetBonus:
+					'''
+					+115 de sigilo pícaro máximo
+					Quedarte quieto te otorga sigilo a distancia,
+					aumentando la habilidad a distancia y reduciendo la probabilidad de que los enemigos te apunten
+					Otorga vuelo rudimentario si no llevas alas equipadas
+					'''
+			}
+
+			SuperCellGuard: {
+				DisplayName: Guardia de Garuda
+				Tooltip:
+					'''
+					30% más de velocidad a distancia y pícara
+					Al consumir sigilo, un 15% del sigilo consumido se convierte en vacío
+					Aumenta el tiempo de vuelo con alas en un 15%
+					Aumenta la ganancia de vacío en 3 y el vacío máximo en 75
+					'''
+			}
+
+			SuperCellSabatons: {
+				DisplayName: Sabatones de Garuda
+				Tooltip:
+					'''
+					25% más de probabilidad de golpe crítico a distancia y pícaro
+					Aumenta la probabilidad de golpe crítico de vacío en 15% y la velocidad de movimiento en 30%
+					Aumenta la ganancia de vacío en 3 y el vacío máximo en 75
+					'''
+			}
+
+			ShadowflameAxe: {
+				DisplayName: Segador de Llamas Sombrías
+				Tooltip: Libera proyectiles teledirigidos de llamas sombrías cada tres golpes
+			}
+
+			TetherBlade: {
+				DisplayName: Cuchilla Atadura
+				Tooltip:
+					'''
+					Lanza la cuchilla hacia el cursor usando <right>
+					La cuchilla permanecerá unos segundos tras ser lanzada
+					<right> de nuevo para teletransportarte hacia la cuchilla antes de que desaparezca
+					Tras teletransportarte, la cuchilla apuñalará a todos los enemigos cercanos, infligiendo triple daño
+					'''
+			}
+
+			LightChain: {
+				DisplayName: Amarre Luminoso
+				Tooltip:
+					'''
+					Hacer clic en un enemigo lo encadena a un jugador
+					Las cadenas infligen daño una vez por segundo
+					Si te alejas demasiado del objetivo al que estás encadenado, la cadena se romperá
+					Hasta 3 enemigos pueden estar encadenados a ti
+					'''
+			}
+
+			StormCrossbow: {
+				DisplayName: Ballesta Rompetormentas
+				Tooltip: Convierte flechas de madera en pernos de tormenta que rebotarán hacia los enemigos cercanos
+			}
+
+			ObsidianSickle: {
+				DisplayName: Hoz de Obsidiana
+				Tooltip:
+					'''
+					Dispara una hoz oscura
+					'No es una inteligencia artificial, sino un auténtico idiota.'
+					'''
+			}
+
+			StarScepter: {
+				DisplayName: Cetro Estelar
+				Tooltip:
+					'''
+					Invoca hasta 5 estrellas orbitando alrededor del jugador
+					Cada estrella atacará continuamente al enemigo más cercano, priorizando a los jefes
+					'''
+			}
+
+			IlluminantCross: {
+				DisplayName: Cruz Luminante
+				Tooltip:
+					'''
+					Carga una ráfaga de luz luminante sobre el cursor
+					Cargar la ráfaga aumenta enormemente su tamaño y daño
+					Las ráfagas liberadas con carga completa lanzan 3 pernos luminantes y curan a los aliados
+					'''
+			}
+
+			GlowstringBiwa: {
+				DisplayName: Biwa de Cuerda Luminosa
+				Tooltip: Dispara 2 orbes luminantes conectados entre sí por una cuerda de luz
+			}
+
+			StormCarver: {
+				DisplayName: Tallador de Tormentas
+				Tooltip:
+					'''
+					Esta guadaña se blande direccionalmente en lugar de girar
+					Talla ráfagas de tormenta de los bloques golpeados
+					'¡Golpea la Tierra!'
+					'''
+			}
+
+			GrandAmplifier: {
+				DisplayName: Gran Amplificador
+				Tooltip:
+					'''
+					<left> para disparar un pequeño rayo que inflige [rbuff:Electrified]
+					<right> para invocar un relámpago sobre todos los enemigos cercanos con el efecto negativo [rbuff:Electrified]
+					Este relámpago eliminará el efecto negativo [rbuff:Electrified] pero infligirá una ráfaga de gran daño
+					'''
+			}
+
+			PocketConcert: {
+				DisplayName: Mechamatone I-PMA
+				Tooltip:
+					'''
+					Libera notas musicales de varios colores
+					Las notas musicales infligen una variedad de efectos negativos según su color
+					Libera una nota musical adicional hasta un límite de 5 por cada potenciación única que tengas en nivel 2 o superior
+					[c/1FFBFF:'Una vez me enviaron a buscar a esa 'orden de guerreros' que se hacen llamar rastreadores. Cuando lo hice,]
+					[c/1FFBFF:una de las cosas que me mostraron fue un instrumento único con forma de nota musical, pero con boca.]
+					[c/1FFBFF:Aunque era extraño, logré convertirlo en un arma más fuerte según la cantidad de otras mejoras]
+					[c/1FFBFF:que tuviera el usuario, aunque tuve que hacerlo mucho más grande que el instrumento original.']
+					'''
+			}
+
+			GammaKnife: {
+				DisplayName: Cuchillo Gamma C-GSS
+				Tooltip:
+					'''
+					Ignora 15 puntos de defensa
+					<left> para blandir el cuchillo direccionalmente, disparando un corte de alta intensidad de radiación gamma
+					El corte inflige gran daño a corta distancia pero se disipa a medida que viaja
+					<right> para lanzar el cuchillo, que explotará y regresará al colisionar con un enemigo o bloque
+					El cuchillo no se puede usar mientras está lanzado
+					'''
+			}
+
+			MiniaturizedRequiemEngine: {
+				DisplayName: Motor de Réquiem Miniaturizado
+				Tooltip: Tiene tres modos de disparo que se pueden alternar con <right>
+			}
+
+			MagicPurpleBouncyBalls: {
+				DisplayName: 27 Pelotas Mágicas Púrpuras Rebotadoras
+				Tooltip: "'La energía púrpura resuena con el poder de 27 errores simultáneos'"
+			}
+
+			GarudaWings: {
+				DisplayName: Alas de Garuda
+				Tooltip: "'Alas de la montura divina'"
+			}
+
+			ThunderboltActionSniperVoid: {
+				DisplayName: Rifle de Francotirador de Acción-Rayo
+				Tooltip:
+					'''
+					Dispara una potente bala de alta velocidad
+					También dispara un rayo imbuido con energía de vacío
+					<right> para hacer zoom
+					'''
+			}
+
+			ThunderboltActionSniper: {
+				DisplayName: Rifle de Francotirador de Acción-Rayo
+				Tooltip:
+					'''
+					Dispara una potente bala de alta velocidad
+					También dispara un rayo imbuido con energía de vacío
+					<right> para hacer zoom
+					'''
+			}
+
+			AllSeersGlass: {
+				DisplayName: Cristal del Vidente Absoluto
+				Tooltip:
+					'''
+					10% más de probabilidad de golpe crítico
+					Aumenta el daño crítico
+					Aumenta tu número máximo de centinelas en 2
+					Otorga un mayor zoom de forma pasiva
+					El efecto de zoom se puede desactivar con la visibilidad de accesorios
+					Presionar la tecla '{$Keybinds.AccessoryAbility.DisplayName}' congelará la cámara en su lugar
+					'Veo una fortaleza inquebrantable en tu futuro'
+					'''
+			}
+
+			SwordofaThousandTruths: {
+				DisplayName: Espada de las Mil Verdades
+				Tooltip:
+					'''
+					<left> para blandir la espada, restaurando 7 de vida al impactar
+					Mantén <right> para cargar y lanzar la espada, incrustándola en el enemigo golpeado
+					Cuando la espada está incrustada, liberará energía de luz y de oscuridad
+					La energía de luz persigue a los aliados cercanos y cura vida equivalente a la curación adicional
+					La energía de oscuridad persigue a los enemigos cercanos, infligiendo daño
+					Si tu curación adicional es 5 o más, el enemigo también sufrirá una variedad de efectos negativos debilitantes
+					Solo se puede tener una espada lanzada a la vez
+					'Lo siento, cerditos, pero es un sacrificio necesario'
+					'''
+			}
+
+			AbsoluteTVRemote: {
+				DisplayName: Control Remoto Absoluto de TV
+				Tooltip:
+					'''
+					<left> para generar un aura a tu alrededor que ralentiza los proyectiles en su radio, con un tiempo de reutilización de 2 minutos
+					<right> para generar un aura que en cambio acelera los proyectiles en su radio, también con un tiempo de reutilización de 2 minutos
+					Presionar {0} disparará un proyectil que paraliza a los enemigos en el sitio, utilizable con un tiempo de reutilización de 5 minutos
+					'¡LA TV NUNCA MUERE!'
+					'''
+			}
+
+			PlanetShaper: {
+				DisplayName: Formador de Planetas
+				Tooltip:
+					'''
+					Esta guadaña se blande direccionalmente en lugar de girar
+					Tiene un combo de tres golpes:
+					    En cada primer golpe, la guadaña dispara una bola de fuego teledirigida y 2 rayos cósmicos
+					    En cada segundo golpe, la guadaña dispara un rayo cósmico y dos bolas de fuego teledirigidas
+					    En cada tercer golpe, la guadaña gira sobre sí misma
+					    Mientras gira, emite hasta seis bolas de fuego teledirigidas y rayos cósmicos
+					La guadaña y las bolas de fuego ignoran 125 puntos de defensa e infligen [iabuff:CalamityMod/Dragonfire]
+					Los rayos cósmicos ignoran 75 puntos de defensa e infligen tanto [iabuff:CalamityMod/ElementalMix] como [iabuff:CatalystMod/AstralBlight]
+					'¡DAMAS Y CABALLEROS... QUE ROMPA, QUE ROMPA, QUE ROMPA!'
+					'''
+			}
+
+			GodsPitch: {
+				DisplayName: El Tono de Dios
+				Tooltip:
+					'''
+					Aumenta la inspiración máxima en 5
+					15% más de daño sinfónico
+					Aumenta la duración de tus potenciaciones sinfónicas en 3 segundos
+					Aumenta en 2 el nivel de las potenciaciones que aplicas a ti mismo y a otros
+					Aumenta el alcance de las potenciaciones
+					Los ataques de instrumento lanzan tubos hacia arriba que eventualmente caen
+					[c/FF232C:Los efectos de sonido de los tubos son fuertes y pueden resultar molestos o dañinos para algunas personas]
+					'Tus oídos no son dignos de escuchar esto...'
+					'''
+			}
+
+			GauntletofAnnihilationVoid: {
+				DisplayName: Guantelete de la Aniquilación
+				Tooltip:
+					'''
+					<left> desatará una ráfaga de 4 guanteletes cósmicos que infligen [cbuff:CalamityMod/GodSlayerInferno]
+					<right> liberará puñetazos cósmicos rápidos y te lanzará en la dirección del ratón
+					El impulso solo consume la mitad del costo de vacío y, al colisionar durante el impulso, recibes empuje
+					Presionar <left> 3 fotogramas después de recibir el empuje liberará un Guantelete Matadiós
+					El Guantelete Matadiós siempre golpea de forma crítica y también inflige [cbuff:CalamityMod/WhisperingDeath]
+					Proporciona una fuente de luz mientras esté marcado como favorito en el inventario
+					'''
+			}
+
+			GauntletofAnnihilation: {
+				DisplayName: Guantelete de la Aniquilación
+				Tooltip:
+					'''
+					<left> desatará una ráfaga de 4 guanteletes cósmicos que infligen [cbuff:CalamityMod/GodSlayerInferno]
+					<right> liberará puñetazos cósmicos rápidos y te lanzará en la dirección del ratón
+					Al colisionar durante el impulso, recibes empuje
+					Presionar <left> 3 fotogramas después de recibir el empuje liberará un Guantelete Matadiós
+					El Guantelete Matadiós siempre golpea de forma crítica y también inflige [cbuff:CalamityMod/WhisperingDeath]
+					Proporciona una fuente de luz mientras esté marcado como favorito en el inventario
+					'''
+			}
+
+			BlightedBadge: {
+				DisplayName: Insignia Plagada
+				Tooltip:
+					'''
+					Los golpes cuerpo a cuerpo verdaderos hacen caer estrellas astrales del cielo
+					Los atacantes quedan electrocutados, infligiendo un daño inmenso
+					Recibir daño aumenta enormemente la velocidad cuerpo a cuerpo y la probabilidad de golpe crítico brevemente
+					También libera una explosión y aumenta temporalmente el daño cuerpo a cuerpo verdadero en un 30% al recibir daño
+					La duración del impulso escala con la cantidad de daño recibido, hasta 10 segundos
+					Anula el efecto negativo de Infección Astral
+					'''
+			}
+
+			ImagiknightHeraldry: {
+				DisplayName: Heráldica Imagiknight
+				Tooltip:
+					'''
+					Multiplica todo el daño según lo cerca que estés de tus compañeros, con un aumento de daño máximo del 20%
+					Emite un aura llameante que también aumenta el daño de los compañeros
+					Los compañeros ganan un daño multiplicativo creciente cuanto más cerca están de ti
+					Estos multiplicadores no se acumulan con el multiplicador del [i:CalamityMod/WarbanneroftheRighteous] Estandarte de Guerra de los Justos, y se usará el mayor de los dos bonos
+					Los efectos son transparentes y silenciosos si la visibilidad está desactivada
+					Otorga a todos los compañeros +{0} de regeneración de vida por segundo, +{1}% de vida máxima, {2}% de reducción de daño, {3} de defensa y {4}% más de daño
+					'Una idea es una mera partícula, una que se acelera exponencialmente cuantas más mentes atraviesa.
+					Cuando juntas suficientes mentes, pueden hacer que dicha idea sea verdaderamente imparable.' -Imagiknight_Girus
+					'''
+			}
+
+			VibrantShield: {
+				DisplayName: Escudo Vibrante
+				Tooltip:
+					'''
+					Aumenta el vacío máximo en 25
+					Generas constantemente un escudo de 15 de vida
+					'''
+			}
+
+			DivineAxe: {
+				DisplayName: Hacha Divina
+				Tooltip:
+					'''
+					Blande un hacha lenta y pesada infundida con [cbuff:CalamityMod/HolyFlames]
+					Al impactar directamente con el hacha, invoca una explosión con forma de estrella que inflige [cbuff:Daybreak]
+					Usar <right> invoca un sol sobre ti, y mientras mantienes <right> lo apuñalarás, provocando que libere grandes explosiones
+					Estas explosiones infligen [cbuff:Daybreak]
+					'''
+			}
+
+			AncientSteelShield: {
+				DisplayName: Escudo de Acero Antiguo
+				Tooltip:
+					'''
+					Generas constantemente un escudo de 20 de vida
+					Los atacantes tienen la posibilidad de sufrir un sangrado acumulativo y permanente de 5 de daño por segundo
+					Esta probabilidad aumenta con tu probabilidad de golpe crítico
+					'''
+			}
+
+			DoubleFlail: {
+				DisplayName: Núcleo de Mangual Doble
+				Tooltip:
+					'''
+					75% de daño básico
+					Las armas de mangual, al primer golpe y con cierta probabilidad en cada golpe posterior, crean una bola de púas de azufre o de ventisca
+					La bola de púas de Azufre aplica [cbuff:CalamityMod/BrimstoneFlames] a los enemigos y rara vez otorga la mejora [iabuff:InfernalEclipseWeaponsDLC/HotFlailDmg]
+					La bola de púas de Ventisca aplica [iabuff:Frostburn2] a los enemigos y rara vez otorga la mejora [iabuff:InfernalEclipseWeaponsDLC/ColdFlailDefense]
+					'''
+			}
+
+			PerfectPurple: {
+				DisplayName: Núcleo de Mangual de Perfección Cósmica
+				Tooltip:
+					'''
+					100% de daño básico
+					Las armas de mangual crean una bola de púas perfecta al primer golpe
+					Los golpes posteriores del mangual tienen probabilidad de crear más bolas de púas perfectas
+					Las bolas de púas perfectas infligen [cbuff:CalamityMod/GodSlayerInferno] y rara vez otorgan la mejora [iabuff:InfernalEclipseWeaponsDLC/PerfectFlailBuff]
+					'''
+			}
+
+			BlackHoleFlail: {
+				DisplayName: Núcleo de Mangual de Agujero Negro
+				Tooltip:
+					'''
+					300% de daño básico
+					Los golpes de las armas de mangual tienen probabilidad de crear agujeros negros que persiguen a los enemigos, los atraen hacia sí y rara vez infligen [cbuff:CalamityMod/WitherDebuff]
+					'¿Sabes que esto no debería funcionar? Un agujero negro de este tamaño podría destruir el planeta por completo... supongo que no deberíamos cuestionarlo'
+					'''
+			}
+
+			PerennialShield: {
+				DisplayName: Escudo Perenne
+				Tooltip:
+					'''
+					Generas constantemente un escudo de 50 de vida
+					Obtiene efectos adicionales según qué bonificación de set de Armadura de Saqueador que tengas
+					    [i:CalamityMod/ReaverHeadTank]: Aumenta la vida máxima en 15 y reduce el daño recibido en un 10%
+					    [i:CalamityMod/ReaverHeadMobility]: 10% más de velocidad de movimiento y permite la habilidad de embestida
+					    [i:CalamityMod/ReaverHeadExplore]: 20% más de velocidad de salto y otorga inmunidad al daño de caída
+					'''
+			}
+
+			HolyFlail: {
+				DisplayName: Núcleo de Mangual Profanado
+				Tooltip:
+					'''
+					100% de daño básico
+					Las armas de mangual crean una bola de púas profanada al primer golpe
+					Los golpes posteriores del mangual tienen probabilidad de crear más bolas de púas profanadas
+					Las bolas de púas profanadas infligen [cbuff:CalamityMod/HolyFlames] y a veces inician fuegos sagrados al impactar
+					'''
+			}
+
+			TerraSheath: {
+				DisplayName: Vaina Terra
+				Tooltip:
+					'''
+					Los golpes de espada liberan {0} orbes terra que persiguen a los enemigos cercanos si se mantiene el arma sin usar durante {1} {^1:segundo;segundos}
+					Estos orbes terra recuperan un 3% de tu vida faltante al golpear a un enemigo
+					'''
+			}
+
+			BlazeScourgeBag: {
+				DisplayName: Bolsa del Azote Llameante
+				Tooltip:
+					'''
+					Otorga al usuario habilidades maestras de yoyo
+					Los yoyos secundarios infligen un 50% menos de daño
+					El daño de tu yoyo inflige [cbuff:CalamityMod/HolyFlames] y tiene probabilidad de infligir [iabuff:InfernalEclipseWeaponsDLC/LimbBurn] a los enemigos
+					Dañar a un enemigo con un yoyo te otorga un 10% de reducción de daño hasta que recibas daño
+					Este efecto debe recargarse durante 15 segundos tras protegerte
+					'''
+			}
+		}
+
+		ItemTooltip: {
+			DuesFluteLore: Habían encontrado la fuente de la Infección Astral, y en un intento de destruirla usaron el Núcleo Estelar sobre el altar infectado.
+			DuesFluteLore2: Sin embargo, el altar tuvo una reacción inesperada... dos luces comenzaron a rebotar entre sí, dirigiéndose hacia el cielo y abriendo una grieta sobre él
+			DuesFluteLore3: Lo que salió de allí era verdaderamente algo de otro mundo, pero no tuvieron tiempo de apreciarlo, pues el sirviente de las estrellas se abalanzó sobre ellos.
+			UniversalLore1: Kos había hecho su última resistencia. Usó todos sus trucos. Había perdido ante ellos. Sin embargo, eso no significaba que Eclipse hubiera perdido.
+			UniversalLore2: Usando hasta el último resquicio de poder que le quedaba en el alma, invocó al verdadero matadiós: el Devorador de Dioses.
+			ParallelLore1: Tal como esperaba, habían derrotado al Tejedor de Tormentas. Pero Kos tenía otro truco bajo la manga.
+			ParallelLore2: De repente, sin previo aviso, Kos transportó a todos al reino espejo e invocó a su segundo sirviente: Signus.
+			TwoSideLore1: Superaron el Ragnarok. Desmantelaron a Eclipse. Sobrevivieron al Monzón de Limo.
+			TwoSideLore2: Se encontraban al borde del infinito, cuando Ren finalmente les preguntó "¿qué camino elegirán?"
+			NeonRipperLore1: Tras la derrota del Goliat, Erelian decidió reutilizar parte del blindaje que este llevaba puesto.
+			NeonRipperLore2: Al hacerlo, creó dos armas: la primera de ellas, una guadaña capaz de absorber aura, de forma similar a la habilidad de Kami.
+			PBGBardALore2: Al hacerlo, creó dos armas: la segunda de ellas, una guitarra que disparaba microondas de colores.
+			DoubleFlailLore:
+				'''
+				Calamitas y Permafrost siempre tuvieron un gran trabajo en equipo como alumna y maestro cuando ella era aún una niña
+				Estos dos mangüales podrían estar aplicando las mismas técnicas para combinar hielo y fuego de formas desastrosas contra tus enemigos
+				'''
+			PerfectPurpleLore:
+				'''
+				Y sin embargo, no era perfecto.
+				El trabajo en equipo solo puede llevarte hasta cierto punto. Después de todo, eres tu propio mejor amigo.
+				Dos de uno mismo podrían lograr mucho más porque...
+				Eres perfecto contigo mismo.
+				'''
+			SearingSpearTip: 150% de daño básico
+			ArcticSpearTip: 115% de daño básico
+			VerveineItem: "'Un objeto de la bendición de la orquídea...'"
+			EngineGatling:
+				'''
+				Modo Gatling:
+				Mantener el disparo reduce gradualmente la dispersión del arma y aumenta la cadencia de tiro hasta un límite
+				Los disparos pueden perforar hasta cuatro veces
+				'''
+			EngineGatlingMode: GATLING
+			EngineLaser:
+				'''
+				Modo Láser:
+				Dispara un láser infinitamente perforante que deja tras de sí una estela de daño persistente
+				El láser puede rebotar en bloques hasta 3 veces
+				'''
+			EngineLaserMode: LÁSER
+			EngineTheBigOne:
+				'''
+				Modo 'El Grande':
+				Dispara un orbe masivo de energía condensada que detonará tras un tiempo
+				La detonación hará más daño a los enemigos más cercanos a su centro
+				Solo puede existir un 'Grande' a la vez
+				'''
+			EngineTheBigOneMode: EL GRANDE
+			Playtester: - Objeto de Probador -
+			Contributor: - Objeto de Contribuidor -
+			Donor: - Objeto de Donante -
+			DedTo: - Dedicado a {0} -
+
+			Dedicated: {
+				Akira: Akira
+				WH: WardrobeHummus
+				Advantaje: Advantaje
+				Tyr: Tyr
+				Soltan: Soltan
+				bryce: bryce27
+				eviil81: evil81
+				rose: ros�
+				Jill: JillyFish
+				Eduarrdo: Eduarrdo
+				Mae: ma3allim
+				Yob: Yob
+				Pudding: Pudd1ng
+				Ropro: Ropro0923
+				cheese: cheesenuggets
+				Puzzles: Mr. Puzzles
+				cat: StarlightCat
+				Goldsock: Goldsockz2
+				paradox: Imagiknight_Parad0xical
+				Arkangel: Arkangel
+			}
+
+			Cooldowns: {
+				Pause: ¡La Pausa del Control Remoto de TV está en tiempo de reutilización!
+				FastForward: ¡El Avance Rápido del Control Remoto de TV está en tiempo de reutilización!
+				Slowdown: ¡El Rebobinado del Control Remoto de TV está en tiempo de reutilización!
+			}
+		}
+
+		Projectiles: {
+			TwoPathsPro.DisplayName: Dos Caminos
+			BlackExplosion.DisplayName: Explosión Negra
+
+			Magic: {
+				WhiteScythe.DisplayName: Guadaña Blanca
+				HealingLightningArc.DisplayName: Arco de Rayo
+				DamagingLightningArc.DisplayName: Arco de Rayo
+			}
+
+			TwoPathsPro2.DisplayName: Dos Caminos
+			TheParallellPro.DisplayName: El Paralelo
+			BellBalladEleum.DisplayName: Campana de Eleum
+			BellBalladHavoc.DisplayName: Campana del Caos
+			BellBalladSunlight.DisplayName: Campana del Sol
+			BellBalladSunlightLaser.DisplayName: Láser de la Balada
+			BellBalladEleumBolt.DisplayName: Perno de Escarcha de la Balada
+			BellBalladHavocSlash.DisplayName: Corte de Azufre de la Balada
+			SulfurSpirit.DisplayName: Espíritu de Azufre
+			DeepSeaDrawlPro.DisplayName: Sonsonete del Mar Profundo
+			HomingPlankton.DisplayName: Plancton Teledirigido
+			DeathsWhisperPro.DisplayName: Susurro de la Muerte
+			BrimstoneHarpPro.DisplayName: Cráneo del Arpa de Azufre
+			BirbSaxophonePro.DisplayName: Pluma de Rayo Rojo
+			NecroticChorusPro.DisplayName: Coro Necrótico
+			NecroticChorusWisp.DisplayName: Espíritu del Coro
+			DeusFlutePro.DisplayName: Flauta del Viento Estelar
+			DeusFluteStar.DisplayName: Estrella de la Flauta del Viento Estelar
+			CorrodedCanePro.DisplayName: Bastón Corroído
+			CorrodedCaneShark.DisplayName: Escuadrón Sulfúrico de Tiburones
+			OcramKnifeProSickle.DisplayName: Hoz de la Daga de Ocram
+			OcramKnifeProBolt.DisplayName: Perno de la Daga de Ocram
+			OcramKnifePro.DisplayName: Daga de Ocram
+			TheBlightProSickle.DisplayName: Hoz de la Plaga
+			TheBlightProServantLaser.DisplayName: Láser del Sirviente de la Plaga
+			TheBlightProServant.DisplayName: Sirviente de la Plaga
+			TheBlightProScythe.DisplayName: La Plaga
+			GrandThunderWhipProjectile.DisplayName: Gran Látigo del Trueno
+			SulfurExplosionPro.DisplayName: Explosión de Azufre
+			HydrogenSulfideProj.DisplayName: Sulfuro de Hidrógeno
+			LegacyProBolt.DisplayName: Perno del Legado
+			LegacyProSickle.DisplayName: Hoz del Legado
+			MiniScourge.DisplayName: Mini Azote
+			DrawlEel.DisplayName: Anguila
+			DrawlIsopod.DisplayName: Isópodo
+			DrawlStarfish.DisplayName: Estrella de Mar
+			DrawlStarfishShard.DisplayName: Fragmento de Estrella de Mar
+			OurSharknado.DisplayName: Tornado de Tiburones
+			DarkEnergyProj.DisplayName: Energía Oscura
+			ExecutionersSwordPro.DisplayName: Espadón del Exorcista
+			LightEnergyProj.DisplayName: Energía de Luz
+			LightSlashPro.DisplayName: Corte de Luz
+			CryonicSpearTip.DisplayName: Punta de Lanza Criónica
+			SuperShotgunStab.DisplayName: Apuñalada de la Cuchilla-Gatillo
+			ExecutionersSwordSlashPro.DisplayName: Espadón del Exorcista
+			ExecutionersSwordLightEnergy.DisplayName: Energía de Luz
+			ExecutionersSwordDarkEnergy.DisplayName: Energía Oscura
+			BloodShotFriendly.DisplayName: Disparo de Sangre
+			NukePro.DisplayName: Bomba Nuclear
+			NukeMissile.DisplayName: Misil Nuclear
+			ListoftheDamnedSoul_Orange.DisplayName: Alma Condenada
+			ListoftheDamnedSoul_Cyan.DisplayName: Alma Condenada
+			AirPod.DisplayName: AirPod
+			AirPodNote.DisplayName: Nota del AirPod
+			BouncingHungry.DisplayName: Hambriento Rebotador
+			HealingSoul.DisplayName: Alma Curativa
+			DamagingSoul.DisplayName: Alma Dañina
+			ForeverHungryBlood.DisplayName: Sangre
+			AcidBelcherPro.DisplayName: Escupidor de Azufre
+			SandSlasherSandnado.DisplayName: Torbellino de Arena
+			SandSlasher_Projectile.DisplayName: Cántico de los Mares de Antaño
+			DeepseaTrident_Projectile.DisplayName: Tridente Serpentino
+			Nanodroid.DisplayName: Nanorrobot
+			NeonRipperPro.DisplayName: Desgarrador C-PMA
+			InfrariffProjectile.DisplayName: Infrariff
+			InfrariffLaser.DisplayName: Láser del Infrariff
+			ColoredExplosion.DisplayName: Explosión
+			Misc.BardPulseRiffleShot.DisplayName: Disparo del Rifle de Pulso
+			Staff_Projectile.DisplayName: Proyectil de Bastón_
+			ArckaneStaffPro.DisplayName: Perno Arckane
+			MystickStaffPro.DisplayName: Energía Mystick
+			HealerBrimstoneBarrage.DisplayName: Barrera de Azufre
+			SupremeCataclysmFist.DisplayName: Puño del Cataclismo Supremo
+			SupremeCatastropheSlash.DisplayName: Corte de la Catástrofe Suprema
+			SharknadoBolt.DisplayName: Tornado de Tiburones
+			BarrenGardenHealingPro.DisplayName: Jardín Yermo
+			BarrenGardenLotus.DisplayName: Loto del Jardín
+			BarrenGardenPro.DisplayName: Jardín Yermo
+			BarrenGardenProHoming.DisplayName: Jardín Yermo
+			MothwingDaggerPro.DisplayName: Daga Alapolilla
+			IlluminantBolt.DisplayName: Perno Luminante
+			FroststeelPulse.DisplayName: Pulso de Acero Helado
+			LightChainProjectile.DisplayName: Cadena de Luz
+			StarScepterBolt.DisplayName: Perno del Cetro
+			StarScepterStar.DisplayName: Estrella del Cetro
+			ObsidianSickleProjectile.DisplayName: Hoz de Obsidiana
+			ShadowflameAxeBolt.DisplayName: Perno del Hacha de Llamas Sombrías
+			ShadowflameAxeProjectile.DisplayName: Hacha de Llamas Sombrías
+			TetherBladeProjectile.DisplayName: Cuchilla Atadura
+			TetherBladeProjectileBlink.DisplayName: Parpadeo
+			StormCrossbowArrow.DisplayName: Flecha de Tormenta
+			IlluminantCrossPro.DisplayName: Cruz Luminante
+			GlowstringBiwaPro.DisplayName: Biwa de Cuerda Luminosa
+			GlowstringBeam.DisplayName: Rayo de Cuerda Luminosa
+			StormTalonPro.DisplayName: Garra de Tormenta
+			StormCarverPro.DisplayName: Tallador de Tormentas
+			GrandAmplifierPro.DisplayName: Amplificador
+			GrandAmplifierPro2.DisplayName: Amplificador
+			MusicalNoteProjectile.DisplayName: Nota Musical
+			GammaExplosionProjectile.DisplayName: Explosión Gamma
+			GammaKnifeProjectile.DisplayName: Cuchillo Gamma
+			GammaKnifeThrownProjectile.DisplayName: Cuchillo Gamma
+			GammaSlashProjectile.DisplayName: Corte Gamma
+			GrandAmplifierLightning.DisplayName: Rayo
+			MiniaturizedRequiemEngineGatlingPro.DisplayName: Láser Gatling del Motor
+			MiniaturizedRequiemEngineLaserPro.DisplayName: Láser del Motor
+			MiniaturizedRequiemEngineTheBigOnePro.DisplayName: El Grande
+			MiniaturizedRequiemEngineLaserPro2.DisplayName: Láser del Motor
+			MiniaturizedRequiemEngineTheBigOnePro2.DisplayName: El Grande
+			MiniaturizedRequiemEngineTheBigOnePro3.DisplayName: El Grande
+			NecrosingerNote.DisplayName: Nota del Necrocantante
+			MagicPurpleBouncyBall.DisplayName: Pelota Mágica Púrpura Rebotadora
+			EclipseEclipse.DisplayName: Eclipse
+			CatastrophicLongbladeHoldout.DisplayName: Espadón Catastrófico
+			CatastrophicLongbladeHoldoutVoid.DisplayName: Espadón Catastrófico
+			VoidBolt.DisplayName: Perno de Vacío
+			EclipsePulseDark.DisplayName: Pulso Oscuro
+			EclipsePulseLight.DisplayName: Pulso Sagrado
+			BardPulseRiffleBoom.DisplayName: Estallido del Rifle de Pulso
+			BrimstonePetalPro.DisplayName: Pétalo de Azufre
+			SwordofaThousandTruthsSlashPro.DisplayName: Espada de las Mil Verdades
+			SwordofaThousandTruthsHoldPro.DisplayName: Espada de las Mil Verdades
+			SwordofaThousandTruthsPro.DisplayName: Espada de las Mil Verdades
+			AbsoluteTVRemotePausePro.DisplayName: Pausa
+			PlanetShaperFireball.DisplayName: Bola de Fuego del Formador de Planetas
+			PlanetShaperPro.DisplayName: Formador de Planetas
+			PlanetShaperStar.DisplayName: Estrella del Formador de Planetas
+			MetalPipe.DisplayName: Tubo Áureo
+			AbsoluteTVRemoteFastForwardPro.DisplayName: Aura de Avance Rápido
+			AbsoluteTVRemoteRewindPro.DisplayName: Aura de Rebobinado
+			CosmicPunch.DisplayName: Guantelete Cósmico
+			Melee.GauntletofAnnihilationPunches.DisplayName: Puñetazos Cósmicos
+			DivineAxeHoldout.DisplayName: Hacha Divina
+			DivineExplosion.DisplayName: Explosión Divina
+			DivineSunAura.DisplayName: Aura Divina
+			DivineAxeSunAura.DisplayName: Aura Solar del Hacha Divina
+			ColdFlailCorePro.DisplayName: Núcleo de Mangual Frío
+			HotFlailCorePro.DisplayName: Núcleo de Mangual Caliente
+			PerfectFlailCorePro.DisplayName: Núcleo de Mangual Perfecto
+			BlackHoleFlailCorePro.DisplayName: Núcleo de Mangual de Agujero Negro
+			HolyFlailCorePro.DisplayName: Núcleo de Mangual Sagrado
+			HolyFlailFire.DisplayName: Fuego Sagrado
+			TerraOrb.DisplayName: Orbe Terra
+		}
+
+		Buffs: {
+			DefaultSummonTag: {
+				DisplayName: Marca de Invocación por Defecto
+				Description: Mods.InfernalEclipseWeaponsDLC.Buffs.DefaultSummonTag.Description
+			}
+
+			SwordStuckBuff: {
+				DisplayName: Espada Incrustada
+				Description: Mods.InfernalEclipseWeaponsDLC.Buffs.SwordStuckBuff.Description
+			}
+
+			BloodRageBuff: {
+				DisplayName: Furia Sangrienta
+				Description: Aumenta el daño de la Creasangre en un 25% y hace que los proyectiles de sangre inflijan sangre ardiente al impactar
+			}
+
+			TVRemotePaused: {
+				DisplayName: Pausado
+				Description: ¡Congelado en el tiempo!
+			}
+
+			TVRemotePlayerPaused: {
+				DisplayName: Pausado
+				Description: ¡Congelado en el tiempo!
+			}
+
+			ColdFlailDefense: {
+				Description: Estás anulado por el azul congelante
+				DisplayName: Anulación Azul
+				ItemTooltip: Aumenta la resistencia al daño en un 10%
+			}
+
+			HotFlailDmg: {
+				Description: Estás amplificado por el rojo ardiente
+				DisplayName: Amplificación Roja
+				ItemTooltip: Aumenta el daño en un 10%
+			}
+
+			PerfectFlailBuff: {
+				DisplayName: Púrpura Perfecto
+				Description: Eres Perfecto.
+				ItemTooltip: Aumenta el daño, la resistencia al daño y la velocidad de movimiento en un 15%
+			}
+
+			GrandThunderWhipTag: {
+				DisplayName: Marca del Gran Látigo del Trueno
+				Description: Mods.InfernalEclipseWeaponsDLC.Buffs.GrandThunderWhipTag.Description
+			}
+
+			LimbBurn: {
+				DisplayName: Quemadura de Miembros
+				Description: Tus músculos se están deteriorando
+				ItemTooltip:
+					'''
+					Calor - 50 de daño por segundo
+					Reduce la velocidad del enemigo en un 7.5%
+					'''
+			}
+		}
+
+		Configs: {
+			WeaponConfig: {
+				DisplayName: Configuración de Armas
+
+				Headers: {
+					VerveineWeapons: Armas de Verveine
+					General: General
+					SoltansCut: El Corte de Soltan
+				}
+
+				AIGenedWeapons: {
+					Label: Conceptos de Armas Generados por IA
+					Tooltip: Activa/Desactiva si se cargan los conceptos de armas generados por IA del video 'Which AI Makes the Best Terraria Weapons?' de Verveine
+				}
+
+				GitGudWeapon: {
+					Label: Concepto de Arma de GitGudWO
+					Tooltip: Activa/Desactiva si se carga el concepto de arma creado por GitGudWO para el video 'Which AI Makes the Best Terraria Weapons?' de Verveine
+				}
+
+				EnableScreenEffects: {
+					Label: Activar Efectos de Pantalla
+					Tooltip: ""
+				}
+
+				UnfinishedContent: {
+					Label: Contenido Inacabado
+					Tooltip: ""
+				}
+
+				LifeShields: {
+					Label: Escudos de Vida
+					Tooltip: ""
+				}
+
+				FlailCores: {
+					Label: Núcleos de Mangual
+					Tooltip: ""
+				}
+
+				YoyoPouches: {
+					Label: Bolsas de Yoyo
+					Tooltip: ""
+				}
+			}
+		}
+
+		"Keybinds.Absolute TV Remote Pause.DisplayName": Pausa del Control Remoto Absoluto de TV
+	}
+}

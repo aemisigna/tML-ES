@@ -1,0 +1,666 @@
+MorgensternBluePro.DisplayName: Morgenstern Azul Pro
+MorgensternGreenPro.DisplayName: Morgenstern Verde Pro
+MorgensternMoltenPro.DisplayName: Morgenstern Fundido Pro
+MorgensternPro.DisplayName: Morgenstern Pro
+MorgensternRedPro.DisplayName: Morgenstern Rojo Pro
+SacrificialBandSpirit.DisplayName: Espíritu de la Banda Sacrificial
+ElementalCreation.DisplayName: Creación Elemental
+DiamondShipSound.DisplayName: Sonido de la Nave de Diamante
+DamnedCatcherBobber.DisplayName: Flotador del Atrapador Condenado
+BlazingWhipProjectile.DisplayName: Látigo Llameante
+CrablingHookProjectile.DisplayName: Gancho de Cangrejito
+TrappersHookProjectile.DisplayName: Gancho del Trampero
+RedHotSolutionPro.DisplayName: Solución al Rojo Vivo Pro
+MoonwalkerStar.DisplayName: Estrella del Caminante Lunar
+LavaSpike.DisplayName: Púa de Lava
+GarlicProj.DisplayName: Proyectil de Ajo
+MenaceSpawn.DisplayName: Invocación de Amenaza
+MenacingStar.DisplayName: Estrella Amenazante
+MenacingStar2.DisplayName: Estrella Amenazante
+ShutterbugPhoto.DisplayName: Foto de la Fotomaniática
+TwilightWalker_MagicBook.DisplayName: Libro Mágico del Caminante del Ocaso_
+BlueCrescentPet.DisplayName: Mascota Creciente Azul
+BlueFallenMoon.DisplayName: Luna Caída Azul
+GreenCrescentPet.DisplayName: Mascota Creciente Verde
+GreenFallenMoon.DisplayName: Luna Caída Verde
+LuckyMoonPet.DisplayName: Mascota Luna de la Suerte
+PinkCrescentPet.DisplayName: Mascota Creciente Rosa
+PinkFallenMoon.DisplayName: Luna Caída Rosa
+YellowCrescentPet.DisplayName: Mascota Creciente Amarilla
+YellowFallenMoon.DisplayName: Luna Caída Amarilla
+FunkyMirrorPet.DisplayName: Mascota Espejo Funky
+SunnyPet.DisplayName: Mascota Solecito
+VioletPet.DisplayName: Mascota Violeta
+PhotoRifleHeld.DisplayName: Rifle de Fotos (Sostenido)
+SnapshotProjectile.DisplayName: Proyectil de Instantánea
+AstrolotlPet.DisplayName: Mascota Astrolotl
+FrogletPet.DisplayName: Mascota Ranita
+SpooksterPet.DisplayName: Mascota Fantasmita
+StarfaceJrPet.DisplayName: Mascota Carastrella Jr.
+ThickBoulderLihzahrdProj.DisplayName: Roca Gruesa
+ThickBoulderProj.DisplayName: Roca Gruesa
+MonsterCageProj.DisplayName: Proyectil de Jaula de Monstruo
+PrismaticBulletProj.DisplayName: Proyectil de Bala Prismática
+LunarflarePillar.DisplayName: Pilar de Bengala Lunar
+MoonSnap.DisplayName: Chasquido Lunar
+ShatteringDesignFade.DisplayName: Desvanecimiento del Diseño Destructor
+ShatteringDesignFinisher.DisplayName: Rematador del Diseño Destructor
+ShatteringDesignProjectile.DisplayName: Proyectil del Diseño Destructor
+ThornyGreatswordProjectile.DisplayName: Proyectil de la Espadona Espinosa
+ThornyGreatswordSeed.DisplayName: Semilla de la Espadona Espinosa
+WeHaveTechnologyDecal.DisplayName: Calcomanía de Tenemos Tecnología
+WeHaveTechnologyProjectile.DisplayName: Proyectil de Tenemos Tecnología
+ZirconCrystal.DisplayName: Cristal de Circón
+ZirconWasterProjectile.DisplayName: Proyectil del Devastador de Circón
+ButterflyStrikeBlue.DisplayName: Golpe de Mariposa Azul
+ButterflyStrikeGreen.DisplayName: Golpe de Mariposa Verde
+ButterflyStrikePink.DisplayName: Golpe de Mariposa Rosa
+ButterflyStrikeYellow.DisplayName: Golpe de Mariposa Amarilla
+SearingEmberProj.DisplayName: Proyectil de Brasa Abrasadora
+Pyromancy.DisplayName: Piromancia
+PyromancyDark.DisplayName: Piromancia
+BlazerangProj.DisplayName: Proyectil de Blazerang
+BlazerangRipple.DisplayName: Onda de Blazerang
+BouncerProj.DisplayName: Proyectil Rebotador
+PinkBouncerProj.DisplayName: Proyectil Rebotador Rosa
+FishbonePro.DisplayName: Espina de Pez Pro
+NightDiscLaser.DisplayName: Láser del Disco Nocturno
+NightDiscProj.DisplayName: Proyectil del Disco Nocturno
+PursuerProj.DisplayName: Proyectil Perseguidor
+RodOfDreadExplosion.DisplayName: Explosión del Cetro del Terror
+RodOfDreadProj.DisplayName: Proyectil del Cetro del Terror
+RodOfDreadRune.DisplayName: Esfera Mística
+TheEclipseProj.DisplayName: Proyectil del Eclipse
+TheEclipseSun.DisplayName: Sol
+TwisterIce.DisplayName: Tornado de Hielo
+TwisterProj.DisplayName: Proyectil de Tornado
+FlakCannonProj.DisplayName: Proyectil del Cañón Antiaéreo
+SuperFlakCannonProj.DisplayName: Proyectil del Súper Cañón Antiaéreo
+RedArrow.DisplayName: Flecha Roja
+BallofFleshMissilePro.DisplayName: Bola de Carne
+BallofFleshProj.DisplayName: Bola de Carne
+EyesoreProj.DisplayName: Adefesio
+FrostflakeFanProj.DisplayName: Proyectil del Abanico de Copo de Escarcha
+SupportGunProj.DisplayName: Proyectil del Arma de Apoyo
+RagnarokProj.DisplayName: Proyectil de Ragnarok
+ReflexBowProj.DisplayName: Proyectil del Arco Reflejo
+WeatherRocketProj.DisplayName: Proyectil del Cohete Climático
+DazzlerBolt.DisplayName: Rayo del Deslumbrador
+DazzlerBoltEffect.DisplayName: Mal Karma
+DragonslayerArrow.DisplayName: Flecha Matadragones
+DragonslayerEffect.DisplayName: Flecha Negra
+FlareArrow.DisplayName: Flecha de Bengala
+FlareArrowSpirit.DisplayName: Flecha de Bengala
+GoldenArrow.DisplayName: Flecha Dorada
+HailArrow.DisplayName: Flecha de Granizo
+LightningArrow.DisplayName: Flecha de Rayo
+MarkedArrow.DisplayName: Flecha Marcada
+PrecipitationArrow.DisplayName: Flecha de Precipitación
+StormArrowB.DisplayName: Flecha de Tormenta
+StormArrowC.DisplayName: Flecha de Tormenta
+TracingArrow.DisplayName: Flecha Trazadora
+Blunderbuss.DisplayName: Trabuco
+FlareBolt.DisplayName: Rayo de Bengala
+FlareBoltClone.DisplayName: Clon del Rayo de Bengala
+Axe.DisplayName: Hacha
+BadJesterArrow.DisplayName: Flecha del Bufón Malvado
+BarrelExplosion.DisplayName: Explosión de Barril
+BasaltEruption.DisplayName: Erupción de Basalto
+BasaltEruption2.DisplayName: Erupción de Basalto 2
+BatPotSpawn.DisplayName: Invocación de la Olla Murciélago
+Balls.DisplayName: Cenit Solar
+ChaseHand.DisplayName: Mano Persecutora
+ChaseHandPunch.DisplayName: Puñetazo de la Mano Persecutora
+ChaseKnifeTelegraph.DisplayName: Aviso del Cuchillo Persecutor
+ChaseVoid.DisplayName: Vacío Persecutor
+ChaseVoidKnife.DisplayName: Cuchillo del Vacío Persecutor
+ChaseVoidTelegraph.DisplayName: Aviso del Vacío Persecutor
+DeathSwirl.DisplayName: Remolino Abrasador
+FieryDagger.DisplayName: Daga Ígnea
+FieryKnife.DisplayName: Cuchillo Ígneo
+FlamingEdge.DisplayName: Filo Llameante
+Hailstorm.DisplayName: Espiral de Ceniza
+HeatBomb.DisplayName: Bomba de Calor
+HeatClover.DisplayName: Trébol de Calor
+HeatSnap.DisplayName: Chasquido de Calor
+BigDeathBone.DisplayName: Hueso Sombrío
+DeathBone.DisplayName: Hueso de la Muerte
+InsurgentExplosion.DisplayName: Explosión del Insurgente
+NocturnalFlare.DisplayName: Bengala Nocturna
+RebelliousSkull.DisplayName: Cráneo Rebelde
+RebelliousSkull2.DisplayName: Cráneo Rebelde 2
+RebelSkull.DisplayName: Cráneo
+KillerHand.DisplayName: Mano Asesina
+BlueStar.DisplayName: Estrella Azul
+BlueStarMini.DisplayName: Mini Estrella Azul
+BouncyMenaceStar.DisplayName: Estrella Amenazante
+IceBlock.DisplayName: Trozo de Escarcha
+IceBowling.DisplayName: Bolos de Hielo
+MenacingKnife.DisplayName: Cuchillo Amenazante
+MenacingUmbrella.DisplayName: Paraguas Amenazante
+MoonBounce.DisplayName: Rebote Lunar
+RollingStar.DisplayName: Estrella Rodante
+ShiningStar.DisplayName: Estrella Brillante
+SwirlingStar.DisplayName: Estrella Arremolinada
+MinigunSolarApex.DisplayName: Minigun del Ápice Solar
+Butterflies.DisplayName: Mariposa
+MirageSpawn.DisplayName: Invocación del Espejismo
+MirrorAmethyst.DisplayName: Rayo del Espejo
+MirrorDiamond.DisplayName: Rayo del Espejo
+MirrorEmerald.DisplayName: Rayo del Espejo
+MirrorRuby.DisplayName: Rayo del Espejo
+MirrorSapphire.DisplayName: Rayo del Espejo
+MirrorTopaz.DisplayName: Rayo del Espejo
+SinisterButterfly.DisplayName: Mariposa Siniestra
+StormArrow.DisplayName: Flecha de Tormenta
+Elec.DisplayName: Elec
+FrostEffect.DisplayName: Efecto de Escarcha
+FrostExplo.DisplayName: Disparo de Escarcha
+FrostMark.DisplayName: Marca de Escarcha
+FrostMine.DisplayName: Mina de Escarcha
+FrostMineAlt.DisplayName: Mina de Escarcha
+FrostSpark.DisplayName: Chispa de Escarcha
+FrostWave.DisplayName: Andanada de Hielo
+OneshotBomb.DisplayName: Bomba Escarchada
+OneshotHolowave.DisplayName: Holoonda
+SnowWave.DisplayName: Onda de Nieve
+ParaffinCoughBig.DisplayName: Problema de Habilidad
+ParaffinCoughSmall.DisplayName: Algo de Parafina
+ParaffinFist.DisplayName: Puño de Parafina
+ParaffinFlamingBolt.DisplayName: Bola de Fuego Genial de Parafina
+ParaffinNote.DisplayName: Nota de Parafina
+ParaffinNote2.DisplayName: Nota de Parafina
+ParaffinRing.DisplayName: Anillo de Parafina
+ParaffinRingShot.DisplayName: Anillo de Parafina
+ParaffinSpawn.DisplayName: Invocación de Parafina
+ParaffinSpawnCage.DisplayName: Jaula de Invocación de Parafina
+SeetheCopeKnife.DisplayName: Cuchillo de la Rabia Contenida
+ShotgunSolarApex.DisplayName: Escopeta del Ápice Solar
+SonicHand.DisplayName: Mano Sónica
+SonicWave.DisplayName: Rayo Ardiente
+BladewavePro.DisplayName: Onda Oscura
+SpiritFire.DisplayName: Llama del Espíritu
+SpiritFireAlt.DisplayName: Llama del Espíritu
+SpiritFireSphere.DisplayName: Esfera de Fuego del Espíritu
+SpiritFragileFireSphere.DisplayName: Esfera de Fuego del Espíritu
+SpiritFragileIceSphere.DisplayName: Esfera de Hielo del Espíritu
+SpiritFragileKnifeSphere.DisplayName: Esfera de Cuchillos del Espíritu
+SpiritIce.DisplayName: Hielo del Espíritu
+SpiritIceAlt.DisplayName: Hielo del Espíritu
+SpiritIceSphere.DisplayName: Esfera de Hielo del Espíritu
+SpiritKnife.DisplayName: Cuchillo del Espíritu
+SpiritKnifeAlt.DisplayName: Cuchillo del Espíritu
+SpiritKnifeSphere.DisplayName: Esfera de Cuchillos del Espíritu
+SpiritScissors.DisplayName: Tijeras
+UFOBomb.DisplayName: Bomba Alienígena
+UltimateChaseKnifeTelegraph.DisplayName: Aviso del Cuchillo Persecutor Definitivo
+UltimateRay.DisplayName: Rayo Definitivo
+VoidKnife.DisplayName: Cuchillo del Vacío
+BreathtakerShard.DisplayName: Quitaaliento
+Bubble.DisplayName: Burbuja
+CaveImpFire2.DisplayName: Estela de Fuego
+ColossusBoom.DisplayName: Explosión Desagradable
+ColossusLaser.DisplayName: Bola Láser
+CombustingOrb.DisplayName: Orbe Combustible
+CommonExplosion.DisplayName: Explosión Común
+CrabBomb.DisplayName: Bomba Cangrejo
+CrystalShout.DisplayName: Grito de Cristal
+EvilSmoke.DisplayName: Humo Maligno
+GiantSpike.DisplayName: Púa Gigante
+GoldenBombPro.DisplayName: Bomba Dorada
+GoldenDynamitePro.DisplayName: Dinamita Dorada
+GoldenGelBomb.DisplayName: Bomba de Gel Dorada
+HoneyBlob.DisplayName: Gota de Miel
+MagnetoDeathBone.DisplayName: Hueso de la Muerte Magnético
+MuskeletonKnife.DisplayName: Cuchillo del Mosqueesqueleto
+NutSword.DisplayName: Espada Oscura
+PlantShot.DisplayName: Esencia Vegetal
+PurpleGelBomb.DisplayName: Bomba de Gel Púrpura
+SentinelFireball.DisplayName: Estrella Púrpura
+TrollBoomerang.DisplayName: Bumerán del Hobgoblin
+WitnessExplode.DisplayName: Explosión del Testigo
+YellowBone.DisplayName: Hueso Amarillo
+AlbedoBolt.DisplayName: Rayo de Albedo
+AstralMayhemBolt.DisplayName: Rayo del Caos Astral
+AstralSpike.DisplayName: Púa Astral
+BlazingRiffNote.DisplayName: Nota del Riff Ardiente
+BlazingRiffPro.DisplayName: Riff Ardiente
+BlazingScopeBoom.DisplayName: Explosión Agradable
+BlizzardSwirl.DisplayName: Remolino de Ventisca
+BloodyBolt.DisplayName: Rayo Sangriento
+BloodyStreamProj.DisplayName: Corriente Sangrienta
+ColdFrontShard.DisplayName: Fragmento del Frente Frío
+ConstellationBolt.DisplayName: Constelación
+CrabCannonProj.DisplayName: Cangrejokaze
+EyeOfBelialPro.DisplayName: Ojo de Belial
+FirecasterSpellball.DisplayName: Bola de Fuego
+FirecasterSpellshot.DisplayName: Hechizo del Piromante
+FullColorAmethyst.DisplayName: Amatista a Todo Color
+FullColorBoom.DisplayName: Explosión a Todo Color
+FullColorDiamond.DisplayName: Diamante a Todo Color
+FullColorEmerald.DisplayName: Esmeralda a Todo Color
+FullColorRuby.DisplayName: Rubí a Todo Color
+FullColorSapphire.DisplayName: Zafiro a Todo Color
+FullColorTopaz.DisplayName: Topacio a Todo Color
+GalacticZap.DisplayName: Descarga Galáctica
+GreenPulse.DisplayName: Rayo Verde
+KillerWandBubble.DisplayName: Burbuja de la Varita Asesina
+Landcrusher.DisplayName: Estatua
+MagicBookCrystalStorm.DisplayName: Tormenta de Cristales del Libro Mágico
+MagicBookDemonScythe.DisplayName: Guadaña Demoníaca del Libro Mágico
+MagicBookWaterbolt.DisplayName: Rayo de Agua del Libro Mágico
+ManaBolt.DisplayName: Rayo de Lágrima
+ManaStaff.DisplayName: Cetro de Piedra Lagrimal
+MassDestructionLaser.DisplayName: Destrucción Masiva
+MassDestructionOld.DisplayName: Destrucción Masiva Antigua
+Monolith.DisplayName: Monolito
+NexusDollor.DisplayName: Dólar del Nexo
+NexusWallet.DisplayName: Billetera del Nexo
+OvertakerBlade.DisplayName: Hoja Adelantadora
+OvertakerSpawner.DisplayName: Invocador del Adelantador
+Patromancy.DisplayName: Patromancia
+PointOfViewFirePro.DisplayName: Fuego del Punto de Vista
+PointOfViewPro.DisplayName: Punto de Vista
+PrimeLaser.DisplayName: Láser
+PrimeLaserButMelee.DisplayName: Láser
+ScepterSpellball.DisplayName: Orbe Mágico
+ScepterSpellshot.DisplayName: Hechizo del Cetro
+SnowSpellball.DisplayName: Anillo de Nieve
+SolarisBolt.DisplayName: Rayo de Solaris
+SolarisRune.DisplayName: Runa de Solaris
+SOWPro.DisplayName: Enjambre de la Ira
+Starr.DisplayName: Estrella
+StepFlamesAmethyst.DisplayName: Llama
+StepFlamesDiamond.DisplayName: Llama
+StepFlamesEmerald.DisplayName: Llama
+StepFlamesRainbow.DisplayName: Estrella Arcoíris
+StepFlamesRuby.DisplayName: Llama
+StepFlamesSapphire.DisplayName: Llama
+StepFlamesTopaz.DisplayName: Llama
+DeadMansSawProjectile.DisplayName: Sierra
+SwapperShot.DisplayName: Disparo del Intercambiador
+TrueColorRay.DisplayName: Rayo de Color Verdadero
+ArcticOscillationProj.DisplayName: "{$Mods.Split.Items.ArcticOscillation.DisplayName}"
+ArcticStar.DisplayName: Estrella Glacial
+BallisticSpearProj.DisplayName: "{$Mods.Split.Items.BallisticSpear.DisplayName}"
+BonePlagueBone.DisplayName: Hueso de la Plaga Ósea
+BurnMyDreadProj.DisplayName: Estrella Temible
+BurnMyDreadFlame.DisplayName: Piro
+BuryTheLight.DisplayName: Entierra la Luz
+CeremonialKnife.DisplayName: Cuchillo Ceremonial
+ChikageSlash.DisplayName: "{$Mods.Split.Items.Chikage.DisplayName}"
+DeliciousSaturnBlade.DisplayName: Hoja de Saturno Delicioso
+DeliciousSaturnProj.DisplayName: "{$Mods.Split.Items.DeliciousSaturn.DisplayName}"
+DragonLegacyBlue.DisplayName: Legado del Dragón Azul
+DragonLegacyRed.DisplayName: Legado del Dragón Rojo
+DragunYoyo.DisplayName: Yoyo Dragun
+FlamaxeExplosion.DisplayName: Explosión
+FlamaxeProj.DisplayName: "{$Mods.Split.Items.Flamaxe.DisplayName}"
+ForestEchoProj.DisplayName: Eco del Bosque
+FrigidBeam.DisplayName: Rayo Gélido
+GlasserangProj.DisplayName: "{$Mods.Split.Items.Glasserang.DisplayName}"
+GlasserangShard.DisplayName: Fragmento de Glasserang
+GlowingBone.DisplayName: Hueso Resplandeciente
+GoldenSickleProj.DisplayName: "{$Mods.Split.Items.GoldenSickle.DisplayName}"
+AntarcticOscillationBeam.DisplayName: Rayo Glacial
+AntarcticOscillationBlade.DisplayName: Hoja de Oscilación Antártica
+AntarcticStar.DisplayName: Estrella Glacial
+BonePlagueBlade.DisplayName: Hoja de la Plaga Ósea
+CactusClaymoreBlade.DisplayName: Hoja de la Claymore de Cactus
+DragonFishBlade.DisplayName: Hoja del Pez Dragón
+EccentricBeam.DisplayName: Rayo Oscuro
+EccentricScissorsBlade.DisplayName: Hoja de las Tijeras Excéntricas
+FireWavePro.DisplayName: Onda de Fuego
+GoldClaymoreBlade.DisplayName: Hoja de la Claymore de Oro
+Haemorain.DisplayName: Haemorain
+LaserbrandBlade.DisplayName: Hoja de Marca Láser
+LaserbrandStar.DisplayName: Estrella Glacial
+LeviathanBlade.DisplayName: Hoja del Leviatán
+MementoMoriBlade.DisplayName: Hoja del Memento Mori
+MoondialBlade.DisplayName: Hoja del Reloj Lunar
+MoondialWave.DisplayName: Onda del Reloj Lunar
+PlatinumClaymoreBlade.DisplayName: Hoja de la Claymore de Platino
+QliphothBeam.DisplayName: Rayo Ardiente
+QliphothCutterBlade.DisplayName: Hoja del Cortador Qliphoth
+RealitySlicerBlade.DisplayName: Hoja del Cortarrealidad
+SchwarzweltBlade.DisplayName: Hoja de Schwarzwelt
+SchwarzweltKnife.DisplayName: Cuchillo de Schwarzwelt
+ScourgeBlade.DisplayName: Hoja del Flagelo
+SummitBreakerBlade.DisplayName: Hoja del Rompecumbres
+SummitBreakerBoulder.DisplayName: Roca del Rompecumbres
+ZweihanderBlade.DisplayName: Hoja del Zweihander
+HellgazeHeld.DisplayName: Mirada Infernal (Sostenida)
+HellgazeNote.DisplayName: Nota de la Mirada Infernal
+HermesHeld.DisplayName: Hermes (Sostenido)
+HermesDash.DisplayName: Embestida de Hermes
+KingsBountyThrown.DisplayName: "{$Mods.Split.Items.KingsBounty.DisplayName}"
+MagnetYoyoThrown.DisplayName: "{$Mods.Split.Items.MagnetYoyo.DisplayName}"
+OnyxxProjectile.DisplayName: Proyectil de Onyxx
+OnyxxSpectre.DisplayName: Espectro de Onyxx
+PossessedSaber.DisplayName: Sable Poseído
+PurpleRay.DisplayName: Hiperrayo
+Baseball.DisplayName: Pelota de Béisbol
+BaseballBee.DisplayName: Pelota de Béisbol Abeja
+BaseballCrab.DisplayName: Pelota de Béisbol Cangrejo
+BaseballDaisy.DisplayName: Pelota de Béisbol Margarita
+BaseballEoc.DisplayName: Pelota de Béisbol Eoc
+BaseballFart.DisplayName: Pelota de Béisbol Pedo
+BaseballFire.DisplayName: Pelota de Béisbol de Fuego
+BaseballFrost.DisplayName: Pelota de Béisbol de Escarcha
+BaseballHyper.DisplayName: Pelota de Béisbol Hiper
+BaseballHyperRay.DisplayName: Hiperrayo
+BaseballIvory.DisplayName: Pelota de Béisbol de Marfil
+BaseballNitro.DisplayName: Pelota de Béisbol de Nitro
+BaseballSaw.DisplayName: Pelota de Béisbol de Sierra
+BaseballWooden.DisplayName: Pelota de Béisbol de Madera
+ChilblainShard.DisplayName: Fragmento de Sabañón
+CrabWaterExplosion.DisplayName: Explosión de Agua del Cangrejo
+InstigatorBoom.DisplayName: Explosión
+MorgensternBlueBoom.DisplayName: Explosión
+MorgensternGreenBoom.DisplayName: Explosión
+MorgensternRedBoom.DisplayName: Explosión
+NitroSwirl.DisplayName: Remolino de Nitro
+RacquetSlash.DisplayName: Raqueta
+StarExplosion.DisplayName: Explosión
+RimeBladeProj.DisplayName: Proyectil de la Hoja de Escarcha
+SkeletonWarrior.DisplayName: Guerrero Esqueleto
+SkeletonWarrior2.DisplayName: Guerrero Esqueleto 2
+SkeletonWarriorStar.DisplayName: Estrella Escarlata
+Skullshot.DisplayName: Disparo de Cráneo
+Solstice.DisplayName: Solsticio
+SolsticeBlade.DisplayName: Hoja del Solsticio
+SparkyBolt.DisplayName: Rayo de Sparky
+SparkyRay.DisplayName: Hiperrayo
+StarlightBreakerPentagram.DisplayName: Pentagrama del Rompeluz Estelar
+StarlightBreakerRay.DisplayName: Rayo del Rompeluz Estelar
+StarlightBreakerSpark.DisplayName: Chispa del Rompeluz Estelar
+StarlightBreakerSpear.DisplayName: Lanza del Rompeluz Estelar
+StarlightBreakerWave.DisplayName: Onda del Rompeluz Estelar
+StellaFortunaYoyo.DisplayName: "{$Mods.Split.Items.StellaFortuna.DisplayName}"
+StellarFortuneBolt.DisplayName: Rayo de la Fortuna Estelar
+StellaYoyo.DisplayName: "{$Mods.Split.Items.Stella.DisplayName}"
+SummitEarthBlade.DisplayName: Hoja de Tierra de la Cumbre
+SummitShard.DisplayName: Fragmento de la Cumbre
+SummitSlash.DisplayName: Corte de la Cumbre
+TerracquetFlower.DisplayName: Flor de Terracquet
+TroglodyteProj.DisplayName: "{$Mods.Split.Items.Troglodyte.DisplayName}"
+WarfareProj.DisplayName: "{$Mods.Split.Items.Warfare.DisplayName}"
+WelkingProj.DisplayName: "{$Mods.Split.Items.Welking.DisplayName}"
+WelkingSpectre.DisplayName: "{$Mods.Split.Items.Welking.DisplayName}"
+WindfallPro.DisplayName: "{$Mods.Split.Items.Windfall.DisplayName}"
+WindfallThunder.DisplayName: Trueno de Windfall
+ZirconSpearSpectre.DisplayName: "{$Mods.Split.Items.ZirconSpear.DisplayName}"
+ZirconSpearReal.DisplayName: "{$Mods.Split.Items.ZirconSpear.DisplayName}"
+MiniBlunderbuss.DisplayName: Mini Trabuco
+EmeraldSpirit.DisplayName: Espíritu de Esmeralda
+EonSkull.DisplayName: Cráneo
+FlandreBlood.DisplayName: Sangre de Flandre
+FortuneReading.DisplayName: Lectura de la Fortuna
+SupportRune.DisplayName: Runa de Apoyo
+TeapotHealing.DisplayName: Curación de la Tetera
+TroublesomeVesselProj.DisplayName: Solo Problemas
+InkDemonPet.DisplayName: Mascota Demonio de Tinta
+JackFrostPet.DisplayName: Mascota Jack Escarcha
+LifeGal.DisplayName: Chica de Vida
+LunaPet.DisplayName: Mascota Luna
+ManaGal.DisplayName: Chica de Maná
+UnpixiePet.DisplayName: Mascota Antihada
+WitnessPet.DisplayName: Mascota Testigo
+AngryNimbus.DisplayName: Nimbo Enojado
+BubbleFriendly.DisplayName: Burbuja
+FireSaltsPro.DisplayName: Sales de Fuego
+Fireshot.DisplayName: Disparo de Fuego
+FireshotEffect.DisplayName: Efecto del Disparo de Fuego
+HailThorn.DisplayName: Espina de Granizo
+HeartmelterProj.DisplayName: Proyectil Derretecorazones
+Holowave.DisplayName: Holoonda
+PiercingHolowave.DisplayName: Holoonda Perforante
+TracingHolowave.DisplayName: Holoonda Trazadora
+Macro.DisplayName: Macro
+MonsoonRocket.DisplayName: Cohete Monzón
+OverflowBolt.DisplayName: Flecha Tectónica
+OvergrowthFlower.DisplayName: Flor de la Sobrecrecida
+PiercingBullet.DisplayName: Bala Perforante
+RagnarokArrow.DisplayName: Flecha de Ragnarok
+RagnarokBoom.DisplayName: Explosión de Ragnarok
+ReflexArrow.DisplayName: Flecha Reflejo
+ReflexArrowBlue.DisplayName: Flecha Reflejo Azul
+ReflexShard.DisplayName: Fragmento Reflejo
+RocketStar.DisplayName: Estrella Cohete
+SnowFlak.DisplayName: Antiaéreo de Nieve
+Starbreaker.DisplayName: Rompeestrellas
+StarstormArrow.DisplayName: Flecha de la Tormenta de Estrellas
+StarstormBolt.DisplayName: Rayo de la Tormenta de Estrellas
+StarstormBurst.DisplayName: Ráfaga de la Tormenta de Estrellas
+StarstormShard.DisplayName: Fragmento de la Tormenta de Estrellas
+SwitcherRocket.DisplayName: Cohete del Intercambiador
+TheEnforcer.DisplayName: El Ejecutor
+TrifestaProj.DisplayName: Proyectil de Trifesta
+TriggerFlare.DisplayName: Bengala Gatillo
+VulcanChaingunPro.DisplayName: Ametralladora Vulcan
+ZirconReflexBow.DisplayName: Arco Reflejo de Circón
+AdvancedTurretSentry.DisplayName: Torreta Centinela Avanzada
+Aeyh.DisplayName: Aeyh
+AeyhBolt.DisplayName: Rayo de Aeyh
+AlbedoCrystal.DisplayName: Cristal de Albedo
+BigFungusSentry.DisplayName: Centinela Fungo Grande
+Cirno.DisplayName: Cirno
+CirnoBolt.DisplayName: Rayo de Cirno
+Firefly.DisplayName: Luciérnaga
+Flandre.DisplayName: Flandre
+FlandreWave.DisplayName: Onda de Flandre
+Ghost.DisplayName: Fantasma
+Mimi.DisplayName: Mimi
+MimiProjectile.DisplayName: Proyectil de Mimi
+MoonSaucerLaser.DisplayName: Láser
+MoonSaucerSentry.DisplayName: Centinela Platillo Lunar
+Razorfrost.DisplayName: Escarchafilo
+SprinklerPro.DisplayName: Aspersor
+SummonedStar.DisplayName: Estrella Invocada
+TurretSentry.DisplayName: Torreta Centinela
+Utsuho.DisplayName: Utsuho
+UtsuhoSunbolt.DisplayName: Rayo Solar de Utsuho
+UtsuhoSunboltExplosion.DisplayName: Explosión del Rayo Solar de Utsuho
+Vinemonger.DisplayName: Comerciante de Enredaderas
+VinemongerStem.DisplayName: Tallo del Comerciante de Enredaderas
+VolcanicHammer.DisplayName: Martillo Volcánico
+ShadowSpellshot.DisplayName: Hechizo de Sombra
+ShadowScepterHeld.DisplayName: Cetro de Sombra (Sostenido)
+ShadowScepterTotem.DisplayName: Tótem del Cetro de Sombra
+FirecasterScepterHeld.DisplayName: Cetro del Piromante (Sostenido)
+FirecasterExplosion.DisplayName: Explosión del Piromante
+FirecasterTotem.DisplayName: Tótem del Piromante
+RedPatchStrike.DisplayName: Golpe de Parche Rojo
+SnowSpellshot.DisplayName: Hechizo de Nieve
+Superflake.DisplayName: Súper Copo
+SnowHalationHeld.DisplayName: Halo de Nieve (Sostenido)
+SnowHalationTotem.DisplayName: Tótem del Halo de Nieve
+CinnabarPillarBlade.DisplayName: Hoja del Pilar de Cinabrio
+CinnabarPillarCritWave.DisplayName: Onda Crítica del Pilar de Cinabrio
+IronSledgehammerProjectile.DisplayName: Proyectil del Mazo de Hierro
+LeadSledgehammerProjectile.DisplayName: Proyectil del Mazo de Plomo
+DeflectorBullet.DisplayName: Bala Deflectora
+DeflectorProjectile.DisplayName: Proyectil Deflector
+SolsticeProjectile.DisplayName: Proyectil del Solsticio
+SolsticeSpin.DisplayName: Giro del Solsticio
+SolsticeStab.DisplayName: Estocada del Solsticio
+SolarApex.DisplayName: Ápice Solar
+SolsticeCharge.DisplayName: Carga del Solsticio
+SolarApexHitbox.DisplayName: Zona de Impacto del Ápice Solar
+SunstormBeam.DisplayName: Rayo de la Tormenta Solar
+VoidBolt.DisplayName: Rayo del Vacío
+MonsoonHeld.DisplayName: Monzón (Sostenido)
+WingedSpearProjectile.DisplayName: Proyectil de la Lanza Alada
+WingedStream.DisplayName: Corriente Alada
+PoisonBreakProjectile.DisplayName: Proyectil de Ruptura Venenosa
+PoisonStream.DisplayName: Corriente Venenosa
+MusketronHeld.DisplayName: Musketrón (Sostenido)
+MusketronSpin.DisplayName: Giro del Musketrón
+SpectreBone.DisplayName: Hueso Espectral
+GoopProjectile.DisplayName: Proyectil de Baba
+CeremonialKnifeProjectile.DisplayName: Proyectil del Cuchillo Ceremonial
+CeremonialKnifeSummon.DisplayName: Invocación del Cuchillo Ceremonial
+CeremonialSawblade.DisplayName: Hoja de Sierra Ceremonial
+NightsBaneProjectile.DisplayName: Proyectil del Azote Nocturno
+HelicalShell.DisplayName: Concha Helicoidal
+HelicalContraption.DisplayName: Artefacto Helicoidal
+HelicalBullet.DisplayName: Bala Helicoidal
+HelicalShellPickup.DisplayName: Recolección de la Concha Helicoidal
+AncientSolsticeProj.DisplayName: "{$ItemName.AncientSolstice}"
+AnthemOfWarProj.DisplayName: "{$ItemName.AnthemOfWar}"
+SongOfTheSirenProj.DisplayName: "{$ItemName.SongOfTheSiren}"
+TraitorsRequiemProj.DisplayName: "{$ItemName.TraitorsRequiem}"
+TraitorsRequiemStrike.DisplayName: Golpe del Réquiem del Traidor
+BubbleShieldProjectile.DisplayName: Proyectil del Escudo de Burbuja
+GravekeeperMoth.DisplayName: Polilla del Sepulturero
+DynamiteCrab.DisplayName: Cangrejo Dinamita
+CrabWhipProjectile.DisplayName: Proyectil del Látigo del Cangrejo
+SparkyProjectile.DisplayName: Proyectil de Sparky
+SparkyZap.DisplayName: Descarga de Sparky
+BlueCrabWhipProjectile.DisplayName: Proyectil del Látigo del Cangrejo Azul
+GrapplePointProjectile.DisplayName: Proyectil del Punto de Agarre
+TestGoop.DisplayName: Baba de Prueba
+Arachnicannon.DisplayName: Arañacañón
+ArachnicannonProjectile.DisplayName: Proyectil del Arañacañón
+SpiderGoop.DisplayName: Baba de Araña
+SpiderGoopWave.DisplayName: Onda de Baba de Araña
+IcePhantom.DisplayName: Fantasma de Hielo
+AntarcticBeam.DisplayName: Rayo Antártico
+HighlighterExplosionProj.DisplayName: Explosión del Resaltador
+HighlighterProj.DisplayName: Proyectil del Resaltador
+PointOfViewExplosionProj.DisplayName: Explosión del Punto de Vista
+PointOfViewProj.DisplayName: Proyectil del Punto de Vista
+TomeOfDarkPyromancyProj.DisplayName: Proyectil del Tomo de Piromancia Oscura
+TomeOfPyromancyProj.DisplayName: Proyectil del Tomo de Piromancia
+EccentricRift.DisplayName: Fisura Excéntrica
+QuantumLeap.DisplayName: Salto Cuántico
+ArchaicBolt.DisplayName: Rayo Arcaico
+ArchaicShard.DisplayName: Fragmento Arcaico
+TheArchitectBlade.DisplayName: Hoja del Arquitecto
+EquilibriumManifestation.DisplayName: Manifestación del Equilibrio
+EchoOfParadiseHeld.DisplayName: Eco del Paraíso (Sostenido)
+EchoOfParadiseHeldLeft.DisplayName: Eco del Paraíso Izquierdo (Sostenido)
+EchoOfParadiseHeldRight.DisplayName: Eco del Paraíso Derecho (Sostenido)
+PiercingBulletProj.DisplayName: Proyectil de Bala Perforante
+SolRune.DisplayName: Runa Solar
+SolBolt.DisplayName: Rayo Solar
+SpiritFragileMagicSphere.DisplayName: Esfera Mágica del Espíritu
+SpiritMagicSphere.DisplayName: Esfera Mágica del Espíritu
+MacroProj.DisplayName: Proyectil de Macro
+TheEnforcerProj.DisplayName: Proyectil de El Ejecutor
+BallistickHeld.DisplayName: Ballistick (Sostenido)
+LandcrusherProj.DisplayName: Proyectil de Landcrusher
+ManaStaffProj.DisplayName: Proyectil del Cetro de Maná
+MassDestructionOldProj.DisplayName: Proyectil de Destrucción Masiva Antigua
+SkullTransformation.DisplayName: Transformación del Cráneo
+BallistickDash.DisplayName: Embestida de Ballistick
+StarbreakerProj.DisplayName: Proyectil del Rompeestrellas
+ZephyrDash.DisplayName: Embestida de Céfiro
+ZephyrHeld.DisplayName: Céfiro (Sostenido)
+DragonslayerArrowProj.DisplayName: Proyectil de la Flecha Matadragones
+TracingArrowProj.DisplayName: Proyectil de la Flecha Trazadora
+BikeSnap.DisplayName: Chasquido de Bicicleta
+MasterSpiritPet.DisplayName: Mascota Espíritu Maestro
+DemonCompendiumPet.DisplayName: Mascota Compendio Demoníaco
+BloodyStreamHeld.DisplayName: Corriente Sangrienta (Sostenida)
+DangerBloodyBolt.DisplayName: Rayo Sangriento Peligroso
+TearfulBolt.DisplayName: Rayo Lloroso
+TearfulScepterHeld.DisplayName: Cetro Lloroso (Sostenido)
+AstralCharge.DisplayName: Carga Astral
+AstralMayhemExplosion.DisplayName: Explosión del Caos Astral
+RazzleDazzleHeld.DisplayName: Deslumbramiento (Sostenido)
+DazzleZap.DisplayName: Descarga Deslumbrante
+SwarmOfWrathBolt.DisplayName: Rayo del Enjambre de la Ira
+EyeOfBelialBolt.DisplayName: Rayo del Ojo de Belial
+EyeOfBelialHeld.DisplayName: Ojo de Belial (Sostenido)
+KillerWandExplosion.DisplayName: Explosión de la Varita Asesina
+CrabBolt.DisplayName: Rayo del Cangrejo
+MineCrab.DisplayName: Cangrejo Minero
+MineCrabOdd.DisplayName: Cangrejo Minero Extraño
+CrabBoltAlbino.DisplayName: Rayo del Cangrejo Albino
+MineCrabAlbino.DisplayName: Cangrejo Minero Albino
+MineCrabOddAlbino.DisplayName: Cangrejo Minero Extraño Albino
+FireWaveProj.DisplayName: Proyectil de la Onda de Fuego
+AstrologistNPCProjectile.DisplayName: Proyectil del PNJ Astrólogo
+AstrologistNPCProjectile2.DisplayName: Proyectil del PNJ Astrólogo 2
+TwilightBolt.DisplayName: Rayo del Crepúsculo
+MenaceBossSpawnProjectile.DisplayName: Proyectil de Invocación del Jefe Amenaza
+DeadMansSawBolt.DisplayName: Rayo de la Sierra del Hombre Muerto
+BlazingRiffAnthem.DisplayName: Himno del Riff Ardiente
+GalaxiaBolt.DisplayName: Rayo de Galaxia
+ZweihanderKnockback.DisplayName: Retroceso del Zweihander
+ZweihanderKnockbackImpact.DisplayName: Impacto de Retroceso del Zweihander
+WalterHeld.DisplayName: Walter (Sostenido)
+HoloclipWave.DisplayName: Onda del Holoclip
+WalterBoom.DisplayName: Explosión de Walter
+HoloclipBoom.DisplayName: Explosión del Holoclip
+HoloclipBolt.DisplayName: Rayo del Holoclip
+MonolithBolt.DisplayName: Rayo del Monolito
+MonolithShield.DisplayName: Escudo del Monolito
+EccentricScissorsParry.DisplayName: Desvío de las Tijeras Excéntricas
+NexusStrip.DisplayName: Franja del Nexo
+MoonWheel.DisplayName: Rueda Lunar
+MementoMoriDrill.DisplayName: Taladro del Memento Mori
+MementoMoriSpin.DisplayName: Giro del Memento Mori
+Overblade.DisplayName: Sobrehoja
+OvertakerHeld.DisplayName: Adelantador (Sostenido)
+BewitchedStepFlame.DisplayName: Llama de Paso Hechizada
+StarshroomSeed.DisplayName: Semilla del Hongoestrella
+AfterlifeAnchorWhip.DisplayName: Látigo del Ancla del Más Allá
+StrandedWhipProjectile.DisplayName: Proyectil del Látigo Varado
+GellersonJr.DisplayName: Gellerson Jr.
+GelFart.DisplayName: Pedo de Gel
+GellitaJr.DisplayName: Gellita Jr.
+TurretBullet.DisplayName: Bala de Torreta
+VinemongerHead.DisplayName: Cabeza del Comerciante de Enredaderas
+JellyBubble.DisplayName: Burbuja de Gelatina
+SpaceJellyfishSummon.DisplayName: Invocación de la Medusa Espacial
+BigFungusSentryOld.DisplayName: Centinela Fungo Grande Antiguo
+MushroomSmash.DisplayName: Golpe de Hongo
+AlbedoSentry.DisplayName: Centinela de Albedo
+CrystalStrike.DisplayName: Golpe de Cristal
+SprinklerSentry.DisplayName: Centinela Aspersor
+SprinklerSpray.DisplayName: Rocío del Aspersor
+ChikageBlade.DisplayName: Hoja de Chikage
+ChikageDash.DisplayName: Embestida de Chikage
+ChikageSheath.DisplayName: Vaina de Chikage
+WindfallGroundedSpectre.DisplayName: Espectro Terrestre de Windfall
+WindfallSpear.DisplayName: Lanza de Windfall
+WindfallSpearPlunge.DisplayName: Estocada Descendente de la Lanza de Windfall
+WindfallSpearSwing.DisplayName: Estocada de la Lanza de Windfall
+MagmaFangArrow.DisplayName: Flecha del Colmillo de Magma
+MotorbugPet.DisplayName: Mascota Motoescarabajo
+IceSlamBlast.DisplayName: Explosión del Golpe de Hielo
+MenaceFrostWave.DisplayName: Onda de Escarcha de Amenaza
+EpicIceSlamBlast.DisplayName: Explosión Épica del Golpe de Hielo
+MoonBoulder.DisplayName: Roca Lunar
+MenaceStarfall.DisplayName: Lluvia de Estrellas de Amenaza
+QliphothCutterParry.DisplayName: Desvío del Cortador Qliphoth
+SunStrike.DisplayName: Golpe Solar
+DiamondResonance.DisplayName: Resonancia de Diamante
+MirrorBolt.DisplayName: Rayo del Espejo
+DrizzleArrow.DisplayName: Flecha de Llovizna
+PrecipitationBoom.DisplayName: Explosión de Precipitación
+SwitcherBoom.DisplayName: Explosión del Intercambiador
+MasterParaffinPet.DisplayName: Mascota Parafina Maestra
+FrostyGloveHeld.DisplayName: Guante Escarchado (Sostenido)
+Smallball.DisplayName: Bolita
+MothShockwave.DisplayName: Onda de Choque de la Polilla
+WindfallMoth.DisplayName: Polilla de Windfall
+MasterMiragePet.DisplayName: Mascota Espejismo Maestro
+CinnabarBoom.DisplayName: Explosión de Cinabrio
+JohnRimebreaker.DisplayName: John Rompehielos
+JohnRimebreakerCheer.DisplayName: Aclamación de John Rompehielos
+BigGaboongaHeld.DisplayName: Gran Gaboonga (Sostenido)
+BigJuicyMeat.DisplayName: Gran Carne Jugosa
+Meatslice.DisplayName: Corte de Carne
+MeatBlast.DisplayName: Explosión de Carne
+MementoMoriDrain.DisplayName: Drenaje del Memento Mori
+MementoChain.DisplayName: Cadena del Memento
+MeleeVivereLunge.DisplayName: Estocada de Vivere Cuerpo a Cuerpo
+MeleeVivereSlash.DisplayName: Corte de Vivere Cuerpo a Cuerpo
+GenericTileExplosion.DisplayName: Explosión Genérica de Bloque
+MementoVivereLunge.DisplayName: Estocada de Memento Vivere
+MementoVivereSlash.DisplayName: Corte de Memento Vivere
+MemorySoapProjectile.DisplayName: Proyectil del Jabón de la Memoria
+DragunBullet.DisplayName: Bala de Dragun
