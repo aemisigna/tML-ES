@@ -76,7 +76,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Thrower Unification | ✅ | v0.3.15.3
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
-| Calamity Simple Whip Addon | ✅ | v1.15.10
+| Calamity Simple Whip Addon | ✅ | v1.15.11
 | Calamity: War Machine Invasion | ✅ | v0.1.6
 | Enchanted Moons | ✅ | v2.0.2.1
 | Thorium Helheim | ✅ | v1.5.10
