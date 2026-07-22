@@ -77,7 +77,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
 | Calamity Simple Whip Addon | ✅ | v1.15.11
-| Calamity: War Machine Invasion | ✅ | v0.1.6
+| Calamity: War Machine Invasion | ✅ | v0.1.6.1
 | Enchanted Moons | ✅ | v2.0.2.1
 | Thorium Helheim | ✅ | v1.5.10
 | Consolaria | ✅ | v2.2.2
