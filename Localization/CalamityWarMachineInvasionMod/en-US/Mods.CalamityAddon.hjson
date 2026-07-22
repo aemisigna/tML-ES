@@ -191,6 +191,11 @@ Items: {
 		Tooltip: By - Digidonix
 		DisplayName: Mechanism Warfare (Music Box)
 	}
+
+	UnstableCore: {
+		DisplayName: Unstable Core
+		Tooltip: ""
+	}
 }
 
 NPCs: {
@@ -228,6 +233,8 @@ NPCs: {
 		DisplayName: Wulfrum Jumper
 		Bestiary: These machines were designed specially to ambush Yharim army in mountainous terrain. Their missle launchers destroy the bulk of the troops, and other wulfrum machines easily caught up whith the remaining enemies.
 	}
+
+	WulfrumJumper.DisplayName: Wulfrum Jumper
 }
 
 Projectiles: {
@@ -240,6 +247,7 @@ Projectiles: {
 	WulfrumJavelinProj.DisplayName: Wulfrum Javelin
 	WDASShard.DisplayName: Wulfrum Shard
 	WulfrumShockwave.DisplayName: Wulfrum Jumper
+	WulfrumMinisEnemy.DisplayName: Wulfrum Minis Enemy
 }
 
 Buffs: {

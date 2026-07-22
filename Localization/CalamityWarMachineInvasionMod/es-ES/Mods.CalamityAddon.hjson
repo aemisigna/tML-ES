@@ -191,6 +191,11 @@ Items: {
 		Tooltip: Por - Digidonix
 		DisplayName: Guerra de Mecanismos (Caja de música)
 	}
+
+	UnstableCore: {
+		DisplayName: Núcleo Inestable
+		Tooltip: ""
+	}
 }
 
 NPCs: {
@@ -228,6 +233,8 @@ NPCs: {
 		DisplayName: Saltador de Wulfrum
 		Bestiary: Estas máquinas fueron diseñadas especialmente para emboscar al ejército de Yharim en terreno montañoso. Sus lanzamisles destruyen el grueso de las tropas, y otras máquinas de wulfrum acaban fácilmente con los enemigos restantehs.
 	}
+
+	WulfrumJumper.DisplayName: Jumper de Wulfrum
 }
 
 Projectiles: {
@@ -240,6 +247,7 @@ Projectiles: {
 	WulfrumJavelinProj.DisplayName: Jabalina de Wulfrum
 	WDASShard.DisplayName: Fragmento de Wulfrum
 	WulfrumShockwave.DisplayName: Saltador de Wulfrum
+	WulfrumMinisEnemy.DisplayName: Enemigo de Wulfrum
 }
 
 Buffs: {
