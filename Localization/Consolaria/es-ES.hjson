@@ -209,31 +209,17 @@ Mods: {
 
 			AncientPhantasmalHeadgear: {
 				DisplayName: Tocado fantasmal antiguo
-				Tooltip:
-					'''
-					Aumenta el maná máximo en 50
-					Aumenta un 10% el daño mágico
-					Aumenta un 10% la probabilidad de impacto mágico crítico
-					'''
+				Tooltip: "{$Items.PhantasmalHeadgear.Tooltip}"
 			}
 
 			AncientPhantasmalRobe: {
 				DisplayName: Vestido fantasmal antiguo
-				Tooltip:
-					'''
-					Aumenta el maná máximo en 70
-					Aumenta un 15% el daño mágico
-					'''
+				Tooltip: "{$Items.PhantasmalRobe.Tooltip}"
 			}
 
 			AncientPhantasmalSubligar: {
 				DisplayName: Subligar fantasmal antiguo
-				Tooltip:
-					'''
-					Aumenta el maná máximo en 30
-					Aumenta un 5% el daño mágico
-					Aumenta un 12% la velocidad de movimiento
-					'''
+				Tooltip: "{$Items.PhantasmalSubligar.Tooltip}"
 			}
 
 			PhantasmalHeadgear: {
@@ -268,31 +254,17 @@ Mods: {
 
 			AncientDragonBreastplate: {
 				DisplayName: Coraza de dragón antiguo
-				Tooltip:
-					'''
-					Aumenta un 10% el daño cuerpo a cuerpo
-					Aumenta un 10% la probabilidad de ataque crítico en el cuerpo a cuerpo
-					Aumenta un 15% la velocidad del cuerpo a cuerpo
-					'''
+				Tooltip: "{$Items.DragonBreastplate.Tooltip}"
 			}
 
 			AncientDragonGreaves: {
 				DisplayName: Grebas de dragón antiguo
-				Tooltip:
-					'''
-					Aumenta un 5% el daño cuerpo a cuerpo
-					Aumenta un 5% la probabilidad de ataque crítico en el cuerpo a cuerpo
-					Aumenta un 20% la velocidad del cuerpo a cuerpo
-					'''
+				Tooltip: "{$Items.DragonGreaves.Tooltip}"
 			}
 
 			AncientDragonMask: {
 				DisplayName: Máscara de dragón antigua
-				Tooltip:
-					'''
-					Aumenta un 15% el daño cuerpo a cuerpo
-					Aumenta un 15% la velocidad del cuerpo a cuerpo
-					'''
+				Tooltip: "{$Items.DragonMask.Tooltip}"
 			}
 
 			DragonBreastplate: {
@@ -343,32 +315,17 @@ Mods: {
 
 			AncientTitanHelmet: {
 				DisplayName: Casco de titán antiguo
-				Tooltip:
-					'''
-					Aumenta un 10% el daño de los ataques a distancia
-					Aumenta un 10% la probabilidad de ataque crítico a distancia
-					Probabilidad del 25% de ahorrar munición
-					'''
+				Tooltip: "{$Items.TitanHelmet.Tooltip}"
 			}
 
 			AncientTitanLeggings: {
 				DisplayName: Perneras de titán antiguas
-				Tooltip:
-					'''
-					Aumenta un 10% el daño de los ataques a distancia
-					Aumenta un 18% la velocidad de movimiento
-					Probabilidad del 15% de ahorrar munición
-					'''
+				Tooltip: "{$Items.TitanLeggings.Tooltip}"
 			}
 
 			AncientTitanMail: {
 				DisplayName: Cota de malla de titán antiguo
-				Tooltip:
-					'''
-					Aumenta un 15% el daño de los ataques a distancia
-					Aumenta un 10% la probabilidad de ataque crítico a distancia
-					Probabilidad del 20% de ahorrar munición
-					'''
+				Tooltip: "{$Items.TitanMail.Tooltip}"
 			}
 
 			TitanHelmet: {
@@ -408,30 +365,17 @@ Mods: {
 
 			AncientWarlockHood: {
 				DisplayName: Caperuza de brujo antigua
-				Tooltip:
-					'''
-					Aumenta en 1 el máximo de súbditos que puedes tener
-					Aumenta un 20% el daño de invocación
-					'''
+				Tooltip: "{$Items.WarlockHood.Tooltip}"
 			}
 
 			AncientWarlockLeggings: {
 				DisplayName: Perneras de brujo antiguas
-				Tooltip:
-					'''
-					Aumenta en 1 el máximo de súbditos que puedes tener
-					Aumenta un 20% el daño de invocación
-					Aumenta un 15% la velocidad de movimiento
-					'''
+				Tooltip: "{$Items.WarlockLeggings.Tooltip}"
 			}
 
 			AncientWarlockRobe: {
 				DisplayName: Vestido de brujo antiguo
-				Tooltip:
-					'''
-					Aumenta en 1 el máximo de súbditos que puedes tener
-					Aumenta un 20% el daño de invocación
-					'''
+				Tooltip: "{$Items.WarlockRobe.Tooltip}"
 			}
 
 			WarlockHood: {
@@ -521,11 +465,6 @@ Mods: {
 			MythicalWyvernBanner: {
 				DisplayName: Estandarte de guiverno mitológico
 				Tooltip: "{$CommonItemTooltip.BannerBonus}Guiverno mitológico"
-			}
-
-			MythicalWyvern: {
-				DisplayName: Cometa de guiverno mitológico
-				Tooltip: ""
 			}
 
 			OrcaBanner: {
@@ -1157,18 +1096,13 @@ Mods: {
 			}
 
 			StarTopper4: {
-				DisplayName: Adorno de estrellas
+				DisplayName: Adorno de 4 estrellas
 				Tooltip: "{0}"
 			}
 
 			PrestigiousTopHat: {
 				DisplayName: Sombrero de copa prestigioso
 				Tooltip: ¡Huele como un billete fresco!
-			}
-
-			ExampleKite: {
-				DisplayName: Cometa de ejemplo
-				Tooltip: ""
 			}
 
 			CandiedFruit: {
@@ -1182,13 +1116,13 @@ Mods: {
 			}
 
 			OktoberLocks: {
-				Tooltip: ""
 				DisplayName: Trenzas de Oktober
+				Tooltip: ""
 			}
 
 			PurpleThread: {
-				Tooltip: ""
 				DisplayName: Hilo púrpura
+				Tooltip: ""
 			}
 
 			OtherworldlyMusicBox1: {
@@ -1218,97 +1152,47 @@ Mods: {
 
 			OldSeraphimChestplate: {
 				DisplayName: Vestidura de serafín antigua
-				Tooltip:
-					'''
-					30% reducido el daño no radiante
-					Aumenta un 20% el daño radiante
-					20% reducido el costo de maná
-					Los hechizos de curación curan 3 de vida adicional
-					'''
+				Tooltip: "{$Items.SeraphimChestplate.Tooltip}"
 			}
 
 			OldSeraphimHelmet: {
 				DisplayName: Semblante de serafín antiguo
-				Tooltip:
-					'''
-					20% reducido el daño no radiante
-					Aumenta un 15% el daño radiante
-					20% reducido el costo de maná
-					Aumenta el maná máximo en 60
-					Los hechizos de curación curan 2 de vida adicional
-					'''
+				Tooltip: "{$Items.SeraphimHelmet.Tooltip}"
 			}
 
 			OldSeraphimLegs: {
 				DisplayName: Sendas de serafín antiguas
-				Tooltip:
-					'''
-					20% reducido el daño no radiante
-					Aumenta un 15% el daño radiante
-					15% reducido el costo de maná
-					Los hechizos de curación curan 2 de vida adicional
-					Aumenta un 15% la velocidad de movimiento
-					'''
+				Tooltip: "{$Items.SeraphimLegs.Tooltip}"
 			}
 
 			OldSirenChestplate: {
 				DisplayName: Coraza de sirena antigua
-				Tooltip:
-					'''
-					Aumenta un 10% el daño sinfónico
-					Aumenta un 10% la probabilidad de que caigan notas de inspiración
-					Aumenta en 6 segundos la duración de tus potenciaciones sinfónicas
-					'''
+				Tooltip: "{$Items.SirenChestplate.Tooltip}"
 			}
 
 			OldSirenHelmet: {
 				DisplayName: Tocado de sirena antiguo
-				Tooltip:
-					'''
-					Aumenta un 8% la velocidad de interpretación sinfónica
-					Aumenta un 4% la probabilidad de golpe crítico sinfónico
-					Aumenta un 20% la tasa de regeneración de inspiración
-					'''
+				Tooltip: "{$Items.SirenHelmet.Tooltip}"
 			}
 
 			OldSirenLegs: {
 				DisplayName: Cola de sirena antigua
-				Tooltip:
-					'''
-					Aumenta un 10% el daño sinfónico
-					Aumenta un 6% la probabilidad de golpe crítico sinfónico
-					Aumenta un 15% la velocidad de movimiento
-					'''
+				Tooltip: "{$Items.SirenLegs.Tooltip}"
 			}
 
 			OldViperChestplate: {
 				DisplayName: Chaqueta de víbora antigua
-				Tooltip:
-					'''
-					Aumenta un 10% el daño arrojadizo
-					Aumenta un 20% la velocidad de los objetos arrojadizos
-					Aumenta un 15% la velocidad de lanzamiento
-					'''
+				Tooltip: "{$Items.ViperChestplate.Tooltip}"
 			}
 
 			OldViperHelmet: {
 				DisplayName: Casco de víbora antiguo
-				Tooltip:
-					'''
-					Aumenta un 20% el daño arrojadizo
-					Probabilidad del 33% de no consumir objetos arrojadizos
-					Aumenta en 2 tus puntos de técnica máximos
-					'''
+				Tooltip: "{$Items.ViperHelmet.Tooltip}"
 			}
 
 			OldViperLegs: {
 				DisplayName: Pantalones de víbora antiguos
-				Tooltip:
-					'''
-					Aumenta un 20% el daño arrojadizo
-					Aumenta un 25% la probabilidad de golpe crítico arrojadizo
-					Aumenta un 15% la velocidad de movimiento
-					'''
+				Tooltip: "{$Items.ViperLegs.Tooltip}"
 			}
 
 			SeraphimChestplate: {
@@ -1436,8 +1320,8 @@ Mods: {
 				DisplayName: Sello de jade
 				Tooltip:
 					'''
-					Clic izquierdo para invocar una linterna de jade que aumenta el daño y la defensa de los aliados
-					Clic derecho para invocar una linterna dorada que flota en el lugar y cura a los aliados
+					Clic izquierdo para invocar una linterna dorada que flota en el lugar y cura a los aliados
+					Clic derecho para invocar una linterna de jade que aumenta el daño y la defensa de los aliados
 					'''
 			}
 
@@ -1448,7 +1332,7 @@ Mods: {
 
 			PortableSpecialCorn: {
 				DisplayName: Maíz especial portátil
-				Tooltip: Replica cada cuarto ataque sinfónico con el 50% de su daño
+				Tooltip: Replica cada 4.º ataque sinfónico con el 50% de su daño
 			}
 
 			UtensilPoker: {
@@ -1680,7 +1564,7 @@ Mods: {
 				Quote1: Sinceramente, un centavo por mis pensamientos no es mucho.
 				Quote2: Si tuviera cinco centavos por cada monstruo que vi anoche, sería aún más rico y estaría un poco menos asustado.
 				Quote3: ¡Esos malditos slimes siguen intentando tragarse mis monedas!
-				Quote4: Si el dinero hace girar al mundo, este lugar parece muy pobre. ¡Cambiémoslo!
+				Quote4: Si el dinero hace girar al mundo, aquí claramente no hay suficiente.
 				Quote5: ¡Me siento tan limpio, como una máquina de hacer dinero!
 				Quote6: ¿Sabes lo que me gusta del oro? ¡Tengo mucho!
 				Quote7: Oye, una cosa que puedo prometerte es que nunca les pido a mis clientes que me juzguen por mis ganadores. Les pido que me juzguen por mis perdedores, porque tengo muy pocos.
@@ -1758,8 +1642,6 @@ Mods: {
 			TurkeyHead.DisplayName: Weird Turkey
 			VulcanBlast.DisplayName: Vulcan Blast
 			VulcanBolt.DisplayName: Vulcan Bolt
-			"Lepus Stomp.DisplayName": Lepus Stomp
-			.DisplayName: ""
 			TizonaProjectile.DisplayName: Tizona
 			TizonaShoot.DisplayName: Tizona
 			Worm.DisplayName: Worm
@@ -1790,6 +1672,7 @@ Mods: {
 			SeraphimHeal.DisplayName: Curación de serafín
 			SirenSeaCreature.DisplayName: Criatura marina de sirena
 			AlbinoRunt.DisplayName: Cría albina
+			.DisplayName: ""
 		}
 
 		Tiles: {
@@ -1798,14 +1681,14 @@ Mods: {
 		}
 
 		Conditions: {
-			SellingDuringThanksgiving: Mods.Consolaria.Conditions.SellingDuringThanksgiving
-			SellingDuringOktoberfest: Mods.Consolaria.Conditions.SellingDuringOktoberfest
-			SellingDuringValentineDay: Mods.Consolaria.Conditions.SellingDuringValentineDay
-			SellingIfMale: Mods.Consolaria.Conditions.SellingIfMale
-			SellingWhenWoman: Mods.Consolaria.Conditions.SellingWhenWoman
-			SellingDuringWishboneCooldown: Mods.Consolaria.Conditions.SellingDuringWishboneCooldown
-			TurkorDowned: Mods.Consolaria.Conditions.TurkorDowned
-			OcramDowned: Mods.Consolaria.Conditions.OcramDowned
+			SellingDuringThanksgiving: Durante Acción de gracias
+			SellingDuringOktoberfest: Durante el Oktoberfest
+			SellingDuringValentineDay: Durante el Día de San Valentín
+			SellingIfMale: Si el personaje es masculino
+			SellingWhenWoman: Si el personaje es femenino
+			SellingDuringWishboneCooldown: Cuando el Hueso de los deseos está en enfriamiento
+			TurkorDowned: Si Turkor ha sido derrotado
+			OcramDowned: Si Ocram ha sido derrotado
 		}
 
 		Configs: {
@@ -1863,7 +1746,7 @@ Mods: {
 
 				heartbeatariaIntegrationEnabled: {
 					Label: Integración con Heartbeataria Mod
-					Tooltip: Si está habilitado, los objetos exclusivos de Heartbeataria se podrán obtener de los sobres rojosfrom Red Envelope
+					Tooltip: Si está habilitado, los objetos exclusivos de Heartbeataria se podrán obtener de los sobres rojos
 				}
 
 				originalAncientHeroSetRecipeEnabled: {
@@ -1883,7 +1766,7 @@ Mods: {
 
 				pyramidEnabled: {
 					Label: Pirámide garantizada
-					Tooltip: Si está habilitado, al menos una pirámide se generará siempre en el mundo
+					Tooltip: Si está habilitado, al menos 1 pirámide se generará siempre en el mundo
 				}
 
 				pyramidMessageLoot: {
