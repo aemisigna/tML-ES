@@ -62,8 +62,8 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 🔴 = Traducción en proceso por el equipo o un colaborador
 ⚪ = Traducción sin colaboradores y no considerada por el equipo, disponible para cualquier contribuidor
 
-| Mod | Estado |
-|-----|--------|
+| Mod | Estado | Versión |
+|-----|--------|---------|
 | Calamity Mod | ✅ | v2.2.1
 | Infernum Mode | ✅ | v2.0.1.34
 | Calamity: Wrath of the Gods | ✅ | v1.2.31
@@ -72,23 +72,23 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
 | Calamity Overhaul | ✅ | v0.9025
 | Catalyst Mod | ✅ | v1.1.7
-| Calamity: Wrath of the Machines | ✅ | v1.0.4
+| Calamity: Wrath of the Machines | ✅ | v1.0.5
 | The Stars Above | ✅ | v2.1.8.4
 | Calamity's Vanities | ✅ | v11.4.1
 | Calamity: Hunt of the Old God | ✅ | v1.2.3
-| Secrets of the Shadows | ✅ | v0.25.1.7
+| Secrets of the Shadows | ✅ | v0.25.1.9
 | Thorium Mod | ✅ | v1.7.2.6
 | Ragnarok | ✅ | v1.6.0.5
-| Infernal Eclipse of Ragnarok | ✅ | v0.10.6.4
+| Infernal Eclipse of Ragnarok | ✅ | v0.10.7
 | Split | ✅ | v1.0.11
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
-| Progression Journal | ✅ | v2.1.5
+| Progression Journal | ✅ | v2.1.6
 | Quality of Terraria | ✅ | v1.8.2
 | LuiAFK Reborn | ✅ | v1.2.5
 | Revengeance+ | ✅ | v0.6.1
-| Thrower Unification | ✅ | v0.3.15.3
+| Thrower Unification | ✅ | v0.3.15.4
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
 | Calamity Simple Whip Addon | ✅ | v1.15.12
@@ -99,7 +99,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Unofficial Calamity Bard & Healer | ✅ | v0.13.6
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.1
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
-| Infernal Arsenal Mod | ✅ | v1.6.0.2
+| Infernal Arsenal Mod | ✅ | v1.6.0.3
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
