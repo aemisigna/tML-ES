@@ -119,7 +119,7 @@ Mods: {
 				Tooltip:
 					'''
 					3 de daño de marca de invocación
-					Inflige [rbuff:Electrified] al impactar
+					Inflige [cbuff:Electrified] al impactar
 					'''
 				DisplayName: Gran Látigo del Trueno
 			}
@@ -635,9 +635,9 @@ Mods: {
 				DisplayName: Gran Amplificador
 				Tooltip:
 					'''
-					<left> para disparar un pequeño rayo que inflige [rbuff:Electrified]
-					<right> para invocar un relámpago sobre todos los enemigos cercanos con el efecto negativo [rbuff:Electrified]
-					Este relámpago eliminará el efecto negativo [rbuff:Electrified] pero infligirá una ráfaga de gran daño
+					<left> para disparar un pequeño rayo que inflige [cbuff:Electrified]
+					<right> para invocar un relámpago sobre todos los enemigos cercanos con el efecto negativo [cbuff:Electrified]
+					Este relámpago eliminará el efecto negativo [cbuff:Electrified] pero infligirá una ráfaga de gran daño
 					'''
 			}
 
@@ -997,7 +997,7 @@ Mods: {
 				Soltan: Soltan
 				bryce: bryce27
 				eviil81: evil81
-				rose: ros�
+				rose: ros
 				Jill: JillyFish
 				Eduarrdo: Eduarrdo
 				Mae: ma3allim

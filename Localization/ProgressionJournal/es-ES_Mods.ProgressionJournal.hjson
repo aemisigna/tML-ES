@@ -45,6 +45,16 @@ UI: {
 	EntrySetCount: Conjunto: {0}
 	Weapons: Armas
 	ArmorLabel: Armadura
+	ArmorSetFallbackName: Armadura de {0}
+	ArmorSetFallbackNameAfter: Armadura {0}
+	# Translators can extend these pipe-separated naming rules for their language.
+	ArmorSetPieceWords: armadura|coraza|gorro|diadema|corona|grebas|sombrero|casco|capucha|perneras|máscara|pantalones|camisa|toga|visor
+	ArmorSetPiecePhrases: ""
+	ArmorSetNameInflections: ""
+	ArmorSetDefenseLabel: Defensa total
+	ArmorSetTotalStats: Efectos de piezas de armadura
+	ArmorSetBonus: Bonificación de conjunto
+	ArmorSetBonusUnavailable: No se pudo determinar la bonificación de conjunto.
 	Accessories: Accesorios
 	SupportWeaponTag: Apoyo
 	CombatBuffClassSpecificTag: De clase
@@ -73,6 +83,34 @@ UI: {
 	SelectedItemDemonAltar: Altar demoníaco / Altar carmesí
 	SelectedItemBottleStation: Botella colocada / Mesa de alquimia
 	SelectedItemConditions: Condiciones
+	MurasamaSecurityChestCondition: La Murasama solo se encuentra en el Cofre de Seguridad en el Laboratorio del Inframundo.
+	AcidwoodTreeShakingSource: Árbol de madera ácida
+	AcidwoodFruitTreeShakingCondition: Puede caer al talar árboles de madera ácida en el Mar Sulfuroso.
+	DeliciousMeatDivineSwineOfferingCondition: Interactúa con la criatura mientras llevas 1 moneda de platino. La moneda se consumirá y la criatura se transformará en este objeto.
+	DeliciousMeatDivineSwineAvailabilityCondition: La criatura aparece de forma natural en el Espacio o a gran altitud. También se puede crear usando polvo de purificación en un cerdito o cerdito dorado.
+	QualitySlopGluttonyBlenderInteractionCondition: Usa o ataca la licuadora de gula colocada mientras sostienes un alimento. La comida se consumirá y tras 2 segundos caerá bazofia de calidad o bazofia asquerosa.
+	QualitySlopGluttonyBlenderChanceCondition: Prob. de bazofia de calidad: duración del potenciador de comida en minutos × 0.5% por Bien alimentado, × 0.75% por Completamente satisfecho, o × 1% por Lleno de exquisiteces.
+	GluttonyBlenderAvailabilityCondition: El Vendedor sospechoso siempre vende la licuadora de gula por 10 monedas de oro.
+	VanillaFruitTreeCuttingCondition: Puede caer al talar árboles de este tipo: {0}.
+	AAModClassicStarfishOceanFloorCondition: Se recolecta del fondo del Océano.
+	AAModClassicPrismOreCondition: Extrae mineral de prisma generado de forma natural con un poder de pico de al menos 65%.
+	AAModClassicEquinoxOreCondition: El mineral de radio aparece en el mundo tras derrotar a los gusanos del equinoccio y suelta mineral de radio o mineral de materia oscura al extraerse.
+	AAModClassicDeveloperBagCondition: Se obtiene al abrir esta bolsa de desarrollador.
+	AAModClassicBigEWingsCondition: La comprobación de variante variocolor debe fallar: 4095 de 4096 normalmente, o 2047 de 2048 llevando el Amuleto Brillante.
+	AAModClassicBigEWingsSCondition: La comprobación de variante variocolor debe tener éxito: 1 de 4096 normalmente, o 1 de 2048 llevando el Amuleto Brillante.
+	AAModClassicDeveloperPageCondition: Una recompensa rara de desarrollador al abrir esta bolsa del tesoro.
+	AAModClassicAshProofVestCondition: Mientras lleves puesto este chaleco en el Inferno por la noche antes de derrotar a Akuma, tiene una prob. de 1 en 3600 por tick de transformarse en el siguiente chaleco.
+	AAModClassicBlackLotusCondition: Rompe el follaje del Mire en un mundo creado con la opción de contenido no oficial activada.
+	AAModClassicSoulStoneCondition: Arroja el muñeco del duende chapucero a la lava mientras haya un duende chapucero vivo cerca. El NPC morirá y aparecerá la piedra de alma.
+	ThoriumCrystalWaveOceanCrystalCondition: Rompe un cristal del océano generado de forma natural en las Profundidades Acuáticas.
+	VanillaForestFruitTreeSource: Árboles del bosque
+	VanillaBorealFruitTreeSource: Árboles de la tundra
+	VanillaEbonwoodFruitTreeSource: Árboles de la corrupción
+	VanillaShadewoodFruitTreeSource: Árboles del carmesí
+	VanillaMahoganyFruitTreeSource: Árboles de la selva
+	VanillaPalmFruitTreeSource: Palmeras del océano
+	VanillaPearlwoodFruitTreeSource: Árboles de la bendición
+	VanillaAshFruitTreeSource: Árboles de fresno del inframundo
 	SelectedItemFishingMethod: Se obtiene pescando.
 	SelectedItemShimmerMethod: Lanza uno de estos objetos al Fulgor.
 	FishingLiquidCondition: Líquido: {0}

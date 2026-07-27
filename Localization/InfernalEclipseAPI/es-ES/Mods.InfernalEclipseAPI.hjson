@@ -53,6 +53,45 @@ UI: {
 		Puedes desactivar esta ventana emergente en la Configuración de Homeward, dentro de la configuración de Infernal Eclipse of Ragnarok.
 		'''
 	DevNoticeCampsiteFix: Corrección del error de la asta de bandera aplicada
+	WarningHelheim:
+		'''
+		AVISO: ¡Se ha detectado que tienes activado Thorium Mod!
+		¡Te recomendamos encarecidamente instalar el mod "Thorium Helheim" para obtener la IA prevista de Thorium antes de continuar!
+		Puedes desactivar esta ventana emergente en la configuración de Infernal Eclipse of Ragnarok si deseas continuar sin él.
+		'''
+	WarningRagnarok:
+		'''
+		AVISO: ¡Se ha detectado que tienes activado Thorium Mod!
+		¡Te recomendamos encarecidamente instalar el mod "Ragnarok" para lograr compatibilidad entre estos mods antes de continuar!
+		Puedes desactivar esta ventana emergente en la configuración de Infernal Eclipse of Ragnarok si deseas continuar sin él.
+		'''
+	WarningOverhaul:
+		'''
+		ADVERTENCIA: ¡Se ha detectado que tienes activado Calamity Overhaul!
+		Este mod tiene muchos errores y causará bastantes problemas. Te recomendamos encarecidamente desactivarlo.
+		'''
+	WarningRemnants:
+		'''
+		ADVERTENCIA: ¡Se ha detectado que tienes el mod Remnants activado!
+		Este mod NO es compatible con Infernum y muchos otros de los mods en el mod pack.
+		Si este mundo fue generado con el mod, por favor regenéralo con este mod desactivado.
+		'''
+	NoticeMasterPatch:
+		'''
+		AVISO: ¡Se ha detectado que tienes activado el mod Infernum Master Patch!
+		Este mod es redundante con el Modo Ragnarok y puede desactivarse.
+		'''
+	NoticeCalMinus:
+		'''
+		AVISO: ¡Se ha detectado que tienes el mod Calamity Minus activado!
+		Este mod es redundante si tienes activada la configuración de Cambios de Recetas de Calamity y puede desactivarse.
+		'''
+	NoticeCalBalance:
+		'''
+		AVISO: ¡Se ha detectado que tienes el mod Calamity Balance Changes activado!
+		Este mod añade un montón de cambios no listados que podrían hacer que tu partida sea peor de lo previsto.
+		Te recomendamos encarecidamente desactivarlo.
+		'''
 }
 
 DifficultyUI: {
@@ -77,19 +116,11 @@ DifficultyUI: {
 WelcomeMessage: {
 	Welcome: ¡Bienvenido al Mod Pack de Infernal Eclipse of Ragnarok!
 	TBRNotice: AVISO: ¡Se ha detectado que tienes Thorium Helheim activado! Asegúrate de que los multiplicadores de Vida, Daño y Velocidad estén en 1 en la configuración de compatibilidad (a menos que quieras una experiencia más difícil), ya que este mod ajusta automáticamente a los jefes de Thorium según la dificultad actual.
-	TBRWarning: ADVERTENCIA: ¡Se ha detectado que no tienes Thorium Helheim activado! Este mod es muy recomendable, ya que rebalancea a los jefes de Thorium para que tengan mecánicas más acordes al Modo Infernum y a Calamity en general.
-	RagWarning: ADVERTENCIA: ¡Se ha detectado que no tienes Ragnarok activado! Sin este mod, Thorium y Calamity podrían no funcionar bien juntos. Se recomienda encarecidamente activar este mod para una experiencia más completa y equilibrada.
-	EventTrophyNotice: AVISO: ¡Se ha detectado que no tienes More Trophies and Relics activado! Sin este mod, es posible que los jefes que no sean de Vanilla, Calamity o Infernum no tengan lore de Calamity ni introducciones de Infernum. Se recomienda encarecidamente activar este mod para una experiencia más completa y equilibrada.
 	SoulsWarning:
 		'''
 		ADVERTENCIA: ¡Fargo's Souls Mod NO es compatible con Infernal Eclipse of Ragnarok!
 		Ten en cuenta que el Modo Infernum no es compatible con el Modo Eternidad y podrías experimentar errores graves si tienes ambos activados.
 		'''
-	OverhaulWarning: ADVERTENCIA: ¡Se ha detectado que tienes activado el Calamity Overhaul! Este mod tiene muchos errores y causará bastantes problemas. Te recomendamos encarecidamente desactivarlo.
-	RemnantsWarning: ADVERTENCIA: ¡Se ha detectado que tienes el mod Remnants activado! Este mod NO es compatible con Infernum. Si este mundo fue generado con dicho mod, regenéralo con este mod desactivado, o de lo contrario no reportes errores relacionados con la generación del mundo.
-	MasterPatchNotice: AVISO: Se ha detectado que tienes el mod Infernum Master Patch activado. Este mod es redundante con este mod y puede desactivarse.
-	CalMinusNotice: AVISO: ¡Se ha detectado que tienes el mod Calamity Minus activado! Este mod ya incluye todas las funciones de este mod mientras tienes activados los Calamity Balance Changes en la configuración de Infernal Eclipse of Ragnarok.
-	CalBalNotice: AVISO: ¡Se ha detectado que tienes el mod Calamity Balance Changes activado! Este mod ya incluye la mayoría de las funciones de este mod que aparecen listadas en su página de Steam Workshop, mientras tienes activados los Calamity Balance Changes en la configuración de Infernal Eclipse of Ragnarok. Calamity Balance Changes también añade una serie de cambios no listados que podrían empeorar tu partida más de lo previsto.
 	InfernumActive: El prodigio ha regresado para enfrentar al Infernal Eclipse...
 	MPConnect: Un prodigio ha regresado para ayudar a enfrentar al Infernal Eclipse...
 	InfernumForced: Energía infernal ha sido infundida en este mundo...
@@ -114,6 +145,27 @@ BossCheesePrevention: {
 	TheDestroyer: No dejaré que destruyas mi máquina tan fácilmente.
 	Plantera: Fuerzas ancestrales te impiden usar este objeto en este momento...
 	Yharon: Fuerzas ancestrales te impiden usar este objeto en este momento...
+}
+
+ItemBalance: {
+	Modified: Modificado por Infernal Eclipse of Ragnarok
+	Modified2: Mantén {0} para ver las modificaciones
+	DamageUpGeneric: "    Daño aumentado en [c/00A36C:{0}%]"
+	DamageDownGeneric: "    Daño reducido en [c/FF0000:{0}%]"
+	ShootSpeedUpGeneric: "    Velocidad de disparo reducida en [c/FF0000:{0}%]"
+	ShootSpeedDownGeneric: "    Velocidad de disparo aumentada en [c/00A36C:{0}%]"
+	UseTimeUpGeneric: "    Tiempo de uso reducido en [c/00A36C:{0}%]"
+	UseTimeDownGeneric: "    Tiempo de uso aumentado en [c/FF0000:{0}%]"
+	UseAnimationUpGeneric: "    Animación de uso reducida en [c/00A36C:{0}%]"
+	UseAnimationDownGeneric: "    Animación de uso aumentada en [c/FF0000:{0}%]"
+	UseSpeedUpGeneric: "    Velocidad de uso aumentada en [c/00A36C:{0}%]"
+	UseSpeedDownGeneric: "    Velocidad de uso reducida en [c/FF0000:{0}%]"
+	PickUpGeneric: "    Poder de pico aumentado en [c/FF0000:{0}%]"
+	PickDownGeneric: "    Poder de pico reducido en [c/FF0000:{0}%]"
+	CritUpGeneric: "    Probabilidad de golpe crítico aumentada en [c/00A36C:{0}%]"
+	CritDownGeneric: "    Probabilidad de golpe crítico reducida en [c/FF0000:{0}%]"
+	DefenseUpGeneric: "    Defensa aumentada en {0}"
+	DefenseDownGeneric: "    Defensa reducida en {0}"
 }
 
 ItemTooltip: {
@@ -477,6 +529,7 @@ ItemTooltip: {
 	DoesNotStack: No se acumula con mejoras inferiores
 	NoBoss: No funciona mientras un jefe esté vivo
 	Disabled: "[DESACTIVADO] "
+	DisabledTooltip: Este objeto está actualmente desactivado y no está destinado a ser utilizado en la versión actual de Infernal Eclipse of Ragnarok.
 	DauntlessBuff: +2% de daño radiante
 	DedTo: - Dedicado a {0} -
 
@@ -2023,6 +2076,17 @@ Items: {
 		Major: Mayor
 	}
 
+	AuricBratwurst: {
+		DisplayName: Salchicha Áurica
+		Tooltip: ""
+		DynamicTooltip:
+			'''
+			{0}{1} mejoras a todas las estadísticas
+			'Ignora el hecho de que es cerdo... hecho de nuggets de pollo'
+			'''
+		VoidTooltip: Cura 75 de vacío
+	}
+
 	SingularityCore: {
 		DisplayName: Núcleo de Singularidad
 		Tooltip:
@@ -2340,6 +2404,33 @@ Items: {
 			No se consume
 			'''
 		Name: Constructo del Caos
+	}
+
+	BloodHeart: {
+		DisplayName: Corazón de Sangre
+		Tooltip:
+			'''
+			Invoca al Vizconde cuando se usa en el Altar de Sangre
+			No se consume
+			'''
+	}
+
+	EldritchBattleHorn: {
+		DisplayName: Cuerno de Batalla Eldritch
+		Tooltip:
+			'''
+			Invoca al Olvidado cuando se usa en las Profundidades Acuáticas
+			No se consume
+			'''
+	}
+
+	InfernalArsenalPainting: {
+		DisplayName: Pintura del Arsenal Infernal
+		Tooltip:
+			'''
+			¡Felicidades a quienes hayan completado low% o el Boss Rush!
+			Los límites de esta pintura no son suficientes para acomodar a cada vencedor
+			'''
 	}
 }
 
@@ -2730,6 +2821,11 @@ Configs: {
 		CnidrionMusic: {
 			Label: Música de Cnidrion
 			Tooltip: Activa/desactiva si 'Seahorse Scrutiny (Rebirth)' de Brimston Premium suena mientras un Cnidrion está vivo.
+		}
+
+		DisableUnnecessaryContent: {
+			Label: Desactivar Contenido Innecesario
+			Tooltip: ""
 		}
 	}
 

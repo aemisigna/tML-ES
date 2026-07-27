@@ -16,8 +16,8 @@ Items: {
 		'''
 	LunateCharm.Tooltip:
 		'''
-		Ganar esencia de alma otorga un escudo cuando la vida está al máximo
-		Elimina la penalización de daño radiante del debilitamiento [cbuff:InfernalEclipseAPI/BrokenOath]
+		Ganar esencia de alma otorga un escudo cuando la salud está al máximo
+		Elimina la penalización del 50% de daño del efecto negativo [cbuff:InfernalEclipseAPI/BrokenOath]
 		'''
 	SealedContract.Tooltip:
 		'''

@@ -66,6 +66,11 @@ ThoriumStealthStrike: {
 		Lanza un gran shuriken acuático que libera olas en miniatura
 		Los golpes furtivos generan una ola de marea dañina que sigue al shuriken y atrae a los enemigos
 		'''
+	AngelsEnd:
+		'''
+		Clava cuatro lanzas cósmicas en un enemigo para causar una gran explosión de daño
+		Los golpes furtivos dejan un rastro de balas teledirigidas
+		'''
 }
 
 GripsRework: {

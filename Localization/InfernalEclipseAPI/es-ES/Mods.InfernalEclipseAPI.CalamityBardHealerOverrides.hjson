@@ -86,7 +86,7 @@ Items: {
 		5% de probabilidad de golpe crítico radiante aumentada
 		Los hechizos curativos sanarán 2 de vida adicional
 		Potencia ciertos ataques radiantes con energía elemental
-		Aumenta la fuerza de los efectos de daño a lo largo del tiempo en un 66%
+		Aumenta la fuerza de los efectos de daño a lo largo del tiempo en un 200%
 		"Cuando la luz y la oscuridad chocan, armonizan en una forma final"
 		'''
 	SymphonicFabrications.Tooltip:
@@ -99,9 +99,12 @@ Items: {
 		'''
 }
 
-ItemDescriptions.DemonshadeGreaves:
-	'''
-	Aumenta tus puntos de técnica máximos en 2, la inspiración máxima en 15, y la sanación adicional en 10 de vida
-	Aumenta la velocidad y el alcance de rastreo de los instrumentos de viento en un 60% y los instrumentos de cuerda rebotan seis veces adicionales
-	Duplica el radio de efecto de tus potenciaciones y extiende su duración en 6 segundos
-	'''
+ItemDescriptions: {
+	DemonshadeGreaves:
+		'''
+		Aumenta tus puntos de técnica máximos en 2, la inspiración máxima en 15, y la sanación adicional en 10 de vida
+		Aumenta la velocidad y el alcance de rastreo de los instrumentos de viento en un 60% y los instrumentos de cuerda rebotan seis veces adicionales
+		Duplica el radio de efecto de tus potenciaciones y extiende su duración en 6 segundos
+		'''
+	ChampionWing: ""
+}

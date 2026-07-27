@@ -85,8 +85,8 @@ Configs: {
 		}
 
 		SecretOfTheShadowsLocalization: {
-			Label: Secret of the Shadows
-			Tooltip: Activa/Desactiva la traducción de Secret of the Shadows.
+			Label: Secrets of the Shadows
+			Tooltip: Activa/Desactiva la traducción de Secrets of the Shadows.
 		}
 
 		ThoriumModLocalization: {
@@ -110,7 +110,7 @@ Configs: {
 				Activa/Desactiva la traducción de Infernal Eclipse of Ragnarok.
 				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de:
 				- Thorium Mod
-				- Secret of the Shadows
+				- Secrets of the Shadows
 				- Catalyst Mod
 				- Infernum Mode
 				- Calamity Simple Whip Addon
@@ -213,7 +213,7 @@ Configs: {
 			Tooltip:
 				'''
 				Activa/Desactiva la traducción de Unofficial SOTS Bard, Thrower and Healer.
-				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Thorium Mod ni Secret of the Shadows si tienes esta opción activada, ya que este mod modifica contenido de ambos.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Thorium Mod ni Secrets of the Shadows si tienes esta opción activada, ya que este mod modifica contenido de ambos.
 				'''
 		}
 
@@ -263,6 +263,12 @@ Configs: {
 				'''
 		}
 	}
+}
+
+// Vanilla status-text keys re-injected by our tModLoader IL patches (original en-US wording, see WorldFileInternalSaveWorldPatch)
+Patches: {
+	WorldFile.SavingModdedWorldData: Saving modded world data
+	Player.BackingUpPlayerFile: Backing up player file
 }
 
 AuthorTags: {

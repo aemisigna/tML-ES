@@ -45,6 +45,16 @@ UI: {
 	EntrySetCount: Set: {0}
 	Weapons: Weapons
 	ArmorLabel: Armor
+	ArmorSetFallbackName: "{0} Armor"
+	ArmorSetFallbackNameAfter: Armor {0}
+	# Translators can extend these pipe-separated naming rules for their language.
+	ArmorSetPieceWords: armor|breastplate|cap|circlet|crown|greaves|hat|headgear|headpiece|helm|helmet|hood|leggings|mask|pants|shellmet|shirt|toga|visor
+	ArmorSetPiecePhrases: ""
+	ArmorSetNameInflections: ""
+	ArmorSetDefenseLabel: Total defense
+	ArmorSetTotalStats: Armor piece effects
+	ArmorSetBonus: Set bonus
+	ArmorSetBonusUnavailable: Failed to determine the set bonus.
 	Accessories: Accessories
 	SupportWeaponTag: Support
 	CombatBuffClassSpecificTag: Class-specific
@@ -73,6 +83,34 @@ UI: {
 	SelectedItemDemonAltar: Demon Altar / Crimson Altar
 	SelectedItemBottleStation: Placed Bottle / Alchemy Table
 	SelectedItemConditions: Conditions
+	MurasamaSecurityChestCondition: Murasama is found only in the Security Chest in the Underworld Bio-center Arsenal Lab.
+	AcidwoodTreeShakingSource: Acidwood Tree
+	AcidwoodFruitTreeShakingCondition: Can drop while cutting down Acidwood Trees in the Sulphurous Sea.
+	DeliciousMeatDivineSwineOfferingCondition: Interact with the creature while carrying 1 Platinum Coin. The coin is consumed, and the creature transforms into this item.
+	DeliciousMeatDivineSwineAvailabilityCondition: The creature naturally appears in Space or at high altitudes. It can also be created by using Purification Powder on a Piggy or Gold Piggy.
+	QualitySlopGluttonyBlenderInteractionCondition: Use or attack the placed Gluttony Blender while holding a food item. The food is consumed, and Quality Slop or Disgusting Slop drops after 2 seconds.
+	QualitySlopGluttonyBlenderChanceCondition: Quality Slop chance: food buff duration in minutes × 0.5% for Well Fed, × 0.75% for Plenty Satisfied, or × 1% for Exquisitely Stuffed.
+	GluttonyBlenderAvailabilityCondition: The Shady Salesman always sells the Gluttony Blender for 10 Gold Coins.
+	VanillaFruitTreeCuttingCondition: Can drop while cutting down trees of this type: {0}.
+	AAModClassicStarfishOceanFloorCondition: Collected from the Ocean floor.
+	AAModClassicPrismOreCondition: Mine naturally generated Prism Ore with at least 65% pickaxe power.
+	AAModClassicEquinoxOreCondition: Radium Ore appears in the world after defeating the Equinox Worms and drops either Radium Ore or Darkmatter Ore when mined.
+	AAModClassicDeveloperBagCondition: Obtained by opening this developer bag.
+	AAModClassicBigEWingsCondition: The Shiny Check must fail: 4095 in 4096 normally, or 2047 in 2048 while carrying the Shiny Charm.
+	AAModClassicBigEWingsSCondition: The Shiny Check must succeed: 1 in 4096 normally, or 1 in 2048 while carrying the Shiny Charm.
+	AAModClassicDeveloperPageCondition: A rare developer reward from opening this Treasure Bag.
+	AAModClassicAshProofVestCondition: While wearing this vest in the Inferno at night before defeating Akuma, it has a 1-in-3600 chance each tick to transform into the next vest.
+	AAModClassicBlackLotusCondition: Break Mire foliage in a world created with the Unofficial content option enabled.
+	AAModClassicSoulStoneCondition: Drop the Goblin Tinkerer Doll into lava while a living Goblin Tinkerer is nearby. The NPC is killed and the Soul Stone appears.
+	ThoriumCrystalWaveOceanCrystalCondition: Break a naturally generated Ocean Crystal in the Aquatic Depths.
+	VanillaForestFruitTreeSource: Forest trees
+	VanillaBorealFruitTreeSource: Snow biome trees
+	VanillaEbonwoodFruitTreeSource: Corruption trees
+	VanillaShadewoodFruitTreeSource: Crimson trees
+	VanillaMahoganyFruitTreeSource: Jungle trees
+	VanillaPalmFruitTreeSource: Ocean palm trees
+	VanillaPearlwoodFruitTreeSource: Hallow trees
+	VanillaAshFruitTreeSource: Underworld ash trees
 	SelectedItemFishingMethod: Caught while fishing.
 	SelectedItemShimmerMethod: Throw one of these items into Shimmer.
 	FishingLiquidCondition: Liquid: {0}

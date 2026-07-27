@@ -58,14 +58,13 @@ Items: {
 	FrostArtifactChestplate.Tooltip: 15% de probabilidad de golpe crítico cuerpo a cuerpo y a distancia aumentada
 
 	ElementalBreastplate: {
-		DisplayName: Peto Elemental
-		Tooltip: TEMP
-		TooltipExt:
+		DisplayName: Coraza Elemental
+		Tooltip:
 			'''
 			Aumenta el daño cuerpo a cuerpo y de invocación en un 10%
 			Aumenta la regeneración de vida en 4
-			Presiona '{0}' para teletransportarte a tu cursor, causando 200% de tu defensa como daño a todos los enemigos en tu camino
-			Tiene un tiempo de reutilización de 15 segundos, pero aumenta la velocidad cuerpo a cuerpo en un 40% durante el tiempo de reutilización
+			Presiona '{0}' para teletransportarte hacia tu cursor, infligiendo el 200% de tu defensa como daño a todos los enemigos en tu camino
+			Tiene un tiempo de reutilización de 15 segundos, pero aumenta la velocidad cuerpo a cuerpo en un 40% durante la espera
 			'''
 	}
 }
