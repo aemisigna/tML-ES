@@ -3,7 +3,7 @@ Abombination: {
 	Tooltip:
 		'''
 		Invoca al Goliat Portador de la Plaga si se usa en la Jungla
-		Se encoleriza fuera de la Jungla
+		Se enfurecerá fuera de la Jungla
 		{$Common.NotConsumable}
 		'Radio capaz de emitir una frecuencia reconocida por el nanovirus de la Plaga.'
 		'''
@@ -24,7 +24,7 @@ BloodwormItem: {
 	Tooltip:
 		'''
 		Invoca al Viejo Duque si se usa como cebo en el Mar Sulfuroso
-		Se encoleriza fuera del Mar Sulfuroso
+		Se enfurecerá fuera del Mar Sulfuroso
 		'''
 }
 
@@ -59,7 +59,7 @@ CharredIdol: {
 	Tooltip:
 		'''
 		Invoca al Elemental de Azufre si se usa en las Grietas de Azufre
-		Se encoleriza fuera de las Grietas de Azufre
+		Se enfurecerá fuera de las Grietas de Azufre
 		{$Common.NotConsumable}
 		'Todo lo que quede bajo su mirada será quemado hasta ser irreconocible.'
 		'''
@@ -113,7 +113,7 @@ DesertMedallion: {
 	Tooltip:
 		'''
 		Invoca al Azote Desértico si se usa en el Desierto
-		Se encoleriza fuera del Desierto
+		Se enfurecerá fuera del Desierto
 		{$Common.NotConsumable}
 		'El Azote busca otra comida.'
 		'''
@@ -134,7 +134,7 @@ ExoticPheromones: {
 	Tooltip:
 		'''
 		Invoca a Dragonfolly si se usa en la Jungla
-		Se encoleriza fuera de la Jungla
+		Se enfurecerá fuera de la Jungla
 		{$Common.NotConsumable}
 		'Feromonas utilizadas para cazar Vástagos Dracónicos.'
 		'''
@@ -156,7 +156,7 @@ NaiadsWarhorn: {
 	Tooltip:
 		'''
 		Invoca a Anahita si se usa en el Océano
-		Se encoleriza fuera del Océano
+		Se enfurecerá fuera del Océano
 		{$Common.NotConsumable}
 		'Un instrumento que usan los tritones para invocar a Anahita. Su melodía es extrañamente seductora.'
 		'''
@@ -217,7 +217,7 @@ Portabulb: {
 	Tooltip:
 		'''
 		Invoca a Plantera si se usa en la Jungla
-		Se encoleriza fuera de la Jungla Subterránea
+		Se enfurecerá fuera de la Jungla Subterránea
 		{$Common.NotConsumable}
 		'''
 }
@@ -257,7 +257,7 @@ Seafood: {
 	Tooltip:
 		'''
 		Invoca al Azote Acuático si se usa en el Mar Sulfuroso
-		Se encoleriza fuera del Mar Sulfuroso
+		Se enfurecerá fuera del Mar Sulfuroso
 		{$Common.NotConsumable}
 		'Cebo grande para una captura grande. Ten cuidado con los monstruos de los mares.'
 		'''
@@ -304,7 +304,7 @@ YharonEgg: {
 	Tooltip:
 		'''
 		Invoca a Yharon, Dragón del Renacimiento
-		Se encoleriza fuera de los muros de fuego
+		Se enfurecerá fuera de los muros de fuego
 		{$Common.NotConsumable}
 		'Un símbolo del Dragón vigilando y esperándote.'
 		'''

@@ -138,6 +138,8 @@ UI: {
 	TownNpcSpecialUnlockCondition: El NPC requiere rescate u otro desbloqueo especial.
 	TownNpcInventoryCondition: NPC visto con el inventario del jugador requerido.
 	TownNpcPopulationCondition: NPC visto tras mudarse otros NPC de pueblo.
+	TownNpcExpertModeCondition: El PNJ requiere un mundo en Modo Experto o Modo Maestro.
+	TownNpcMasterModeCondition: El PNJ requiere un mundo en Modo Maestro.
 	TownNpcAvailabilityUnknown: No se vio la disponibilidad del NPC en las pruebas.
 	ShopObservedAfterCondition: Objeto de tienda visto tras: {0}
 	NpcSpawnAvailabilityUnknown: No se reprodujo este enemigo en las pruebas. Biomas conocidos: iconos del Bestiario arriba.
@@ -158,6 +160,8 @@ UI: {
 	NpcSpawnMartians: Locura marciana
 	NpcSpawnPumpkinMoon: Luna calabaza
 	NpcSpawnFrostMoon: Luna Gélida
+	NpcSpawnFullMoon: Luna llena
+	ThoriumDamselTrackerContractCondition: Completa el contrato de la Doncella en Apuros
 	NpcSpawnOldOnesArmy: Ejército del Antiguo
 	NpcSpawnGranite: Cueva de granito
 	NpcSpawnMarble: Cueva de mármol
@@ -461,4 +465,7 @@ ExternalConditionTypes: {
 	}
 }
 
-Keybinds.ToggleProgressionJournal.DisplayName: Alternar Diario de progresión
+Keybinds: {
+	ToggleProgressionJournal.DisplayName: Toggle Progression Journal
+	ExportActiveSnapshot.DisplayName: Developer: Export Active Profile Snapshot
+}

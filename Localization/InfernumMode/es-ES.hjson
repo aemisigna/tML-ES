@@ -701,7 +701,7 @@ Mods: {
 
 			ProfanedCore: {
 				SummoningText: Invoca a Providencia al usarlo en el altar del Templo Profanado en el extremo derecho del Inframundo
-				EnrageText: Se enfurece cuando se invoca durante la noche
+				EnrageText: Se enfurecerá cuando se invoca durante la noche
 			}
 
 			ProfanedShard: {
@@ -2568,12 +2568,12 @@ Mods: {
 			// Enrage tooltips
 			EnrageTooltipReplacements: {
 				DecapoditaSprout: Se enfurecerá fuera del bioma de hongos
-				WormFood: Se enfurecerá fuera de la corrupción subterránea
-				BloodySpine: Se enfurecerá fuera del carmesí subterráneo
-				Teratoma: Se enfurecerá fuera de la corrupción
-				BloodyWormFood: Se enfurecerá fuera del carmesí
-				Seafood: Se enfurecerá fuera de las aguas del mar sulfuroso
-				Abombination: Se enfurecerá fuera de la jungla subterránea
+				WormFood: Se enfurecerá fuera de la Corrupción Subterránea
+				BloodySpine: Se enfurecerá fuera del Carmesí Subterráneo
+				Teratoma: Se enfurecerá fuera de la Corrupción
+				BloodyWormFood: Se enfurecerá fuera del Carmesí
+				Seafood: Se enfurecerá fuera de las aguas del Mar Sulfuroso
+				Abombination: Se enfurecerá fuera de la Jungla Subterránea
 				NecroplasmicBeacon: Se enfurecerá fuera del subsuelo
 			}
 
