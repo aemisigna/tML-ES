@@ -94,7 +94,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Unofficial Calamity Whips | ✅ | v1.2.2
 | Calamity Simple Whip Addon | ✅ | v1.15.12
 | Calamity: War Machine Invasion | ✅ | v0.1.6.1
-| Enchanted Moons | ✅ | v2.0.2.1
+| Enchanted Moons | ✅ | v2.0.2.2
 | Thorium Helheim | ✅ | v1.5.10
 | Consolaria | ✅ | v2.2.3
 | Unofficial Calamity Bard & Healer | ✅ | v0.13.6
