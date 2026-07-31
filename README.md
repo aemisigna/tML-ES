@@ -66,6 +66,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Ragnarok | ✅ | v1.6.0.5
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7
 | Split | ✅ | v1.0.11
+| Spirit Classic | ✅ | v1.5.0.44
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
