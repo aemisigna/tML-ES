@@ -1,0 +1,1264 @@
+CopperChestBottom.DisplayName: Cofre de Cobre
+GoldChestBottom.DisplayName: Cofre de Oro
+PlatinumChestBottom.DisplayName: Cofre de Platino
+SilverChestBottom.DisplayName: Cofre de Plata
+StardustBombNPC.DisplayName: Supernova
+
+Alien: {
+	DisplayName: Alienígena
+	Entry: En el espacio, nadie puede oírte hacer referencias a la cultura pop.
+}
+
+BoneHarpy: {
+	DisplayName: Apóstol Antiguo
+	Entry: Los huesos reanimados de un ave extinta hace mucho tiempo. Aunque estén muertos, no bajes la guardia cerca de ellos, ¡porque estos fósiles emplumados todavía tienen pelea en ellos!
+}
+
+AntlionAssassin: {
+	DisplayName: Asesino Hormiga León
+	Entry: Estos carroñeros del desierto son lobos solitarios. Cazan hormigas león no para sobrevivir, sino por deporte, para establecer su dominio entre su tribu.
+}
+
+CrimsonTrapper: {
+	DisplayName: Garra Arterial
+	Entry: Estos órganos palpitantes son vitales para garantizar la supervivencia del Carmesí — bombean sangre hacia la piedra viscosa del bioma, otorgándole la fuerza para expandirse y sostener sus extremidades.
+}
+
+AsteroidDebris.DisplayName: Escombros
+GoldDebris.DisplayName: Escombros
+
+AstralAdventurer: {
+	DisplayName: Aventurero Astral
+	Entry: ¡Un espectáculo de vida alienígena, compuesto de una sustancia más allá de nuestra comprensión! A pesar de su pequeña estatura y forma gelatinosa, unas piedras resistentes de alguna manera orbitan este extraño cuerpo.
+}
+
+AstralAmalgam: {
+	DisplayName: Amalgama Astral
+	Entry: ¡Un espectáculo de vida alienígena, compuesto de una sustancia más allá de nuestra comprensión! A pesar de su pequeña estatura y forma gelatinosa, unas piedras resistentes de alguna manera orbitan este extraño cuerpo.
+}
+
+SpaceShield.DisplayName: Amortiguador Astral
+
+AuroraStag: {
+	DisplayName: Ciervo de la Aurora
+	Entry: Un hermoso ciervo conocido por retozar bajo el cielo de la aurora. Le encantan las bayas de hielo, y le asusta casi todo lo demás. Especialmente la gente.
+}
+
+AutomataCreeper: {
+	DisplayName: Aracnómaton
+	Entry: Forjado en bronce, un metal resistente. Forma un armazón duradero. Un núcleo de mármol, que contiene magia sin explotar. Esto le da mente. Y por fin, la chispa de la vida. Vaga libre, nuevo amigo.
+}
+
+AutomataSpinner: {
+	DisplayName: Trocómaton
+	Entry: Los tiempos se vuelven aciagos, y debo apresurarme. Dobles cuchillas, para atacar. Cuatro patas, para estabilidad. Placas extra, para resistencia. Un núcleo de mármol y por fin la chispa de la vida. Apresúrate, oh guardián, conoces tu tarea. Defiende estas cuevas que llamamos hogar.
+}
+
+Beholder: {
+	DisplayName: Observador
+	Entry: Estas bestias vagan por los pozos de mármol que se encuentran en el mundo, juzgándote con cada uno de sus muchos ojos.
+	BossChecklistIntegration.SpawnInfo: El Observador aparece raramente en las Cavernas de Mármol después de derrotar al Devorador de Mundos o al Cerebro de Cthulhu.
+}
+
+BlazingSkull: {
+	DisplayName: Alma Iracunda
+	Entry: Fácil de enfurecer, esta alma está eternamente en llamas debido a su pura rabia. Toda esta energía se libera cuando carga hacia adelante para estallar por cualquier cosa insignificante. Qué cabeza caliente.
+}
+
+BlizzardBandit: {
+	DisplayName: Bandido de Ventisca
+	Entry: Las guerras de bolas de nieve pueden ser divertidas, pero estos bandidos no juegan limpio. Compactan sus bolas de nieve alrededor de núcleos de hielo, causando apuros a cualquier transeúnte.
+}
+
+BlizzardNimbus: {
+	DisplayName: Nimbo de Ventisca
+	Entry: Al haberse congelado por completo, este nimbo hace llover furiosamente fragmentos de hielo en un intento de expulsarlos todos. Lo que no sabe es que simplemente podría abandonar el entorno frío.
+}
+
+Spewer: {
+	DisplayName: Hinchado
+	Entry: Una bestia particularmente asquerosa. Acumula presión absorbiendo aire con los órganos de su espalda y propulsa fluidos gástricos contra cualquier cosa que considere amenazante.
+}
+
+SwollenFish: {
+	DisplayName: Pez Hinchado
+	Entry: En el pasado, estos peces se inflaban para intimidar a los depredadores. Sin embargo, ahora parecen haber comido tanto que han subido en la cadena alimenticia y ya no lo necesitan.
+}
+
+BloodGazerEye.DisplayName: Observador de Sangre
+
+Bloomshroom: {
+	DisplayName: Hongoflor
+	Entry: Este micelio agresivo solo cobra vida una vez en una luna azul. Esparcen sus esporas hacia el cielo, reproduciéndose una vez que tocan el suelo o encuentran un huésped vivo.
+}
+
+Glitterfly: {
+	DisplayName: Mosca Reluciente
+	Entry: Las Moscas Relucientes no se alimentan a menudo, ya que su dieta consiste en un hongo raro. Además, poseen un aguijón venenoso que causa intensa desorientación y vértigo.
+}
+
+GlowToad: {
+	DisplayName: Sapo Luminoso
+	Entry: Un hongo psicodélico crece sobre la espalda de este sapo. Están perdidos en el delirio, ya que se encuentran picoteándolo con frecuencia.
+}
+
+Lumantis: {
+	DisplayName: Lumantis
+	Entry: Insectos colosales que atacan con garras en forma de guadaña. Cuando se sienten amenazados, como advertencia a los depredadores, inflan su vientre.
+}
+
+LunarSlime: {
+	DisplayName: Slime Observaestrellas
+	Entry: Néctar gelatinoso de las estrellas. Los Slimes Observaestrellas pueden ser agresivos, pero el aceite que secretan sirve para hacer una deliciosa untable.
+}
+
+MadHatter: {
+	DisplayName: Sombrerero Loco
+	Entry: Han sido llevados a la locura, ¡completamente chiflados! Pero toda la mejor gente lo está.
+}
+
+AncientFlyer: {
+	DisplayName: Avian Antiguo
+	Entry: La matriarca de una especie extinta de aves depredadoras, traída de vuelta a la vida por pura voluntad para proteger la yema de su última cría restante.
+	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/JewelCrown] en el bioma del cielo en cualquier momento. Alternativamente, rompe un Huevo de Avian Gigante, que se encuentra en las Islas Avian cerca de la capa del cielo. El Avian Antiguo puede combatirse en cualquier momento y lugar de la progresión.
+	Spawn: ¡El Avian Antiguo ha despertado!
+}
+
+Atlas: {
+	DisplayName: Atlas
+	Entry: Un centinela fracturado construido hace milenios para proteger la tierra de aquellos que se atrevieran a mancillar su forma natural. Ahora, parece que te has convertido en su objetivo.
+	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/StoneSkin] en cualquier lugar y momento.
+}
+
+AtlasArmLeft.DisplayName: Brazo de Atlas
+AtlasArmRight.DisplayName: Brazo de Atlas
+CobbledEye.DisplayName: Ojo Adoquinado
+CobbledEye2.DisplayName: Ojo Adoquinado
+CobbledEye3.DisplayName: Ojo Adoquinado
+
+Dusking: {
+	DisplayName: Dusking
+	Entry: La consecuencia pesadillesca de una sesión de espiritismo fallida por brujos trasgos. Este espíritu abominable sigue siendo un recordatorio ardiente del caos que la magia de llama sombría puede provocar.
+	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/DuskCrown] en cualquier lugar durante la noche.
+}
+
+ShadowBall.DisplayName: Esfera Penumbral
+
+Shadowflamer: {
+	DisplayName: Cráneo Antumbral
+	Entry: ¡Fin de los amaneceres, portador de las noches, que el rey de la oscuridad se alce a luchar! ¡Que sumerjas al mundo en tinieblas y selles la luz para siempre! ¡Oh, rey, escucha mi clamor, que la victoria sea tuya esta noche!
+}
+
+FrostSaucer: {
+	DisplayName: Traficante de Nieve
+	Entry: Un peligroso aerodeslizador hecho de un metal escalofriantemente frío, alimentado por Núcleos de Escarcha. ¡Se acabó el juego, se acabó el señor simpático del hielo!
+	BossChecklistIntegration.SpawnInfo: El Traficante de Nieve aparece raramente durante la Legión Helada.
+}
+
+Infernon: {
+	DisplayName: Infernon
+	Entry: Este demonio diabólico estuvo una vez encadenado en las profundidades del inframundo, pero finalmente se ha liberado. Cualquier mortal que se atreva a obstruir su desenfreno debe prepararse para una pelea infernal.
+	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/CursedCloth] en el Inframundo en cualquier momento.
+}
+
+InfernonSkull.DisplayName: Cráneo de Infernus
+InfernonSkullMini.DisplayName: Cráneo de Infernon
+InfernoSkull.DisplayName: Cráneo de Infernus
+
+MoonWizard: {
+	DisplayName: Mago Medusa Lunar
+	Entry: Esas medusas lunares son más inteligentes de lo que parecen. Con solo un poco de coordinación y un agudo sentido de la moda, pueden convertirse en un adversario mucho más duro de lo que cualquier medusa sola podría llegar a ser.
+	BossChecklistIntegration.SpawnInfo: Usa un [i:SpiritMod/DreamlightJellyItem] en cualquier lugar en la superficie durante la noche. Un [i:SpiritMod/DreamlightJellyItem] puede atraparse con una red para insectos durante la Marea de Medusas, y no se consume
+}
+
+AzureGemProj.DisplayName: Gema Azur
+MysticMJWClone.DisplayName: Clon Místico
+
+OccultistBoss: {
+	DisplayName: Ocultista
+	Entry: Un demonio onírico no-muerto obsesionado con la práctica y perfección de la llamada 'corrupción de sangre'. Para esta práctica, solo se revela cuando la luna brilla con un tono sanguíneo.
+	BossChecklistIntegration.SpawnInfo: El Ocultista aparece raramente durante una Luna de Sangre después de derrotar a cualquier jefe de pre-modo difícil.
+}
+
+ExplodingSpore.DisplayName: Espora Explosiva
+
+ReachBoss: {
+	DisplayName: Azote del Zarzal
+	BossChecklistIntegration.SpawnInfo: Haz clic derecho en la Flor de Sangre, una flor luminosa que se encuentra en el fondo del Zarzal. El Azote del Zarzal puede combatirse en cualquier momento y lugar de la progresión. Si no hay una Flor de Sangre presente, usa un [i:SpiritMod/ReachBossSummon] en el Zarzal bajo la superficie en cualquier momento.
+	PreSpawn: Perturbar esta flor seguramente no es buena idea...
+	Spawn: ¡El Azote del Zarzal ha despertado!
+}
+
+ReachBoss1: {
+	DisplayName: Cáscara del Azote del Zarzal
+	Entry: El corazón palpitante del Zarzal. Su instinto innato de autopreservación se expresa en los anticuerpos hostiles y el aguacero torrencial sin fin dentro del bioma.
+}
+
+Scarab: {
+	DisplayName: Escarabajo
+	Entry: Los pequeños hermanos combativos del Scarabeus más grande, estas criaturitas siguen a su líder hasta la muerte.
+}
+
+Scarab_Wall.DisplayName: Escarabajo
+
+Scarabeus: {
+	DisplayName: Scarabeus
+	Entry: Alguna vez se pensó que era una deidad, este escarabajo en particular proviene de una especie esquiva que es igualmente masiva.
+	BossChecklistIntegration.SpawnInfo: Usa un [i:SpiritMod/ScarabIdol] en el Desierto durante el día. Un [i:SpiritMod/ScarabIdol] puede obtenerse al completar cierta misión del Aventurero, o puede fabricarse, y no se consume.
+}
+
+SwarmScarab.DisplayName: Escarabajo
+ArcadeProbe.DisplayName: Viajero Estelar
+LaserBase.DisplayName: Lanzador de Láser
+SteamRaiderBody.DisplayName: Viajero de Starplate
+SteamRaiderBody2.DisplayName: Viajero de Starplate
+
+SteamRaiderHead: {
+	DisplayName: Viajero de Starplate
+	Entry: Un extraño autómata de origen desconocido, diseñado para extraer un metal precioso de las estrellas. Utiliza la energía sin explotar que se encuentra dentro del mineral para alimentarse a sí mismo y perpetuar una búsqueda sin fin.
+	BossChecklistIntegration.SpawnInfo: Usa un [i:SpiritMod/StarWormSummon] en una Baliza de Astralita, ubicada en los Asteroides, durante la noche.
+	Spawn: ¡El Viajero de Starplate ha despertado!
+	Laser: Iniciando Protocolo Láser
+}
+
+SteamRaiderHeadDeath.DisplayName: Viajero de Starplate
+SteamRaiderTail.DisplayName: Viajero de Starplate
+SuicideLaser.DisplayName: Bombardero Láser
+TailProbe.DisplayName: Viajero Estelar
+
+BottomFeeder: {
+	DisplayName: Carroñero de Fondo
+	Entry: Una bilis desagradable reside en sus entrañas, esperando ser liberada. Ten cuidado mientras se arrastran hacia ti, y prepárate para un torrente de lodo y hollín.
+}
+
+Boulder_Termagant: {
+	DisplayName: Behemot de Roca
+	Entry: Fascinada por cualquier cosa que brille, los ojos de esta bestia ahora sirven para un solo propósito. Encontrar cualquier destello de luz. Esto usualmente la lleva hacia gemas, pero por error se comerá cualquier cosa que brille.
+}
+
+CavernBandit: {
+	DisplayName: Bandido de Caverna
+	Entry: Algunas personas van a minar por los recursos, otras por deporte. Estos merodeadores maliciosos se adentran para cazar a esas personas.
+}
+
+CavernCrawler: {
+	DisplayName: Reptante de Caverna
+	Entry: A pesar de su apariencia tímida, estos curiosos habitantes de las cuevas no deben ser subestimados.
+}
+
+ChainedSinner: {
+	DisplayName: Fauces del Horno
+	Entry: Forjamos las cadenas que llevamos en vida y en muerte.
+}
+
+Chest_Zombie: {
+	DisplayName: Zombi Cofre
+	Entry: Debió haber sido un campeón de peso muerto en su vida anterior, porque si no te está lanzando golpes pesados, se le puede ver entrenando con los cofres esparcidos por la tierra.
+}
+
+GraniteCore: {
+	DisplayName: Núcleo Crepitante
+	Entry: Energía reprimida que alguna vez estuvo atrapada dentro de la forma rocosa y amorfa de un Slime de Granito. Ahora está libre, ¡y está a punto de volverse crítica!
+}
+
+BlueAlgae1.DisplayName: Alga Azul
+BlueAlgae2.DisplayName: Alga Azul
+BlueAlgae3.DisplayName: Alga Azul
+GreenAlgae1.DisplayName: Alga Bioluminiscente
+GreenAlgae2.DisplayName: Alga Bioluminiscente
+GreenAlgae3.DisplayName: Alga Bioluminiscente
+PurpleAlgae1.DisplayName: Alga Bioluminiscente
+PurpleAlgae2.DisplayName: Alga Bioluminiscente
+PurpleAlgae3.DisplayName: Alga Bioluminiscente
+
+AtlanticCod: {
+	DisplayName: Bacalao del Atlántico
+	Entry: El Bacalao del Atlántico es originario únicamente de las gélidas aguas de las frías tundras. Los cortes de carne de estos peces son escamosos y dulces.
+}
+
+Bladetongue: {
+	DisplayName: Lengua de Cuchilla
+	Entry: Si logras capturar uno, puede servir como una excelente arma. Pero hazlo con cuidado, ya que su escupitajo de icor letal puede dejarte indefenso.
+}
+
+Blossmoon: {
+	DisplayName: Floriluna
+	Entry: Estas criaturas tienen el tamaño de una moneda, y solo aparecen durante la noche. Solo se les puede observar bailando, y emitiendo un tenue resplandor calmante.
+}
+
+Cavefish: {
+	DisplayName: Pez Cueva Blindado
+	Entry: Tendrías que ser duro como una roca para masticar la carne de un pez como este, ¡es dura como los diamantes!
+}
+
+Cleft: {
+	DisplayName: Saltador de la Grieta
+	Entry: Un pequeño peñasco viviente que vaga por el desierto subterráneo. Tienden a ponerse ansiosos en medio del caos de las hormigas león, raramente retirándose de sus cuevas.
+}
+
+CrismonTigerfish: {
+	DisplayName: Pez Tigre Carmesí
+	Entry: Un pez carnívoro que ha sido corrompido por las aguas sangrientas del Carmesí. Su nombre viene de la falta de rayas, que se asemejan a las de un tigre.
+}
+
+CrystalSerpent: {
+	DisplayName: Serpiente de Cristal
+	Entry: Al vivir en las aguas resplandecientes de lo Sagrado, su cuerpo ahora está compuesto principalmente de cristales. Esto permite que la luz entre en su cuerpo y la canalice en un rayo que se hace añicos al impactar.
+}
+
+CyberflyBlue: {
+	DisplayName: Ciberinsecto
+	Entry: Pequeños espíritus digitales que revolotean por el ciberespacio.
+}
+
+CyberflyPink: {
+	DisplayName: Ciberinsecto
+	Entry: Pequeños espíritus digitales que revolotean por el ciberespacio.
+}
+
+Damselfish: {
+	DisplayName: Pez Damisela
+	Entry: Peces delicados que viven en altitudes elevadas. A pesar de las cualidades calmantes que poseen sus escamas, son propensos a la angustia.
+}
+
+DreamstrideWisp: {
+	DisplayName: Espíritu del Paso Onírico
+	Entry: La esencia de una pesadilla, que a menudo aparece durante la práctica de la 'corrupción de sangre'. Jadean y gimen en un dolor silencioso.
+}
+
+Ebonkoi: {
+	DisplayName: Ebonkoi
+	Entry: Un espécimen que alguna vez fue hermoso, ahora grotesco y desagradable gracias a las venas insidiosas de la Corrupción. Verdaderamente trágico.
+}
+
+FrostMinnow: {
+	DisplayName: Pececillo de Escarcha
+	Entry: Pececillos inquietos que pueden sobrevivir a las temperaturas intensamente frías de las aguas de la tundra gracias a su calor corporal antinaturalmente alto.
+}
+
+GaleSnail: {
+	DisplayName: Caracol de Vendaval
+	Entry: Un pequeño y modesto nimbo que no se cansa de la lluvia. Incluso su caparazón produce lluvia, cuando acumula suficiente humedad.
+}
+
+GildJelly: {
+	DisplayName: Medusa Dorada
+	Entry: Hermosas medusas con una capucha resplandeciente que se asemeja al oro. Trágicamente, no llevan bien el cautiverio.
+}
+
+GoldenCarp: {
+	DisplayName: Carpa Dorada
+	Entry: Un pez cubierto de escamas absolutamente hermosas y resplandecientes que se asemejan al oro puro. Su carne no sirve para cocinar, pero puede alcanzar un alto precio de venta.
+}
+
+GoldLumoth: {
+	DisplayName: Lumipolilla Dorada
+	Entry: En raras ocasiones, se encuentran criaturas completamente cubiertas de oro. ¡Los comerciantes pagarán generosamente por ellas, o puedes lucirlas en jaulas!
+}
+
+Grouper: {
+	DisplayName: Mero
+	Entry: Estos peces son apreciados por su tamaño y sabor. Con un pez tan grande, puedes alimentar a todo un pueblo, y ni hablar de a ti mismo.
+}
+
+Gulper: {
+	DisplayName: Tragón
+	Entry: Estos pequeños peces domesticados están hechos de una sustancia elástica, a menudo se venden en festivales, y tienen una esperanza de vida extremadamente corta.
+}
+
+HailSnail: {
+	DisplayName: Caracol de Granizo
+	Entry: Una pequeña bola de nieve viviente que no se cansa del frío. Puede ponerse cada vez más fría, pero nunca se congelará.
+}
+
+Hemoglob: {
+	DisplayName: Hemoglob
+	Entry: Un descendiente de la realeza y un rey errante. Observa cada una de tus acciones mientras se mueve con gracia y dignidad.
+}
+
+Hemoglorb: {
+	DisplayName: Hemoglorb
+	Entry: El pariente olvidado del Carmesí, dejado de lado debido a su forma y tamaño anormales. Nunca pudo, y probablemente nunca podrá, encontrar amor ni aceptación en este cruel mundo.
+}
+
+Lardfish: {
+	DisplayName: Pez Grasiento Abigarrado
+	Entry: Un pez extraño muy buscado por su potencial para elaborar pociones. Aquellos que dominan la magia de invocación encuentran este pez particularmente útil para potenciar sus habilidades.
+}
+
+Lumoth: {
+	DisplayName: Lumipolilla
+	Entry: El bulbo solo permanece encendido mientras la Lumipolilla agita sus alas.
+}
+
+Luvdisc: {
+	DisplayName: Pez Ardor
+	Entry: Cuando la luna te da en el ojo como una gran porción de pizza... eso es un Ardor.
+}
+
+Maggotfly: {
+	DisplayName: Moscagusano
+	Entry: Un gusano gigante que de alguna manera maduró y le crecieron alas, qué cosita asquerosa.
+}
+
+NeonTetra: {
+	DisplayName: Tetra Neón
+	Entry: Fiel a su nombre, esta especie de pez tropical tiene colores brillantes y hermosos, lo que hace que se vendan a un precio exorbitante.
+}
+
+Crinoid: {
+	DisplayName: Crinoideo
+	Entry: Estas curiosas criaturas están estrechamente relacionadas con las estrellas de mar. Se alimentan de lo que sea que se hunda hasta el fondo del mar.
+}
+
+Floater.DisplayName: Flotador Luminoso
+
+Floater1: {
+	DisplayName: Flotador Luminoso
+	Entry: Bajo las olas del esquivo océano luminoso, yacen cientos de pequeñas medusas resplandecientes, bailando entre la marea luminiscente.
+}
+
+Pelican: {
+	DisplayName: Pelícano
+	Entry: Una gran ave marina con un pico especial para sostener a su presa. Asustarla podría hacer que el ave suelte lo que ha atrapado, pero eso sería cruel.
+}
+
+ReaverShark: {
+	DisplayName: Tiburón Saqueador
+	Entry: Esta especie particular de tiburón es notable por su potencial como herramienta. No solo es lo bastante pequeño para sostenerlo, sino que su mentón hendido y su gran cuerno frontal son excelentes para romper el hielo.
+}
+
+SandPiper: {
+	DisplayName: Correlimos
+	Entry: Un ave pequeña y valiente que patrulla las costas buscando comida descubierta por las olas.
+}
+
+Prismite: {
+	DisplayName: Prismita
+	Entry: Un pez mineral iridiscente que vadea las aguas de lo Sagrado. El destello prismático que reflejan sus escamas es una belleza natural.
+}
+
+PurpleClubberfish: {
+	DisplayName: Pez Mazo Púrpura
+	Entry: Si intentas reclamar esta arma de destrucción masiva, cuidado con su poder. ¡Puede y la usará en tu contra!
+}
+
+RedSnapper: {
+	DisplayName: Pargo Rojo
+	Entry: A pesar de su nombre, ¡en realidad son bastante dóciles! Perfectos para capturar y cocinar sin problemas.
+}
+
+Rockfish: {
+	DisplayName: Pez Roca
+	Entry: Innegablemente demasiado duros para comer. Sin embargo, para dar golpes, estos desastres naturales tienen bastante potencial.
+}
+
+Rotslug: {
+	DisplayName: Babosa Podrida
+	Entry: La Corrupción ha mutilado y corrompido a este molusco por lo demás mundano. Sirve como cebo inofensivo y efectivo, a pesar de su espantosa apariencia.
+}
+
+SawtoothShark: {
+	DisplayName: Tiburón Sierra
+	Entry: Una especie de tiburón con un largo apéndice cartilaginoso, erizado de extremidades afiladas. Es notablemente resistente y duradero, y sorprendentemente eficiente para serrar troncos.
+}
+
+SpecularFish: {
+	DisplayName: Pez Especular
+	Entry: Los alquimistas consideran que nunca hay suficiente de este pez para repartir en el calor de la batalla, ya que las pociones que producen tienden a agotarse rápido.
+}
+
+Swordfish: {
+	DisplayName: Pez Espada
+	Entry: ¡Es una espada, es un pez! ¡Es un pez espada! Peces versátiles que funcionan tanto como mascotas como armas, ¡qué oferta! Eso sí, no vienen con parlantes.
+}
+
+TinyCrab: {
+	DisplayName: Cangrejo Pálido
+	Entry: Estas adorables criaturitas no son tan hostiles como sus parientes más grandes. Vivir en aguas más profundas les ha hecho perder coloración ya que tienen menos exposición a la luz solar.
+}
+
+Toxikarp: {
+	DisplayName: Toxicarpa
+	Entry: La Corrupción retorció las entrañas de este pez para que se pudran perpetuamente, liberando un gas nocivo que forma burbujas con el exceso de mucosidad que ahora produce. Es sorprendentemente corrosivo.
+}
+
+TubeWorm: {
+	DisplayName: Gusano Tubícola
+	Entry: En las profundidades bajo las mareas resplandecientes, allá donde la luz no llega, viven algunas criaturas fascinantes, capaces de alimentarse del humo que exudan los respiraderos hidrotermales.
+}
+
+Vibeshroom: {
+	DisplayName: Hongo Tembloroso
+	Entry: La lista de reproducción de este pequeño consiste en un 80% de ritmos lofi e hyperwave. Aunque algunos juzguen su gusto, eso no evitará que siga bailando.
+}
+
+CrystalDrifter: {
+	DisplayName: Vagabundo de Cristal
+	Entry: Los vientos aulladores de una ventisca le dan vuelo a esta entidad, por lo demás torpe, compuesta de hielo.
+}
+
+Cystal: {
+	DisplayName: Cristal
+	Entry: Una criatura espantosa que patrulla las profundidades turbias de la Corrupción. Sus cuerpos cristalinos emiten una frecuencia desorientadora que nubla los sentidos, ¡así que mantente alejado!
+}
+
+Cystal_Shield.DisplayName: Escudo de Cristal
+
+DarkfeatherMage: {
+	DisplayName: Mago Pluma Oscura
+	Entry: ¡Cuac, cuac! Una gran ave de rapiña que se cree maga. Quienquiera que le haya enseñado magia a estas aves ha dejado un buen desastre.
+}
+
+Dead_Scientist: {
+	DisplayName: Científico No Muerto
+	Entry: Un practicante impío de la necro-alquimia, que combina la alquimia típica con una forma menor de nigromancia para mantener en marcha sus enfermizos experimentos.
+}
+
+DeadArcher: {
+	DisplayName: Tirador de Puntería Mortal
+	Entry: A pesar de tener un solo ojo, este arquero es engañosamente hábil comparado con cualquier otro. ¡Cierra tus puertas a este forastero!
+}
+
+DesertBandit: {
+	DisplayName: Bandido Abandonado
+	Entry: Un bandido errante, buscando cualquier cosa que brille bajo el sol implacable. No muy divertido en las fiestas.
+}
+
+DiseasedSlime: {
+	DisplayName: Slime Nocivo
+	Entry: Las toxinas de Bismita fluyen a través del gel de esta masa enferma, haciendo que cualquier contacto erosione la piel e inflame las heridas abiertas.
+}
+
+DungeonCubeBlue: {
+	DisplayName: Cubo Azul de la Mazmorra
+	Entry: Autómatas de piedra sin mente construidos para ser conscientes de su entorno y atacar en cuanto ven algo.
+}
+
+DungeonCubeGreen: {
+	DisplayName: Cubo Verde de la Mazmorra
+	Entry: Autómatas de piedra sin mente construidos para ser conscientes de su entorno y atacar en cuanto ven algo.
+}
+
+DungeonCubePink: {
+	DisplayName: Cubo Rosa de la Mazmorra
+	Entry: Autómatas de piedra sin mente construidos para ser conscientes de su entorno y atacar en cuanto ven algo.
+}
+
+ElectricEel: {
+	DisplayName: Anguila Eléctrica
+	Entry: Utilizando la energía que acumula mientras nada, este esbelto pez puede liberarla en una gran descarga, con bastante fuerza.
+}
+
+Enchanted_Armor: {
+	DisplayName: Draugr
+	Entry: Estas armaduras cobraron vida gracias a almas malditas conectadas al tesoro de los sepulcros oscuros. Ahora esperan congeladas e inanimadas a que un valiente aventurero se adentre en ellas.
+}
+
+ExplosiveBarrel.DisplayName: Barril Explosivo
+
+FallenAngel: {
+	DisplayName: Ángel Caído
+	Entry: Desterrado de los cielos, este querubín rebelde descarga sus frustraciones sobre los seres mortales de este reino.
+}
+
+Falling_Asteroid: {
+	DisplayName: Asteroide Caído
+	Entry: Lo que parece ser una roca consciente en realidad es una pequeña criatura que usa un trozo del meteorito como caparazón. Es capaz de flotar con facilidad, a pesar del peso.
+}
+
+Vilemoth: {
+	DisplayName: Mosca Supurante
+	Entry: El hedor pútrido de la corrupción estaba destinado a atraer moscas, y efectivamente lo hizo. Ahora corruptas y voraces, siguen el olor de cualquier carne fresca que puedan encontrar.
+}
+
+VileWasp: {
+	DisplayName: Pesterfly
+	Entry: Estas plagas infestan las entrañas de la abominable Mosca Supurante. Si flexionas lo suficientemente fuerte mientras una te muerde, podría explotar.
+}
+
+FleshHound: {
+	DisplayName: Sabueso de Carne
+	Entry: Un desagradable cánido merodeador que solo se deja ver bajo la luz bermellón de una Luna de Sangre. Aunque se alimente, el hambre siempre permanecerá.
+}
+
+WintrySoul: {
+	DisplayName: Alma Aprisionada en Hielo
+	Entry: Un curioso recuerdo de tiempos pasados, de alguna manera preservado por la profunda tundra helada.
+	ButtonTake: Tomar
+	ButtonLeave: Dejar
+	PositiveChat: Mi visión vuelve a la normalidad. El alma revolotea a mi alrededor, aparentemente complacida con mi decisión. Me entrega una reliquia antigua y otros recursos para mi viaje, y desaparece.
+	NegativeChat: Mi visión se nubla. Empiezo a temblar. Me siento débil. La calidez que el alma me dio desaparece lentamente, y el alma se desvanece en las cavernas heladas. Debería intentar buscar el artefacto en otro lugar. Quizás pueda conseguirlo de algún Winterborn.
+}
+
+Illusionist: {
+	DisplayName: Espectro
+	Entry: Un maestro de las artes espirituales ilusorias. Invocará violentas apariciones en un intento de distraerte y abrumarte.
+}
+
+IllusionistSpectre: {
+	DisplayName: Espectro del Fantasma
+	Entry: Una aparición convincente invocada por los Espectros, hecha para cumplir sus órdenes. No es más que un reflejo del original, ¡no te dejes engañar!
+}
+
+GladiatorSpirit: {
+	DisplayName: Espíritu Gladiador
+	Entry: Ten cuidado con este espíritu, tiene la habilidad única de fortificar su cuerpo inexistente, haciéndolo resistente al daño. ¡Destruye su armadura y libera su alma!
+}
+
+GloopGloop: {
+	DisplayName: Gloop
+	Entry: Nadie está muy seguro de qué están hechas estas cosas. Sea lo que sea, no sabe bien.
+}
+
+Goblin_Grenadier: {
+	DisplayName: Granadero Trasgo
+	Entry: Cuando las bolas con pinchos no bastan, buenos y anticuados explosivos que escupen metralla harán el truco.
+}
+
+GraniteSentry: {
+	DisplayName: Torreta G-TEK
+	Entry: "'G-TEK Incorporated quiere que sepas que no nos hacemos responsables de ninguna muerte o desmembramiento causado por nuestras torretas de protección. Simplemente están ahí para proteger lo que es nuestro. Gracias.'"
+}
+
+GraniteSlime: {
+	DisplayName: Slime de Granito
+	Entry: Una criatura gelatinosa que ha vagado por las cuevas de Granito durante mucho tiempo, acumulando suficientes guijarros y polvo para volverse uno con la piedra.
+}
+
+HauntedTome: {
+	DisplayName: Tomo Embrujado
+	Entry: Se colocó un glifo de protección en este tomo para protegerlo de un uso indebido. Desafortunadamente para ti, eso significa enfrentarte a un libro con 20 colmillos.
+	BossChecklistIntegration.SpawnInfo: Los Tomos Embrujados pueden encontrarse explorando los Sepulcros Oscuros e interactuando con ciertos objetos.
+}
+
+HellEater: {
+	DisplayName: Devorador Glotón
+	Entry: Es mejor que evites las fauces abrasadoras de estas bestias. Los Devoradores tienen una mordida notoriamente dolorosa, pero eso los convierte en un material muy buscado para los valientes.
+}
+
+Hemophora: {
+	DisplayName: Hemophora
+	Entry: Esta bestia de aspecto vegetal es todo un rival. Tiene sacos alrededor de su abertura bucal que pueden disparar sangre ácida para disolver tanto a depredadores como a presas.
+}
+
+Hookbat: {
+	DisplayName: Murciélago Garfio
+	Entry: Estas simples plagas ladronas decidieron que 'divide y vencerás' era una estrategia sólida después de robar la tela del aventurero.
+}
+
+Horned_Crustacean: {
+	DisplayName: Merodeador Luminoso
+	Entry: ¡A pesar de su tamaño, este habitante del mar pega fuerte! Usa sus afilados pinchos en forma de dientes para cazar peces y mantener alejados a los intrusos.
+}
+
+Hornetfish: {
+	DisplayName: Pez Avispa
+	Entry: Este pez no estaba contento con solo ser atrapado. Eligió luchar, y armado tanto con alas como con aguijones, hizo exactamente eso.
+}
+
+Hydra.DisplayName: Hidra de Lerna
+
+HydraHead: {
+	DisplayName: Hidra de Lerna
+	Entry: Una criatura legendaria, nacida de un monstruo y un dios. Matar una cabeza solo empeora la pelea.
+}
+
+LostMime: {
+	DisplayName: Mimo Perdido
+	Entry: Lo que realmente combatiste fue la máscara manipulando lo que queda de un hombre. Se rumorea que estas máscaras susurran a sus huéspedes, tomando el control de cualquiera con la mala suerte de caer ante su encanto.
+}
+
+Mangrove_Defender: {
+	DisplayName: Defensor del Manglar
+	Entry: Bendecidos por deidades primigenias, estos antiguos Vagabundos Feroces ahora están completamente conectados con la voluntad del Zarzal. Con su nueva fuerza, protegen su hogar con una furia salvaje.
+}
+
+Masticator: {
+	DisplayName: Masticador
+	Entry: Lo que una vez comenzó como un pequeño roedor rápidamente se transformó en una vil amalgama con un apetito insaciable de carne.
+}
+
+Mecromancer: {
+	DisplayName: Mecromante
+	Entry: Una de las mentes más brillantes del arsenal del Ejército Trasgo. El talento de un Mecromante para la mecánica es prácticamente inigualable.
+	BossChecklistIntegration.SpawnInfo: El Mecromante aparece raramente durante un Ejército Trasgo después de derrotar al Ojo de Cthulhu.
+}
+
+GoldCrateMimic: {
+	DisplayName: Impostor de Caja Dorada
+	Entry: Aunque puede que no disfrutes su naturaleza agresiva, sí respetas su buen ojo para la moda... al menos, hasta que se la quitas.
+}
+
+IronCrateMimic: {
+	DisplayName: Impostor de Caja de Hierro
+	Entry: Un pescador no está solo en su búsqueda de las vastas riquezas del mar. Un pulpo resbaladizo parece haberte ganado de mano.
+}
+
+WoodCrateMimic: {
+	DisplayName: Impostor de Caja de Madera
+	Entry: Estos impostores discretos son bastante sospechosos. Ten cuidado antes de acercarte a ellos por lo que yace en su interior.
+}
+
+Molten_Core: {
+	DisplayName: Núcleo Fundido
+	Entry: Un desastre burbujeante que escapó del interior del meteorito. Parece tener conciencia espacial básica e incluso algo de sentiencia. ¿Quizás fue perseguido por los invasores hasta el meteorito?
+}
+
+DistressJelly: {
+	DisplayName: Medusa Angustiada
+	Entry: Una roca espacial perdida ha reventado la burbuja protectora de este Lunazoa. La piedra impide que la burbuja se reforme, causándole angustia.
+}
+
+DreamlightJelly: {
+	DisplayName: Medusa de Luz Onírica
+	Entry: Un pequeño Lunazoa que emite un hermoso resplandor verde onírico. Una mutación genética es la fuente de su brillo verde amarillento, pero también les impide madurar jamás.
+}
+
+ExplodingMoonjelly: {
+	DisplayName: Reventador de Luz de Luna
+	Entry: Al final de la vida de un Lunazoa, su obediente deriva migratoria evoluciona hacia la agresión contra entidades extrañas.
+}
+
+MoonjellyGiant: {
+	DisplayName: Medusa Voltaje
+	Entry: Los Lunazoa machos maduros tienen habilidades eléctricas mucho más desarrolladas que cualquier otra medusa, lo que hace que sus tendencias territoriales sean mucho más letales.
+}
+
+MoonlightPreserver: {
+	DisplayName: Conservador de Luz de Luna
+	Entry: Un Lunazoa hembra maduro lleva medusas infantiles dentro de su membrana hasta que están lo suficientemente maduras para migrar por su cuenta.
+}
+
+TinyLunazoa: {
+	DisplayName: Lunazoa Diminuto
+	Entry: Medusas diminutas y dóciles que flotan sin rumbo con su enjambre, siguiendo sus patrones migratorios a la luz de la luna.
+}
+
+MycelialBotanist: {
+	DisplayName: Botánico Micelial
+	Entry: Los pasatiempos de un jardinero no deben ser ridiculizados. Interponte en el camino de estos naturalistas, y enfrentarás flor y perdición.
+}
+
+OceanSlime: {
+	DisplayName: Slime de Coco
+	Entry: ¡Cuidado desde arriba! Estos astutos slimes residen en la orilla, camuflados discretamente como esta fruta familiar.
+}
+
+Mineroid: {
+	DisplayName: Orbitita
+	Entry: Este insignificante asteroide orbita un cuerpo más grande, pero algún día dejará el nido y se adentrará a la deriva en el vasto universo.
+}
+
+SamuraiHostile: {
+	DisplayName: Samurái Fantasma
+	Entry: El espíritu de un guerrero mortífero que vivió hace muchas lunas. Castigado por romper su código de honor, ahora jura defender lo que queda de su dinastía en busca de redención.
+}
+
+SamuraiPassive.DisplayName: Samurái Fantasma
+
+PagodaGhostHostile: {
+	DisplayName: Yuurei Perturbado
+	Entry: Guardianes de un santuario celestial abandonado. A pesar de estar largamente olvidados, luchan con sorprendente agilidad.
+}
+
+PagodaGhostPassive.DisplayName: Yuurei
+
+Phantom: {
+	DisplayName: Fantasma
+	Entry: Un típico murciélago de cueva, transformado en pura oscuridad por magias antiguas. Cuando cae la noche, alzan el vuelo para alimentarse de aquellos con la mala suerte de seguir despiertos.
+}
+
+PirateLobber: {
+	DisplayName: Lanzador Pirata
+	Entry: Este pirata descubrió que rodar era una forma mucho más efectiva de transportar barriles por la cubierta. Curiosamente, ¡también funciona bastante bien contra los enemigos!
+}
+
+PlagueDoctor: {
+	DisplayName: Alquimista Oscuro
+	Entry: Estos portadores de plagas vagan por las sombras de la mazmorra. No dejes que te atrapen tomando uno de sus muchos puestos de trabajo esparcidos por ahí, o sufrirás quemaduras de ácido.
+}
+
+Pokey_Body: {
+	DisplayName: Rocactus
+	Entry: Apila un montón de cactus, ahora tienes un rocactus. Derriba el rocactus, ahora tienes un cactus. ¿Qué significa todo esto? No estoy del todo seguro.
+}
+
+Teratoma: {
+	DisplayName: Putroma
+	Entry: Compuestos por múltiples organismos, se aglutinan con los restos podridos de otras bestias para sobrevivir a la caída por los abismos que salpican la corrupción.
+}
+
+BlossomHound: {
+	DisplayName: Sabueso de Flor
+	Entry: Corteza Antigua en flor tallada en forma de sabueso, impulsada por una necesidad insaciable de alimentar y nutrir las flores de su cuerpo.
+}
+
+Blubby: {
+	DisplayName: Blubby
+	Entry: Una larva regordeta nativa del Zarzal. Están adornadas con pelos amarillos rígidos a lo largo de su espalda, y engordan aún más en preparación para la metamorfosis.
+}
+
+BriarInchworm: {
+	DisplayName: Gusano Medidor del Zarzal
+	Entry: Un gusano largo y delgado que evolucionó para prosperar en el lodo turbio del Zarzal. Se alimenta principalmente de los pastos altos descompuestos que se encuentran en la superficie.
+}
+
+Briarmoth: {
+	DisplayName: Polilla del Zarzal
+	Entry: Desde el momento en que una Polilla del Zarzal deja su capullo, debe esconderse de los depredadores. Usa sus alas de verde profundo para mezclarse con los árboles del Zarzal.
+}
+
+ForestWraith: {
+	DisplayName: Espectro del Claro
+	Entry: A pesar de la presencia antinatural y reptante del Zarzal, ha dejado su marca en la naturaleza el tiempo suficiente para que estos espíritus vengativos lo llamen hogar.
+	BossChecklistIntegration.SpawnInfo: Destruye un Altar de Huesos en el Zarzal Subterráneo. El Espectro del Claro también aparece naturalmente durante la noche tras derrotar al Ojo de Cthulhu. Alternativamente, encuentra un [i:SpiritMod/GladeWreath] en los Cofres del Zarzal y úsalo en el Zarzal en cualquier momento.
+	BoneAltar: ¡Has perturbado a los antiguos Espíritus de la Naturaleza!
+}
+
+Noxophyll: {
+	DisplayName: Noxophyll
+	Entry: Un pez con la habilidad de secretar una toxina que recubre sus escamas. La única forma de realmente disimular el olor es cocinándolo.
+}
+
+Reachman: {
+	DisplayName: Vagabundo Feroz
+	Entry: La línea entre flora y fauna se difumina en el Zarzal. Los huesos reanimados de aventureros actúan de forma animal, a pesar de estar compuestos principalmente de plantas.
+}
+
+ReachObserver: {
+	DisplayName: Vigía del Bosque Salvaje
+	Entry: Estas bestias de zarza anidan en las hojas de los árboles elderbark, esperando a que un cuerpo invasor ponga pie dentro de la cavidad central del Zarzal.
+}
+
+ReachSlime: {
+	DisplayName: Slime Espina del Zarzal
+	Entry: Debido a la lluvia perpetua en el Zarzal, estos slimes están compuestos en un 90% de agua. Como resultado, a menudo gotean y pierden volumen al ser golpeados.
+}
+
+ThornStalker: {
+	DisplayName: Acechador de Espinas
+	Entry: No te dejes engañar por su forma humanoide, esta criatura no tiene nada de humana. Esta bestia acechará a su presa hasta los rincones más lejanos del Zarzal en busca del momento perfecto para atacar.
+}
+
+ScreechOwl: {
+	DisplayName: Autillo Chillón
+	Entry: Durante siglos, estas simples aves han aterrorizado a los lugareños con sus chillidos notablemente humanoides. Hoy, quedan pocos, ya que fueron cazados hasta casi la extinción.
+}
+
+Sea_Mandrake: {
+	DisplayName: Mandrágora Marina
+	Entry: Una extraña criatura bioluminiscente que habita en el océano. No solo brilla, sino que los colores que adopta son vibrantes y exóticos.
+}
+
+DeepspaceHopper: {
+	DisplayName: Saltador Eléctrico
+	Entry: Originalmente confundidos con máquinas, estos organismos amantes de las descargas eléctricas viajan cerca de los cinturones de asteroides para alimentarse de la abundancia de minerales expuestos.
+}
+
+Skeleton_Brute: {
+	DisplayName: Esqueleto Bruto
+	Entry: Como espécimen, sí, son intimidantes. En un combate de golpes, nadie golpea como un Esqueleto Bruto.
+}
+
+Snaptrapper: {
+	DisplayName: Atrapador Mordaz
+	Entry: Se ha observado muy poco sobre esta críptica criatura. Tiene seis patas y garras, lo que lleva a la mayoría a creer que es alguna forma de artrópodo.
+	BossChecklistIntegration.SpawnInfo: El Atrapador Mordaz aparece raramente en la superficie de la Jungla después de derrotar al Devorador de Mundos o al Cerebro de Cthulhu.
+}
+
+AncientDemon: {
+	DisplayName: Espectro Antiguo
+	Entry: Encontrados solo en las profundidades más hondas de las Cavernas tocadas por el Espíritu, estos espectros malévolos tienen un objetivo simple: robar las almas de los seres vivos.
+}
+
+HauntedBook: {
+	DisplayName: Tomo Antiguo
+	Entry: Un misterioso tomo poseído por espíritus antiguos. Cada uno contiene un extraño conjunto de páginas escritas en un idioma indescifrable.
+}
+
+NetherBane: {
+	DisplayName: Netherbane
+	Entry: Una etérea bestia alada que surca el bioma del Espíritu. Cuenta la leyenda que cada aleteo de sus alas señala la muerte de otra alma.
+}
+
+SeerBat: {
+	DisplayName: Murciélago del Espíritu
+	Entry: Trozos de metal imbuido de energía espiritual, concentrados en la vaga forma de un murciélago. Probablemente el intento de un alma perdida por emular al común mamífero volador.
+}
+
+SoulCrusher: {
+	DisplayName: Triturador de Almas
+	Entry: Piedras a las que miles de almas dieron vida, embisten furiosamente cualquier perturbación cercana, ya que es sensible a ellas. Comparte los sentidos y pensamientos de cada alma que lo compone, causándole un gran dolor.
+}
+
+SoulOrb: {
+	DisplayName: Orbe del Alma
+	Entry: Una suave anomalía de luz parpadeante que flota por el bioma del Espíritu. Se dice que son las almas errantes de viajeros fallecidos.
+}
+
+SpiritGhoul: {
+	DisplayName: Necrófago de Sombra
+	Entry: Los necrófagos reanimados por el Espíritu ahora rezuman ectoplasma por cada grieta. Sus mordiscos tienen la posibilidad de confundir a sus enemigos, mostrándoles brevemente destellos de sus vidas pasadas.
+}
+
+SpiritMummy: {
+	DisplayName: Momia del Ocaso
+	Entry: Afligidos por poderes etéreos, estos cadáveres ahora son vasijas no de sus propias almas, sino de incontables otras que necesitan una forma corpórea.
+}
+
+SpiritSkull: {
+	DisplayName: Cráneo del Espíritu
+	Entry: Solo parecen cráneos, pero en realidad son, una vez más, piedras talladas hace muchos siglos. Estas piedras parecen estar talladas de tal manera que las almas puedan habitarlas, y sin embargo no parece haber registro de que el Espíritu existiera antes de su liberación.
+}
+
+SpiritVulture: {
+	DisplayName: Flotador del Espíritu
+	Entry: Losas flotantes de piedra rúnica a las que el Espíritu ahora ha dado sentiencia. A pesar de parecer hostiles, solo desean encontrar la paz para yacer y descansar eternamente una vez más.
+}
+
+UnstableWisp: {
+	DisplayName: Fuego Fatuo Inestable
+	Entry: Un cúmulo de almas que no pudo encontrar una vasija que habitar. Es incapaz de mantenerse unido y cualquier ligero contacto hará que explote, liberando las muchas almas aglutinadas.
+}
+
+WanderingSoul: {
+	DisplayName: Alma Errante
+	Entry: Ahora liberada de su letargo, vaga sin rumbo, para siempre perdida en un mundo que ya no reconoce.
+}
+
+SporeWheezer: {
+	DisplayName: Wheezer de Esporas
+	Entry: Normalmente parásitos, los hongos brillantes formaron una relación simbiótica con los wheezers, ya que esparcen conscientemente esporas a través de su aliento.
+}
+
+CogTrapperBody.DisplayName: Bailarín Estelar
+
+CogTrapperHead: {
+	DisplayName: Bailarín Estelar
+	Entry: Extraños constructos mecánicos se ensamblan alrededor de una baliza, llamando la atención hacia preciosos metales astrales. Parece que no eres el único que lo quiere.
+}
+
+CogTrapperTail.DisplayName: Bailarín Estelar
+LargeComet.DisplayName: Cometa Grande de Starjinx
+MediumComet.DisplayName: Cometa Mediano de Starjinx
+SmallComet.DisplayName: Cometa Pequeño de Starjinx
+
+StymphalianBat: {
+	DisplayName: Murciélago Estinfálico
+	Entry: Planos antiguos. Fabricación reciente. Estos diseños fueron perfeccionados hace mucho tiempo, no hay necesidad de desviarse de su diseño.
+}
+
+Crocomount: {
+	DisplayName: Crocosaurio
+	Entry: Un bípedo reptiliano, domado por los Kakamora y usado para cabalgar hacia la batalla. ¡Hi-yo, Plata, adelante!
+}
+
+KakamoraParachuter: {
+	DisplayName: Planeador de Viento Kakamora
+	Entry: ¡Todo ejército necesita apoyo aéreo! Solo se seleccionan las hojas de palma más resistentes y planeadoras para el uso de los Planeadores de Viento Kakamora.
+}
+
+KakamoraRider.DisplayName: Jinete Kakamora
+
+KakamoraRunner: {
+	DisplayName: Kakamora
+	Entry: Un soldado Kakamora común y corriente. No tienen especializaciones, pero sirven como buenos soldados de infantería.
+}
+
+KakamoraShaman: {
+	DisplayName: Chamán Kakamora
+	Entry: Místicos de tamaño diminuto que atacan usando las artes arcanas. También sirven como sanadores para sus compañeros Kakamora cercanos.
+}
+
+KakamoraShielder: {
+	DisplayName: Escudero Kakamora
+	Entry: Una valiente y pequeña nuez equipada con un escudo y protección para la cabeza, protegen del peligro a los Kakamora menos agresivos.
+}
+
+KakamoraShielderRare: {
+	DisplayName: Guardia Kakamora
+	Entry: Una valiente y pequeña nuez equipada con un escudo y protección para la cabeza, protegen del peligro a los Kakamora menos agresivos.
+}
+
+LargeCrustecean: {
+	DisplayName: Bruto de Burbujas
+	Entry: Estamos en una cacería de bebés. Y no creas que no sabemos cómo desenterrarlos.
+}
+
+MangoJelly: {
+	DisplayName: Mang-O Guerra
+	Entry: Pequeñas formas de vida marina voladoras. Aunque llevan su nombre por su aroma frutal y color vibrante, en realidad no son dulces.
+}
+
+Rylheian: {
+	DisplayName: R'lyehiano
+	Entry: ¡El creador de mareas y quien llama a las tormentas! Es un malvado liche anciano que ha tomado el mando del Ejército Kakamora.
+}
+
+SpearKakamora: {
+	DisplayName: Lanzador Kakamora
+	Entry: Estos Kakamora se especializan en lanzar cocos para batallas a larga... ish... distancia.
+}
+
+SwordKakamora: {
+	DisplayName: Camorrista Kakamora
+	Entry: ¡Un guerrero Kakamora con una desagradable manera de 'pelar'! Un camorrista hace honor a su nombre, acercándose de forma directa mientras reparte dolor.
+}
+
+Adventurer: {
+	DisplayName: Aventurero
+
+	TownNPCMood: {
+		Content: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.Content}"
+		NoHome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.NoHome}"
+		FarFromHome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.FarFromHome}"
+		LoveSpace: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LoveSpace}"
+		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeCrowded}"
+		HateCrowded: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.HateCrowded}"
+		LikeBiome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeBiome}"
+		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeBiome}"
+		LoveNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LoveNPC}"
+		LikeNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeNPC}"
+		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeNPC}"
+		HateNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.HateNPC}"
+		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeNPC_Princess}"
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Entry: Un intrépido explorador impulsado por una ambición que a menudo lo ha metido en peligro. También es un ávido tomador de notas, sus muchos relatos ahora esparcidos por toda la tierra.
+	Census.SpawnCondition: Rescata al Aventurero de una choza en el Zarzal subterráneo.
+}
+
+BoundAdventurer: {
+	DisplayName: Aventurero Atrapado
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me agrada {NPCName}.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+}
+
+BoundGambler: {
+	DisplayName: Apostadora Atada
+
+	TownNPCMood: {
+		Content: Estoy contenta.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me agrada {NPCName}.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+}
+
+BoundRogue: {
+	DisplayName: Bandido Atado
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me agrada {NPCName}.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+}
+
+Gambler: {
+	DisplayName: Apostadora
+
+	TownNPCMood: {
+		Content: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.Content}"
+		NoHome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.NoHome}"
+		FarFromHome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.FarFromHome}"
+		LoveSpace: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LoveSpace}"
+		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeCrowded}"
+		HateCrowded: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateCrowded}"
+		HateBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateBiome}"
+		LikeBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeBiome}"
+		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeBiome}"
+		LoveNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LoveNPC}"
+		LikeNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeNPC}"
+		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeNPC}"
+		HateNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateNPC}"
+		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeNPC_Princess}"
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Entry: La Apostadora ha vivido mucho tiempo al límite, entregándose a los caprichos del destino. Aunque esto la convierte en una jugadora ferviente, también una vez la ató a lo alto de una fortaleza trasgo.
+	Census.SpawnCondition:
+		'''
+		Rescata a la Apostadora de una Torre Trasgo
+		Si tu mundo no tiene una Torre Trasgo, ten al menos 1 de Oro en tu inventario
+		'''
+}
+
+Ghost.DisplayName: Fantasma
+
+Oracle: {
+	DisplayName: Oráculo
+
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me agrada {NPCName}.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Dialogue: {
+		Basic1: Los cielos ciertamente han hablado de ti, {0}.
+		Basic2: La divinidad que ofrezco no es por cualquier moneda simple, viajero.
+		Basic3: ¿Has oído hablar de un hombre llamado Zagreus? ...olvídalo.
+		Basic4: Ah, cuánto daría por un poco de icor...
+		Basic5: Tengo un pequeño pergamino a la venta, si deseas encontrarme en otro lugar.
+		Basic6: No tener ojos es una bendición de los dioses cuando trabajas donde yo trabajo.
+		Basic7: Cálidos saludos, guerrero. Siento poder dentro de ti, quizás pueda ayudar a que crezca. Las criaturas dentro de estos muros poseen poderosas fichas que me interesan. Si las intercambiaras conmigo, ¡te otorgaría un arma encantada por los mismísimos dioses!
+		Basic8: Ah, lo que daría por un poco de vino añejo... ¿Ya ha llegado la Antesteria?
+		Basic9: ¡Mi relato épico no tiene final, y puede que nunca lo tenga!
+		Basic10: ¿Mitología? ¿Qué parte de esto te hace creer que es un mito?
+		Basic11: He perdido la noción del tiempo, ¡y los dioses se niegan a decirme dónde está!
+		Basic12: Lorem ipsum dolor sit amet... ten paciencia, no he terminado.
+		Basic13: No puedo morir a menos que sea olvidado. Me pregunto quién todavía me recuerda...
+		Basic14: ¿Qué necesitas? No tengo tiempo infinito. Hm... pensándolo mejor...
+		Basic15: Tuve toda una vida para escribir un relato glorioso, pero no puedo pasar de 'el'.
+		Basic16: Entre tú y yo, los reptiles me causan una gran angustia.
+		Basic17: Reflexiono sobre la presencia de un canto ambiental en la distancia, y sin embargo no puedo evitar disfrutarlo.
+		Basic18: ¿Bendiciones? ¿Las quieres? ¡Son tuyas, amigo mío!
+		Basic19: Ah, ya veo. ¿O no? Intrigante, ¿no es así?
+		Basic20: La razón por la que floto es simple - ¿por qué no habría de hacerlo, si puedo?
+	}
+
+	Bless: {
+		Button: Bendecir
+		Dialogue1: ¿Deseas un desafío? No puedo detenerte, ya que nos beneficia a ambos. ¡Espero que estés preparado!
+		Dialogue2: Consultaré a los dioses sobre sus bendiciones - estos monstruos se volverán implacables, espero que lo sepas.
+		Dialogue3: ¡¿Quieres que los llame cómo?! Qué lenguaje de batalla tan grosero, pero entregaré el mensaje. ¡A los Dioses no les hará gracia esto!
+		Dialogue4: Las bendiciones hacen que los enemigos derrotados suelten más fichas, sí, ¡pero recuerda que los enemigos también se vuelven más fuertes!
+		Dialogue5: ¡Regresa con vida! Disfrutaría escuchar relatos de tus victorias. ¡Trae muchas fichas también!
+	}
+
+	Teleport: {
+		Wet: Esta agua me irrita...
+		Dry: Siento un llamado...
+	}
+
+	Entry: Ofrece bendiciones y bienes a cambio de moneda antigua. Lleva una venda en los ojos, ya que estar iluminado y bendecido por el Olimpo ha hecho innecesaria su visión.
+}
+
+Rogue: {
+	DisplayName: Bandido
+
+	TownNPCMood: {
+		Content: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.Content}"
+		NoHome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.NoHome}"
+		FarFromHome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.FarFromHome}"
+		LoveSpace: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LoveSpace}"
+		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeCrowded}"
+		HateCrowded: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.HateCrowded}"
+		LikeBiome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeBiome}"
+		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeBiome}"
+		LoveNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LoveNPC}"
+		LikeNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeNPC}"
+		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeNPC}"
+		HateNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.HateNPC}"
+		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeNPC_Princess}"
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Entry: Un apuesto pícaro con un pasado envuelto en misterio. No está claro si se puede confiar en él, pero de todos modos te enseñaría con gusto los trucos del oficio.
+	Census.SpawnCondition:
+		'''
+		Rescata al Bandido del Escondite Bandido
+		Si tu mundo no tiene una Torre Trasgo, ten al menos 1 de Oro en tu inventario
+		'''
+}
+
+RuneWizard: {
+	DisplayName: Encantador
+
+	TownNPCMood: {
+		Content: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.Content}"
+		NoHome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.NoHome}"
+		FarFromHome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.FarFromHome}"
+		LoveSpace: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LoveSpace}"
+		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.DislikeCrowded}"
+		HateCrowded: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.HateCrowded}"
+		LikeBiome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeBiome}"
+		DislikeBiome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.DislikeBiome}"
+		LoveNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LoveNPC}"
+		LikeNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeNPC}"
+		HateNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.HateNPC}"
+		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeNPC_Princess}"
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Entry: Este cansado escriba de runas ha pasado noches sin dormir estudiando la magia antigua que se encuentra en los glifos. No es muy conversador, pero con gusto potenciará tu arsenal.
+	Census.SpawnCondition: Ten un Glifo en Blanco en tu inventario
+}
+
+Undead_Warlock: {
+	DisplayName: Brujo No Muerto
+	Entry: A diferencia del Científico No Muerto, el Brujo practica una magia y nigromancia más típica, pero más poderosa.
+}
+
+Valkyrie: {
+	DisplayName: Valquiria
+	Entry: Justas defensoras del cielo, estas guerreras aladas aprovechan el poder del sol para proteger las islas que flotan sobre la tierra.
+}
+
+Vulture_Matriarch: {
+	DisplayName: Matriarca Buitre
+	Entry: La poderosa anciana de la tribu de buitres, la Matriarca domina magias y habilidades antiguas para destruir a su presa.
+}
+
+Wheezer: {
+	DisplayName: Wheezer
+	Entry: Un wheezer es un pariente extremadamente tóxico de la salamandra, conocido por su comportamiento agresivo. Curiosamente, su comida favorita es una planta de acebo en brote, contradictorio con sus tendencias carnívoras.
+}
+
+WinterbornMelee: {
+	DisplayName: Winterborn
+	Entry: Los últimos remanentes de una tribu de antaño. Encerrados en hielo por una maldición misteriosa, vagan por la tundra en busca de reliquias de su civilización.
+}
+
+IceBoltNPC.DisplayName: Rayo de Hielo
+
+WinterbornMagic: {
+	DisplayName: Heraldo Winterborn
+	Entry: Mucho después de prever la destrucción de su tribu, estos que alguna vez fueron magos de élite ahora siguen los pasos de sus hermanos, buscando reconstruir.
+}
+
+DiverZombie: {
+	DisplayName: Zombi
+	Entry: ¿Quién iba a saber que esos tanques de oxígeno necesitaban tener oxígeno de verdad dentro?
+}
+
+KelpZombie: {
+	DisplayName: Zombi
+	Entry: Los peces me temen, las mujeres me temen, los hombres me temen, los niños me temen, porque soy el no-muerto.
+}
+
+SailorZombie: {
+	DisplayName: Zombi
+	Entry: A pesar de su estado actual, solían manejar un crucero de lujo realmente agradable que deberías visitar alguna vez.
+}
+
+TridentZombie.DisplayName: Zombi
+AsclepiusBoonOrb.DisplayName: Orbe de Bendición de Asclepio
+Fathomless_Chest_Gold.DisplayName: ""
+Fathomless_Chest_Mimic.DisplayName: ""

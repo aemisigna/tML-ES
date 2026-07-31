@@ -133,7 +133,7 @@ PlayerStats: {
 	Regen: Regeneración
 	# 魔力消耗，因为归在大类“魔法”下所以用Cost代替
 	Cost: Coste
-	MaxMinions: Esbirros
+	MaxMinions: súbditos
 	MaxTurrets: Centinelas
 	Endurance: Resistencia
 	Luck: Suerte

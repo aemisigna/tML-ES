@@ -2729,7 +2729,7 @@
 					Asphodene: {
 						Name: Diálogo del Dios Slime
 						Description: ""
-						1: ¡El Dios Slime ya no existe! Resulta que esos enormes slimes rojos y morados en realidad no eran parte del Dios Slime, sino solo esbirros fuertes.
+						1: ¡El Dios Slime ya no existe! Resulta que esos enormes slimes rojos y morados en realidad no eran parte del Dios Slime, sino solo súbditos fuertes.
 
 						2: {
 							$parentVal: Me alegra que lo hayamos derrotado, pero dudo seriamente que esta derrota signifique el fin de todos los slimes. Lamentablemente, hay demasiados.
@@ -4263,7 +4263,7 @@
 					86: ¡Esta cosa cambia sus patrones de ataque! Presta atención a sus posturas, o si no...
 					87: ¡Algo viene desde abajo, y rápido! Prepárate... ¡este gusano es fuerte!
 					88: Es una masa gigante de micelio en movimiento... ¡Saquemos la basura!
-					89: ¡Se acerca una bestia corrupta! Mata a sus esbirros rápido, ¡o te va a abrumar!
+					89: ¡Se acerca una bestia corrupta! Mata a sus súbditos rápido, ¡o te va a abrumar!
 					90: ¿Qué rayos es esa cosa? ¡Apunta a esa asquerosa Colmena antes de que sea tarde!
 					91: Así que esta es la fuente de todos los limos del mundo. No te apresures; ¡estoy segura de que esos limos se dividirán al recibir daño!
 					92: Hay algo raro en esta cosa, pero no sé qué. No te dejes congelar... aunque probablemente ya lo sabías.
@@ -4580,7 +4580,7 @@
 					70: Esta cosa es increíblemente fuerte, y bastante repugnante además. Hagas lo que hagas, sigue corriendo pero no salgas del Inframundo.
 					71: ¿El Ojo de Cthulhu regresó? Espera, ¡hay dos...! Intenta enfocarte en uno a la vez.
 					72: Es un cíclope... espera... tiene astas... ¿Es un ciervo? ¿Es ambos...?
-					73: Parece ser otro tipo de limo gigantesco. Tengo la sensación de que usará esbirros para hacer su trabajo sucio.
+					73: Parece ser otro tipo de limo gigantesco. Tengo la sensación de que usará súbditos para hacer su trabajo sucio.
 					74: Algo peligroso se agita en la Bendición... ¡Parece obtener un poder abrumador durante el día!
 					75: El Destructor se acerca... Intentemos usar ataques de área contra él.
 					76: ¡Esqueletrón regresó, y mejor que nunca! Intenta priorizar las extremidades primero.
@@ -4596,7 +4596,7 @@
 					86: ¡Parece poder cambiar de forma! Intenta memorizar sus ataques...
 					87: ¡Algo está excavando en la arena...! ¡Intenta despegar del suelo!
 					88: Una bestia de micelio, ¿eh? Está escupiendo hongos por todos lados...
-					89: La corrupción escupió una nueva bestia. Cuidado con su avalancha de esbirros.
+					89: La corrupción escupió una nueva bestia. Cuidado con su avalancha de súbditos.
 					90: ¡Bestias de carne se aproximan...! Concentra tu atención en la Colmena.
 					91: Otro enemigo nacido del limo. Regresémoslo a donde pertenece... ¡bajo tierra!
 					92: Este enemigo irradia hielo místico. Mantente alejado; esas púas heladas no son solo decoración.
@@ -4701,7 +4701,7 @@
 					191: La Corrupción es conocida en el universo, pero este lugar es distinto; se siente como si algo más grande hubiera sido corrompido aquí. Mantente alerta.
 					192: Una luna infundida de Carmesí... Después de reunir lo que necesitas, deberíamos retirarnos rápido.
 					193: Jamás pensé que vería una estación espacial de madera, entre todas las cosas... Espera un momento... ¿todavía vive alguien aquí?
-					194: Debes estar bromeando. Es un insecto horrible que se escabulle... con armadura, nada menos. ¡Evita sus asquerosos esbirros, o si no!
+					194: Debes estar bromeando. Es un insecto horrible que se escabulle... con armadura, nada menos. ¡Evita sus asquerosos súbditos, o si no!
 					195: ¿Las Medusas Lunares se combinaron en una especie de figura? Parece que quiere pelea, ¡así que prepárate!
 					196: Oye, cuidado; eso que acabas de usar despertó una especie de entidad de la naturaleza, y viene hacia ti.
 					197: Creo que enojaste a esta cosa parecida a un ave prehistórica; espero que tengas un plan para derribarla del cielo.
@@ -17354,7 +17354,7 @@
 			}
 
 			DreadmotherMinionBuff: {
-				DisplayName: Esbirro de la Madre del Terror
+				DisplayName: súbdito de la Madre del Terror
 				Description: Monstruos temibles están a tu lado
 			}
 

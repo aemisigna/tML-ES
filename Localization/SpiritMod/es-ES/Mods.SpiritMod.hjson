@@ -1,0 +1,390 @@
+GoldifiedDeath: " murió convertido en oro sólido"
+Frozen: Congelado
+# Config stuff:
+Screenshake: "[i:SpiritMod/MoonStone]  Visuales: Vibración de pantalla"
+Distortion: "[i:SpiritMod/MoonStone]  Visuales: Distorsión de pantalla"
+Particles: "[i:SpiritMod/MoonStone]  Visuales: Partículas en primer plano"
+Quicksell: "[i:SpiritMod/PirateCrate]  Calidad de vida: Venta rápida"
+Autoswing: "[i:SpiritMod/Minifish]  Calidad de vida: Aviso de autoataque"
+AmbientSounds: "[i:SpiritMod/GladeWreath]  Ambiente: Sonidos ambientales"
+LeafFallAmbience: "[i:SpiritMod/GladeWreath]  Ambiente: Efectos de hojas cayendo"
+QuestButton: "[i:SpiritMod/MapScroll]  Misiones: Ubicación del botón del libro de misiones"
+QuestBookSwitching: "[i:SpiritMod/MapScroll]  Misiones: Cambio de pestaña del libro de misiones"
+QuestIcons: "[i:SpiritMod/MapScroll]  Misiones: Iconos de misión sobre NPCs de ciudad"
+ArcaneHideoutGen: "[i:SpiritMod/BismiteCrystal]  Generación de mundo: Generación de la Torre Arcana y el Escondite Bandido"
+OceanShape: "[i:SpiritMod/BlackPearl]  Océanos: Forma de generación del océano"
+OceanVents: "[i:SpiritMod/BlackPearl]  Océanos: Ecosistemas de respiraderos hidrotermales"
+OceanWater: "[i:SpiritMod/BlackPearl]  Océanos: Transparencia del agua del océano"
+WaterEnemies: "[i:SpiritMod/HornetfishQuest]  Pesca: Encuentros de pesca"
+BlizzardMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para las Ventiscas"
+SnowNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el bioma de Nieve durante la noche"
+DesertNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el bioma del Desierto durante la noche"
+HallowNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para lo Sagrado durante la noche"
+CorruptNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para la Corrupción durante la noche"
+CrimsonNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el Carmesí durante la noche"
+GraniteMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el bioma de Granito"
+MarbleMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el bioma de Mármol"
+SpiderMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para las cavernas de Arañas"
+MeteorMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el bioma de Meteorito"
+FrostLegionMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para la invasión de la Legión Helada"
+SkeletonPrimeMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para Skeletron Prime"
+AuroraMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para la Aurora"
+LuminousMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para los Océanos Luminosos"
+CalmNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para los mini-eventos de Noche Tranquila"
+OceanDepthsMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para las profundidades del Océano"
+HyperspaceMusic: "[i:SpiritMod/TranquilWindsBox]  Añade dos pistas únicas para el bioma artificial del Hiperespacio"
+AshfallMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el clima de Lluvia de Cenizas en el Inframundo"
+VictoryNightMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el evento de la Noche de Faroles"
+VictoryDayMusic: "[i:SpiritMod/TranquilWindsBox]  Añade una pista única para el evento del Día de la Victoria"
+
+MiscUI: {
+	AutoSell: Haz clic para vender rápidamente tus objetos
+	SellLock:
+		'''
+		Actívalo para bloquear la mecánica de venta rápida
+		No podrás usar la venta rápida mientras esto esté activado
+		'''
+	SellWeapons: Actívalo para impedir la venta de armas
+	SellNoValue: Actívalo para vender objetos "sin valor" con la venta rápida
+	Autofire: Disparo automático
+	Autoswing: Autoataque
+}
+
+Keybinds: {
+	"SpiritMod:QuestBookToggle.DisplayName": Spirit Mod: Alternar libro de misiones
+	"SpiritMod:QuestHUDToggle.DisplayName": Spirit Mod: Alternar HUD de misiones
+}
+
+Configs: {
+	SpiritClientConfig: {
+		DisplayName: Configuración del cliente
+
+		ScreenShake: {
+			Label: "{$Mods.SpiritMod.Screenshake}"
+			Tooltip:
+				'''
+				Modifica la intensidad de la vibración de pantalla aplicada por el contenido del mod
+				Ponlo en 0 para desactivarla por completo
+				'''
+		}
+
+		DistortionConfig: {
+			Label: "{$Mods.SpiritMod.Distortion}"
+			Tooltip: Activa la distorsión de pantalla mientras estés en el Bioma del Espíritu o luchando contra el Viajero de Starplate
+		}
+
+		ForegroundParticles: {
+			Label: "{$Mods.SpiritMod.Particles}"
+			Tooltip: Activa partículas extra en primer plano bajo ciertas condiciones
+		}
+
+		AutoReuse: {
+			Label: "{$Mods.SpiritMod.Autoswing}"
+			Tooltip: Activa una línea extra en la descripción de las armas que indica si un objeto tiene autoataque/autofuego
+		}
+
+		QuickSell: {
+			Label: "{$Mods.SpiritMod.Quicksell}"
+			Tooltip: Activa la función de venta rápida, que permite vender fácilmente todos los objetos no deseados a los NPCs
+		}
+
+		AmbientSounds: {
+			Label: "{$Mods.SpiritMod.AmbientSounds}"
+			Tooltip: Activa efectos de sonido ambiental para algunos biomas
+		}
+
+		LeafFall: {
+			Label: "{$Mods.SpiritMod.LeafFallAmbience}"
+			Tooltip:
+				'''
+				Activa el ambiente de hojas cayendo durante las Noches Tranquilas o mientras estés en el Zarzal
+				Desactívalo para evitar interacciones extrañas al jugar con Terraria Overhaul
+				'''
+		}
+
+		QuestBookLocation: {
+			Label: "{$Mods.SpiritMod.QuestButton}"
+			Tooltip: Cambia dónde aparece el botón del libro de misiones en tu inventario
+		}
+
+		QuestBookSwitching: {
+			Label: "{$Mods.SpiritMod.QuestBookSwitching}"
+			Tooltip: Cambia de la pestaña actual a la de Activas o Completadas cuando se activa o completa una misión
+		}
+
+		ShowNPCQuestNotice: {
+			Label: "{$Mods.SpiritMod.QuestIcons}"
+			Tooltip: Activa la aparición de signos de exclamación cuando un NPC de ciudad tiene una nueva misión
+		}
+
+		DoubleHideoutGeneration: {
+			Label: "{$Mods.SpiritMod.ArcaneHideoutGen}"
+			Tooltip:
+				'''
+				Activa la generación tanto del Escondite Bandido como de la Torre Arcana
+				Por defecto solo se genera una de las dos por mundo
+				Recomendado solo para mundos grandes
+				'''
+		}
+
+		OceanShape: {
+			Label: "{$Mods.SpiritMod.OceanShape}"
+			Tooltip:
+				'''
+				Modifica la generación del Océano de ciertas formas
+				Por defecto usa la generación Piecewise_V
+				Se recomienda la generación Piecewise_V para partidas del Espíritu
+				'''
+		}
+
+		VentCritters: {
+			Label: "{$Mods.SpiritMod.OceanVents}"
+			Tooltip:
+				'''
+				Activa la aparición de numerosas criaturas alrededor de los Respiraderos Hidrotermales
+				Estas criaturas no interfieren con las tasas de aparición de enemigos normales
+				Sin embargo, sí cuentan para el límite máximo de NPCs
+				'''
+		}
+
+		SurfaceWaterTransparency: {
+			Label: "{$Mods.SpiritMod.OceanWater}"
+			Tooltip:
+				'''
+				Permite que el agua del océano sea transparente cuando está activado
+				Esto no afecta a ningún otro bioma
+				'''
+		}
+
+		EnemyFishing: {
+			Label: "{$Mods.SpiritMod.WaterEnemies}"
+			Tooltip: Activa los encuentros con enemigos mientras pescas
+		}
+
+		AuroraEnabled: {
+			Label: "[i:SpiritMod/MoonStone]  Visuales: Aurora activada"
+			Tooltip: Activa o desactiva los efectos visuales de la Aurora. Esto no detiene la aparición de enemigos o efectos basados en la Aurora
+		}
+
+		EnableSepulchres: {
+			Label: "[i:SpiritMod/CursedArmorItem]  Generación de mundo: Activar Sepulcros Oscuros"
+			Tooltip: Activa o desactiva las estructuras de Sepulcro Oscuro que se encuentran bajo tierra. Útil de desactivar si tienes problemas de generación con otros mods
+		}
+
+		ForceClassicZiggurat: {
+			Label: "[i:607]  Forzar Zigurat clásico"
+			Tooltip: Permite que el Zigurat de Spirit Classic aparezca incluso si Spirit Reforged está activo. Ten en cuenta que el Zigurat clásico puede superponerse con otras estructuras.
+		}
+	}
+
+	QuestInvLocation: {
+		Tooltip: ""
+
+		Minimap: {
+			Label: Minimapa
+			Tooltip: ""
+		}
+
+		Trashcan: {
+			Label: Papelera
+			Tooltip: ""
+		}
+
+		FarLeft: {
+			Label: Extremo izquierdo
+			Tooltip: ""
+		}
+	}
+
+	OceanShape: {
+		Tooltip: ""
+
+		Default: {
+			Label: Por defecto
+			Tooltip: Generación de océano por defecto de Terraria. Desactiva la generación de Spirit Classic.
+		}
+
+		SlantedSine: {
+			Label: Seno inclinado
+			Tooltip: Pendiente ajustada que usa una onda senoidal diagonal para la generación.
+		}
+
+		Piecewise: {
+			Label: Piecewise
+			Tooltip: Generación por partes que combina varias pendientes. Generación por partes original, pero algo tosca.
+		}
+
+		Piecewise_M: {
+			Label: Piecewise_ M
+			Tooltip: Generación por partes modificada, ligeramente mejorada.
+		}
+
+		Piecewise_V: {
+			Label: Piecewise_ V
+			Tooltip: Generación por partes final, la generación de océano prevista para el Espíritu.
+		}
+	}
+
+	SpiritMusicConfig: {
+		DisplayName: Configuración de música
+
+		BlizzardMusic: {
+			Label: "{$Mods.SpiritMod.BlizzardMusic}"
+			Tooltip: Añade una pista única para las Ventiscas
+		}
+
+		SnowNightMusic: {
+			Label: "{$Mods.SpiritMod.SnowNightMusic}"
+			Tooltip: Añade una pista única para el bioma de Nieve durante la noche
+		}
+
+		DesertNightMusic: {
+			Label: "{$Mods.SpiritMod.DesertNightMusic}"
+			Tooltip: Añade una pista única para el bioma del Desierto durante la noche
+		}
+
+		HallowNightMusic: {
+			Label: "{$Mods.SpiritMod.HallowNightMusic}"
+			Tooltip: Añade una pista única para lo Sagrado durante la noche
+		}
+
+		CorruptNightMusic: {
+			Label: "{$Mods.SpiritMod.CorruptNightMusic}"
+			Tooltip: Añade una pista única para la Corrupción durante la noche
+		}
+
+		CrimsonNightMusic: {
+			Label: "{$Mods.SpiritMod.CrimsonNightMusic}"
+			Tooltip: Añade una pista única para el Carmesí durante la noche
+		}
+
+		GraniteMusic: {
+			Label: "{$Mods.SpiritMod.GraniteMusic}"
+			Tooltip: Añade una pista única para el bioma de Granito
+		}
+
+		MarbleMusic: {
+			Label: "{$Mods.SpiritMod.MarbleMusic}"
+			Tooltip: Añade una pista única para el bioma de Mármol
+		}
+
+		UnderwaterMusic: {
+			Label: "{$Mods.SpiritMod.OceanDepthsMusic}"
+			Tooltip: Activa música única para el Océano en zonas profundas bajo el agua
+		}
+
+		SpiderCaveMusic: {
+			Label: "{$Mods.SpiritMod.SpiderMusic}"
+			Tooltip: Añade una pista única para las cavernas de Arañas
+		}
+
+		MeteorMusic: {
+			Label: "{$Mods.SpiritMod.MeteorMusic}"
+			Tooltip: Añade una pista única para el bioma de Meteorito
+		}
+
+		FrostLegionMusic: {
+			Label: "{$Mods.SpiritMod.FrostLegionMusic}"
+			Tooltip: Añade una pista única para la Legión Helada
+		}
+
+		SkeletronPrimeMusic: {
+			Label: "{$Mods.SpiritMod.SkeletonPrimeMusic}"
+			Tooltip: Añade una banda sonora de jefe única para Skeletron Prime
+		}
+
+		AuroraMusic: {
+			Label: "{$Mods.SpiritMod.AuroraMusic}"
+			Tooltip: Activa música única para las Auroras
+		}
+
+		LuminousMusic: {
+			Label: "{$Mods.SpiritMod.LuminousMusic}"
+			Tooltip: Activa música única para los Océanos Luminosos
+		}
+
+		CalmNightMusic: {
+			Label: "{$Mods.SpiritMod.CalmNightMusic}"
+			Tooltip: Activa música única para las Noches Tranquilas
+		}
+
+		NeonBiomeMusic: {
+			Label: "{$Mods.SpiritMod.HyperspaceMusic}"
+			Tooltip: Activa dos pistas únicas mientras estés en el Hiperespacio
+		}
+
+		AshfallMusic: {
+			Label: "{$Mods.SpiritMod.AshfallMusic}"
+			Tooltip: Activa una pista única para el clima de Lluvia de Cenizas en el Inframundo
+		}
+
+		VictoryDayMusic: {
+			Label: "{$Mods.SpiritMod.VictoryDayMusic}"
+			Tooltip: Activa una pista única para el día después del evento de la Noche de Faroles
+		}
+	}
+}
+
+Events: {
+	BlueMoon: {
+		BossChecklistIntegration.Condition: Usa un [i:SpiritMod/BlueMoonSpawn] durante la noche.
+		OnStart: La Luna Mística está saliendo...
+		IsDay: La luna no tiene poder durante el día.
+		IsCalmNight: La noche es demasiado tranquila.
+	}
+
+	JellyDeluge: {
+		BossChecklistIntegration.Condition: Ocurre de forma natural en la superficie tras derrotar a cualquier jefe. También puede invocarse usando un [i:SpiritMod/DistressJellyItem], que se encuentra en los Biomas de Asteroides y se atrapa con una red para insectos. Ocurre con menos frecuencia tras derrotar al Mago Medusa Lunar.
+		OnStart: ¡Extrañas medusas están cayendo del cielo!
+	}
+
+	LuminousOcean.OnStart: Un resplandor florece sobre el océano...
+
+	TheTide: {
+		BossChecklistIntegration.Condition: Usa un [i:SpiritMod/BlackPearl] en el Océano en cualquier momento.
+		OnEnd: ¡La Marea ha menguado!
+		NotOcean: La Marea solo fluye con la calma del mar.
+		AlreadyActive: ¡La Marea ya ha llegado!
+		Wave: "Oleada {0} : "
+	}
+}
+
+BossChecklistIntegration: {
+	JellyDeluge.EntryName: Marea de Medusas
+	TheTide.EntryName: La Marea
+	MysticMoon.EntryName: Luna Mística
+}
+
+MapObject: {
+	SpiritPylon: Pilar del Espíritu
+	BriarPylon: Pilar del Zarzal
+	AsteroidPylon: Pilar de Asteroides
+}
+
+Condition: {
+	InBriar: Mods.SpiritMod.Condition.InBriar
+	InAsteroids: Mods.SpiritMod.Condition.InAsteroids
+	InSpirit: Mods.SpiritMod.Condition.InSpirit
+	FirstDown: Solo en la primera derrota
+}
+
+GameTips: {
+	SpiritGameTip0: ¡La Medusa Lunar es una gran fuente de curación!
+	SpiritGameTip1: ¡Overseer no va a volver!
+	SpiritGameTip2: Puedes encontrar al Aventurero en el Zarzal Subterráneo en cualquier momento.
+	SpiritGameTip3: ¡Los Santuarios Místicos ofrecen muchos beneficios... o amenazas!
+	SpiritGameTip4: La Jem posee un poder incalculable. ¿Tienes lo necesario para conseguirla?
+	SpiritGameTip5: Derrota al Viajero de Starplate para obtener Astralita, un poderoso metal espacial.
+	SpiritGameTip6: El Océano está lleno de muchas sorpresas. ¡Échale un vistazo alguna vez!
+	SpiritGameTip7: Los garrotes son excelentes armas cuerpo a cuerpo de corto alcance, sobre todo si necesitas mantener alejados a muchos enemigos.
+	SpiritGameTip8: Los Sepulcros en las profundidades subterráneas son peligrosos, pero vale la pena arriesgarse.
+	SpiritGameTip9: ¡Las misiones son una forma fácil de conseguir muchas recompensas, habla con el Aventurero para conseguir el libro!
+}
+
+AvianIslandSigns: {
+	0: (el texto es ilegible)
+	1: Resort Flotante - El único (marcas de rasguños)
+	2: ¿Overseer avistado a la distancia? Más en el canal 5
+	3: ¿Un renacimiento? ¡Más bien lo que tú creas!
+	4: Encuentra más (marcas de rasguños) ¡y por solo 50 de oro!
+}

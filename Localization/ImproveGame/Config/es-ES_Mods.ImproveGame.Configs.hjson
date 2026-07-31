@@ -1167,7 +1167,7 @@ UIConfigs: {
 		Label: "[centeritem:SlimeStaff] Reinvocación automática"
 		Tooltip:
 			'''
-			Invoca el último esbirro usado tras reaparecer
+			Invoca el último súbdito usado tras reaparecer
 			Se desactiva si el mod "Summoners' Association" está cargado
 			¡Summoners' Association ofrece un control de invocación más fino!
 			'''

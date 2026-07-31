@@ -21,7 +21,7 @@ ContraptionistHat: {
 		'''
 	Set:
 		'''
-		Aumenta en 1 tu número máximo de esbirros
+		Aumenta en 1 tu número máximo de súbditos
 		Invoca una torreta de Artefacto Helicoidal para arrasar con los enemigos objetivo
 		Matar enemigos y dañar jefes deja caer munición
 		Pulsa ARRIBA dos veces para activar/desactivar la torreta
@@ -47,7 +47,7 @@ JellyGelmet: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxSentriesBy}
-		Los golpes de centinela aplican {1} de daño de marca de esbirro
+		Los golpes de centinela aplican {1} de daño de marca de súbdito
 		'''
 	Set:
 		'''
@@ -87,9 +87,9 @@ GravekeeperHood: {
 	Tooltip: Aumenta el daño de invocación en un 3%
 	Set:
 		'''
-		Aumenta tu número máximo de esbirros
+		Aumenta tu número máximo de súbditos
 		Pulsa ARRIBA dos veces para transformarte en Polilla Etérea
-		Se recarga con el daño infligido por esbirros y con el tiempo
+		Se recarga con el daño infligido por súbditos y con el tiempo
 		'''
 }
 
@@ -98,7 +98,7 @@ GravekeeperJacket: {
 	Tooltip:
 		'''
 		Aumenta el daño de invocación en un 3%
-		Aumenta tu número máximo de esbirros
+		Aumenta tu número máximo de súbditos
 		'''
 }
 
@@ -454,7 +454,7 @@ GreatestStrangeBrew: {
 
 DiligencePotion: {
 	DisplayName: Poción de Diligencia
-	Tooltip: Aumenta la velocidad de ataque de esbirros en un 10%
+	Tooltip: Aumenta la velocidad de ataque de súbditos en un 10%
 }
 
 GelidHealingPotion: {
@@ -620,11 +620,11 @@ BrightstoneChunk: {
 	Tooltip:
 		'''
 		{$RawTooltip}
-		Si tienes menos de 2 espacios de esbirro o centinela, los aumenta en 1
+		Si tienes menos de 2 espacios de súbdito o centinela, los aumenta en 1
 		'''
 	RawTooltip:
 		'''
-		Durante la noche, aumenta la velocidad de los esbirros en un {0}%
+		Durante la noche, aumenta la velocidad de los súbditos en un {0}%
 		Durante el día, el daño de los centinelas aumenta en un {1}%
 		'''
 }
@@ -634,13 +634,13 @@ AlluringSkull: {
 	Tooltip:
 		'''
 		{$BrightstoneChunk.RawTooltip}
-		Aumenta la capacidad de esbirros y centinelas en 1
+		Aumenta la capacidad de súbditos y centinelas en 1
 		'''
 }
 
 AvengerMask: {
 	DisplayName: Máscara del Vengador
-	Tooltip: Al caer por debajo del {0}% de vida, aumenta temporalmente la velocidad de látigo y esbirros en un {1}%
+	Tooltip: Al caer por debajo del {0}% de vida, aumenta temporalmente la velocidad de látigo y súbditos en un {1}%
 }
 
 SagesHead: {
@@ -648,7 +648,7 @@ SagesHead: {
 	Tooltip:
 		'''
 		Aumenta la defensa en {0} por cada centinela invocado
-		Aumenta el daño de invocación en un {1}% por cada esbirro invocado
+		Aumenta el daño de invocación en un {1}% por cada súbdito invocado
 		'''
 }
 
@@ -656,7 +656,7 @@ MaskOfEvil: {
 	DisplayName: Máscara del Mal
 	Tooltip:
 		'''
-		Aumenta el daño de invocación, la velocidad de ataque y la velocidad de látigo en un {0}% por cada esbirro o centinela invocado
+		Aumenta el daño de invocación, la velocidad de ataque y la velocidad de látigo en un {0}% por cada súbdito o centinela invocado
 		Mientras estés por debajo del {1}% de vida, estas bonificaciones se duplican
 		'''
 }
@@ -667,7 +667,7 @@ MalachiteCasket: {
 		'''
 		{$MaskOfEvil.Tooltip}
 		{$AlluringSkull.Tooltip@2}
-		Aumenta el retroceso de tus esbirros y el daño de invocación en un {4}%
+		Aumenta el retroceso de tus súbditos y el daño de invocación en un {4}%
 		{$CommonItemTooltip.IncreasesMaxMinionsBy@5}
 		'''
 }
@@ -1396,7 +1396,7 @@ Sparky: {
 	DisplayName: Chispitas
 	Tooltip:
 		'''
-		Los esbirros invocados generan un rayo en cadena al golpear al enemigo marcado
+		Los súbditos invocados generan un rayo en cadena al golpear al enemigo marcado
 		'... Y su música era eléctrica.'
 		'''
 }
@@ -1427,8 +1427,8 @@ AfterlifeAnchor: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		Puede mejorar el daño de marca a [fx/eb:Deuda de Vida] a costa de la vida del jugador
-		Aumentará el daño de marca en {1} y la probabilidad de golpe crítico de los esbirros en un {2}%
-		Si un esbirro asesta un golpe crítico, se restaura vida al jugador
+		Aumentará el daño de marca en {1} y la probabilidad de golpe crítico de los súbditos en un {2}%
+		Si un súbdito asesta un golpe crítico, se restaura vida al jugador
 		'Quizás en otra vida...'
 		'''
 }
@@ -1438,8 +1438,8 @@ StrandedWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
-		Golpear enemigos aumenta la velocidad de los esbirros en un {1}%
-		Cuando los esbirros golpean al enemigo a corta distancia, el aumento de velocidad se duplica
+		Golpear enemigos aumenta la velocidad de los súbditos en un {1}%
+		Cuando los súbditos golpean al enemigo a corta distancia, el aumento de velocidad se duplica
 		Además, obtienen un {2}% de aumento en la probabilidad de golpe crítico
 		'''
 }
@@ -1613,7 +1613,7 @@ DemonCompendium: {
 
 	AutoSummon: {
 		Title: Invocador del Diablo
-		Description: Invoca a todos tus esbirros al reaparecer. Funciona tanto equipado como en el inventario, y usará el primer báculo de invocación que tengas.
+		Description: Invoca a todos tus súbditos al reaparecer. Funciona tanto equipado como en el inventario, y usará el primer báculo de invocación que tengas.
 	}
 }
 
@@ -1786,7 +1786,7 @@ PaperBag: {
 
 RavenMask: {
 	DisplayName: Máscara de Cuervo
-	Tooltip: Aumenta en 1 tu número máximo de esbirros y centinelas
+	Tooltip: Aumenta en 1 tu número máximo de súbditos y centinelas
 }
 
 SerpentSkull: {
@@ -4171,7 +4171,7 @@ StellarCoat: {
 	Tooltip:
 		'''
 		Aumenta el daño a distancia y de invocación en un 6%
-		Aumenta en 1 tu número máximo de esbirros
+		Aumenta en 1 tu número máximo de súbditos
 		'''
 }
 

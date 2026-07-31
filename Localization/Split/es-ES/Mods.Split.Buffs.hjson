@@ -45,7 +45,7 @@ GelidRegeneration: {
 
 DiligenceBuff: {
 	DisplayName: Diligencia
-	Description: Aumenta la velocidad de ataque de los esbirros en un 10%
+	Description: Aumenta la velocidad de ataque de los súbditos en un 10%
 }
 
 PurityBuff: {
@@ -443,7 +443,7 @@ WellForged: {
 
 Moonbounce: {
 	DisplayName: Rebote Lunar
-	Description: Aumenta tu número máximo de esbirros
+	Description: Aumenta tu número máximo de súbditos
 }
 
 MirrorLockdown: {
@@ -605,7 +605,7 @@ StargazerBuff: {
 
 SpiritWrathBuff: {
 	DisplayName: Ira del Espíritu
-	Description: Aumenta la velocidad de tus esbirros y látigos
+	Description: Aumenta la velocidad de tus súbditos y látigos
 }
 
 AfterlifeLifeDebtDebuff: {
@@ -622,8 +622,8 @@ ReverberationBuff: {
 	DisplayName: Reverberación Glacial
 	Description:
 		'''
-		Aumenta la velocidad de ataque de los esbirros invocados
-		Los esbirros de corto alcance disfrutan de un aumento de velocidad duplicado
+		Aumenta la velocidad de ataque de los súbditos invocados
+		Los súbditos de corto alcance disfrutan de un aumento de velocidad duplicado
 		'''
 }
 

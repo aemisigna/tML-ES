@@ -236,6 +236,11 @@ Configs: {
 			Tooltip: Activa/Desactiva la traducción de Split Mod.
 		}
 
+		SpiritModLocalization: {
+			Label: Spirit Mod
+			Tooltip: Activa/Desactiva la traducción de Spirit Mod.
+		}
+
 		ShowStartUpCollabMessage: {
 			Label: Mostrar anuncio de colaboradores al iniciar
 			Tooltip: Muestra un mensaje de anuncio indicando que el mod está abierto a recibir contribuciones de la comunidad al entrar a un mundo.

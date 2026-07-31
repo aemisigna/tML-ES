@@ -1,0 +1,35 @@
+HasMoonshot: Cualquier jugador tiene un Moonshot
+VoyagerDown: El Viajero de Starplate ha sido derrotado
+ScarabDown: Scarabeus ha sido derrotado
+MJWDown: El Mago Medusa Lunar ha sido derrotado
+VinewrathDown: El Azote del Zarzal ha sido derrotado
+DuskingDown: Dusking ha sido derrotado
+InBriar: En el Zarzal
+InAsteroids: En los Asteroides
+InSpirit: En el Espíritu
+NotInSpirit: No en el Espíritu
+NotInBriar: No en el Zarzal
+StarjinxDown: El evento de Starjinx ha sido derrotado
+HalfCompleteBestiary: La mitad del bestiario del Espíritu está completa
+FullCompleteBestiary: Todo el bestiario del Espíritu está completo
+# Quest conditions are below here
+# IsCompleted is used to shorten translation
+IsCompleted: la misión está completada
+FirstAdventureFinished: La Primera Aventura {$IsCompleted}
+FishyBusinessFinished: Algo Huele a Pescado {$IsCompleted}
+SanctuaryNightlightsFinished: Santuario - Luces Nocturnas {$IsCompleted}
+SpaceRocksFinished: Rocas Espaciales {$IsCompleted}
+RockyRoadFinished: Camino Rocoso {$IsCompleted}
+ForgottenCivilizationsFinished: Civilizaciones Olvidadas {$IsCompleted}
+HiveHuntingFinished: Cacería de Colmenas {$IsCompleted}
+GlowingAGardenFinished: Un Jardín Brillante {$IsCompleted}
+ManicMageFinished: El Mago Maniático {$IsCompleted}
+SkyHighFinished: Hasta el Cielo {$IsCompleted}
+UnholyUndertakingFinished: Una Tarea Profana {$IsCompleted}
+DecrepitDepthsFinished: Profundidades Decrépitas {$IsCompleted}
+TowerOrHideoutQuestFinished: Allanamiento de Morada o Safari de Amigos están completadas
+ItsNoSalmonFinished: No Es Ningún Salmón... {$IsCompleted}
+SanctuarySporeSalvageFinished: Santuario - Rescate de Esporas {$IsCompleted}
+WhyZombiesFinished: Zombis... ¿Por Qué Zombis? {$IsCompleted}
+BeneathTheIceFinished: Bajo el Hielo {$IsCompleted}
+FloweryFiendsFinished: Demonios Floridos {$IsCompleted}

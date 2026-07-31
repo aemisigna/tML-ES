@@ -1,0 +1,140 @@
+Apostle:
+	'''
+	Los Espíritus del Viento te guían, otorgándote un salto adicional
+	Los ataques mágicos y a distancia generan ocasionalmente plumas que atacan a los enemigos
+	'''
+Bismite:
+	'''
+	No recibir golpes acumula cargas de Virulencia
+	La Virulencia se carga cada 10 segundos
+	Golpear con la Virulencia cargada libera una explosión tóxica
+	Recibir un golpe agota la Virulencia por completo
+	'''
+BloodCourt:
+	'''
+	Pulsa dos veces {0} para sacrificar el 8% de tu vida máxima
+	y lanzar un rayo de Ánima Oscura que inflige mucho daño en un radio
+	Este rayo drena 10 de vida adicional durante 5 segundos
+	'''
+Botanist:
+	'''
+	Obtienes mayores recompensas de todo tipo de hierbas
+	Tienes un ojo excelente para detectar hierbas
+	'''
+Cascade:
+	'''
+	Infligir daño a los enemigos acumula un escudo de burbuja,
+	que al alcanzar su tamaño máximo otorga una gran resistencia al daño contra el siguiente ataque,
+	dañando y empujando a los enemigos cercanos.
+	'''
+Chitin: Pulsa dos veces una dirección para hacer un dash y envolverte en un tornado
+Cryolite:
+	'''
+	Genera un aura helada que ralentiza a los enemigos cercanos
+	Esta aura se expande gradualmente, pero se reinicia al recibir daño
+	'''
+Daybloom:
+	'''
+	Estar al aire libre durante el día aumenta ligeramente la defensa, el maná máximo
+	y la regeneración de vida
+	'''
+Driftwood:
+	'''
+	Permite que quien lo lleve puesto flote sobre el agua
+	Aumenta el poder de pesca
+	'''
+Dusk:
+	'''
+	Aumenta un 8% el daño mágico y a distancia durante la noche
+	Estás rodeado por una runa que guía el camino
+	Los ataques mágicos infligen Llama Sombría
+	'''
+DarkfeatherVisage: Genera rayos explosivos de pluma oscura alrededor del jugador
+Elderbark: Aumenta el daño de todos los objetos en 1
+Floran: Matar enemigos puede soltar carne cruda, restaurando vida y otorgando 'Bien alimentado'
+Frigid:
+	'''
+	Pulsa dos veces {0} para crear un muro helado en la posición del cursor
+	Enfriamiento de 8 segundos
+	'''
+Granite:
+	'''
+	Pulsa dos veces {0} mientras caes para pisotear hacia abajo
+	Golpear el suelo libera una onda de choque que escala con la altura
+	'''
+Infernal:
+	'''
+	Por debajo del 25% de vida, la defensa se reduce en 4, pero Guardianes Infernales te rodean
+	Los Guardianes Infernales aumentan enormemente el daño de invocación
+	Recibir daño puede generar múltiples Ascuas Infernales explosivas
+	'''
+JellynautBubble:
+	'''
+	Golpear o matar enemigos con armas mágicas genera medusas arcanas alrededor del jugador
+	Pulsa dos veces {0} para hacer que las medusas ataquen la posición del cursor
+	'''
+Leather:
+	'''
+	Llevar puesta la Armadura de Tirador acumula concentración
+	Mientras estás concentrado, tu siguiente golpe es un golpe crítico y causa más daño
+	La concentración se interrumpe al recibir daño, pero se carga más rápido si permaneces quieto
+	'''
+Marble:
+	'''
+	Pulsa 'Arriba' para otorgar 'Vientos Divinos', permitiendo un vuelo limitado
+	Enfriamiento de 10 segundos
+	'''
+Primalstone:
+	'''
+	Los ataques cuerpo a cuerpo y mágicos infligen Aflicción Inestable
+	Reduce la velocidad de movimiento en un 10%
+	'''
+Rogue:
+	'''
+	Recibir un golpe otorga cuatro segundos de invisibilidad y un 100% más de daño
+	Enfriamiento de 25 segundos
+	'''
+Runic: Deja tras de ti peligrosas runas explosivas
+Seraph:
+	'''
+	Estar cerca de enemigos aumenta la regeneración de vida, la regeneración de maná, la velocidad cuerpo a cuerpo
+	y reduce el costo de maná en un 6% por enemigo
+	Este efecto se acumula hasta tres veces
+	'''
+Slag:
+	'''
+	Pulsa dos veces {0} para hacer que todos los centinelas liberen una ráfaga de bolas de fuego
+	Enfriamiento de 8 segundos
+	'''
+Spirit:
+	'''
+	Los espíritus te otorgan varias mejoras según tu vida
+	Aumenta el daño en un 8% por debajo de 400 de vida
+	Aumenta la defensa en 6 por debajo de 200 de vida
+	Aumenta la regeneración de vida por debajo de 100 de vida
+	Aumenta los cuadros de invencibilidad por debajo de 50 de vida
+	'''
+Starjinx:
+	'''
+	Aumenta enormemente el uso de maná e impide el uso de pociones de maná
+	Quedarte sin maná produce un pilar de manajinx cerca de ti
+	Recoger el pilar de manajinx restaura todo el maná y encanta temporalmente las armas mágicas con estrellas
+	'''
+Starplate:
+	'''
+	Pulsa dos veces {0} para desplegar un campo de energía en la posición del cursor
+	Este campo dura cinco segundos y sobrecarga todos los proyectiles a distancia que pasen a través de él
+	Enfriamiento de {1} segundos
+	'''
+StreamSurfer:
+	'''
+	Pulsa dos veces {0} para crear una tromba marina cabalgable que daña a los enemigos
+	Enfriamiento de 7 segundos
+	'''
+Wayfarer:
+	'''
+	Matar enemigos otorga una mejora acumulable de daño
+	Romper macetas otorga una mejora acumulable de velocidad de movimiento
+	Minar mineral otorga una mejora acumulable de velocidad de minería
+	Todas las mejoras se acumulan hasta 4 veces
+	'''

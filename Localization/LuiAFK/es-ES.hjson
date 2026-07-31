@@ -850,7 +850,7 @@ Mods: {
 					'''
 					Invoca un muñeco de pruebas para medir tu DPS.
 					Usarlo de nuevo despawneará cualquier muñeco activo.
-					Puede ser blanco de homing y los esbirros lo atacarán.
+					Puede ser blanco de homing y los súbditos lo atacarán.
 					Despawnea cuando hay un jefe vivo.
 					Clic derecho para alternar los frames de invencibilidad normales.
 					La hitbox tiene un tamaño constante.
@@ -1673,7 +1673,7 @@ Mods: {
 				DisplayName: Pergamino de daño
 				Tooltip:
 					'''
-					Daño, crítico, esbirro extra, retroceso y espinas.
+					Daño, crítico, súbdito extra, retroceso y espinas.
 					Usa la tecla de ajustes para alternar el efecto visual del Infierno.
 					'''
 			}

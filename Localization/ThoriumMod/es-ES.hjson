@@ -1605,12 +1605,12 @@ Mods: {
 
 			BannerDamage: {
 				DisplayName: Estandarte de Batalla
-				Description: Los esbirros infligen 5 de daño adicional
+				Description: Los súbditos infligen 5 de daño adicional
 			}
 
 			BannerBounty: {
 				DisplayName: Estandarte de Recompensa
-				Description: Los esbirros cercanos generan monedas al dañar enemigos
+				Description: Los súbditos cercanos generan monedas al dañar enemigos
 			}
 
 			Slowed: {
@@ -1620,7 +1620,7 @@ Mods: {
 
 			BannerPrecision: {
 				DisplayName: Estandarte de Precisión
-				Description: Los esbirros cercanos tienen un 5% de probabilidad de golpe crítico
+				Description: Los súbditos cercanos tienen un 5% de probabilidad de golpe crítico
 			}
 
 			BannerPower: {
@@ -4153,7 +4153,7 @@ Mods: {
 				Tooltip:
 					'''
 					'Un poco de calor y grasa hacen maravillas'
-					Aumenta la capacidad de esbirros y mejora levemente todas las estadísticas
+					Aumenta la capacidad de súbditos y mejora levemente todas las estadísticas
 					'''
 			}
 
@@ -4634,7 +4634,7 @@ Mods: {
 				Tooltip:
 					'''
 					Invoca un Levantador Oscuro nigromántico que puede generar esqueletos de enemigos derrotados
-					Ocupa dos espacios de esbirro
+					Ocupa dos espacios de súbdito
 					'''
 			}
 
@@ -5390,7 +5390,7 @@ Mods: {
 				Tooltip:
 					'''
 					Invoca una cara maliciosa que se enfurece cuando estás gravemente herido
-					Ocupa dos espacios de esbirros
+					Ocupa dos espacios de súbditos
 					'''
 			}
 
@@ -6906,7 +6906,7 @@ Mods: {
 					'''
 					Invoca un orbe de pura sombra en la posición objetivo
 					Haz clic derecho para lanzar todos los orbes hacia el cursor
-					Puedes invocar tantos orbes como ranuras de esbirros tengas
+					Puedes invocar tantos orbes como ranuras de súbditos tengas
 					'''
 				SpecialTooltip: Invoca hasta [c/{0}:{1}] orbes de sombra en la ubicación objetivo
 			}
@@ -7049,7 +7049,7 @@ Mods: {
 				Tooltip:
 					'''
 					Invoca un dron artillero de ataque rápido para combatir enemigos cercanos
-					Ocupa dos ranuras de esbirro
+					Ocupa dos ranuras de súbdito
 					'''
 			}
 
@@ -7302,7 +7302,7 @@ Mods: {
 				Tooltip:
 					'''
 					Invoca una tormenta de espadas mítica con voluntad propia
-					Ocupa dos ranuras de esbirro
+					Ocupa dos ranuras de súbdito
 					'''
 			}
 
@@ -7384,7 +7384,7 @@ Mods: {
 				Tooltip:
 					'''
 					+10% de daño con invocaciones
-					Aumenta tu número máximo de esbirros en 1
+					Aumenta tu número máximo de súbditos en 1
 					Recibir daño libera a un protector fantasmal
 					'''
 			}
@@ -8143,7 +8143,7 @@ Mods: {
 					'''
 					'Tu furia se desatará sin control...'
 					Invoca una brasa de la Furia de Escoria, que desata destrucción fundida sobre tus enemigos
-					Ocupa dos espacios de esbirro
+					Ocupa dos espacios de súbdito
 					'''
 			}
 
@@ -8158,9 +8158,9 @@ Mods: {
 					'''
 					'Comanda un ejército reforzado con magma'
 					Aumenta en 50% el daño de invocación
-					Aumenta tu número máximo de esbirros en 6
+					Aumenta tu número máximo de súbditos en 6
 					Aumenta tu número máximo de centinelas en 2
-					Aumenta el retroceso de tus esbirros
+					Aumenta el retroceso de tus súbditos
 					'''
 				SetBonus: Todo daño de invocación deja una quemadura persistente que inflige gran daño con el tiempo
 			}
@@ -8302,7 +8302,7 @@ Mods: {
 				Tooltip:
 					'''
 					Invoca a un observador para revelar y vaporizar enemigos cercanos
-					Ocupa dos espacios de esbirro
+					Ocupa dos espacios de súbdito
 					'''
 			}
 
@@ -15957,7 +15957,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aumenta tu número máximo de centinelas en 1  
-					Aumenta tu número máximo de esbirros en 1
+					Aumenta tu número máximo de súbditos en 1
 					'''
 			}
 
@@ -16182,7 +16182,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aumenta el daño de invocación en 1  
-					Aumenta el retroceso de los esbirros
+					Aumenta el retroceso de los súbditos
 					'''
 			}
 
@@ -16201,9 +16201,9 @@ Mods: {
 				Tooltip:
 					'''
 					+10% de daño de invocación  
-					Aumenta tu número máximo de esbirros  
+					Aumenta tu número máximo de súbditos  
 					Aumenta tu número máximo de torretas  
-					Los ataques de esbirros y torretas infligen 2 de daño adicional tras matar a un enemigo
+					Los ataques de súbditos y torretas infligen 2 de daño adicional tras matar a un enemigo
 					'''
 				SpecialTooltip: Los enemigos golpeados por la punta de los látigos de invocación reciben un {0}% de daño extra, quedan malditos y generan hasta [c/{1}:{2}] fuegos fatuos
 				NoStacking: El efecto no se acumula con {$ItemName.PygmyNecklace}
@@ -16224,8 +16224,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Fósil de una época donde los arácnidos eran reyes'  
-					Los ataques de los esbirros tienen un 10% de probabilidad de generar una araña ámbar  
-					Los ataques de los esbirros infligen 2 de daño adicional mientras haya una araña ámbar activa
+					Los ataques de los súbditos tienen un 10% de probabilidad de generar una araña ámbar  
+					Los ataques de los súbditos infligen 2 de daño adicional mientras haya una araña ámbar activa
 					'''
 			}
 
@@ -16260,10 +16260,10 @@ Mods: {
 
 			SpiritTrapperCowl: {
 				DisplayName: Capucha del Cazador de Espíritus
-				Tooltip: Aumenta tu número máximo de esbirros en 1
+				Tooltip: Aumenta tu número máximo de súbditos en 1
 				SetBonus:
 					'''
-					Aumenta tu número máximo de esbirros en {0}  
+					Aumenta tu número máximo de súbditos en {0}  
 					Matar enemigos o dañar jefes continuamente genera esencias espirituales  
 					Tras generar {1} esencias, se consumen al instante para curarte {2} de vida
 					'''
@@ -18551,7 +18551,7 @@ Mods: {
 					'''
 					Invoca a un Bevedor de Sangre celoso que almacena hasta 20 'sangres' al atacar  
 					Cuando está calmado y a tu lado, el bevedor te curará según su almacenamiento de sangre  
-					Ocupa dos espacios de esbirro
+					Ocupa dos espacios de súbdito
 					'''
 			}
 
@@ -22072,7 +22072,7 @@ Mods: {
 			ArsenalStaffPro2.DisplayName: Bastón Arsenal: Escudo
 			AstroSetPro.DisplayName: Conjunto Astro Pro
 			BannerPro.DisplayName: Estandarte de Invocador
-			BeholderStaffPro.DisplayName: Esbirro Beholder
+			BeholderStaffPro.DisplayName: súbdito Beholder
 			BeholderStaffProShoot.DisplayName: Rayo del Beholder
 			BleedingHeartStaffPro.DisplayName: Corazón Sangrante
 			BleedingHeartStaffPro2.DisplayName: Bastón Corazón Sangrante Pro2

@@ -81,8 +81,8 @@ Tips: {
 	LootDisplayBindless: (No has asignado una tecla para esta función; hazlo en Controles)
 	Refreshing: Actualizando
 	Refresh: Actualizar tienda
-	SummonSlot: Ocupación de ranuras de esbirros: [c/22CC22:{Current}/{Total}]
-	SummonSlotFull: Ocupación de ranuras de esbirros: [c/CC2222:{Current}/{Total} (¡Lleno!)]
+	SummonSlot: Ocupación de ranuras de súbditos: [c/22CC22:{Current}/{Total}]
+	SummonSlotFull: Ocupación de ranuras de súbditos: [c/CC2222:{Current}/{Total} (¡Lleno!)]
 	BuffTrackerOn: <left> para abrir el rastreador de mejoras
 	BuffTrackerOff: <left> para cerrar el rastreador de mejoras
 	HideMyBuffs: Para ocultar las mejoras infinitas, actívalo en 'Configuración Personal'

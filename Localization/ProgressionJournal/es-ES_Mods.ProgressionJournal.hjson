@@ -162,6 +162,14 @@ UI: {
 	NpcSpawnFrostMoon: Luna Gélida
 	NpcSpawnFullMoon: Luna llena
 	ThoriumDamselTrackerContractCondition: Completa el contrato de la Doncella en Apuros
+	AAModClassicDefenderMedalShopCondition: Objeto del Ejército del Antiguo comprado con Medallas de Defensor
+	AAModClassicMartianCreditShopCondition: Objeto de la Locura Marciana comprado con Créditos Marcianos
+	AAModClassicLuckyPotionPotSource: Recipientes
+	AAModClassicLuckyPotionPotCondition: Puede caer raramente de macetas mientras llevas puesta la Camisa de la Suerte del Hombre de Rayas; la poción depende de la ubicación del recipiente
+	AAModClassicCarrotPlantSource: Planta de zanahoria
+	// AAModClassicCarrotPlantCondition: Grows naturally on surface grass in Hardmode; break the plant to obtain the carrot
+	AAModClassicAnubisBookExchangeSource: Anubis el escriba legendario
+	AAModClassicAnubisBookExchangeCondition: Dale el libro "La vida y las aventuras épicas de Anubis el perro maravilloso" tras derrotar a Anubis
 	NpcSpawnOldOnesArmy: Ejército del Antiguo
 	NpcSpawnGranite: Cueva de granito
 	NpcSpawnMarble: Cueva de mármol

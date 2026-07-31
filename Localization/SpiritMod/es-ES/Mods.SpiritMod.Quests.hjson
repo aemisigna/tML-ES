@@ -1,0 +1,435 @@
+RecipeConditions: {
+	WarlockLure: Durante Una Tarea Profana
+	DurasilkSheaf: Obtén 3 Gavillas de Durasilk
+}
+
+# I'm very sorry to whoever's translating this. Best of luck, and godspeed. - GabeHasWon
+
+# This is actually only used for the Lifeform Analyzer's (Quest) <NPCName>.
+Quest: Misión
+QuestBook: Libro de Misiones
+Residents: Tus residentes quieren hablar contigo. ¡Charla con ellos para conseguir más misiones!
+ChatOpenBook: ¡Haz clic en las misiones del chat para abrirlas en el libro!
+# This formats to "You have completed a quest! <Quest Name>" in-game. The sQ?:{0} is a quest chat tag.
+QuestCompleteChat: ¡Has completado una misión! [[sQ/{0}:{1}]]
+QuestOutOfTimeChat: ¡A [[sQ/{0}:{1}]] se le acabó el tiempo!
+QuestRelockedChat: "[[sQ/{0}:{1}]] ha sido bloqueada de nuevo."
+NewQuestChat: ¡Tienes una nueva misión! [[sQ/{0}:{1}]]
+OpenJournal: ¡Pulsa 'C' para abrir el Diario de Misiones!
+OpenHUD: ¡Pulsa 'V' para seguir tu progreso con el HUD!
+QuestsFull: No puedes activar más misiones.
+StopQuest: ¿Estás seguro? [c/910000:Perderás tu progreso].
+Undiscovered: Esta misión no ha sido descubierta.
+# These are all used for minor parts of quests, such as "Catch 2 Fish" or similar.
+# The space is necessary. Formats to "Talk to the <NPC Name>" in-game.
+TalkToNPC: "Habla con el "
+# Same as above. Used for "Explore <area>" in-game.
+Explore: "Explora "
+Retrieve: Recupera
+Catch: Atrapa
+Kill: "Mata a "
+Craft: Fabrica
+Capture: Captura
+Harvest: Cosecha
+OptionalGather: Opcional - Reúne
+Objectives: Objetivos
+Activate: Activar
+Deactivate: Desactivar
+ClaimRewards: ¡Reclamar!
+# Used for quest clients. Formats to "The <NPC Title>" in-game. The space is necessary. This also looks like a meme.
+The: "El "
+# Same as above for both of the below, but less funny.
+Client: "Cliente - "
+Rewards: Recompensas
+# Used for chat quest snippets.
+ViewQuest: ¡Haz clic aquí para ver la misión!
+
+Buttons: {
+	# Quest states
+	Active: Activas
+	Completed: Completadas
+	Available: Disponibles
+	# Quest types
+	All: Todas
+	Main: Principal
+	Explorer: Explorador
+	Forager: Recolector
+	Slayer: Cazador
+	Designer: Diseñador
+	Other: Otro
+}
+
+QuestInfo: {
+	# All quests will have a Name and a Description. The rest is dependent on what the quest does.
+	DefaultQuest: {
+		Name: Misión Predeterminada
+		Description: Marcador de posición para misiones no localizadas.
+	}
+
+	AncestralWorship: {
+		Name: Veneración Ancestral
+		Description: Cuando estaba explorando el Zarzal con la Profesora Laywatts y su equipo, recuerdo que hablaba de unas estatuas enormes que los antiguos habitantes del Zarzal solían construir. Todas se han destruido con el tiempo, pero ¿quizás podríamos crear una réplica aquí mismo?
+	}
+
+	AnglerStatueQuest: {
+		Name: Algo Huele a Pescado
+		Description: Me gusta pensar que soy el mejor pescador del mundo. De hecho, ¡sé que lo soy! Pero he oído unos rumores molestos sobre cajas que llegan a la orilla llenas de muchos más peces de los que yo podría pescar. Necesito que vayas a la playa y demuestres que esos rumores son falsos. ¿Por qué? ¡Porque yo lo digo! ¡Muévete!
+		AppeaseLine: Apacígualo atrapando
+		TalkLine: Habla con el Pescador
+		AskGuide: O pregúntale a la Guía qué hacer
+		AnglerStatueDemand: *sniff* ¿Qué quieres? ¿Quieres intentar animarme? ¿Qué es eso? ¿Harás LO QUE SEA? ¿Cómo que eso no es lo que dijiste? ¡Qué lástima! ¡Quiero que fundas esas asquerosas Cajas de Embalaje y construyas una estatua gigante, musculosa, mitad tiburón, mitad pescador para mostrar mi dominio sobre esos perdedores de fábrica! Dijiste que lo harías, ¡así que fuera!
+		CatchTooManyFish: ¿Cómo se supone que esto me haga sentir mejor? ¡¿También intentas hacerme quedar mal?! Deberías limitarte a hacer mis mandados y pescar mis peces. ¡Gracias por nada!
+		GuideCheckin: El Pescador está molesto, ¿eh? Bueno, es solo un niño- supongo que tiene sentido que algo así lo lastime. Esto puede ser un poco, bueno, exigente, pero supongo que deberías ir a verlo para ver si algo lo haría sentir mejor.
+		GiveToAngler: Dale los Pargos Rojos al Pescador
+		ShowAnglerCreation: Muéstrale al Pescador tu creación
+		ShowAnglerCrates: Muéstrale las Cajas de Embalaje al Pescador
+		CheerUp: ¡Esto es lo más increíble de la historia! ¡La pesca industrial nunca romperá mi espíritu, y estoy seguro de que ellos no tienen una estatua mitad hombre, mitad tiburón como esta! Me has impresionado hoy, así que te daré una recompensa de verdad. ¡Asegúrate de poner esa estatua pronto! Voy a pedirle al Comerciante que venda copias, ¡así que avísales a tus amigos (si es que tienes alguno)!
+		Defeated: ¡¿QUÉ?! ¿Escala... industrial? ¿Impulsado por máquinas? ¿Granja de fábrica? ¡Pensé que era el mejor pescador de por aquí! Esto apesta. *sniff* Gracias por ponerme de mal humor, perdedor. ¡Déjame en paz!
+	}
+
+	AuroraStagQuest: {
+		Name: Domando las Estrellas
+		Description: ¡Hola, muchacho! El mundo se ha vuelto más peligroso, pero no todo es malo. Mis exploradores han oído hablar de una criatura grande y hermosa que se revela bajo la luz de la Aurora. Es un ciervo enorme, y creo que podrías domarlo si le dieras el alimento adecuado. Eso sí, es asustadizo, así que no sobresaltes a la bestia.
+		Objective: Acércate lentamente a un Ciervo de la Aurora y aliméntalo con Bayas de Hielo
+	}
+
+	BareNecessities: {
+		Name: Las Cosas Más Simples
+		Description: Sabes, aprecio de verdad el hogar que me has dado después de salvarme, y no quiero sonar grosero. Peeero, creo que de verdad podemos darle más sabor a este lugar, muchacho. Y todo empieza con fabricar un Taller del Naturalista para conseguir unos lindos materiales de construcción.
+	}
+
+	BlastFromThePast: {
+		Name: Un Vistazo al Pasado
+		Description: Veo que tienes unos Tubos de Descarga ahí, muchacho. Me alegra que hayas seguido mi consejo de diseño, así que llevémoslo un paso más allá. Intenta conseguir unos Trozos de Mármol Encantado para ambientar de verdad con un Busto de Hiperespacio. Te lo digo, ¡se verá espectacular!
+	}
+
+	FirstAdventure: {
+		Name: La Primera Aventura
+		Description: ¿Así que quieres ser aventurero, eh? Bueno, ¡empaca una bolsa y sal ahí afuera! Había planeado fabricarte una armadura especial para empezar, pero ¡unos Murciélagos Garfio sarnosos robaron la gavilla de Durasilk que usaba! Solo salen de noche cerca de la superficie del bosque. ¿Te importaría recuperar esa seda y fabricarte tu propia armadura?
+	}
+
+	RaidingTheStars: {
+		Name: Saqueando las Estrellas
+		Description: Ya revisaste los Campos de Asteroides cerca del rincón lejano del mundo, ¿verdad? Mis fuentes han reportado una actividad mecánica creciente por ahí. Unos extraños gusanos automáticos hechos de metal están surcando el cielo por allá. Algo debe tenerlos alterados. ¿Podrías matar un par y ver qué los hace funcionar?
+	}
+
+	StylishSetup: {
+		Name: Montaje con Estilo
+		Description: ¿Alguna vez sientes ganas de darle más sabor a las cosas, muchacho? Tengo la estética nueva perfecta para ti- ¡el retrofuturismo! ¿Qué, crees que eso no es mi estilo? ¡Yo le hago de todo, muchacho! Confía en mí, tu pueblo se verá fabuloso con un poco de funk ochentero mezclado.
+	}
+
+	ZombieOriginQuest: {
+		Name: Una Tarea Profana
+		Description: He encontrado un extraño pergamino de pared que enumera información importante sobre los Zombis y, potencialmente, sus orígenes. Creo que debería hablar con la Guía o la Dríada sobre esto. ¡Quizás podamos ponerle fin a esta vil nigromancia!
+		ShowGuideDialogue: ¿Encontraste ese pergamino misterioso ahí? Supongo que sí. Es una pista interesante sobre por qué han estado apareciendo estos zombis recientemente. Diría que necesitamos investigar más sobre quién está detrás del levantamiento zombi. ¿Quizás sea un científico loco, o algo así? Debería haber libros sobre el tema cerca de la Mazmorra.
+		TalkGuide: Habla con la Guía sobre el pergamino misterioso.
+		GetLureGuide: Esta investigación es ambigua, pero creo que apunta hacia un científico maniático creando hordas de zombis. Puede que necesites encontrar una forma de llamar su atención esta noche. ¿Qué tal si cosemos un señuelo usando algunos macabros pedazos de zombi? Estoy segura de que el investigador lo encontraría interesante.
+		ReturnBooks: Devuelve los libros a la Guía
+		ShowDryadDialogue: Este pergamino es alarmante. Lo encontraste en los restos de un zombi, ¿no? Pobres criaturas desdichadas. Creo que este pergamino podría ayudarnos a entender por qué los zombis han estado plagando nuestra tierra. Este tenue polvo en el pergamino huele igual que el mal que aflige a nuestro mundo. Deberíamos recolectar algunas hierbas de ese bioma y comparar.
+		TalkDryad: O habla con la Dríada sobre el pergamino misterioso.
+		GetLureDryad: ¡Tenía razón! Ahora creo que algún tipo de mago malvado puede tener algo que ver con la creación de estas viles monstruosidades. Necesitamos llamar la atención de este horrible nigromante esta noche. Creo que ese polvo pútrido que recolectaste puede ayudar a fabricar un señuelo para él. Acábalo rápido, ¡y quizás nos libremos de los zombis para siempre!
+		ReturnPowder: Devuelve el polvo a la Dríada
+		KillScientist: Mata al Científico No Muerto
+		KillWarlock: Mata al Brujo No Muerto
+	}
+
+	BreakingAndEntering: {
+		Name: Allanamiento de Morada
+		Description: Un par de mis amigos exploradores vieron algo preocupante cerca de las costas lejanas del mundo. Alcanzaron a ver a una mujer atada allá arriba. ¿Te importaría ir hasta allá y revisar? ¡Quizás necesite que la rescaten! Si no te sientes muy altruista, ¡seguro también hay mucho botín para llevarse!
+		Dialogue: Debe ser mi día de suerte para ver una cara amistosa por aquí! Estos trasgos no se tomaron muy bien que les ofreciera, eh, un trato amañado. En fin, ¿tienes un lugar donde quedarte? Juguémoslo a cara o cruz.
+		Objective: Encuentra la Torre Arcana Trasgo y rescata a la prisionera.
+	}
+
+	CritterCaptureBlossmoon: {
+		Name: Santuario - Flores PacíficasS
+		Description: He oído relatos de una rara especie de fauna que solo emerge durante las noches más tranquilas. Cuando la luna está en su primer o tercer cuarto, y las hojas se mecen con el viento, pequeñas Florilunas salen de sus flores y absorben la luz lunar. Sin embargo, son bastante indefensas por sí solas. Debemos atrapar y preservar una.
+		Thanks: Las Florilunas en realidad tienen la habilidad de calmar a los monstruos cercanos. Sospecho que extraen su poder de la luna para hacerlo. Sería muy beneficioso para todos nosotros si nos aseguráramos de que todas las Florilunas prosperaran. ¡Este es un buen primer paso en ese proceso!
+		BringBack: Devuélvele la Floriluna a la Dríada
+	}
+
+	CritterCaptureFloater: {
+		Name: Santuario - Luces Nocturnas
+		Description: He detectado rastros de otra especie que necesita nuestra protección. Aunque la mayoría de las medusas pueden protegerse solas, estas más pequeñas no pueden. A menudo viajan en grupos para parecer más grandes. Recuperemos uno de estos Flotadores Luminosos para preservarlos. Puedes encontrarlos en el fondo del océano de noche.
+		Thanks: Estas maravillas de la naturaleza iluminan el océano con su resplandor. Ciertamente no quisiera verlas perecer a manos de monstruos marinos y pescadores codiciosos. Se verán hermosas en mi reserva natural arcana. Gracias de nuevo.
+		BringBack: Devuélvele el Flotador Luminoso a la Dríada
+		AnglerThanks: ¡Esto se ve absolutamente delicioso! Y son todos míos- ah, ¿todavía estás aquí? Bien, supongo que te lo agradeceré esta vez, ¡pero no esperes que siempre sea tan amable!
+		ReturnAngler: Devuélvele el pescado crudo al Pescador
+		UpsetDryad: ¡Ese niño podrido y consentido! Lo he perdonado una y otra vez por pescar criaturas raras, pero ahora se ha pasado de la raya. ¡Estas especies están hechas para ser admiradas, no devoradas! Gracias por contarme su desagradable plan- tu compromiso con el mundo natural es admirable. ¡Toma esto como agradecimiento! ¡Y no olvides esos Flotadores Luminosos!
+		Tattle: O cuéntale a la Dríada sobre los planes del Pescador
+		HungryAngler: Esa Dríada tan sabelotodo siempre cree que sabe qué es lo mejor para los peces. ¡Pues no me importa! ¡Lo mejor para mí es tener esas medusas en mi pancita, ya mismo! No dejes que se desperdicien- pícalas para mí y haremos un platillo de mariscos INCREÍBLE. ¿Qué estás esperando?
+		AskAngler: O pregúntale al Pescador sobre los Flotadores Luminosos
+	}
+
+	LumothQuest: {
+		Name: Santuario - Brillo Luminoso
+		Description: Como protectoras de la naturaleza, las Dríadas tenemos la obligación de proteger toda la flora y fauna- de 'cuidar al más pequeño'. Esto aplica especialmente a las criaturas que no pueden defenderse solas. Un ejemplo perfecto es la brillante Lumipolilla, que brilla en la oscuridad de las cuevas. Tráemela para preservar la especie para las futuras generaciones.
+		Thanks: Mira qué hermosa es esta criatura. De verdad eres un alma bondadosa por asegurar que tal belleza prospere por siglos venideros. Haré mi magia para comenzar un pequeño santuario para esta Lumipolilla y sus hermanas. Gracias de nuevo.
+		BringBack: Devuélvele la Lumipolilla a la Dríada
+		MerchantDialogue: Escúchame, amigo. No me malinterpretes, aprecio lo que la Dríada está haciendo por el medio ambiente, pero esto presenta una maravillosa oportunidad de negocio, si te interesa. Las Lumipolilla son raras, y soy demasiado débil para conseguirlas. Si, digamos, mataras a una Lumipolilla y me trajeras su Bombilla Brillante en lugar de llevársela a la Dríada, te daría algo especial.
+		TalkMerchant: O habla con el Comerciante sobre las Lumipolillas
+		ThanksMerchant: Seguro que exterminar solo una Lumipolilla no tiene consecuencias a gran escala, ¿verdad? Eh, por si acaso, no le cuentes esto a la Dríada. No somos monstruos, claro- solo estamos satisfaciendo las necesidades de la economía. Y como te prometí, aquí está tu recompensa extra. ¡Gracias, amigo!
+		BringBackMerchant: Devuélvele la Bombilla Brillante al Comerciante
+	}
+
+	SporeSalvage: {
+		Name: Santuario - Rescate de Esporas
+		Description: Los campos de hongos brillantes son un punto caliente de flora y fauna biodiversa. No es de extrañar que se haya avistado un nuevo hongo sensible; sin embargo, este hongo no es para nada peligroso. Todo lo que parece hacer es mecerse suavemente de un lado a otro. ¡Debemos asegurar su supervivencia, y no solo porque sea adorable!
+	}
+
+	CritterCaptureSoulOrb: {
+		Name: Santuario - Búsqueda de Almas
+		Description: Los extraños campos del Espíritu que han surgido en el horizonte albergan incontables plantas y animales nuevos. Pero una pequeña alma no tiene oportunidad si no vamos a capturarla. Estos Orbes del Alma iluminan las profundidades del Espíritu Subterráneo, y quiero asegurarme de que estén a salvo. De paso, ¿podrías conseguirme algunos esquejes de Flor del Alma?
+		Thanks: Estos orbes parecen poseer las almas de criaturas inquietas. Quizás podamos traerles algo de paz en mi santuario. Le has hecho un gran servicio a esta alma y a mí, viajero. Gracias.
+		BringBack: Devuélvele el Orbe del Alma a la Dríada
+		ThanksSoulbloom: Estas flores son tan sobrenaturales y hechizantes. Gracias por traérmelas. Espero que puedas plantar un campo lleno de estas maravillosas flores.
+		BringBackSoulbloom: Devuélvele el Orbe del Alma y la Flor del Alma a la Dríada
+	}
+
+	DecrepitDepths: {
+		Name: Profundidades Decrépitas
+		Description: ¿Alguna vez te preguntaste por qué hay tantos esqueletos bajo tierra? Resulta que había una banda de nigromantes escondidos en cavernas de todo el mundo, realizando todo tipo de experimentos. ¡Por suerte para nosotros ya no están! Pero sus Sepulcros todavía permanecen. ¿Te importaría explorar el lugar para mí? ¡No te conviertas en un esqueleto!
+	}
+
+	ExplorerQuestAsteroid: {
+		Name: Rocas Espaciales
+		Description: Hay un campo de asteroides justo encima de uno de los océanos. Completamente sin explorar. ¡Qué genial es eso! Tenemos que aprender todo lo que podamos sobre ese lugar. Si te topas con esos asteroides, da una vuelta por ahí y toma algunas notas para mí, ¿de acuerdo? ¿Siquiera se puede escribir en el espacio? Ve a averiguarlo, ¡y no te caigas!
+		Objective: el Campo de Asteroides
+	}
+
+	ExplorerQuestAurora: {
+		Name: Luces en el Cielo
+		Description: La verdad no tengo un motivo en particular para este trabajo, salvo compartir la belleza de este mundo con más gente. ¿Alguna vez has visto una Aurora Boreal? Puede que sea lo más mágico del mundo, ¡y este mundo de verdad tiene magia! Puedes encontrarlas en altitudes elevadas y en la tundra nevada. Solo ve allá y disfruta del paisaje.
+		Objective: auroras boreales en la tundra nevada o en altitudes elevadas
+	}
+
+	ExplorerQuestBlueMoon: {
+		Name: Una Vez Cada...
+		Description: Justo cuando pensabas que a este mundo ya se le habían acabado las formas de matarte, ¿eh? Todos hemos visto esas asquerosas Lunas de Sangre, pero últimamente la luna se pone de un azul profundo. Sonará bonito, pero criaturas aterradoras salen durante estas Lunas Místicas. Asegúrate de que ninguna se acerque al pueblo, ¿me oyes?
+		Objective: una Luna Mística
+	}
+
+	ExplorerQuestCorrupt: {
+		Name: Yermos Viles
+		Description: Así que planeas quedarte en este mundo por un tiempo, ¿eh? Tenemos mucho que explorar antes de entender bien esta región. Necesitamos saber qué tan peligrosos son esos Abismos Corruptos y cómo lidiar con esos Devoradores espeluznantes. Ve con cuidado, irás solo. Si sobrevives, podrás explorar las demás áreas que el Aventurero mencionó en su diario.
+		Objective: la Corrupción
+	}
+
+	ExplorerQuestCrimson: {
+		Name: Horrores Corpóreos
+		Description: Así que planeas quedarte en este mundo por un tiempo, ¿eh? Tenemos mucho que explorar antes de entender bien esta región. Necesitamos saber qué tan peligrosos son los campos del Carmesí. No soy lo bastante fuerte, así que tendrás que encargarte de esto solo. Si sobrevives, podrás explorar los demás territorios que el Aventurero mencionó en su diario.
+		Objective: el Carmesí
+	}
+
+	ExplorerQuestGranite: {
+		Name: Camino Rocoso
+		Description: Un par de sistemas de cuevas subterráneas parecen estar hechos casi por completo de granito oscuro. Algún tipo de fuente de energía también parece estar dándole vida a las rocas. Me gustaría que fueras a investigar. Después de que te topes con una de estas Cavernas de Granito, da una vuelta por ahí y toma algunas notas para mí, ¿de acuerdo?
+		Objective: cavernas de granito
+	}
+
+	ExplorerQuestHive: {
+		Name: Cacería de Colmenas
+		Description: ¿Has revisado las partes bajas de la Jungla? Últimamente he oído sobre una serie de colmenas enormes por ahí. Detesto a las abejas... y a las avispas... y a las plantas gigantes que comen gente, así que ¿te gustaría ir a revisar una de esas colmenas por mí?
+		Objective: colmenas gigantes en la Jungla
+	}
+
+	ExplorerQuestLuminous: {
+		Name: Marea Alta, Marea Luminosa
+		Description: Me encanta la playa. Ahora, puede que estés imaginando el sol y la arena, ¡y a mí también me encanta eso! Pero estoy hablando de la playa de noche. Si tienes suerte, puedes ver algunas hermosas algas brillantes llegar a la orilla y teñir el agua de colores bonitos. Te recomiendo mucho relajarte en un Océano Luminoso.
+		Objective: un Océano Luminoso en la playa
+	}
+
+	ExplorerQuestMarble: {
+		Name: Civilizaciones Olvidadas
+		Description: Me gustaría que fueras hasta allá y cartografiaras los alcances más profundos de esta tierra. Algunas cavernas están cubiertas de mármol y de las ruinas de alguna civilización antigua. Después de que te topes con una de estas Cavernas de Mármol, da una vuelta por ahí y toma algunas notas para mí, ¿de acuerdo? Ojalá esas ruinas estén desoladas, ¿eh?
+		Objective: cavernas de mármol
+	}
+
+	ExplorerQuestMushroom: {
+		Name: Un Jardín Brillante
+		Description: Estoy buscando información sobre Cavernas de Hongos Brillantes cercanas. Verás, hice una apuesta con el comerciante de que SÍ existen y que no estoy alucinando árboles de hongos gigantes y azules que brillan. Pensándolo bien, puede que no suene muy cuerdo diciendo eso, ¡pero juro que son reales! ¡Ve a demostrar que tengo razón!
+		Objective: campos de hongos brillantes
+	}
+
+	ExplorerQuestOcean: {
+		Name: Bajo las Olas
+		Description: ¿Sabes por qué me encanta que me pesques peces? Tengo las ganas de ver a cada maldito pez de este planeta antes de estirar la pata. ¡Y quiero que tú también sientas eso! Sumérgete y ve lo asombroso que puede ser el océano. ¡Consígueme algo del fondo del océano mientras estás ahí!
+		Finish: Esto huele... ¡muy mal! ¿Cómo les puede gustar esto a los peces? ¿Por qué no me conseguiste algo más genial? Como sea... puedes quedártelo. ¡Ve y péscame unos peces la próxima vez que salgas!
+		Return: Regresa con el Pescador
+		GetSulfur: Consigue 5 Depósitos de Azufre de los respiraderos hidrotermales
+		Ocean: las profundidades del océano
+	}
+
+	FriendSafari: {
+		Name: Safari de Amigos
+		Description: Hace unos años, hacía un trabajo con un amigo mío que nunca ha estado del todo del lado bueno de la ley. Es un bandido, y de los buenos. Seguimos en contacto desde entonces, pero ha estado terriblemente callado últimamente. Lo último que supe, estaba escondido con un grupo de bandidos cerca de las costas lejanas. ¿Te importaría ir a ver cómo está?
+		Dialogue: ¡Oye! Gracias por salvarme- Ahora, ¿te importaría sacarnos de este lío? ¡Me engañaron, se llevaron todo mi dinero y me dejaron aquí por muerto! Eso sí, no creas que te haré descuento en mi mercancía. ¡Es broma! No lo es.
+		Objective: Encuentra el escondite bandido y rescata al prisionero.
+	}
+
+	GranitechQuest: {
+		Name: Fuerzas Futuristas
+		Description: Sabes, he visto unas piezas extrañas en la chatarra que he estado comprando últimamente. Es bastante asombroso. ¡El circuito está muy por encima de mi nivel, como si fuera del futuro! Me encantaría experimentar con ellos y aprender más, así que ¿me conseguirías algunos? Eso sí, están conectados a maquinaria peligrosa. ¡Regresa entero!
+		BringBack: Regresa con la Mecánica con los circuitos
+		Thanks: ¡Vaya! ¡Estas piezas son casi sobrenaturales! ¿Dijiste que luchaste contra un montón de torretas láser de alta precisión para conseguir esto? Digo, tiene sentido, pero hay mucho más que este circuito podría lograr. Es una combinación de magia y energía que nunca había visto, y creo que la gente detrás de esas torretas es una fuerza de la que hay que cuidarse. ¡Lo mejor es que consigas tantos circuitos como puedas y te prepares antes de que hagan su movida!
+	}
+
+	HeartCrystalQuest: {
+		Name: El Corazón de la Causa
+		Description: Si quieres seguir vivo y seguir explorando este mundo (con mi ayuda, claro), necesitaremos asegurarnos de que estés sano y fuerte de corazón. ¿Entiendes? Necesitarás ir bajo tierra para recuperar un Cristal de Corazón o dos. ¡Te dará el impulso que necesitas! Después de eso, deberías poder intentar algunas de las misiones más difíciles que dejó el Aventurero.
+	}
+
+	IceDeityQuest: {
+		Name: Bajo el Hielo
+		Description: ¡Bienvenido, amigo! Tengo una petición un poco inusual para ti hoy. Verás, últimamente he sentido una energía extraña emanando de la tundra helada. Me gustaría que te aventuraras allá y aprendieras más, pero no antes de que consigamos algo de conocimiento primero. Primero, preguntemos por ahí.
+		KillWinterborn: Encuentra pistas sobre el pasado matando Winterborn
+		KillCrystalDrifter: Mata a un Vagabundo de Cristal
+		CuriousRelic: ¡Qué reliquia tan curiosa! Parece ser parte de una estatua mucho más grande. ¿Quizás los extraños Winterborn adoraban a esta deidad? O quizás no- podría ser solo la creación de otra civilización muerta hace mucho cuyas almas vagan por las profundidades heladas. ¿Quién sabe? Pero es intrigante, y deseo reensamblar la escultura. ¿Puedes recolectar las otras piezas faltantes? Estoy segura de que una se puede encontrar en los Vagabundos de Cristal, extrañas entidades de hielo que emergen durante las Ventiscas. Probablemente podamos fabricar las otras piezas con Hielo Reptante y Criolita, que se encuentran bajo tierra.
+		ShowRelic: Muéstrale al Encantador la extraña reliquia
+		GiveAllArtifacts: Dale todos los artefactos al Encantador
+		Congrats: ¡Has hecho un trabajo espléndido! Estos artefactos parecen crear una estatua gigante que se asemeja a algún tipo de caballero guerrero. Quizás es una deidad. Quizás es solo un proyecto apasionado- ¡hay tanto que no sabemos! Y aunque no estoy segura de por qué las cavernas heladas se han vuelto tan peligrosas, estoy contenta de haber aprendido más sobre nuestro mundo. ¡Espero que pongas esta estatua en algún lado!
+		FrozenSoulScene: Mientras me acerco al espíritu, la cueva a mi alrededor parece temblar. Las paredes colapsan, dejándome de pie en un abismo sin límites. Estoy solo. Incontables montones de oro y reliquias yacen esparcidos, cubiertos por una fina capa de escarcha. La única luz en la caverna parece venir del alma a mi lado, mientras espera a que yo tome una decisión.
+		FindFrozenSoul: O intenta encontrar un alma en el Bioma de Hielo
+		DryadMyths: ¿Así que quieres saber sobre las cavernas heladas? Bueno, han existido desde antes de que yo naciera- ¡no soy tan vieja! Sin embargo, he oído relatos sobre numerosas civilizaciones que se alzaron y cayeron bajo la superficie congelada. Algunas eran pacíficas, mientras que otras llegaron al punto de congelar a sus enemigos vivos por deporte. Si escuchas con atención, estoy segura de que podrías obtener más información de las almas de las cavernas congeladas.
+		AskMyths: Pregúntale a la Dríada sobre los mitos antiguos
+		AdventurerMyths: No sé mucho sobre historia antigua, pero unos cuantos de mis asociados han explorado una amenaza creciente en las cavernas heladas. A veces, incluso se atreven a vagar por la superficie durante ventiscas fuertes. No sé qué es lo que los tiene tan alterados, pero los campos helados son más peligrosos que nunca.
+		AskAdventurer: Pregúntale al Aventurero sobre el Bioma de Nieve
+		ReturnToDialogue: ¡Ya veo! Estas pistas son prometedoras- quizás matar a algunas de estas criaturas congeladas o intentar encontrar una de esas almas que mencionó la Dríada podría arrojar algo de luz sobre la inquietud del bioma de hielo.
+		ReturnTo: Regresa con el Encantador con lo que sabes
+	}
+
+	IdleIdol: {
+		Name: Ídolo Inerte
+		Description: Las arenas del desierto esconden muchos secretos bajo ellas. Se supone que hay un Zigurat Antiguo enterrado cerca de la superficie de uno de esos páramos. ¿Podrías ir hasta allá y recolectar algunas reliquias para mí?
+		ReturnToAdventurer: Regresa con el Aventurero con lo que has encontrado
+		Warning: Lo sabía. Estaba puliendo esta cosa vieja cuando empezó a verse muy familiar. Eso de ahí es un Ídolo de Escarabajo. Te lo advierto, no te metas con él hasta que seas de verdad fuerte. Yo y unos cazarrecompensas intentamos enfrentarlo hace años. Apenas escapamos con vida. Cuídate, muchacho.
+		ReforgedCompatLine: Fabrica un Ídolo con Ladrillo de Arenisca Roja y Ámbar Pulido, del Desierto Subterráneo y el Zigurat
+	}
+
+	ItsNoSalmon: {
+		Name: No Es Ningún Salmón...
+		Description: Tengo una misión, eh, perfectamente normal para ti. ¿Por qué no vas a la Jungla a pescarme un Pez Avispa? Se supone que es una verdadera delicia. Eso sí, ten cuidado. He oído que puede ser una captura... difícil. ¿Cómo que esto suena exactamente a algo que el Pescador querría que hicieras?
+		ThanksAdventurer: Muchas gracias, muchacho. Esto es exactamente lo que he estado antojando últimamente. Soy algo así como un chef, ¿sabes? De hecho, ¡déjame compartir este pez avispa contigo! Gracias de nuevo.
+		BringBack: Devuélvele el Pez Avispa al Aventurero
+		GiveAngler: ¡¿Qué?! ¿Ibas a pescar sin MÍ? Estoy ofendido, y exijo tu Pez Avispa como compensación. Toma, lleva este cebo, y úsalo para pescarme peces la próxima vez. El Aventurero puede comer otra cosa. ¡Fuera!
+		BringBackAngler: O dale el Pez Avispa al Pescador
+	}
+
+	JellyfishHunter: {
+		Name: Cazador de Medusas
+		Description: ¡Hola, muchacho! Estuve investigando qué hace funcionar a estas lindas medusas, y creo que todas son parte de una mente colmena que se alimenta de energía mística. De hecho, esa medusa que atrapaste parece emitir una señal de auxilio a sus amigas. Puede que pronto enfrentes a una medusa muy poderosa, ¡así que mantente preparado!
+		Objective: Mata al Mago Medusa Lunar
+	}
+
+	ManicMage: {
+		Name: Mago Maniático
+		Description: Los exploradores en los confines del mundo han reportado que una bruja parece estar aterrorizando la zona. Al parecer, es algún tipo de arpía con un báculo muy peligroso. La misión es bien simple esta vez. ¡Tráeme su cabeza! Eh... prometo que no estoy loco. Digo, ¡tráeme su sombrero! Sí.
+	}
+
+	OlympiumQuest: {
+		Name: Augurio Antiguo
+		Description: El mundo ha cambiado para peor. Siento una magia corrupta creciendo cada vez más fuerte. Si hemos de mantener a raya a las fuerzas del mal, debemos buscar ayuda. Últimamente, también he sentido la presencia de alguien familiar en las profundidades de las Cavernas de Mármol. Ve con ella; ella podrá ofrecerte guía.
+		Dialogue: Te estaba esperando, viajero. Mis visiones hablaron de un momento en el que un héroe necesitaría guía. Puedo ofrecerte poderosos armamentos a cambio de Olimpio, la moneda de los Dioses. Para encontrar algo, busca y derrota a enemigos que hayan sido bendecidos por los mismísimos Dioses. Puedo darte mi bendición si deseas encontrar más de estas criaturas, pero te arriesgas a incurrir en la ira de los Dioses.
+		Objective: Encuentra a la mujer misteriosa en las Cavernas de Mármol
+		ReturnDialogue: ¡Ah, has regresado sano y salvo! Maravilloso. Te cambiaré estas fichas por algunas armas y equipo poderosos. Y toma este pergamino sagrado. Si me necesitas, estaré a tu lado. Buen viaje, héroe.
+		ReturnTo: Regresa con el Oráculo
+	}
+
+	RescueQuestStylist: {
+		Name: Todo Envuelto
+		Description: Oí a una chica gritar allá abajo en las cuevas llenas de arañas. Iría a salvarla yo mismo pero, eh... tengo asuntos que atender. Definitivamente no le tengo miedo a esos bichos espeluznantes gigantes ni nada. ¿Podrías ir a rescatarla por mí?
+		Dialogue: No vayas a explorar con tijeras, dijeron. ¡No quedarás atrapada en una telaraña, dijeron! Por cierto, ¿quién te mandó a rescatarme? ¿Ah, el Demolicionista? ¡Dile que los cortes de cabello son gratis de por vida!
+		Objective: Ve a las cavernas de arañas y rescata a la cautiva
+	}
+
+	ReturnToYourRoots: {
+		Name: Un Regreso a tus Raíces
+		Description: Sabes, mientras estaba atrapada allá abajo, noté algo... al parecer, todas las raíces del Zarzal se conectan a una... cosa central. No sé qué es, pero no voy a averiguarlo yo misma... al menos no por un tiempo. ¿Podrías ir a echar un vistazo?
+		Objective: Mata al Azote del Zarzal
+	}
+
+	SinisterSands: {
+		Name: Arenas Siniestras
+		Description: Lo sabía. Estaba puliendo esta reliquia que recuperaste cuando empezó a verse muy familiar. Eso de ahí es un Ídolo de Escarabajo. Te lo advierto, no te metas con él hasta que seas de verdad fuerte. Yo y unos cazarrecompensas intentamos enfrentarlo hace años. Apenas escapamos con vida. Cuídate, muchacho.
+		Objective: Mata a Scarabeus
+	}
+
+	SkyHigh: {
+		Name: Hasta el Cielo
+		Description: He estado viendo unos mapas viejos y me he enterado de un grupo de Pagodas Flotantes sobre los océanos de este mundo. El problema es que no logro distinguir si están a la izquierda o a la derecha, así que ¿irías a explorar por mí? Estoy buscando algo elegante de allá arriba. La verdad no me importa qué sea mientras se vea bien. ¡Feliz cacería!
+	}
+
+	SlayerQuestBriar: {
+		Name: Demonios Floridos
+		Description: Necesito que vayas al Zarzal y les muestres a esas bestias quién manda. Mata a algunos de esos sabuesos grandes y esos Acechadores de Espinas. Quizás podamos hacer del Zarzal un lugar más seguro... Ah, ¿a quién engaño? Ese lugar está destinado a seguir siendo un infierno.
+	}
+
+	SlayerQuestCavern: {
+		Name: Bichos Espeluznantes
+		Description: Unos nuevos bichos espeluznantes han empezado a llamar hogar a las cavernas. Sujetos asquerosos que eructan gas venenoso y unos pequeños bichos espinosos. Haznos un favor a todos y extermina esas cosas repugnantes. Matar a una docena de ellos seguramente hará del subsuelo un lugar menos desagradable.
+		Objective: Mata a 8 Wheezers, Wheezers de Esporas, Reptantes de Caverna, Giant Shellys, Salamandras o Crawdads
+	}
+
+	SlayerQuestClown: {
+		Name: Nada de Risa
+		Description: Estaba planeando una fiesta la semana pasada cuando estos payasos ASQUEROSOS aparecieron y me arruinaron el estilo. Volaron todo mi local, así que ahora es algo personal. Quiero que encuentres a esos payasos y acabes con ellos. Solo puede haber un fiestero por aquí.
+	}
+
+	SlayerQuestDrBones: {
+		Name: Zombis... ¿Por Qué Zombis?
+		Description: Mi colega, un arqueólogo experto, se fue a vagar por la jungla buscando algún templo antiguo. Sin embargo, no lo logró. Los reportes me han dicho que todavía vaga por la superficie de la Jungla como zombi. ¿Te importaría ir hasta allá y darle descanso por mí? Ya ha explorado suficiente.
+	}
+
+	SlayerQuestMarble: {
+		Name: Miradas Ancestrales
+		Description: De verdad sacudiste al mundo después de matar al gran mal en ese bioma repugnante. Nuevos horrores están empezando a surgir por todas partes. Las Cavernas de Mármol especialmente han visto bastante agitación. Esta nueva monstruosidad tiene tentáculos, ojos, bolas de fuego, lo que quieras. ¿Podrías ir a matar a esta monstruosidad por mí, muchacho?
+	}
+
+	SlayerQuestNymph: {
+		Name: Ella Es una Maniática
+		Description: ¿Sabes?, después de descansar un tiempo tras quedar varado en el Zarzal, estaba muy emocionado por volver al mundo de las citas. Tenía una cita bonita programada y todo. La dama era súper linda y agradable. ¡Pero cuando llegué a la cueva en la que se suponía que nos encontraríamos, intentó comerme! Monstruo molesto- ¡mátala para darme un cierre!
+	}
+
+	SlayerQuestOccultist: {
+		Name: Azote Espectral
+		Description: Como si estas Lunas de Sangre tan raras no fueran suficiente, ¡un nuevo nigromante ha tomado control de una horda de zombis! El fenómeno de circo sigue invocando zombis y seguramente arrasará nuestro pueblo si no hacemos nada. Si ves uno, elimínalo de inmediato, ¿me oyes?
+	}
+
+	SlayerQuestScreechOwls: {
+		Name: Gritos Cacofónicos
+		Description: Me gusta pensar que soy un amante de los animales, ¿sabes? ¡Me encantan los perros, los gatos, y especialmente los conejitos! Excepto esa bestia horripilante... Adivinaste, hablo de los Autillos Chillones nevados. ¡Esas cosas son aterradoras! Cada noche oigo sus chillidos resonar desde la tundra nevada. ¡Arruina mi sueño! ¿Podrías deshacerte de algunos por mí?
+	}
+
+	SlayerQuestUGDesert: {
+		Name: Ir Más Profundo
+		Description: ¡Necesitamos ir más profundo! Así es, más profundo en el desierto para matar a esos terrores molestos que viven allá abajo. Le han hecho la espeleología muy difícil a algunos mineros locales, ¡y necesito que ayudes a despejarles el camino!
+	}
+
+	SlayerQuestValkyrie: {
+		Name: El Combate de las Valquirias
+		Description: ¿Alguna vez has estado lo bastante alto como para que esas arpías exasperantes te disparen? Bueno, para empeorar las cosas, ¡he oído relatos de una arpía vestida con armadura y armas! Estoy seguro de que puedes con ella. Hemos empezado a llamarla Valquiria, ¡pero no vayas a unirte al más allá cuando la enfrentes!
+	}
+
+	SlayerQuestVultureMatriarch: {
+		Name: La Progenitora
+		Description: Desde que te encargaste de esa muralla de carne gigante, el mundo se ha vuelto mucho más aterrador, muchacho. Necesitamos evaluar nuestra situación y seguir luchando pase lo que pase. Un par de vagabundos dijeron que vieron a un buitre gigante durmiendo en el desierto hace unos días. Ve a revisar y asegúrate de que las arenas del desierto sigan seguras.
+	}
+
+	StrangeSeas: {
+		Name: Mares Extraños
+		Description: La mítica Perla Rompe-Mares... he estado oyendo rumores de que ha estado apareciendo recientemente. Es uno de los tesoros más raros que existen, pero es casi como si tuviera mente propia y quisiera ser encontrada. Siento que algo más profundo y siniestro está detrás de esto. Deberíamos encontrar la perla y llegar al fondo de este misterio lo antes posible.
+		Objective: Mata al extraño monstruo que controla la Marea
+	}
+
+	StylistQuestSeafoam: {
+		Name: Búsqueda de Tinte - Espuma de Mar
+		Description: ¡Si no es mi cliente favorito! Tengo un trabajo para ti, y no es cortar cabello. ¡Necesito unos materiales raros para expandir mi colección de tintes cuanto antes! Me encanta el estilo del Comerciante de Tintes, pero sus tintes no me convencen. ¿Podrías empezar cazando Mandrágoras Marinas? Tienen este saco especial que sería maravilloso tener. ¡Eres el mejor!
+		ReturnTo: Devuélvele el Saco Luminoso a la Estilista
+		Dialogue: ¡Volviste entero! Me alegra que no hayas 'muerto' tratando de conseguir el material. Entiendes, ¿no? Ya que 'teñir' y 'morir' suenan parecido. En fin, este saco de tinta es muy bonito- ¡podré sintetizar un tinte de cabello que resalte la brisa del océano en ti! ¿Soy genial o qué? ¡Ven a verme cuando quieras probar este nuevo tinte o cualquier otra cosa para lucir más glamoroso!
+	}
+
+	UnidentifiedFloatingObjects: {
+		Name: OFNI
+		Description: Dejé de beber hace años, pero juro que el cielo se ha iluminado de forma feroz últimamente. He investigado un poco y creo que los cielos podrían albergar enjambres místicos de medusas. Las únicas 'pruebas' que tengo vienen de fuentes, eh, de mala reputación, ¡pero sé que cuento contigo para revisarlo! Y atrápame la más sabrosa- digo, ¡la más interesante!
+		Objective: la extraña Marea de Medusas
+	}
+}

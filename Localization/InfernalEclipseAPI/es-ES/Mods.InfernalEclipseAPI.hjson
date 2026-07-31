@@ -423,7 +423,7 @@ ItemTooltip: {
 		'''
 	FortressGenerator:
 		'''
-		Aumenta el máximo de esbirros y centinelas en 1
+		Aumenta el máximo de súbditos y centinelas en 1
 		Genera 4 plataformas a tu izquierda y derecha
 		Puedes usar clic derecho para arrastrar las plataformas, pero siempre permanecerán simétricas
 		Los centinelas pueden ser invocados sobre las plataformas
@@ -512,7 +512,7 @@ ItemTooltip: {
 		Nerf: Aumenta la velocidad de ataque de vacío en un 25% y el daño cuerpo a cuerpo en un 5%
 	}
 
-	Oneirophobia: Se convierte en un esbirro sintetizador consciente cuando está guardado, atacando a los enemigos
+	Oneirophobia: Se convierte en un súbdito sintetizador consciente cuando está guardado, atacando a los enemigos
 	PlagueLordFlask:
 		'''
 		15% de aumento en el daño arrojadizo
@@ -635,7 +635,7 @@ ItemTooltip: {
 			'''
 		HypersonicTooltip: '''"¡Canaliza el poder de sonidos más allá del rango auditivo!"'''
 		4DTooltip: '''"Sonido capaz de crear agujeros de gusano a otros mundos"'''
-		CrystalScorpian: Los ataques de esbirros tienen un 15% de probabilidad de producir un escorpión de cristal e infligir 3 de daño adicional mientras el escorpión esté activo
+		CrystalScorpian: Los ataques de súbditos tienen un 15% de probabilidad de producir un escorpión de cristal e infligir 3 de daño adicional mientras el escorpión esté activo
 		Skull:
 			'''
 			Los enemigos golpeados por las puntas de los látigos de invocador reciben {0}% de daño extra, quedan malditos, y generan hasta [c/{1}:{2}] espíritus
@@ -710,8 +710,8 @@ ItemTooltip: {
 		}
 
 		ScytheScale: Crece en poder hasta la caída del Devourer
-		ScytheSummon: Tiene daño reducido si hay algún esbirro activo
-		ScytheSummonOn: Daño reducido mientras hay esbirros activos
+		ScytheSummon: Tiene daño reducido si hay algún súbdito activo
+		ScytheSummonOn: Daño reducido mientras hay súbditos activos
 		OneirophobiaSummon: Mantén clic derecho para invocar al Instrumento Lúcido para que luche por ti
 		SoulEssence: Gana esencia de alma rápidamente
 		Magneto: Aumenta el rango de recolección de objetos pícaros en el suelo
@@ -1977,8 +1977,8 @@ Items: {
 			10% de aumento en la velocidad de movimiento y 4% de aumento en la probabilidad de golpe crítico
 			Aumenta todo el daño en 4 y la penetración de armadura en 5
 			Los golpes críticos con flechas incendian brevemente a los enemigos con llama sombría
-			+3.5 PV/s de regeneración de vida y +2 esbirros máximos
-			Mayor retroceso de esbirros y caída de monedas
+			+3.5 PV/s de regeneración de vida y +2 súbditos máximos
+			Mayor retroceso de súbditos y caída de monedas
 			Otorga varias mejoras a medida que avanza el día
 			    Durante el día, otorga +2 PV/s de regeneración de vida
 			    Durante la noche, otorga +20 de defensa
@@ -2342,16 +2342,16 @@ Items: {
 				5 de daño de marca de invocación
 				Cada tercer golpe hará que el látigo se extienda hacia afuera, infligiendo 1.5x de daño
 				Inflige el efecto negativo [iebuff:InfernalEclipseAPI/SoulBurn3] para incinerar enemigos
-				¡Los esbirros que toquen el látigo se incendiarán!
-				Los esbirros incendiados infligen 1.05x de daño e infligen [iebuff:OnFire3]
+				¡Los súbditos que toquen el látigo se incendiarán!
+				Los súbditos incendiados infligen 1.05x de daño e infligen [iebuff:OnFire3]
 				'''
 			Plantera:
 				'''
 				7 de daño de marca de invocación
 				Cada tercer golpe hará que el látigo se extienda hacia afuera, infligiendo 1.5x de daño
 				Inflige el efecto negativo [iebuff:InfernalEclipseAPI/SoulBurn4] para incinerar enemigos
-				¡Los esbirros que toquen el látigo se incendiarán!
-				Los esbirros incendiados infligen 1.1x de daño e infligen [iebuff:OnFire3]
+				¡Los súbditos que toquen el látigo se incendiarán!
+				Los súbditos incendiados infligen 1.1x de daño e infligen [iebuff:OnFire3]
 				Presiona {0} para liberar una ola de fuego con un tiempo de reutilización de 1 minuto
 				'''
 			Golem:
@@ -2359,8 +2359,8 @@ Items: {
 				10 de daño de marca de invocación
 				Cada tercer golpe hará que el látigo se extienda hacia afuera, infligiendo 1.5x de daño
 				Inflige el efecto negativo [iebuff:InfernalEclipseAPI/SoulBurn5] para incinerar enemigos
-				¡Los esbirros que toquen el látigo se incendiarán!
-				Los esbirros incendiados infligen 1.15x de daño e infligen [iebuff:CalamityMod/BrimstoneFlames]
+				¡Los súbditos que toquen el látigo se incendiarán!
+				Los súbditos incendiados infligen 1.15x de daño e infligen [iebuff:CalamityMod/BrimstoneFlames]
 				Presiona {0} para liberar una ola de fuego con un tiempo de reutilización de 1 minuto
 				El primer enemigo golpeado en cada golpe otorgará al usuario una carga de [iebuff:InfernalEclipseAPI/HotHands]
 				'''
@@ -2369,8 +2369,8 @@ Items: {
 				12 de daño de marca de invocación
 				Cada tercer golpe hará que el látigo se extienda hacia afuera, infligiendo 1.5x de daño
 				Inflige el efecto negativo [iebuff:InfernalEclipseAPI/SoulBurn6] para incinerar enemigos
-				¡Los esbirros que toquen el látigo se incendiarán!
-				Los esbirros incendiados infligen 1.2x de daño e infligen [iebuff:CalamityMod/BrimstoneFlames]
+				¡Los súbditos que toquen el látigo se incendiarán!
+				Los súbditos incendiados infligen 1.2x de daño e infligen [iebuff:CalamityMod/BrimstoneFlames]
 				Presiona {0} para liberar una ola de fuego con un tiempo de reutilización de 1 minuto
 				El primer enemigo golpeado en cada golpe otorgará al usuario una carga de [iebuff:InfernalEclipseAPI/HotHands2]
 				'''
@@ -2379,8 +2379,8 @@ Items: {
 				20 de daño de marca de invocación
 				Cada tercer golpe hará que el látigo se extienda hacia afuera, infligiendo 1.5x de daño
 				Inflige el efecto negativo [iebuff:InfernalEclipseAPI/SoulBurn7] para incinerar enemigos
-				¡Los esbirros que toquen el látigo se incendiarán!
-				Los esbirros incendiados infligen 1.35x de daño e infligen tanto [iebuff:CalamityMod/BrimstoneFlames] como [iebuff:CalamityMod/StaticDischarge]
+				¡Los súbditos que toquen el látigo se incendiarán!
+				Los súbditos incendiados infligen 1.35x de daño e infligen tanto [iebuff:CalamityMod/BrimstoneFlames] como [iebuff:CalamityMod/StaticDischarge]
 				Presiona {0} para liberar una ola de fuego con un tiempo de reutilización de 1 minuto
 				El primer enemigo golpeado en cada golpe otorgará al usuario una carga de [iebuff:InfernalEclipseAPI/HotHands2]
 				'''
@@ -2491,8 +2491,8 @@ DiaryTooltip:
 	'''
 BullyingTooltip:
 	'''
-	Aumenta la mayoría del daño que no es de invocación en un 2% por cada ranura de esbirro no usada.
-	Reduce el daño de invocación en un 10% por cada ranura de esbirro usada.
+	Aumenta la mayoría del daño que no es de invocación en un 2% por cada ranura de súbdito no usada.
+	Reduce el daño de invocación en un 10% por cada ranura de súbdito usada.
 	Los látigos ahora escalan con tus bonos cuerpo a cuerpo en lugar de bonos de invocador
 	Aumenta el daño de látigo en un 25%, y el rango de látigo en un 50%
 	[c/E3AF40:Una nota de papel con un microchip pegado, diseñada por Dylan]

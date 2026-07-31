@@ -3392,7 +3392,7 @@ Mods: {
 
 			PatchLeatherHat: {
 				DisplayName: Sombrero de Cuero Remendado
-				Tooltip: Aumenta el máximo de esbirros en 1
+				Tooltip: Aumenta el máximo de súbditos en 1
 				SetBonus: Invoca una bandada de serpientes voladoras para ayudar en combate
 			}
 
@@ -4238,7 +4238,7 @@ Mods: {
 				DisplayName: Generador de Fortaleza
 				Tooltip:
 					'''
-					Aumenta el máximo de esbirros y centinelas en 1
+					Aumenta el máximo de súbditos y centinelas en 1
 					Aumenta el daño en 10% y la regeneración de vida en 2
 					Genera 4 plataformas a tu izquierda y derecha
 					Puedes hacer clic derecho para arrastrar las plataformas, pero siempre permanecerán simétricas
@@ -5309,7 +5309,7 @@ Mods: {
 					'''
 					Aumenta el daño cuerpo a cuerpo, de invocación y de vacío en un 15%
 					Aumenta la ganancia de vacío en 3 y el vacío máximo en 100
-					Aumenta el máximo de esbirros en 2
+					Aumenta el máximo de súbditos en 2
 					'''
 				SetBonus:
 					'''
@@ -5355,7 +5355,7 @@ Mods: {
 				DisplayName: Látigo de Latón
 				Tooltip:
 					'''
-					Los esbirros hacen que los enemigos marcados exploten en bolas puntiagudas que causan 50% del daño del esbirro
+					Los súbditos hacen que los enemigos marcados exploten en bolas puntiagudas que causan 50% del daño del súbdito
 					Tus invocaciones se centrarán en los enemigos golpeados
 					'''
 			}
@@ -5417,7 +5417,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aumenta la regeneración de vida en 1 durante la noche
-					Adjunta una Serpiente Venenosa a todos los esbirros
+					Adjunta una Serpiente Venenosa a todos los súbditos
 					'''
 			}
 
@@ -5740,7 +5740,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aumenta la ganancia de vacío en 1 durante la noche
-					Adjunta una Pequeña Desdicha a todos los esbirros
+					Adjunta una Pequeña Desdicha a todos los súbditos
 					'''
 			}
 
@@ -7941,7 +7941,7 @@ Mods: {
 			PharaohsCurse:
 				'''
 				Se había resignado a escapar de la Pirámide, pues por más que quisiera propagarse, la Pirámide la mantenía atrapada.
-				Decidió dormir. Con el tiempo, la pirámide se erosionaría, y los esbirros lograrían cavar su salida.
+				Decidió dormir. Con el tiempo, la pirámide se erosionaría, y los súbditos lograrían cavar su salida.
 				Qué agradable sería si alguien pudiera abrir la puerta a la fuerza. Eso sí sería conveniente, pensó.
 				'''
 			Advisor:
@@ -8044,7 +8044,7 @@ Mods: {
 
 		VisionAmuletTextList: {
 			0: Reduce el daño recibido en un 10%
-			1: Aumenta el máximo de esbirros y centinelas en 1
+			1: Aumenta el máximo de súbditos y centinelas en 1
 			2: Aumenta la velocidad de ataque en un 12%
 			3: Aumenta la probabilidad de golpe crítico en un 10%
 			4: Aumenta el daño crítico en un 30%
