@@ -70,7 +70,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
-| Progression Journal | ✅ | v2.1.6
+| Progression Journal | ✅ | v2.1.8
 | Quality of Terraria | ✅ | v1.8.2
 | LuiAFK Reborn | ✅ | v1.2.5
 | Revengeance+ | ✅ | v0.6.1
