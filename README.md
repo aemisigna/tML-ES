@@ -62,8 +62,8 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity's Vanities | ✅ | v11.4.1
 | Calamity: Hunt of the Old God | ✅ | v1.2.3
 | Secrets of the Shadows | ✅ | v0.25.1.9
-| Thorium Mod | ✅ | v1.7.2.6
-| Ragnarok | ✅ | v1.6.0.5
+| Thorium Mod | ✅ | v1.7.2.8
+| Ragnarok | ✅ | v1.6.0.7
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
@@ -80,12 +80,16 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity Simple Whip Addon | ✅ | v1.15.12
 | Calamity: War Machine Invasion | ✅ | v0.1.6.1
 | Enchanted Moons | ✅ | v2.0.2.2
-| Thorium Helheim | ✅ | v1.5.10
+| Thorium Helheim | ✅ | v1.6.0
 | Consolaria | ✅ | v2.2.3
-| Unofficial Calamity Bard & Healer | ✅ | v0.13.6
-| Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.1
+| Unofficial Calamity Bard & Healer | ✅ | v0.13.7
+| Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.2
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
 | Infernal Arsenal Mod | ✅ | v1.6.0.3
+| Weather Totems | ✅ | v1.0.3
+| Fisherman NPC | ✅ | v0.2.10
+| Useful NPCs | ✅ | v3.0.4
+| The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
 ---
 
 ## Comunidad
