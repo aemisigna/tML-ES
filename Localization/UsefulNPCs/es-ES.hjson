@@ -1,0 +1,493 @@
+Mods: {
+	UsefulNPCs: {
+		Configs: {
+			UsefulConfig: {
+				dealer: {
+					Label: Activa al Traficante, un PNJ que vende objetos del Mercader Ambulante, el Mercader Esquelético y Papá Noel
+					Tooltip: ""
+				}
+
+				builder: {
+					Label: Activa al Constructor, un PNJ que vende varios bloques de construcción
+					Tooltip: ""
+				}
+
+				hephaestus: {
+					Label: Activa a Hefesto, un PNJ que vende varios minerales, gemas y tesoros
+					Tooltip: ""
+				}
+
+				alchemist: {
+					Label: Activa al Alquimista, un PNJ que vende varias pociones e ingredientes para pociones
+					Tooltip: ""
+				}
+
+				martian: {
+					Label: Activa al Marciano, un PNJ que vende monturas, llaves de bioma y objetos del modo experto
+					Tooltip: ""
+				}
+
+				oldChampion: {
+					Label: Activa al Viejo Campeón, un PNJ que vende invocadores para jefes, minijefes, enemigos raros y objetos raros
+					Tooltip: ""
+				}
+
+				shootingStar: {
+					Label: Activa a Estrella Fugaz, un PNJ que vende varias cajas de música
+					Tooltip: ""
+				}
+
+				DisplayName: Configuración de Useful PNJ
+			}
+		}
+
+		Items: {
+			AstronautsHelmet: {
+				DisplayName: Casco de Astronauta
+				Tooltip: Para todos los PNJs conceptuales que no lo lograron
+			}
+
+			Calcium: {
+				DisplayName: Calcio
+				Tooltip:
+					'''
+					"Bueno para tus huesos"
+					Invoca al guardián de la mazmorra de día
+					Invoca a Skeletron de noche
+					'''
+			}
+
+			PlanteraBulb: {
+				DisplayName: Bulbo de Plantera
+				Tooltip:
+					'''
+					"Huele fatal"
+					Invoca a Plantera
+					'''
+			}
+
+			MartianProbe: {
+				DisplayName: Llamador Marciano
+				Tooltip: Invoca marcianos
+			}
+
+			AdventurersGlasses: {
+				DisplayName: Gafas del Aventurero
+				Tooltip:
+					'''
+					"Lamentablemente están rotas"
+					Invoca al Doctor Látigo
+					'''
+			}
+
+			BoneLeesBelt: {
+				DisplayName: Cinturón de Hueso Lee
+				Tooltip:
+					'''
+					"El símbolo de su maestría"
+					Invoca a Hueso Lee
+					'''
+			}
+
+			BurningCore: {
+				DisplayName: Núcleo Ardiente
+				Tooltip:
+					'''
+					"Caliente al tacto"
+					Invoca al elemental de arena
+					'''
+			}
+
+			EmptyChest: {
+				DisplayName: Cofre Vacío
+				Tooltip:
+					'''
+					"Es un señuelo"
+					Invoca a un cofre falso
+					'''
+			}
+
+			FakeRocketLauncher: {
+				DisplayName: Lanzacohetes Falso
+				Tooltip:
+					'''
+					"Es solo un juguete"
+					Invoca al esqueleto comando
+					'''
+			}
+
+			FakeSniperRifle: {
+				DisplayName: Rifle de Francotirador Falso
+				Tooltip:
+					'''
+					"Es solo un juguete"
+					Invoca al esqueleto francotirador
+					'''
+			}
+
+			FakeTacticalShotgun: {
+				DisplayName: Escopeta Táctica Falsa
+				Tooltip:
+					'''
+					"Es solo un juguete"
+					Invoca al esqueleto táctico
+					'''
+			}
+
+			FrozenCore: {
+				DisplayName: Núcleo Congelado
+				Tooltip:
+					'''
+					"Frío al tacto"
+					Invoca al gólem de hielo
+					'''
+			}
+
+			MagicHat: {
+				DisplayName: Sombrero Mágico
+				Tooltip:
+					'''
+					"Aumenta el daño mágico en un 0%"
+					Invoca a Tim
+					'''
+			}
+
+			MagicSingularity: {
+				DisplayName: Singularidad Mágica
+				Tooltip:
+					'''
+					"Atrae magia muy poderosa"
+					Invoca al mago rúnico
+					'''
+			}
+
+			MissingPoster: {
+				DisplayName: Cartel de Desaparecida
+				Tooltip:
+					'''
+					"¿Dónde está ella?"
+					Invoca a la niña perdida
+					'''
+			}
+
+			MothPheromone: {
+				DisplayName: Feromona de Polilla
+				Tooltip:
+					'''
+					"Atrae polillas"
+					Invoca a una polilla
+					'''
+			}
+
+			PaladinSymbol: {
+				DisplayName: Símbolo del Paladín
+				Tooltip:
+					'''
+					"Un símbolo sagrado"
+					Invoca al paladín
+					'''
+			}
+
+			PinkJelly: {
+				DisplayName: Gelatina Rosa
+				Tooltip:
+					'''
+					"¡Parece deliciosa!"
+					Invoca al slime rosa
+					'''
+			}
+
+			RainbowJelly: {
+				DisplayName: Gelatina Arcoíris
+				Tooltip:
+					'''
+					"¡Parece deliciosa!"
+					Invoca al slime arcoíris
+					'''
+			}
+
+			ScoutEmblem: {
+				DisplayName: Emblema de Explorador
+				Tooltip:
+					'''
+					"Huele fatal"
+					Invoca al duende explorador
+					'''
+			}
+
+			StickyKey: {
+				DisplayName: Llave Pegajosa
+				Tooltip:
+					'''
+					"No sirve para abrir cofres"
+					Invoca al slime de la mazmorra
+					'''
+			}
+		}
+
+		NPCs: {
+			Alchemist: {
+				DisplayName: Alquimista
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			Builder: {
+				DisplayName: Constructor
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Builder.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Builder.HateCrowded}"
+					LoveBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LoveBiome}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			Dealer: {
+				DisplayName: Traficante
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			Hephaestus: {
+				DisplayName: Hefesto
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.HateCrowded}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			Martian: {
+				DisplayName: Marciano
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Martian.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Martian.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			OldChampion: {
+				DisplayName: Viejo Campeón
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+
+			ShootingStar: {
+				DisplayName: Estrella Fugaz
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.HateCrowded}"
+					LoveBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveBiome}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeNPC_Princess}"
+					Princess_LovesNPC: Me cae bien {NPCName}.
+				}
+			}
+		}
+
+		TownNPCMood: {
+			Alchemist: {
+				Content: Estoy bien.
+				NoHome: Necesito un lugar donde guardar mis pociones.
+				FarFromHome: ¡No puedo hacer negocios tan lejos de casa!
+				DislikeCrowded: Hay bastante ruido por aquí...
+				HateCrowded: ¡No puedo concentrarme en mis pociones por culpa del ruido!
+				LoveSpace: Se está tranquilo por aquí, me gusta.
+				LikeBiome: ¡{BiomeName} es un gran lugar para cultivar hierbas!
+				LoveBiome: Me encanta {BiomeName}.
+				DislikeBiome: No creo que pueda cultivar buenas hierbas en {BiomeName}.
+				HateBiome: ¡Es demasiado peligroso hacer nada aquí en {BiomeName}!
+				LikeNPC: Me gusta que {NPCName} esté siempre tan relajado.
+				LoveNPC: Amo a {NPCName}.
+				DislikeNPC: No me cae bien {NPCName}.
+				HateNPC: Odio de verdad que {NPCName} siempre quiera pelear con todo el mundo.
+				LikeNPC_Princess: "{NPCName} tiene mano para las plantas. Me cae bien."
+			}
+
+			Builder: {
+				Content: Estoy bien por ahora.
+				NoHome: No puedo construir nada sin un hogar.
+				FarFromHome: Necesito mi equipo para poder hacer algo.
+				DislikeCrowded: ¿No necesitas construir casas nuevas con tanta gente por aquí?
+				HateCrowded: Sé que hago algo de ruido, pero esto es demasiado.
+				LoveSpace: ¡Aquí no tengo que preocuparme por hacer ruido!
+				LikeBiome: "{BiomeName} es un gran lugar para recolectar mármol."
+				LoveBiome: ¡{BiomeName} me inspira un millón de ideas!
+				DislikeBiome: No me gusta mucho que {BiomeName} sea solo arcoíris y nada de prudencia.
+				HateBiome: Dije que puedo construir en cualquier lugar, pero {BiomeName} está fuera de mis límites.
+				LikeNPC: Me gusta que {NPCName} no tenga miedo de decir lo que piensa.
+				LoveNPC: Amo a {NPCName}.
+				DislikeNPC: "{NPCName} cree que la arquitectura no es una forma de arte. Creo que esa cosa no tiene ningún aprecio por el arte."
+				HateNPC: Odio a {NPCName}.
+				LikeNPC_Princess: ¡Visité el palacio de {NPCName} y era precioso!
+			}
+
+			Dealer: {
+				Content: Estoy bien.
+				NoHome: Necesito un lugar donde asentarme.
+				FarFromHome: Esto me recuerda a los malos tiempos cuando estaba varado.
+				DislikeCrowded: La gente está empezando a preguntarse cómo conseguí mi mercancía...
+				HateCrowded: ¡Creo que me podrían pillar con tanta gente alrededor!
+				LoveSpace: No hay mucha gente cerca para preguntarme nada. Me gusta esto.
+				LikeBiome: "{BiomeName} es un gran lugar para esconderse. La mercancía Y yo."
+				LoveBiome: Me encanta {BiomeName}.
+				DislikeBiome: No puedo reabastecer mi mercancía en {BiomeName}. ¡Demasiado a la vista para hacer negocios!
+				HateBiome: Estoy a favor del riesgo y la recompensa, pero {BiomeName} es solo riesgo.
+				LikeNPC: ¿Alguna vez has hablado con {NPCName}? Es un capo.
+				LoveNPC: ¿Crees que {NPCName} también piensa en mí?
+				DislikeNPC: No me cae bien {NPCName}.
+				HateNPC: ¿Puedes decirle a {NPCName} que se largue? Los dos sabemos que solo uno de nosotros puede conquistarla, y no es él.
+				LikeNPC_Princess: "{NPCName} es la única persona que no me pregunta cómo conseguí todo esto."
+			}
+
+			Hephaestus: {
+				Content: Estoy bien... siendo un dios y todo eso.
+				NoHome: Puede que sea un dios, pero aun así necesito un hogar.
+				FarFromHome: En realidad no me importa estar lejos de casa, pero la mecánica del juego dicta que debería odiar esto.
+				DislikeCrowded: No creo que la gente esté contenta por aquí.
+				HateCrowded: Eres bastante vago construyendo casas.
+				LoveSpace: La felicidad es importante, sí.
+				LikeBiome: Me gusta {BiomeName}.
+				LoveBiome: Me encanta {BiomeName}.
+				DislikeBiome: No me gusta {BiomeName}.
+				HateBiome: Es demasiado caótico por aquí. ¿No puedes mover mi casa?
+				LikeNPC: Me gusta {NPCName}.
+				LoveNPC: Amo a {NPCName}.
+				DislikeNPC: No me gusta {NPCName}.
+				HateNPC: Odio a {NPCName}.
+				LikeNPC_Princess: Tengo que caerle bien a {NPCName}, o esto se complicará mucho.
+			}
+
+			Martian: {
+				Content: Supongo que estoy bien.
+				NoHome: No puedo regresar, así que de verdad agradecería un hogar.
+				FarFromHome: ¿¿Me han abandonado otra vez?? ¡¿Ayuda!?
+				DislikeCrowded: No me gusta que la gente me mire fijamente.
+				HateCrowded: Creo que la gente está planeando echarme.
+				LoveSpace: Aquí no tengo que andar con pies de plomo.
+				LikeBiome: Este frío me recuerda de dónde vengo.
+				LoveBiome: Me encanta {BiomeName}.
+				DislikeBiome: ¡{BiomeName} es demasiado caluroso! ¿Cómo puede sobrevivir aquí alguna forma de vida?
+				HateBiome: Sé que hice algunas cosas cuestionables, pero ponerme aquí no es la solución.
+				LikeNPC: "{NPCName} es un espécimen interesante."
+				LoveNPC: ¿E-Es de verdad {NPCName}? ¿El hermano de mi dios? ¡Necesito hablar con él!
+				DislikeNPC: Pensé que {NPCName} estaba estudiando su conquista, pero solo estaba "protegiendo" la naturaleza. ¡Qué estupidez!
+				HateNPC: Odio a {NPCName}.
+				LikeNPC_Princess: La verdad es que no entiendo por qué le cae bien a la gente {NPCName}, pero supongo que tengo que fingir que me cae bien para encajar.
+			}
+
+			OldChampion: {
+				Content: Estoy bien.
+				NoHome: ¿Es que no sabes tratar a los mayores? ¡Dame un hogar!
+				FarFromHome: ¿Me estás diciendo que tengo que caminar hasta MI propia casa?
+				DislikeCrowded: Esta gente debería empezar a hablar de uno en uno.
+				HateCrowded: Si tu plan era dejarme sordo con este ruido, te equivocas.
+				LoveSpace: Se está tranquilo por aquí... así puedo hacer cosas de viejo.
+				LikeBiome: Ah, {BiomeName}, se siente de lo más natural.
+				LoveBiome: Me encanta {BiomeName}.
+				DislikeBiome: ¿Qué tontería es esto de {BiomeName}? ¿Quién hizo este tipo de bioma?
+				HateBiome: Habría pedido vivir aquí si tuviera 10 años menos, pero ya no.
+				LikeNPC: "{NPCName} es la única persona decente por aquí."
+				LoveNPC: Amo a {NPCName}.
+				DislikeNPC: Ese barbablanca de {NPCName} es tan cerrado de mente. ¡Sé de mente abierta como yo!
+				HateNPC: Estaba discutiendo con {NPCName} el otro día, y me respondió con un "OK, boomer". ¿Alguna idea de qué significa eso?
+				LikeNPC_Princess: "{NPCName} sabe de etiqueta. Debe de tener buenos padres."
+			}
+
+			ShootingStar: {
+				Content: (Parece estar demasiado concentrada en la música)
+				NoHome: Necesito un lugar donde escribir mis partituras.
+				FarFromHome: Pasé de ser una estrella fugaz a una estrella solitaria.
+				DislikeCrowded: Hoy vinieron 2 personas a decirme que bajara el volumen. Qué día tan triste.
+				HateCrowded: Una multitud no entendería a una música genial como yo.
+				LoveSpace: ¿Debería subir el volumen un poco más? Puede que la gente no lo escuche.
+				LikeBiome: Arcoíris... ¡Me hace pensar en algo genial!
+				LoveBiome: ¡{BiomeName} tiene una música tan genial!
+				DislikeBiome: ¡{BiomeName} está lleno de zumbidos! ¡No me gusta esto!
+				HateBiome: Me gusta la música de aquí, pero no la he terminado.
+				LikeNPC: Esa {NPCName} sí que sabe de buena música. Hasta podría decir que es "de otro mundo"
+				LoveNPC: Oye, ¿puedes preguntarle a {NPCName} cómo puede hacer una canción tan buena?
+				DislikeNPC: No me cae bien {NPCName}.
+				HateNPC: "{NPCName} me dijo una vez que mi música SIN terminar es una porquería. ¿Sabes qué? ¡Sus edificios TERMINADOS también son una porquería!"
+				LikeNPC_Princess: "{NPCName} es una cantante estupenda con una entonación perfecta. Y ritmo. Y expresión. Y en general, una gran persona."
+			}
+		}
+	}
+}

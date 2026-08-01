@@ -460,15 +460,18 @@ Projectiles: {
 	BlackHole.DisplayName: Agujero Negro
 	BubbleBomb.DisplayName: Gran Bomba de Burbuja
 	BubbleColumn.DisplayName: Columna de Burbujas
+	BuriedArrowE.DisplayName: Flecha
 	ChampionBomber.DisplayName: Estallido Mágico
 	ChampionBomberF.DisplayName: Estallido Mágico
 	ChampionShield.DisplayName: Réplica del Campeón
 	ChampionSlash.DisplayName: Espada Veloz del Campeón
 	ChampionSlice.DisplayName: Descarga Enterrada
 	ChampionSliceF.DisplayName: Descarga Enterrada
+	ChampionsDagger.DisplayName: Daga Enterrada
 	ChampionsRebuttal.DisplayName: Réplica del Campeón
 	ChampionsSwiftBlade.DisplayName: Espada Veloz del Campeón
 	ChampionsSwiftBladeClone.DisplayName: Espada Veloz del Campeón
+	ChampionsSwiftBladeCloneH.DisplayName: Espada Veloz del Campeón
 	ChampionsTrifectaShot.DisplayName: Disparo Trifecta del Campeón
 	ChampionWarHorn.DisplayName: Cuerno de Guerra del Campeón
 	ChironsCure.DisplayName: Cura de Chirón
@@ -496,6 +499,7 @@ Projectiles: {
 	EradicationRay.DisplayName: Rayo de Erradicación
 	EraserLaser.DisplayName: Láser Borrador
 	ExtinctionRay.DisplayName: Rayo de Extinción
+	FallingSand.DisplayName: Trozo de Fulgurita Cayendo
 	FalseBeholder.DisplayName: Observador Falso
 	FalseSun.DisplayName: Sol Falso
 	FlareSlash.DisplayName: Corte de Bengala
@@ -616,7 +620,6 @@ Projectiles: {
 	VoidEyeF.DisplayName: Voluntad de Coznix
 	ZephyrFeather.DisplayName: Pluma de Céfiro
 	ZephyrsRuin.DisplayName: Ruina de Céfiro
-	FallingSand.DisplayName: Arena Cayendo
 }
 
 Items: {
@@ -699,6 +702,15 @@ Items: {
 			'''
 			Lanza pequeños devoradores de almas que enfurecen tras cierta distancia
 			Mientras están enfurecidos, atraviesan indefinidamente y pueden golpear al mismo objetivo varias veces
+			'''
+	}
+
+	DuelistSheath: {
+		DisplayName: Vaina del Duelista
+		Tooltip:
+			'''
+			Las espadas dan golpes críticos con {0}% de probabilidad si se sostienen sin usar durante {1} segundos
+			Recibir daño o dar un golpe crítico aumenta la velocidad de ataque cuerpo a cuerpo y la probabilidad de golpe crítico durante {1} segundos
 			'''
 	}
 
@@ -1453,8 +1465,12 @@ Configs: {
 				'''
 				Multiplica la velocidad de movimiento de los jefes de Thorium por esta cantidad
 				Limitado a 2x de velocidad, ya que más alto rompe a los jefes
-				1.35x es lo recomendado para Infernum
 				'''
+		}
+
+		sheathFix: {
+			Label: Correcciones y Mejoras de Vainas
+			Tooltip: Corrige algunas inconsistencias relacionadas con las vainas y permite que funcionen con más espadas
 		}
 
 		terraItemsFix: {

@@ -1,0 +1,45 @@
+Mods: {
+	WeatherTotems: {
+		Items: {
+			ClearSkyTotem: {
+				DisplayName: Clear Sky Totem
+				Tooltip: Used when you need to stop the rain.
+			}
+
+			RainDrizzleTotem: {
+				DisplayName: Rain Drizzle Totem
+				Tooltip: Causes drizzle.
+			}
+
+			RainMonsoonTotem: {
+				DisplayName: Rain Monsoon Totem
+				Tooltip: Causes monsoon.
+			}
+
+			StormTotem: {
+				DisplayName: Storm Totem
+				Tooltip: Makes the wind blow stronger, the rain drip more actively, and lightning strike more often.
+			}
+
+			SandStormTotem: {
+				DisplayName: Sandstorm Totem
+				Tooltip: Causes sandstorm.
+			}
+
+			WeatherLockTotem: {
+				DisplayName: Weather Lock Totem
+				Tooltip: The weather will stop changing on its own.
+			}
+
+			WeatherUnlockTotem: {
+				DisplayName: Weather Unlock Totem
+				Tooltip: The weather will continue to change on its own.
+			}
+
+			WindyDayTotem: {
+				DisplayName: Windy Day Totem
+				Tooltip: Your day will be windy.
+			}
+		}
+	}
+}

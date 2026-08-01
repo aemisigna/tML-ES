@@ -167,7 +167,7 @@ UI: {
 	AAModClassicLuckyPotionPotSource: Recipientes
 	AAModClassicLuckyPotionPotCondition: Puede caer raramente de macetas mientras llevas puesta la Camisa de la Suerte del Hombre de Rayas; la poción depende de la ubicación del recipiente
 	AAModClassicCarrotPlantSource: Planta de zanahoria
-	// AAModClassicCarrotPlantCondition: Grows naturally on surface grass in Hardmode; break the plant to obtain the carrot
+	AAModClassicCarrotPlantCondition: Brota de forma natural en la hierba de la superficie en Modo Difícil; rompe la planta para obtener la zanahoria
 	AAModClassicAnubisBookExchangeSource: Anubis el escriba legendario
 	AAModClassicAnubisBookExchangeCondition: Dale el libro "La vida y las aventuras épicas de Anubis el perro maravilloso" tras derrotar a Anubis
 	NpcSpawnOldOnesArmy: Ejército del Antiguo
@@ -294,6 +294,10 @@ Classes: {
 	Ranged: A distancia
 	Magic: Mágico
 	Summoner: Invocación
+	Rogue: Pícaro
+	Bard: Bardo
+	Healer: Sanador
+	Thrower: Lanzador
 }
 
 Stages: {

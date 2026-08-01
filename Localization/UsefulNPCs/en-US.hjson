@@ -1,0 +1,493 @@
+Mods: {
+	UsefulNPCs: {
+		Configs: {
+			UsefulConfig: {
+				dealer: {
+					Label: Enable dealer NPC that sells Items from traveling merchant, skeleton merchant and santa
+					Tooltip: ""
+				}
+
+				builder: {
+					Label: Enable builder NPC that sells various building blocks
+					Tooltip: ""
+				}
+
+				hephaestus: {
+					Label: Enable hephaestus NPC that sells various ores, gems and treasures
+					Tooltip: ""
+				}
+
+				alchemist: {
+					Label: Enable alchemist NPC that sells various potions and ingredients for potions
+					Tooltip: ""
+				}
+
+				martian: {
+					Label: Enable martian NPC that sells mounts, biome keys and expert drops
+					Tooltip: ""
+				}
+
+				oldChampion: {
+					Label: Enable old champion NPC that sells summons for bosses, minibosses and rare enemies and rare drops
+					Tooltip: ""
+				}
+
+				shootingStar: {
+					Label: Enable shooting star NPC that sells various music boxes
+					Tooltip: ""
+				}
+
+				DisplayName: Useful Config
+			}
+		}
+
+		Items: {
+			AstronautsHelmet: {
+				DisplayName: Astronaut's Helmet
+				Tooltip: For all the conceptual NPCs that didn't make it
+			}
+
+			Calcium: {
+				DisplayName: Calcium
+				Tooltip:
+					'''
+					"Good for your bones"
+					Summons dungeon guardian at day
+					Summons skeletron at night
+					'''
+			}
+
+			PlanteraBulb: {
+				DisplayName: Plantera Bulb
+				Tooltip:
+					'''
+					"Smells foul"
+					Summons plantera
+					'''
+			}
+
+			MartianProbe: {
+				DisplayName: Martian Caller
+				Tooltip: Summons martians
+			}
+
+			AdventurersGlasses: {
+				DisplayName: Adventurer's Glasses
+				Tooltip:
+					'''
+					"Sadly it's broken"
+					Summons Doctor Bones
+					'''
+			}
+
+			BoneLeesBelt: {
+				DisplayName: Bone Lee's Belt
+				Tooltip:
+					'''
+					"The token of his mastery"
+					Summons Bone Lee
+					'''
+			}
+
+			BurningCore: {
+				DisplayName: Burning Core
+				Tooltip:
+					'''
+					"Hot to touch"
+					Summons Sand Elemental
+					'''
+			}
+
+			EmptyChest: {
+				DisplayName: Empty Chest
+				Tooltip:
+					'''
+					"It's a decoy"
+					Summons Mimic
+					'''
+			}
+
+			FakeRocketLauncher: {
+				DisplayName: Fake Rocket Launcher
+				Tooltip:
+					'''
+					"It's just a toy"
+					Summons Skeleton Commando
+					'''
+			}
+
+			FakeSniperRifle: {
+				DisplayName: Fake Sniper Rifle
+				Tooltip:
+					'''
+					"It's just a toy"
+					Summons Skeleton Sniper
+					'''
+			}
+
+			FakeTacticalShotgun: {
+				DisplayName: Fake Tactical Shotgun
+				Tooltip:
+					'''
+					"It's just a toy"
+					Summons Tactical Skeleton
+					'''
+			}
+
+			FrozenCore: {
+				DisplayName: Frozen Core
+				Tooltip:
+					'''
+					"Cold to touch"
+					Summons Ice Golem
+					'''
+			}
+
+			MagicHat: {
+				DisplayName: Magic Hat
+				Tooltip:
+					'''
+					"Increases magic damage by 0%"
+					Summons Tim
+					'''
+			}
+
+			MagicSingularity: {
+				DisplayName: Magic Singularity
+				Tooltip:
+					'''
+					"Attracts very powerful magic"
+					Summons Rune Wizard
+					'''
+			}
+
+			MissingPoster: {
+				DisplayName: Missing Poster
+				Tooltip:
+					'''
+					"Where is she?"
+					Summons Lost Girl
+					'''
+			}
+
+			MothPheromone: {
+				DisplayName: Moth Pheromone
+				Tooltip:
+					'''
+					"Attarcts moth"
+					Summons Moth
+					'''
+			}
+
+			PaladinSymbol: {
+				DisplayName: Paladin Symbol
+				Tooltip:
+					'''
+					"A holy symbol"
+					Summons Paladin
+					'''
+			}
+
+			PinkJelly: {
+				DisplayName: Pink Jelly
+				Tooltip:
+					'''
+					"Looks tasty!"
+					Summons Pinky
+					'''
+			}
+
+			RainbowJelly: {
+				DisplayName: Rainbow Jelly
+				Tooltip:
+					'''
+					"Looks tasty!"
+					Summons Rainbow Slime
+					'''
+			}
+
+			ScoutEmblem: {
+				DisplayName: Scout Emblem
+				Tooltip:
+					'''
+					"Smells nasty"
+					Summons Goblin Scout
+					'''
+			}
+
+			StickyKey: {
+				DisplayName: Sticky Key
+				Tooltip:
+					'''
+					"Not for opening chests"
+					Summons Dungeon Slime
+					'''
+			}
+		}
+
+		NPCs: {
+			Alchemist: {
+				DisplayName: Alchemist
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Alchemist.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Builder: {
+				DisplayName: Builder
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Builder.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Builder.HateCrowded}"
+					LoveBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LoveBiome}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Builder.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Builder.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Dealer: {
+				DisplayName: Dealer
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Dealer.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Hephaestus: {
+				DisplayName: Hephaestus
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.HateCrowded}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Hephaestus.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Martian: {
+				DisplayName: Martian
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.Martian.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.Martian.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.Martian.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.Martian.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			OldChampion: {
+				DisplayName: Old Champion
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.HateCrowded}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeBiome}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeNPC}"
+					DislikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.DislikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.OldChampion.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			ShootingStar: {
+				DisplayName: Shooting Star
+
+				TownNPCMood: {
+					Content: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.Content}"
+					NoHome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.NoHome}"
+					FarFromHome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.FarFromHome}"
+					LoveSpace: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveSpace}"
+					DislikeCrowded: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.DislikeCrowded}"
+					HateCrowded: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.HateCrowded}"
+					LoveBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveBiome}"
+					LikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeBiome}"
+					DislikeBiome: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.DislikeBiome}"
+					LoveNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LoveNPC}"
+					LikeNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeNPC}"
+					HateNPC: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.HateNPC}"
+					LikeNPC_Princess: "{$Mods.UsefulNPCs.TownNPCMood.ShootingStar.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+		}
+
+		TownNPCMood: {
+			Alchemist: {
+				Content: I'm fine.
+				NoHome: I need someplace to store my potions.
+				FarFromHome: I can't do business this far from home!
+				DislikeCrowded: It's quite noisy around here...
+				HateCrowded: I can't concentrate on my potions because of the noises!
+				LoveSpace: It's quiet around here, I like it.
+				LikeBiome: "{BiomeName} is a great place to grow herbs!"
+				LoveBiome: I love {BiomeName}.
+				DislikeBiome: I don't think I can grow good herbs in {BiomeName}.
+				HateBiome: It's too dangerous here in {BiomeName} to do anyting!
+				LikeNPC: I like how {NPCName} is always so chill.
+				LoveNPC: I love {NPCName}.
+				DislikeNPC: I dislike {NPCName}.
+				HateNPC: I really hate how {NPCName} constantly wants to fight everyone.
+				LikeNPC_Princess: "{NPCName} is such a green thumb. I like her."
+			}
+
+			Builder: {
+				Content: I'm good right now.
+				NoHome: I can't build anything without a home.
+				FarFromHome: I need my equipments to do anything.
+				DislikeCrowded: Don't you need build new homes with this many people around?
+				HateCrowded: I know I make some noises, but this is too far.
+				LoveSpace: I don't have to worry about making noises here!
+				LikeBiome: "{BiomeName} is a great place to collect marbles."
+				LoveBiome: "{BiomeName} inspires me a million ideas!"
+				DislikeBiome: I don't really like how {BiomeName} is just rainbows and no prudence.
+				HateBiome: I said I can build anywhere, but {BiomeName} is off my limits.
+				LikeNPC: I like how {NPCName} isn't afraid to say anything he wants.
+				LoveNPC: I love {NPCName}.
+				DislikeNPC: "{NPCName} thinks architecture is not an art form. I think that thing has no appreciation for arts."
+				HateNPC: I hate {NPCName}.
+				LikeNPC_Princess: I visited {NPCName}'s palace and it was gorgeous!
+			}
+
+			Dealer: {
+				Content: I'm fine.
+				NoHome: I need a place to settle.
+				FarFromHome: This reminds me of bad times when I was stranded.
+				DislikeCrowded: People are starting to wonder about how I got my goods...
+				HateCrowded: I think I might be busted around this many people!
+				LoveSpace: There aren't many people around to ask me about anything. I like this.
+				LikeBiome: "{BiomeName} is a great place to hide. Goods AND myself."
+				LoveBiome: I love {BiomeName}.
+				DislikeBiome: I can't restock my goods in {BiomeName}. Too open to do business!
+				HateBiome: I'm all for risk and reward, but {BiomeName} is just risk.
+				LikeNPC: Have you ever talked with {NPCName}? He's just so rad.
+				LoveNPC: Do you think {NPCName} also thinks about me?
+				DislikeNPC: I dislike {NPCName}.
+				HateNPC: Can you tell {NPCName} to skidaddle? We both know only one of us can get her and it ain't him.
+				LikeNPC_Princess: "{NPCName} is the only person who doesn't ask me about how I got these."
+			}
+
+			Hephaestus: {
+				Content: I'm good... and god.
+				NoHome: I may be a god, but I still need a home.
+				FarFromHome: I don't really mind being far from home, but the game mechanic dictates that I should hate this.
+				DislikeCrowded: I don't think people are happy around here.
+				HateCrowded: You are pretty lazy about building houses.
+				LoveSpace: Happiness is important, yes.
+				LikeBiome: I like {BiomeName}.
+				LoveBiome: I love {BiomeName}.
+				DislikeBiome: I dislike {BiomeName}.
+				HateBiome: It's too hectic around here. Can't you move my house?
+				LikeNPC: I like {NPCName}.
+				LoveNPC: I love {NPCName}.
+				DislikeNPC: I dislike {NPCName}.
+				HateNPC: I hate {NPCName}.
+				LikeNPC_Princess: I have to like {NPCName}, or it'll get really complicated.
+			}
+
+			Martian: {
+				Content: I'm alright I guess.
+				NoHome: I can't go back, so I really would appreciate a home.
+				FarFromHome: Am i abandoned again?? Help!?
+				DislikeCrowded: I don't like how people stare at me.
+				HateCrowded: I think people are planning to throw me out.
+				LoveSpace: I don't have to walk on eggshells here.
+				LikeBiome: This cold reminds me where I came from.
+				LoveBiome: I love {BiomeName}.
+				DislikeBiome: "{BiomeName} is too hot! How can any kind of lifeform survive here?"
+				HateBiome: I know I did some questionable things, but putting me here is not the answer.
+				LikeNPC: "{NPCName} is an interesting specimen."
+				LoveNPC: I..Is that really {NPCName}? The brother of my god? I need to talk to him!
+				DislikeNPC: I thought {NPCName} was studying about her conquest, but she was just "protecting" the nature! How stupid!
+				HateNPC: I hate {NPCName}.
+				LikeNPC_Princess: I don't really get why people like {NPCName}, but I guess I have to like her to blend in.
+			}
+
+			OldChampion: {
+				Content: I'm fine.
+				NoHome: Don't you know how to treat elders? Give me a home!
+				FarFromHome: Are you saying I have to walk all the way to MY home?
+				DislikeCrowded: These people should start talking one at a time.
+				HateCrowded: If you planned to make me deaf from this noise, you are wrong.
+				LoveSpace: It's quite around here... so I can do old people things.
+				LikeBiome: Ah, {BiomeName}, just feels natural.
+				LoveBiome: I love {BiomeName}.
+				DislikeBiome: What is this {BiomeName} nonesense? Who made this kind of biome?
+				HateBiome: I would have asked to live here if I were 10 years younger, but not now.
+				LikeNPC: "{NPCName} is the only good person around here."
+				LoveNPC: I love {NPCName}.
+				DislikeNPC: That whitebeard {NPCName} is so close minded. Be open minded like me!
+				HateNPC: I was arguing with {NPCName} the other day, and he just responded with OK Boomer. Any idea what that means?
+				LikeNPC_Princess: "{NPCName} knows her etiquette. She must have good parents."
+			}
+
+			ShootingStar: {
+				Content: (She seems to be too focused on the music)
+				NoHome: I need a place to write my sheets.
+				FarFromHome: I became a lonely star from the shooting star.
+				DislikeCrowded: Today 2 people came and told me to lower the volume. This is a sad day.
+				HateCrowded: Crowd would not understand a genius musician like me.
+				LoveSpace: Should I raise the volume a little more? People might not hear it.
+				LikeBiome: Rainbows... Makes me think something cool!
+				LoveBiome: "{BiomeName} has such a cool music!"
+				DislikeBiome: "{BiomeName} is just full of buzzing. I don't like this!"
+				HateBiome: I like the music here, but I haven't finished it.
+				LikeNPC: That {NPCName} sure knows good music. I might even say, she's "otherworldly"
+				LoveNPC: Hey, can you ask {NPCName} how he can make such a jam?
+				DislikeNPC: I dislike {NPCName}.
+				HateNPC: "{NPCName} once told me my UNfinished music sucks. You know what? His FINISHED buildings suck too!"
+				LikeNPC_Princess: "{NPCName} is such a great singer with perfect pitch. And rhythm. And expression. And generally a great person."
+			}
+		}
+	}
+}

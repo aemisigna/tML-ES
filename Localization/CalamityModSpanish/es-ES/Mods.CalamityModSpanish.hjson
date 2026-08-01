@@ -231,6 +231,26 @@ Configs: {
 			Tooltip: Activa/Desactiva la traducción de Infernal Arsenal Mod.
 		}
 
+		WeatherTotemsLocalization: {
+			Label: Weather Totems
+			Tooltip: Activa/Desactiva la traducción de Weather Totems.
+		}
+
+		FishermanNPCLocalization: {
+			Label: Fisherman NPC
+			Tooltip: Activa/Desactiva la traducción de Fisherman NPC.
+		}
+
+		UsefulNPCsLocalization: {
+			Label: Useful NPCs
+			Tooltip: Activa/Desactiva la traducción de Useful NPCs.
+		}
+
+		AmuletOfManyMinionsLocalization: {
+			Label: The Amulet Of Many Minions
+			Tooltip: Activa/Desactiva la traducción de The Amulet Of Many Minions.
+		}
+
 		SplitLocalization: {
 			Label: Split Mod
 			Tooltip: Activa/Desactiva la traducción de Split Mod.

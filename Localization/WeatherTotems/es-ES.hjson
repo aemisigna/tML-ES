@@ -1,0 +1,45 @@
+Mods: {
+	WeatherTotems: {
+		Items: {
+			ClearSkyTotem: {
+				DisplayName: Tótem de Cielo Despejado
+				Tooltip: Se usa cuando necesitas detener la lluvia.
+			}
+
+			RainDrizzleTotem: {
+				DisplayName: Tótem de Llovizna
+				Tooltip: Causa llovizna.
+			}
+
+			RainMonsoonTotem: {
+				DisplayName: Tótem de Monzón
+				Tooltip: Causa un monzón.
+			}
+
+			StormTotem: {
+				DisplayName: Tótem de Tormenta
+				Tooltip: Hace que el viento sople más fuerte, que la lluvia caiga con más intensidad y que los rayos caigan con más frecuencia.
+			}
+
+			SandStormTotem: {
+				DisplayName: Tótem de Tormenta de Arena
+				Tooltip: Causa una tormenta de arena.
+			}
+
+			WeatherLockTotem: {
+				DisplayName: Tótem de Bloqueo del Clima
+				Tooltip: El clima dejará de cambiar por sí solo.
+			}
+
+			WeatherUnlockTotem: {
+				DisplayName: Tótem de Desbloqueo del Clima
+				Tooltip: El clima continuará cambiando por sí solo.
+			}
+
+			WindyDayTotem: {
+				DisplayName: Tótem de Día Ventoso
+				Tooltip: Tu día será ventoso.
+			}
+		}
+	}
+}

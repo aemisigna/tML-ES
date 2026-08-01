@@ -1,0 +1,2240 @@
+Mods: {
+	AmuletOfManyMinions: {
+		SummonSpecialCompressed: {
+			AbigailMinionItem: "{1} bloques de alcance de {$Mods.SummonersShine.Summon.RightClickSpecial}"
+			ImpMinionItem: "{1} bloques de radio de explosión de {$Mods.SummonersShine.Summon.RightClickSpecial}"
+		}
+
+		SummonSpecial: {
+			AbigailMinionItem:
+				'''
+				Cada invocación añade una Flor de Luto para acompañar a {$BuffName.AbigailMinion}
+				¡Presiona {$Mods.SummonersShine.Summon.RightclickSpecialUncompressed} para que tus Flores de Luto invoquen periódicamente volutas dañinas!
+				Las Flores de Luto pueden apuntar a enemigos dentro de {1} bloques
+				{$Mods.SummonersShine.Summon.RequiresEnergy}
+				'''
+			ImpMinionItem:
+				'''
+				¡{$Mods.SummonersShine.Summon.RightclickSpecialUncompressed} para que tus diablillos se concentren en un objetivo con bolas de fuego explosivas!
+				Las explosiones de las Bolas de Fuego Explosivas tienen un radio de {1} bloques
+				{$Mods.SummonersShine.Summon.RequiresEnergy}
+				'''
+			AdamantiteSquireMinionItem: ¡Mientras justa, el Escudero de Adamantita inflige {1}x de daño!
+			AncientCobaltSquireMinionItem: El Disparo Mágico viaja un {1}% de la distancia
+			ArmoredBoneSquireMinionItem: Genera volutas a una tasa del {1}%
+			BoneSquireMinionItem: La longitud del mangual es de {1} bloques
+			CrimsonSquireMinionItem: El {$BuffName.Ichor} de {$ItemName.IchorFlask} dura {1} segundos
+			DemonSquireMinionItem: Las Bolas de Fuego de Diablillo de la Habilidad Especial tienen un {1}% de velocidad
+		}
+
+		Items: {
+			AmuletOfManyMinions: {
+				DisplayName: Amuleto de Muchos Súbditos
+				Tooltip:
+					'''
+					{$CommonItemTooltip.IncreasesMaxMinionsBy}
+					Mejora enormemente el daño de invocación
+					{$Common.Tooltips.IncreasesMinionVarietyBonusBy@1}
+					'''
+			}
+
+			CharmOfManyMinions: {
+				DisplayName: Talismán de Muchos Súbditos
+				Tooltip:
+					'''
+					{$CommonItemTooltip.IncreasesMaxMinionsBy}
+					{$Common.Tooltips.IncreasesMinionVarietyBonusBy@1}
+					Cada súbdito inflige un poco menos de daño
+					'''
+			}
+
+			CharmOfMightyMinions: {
+				DisplayName: Talismán de Súbditos Poderosos
+				Tooltip:
+					'''
+					Aumenta enormemente el daño de invocación
+					{$Common.Tooltips.DecreasesMaxMinionsBy}
+					{$Common.Tooltips.DecreasesMinionVarietyBonusBy@1}
+					'''
+			}
+
+			CombatPetChaoticChewToy: {
+				DisplayName: Juguete Masticable Caótico
+				Tooltip: "{$Common.Tooltips.IncreasesCombatPetMovementSpeed}"
+			}
+
+			CombatPetCrimsonChewToy: {
+				DisplayName: Juguete Masticable Carmesí
+				Tooltip: "{$Common.Tooltips.IncreasesCombatPetMovementSpeed}"
+			}
+
+			CombatPetMightyTeamworkBow: {
+				DisplayName: Arco Poderoso del Trabajo en Equipo
+				Tooltip:
+					'''
+					Aumenta en {0} el número máximo de mascotas de combate,
+					pero disminuye en {1} el número máximo de súbditos que no son mascotas de combate
+					{$Common.Tooltips.IncreasesCombatPetMovementSpeed}
+					{$Common.Tooltips.IncreasesMinionDamage}
+					'''
+			}
+
+			CombatPetSpookyTeamworkBow: {
+				DisplayName: Arco Espeluznante del Trabajo en Equipo
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMaxCombatPetsBy}
+					{$Common.Tooltips.IncreasesCombatPetMovementSpeed}
+					{$Common.Tooltips.IncreasesMinionDamage}
+					'''
+			}
+
+			CombatPetStylishTeamworkBow: {
+				DisplayName: Arco Elegante del Trabajo en Equipo
+				Tooltip: "{$Common.Tooltips.IncreasesMaxCombatPetsBy}"
+			}
+
+			MinionCompass: {
+				DisplayName: Brújula de Guía de Súbditos
+				Tooltip: "{$Common.Tooltips.AllowsMinionAttackAroundCornersIn}"
+			}
+
+			MinionGPS: {
+				DisplayName: GPS de Guía de Súbditos
+				Tooltip: "{$Common.Tooltips.AllowsMinionAttackAroundCornersIn}"
+			}
+
+			SquireScope: {
+				DisplayName: Mira del Escudero
+				Tooltip:
+					'''
+					Aumenta el alcance de visión de los escuderos (clic derecho para alejar)
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy}
+					'''
+			}
+
+			SquireSkullAccessory: {
+				DisplayName: Colgante Necro
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesSquireDamageBy}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@1}
+					Invoca una calavera maldita que otorga un efecto negativo rotativo a los ataques del escudero
+					'''
+			}
+
+			SquireSpyglass: {
+				DisplayName: Catalejo del Escudero
+				Tooltip: "{$Common.Tooltips.IncreasesSquireTravelRangeBy}"
+			}
+
+			TechnoCharmAccessory: {
+				DisplayName: Colgante Tecno
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesSquireDamageBy}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@1}
+					Invoca una calavera mecánica que otorga un efecto negativo rotativo a los ataques del escudero
+					'''
+			}
+
+			VarietyCharm: {
+				DisplayName: Cofre de Muchos Súbditos
+				Tooltip: "{$Common.Tooltips.IncreasesMinionVarietyBonusBy}"
+			}
+
+			AridBreastplate: {
+				DisplayName: Peto Árido
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@1}
+					'''
+			}
+
+			AridHelmet: {
+				DisplayName: Casco Árido
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+				SetBonus:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					¡Un Rodador Furioso ayudará a tu escudero en combate!
+					'''
+			}
+
+			AridLeggings: {
+				DisplayName: Grebas Áridas
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+			}
+
+			FlinxFurHood: {
+				DisplayName: Capucha de Piel de Copito
+				Tooltip: ""
+				SetBonus: Otorga un súbdito Copito gratis
+			}
+
+			ForagerBreastplate: {
+				DisplayName: Peto de Moho
+				Tooltip: "{$Common.Tooltips.IncreasesMinionKnockbackByFlat}"
+			}
+
+			ForagerHelmet: {
+				DisplayName: Gorro de Moho
+				Tooltip: ""
+				SetBonus: Tus súbditos liberarán hongos dañinos al atacar
+			}
+
+			ForagerLeggings: {
+				DisplayName: Grebas de Moho
+				Tooltip: ""
+			}
+
+			GraniteChestguard: {
+				DisplayName: Coraza de Granito
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@1}
+					'''
+			}
+
+			GraniteGreaves: {
+				DisplayName: Grebas de Granito
+				# TODO "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+					'''
+			}
+
+			GraniteMask: {
+				DisplayName: Máscara de Granito
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@2}
+					'''
+				SetBonus:
+					'''
+					Te vuelves inmune después de golpear a un enemigo
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+			}
+
+			IllusionistCorruptHood: {
+				DisplayName: Capucha del Ilusionista
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+				SetBonus:
+					'''
+					{$CommonItemTooltip.IncreasesMaxMinionsBy}
+					¡Aparecerán volutas mientras tus súbditos causan daño!
+					'''
+			}
+
+			IllusionistCorruptLeggings: {
+				DisplayName: Grebas del Ilusionista
+				Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+			}
+
+			IllusionistCorruptRobe: {
+				DisplayName: Túnica del Ilusionista
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+			}
+
+			IllusionistCrimsonHood: {
+				DisplayName: Capucha del Ilusionista
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+			}
+
+			IllusionistCrimsonLeggings: {
+				DisplayName: Grebas del Ilusionista
+				Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+			}
+
+			IllusionistCrimsonRobe: {
+				DisplayName: Túnica del Ilusionista
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+			}
+
+			RoyalCrown: {
+				DisplayName: Corona Real
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@1}
+					"Se te cayó esto, rey."
+					'''
+				SetBonus: ¡Una corona flotante ayudará a tu escudero en combate!
+			}
+
+			RoyalGown: {
+				DisplayName: Vestido Real
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+			}
+
+			AdamantiteBicorn: {
+				DisplayName: Yelmo del Comandante de Adamantita
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+				SetBonus:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+			}
+
+			TitaniumCrown: {
+				DisplayName: Yelmo del Almirante de Titanio
+				Tooltip:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$CommonItemTooltip.IncreasesMaxMinionsBy@1}
+					'''
+				SetBonus:
+					'''
+					Te vuelves inmune después de golpear a un enemigo
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					'''
+			}
+
+			SpookyMask: {
+				DisplayName: Máscara Espeluznante
+				Tooltip: "{$Common.Tooltips.IncreasesMinionDamageBy}, pero disminuye el máximo de súbditos"
+				SetBonus:
+					'''
+					{$Common.Tooltips.IncreasesMinionDamageBy}
+					{$Common.Tooltips.IncreasesSquireTravelRangeBy@1}
+					{$Common.Tooltips.IncreasesSquireAttackSpeedBy@2}
+					Disminuye el máximo de súbditos
+					'''
+			}
+
+			CombatPetAncientFriendshipBow: {
+				DisplayName: Arco Antiguo de la Amistad
+				Tooltip: ¡Te otorga una mascota de combate especial a tu elección!
+			}
+
+			CombatPetFriendshipBow: {
+				DisplayName: Arco de la Amistad
+				Tooltip:
+					'''
+					¡Te otorga una mascota de combate especial según tu personalidad!
+					Tu entorno puede influir en el resultado...
+					'''
+			}
+
+			CombatPetTeamworkBow: {
+				DisplayName: Arco del Trabajo en Equipo
+				Tooltip:
+					'''
+					¡Invita a otra mascota de combate especial a tu equipo!
+					Siempre será diferente a la última mascota que se unió.
+					'''
+				FriendshipBowRequirement:
+					'''
+					Debes usar el Arco de la Amistad antes de usar este objeto.
+					¡Intenta buscar en cofres de madera cerca del punto de aparición!
+					'''
+			}
+
+			GraniteSpark: {
+				DisplayName: Chispa de Granito
+				Tooltip:
+					'''
+					Un fragmento de energía de un elemental de granito.
+					Se usa para crear herramientas que mejoran la IA de tus súbditos.
+					'''
+			}
+
+			GuideHair: {
+				DisplayName: Mechón de Cabello del Guía
+				Tooltip:
+					'''
+					Puede alcanzar un alto precio en el mercado negro,
+					entre otros propósitos siniestros
+					'''
+			}
+
+			InertCombatPetFriendshipBow: {
+				DisplayName: Arco de la Amistad Inerte
+				Tooltip:
+					'''
+					Un Arco de la Amistad que perdió sus poderes mágicos.
+					Puede restaurarse al combinarlo con ingredientes de varios biomas.
+					'''
+			}
+
+			BoneWaypointRod.DisplayName: Vara Esquelética de Guía de Súbditos
+			CrystalWaypointRod.DisplayName: Vara de Cristal de Guía de Súbditos
+			GraniteWaypointRod.DisplayName: Vara de Granito de Guía de Súbditos
+			HallowedWaypointRod.DisplayName: Vara Sagrada de Guía de Súbditos
+			TrueEyeWaypointRod.DisplayName: Ojo de Cthulhu de Visión de Súbditos
+			WoodenWaypointRod.DisplayName: Vara de Madera de Guía de Súbditos
+
+			AcornMinionItem: {
+				DisplayName: Bastón de Bellota
+				Tooltip: ¡Invoca una bellota alada para luchar por ti!
+			}
+
+			BalloonBuddyMinionItem: {
+				DisplayName: Bastón de Sorbete
+				Tooltip: ¡Invoca un globo con forma de animal encantado para luchar por ti!
+			}
+
+			BalloonMonkeyMinionItem: {
+				DisplayName: Bastón de Dardos
+				Tooltip: ¡Invoca a un mono lanzador de dardos para luchar por ti!
+			}
+
+			BeeQueenMinionItem: {
+				DisplayName: Corona de la Reina Abeja
+				Tooltip: ¡Invoca a una abeja asistente para luchar por ti!
+			}
+
+			BombBuddyMinionItem: {
+				DisplayName: Detonador Inestable
+				Tooltip: ¡Invoca a un amigo bomba para luchar por ti!
+			}
+
+			BoneSerpentMinionItem: {
+				DisplayName: Bastón de Serpiente de Hueso
+				Tooltip: ¡Invoca a un dragón esquelético para luchar por ti!
+			}
+
+			CharredChimeraMinionItem: {
+				DisplayName: Columna Vertebral Carbonizada
+				Tooltip: ¡Invoca a una quimera carbonizada para luchar por ti!
+			}
+
+			CelestialCombatPetEmblem.DisplayName: Emblema Celestial de Mascota de Combate
+			CorruptCombatPetEmblem.DisplayName: Emblema Corrupto de Mascota de Combate
+			CrimsonCombatPetEmblem.DisplayName: Emblema Carmesí de Mascota de Combate
+			GoldenCombatPetEmblem.DisplayName: Emblema Dorado de Mascota de Combate
+			HallowedCombatPetEmblem.DisplayName: Emblema Sagrado de Mascota de Combate
+			PlatinumCombatPetEmblem.DisplayName: Emblema de Platino de Mascota de Combate
+			SkeletalCombatPetEmblem.DisplayName: Emblema Esquelético de Mascota de Combate
+			SoulfulCombatPetEmblem.DisplayName: Emblema Anímico de Mascota de Combate
+			SpectreCombatPetEmblem.DisplayName: Emblema Espectral de Mascota de Combate
+			StardustCombatPetEmblem.DisplayName: Emblema de Polvo Estelar de Mascota de Combate
+
+			AxolotlMinionItem: {
+				DisplayName: Arco de la Amistad Peculiar
+				Tooltip: ¡Invoca a un Ajolotito mascota!
+			}
+
+			CinderHenMinionItem: {
+				DisplayName: Arco de la Amistad Audaz
+				Tooltip: ¡Invoca a una Gallina Brasas mascota!
+			}
+
+			CloudiphantMinionItem: {
+				DisplayName: Arco de la Amistad Relajado
+				Tooltip: ¡Invoca a un Nubefante mascota!
+			}
+
+			LilGatorMinionItem: {
+				DisplayName: Arco de la Amistad Jovial
+				Tooltip: ¡Invoca a un Caimancito mascota!
+			}
+
+			PlantPupMinionItem: {
+				DisplayName: Arco de la Amistad Tranquilo
+				Tooltip: ¡Invoca a un Cachorro de Planta mascota!
+			}
+
+			SmolederMinionItem: {
+				DisplayName: Arco de la Amistad Silencioso
+				Tooltip: ¡Invoca a un Topo Brasas mascota!
+			}
+
+			TruffleTurtleMinionItem: {
+				DisplayName: Arco de la Amistad Resistente
+				Tooltip: ¡Invoca a una Tortuga Trufa mascota!
+			}
+
+			WyvernFlyMinionItem: {
+				DisplayName: Arco de la Amistad Apresurado
+				Tooltip: ¡Invoca a una Libélula Viverna mascota!
+			}
+
+			CorruptionAltarMinionItem: {
+				DisplayName: Bastón de Célula de Corrupción
+				Tooltip: ¡Invoca a una célula corrupta para luchar por ti!
+			}
+
+			CrimsonAltarMinionItem: {
+				DisplayName: Bastón de Célula Carmesí
+				Tooltip: ¡Invoca a una célula carmesí para luchar por ti!
+			}
+
+			CrystalFistMinionItem: {
+				DisplayName: Bastón del Puño de Cristal
+				Tooltip: ¡Invoca a un puño de cristal para luchar por ti!
+			}
+
+			EclipseHeraldMinionItem: {
+				DisplayName: Bastón del Heraldo del Eclipse
+				Tooltip:
+					'''
+					No logras comprender
+					el eclipse total
+					Un simple roce de tus labios
+					y ya te has ido...
+					'''
+			}
+
+			ExciteSkullMinionItem: {
+				DisplayName: Llavero Esquelético
+				Tooltip: ¡Invoca a un motociclista calavera para luchar por ti!
+			}
+
+			FishBowlMinionItem: {
+				DisplayName: Bastón de Pecera
+				Tooltip:
+					'''
+					¡Invoca a una pecera voladora para luchar por ti!
+					Más efectivo contra enemigos voladores
+					'''
+			}
+
+			FlyingSwordMinionItem: {
+				DisplayName: Clarent
+				Tooltip: ¡Invoca a una espada voladora para luchar por ti!
+			}
+
+			GoblinGunnerMinionItem: {
+				DisplayName: Radiobaliza Goblin
+				Tooltip: ¡Invoca a una nave de guerra goblin para luchar por ti!
+			}
+
+			GoblinTechnomancerMinionItem: {
+				DisplayName: Controlador de Sonda de Llamaumbra
+				Tooltip: ¡Invoca a un tecnomante goblin para luchar por ti!
+			}
+
+			LilEntAccessory: {
+				DisplayName: Talismán del Recolector
+				Tooltip: ¡Un pequeño ent te ayudará!
+			}
+
+			MeteorFistMinionItem: {
+				DisplayName: Puño Meteórico
+				Tooltip: ¡Invoca a un puño meteórico para luchar por ti!
+			}
+
+			MycelialMageMinionItem: {
+				DisplayName: Bastón Micelial
+				Tooltip: ¡Invoca a un Mago Micelial para luchar por ti!
+			}
+
+			MysticPaintbrushMinionItem: {
+				DisplayName: Paleta Mística
+				Tooltip: ¡Invoca a un juego de pintor etéreo para luchar por ti!
+			}
+
+			NecromancerMinionItem: {
+				DisplayName: Muñeco Necro
+				Tooltip: ¡Invoca a un nigromante para luchar por ti!
+			}
+
+			NullHatchetMinionItem: {
+				DisplayName: Hacha Nula
+				Tooltip: ¡Invoca a un hacha etérea para luchar por ti!
+			}
+
+			PaperSurferMinionItem: {
+				DisplayName: Bastón del Surfista de Papel
+				Tooltip: ¡Invoca a un surfista de papel para luchar por ti!
+			}
+
+			CopperSwordMinionItem: {
+				DisplayName: Cortacielos Estrellado
+				Tooltip: ¡Invoca a una espada encantada para luchar por ti!
+			}
+
+			PricklyPearMinionItem: {
+				DisplayName: Bastón de Tuna
+				Tooltip: ¡Invoca a un erizo de tuna para luchar por ti!
+			}
+
+			RatsMinionItem: {
+				DisplayName: Vara del Cuidador de Ratas
+				Tooltip:
+					'''
+					¡Invoca a una horda de ratas para luchar por ti!
+					Cada rata inflige {0}/{1} del daño base
+					{$Common.Tooltips.IgnoresEnemyDefense@2}
+					'''
+			}
+
+			SlimecartMinionItem: {
+				DisplayName: Bastón de la Carreta de Baba
+				Tooltip: ¡Invoca a un minero de baba para luchar por ti!
+			}
+
+			SlimepireMinionItem: {
+				DisplayName: Bastón del Babampiro
+				Tooltip:
+					'''
+					¡Invoca a una baba vampira para luchar por ti!
+					{$Common.Tooltips.IgnoresEnemyDefense}
+					'''
+			}
+
+			SlimeTrainMinionItem: {
+				DisplayName: Bastón del Tren Celestial de Baba
+				Tooltip: ¡Invoca a un tren celestial para luchar por ti!
+			}
+
+			SpiritGunMinionItem: {
+				DisplayName: Revólver Espiritual
+				Tooltip:
+					'''
+					Invoca balas conscientes para luchar por ti.
+					Asegúrate de que no les dé hambre...
+					'''
+			}
+
+			StarSurferMinionItem: {
+				DisplayName: Bastón del Surfista Estelar
+				Tooltip: ¡Invoca a un surfista estelar para luchar por ti!
+			}
+
+			StoneCloudMinionItem: {
+				DisplayName: Nube en una Roca
+				Tooltip:
+					'''
+					¡Invoca a una nube extremadamente densa para luchar por ti!
+					Inflige mucho daño, pero ataca muy lentamente
+					'''
+			}
+
+			TerrarianEntMinionItem: {
+				DisplayName: Bastón del Retoño Sagrado
+				Tooltip: ¡Invoca a un poderoso espíritu del bosque para luchar por ti!
+			}
+
+			TumbleSheepMinionItem: {
+				DisplayName: Bastón del Pastor
+				Tooltip: ¡Invoca a una oveja rodante para luchar por ti!
+			}
+
+			VoidKnifeMinionItem: {
+				DisplayName: Daga del Vacío
+				Tooltip: ¡Invoca a una daga etérea para luchar por ti!
+			}
+
+			WhackAMoleMinionItem: {
+				DisplayName: Frasco Mágico de Gomitas
+				Tooltip: ¡Invoca a un grupo de topos mágicos para luchar por ti!
+			}
+
+			XCXCopterMinionItem: {
+				DisplayName: Bastón Copter-X
+				Tooltip: ¡Invoca a un helicóptero flexible para luchar por ti!
+			}
+
+			AdamantiteSquireMinionItem: {
+				DisplayName: Cresta de Adamantita
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de adamantita luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Caballero Pegaso
+				SpecialDescription: ""
+			}
+
+			AncientCobaltSquireMinionItem: {
+				DisplayName: Cresta Antigua de Cobalto
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero antiguo de cobalto luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Ráfaga Mágica
+				SpecialDescription: ""
+			}
+
+			ArmoredBoneSquireMinionItem: {
+				DisplayName: Cresta de Huesos Blindados
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de huesos blindados luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Espíritu del Mangual
+				SpecialDescription: ""
+			}
+
+			BoneSquireMinionItem: {
+				DisplayName: Cresta de Huesos
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de huesos luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Mangual Llameante
+				SpecialDescription: ""
+			}
+
+			CrimsonSquireMinionItem: {
+				DisplayName: Cresta del Carmesí
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero carmesí luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Frasco de Icor
+				SpecialDescription: ""
+			}
+
+			DemonSquireMinionItem: {
+				DisplayName: Cresta del Inframundo
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero demonio luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Diablillos Asistentes
+				SpecialDescription: ""
+			}
+
+			EmpressSquireMinionItem: {
+				DisplayName: Cáliz de la Emperatriz
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡La sacerdotisa de la luz luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Espectro Supremo
+				SpecialDescription: ""
+			}
+
+			GoldenRogueSquireMinionItem: {
+				DisplayName: Cresta Dorada del Pícaro
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero pícaro dorado luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Nube de Cuchillos
+				SpecialDescription:
+					'''
+					Se teletransporta hasta el enemigo más cercano al cursor
+					y le lanza una ráfaga de cuchillos
+					'''
+			}
+
+			GuideSquireMinionItem: {
+				DisplayName: Brazalete de la Amistad del Guía
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					{$Common.Squires.ClickAndHold}!
+					'Tal vez no eres una persona tan terrible después de todo...'
+					'''
+				SpecialName: Andanada de Flechas Llameantes
+				SpecialDescription: ""
+			}
+
+			MushroomSquireMinionItem: {
+				DisplayName: Cresta del Bosque
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero hongo luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Lanzamiento de Hongos
+				SpecialDescription: ""
+			}
+
+			PottedPalMinionItem: {
+				DisplayName: Amigo en Maceta
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Una planta amigable luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Polinización
+				SpecialDescription:
+					'''
+					Crea un Amigo en Maceta Jr. de corta duración
+					que ataca automáticamente a los enemigos
+					'''
+			}
+
+			PumpkinSquireMinionItem: {
+				DisplayName: Cresta de Calabaza
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero calabaza luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Calabaza Gigante
+				SpecialDescription: ""
+			}
+
+			SeaSquireMinionItem: {
+				DisplayName: Cresta del Mar
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero pez volador luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Forma de Tiburón
+				SpecialDescription: ""
+			}
+
+			ShadowSquireMinionItem: {
+				DisplayName: Cresta de Sombras
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de sombras luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Frasco de Llamas Malditas
+				SpecialDescription: ""
+			}
+
+			SkywareSquireMinionItem: {
+				DisplayName: Cresta del Cielo
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					Un centurión celeste luchará por ti
+					{$Common.Squires.ClickAndHold}!
+					'''
+				SpecialName: Andanada
+				SpecialDescription: ""
+			}
+
+			SoulboundArsenalMinionItem: {
+				DisplayName: Arsenal Ligado al Alma
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un arco y una espada ligados al alma lucharán por ti!
+					{$Common.Squires.ClickAndHoldPlural}
+					'''
+				SpecialName: Coalescencia Ligada al Alma
+				SpecialDescription: ""
+			}
+
+			SoulboundBowMinionItem: {
+				DisplayName: Arco Ligado al Alma
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un arco encantado luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Compañero Ligado al Alma
+				SpecialDescription: La Espada Ligada al Alma te ayudará brevemente
+			}
+
+			SoulboundSwordMinionItem: {
+				DisplayName: Espada Ligada al Alma
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Una espada encantada luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Compañero Ligado al Alma
+				SpecialDescription: El Arco Ligado al Alma te ayudará brevemente
+			}
+
+			SqueyereMinionItem: {
+				DisplayName: Cresta de Ojos
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un Squeyere luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'Squ-Eye-Re. ¿Lo entiendes?'
+					'''
+				SpecialName: Visión Doble
+				SpecialDescription: ""
+			}
+
+			StardustSquireMinionItem: {
+				DisplayName: Cresta de Polvo Estelar
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de polvo estelar luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Constelación de Polvo Estelar
+				SpecialDescription:
+					'''
+					Invoca una constelación persistente
+					que dispara estrellas a los enemigos.
+					'''
+			}
+
+			TitaniumSquireMinionItem: {
+				DisplayName: Cresta de Titanio
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero de titanio luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Dron de Titanio
+				SpecialDescription: ""
+			}
+
+			VikingSquireMinionItem: {
+				DisplayName: Cresta del Norte Helado
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					¡Un escudero vikingo luchará por ti!
+					{$Common.Squires.ClickAndHold}
+					'''
+				SpecialName: Hacha Helada
+				SpecialDescription: ""
+			}
+
+			GuideVoodooSquireMinionItem: {
+				DisplayName: Verdadero Muñeco Vudú del Guía
+				Tooltip:
+					'''
+					{$Common.Squires.SummonsASquire}
+					{$Common.Squires.ClickAndHold}
+					'Eres una persona *REALMENTE* terrible'
+					'''
+				SpecialName: Embestida Brutal
+				SpecialDescription:
+					'''
+					Se desplaza horizontalmente por toda la pantalla,
+					golpeando todo a su paso
+					'''
+			}
+		}
+
+		Buffs: {
+			MinionVarietyBuff: {
+				DisplayName: ¡Variedad de Súbditos!
+				VarietyDamageBonus: "{0}% de Bonificación de Daño por Variedad de Súbditos"
+			}
+
+			IllusionistWispBuff: {
+				DisplayName: Volutas Ilusorias
+				Description: Volutas ilusorias están apareciendo a tu alrededor...
+			}
+
+			AcornMinionBuff: {
+				DisplayName: Bellota
+				Description: ¡Una bellota alada luchará por ti!
+			}
+
+			BalloonBuddyMinionBuff: {
+				DisplayName: Amigo Globo
+				Description: ¡Un amigo globo luchará por ti!
+			}
+
+			BalloonMonkeyMinionBuff: {
+				DisplayName: Monos Dardo
+				Description: ¡Los monos lanzadores de dardos lucharán por ti!
+			}
+
+			BeeQueenMinionBuff: {
+				DisplayName: Abejorro Bombardero
+				Description: ¡Una abeja asistente luchará por ti!
+			}
+
+			BombBuddyMinionBuff: {
+				DisplayName: Amigo Bomba
+				Description: ¡Un amigo bomba explotará por ti!
+			}
+
+			BoneSerpentMinionBuff: {
+				DisplayName: Serpiente de Hueso
+				Description: ¡Un dragón esquelético luchará por ti!
+			}
+
+			CharredChimeraMinionBuff: {
+				DisplayName: Quimera Carbonizada
+				Description: ¡Una quimera carbonizada luchará por ti!
+			}
+
+			AxolotlMinionBuff: {
+				DisplayName: Ajolotito
+				Description: ¡Un amigo anfibio se ha unido a tu aventura!
+			}
+
+			CinderHenMinionBuff: {
+				DisplayName: Gallina Brasas
+				Description: ¡Un pequeño fénix se ha unido a tu aventura!
+			}
+
+			CloudiphantMinionBuff: {
+				DisplayName: Nubefante
+				Description: ¡Un elefante etéreo se ha unido a tu aventura!
+			}
+
+			FlareVortexDebuff: {
+				DisplayName: Vórtice de Bengala
+				Description: Perdiendo vida rápidamente
+			}
+
+			LilGatorMinionBuff: {
+				DisplayName: Caimancito
+				Description: ¡Un caimán surfista se ha unido a tu aventura!
+			}
+
+			PlantPupMinionBuff: {
+				DisplayName: Cachorro de Planta
+				Description: ¡Una planta juguetona se ha unido a tu aventura!
+			}
+
+			SmolederMinionBuff: {
+				DisplayName: Topo Brasas
+				Description: ¡Un topo tímido se ha unido a tu aventura!
+			}
+
+			TruffleTurtleMinionBuff: {
+				DisplayName: Ajolotito
+				Description: ¡Una tortuga con caparazón de hongo se ha unido a tu aventura!
+			}
+
+			WyvernFlyMinionBuff: {
+				DisplayName: Ajolotito
+				Description: ¡Una cría de viverna se ha unido a tu aventura!
+			}
+
+			CorruptionAltarMinionBuff: {
+				DisplayName: Célula Corrupta
+				Description: ¡Una célula corrupta luchará por ti!
+			}
+
+			CrimsonAltarMinionBuff: {
+				DisplayName: Célula Carmesí
+				Description: ¡Una célula carmesí luchará por ti!
+			}
+
+			CrystalFistMinionBuff: {
+				DisplayName: Puño de Cristal
+				Description: ¡Un puño de cristal luchará por ti!
+			}
+
+			EclipseHeraldMinionBuff: {
+				DisplayName: Heraldo del Eclipse
+				Description: ¡Un heraldo del eclipse luchará por ti!
+			}
+
+			ExciteSkullMinionBuff: {
+				DisplayName: Motociclista Calavera
+				Description: ¡Un motociclista esquelético está luchando por ti!
+			}
+
+			FishBowlMinionBuff: {
+				DisplayName: Pecera Voladora
+				Description: ¡Una pecera voladora luchará por ti!
+			}
+
+			FlyingSwordMinionBuff: {
+				DisplayName: Clarent
+				Description: ¡Una espada voladora luchará por ti!
+			}
+
+			GoblinGunnerMinionBuff: {
+				DisplayName: Goblin Artillero
+				Description: ¡Un goblin artillero luchará por ti!
+			}
+
+			GoblinTechnomancerMinionBuff: {
+				DisplayName: Goblin Tecnomante
+				Description: ¡Un goblin tecnomante luchará por ti!
+			}
+
+			LilEntMinionBuff: {
+				DisplayName: Pequeño Ent
+				Description: ¡Un pequeño ent está luchando por ti!
+			}
+
+			MeteorFistMinionBuff: {
+				DisplayName: Puño Meteórico
+				Description: ¡Un puño meteórico luchará por ti!
+			}
+
+			MycelialMageMinionBuff: {
+				DisplayName: Mago Micelial
+				Description: ¡Un mago micelial está luchando por ti!
+			}
+
+			MysticPaintbrushMinionBuff: {
+				DisplayName: Paleta Mística
+				Description: ¡Un juego de pintor etéreo luchará por ti!
+			}
+
+			NecromancerMinionBuff: {
+				DisplayName: Nigromante
+				Description: ¡Un nigromante y sus sirvientes esqueléticos lucharán por ti!
+			}
+
+			NullHatchetMinionBuff: {
+				DisplayName: Hacha Nula
+				Description: ¡Un hacha etérea luchará por ti!
+			}
+
+			PaperSurferMinionBuff: {
+				DisplayName: Surfista de Papel
+				Description: ¡Un surfista de papel luchará por ti!
+			}
+
+			CopperSwordMinionBuff: {
+				DisplayName: Cortacielos Estelar
+				Description: ¡Una espada encantada luchará por ti!
+			}
+
+			PricklyPearMinionBuff: {
+				DisplayName: Erizo de Tuna
+				Description: ¡Un amigo tuna luchará por ti!
+			}
+
+			RatsMinionBuff: {
+				DisplayName: ¡Ay, Ratas!
+				Description: ¡Un grupo de ratas luchará por ti!
+			}
+
+			SlimecartMinionBuff: {
+				DisplayName: Vagoneta Viscosa
+				Description: ¡Un baboso minero luchará por ti!
+			}
+
+			SlimepireMinionBuff: {
+				DisplayName: Babampiro
+				Description: ¡Un baboso vampiro luchará por ti!
+			}
+
+			SlimeTrainMinionBuff: {
+				DisplayName: Tren Baboso Celestial
+				Description: ¡Un tren celestial y sus pasajeros lucharán por ti!
+			}
+
+			SpiritGunMinionBuff: {
+				DisplayName: Revólver Espiritual
+				Description: ¡Un grupo de balas conscientes luchará por ti!
+			}
+
+			StarSurferMinionBuff: {
+				DisplayName: Surfista Estelar
+				Description: ¡Un surfista estelar luchará por ti!
+			}
+
+			StoneCloudMinionBuff: {
+				DisplayName: Nube de Piedra
+				Description: ¡Una nube extremadamente densa luchará por ti!
+			}
+
+			TerrarianEntMinionBuff: {
+				DisplayName: Ent del Bosque
+				Description: ¡Un poderoso espíritu del bosque luchará por ti!
+			}
+
+			TumbleSheepMinionBuff: {
+				DisplayName: Oveja Rodante
+				Description: ¡Una oveja dando tumbos luchará por ti!
+			}
+
+			VoidKnifeMinionBuff: {
+				DisplayName: Daga del Vacío
+				Description: ¡Una daga etérea luchará por ti!
+			}
+
+			WhackAMoleMinionBuff: {
+				DisplayName: Topo Gomita
+				Description: ¡Un topo mágico luchará por ti!
+			}
+
+			XCXCopterMinionBuff: {
+				DisplayName: Copter-X
+				Description: ¡Un helicóptero flexible luchará por ti!
+			}
+
+			AdamantiteSquireMinionBuff: {
+				DisplayName: Escudero de Adamantita
+				Description: ¡Un escudero de adamantita seguirá tus órdenes!
+			}
+
+			AncientCobaltSquireMinionBuff: {
+				DisplayName: Escudero de Cobalto Antiguo
+				Description: ¡Un escudero de cobalto antiguo seguirá tus órdenes!
+			}
+
+			ArmoredBoneSquireMinionBuff: {
+				DisplayName: Escudero Óseo Blindado
+				Description: ¡Un escudero óseo blindado seguirá tus órdenes!
+			}
+
+			BoneSquireMinionBuff: {
+				DisplayName: Escudero Óseo
+				Description: ¡Un escudero óseo seguirá tus órdenes!
+			}
+
+			CrimsonSquireMinionBuff: {
+				DisplayName: Escudero Carmesí
+				Description: ¡Un escudero carmesí seguirá tus órdenes!
+			}
+
+			DemonSquireMinionBuff: {
+				DisplayName: Escudero Demoníaco
+				Description: ¡Un escudero demoníaco seguirá tus órdenes!
+			}
+
+			EmpressSquireMinionBuff: {
+				DisplayName: Coronado por la Emperatriz de la Luz
+				Description: ¡Mira ESTO!
+			}
+
+			GoldenRogueSquireMinionBuff: {
+				DisplayName: Escudero Pícaro Dorado
+				Description: ¡Un escudero pícaro dorado seguirá tus órdenes!
+			}
+
+			GuideSquireMinionBuff: {
+				DisplayName: Escudero Guía
+				Description: ¡Puedes guiar al Guía!
+			}
+
+			MushroomSquireMinionBuff: {
+				DisplayName: Escudero Hongo
+				Description: ¡Un escudero hongo seguirá tus órdenes!
+			}
+
+			PottedPalMinionBuff: {
+				DisplayName: Amigo en Maceta
+				Description: ¡Una planta amigable seguirá tus órdenes!
+			}
+
+			PumpkinSquireMinionBuff: {
+				DisplayName: Escudero Calabaza
+				Description: ¡Un escudero calabaza seguirá tus órdenes!
+			}
+
+			SeaSquireMinionBuff: {
+				DisplayName: Escudero Marino
+				Description: ¡Un pez volador seguirá tus caprichos!
+			}
+
+			ShadowSquireMinionBuff: {
+				DisplayName: Escudero Sombrío
+				Description: ¡Un escudero sombrío seguirá tus órdenes!
+			}
+
+			SkywareSquireMinionBuff: {
+				DisplayName: Centurión Celeste
+				Description: ¡Un centurión celeste está luchando por ti!
+			}
+
+			SoulboundArsenalMinionBuff: {
+				DisplayName: Arsenal Ligado al Alma
+				Description: ¡Un arco y una espada ligados al alma seguirán tus órdenes!
+			}
+
+			SoulboundBowMinionBuff: {
+				DisplayName: Arco Ligado al Alma
+				Description: ¡Un arco ligado al alma seguirá tus órdenes!
+			}
+
+			SoulboundSwordMinionBuff: {
+				DisplayName: Espada Ligada al Alma
+				Description: ¡Una espada ligada al alma seguirá tus órdenes!
+			}
+
+			SqueyereMinionBuff: {
+				DisplayName: Squeyere
+				Description: ¡Un Squeyere seguirá tus órdenes!
+			}
+
+			SquireCooldownBuff: {
+				DisplayName: Enfriamiento Especial de Escudero
+				Description: ¡La habilidad especial de tu escudero está en enfriamiento!
+			}
+
+			SquireTagDamageBuff: {
+				DisplayName: Marca de Escudero
+				Description: Recibe 10% más de daño de las armas de invocador
+			}
+
+			StardustSquireMinionBuff: {
+				DisplayName: Escudero de Polvo Estelar
+				Description: ¡Un escudero de polvo estelar seguirá tus órdenes!
+			}
+
+			TitaniumSquireMinionBuff: {
+				DisplayName: Escudero de Titanio
+				Description: ¡Un escudero de titanio seguirá tus órdenes!
+			}
+
+			VikingSquireMinionBuff: {
+				DisplayName: Escudero Vikingo
+				Description: ¡Un escudero vikingo con doble arma seguirá tus órdenes!
+			}
+
+			GuideVoodooSquireMinionBuff: {
+				DisplayName: Escudero Guía
+				Description: ¡Puedes guiar al Guía!
+			}
+
+			WoFSquireMinionBuff: {
+				DisplayName: Escudero Muro de Carne
+				Description: ¡Puedes guiar al Muro de Carne!
+			}
+		}
+
+		Projectiles: {
+			SquireSkullProjectile.DisplayName: Proyectil de Calavera de Escudero
+			TechnoCharmProjectile.DisplayName: Proyectil de Amuleto Tecno
+			AridTumblerProjectile.DisplayName: Proyectil de Rodador Árido
+			ForagerMushroom.DisplayName: Hongo Recolector
+			IllusionistWisp.DisplayName: Voluta del Ilusionista
+			RoyalCrownProjectile.DisplayName: Proyectil de Corona Real
+			AcornBomb.DisplayName: Bomba de Bellota
+			AcornMinion.DisplayName: Bellota Voladora
+			BalloonBuddyCounterMinion.DisplayName: Contador de Súbdito Compañero Globo
+			BalloonBuddyMinion.DisplayName: Compañero Globo
+			BalloonMonkeyBalloon.DisplayName: Globo del Mono Globero
+			BalloonMonkeyDart.DisplayName: Dardo del Mono Globero
+			BalloonMonkeyMinion.DisplayName: Mono Globero
+			BeeQueenBucket.DisplayName: Balde de la Reina Abeja
+			BeeQueenMinion.DisplayName: Abeja Bombardera
+			HoneySlime.DisplayName: Baboso de Miel
+			BombBuddyMinion.DisplayName: Compañero Bomba
+			BoneSerpentCounterMinion.DisplayName: Contador de Súbdito Serpiente de Hueso
+			BoneSerpentMinion.DisplayName: Serpiente de Hueso
+			CharredChimeraCounterMinion.DisplayName: Contador de Súbdito Quimera Carbonizada
+			CharredChimeraMinion.DisplayName: Quimera Carbonizada
+			CharredChimeraMinionHead.DisplayName: Cabeza del Súbdito Quimera Carbonizada
+			AxolotlMinion.DisplayName: Súbdito Ajolotito
+			CinderHenMinion.DisplayName: Súbdito Gallina Brasas
+			CloudiphantMinion.DisplayName: Súbdito Nubefante
+			CloudPuffProjectile.DisplayName: Proyectil de Nube de Humo
+			FlareVortexProjectile.DisplayName: Proyectil de Vórtice de Bengala
+			LeafBlade.DisplayName: Filo de Hoja
+			LilGatorMinion.DisplayName: Súbdito Caimancito
+			PlantPupMinion.DisplayName: Súbdito Cachorro de Planta
+			SmolederMinion.DisplayName: Súbdito Topo Brasas
+			TruffleTurtleMinion.DisplayName: Súbdito Tortuga Trufa
+			TwisterProjectile.DisplayName: Proyectil de Tornado
+			WaterBeam.DisplayName: Rayo de Agua
+			WyvernFlyMinion.DisplayName: Súbdito Libélula Viverna
+			BabyWerewolfMinion.DisplayName: Súbdito Cachorro de Hombre Lobo
+			BernieMinion.DisplayName: Súbdito Bernie
+			FennecFoxMinion.DisplayName: Súbdito Zorro Fénec
+			LilHarpyFeather.DisplayName: Pluma de la Pequeña Arpía
+			LilHarpyMinion.DisplayName: Súbdito Pequeña Arpía
+			PigManMinion.DisplayName: Súbdito Hombre Cerdo
+			SharkPupBubble.DisplayName: Burbuja del Cachorro de Tiburón
+			SharkPupMinion.DisplayName: Súbdito Cachorro de Tiburón
+			AlienSkaterMinion.DisplayName: Súbdito Alienígena Patinador
+			AncientVisionProjectile.DisplayName: Proyectil de Visión Antigua
+			BabyOgreMinion.DisplayName: Súbdito Cachorro de Ogro
+			DeerclopsIceBlock.DisplayName: Bloque de Hielo de Deerclops
+			DeerclopsMinion.DisplayName: Súbdito Deerclops
+			DeerclopsShadowHand.DisplayName: Mano de Sombra de Deerclops
+			DestroyerLiteMinion.DisplayName: Súbdito Destructor Ligero
+			DestroyerLiteProbeProjectile.DisplayName: Proyectil de Sonda del Destructor Ligero
+			EverscreamSaplingMinion.DisplayName: ProjectileName.EverscreamSapling
+			EverscreamSaplingOrnament.DisplayName: Adorno del Retoño de Everscream
+			HoneyBeeBee.DisplayName: Abeja de Miel
+			HoneyBeeMinion.DisplayName: ProjectileName.HoneyBee
+			HoneyPotProjectile.DisplayName: Proyectil de Tarro de Miel
+			IceQueenIcicle.DisplayName: Carámbano de la Reina de Hielo
+			IceQueenMinion.DisplayName: ProjectileName.IceQueen
+			ItsyBetsyFire.DisplayName: Fuego de Itsy Betsy
+			ItsyBetsyMinion.DisplayName: ProjectileName.ItsyBetsy
+			MiniPrimeMinion.DisplayName: ProjectileName.MiniPrime
+			MoonlingLaser.DisplayName: Láser del Lunarcito
+			MoonlingMinion.DisplayName: ProjectileName.Moonling
+			PhantasmalDragonMinion.DisplayName: Súbdito Dragón Fantasmal
+			PlanteraSeedlingMinion.DisplayName: ProjectileName.PlanteraSeedling
+			PlanteraSeedlingSeed.DisplayName: Semilla del Retoño de Plantera
+			PlanteraSeedlingThornBall.DisplayName: Bola de Espinas del Retoño de Plantera
+			RezMinion.DisplayName: Súbdito Rez
+			SkeletronJrMinion.DisplayName: ProjectileName.SkeletronJr
+			SlimePrinceNinjaMinion.DisplayName: Súbdito Ninja del Príncipe Baboso
+			SlimePrincessHelperSlimeMinion.DisplayName: Súbdito Baboso Ayudante de la Princesa Babosa
+			SlimePrincessMinion.DisplayName: Súbdito Princesa Babosa
+			SpazMinion.DisplayName: Súbdito Spaz
+			SpiderBrainEyeProjectile.DisplayName: Proyectil de Ojo del Cerebro Araña
+			SpiderBrainMinion.DisplayName: ProjectileName.SpiderBrain
+			TinyFishronMinion.DisplayName: Súbdito Fishron Diminuto
+			TinyFishronWhirlpool.DisplayName: Remolino del Fishron Diminuto
+			BabyImpFireBall.DisplayName: Bola de Fuego del Diablillo Bebé
+			BabyImpMinion.DisplayName: Súbdito Diablillo Bebé
+			BabyRedPandaBambooSpike.DisplayName: Púa de Bambú del Panda Rojo Bebé
+			BabyRedPandaBambooSpikeController.DisplayName: Controlador de Púa de Bambú del Panda Rojo Bebé
+			BabyRedPandaMinion.DisplayName: Súbdito Panda Rojo Bebé
+			CompanionCubeMinion.DisplayName: Súbdito Cubo Compañero
+			CursedSaplingBranchProjectile.DisplayName: Proyectil de Rama del Retoño Maldito
+			CursedSaplingMinion.DisplayName: Súbdito Retoño Maldito
+			EsteeFallenStarProjectile.DisplayName: Proyectil de Estrella Fugaz de Estee
+			EsteeMinion.DisplayName: Súbdito Estee
+			PlanteroMinion.DisplayName: Súbdito Plantero
+			SquashlingMinion.DisplayName: Súbdito Calabacita
+			SquashlingPumpkinBomb.DisplayName: Bomba de Calabaza de la Calabacita
+			SugarGliderMinion.DisplayName: Súbdito Petauro del Azúcar
+			VoltBunnyMinion.DisplayName: Súbdito Conejo Voltio
+			BabyDinosaurMinion.DisplayName: Súbdito Dinosaurio Bebé
+			BabyEaterMinion.DisplayName: Súbdito Devorador Bebé
+			BabyFaceMonsterMinion.DisplayName: Súbdito Monstruo Cara Bebé
+			BabyGrinchMinion.DisplayName: Súbdito Grinch Bebé
+			BabyHornetMinion.DisplayName: Súbdito Avispón Bebé
+			BabyPenguinMinion.DisplayName: Súbdito Pingüino Bebé
+			BabySkeletronHeadMinion.DisplayName: Súbdito Cabeza de Skeletron Bebé
+			BabySnowmanMinion.DisplayName: Súbdito Muñeco de Nieve Bebé
+			BabyTruffleMinion.DisplayName: Súbdito Trufa Bebé
+			BlackCatMeowsicalNote.DisplayName: Nota Miausical del Gato Negro
+			BlackCatMinion.DisplayName: Súbdito Gato Negro
+			BlackCatShadowBeam.DisplayName: Rayo de Sombra del Gato Negro
+			BlackCatWaterBolt.DisplayName: Descarga de Agua del Gato Negro
+			DynamiteKittenBullet.DisplayName: Bala del Gatito de Dinamita
+			DynamiteKittenGrenade.DisplayName: Granada del Gatito de Dinamita
+			DynamiteKittenMinion.DisplayName: Súbdito Gatito de Dinamita
+			DynamiteKittenRocket.DisplayName: Cohete del Gatito de Dinamita
+			EyeSpringMinion.DisplayName: Súbdito Ojo con Resorte
+			GlitteryButterflyMinion.DisplayName: Súbdito Mariposa Brillante
+			GlommerMinion.DisplayName: Súbdito Glommer
+			HoardagronHeadMinion.DisplayName: Súbdito Cabeza de Hoardagron
+			MiniMinotaurAxeProjectile.DisplayName: Proyectil de Hacha del Mini Minotauro
+			MiniMinotaurMinion.DisplayName: Súbdito Mini Minotauro
+			ParrotPetMinion.DisplayName: Súbdito Mascota Loro
+			PenguinPetFishProjectile.DisplayName: Proyectil de Pez de la Mascota Pingüino
+			PetLizardMinion.DisplayName: Súbdito Mascota Lagartija
+			PropellerGatoMinion.DisplayName: Súbdito Gato Hélice
+			PuppyMinion.DisplayName: Súbdito Cachorro
+			SaplingMinion.DisplayName: Súbdito Retoño
+			SaplingMinionLeafProjectile.DisplayName: Proyectil de Hoja del Súbdito Retoño
+			ShadowMimicMinion.DisplayName: Súbdito Cofre Falso de Sombra
+			SnowmanPetSnowballProjectile.DisplayName: Proyectil de Bola de Nieve de la Mascota Muñeco de Nieve
+			TikiSpiritMinion.DisplayName: Súbdito Espíritu Tiki
+			TrufflePetGlowingMushroom.DisplayName: Champiñón Brillante de la Mascota Trufa
+			TurtleMinion.DisplayName: Súbdito Tortuga
+			ZephyrFishMinion.DisplayName: Súbdito Pez Céfiro
+			CorruptionAltarBigEater.DisplayName: Gran Devorador del Altar de Corrupción
+			CorruptionAltarCounterMinion.DisplayName: Contador de Súbdito Altar de Corrupción
+			CorruptionAltarEater.DisplayName: Devorador del Altar de Corrupción
+			CorruptionAltarMinion.DisplayName: Célula de Corrupción
+			CrimsonAltarBigCrimera.DisplayName: Gran Crímera del Altar Carmesí
+			CrimsonAltarCounterMinion.DisplayName: Contador de Súbdito Altar Carmesí
+			CrimsonAltarCrimera.DisplayName: Crímera del Altar Carmesí
+			CrimsonAltarMinion.DisplayName: Célula Carmesí
+			CrystalFistHeadMinion.DisplayName: Puño de Cristal
+			CrystalFistMinion.DisplayName: Puño de Cristal
+			EclipseHeraldCounterMinion.DisplayName: Contador de Súbdito Heraldo del Eclipse
+			EclipseHeraldMinion.DisplayName: Heraldo del Eclipse
+			EclipseSphere.DisplayName: Esfera del Eclipse
+			ExciteSkullMinion.DisplayName: Calavera
+			FishBowlFish.DisplayName: Pez de la Pecera
+			FishBowlMinion.DisplayName: Pecera Voladora
+			FlyingSwordMinion.DisplayName: Clarent
+			GoblinGunnerBullet.DisplayName: Bala del Duende Artillero
+			GoblinGunnerCounterMinion.DisplayName: Contador de Súbdito Duende Artillero
+			GoblinGunnerMinion.DisplayName: Duende Artillero
+			GoblinGunnerMinionGuns.DisplayName: Armas del Súbdito Duende Artillero
+			GoblinTechnomancerMinion.DisplayName: Duende Tecnomante
+			GoblinTechnomancerProbeMinion.DisplayName: Sonda del Duende Tecnomante
+			LilEntLeafProjectile.DisplayName: Proyectil de Hoja del Pequeño Ent
+			LilEntMinion.DisplayName: Súbdito Pequeño Ent
+			MeteorFistHead.DisplayName: Puño Meteórico
+			MeteorFistMinion.DisplayName: Puño Meteórico
+			MinionWaypoint.DisplayName: Punto de Referencia de Súbdito
+			MycelialMageMinion.DisplayName: Mago Micelial
+			MysticPaintbrushMinion.DisplayName: Paleta Mística
+			BoneSphereBoneProjectile.DisplayName: Proyectil de Hueso de la Esfera de Huesos
+			BoneSphereProjectile.DisplayName: Proyectil de Esfera de Huesos
+			NecromancerMinion.DisplayName: Nigromante
+			NecromancerSkeletonMinion.DisplayName: Esqueleto del Nigromante
+			NullHatchetMinion.DisplayName: Hacha Nula
+			PaperSurferMinion.DisplayName: Surfista de Papel
+			CopperSwordMinion.DisplayName: Cortacielos Estelar
+			PricklyPearCactusProjectile.DisplayName: Proyectil de Cactus de Tuna
+			PricklyPearMinion.DisplayName: Tuna
+			PricklyPearSeedProjectile.DisplayName: Proyectil de Semilla de Tuna
+			RatsMinion.DisplayName: Rata (Amistosa)
+			SlimecartMinion.DisplayName: Carreta de Baba
+			SlimepireMinion.DisplayName: Babampiro
+			SlimeTrainCartProjectile.DisplayName: Proyectil de Vagón del Tren de Baba
+			SlimeTrainCounterMinion.DisplayName: Contador de Súbdito Tren de Baba
+			SlimeTrainMarkerProjectile.DisplayName: Proyectil Marcador del Tren de Baba
+			SlimeTrainMinion.DisplayName: Tren de Vapor Celestial
+			SlimeTrainSlimeMinion.DisplayName: Pasajero del Tren de Baba
+			SpiritGunCounterMinion.DisplayName: Contador de Súbdito Revólver Espiritual
+			SpiritGunMinion.DisplayName: Revólver Espiritual
+			SpiritGunMinionBullet.DisplayName: Bala del Súbdito Revólver Espiritual
+			StarSurferMinion.DisplayName: Surfista Estelar
+			StarSurferProjectile.DisplayName: Proyectil del Surfista Estelar
+			StoneCloudMinion.DisplayName: Nube de Piedra
+			CritterSwarmProjectile.DisplayName: Proyectil de Enjambre de Criaturas
+			LandChunkProjectile.DisplayName: Proyectil de Trozo de Tierra
+			TerrarianEntCounterMinion.DisplayName: Contador de Súbdito Ent de Terraria
+			TerrarianEntMinion.DisplayName: Ent del Bosque
+			TumbleSheepMinion.DisplayName: ProjectileName.TumbleSheep
+			BigSharknadoMinion.DisplayName: Tempestad
+			DeadlySphereFire.DisplayName: Fuego de la Esfera Mortal
+			HornetMinion.DisplayName: Avispón
+			HornetStinger.DisplayName: Aguijón de Avispón
+			ImpFireball.DisplayName: Bola de Fuego de Diablillo
+			ImpMinion.DisplayName: Diablillo Volador
+			ImpPortalMinion.DisplayName: Copter-X
+			ImpPortalUnholyTrident.DisplayName: Tridente Impío del Portal de Diablillos
+			AbigailCounterMinion.DisplayName: Contador de Súbdito Abigail
+			AbigailMinion.DisplayName: Abigail
+			BonusFlinxMinion.DisplayName: Súbdito Copito Extra
+			DesertTigerCounterMinion.DisplayName: Contador de Súbdito Tigre del Desierto
+			DesertTigerDashMinion.DisplayName: Embestida del Súbdito Tigre del Desierto
+			DesertTigerMinion.DisplayName: Súbdito Tigre del Desierto
+			FlinxMinion.DisplayName: Súbdito Copito
+			VampireFrogMinion.DisplayName: Súbdito Rana Vampiro
+			MiniEyeFire.DisplayName: Fuego del Mini Ojo
+			MiniSharknado.DisplayName: Mini Tiburonado
+			MiniTwinsLaser.DisplayName: Láser de los Mini Gemelos
+			PirateCannonball.DisplayName: Bala de Cañón Pirata
+			PirateCannonballExplosion.DisplayName: Explosión de la Bala de Cañón Pirata
+			PirateDeadeyeBullet.DisplayName: Bala del Pirata Ojo Certero
+			Pygmy1Minion.DisplayName: Pigmeo
+			Pygmy2Minion.DisplayName: Pigmeo
+			Pygmy3Minion.DisplayName: Pigmeo
+			Pygmy4Minion.DisplayName: Pigmeo
+			PygmySpear.DisplayName: Lanza del Pigmeo
+			RavenGreekFire.DisplayName: Fuego Griego del Cuervo
+			SharknadoMinion.DisplayName: Tempestad
+			StardustCellClinger.DisplayName: Célula Aferrada de Polvo Estelar
+			StardustDragonCounterMinion.DisplayName: Contador de Súbdito Dragón de Polvo Estelar
+			UfoDamageHitbox.DisplayName: Zona de Daño del OVNI
+			VoidKnifeMinion.DisplayName: Daga del Vacío
+			WhackAMoleCounterMinion.DisplayName: Contador de Súbdito Topo Gomita
+			WhackAMoleMinion.DisplayName: Topo Gomita
+			WhackAMoleMinionProjectile.DisplayName: Proyectil del Súbdito Topo Gomita
+			XCXCopterCounterMinion.DisplayName: Contador de Súbdito Copter-X
+			XCXCopterMinion.DisplayName: Copter-X
+			AdamantiteSquireMinion.DisplayName: Escudero de Adamantita
+			AncientCobaltBolt.DisplayName: Rayo de Cobalto Antiguo
+			AncientCobaltSquireMinion.DisplayName: Escudero de Cobalto Antiguo
+			AncientCobaltStream.DisplayName: Corriente de Cobalto Antiguo
+			ArmoredBoneSquireMinion.DisplayName: Escudero de Hueso Blindado
+			ArmoredBoneSquireSpiritProjectile.DisplayName: Proyectil Espiritual del Escudero de Hueso Blindado
+			SpiritFlailWormMinion.DisplayName: Cadena del Mangual Espiritual
+			BoneSquireMinion.DisplayName: Escudero de Hueso
+			CrimsonSquireMinion.DisplayName: Escudero Carmesí
+			EvilSquireExplosion.DisplayName: Explosión del Escudero Maligno
+			IchorFlaskProjectile.DisplayName: Proyectil del Frasco de Ícor
+			DemonSquireImpFireball.DisplayName: Bola de Fuego del Diablillo del Escudero Demonio
+			DemonSquireImpMinion.DisplayName: Súbdito Diablillo del Escudero Demonio
+			DemonSquireMinion.DisplayName: Escudero Demonio
+			DemonSquireUnholyTrident.DisplayName: Tridente Impío del Escudero Demonio
+			EmpressSpecialOrbitProjectile.DisplayName: Proyectil Orbital Especial de la Emperatriz
+			EmpressSquireMinion.DisplayName: Sacerdotisa de la Luz
+			EmpressStarlightProjectile.DisplayName: Proyectil de Luz Estelar de la Emperatriz
+			GoldenDagger.DisplayName: Daga Dorada
+			GoldenDaggerCloud.DisplayName: Nube de Dagas Doradas
+			GoldenRogueSquireMinion.DisplayName: Escudero Pícaro Dorado
+			AscendingGuideArrow.DisplayName: Flecha Ascendente del Guía
+			DescendingGuideArrow.DisplayName: Flecha Descendente del Guía
+			GuideArrow.DisplayName: Flecha del Guía
+			GuideSquireMinion.DisplayName: Escudero Guía
+			MushroomSquireMinion.DisplayName: Escudero Hongo
+			MushroomSquireMushroomProjectile.DisplayName: Proyectil de Hongo del Escudero Hongo
+			PottedPalJrMinion.DisplayName: Súbdito Amiguito en Maceta Jr
+			PottedPalMinion.DisplayName: Amiguito en Maceta
+			PottedPalSeedProjectile.DisplayName: Proyectil de Semilla del Amiguito en Maceta
+			BigPumpkinBomb.DisplayName: Gran Bomba de Calabaza
+			PumpkinSquireMinion.DisplayName: Escudero Calabaza
+			SeaSquireBubble.DisplayName: Burbuja del Escudero del Mar
+			SeaSquireMinion.DisplayName: Escudero del Mar
+			SeaSquireSharkMinion.DisplayName: Tiburón del Escudero del Mar
+			CorruptFlaskProjectile.DisplayName: Proyectil del Frasco Corrupto
+			ShadowSquireMinion.DisplayName: Escudero Sombrío
+			SkywareArrow.DisplayName: Flecha Celeste
+			SkywareLargeArrow.DisplayName: Flecha Celeste Grande
+			SkywareSquireMinion.DisplayName: Escudero Celeste
+			SoulboundArsenalArrow.DisplayName: Flecha del Arsenal Ligado al Alma
+			SoulboundArsenalLaser.DisplayName: Láser del Arsenal Ligado al Alma
+			SoulboundArsenalMinion.DisplayName: Arsenal Ligado al Alma
+			SoulboundArsenalSwordProjectile.DisplayName: Proyectil de Espada del Arsenal Ligado al Alma
+			SoulboundArrow.DisplayName: Flecha Ligada al Alma
+			SoulboundBowMinion.DisplayName: Escudero de Cobalto Antiguo
+			SoulboundSpecialSword.DisplayName: Espada Especial Ligada al Alma
+			SoulboundDescendingArrow.DisplayName: Flecha Descendente Ligada al Alma
+			SoulboundSpecialBow.DisplayName: Arco Especial Ligado al Alma
+			SoulboundSwordMinion.DisplayName: Espada Ligada al Alma
+			SqueyereEyeLaser.DisplayName: Láser del Ojo de Squeyere
+			SqueyereEyeMinion.DisplayName: Súbdito Ojo de Squeyere
+			SqueyereLaser.DisplayName: Láser de Squeyere
+			SqueyereMinion.DisplayName: Escudero de Cobalto Antiguo
+			ConstellationSeed.DisplayName: Semilla de Constelación
+			StardustBeastProjectile.DisplayName: Proyectil de la Bestia de Polvo Estelar
+			StardustConstellation.DisplayName: Constelación de Polvo Estelar
+			StardustGuardianProjectile.DisplayName: Proyectil del Guardián de Polvo Estelar
+			StardustHomingStar.DisplayName: Estrella Autoguiada de Polvo Estelar
+			StardustSquireMinion.DisplayName: Escudero de Cobalto Antiguo
+			StarFistProjectile.DisplayName: Proyectil del Puño Estelar
+			TitaniumDroneDamageHitbox.DisplayName: Zona de Daño del Dron de Titanio
+			TitaniumSquireDrone.DisplayName: Dron del Escudero de Titanio
+			TitaniumSquireMinion.DisplayName: Escudero de Titanio
+			VikingSquireMinion.DisplayName: Escudero Vikingo
+			GuideVoodooSquireMinion.DisplayName: Escudero Guía
+			WoFSquireMinion.DisplayName: Escudero de Carne
+			SoulboundArsenalBowMinion.DisplayName: Súbdito Arco del Arsenal Ligado al Alma
+			BlueChickenEggProjectile.DisplayName: Proyectil de Huevo de la Gallina Azul
+			BlueChickenMinion.DisplayName: Súbdito Gallina Azul
+			JuminoMinion.DisplayName: Súbdito de Jumino
+			JunimoMinion.DisplayName: Súbdito de Junimo
+			SpiffoMinion.DisplayName: Súbdito de Spiffo
+			CavelingGardenerMinion.DisplayName: Súbdito Cavernícola Jardinero
+			DirtiestBlockMinion.DisplayName: Súbdito Bloque Más Sucio
+		}
+
+		Keybinds: {
+			CycleMinionTactic.DisplayName: Cambiar Táctica de Súbdito
+			CycleTacticsGroup.DisplayName: Cambiar Grupo de Tácticas
+			MinionQuickDefend.DisplayName: Defensa Rápida de Súbditos
+		}
+
+		Common: {
+			AoMMVersion: (Versión de AoMM)
+			ConcatenateTwo: "{0} {1}"
+
+			Tooltips: {
+				DecreasesMaxMinionsBy: Reduce tu número máximo de súbditos en {0}
+				DecreasesMinionVarietyBonusBy: Reduce el bono de variedad de súbditos en un {0}%
+				IncreasesMaxCombatPetsBy: Aumenta tu número máximo de mascotas de combate en {0}
+				IncreasesMinionDamageBy: Aumenta el daño de invocación en un {0}%
+				IncreasesMinionKnockbackByFlat: Aumenta el retroceso de los súbditos en {0}
+				IncreasesSquireDamageBy: Aumenta el daño de escudero en un {0}%
+				IncreasesMinionDamage: Aumenta el daño de invocación
+				IncreasesMinionVarietyBonusBy: Aumenta el bono de variedad de súbditos en un {0}%
+				IncreasesSquireTravelRangeBy: Aumenta el alcance de desplazamiento del escudero en {0} {^0:bloque;bloques}
+				IncreasesSquireAttackSpeedBy: Aumenta la velocidad de ataque en un {0}% mientras usas un escudero
+				IncreasesCombatPetMovementSpeed: Aumenta la velocidad de movimiento de la mascota de combate
+				IgnoresEnemyDefense: Ignora {0} de defensa enemiga
+				AllowsMinionAttackAroundCornersIn: Permite que tus súbditos ataquen automáticamente alrededor de esquinas en un radio de {0} bloques
+				OccupiesPetSlots:
+					'''
+
+					Ocupa {0} espacios de Mascota de Combate
+					'''
+			}
+
+			Replicas: {
+				Replica: Réplica
+				CommonTooltip:
+					'''
+					Cuentan las leyendas que solo un verdadero maestro es capaz de dominar el poder de esta mascota.
+					¡Pero ahora tú también puedes, por un simple pago de 50 monedas de oro!
+					'''
+			}
+
+			Squires: {
+				SummonsASquire: Invoca a un Escudero
+				ClickAndHold: Haz clic y mantén presionado para guiar sus ataques
+				ClickAndHoldPlural: Haz clic y mantén presionado para guiar sus ataques
+				RightClickSpecial: Especial de Clic Derecho: {0}
+			}
+
+			WaypointRods: {
+				CommonTooltip:
+					'''
+					Herramienta
+					¡Haz clic para colocar un punto de referencia de guía para súbditos!
+					Los súbditos navegarán automáticamente hacia el punto de referencia
+					Atacar con un arma que no sea de invocación disipa el punto de referencia
+					Los súbditos infligen menos daño al atacar un punto de referencia lejano
+					'''
+				WaypointRange: Alcance de {0} bloques
+			}
+
+			CombatPetEmblems: {
+				CommonTooltip:
+					'''
+					¡Un emblema que aumenta el poder de tus mascotas de combate!
+					Mientras este objeto esté en tu inventario, tu mascota de combate infligirá
+					daño adicional y recibirá un bono a la velocidad de movimiento y al alcance de ataque.
+					'''
+				MinionSlotsToCombatPet: Además, puedes usar hasta {0} de tus espacios de súbditos en mascotas de combate.
+			}
+
+			CombatPets: {
+				CommonDescription:
+					'''
+					¡El espíritu de lucha de esta mascota ha despertado!
+					Puede potenciarse llevando un Emblema de Mascota de Combate.
+					'''
+				NotLeveledUp:
+					'''
+					¡Esta mascota obtendrá un patrón de ataque más fuerte si llevas un
+					{0} o algo más fuerte!
+					'''
+				LeveledUp: ¡Tu emblema activa el patrón de ataque más fuerte de esta mascota!
+			}
+
+			RecipeGroups: {
+				Any: "{0} {1}"
+				EitherOr: "{0}/{1}"
+			}
+
+			OccupiesPetSlots: Mods.AmuletOfManyMinions.Common.OccupiesPetSlots
+		}
+
+		CombatPetLevels: {
+			Base: Básico
+			Golden: Dorado
+			Demonite: Corrupción/Carmesí
+			Skeletal: Esquelético
+			Soulful: Anímico
+			Hallowed: Sagrado
+			Spectre: Espectral
+			Stardust: Polvo Estelar
+			Celestial: Celestial
+		}
+
+		CombatPetQuiz: {
+			PersonalityTypes: {
+				NONE: ninguna
+				CALM: serena
+				HARDY: fuerte
+				QUIRKY: rara
+				JOLLY: alegre
+				QUIET: mansa
+				BOLD: osada
+				HASTY: activa
+				RELAXED: plácida
+			}
+
+			QuizResults: {
+				CALM: Cachorro de Planta
+				HARDY: Tortuga Trufa
+				QUIRKY: Ajolotito
+				JOLLY: Caimancito
+				QUIET: Topo Brasas
+				BOLD: Gallina Brasas
+				HASTY: Libélula Viverna
+				RELAXED: Nubefante
+			}
+
+			Quizzes: {
+				QuizWithDominantTraits: {
+					IntroLines: {
+						0: ¡Bienvenido al mundo de Terraria!
+						1: Terraria puede ser un lugar peligroso, ¡pero tener un buen amigo a tu lado siempre lo hace mejor!
+						2: Para ayudarte a ti y a tu nuevo amigo a conocerse mejor, ¡aquí van algunas preguntas!
+						3: Asegúrate de responder con sinceridad. ¡Empecemos!
+					}
+
+					OutroLines: {
+						0: ¡Gracias por responder esas preguntas!
+						1: Según tus respuestas, pareces tener una naturaleza... ¡{0}!
+						2: Alguien de naturaleza {0} como tú haría muy buena amistad con... ¡{1}!
+						3: ¡Que tú y tu nuevo amigo disfruten de muchas aventuras!
+					}
+				}
+
+				ClassSpecificQuiz: {
+					IntroLines: {
+						0: ¡Bienvenido de nuevo al mundo de Terraria!
+						1: ¡Espero que tú y tus amigos hayan estado disfrutando de sus aventuras!
+						2: ¿Sabes cuál es lo único mejor que tener amigos? ¡Tener más amigos!
+					}
+
+					OutroLines: {
+						0: ¡Ah, será estupendo tener un amigo de naturaleza {0}!
+						1: ¡{1} —con una personalidad {0}— se une a tu equipo con muchas ganas!
+						2: ¡Que tú y tu nuevo amigo disfruten de muchas aventuras!
+					}
+
+					Text: ¿Qué tipo de amigo te gustaría que te acompañara en tu viaje?
+
+					Answers: {
+						0: ¡Un amigo con una pasión ardiente!
+						1: ¡Un amigo que sabe dejarse llevar!
+						2: ¡Un amigo con los pies en la tierra!
+						3: ¡Un amigo con la cabeza en las nubes!
+					}
+				}
+			}
+
+			Questions: {
+				0: {
+					Text: Bien, pero ¿cuál es realmente tu clase favorita para jugar?
+
+					Answers: {
+						CALM: Invocador.
+						QUIRKY: ¿Invocador?
+						BOLD: ¡Invocador!
+					}
+				}
+
+				1: {
+					Text: ¿Cuál es tu clase favorita para jugar?
+
+					Answers: {
+						HARDY: Cuerpo a cuerpo.
+						BOLD: A distancia.
+						CALM: Mago.
+					}
+				}
+
+				2: {
+					Text: Le diste clic a Reforjar una vez de más por accidente, ¡y ahora tu Zenith Legendario está Roto! ¿Qué haces?
+
+					Answers: {
+						QUIET: Llorar.
+						JOLLY: Seguir dándole a "Reforjar".
+						QUIRKY: ¡Instalar Consistent Reforging!
+					}
+				}
+
+				3: {
+					Text: ¡El Sastre perdió su sombrero y dice que el Guía se lo robó! ¿Cómo ayudas?
+
+					Answers: {
+						QUIET: Dejar que lo resuelvan peleando.
+						BOLD: Confrontar al Guía directamente.
+						CALM: Intentar mediar.
+					}
+				}
+
+				4: {
+					Text: ¡Ves a un inocente Conejo siendo perseguido por un grupo de Duendes Exploradores! ¿Intervienes?
+
+					Answers: {
+						BOLD: Sí.
+						CALM: No.
+						JOLLY: ¡Perseguir al conejo también!
+					}
+				}
+
+				5: {
+					Text: Acabas de empezar un nuevo mundo. ¿Cómo le construyes una casa al Guía?
+
+					Answers: {
+						CALM: Una linda cabaña.
+						QUIET: Un cubo prisión.
+						HASTY: Ninguna casa.
+					}
+				}
+
+				6: {
+					Text: ¡Re-Logic acaba de nerfear tu arma favorita! ¿Cómo te adaptas?
+
+					Answers: {
+						HARDY: Seguir usándola.
+						JOLLY: ¡Probar una nueva!
+					}
+				}
+
+				7: {
+					Text: ¿Prefieres construir o aventurarte?
+
+					Answers: {
+						RELAXED: Construir.
+						BOLD: Aventurarme.
+						QUIRKY: ¡Pescar!
+					}
+				}
+
+				8: {
+					Text: Después de saquear un cofre, ¿te llevas el cofre contigo?
+
+					Answers: {
+						HARDY: Sí.
+						QUIRKY: No.
+					}
+				}
+
+				9: {
+					Text: Mientras exploras una cueva, ves un cofre del tesoro a plena vista.
+
+					Answers: {
+						QUIRKY: ¡Genial, un tesoro!
+						HARDY: ¡Es un cofre falso!
+						QUIET: ¡Es un cofre con trampa!
+					}
+				}
+
+				10: {
+					Text: ¿Cuál es tu color favorito?
+
+					Answers: {
+						BOLD: Rojo.
+						CALM: Verde.
+						JOLLY: Azul.
+					}
+				}
+
+				11: {
+					Text: ¿Qué tan organizados tienes tus cofres?
+
+					Answers: {
+						HASTY: Para nada.
+						QUIRKY: Un poco.
+						QUIET: Muy organizados.
+					}
+				}
+
+				12: {
+					Text: Acabas de llegar a la entrada del calabozo, ¡pero la noche ya va a la mitad! ¿Qué haces?
+
+					Answers: {
+						HASTY: ¡Pelear contra Skeletron de inmediato!
+						HARDY: Construir primero una arena improvisada.
+						RELAXED: Esperar hasta la noche siguiente
+					}
+				}
+
+				13: {
+					Text: ¡Una sonda marciana te tomó por sorpresa y ahora se aleja volando! ¿Cómo respondes?
+
+					Answers: {
+						QUIET: Guardar y salir rápidamente.
+						HASTY: ¡Perseguirla!
+						QUIRKY: ¡Genial! ¡Invasión Marciana!
+					}
+				}
+
+				14: {
+					Text: ¿Prefieres la comida dulce o la comida salada?
+
+					Answers: {
+						JOLLY: ¡Dulce!
+						RELAXED: Salada.
+					}
+				}
+
+				15: {
+					Text: ¿Cuál es tu dificultad favorita para jugar?
+
+					Answers: {
+						RELAXED: Normal.
+						HARDY: Experto.
+						BOLD: Maestro.
+					}
+				}
+
+				16: {
+					Text: Estás jugando multijugador y encontraste un objeto único de un cofre. ¿Cómo manejas el hecho de compartirlo?
+
+					Answers: {
+						HASTY: El primero que llega, se lo lleva.
+						RELAXED: Repartir el botín equitativamente.
+					}
+				}
+
+				17: {
+					Text: ¿Prefieres a los Escuderos o los látigos?
+
+					Answers: {
+						CALM: Escuderos.
+						QUIET: ¿Escuderos?
+						JOLLY: ¡Escuderos!
+					}
+				}
+
+				18: {
+					Text: ¿Replantas los árboles después de talarlos?
+
+					Answers: {
+						HASTY: ¡Nunca!
+						CALM: De inmediato.
+						RELAXED: Después de un tiempo.
+					}
+				}
+			}
+
+			ClassSpecificQuestions: {
+				0: {
+					Text: ¡Un amigo ardiente es una gran elección! ¿Cómo debería ser su carácter?
+
+					Answers: {
+						BOLD: ¡Extrovertido y audaz!
+						QUIET: Reservado y callado.
+					}
+				}
+
+				1: {
+					Text: ¡Un amigo relajado es una gran elección! ¿Cómo debería ser su carácter?
+
+					Answers: {
+						JOLLY: ¡Alegre y despreocupado!
+						QUIRKY: ¡Peculiar y excéntrico!
+					}
+				}
+
+				2: {
+					Text: ¡Un amigo con los pies en la tierra es una gran elección! ¿Cómo debería ser su carácter?
+
+					Answers: {
+						HARDY: ¡Fuerte y resiliente!
+						CALM: Sereno y tranquilo.
+					}
+				}
+
+				3: {
+					Text: ¡Un amigo con la cabeza en las nubes es una gran elección! ¿Cómo debería ser su carácter?
+
+					Answers: {
+						RELAXED: ¡Relajado y despreocupado!
+						HASTY: Apresurado y ambicioso.
+					}
+				}
+			}
+
+			NextButton.Text: Siguiente
+		}
+
+		TargetSelectionTactics: {
+			AttackGroups: {
+				DisplayName: Grupos de Ataque
+				Description: Ataca a enemigos que estén cerca unos de otros
+			}
+
+			ClosestEnemyToMinion: {
+				DisplayName: Enemigo Más Cercano al Súbdito
+				Description: Ataca al enemigo más cercano al súbdito
+			}
+
+			ClosestEnemyToPlayer: {
+				DisplayName: Enemigo Más Cercano al Jugador
+				Description: Ataca al enemigo más cercano al jugador
+			}
+
+			LeastDamagedEnemy: {
+				DisplayName: Enemigo Menos Dañado
+				Description: Ataca al enemigo con la vida [c/FF0000:actual más alta]
+			}
+
+			MostDamagedEnemy: {
+				DisplayName: Enemigo Más Dañado
+				Description: Ataca al enemigo con la vida [c/FF0000:actual más baja]
+			}
+
+			SpreadOut: {
+				DisplayName: Dispersarse
+				Description: Cada súbdito ataca a un enemigo diferente si es posible
+			}
+
+			StrongestEnemy: {
+				DisplayName: Enemigo Más Fuerte
+				Description: Ataca al enemigo con la vida [c/FF0000:máxima más alta]
+			}
+
+			WeakestEnemy: {
+				DisplayName: Enemigo Más Débil
+				Description: Ataca al enemigo con la vida [c/FF0000:máxima más baja]
+			}
+		}
+
+		TacticsGroups: {
+			Description:
+				'''
+				Cada grupo de tácticas puede tener asignada una táctica y un punto de referencia distintos.
+				Asigna el grupo de tácticas de un súbdito haciendo clic izquierdo en su ícono de mejora
+				'''
+			Sun: Grupo Sol
+			Moon: Grupo Luna
+			Both: Ambos Grupos
+			Close: Cerrar Tácticas de Súbditos
+			Open: Abrir Tácticas de Súbditos
+		}
+
+		DropConditions: {
+			SlimepireCondition.Description: Cae durante una Luna de Sangre en Modo Difícil
+			AnyLunarEventCondition.Description: Cae durante cualquier Evento Lunar
+			NoLunarEventCondition.Description: No cae durante ningún Evento Lunar
+			FirstBossDefeatedCondition.Description: Cae después de derrotar al primer jefe
+		}
+
+		Configs: {
+			ClientConfig: {
+				DisplayName: Configuración de Cliente
+
+				Headers: {
+					GeneralConfiguration: Configuración General
+					TacticsConfiguration: Configuración de Tácticas
+				}
+
+				TacticsUIAnchor: {
+					Label: Posición de Anclaje de la UI de Tácticas de Súbditos
+					Tooltip: Elige entre anclar la UI al lado derecho del inventario, o al lado izquierdo de la vida/minimapa
+				}
+
+				QuickDefendHotkeyStyleNew: {
+					Label: Estilo de Tecla de Defensa Rápida de Súbditos
+					Tooltip: Elige si la Defensa Rápida de Súbditos se activa/desactiva con la tecla, o se activa mientras se mantiene presionada
+				}
+
+				ShowMinionVarietyBonus: {
+					Label: Mostrar Bono de Variedad de Súbditos
+					Tooltip: Si está activado, muestra el bono de variedad de súbditos actual del usuario en la descripción de una mejora
+				}
+
+				IgnoreVanillaTargetReticle: {
+					Label: Las Tácticas Ignoran la Retícula de Objetivo de Súbditos Vanilla
+					Tooltip:
+						'''
+						Si está activado, los súbditos ignorarán la retícula de objetivo de súbditos vanilla en favor del PNJ seleccionado por la táctica actual
+						Nota: Esto no aplica a las retículas colocadas al golpear enemigos con un látigo
+						'''
+				}
+
+				WhipRightClickTacticsRadial: {
+					Label: Activar Menú Rápido de Tácticas de Látigo
+					Tooltip:
+						'''
+						Si está activado, hacer clic derecho con un látigo abrirá el Menú Radial de Tácticas
+						Nota: Puede interferir con el clic derecho de látigos añadidos por mods.
+						'''
+				}
+			}
+
+			ServerConfig: {
+				DisplayName: Configuración de Servidor
+
+				Headers: {
+					TacticsConfiguration: Configuración de Tácticas
+					BalanceConfiguration: Configuración de Balance
+					CrossModCompatibility: Compatibilidad entre Mods
+				}
+
+				WhipsSetWaypoint: {
+					Label: Los Látigos Establecen el Punto de Referencia de Tácticas
+					Tooltip: Si está activado, golpear a un enemigo con un látigo moverá el punto de referencia de tácticas a ese enemigo.
+				}
+
+				SquiresSetWaypoint: {
+					Label: Los Escuderos Cuerpo a Cuerpo Establecen el Punto de Referencia de Tácticas
+					Tooltip: Si está activado, golpear directamente a un enemigo con un escudero moverá el punto de referencia de tácticas a ese enemigo.
+				}
+
+				SquireProjSetWaypoint: {
+					Label: Los Escuderos a Distancia Establecen el Punto de Referencia de Tácticas
+					Tooltip: Si está activado, golpear a un enemigo con un proyectil disparado por un escudero moverá el punto de referencia de tácticas a ese enemigo.
+				}
+
+				GlobalDamageMultiplier: {
+					Label: Escala de Daño Global
+					Tooltip: Escala el daño de cada objeto del mod por un porcentaje positivo o negativo. 100% = valor por defecto
+				}
+
+				OtherDamageMinionNerf: {
+					Label: Anti-Sinergia de No-Súbditos
+					Tooltip: Reduce el daño infligido por armas que no son de invocación mientras un súbdito está activo
+				}
+
+				MinionDamageSquireNerf: {
+					Label: Anti-Sinergia de Súbdito/Escudero
+					Tooltip: Reduce el daño de los súbditos en un porcentaje mientras un escudero está activo
+				}
+
+				SquireDamageMinionNerf: {
+					Label: Anti-Sinergia de Escudero/Súbdito
+					Tooltip: Reduce el daño del escudero en un porcentaje por *cada* súbdito activo
+				}
+
+				MinionsInnacurate: {
+					Label: Los Súbditos Son Menos Precisos
+					Tooltip: Si está activado, los súbditos dispararán con menos precisión y girarán con menos brusquedad al perseguir enemigos
+				}
+
+				SquireMinionSlot: {
+					Label: Los Escuderos Ocupan un Espacio de Súbdito
+					Tooltip: Si está activado, los escuderos ocuparán un espacio de súbdito
+				}
+
+				SquireSpecialsWithWhips: {
+					Label: Permitir Especiales de Escudero Mientras se Usan Látigos
+					Tooltip: Si está activado, los especiales de clic derecho del escudero pueden activarse mientras se sostiene un látigo
+				}
+
+				SquiresDealTagDamage: {
+					Label: Los Escuderos Infligen Daño de Marca de Invocación
+					Tooltip: Si está activado, los escuderos otorgarán un bono fijo de 10% de daño de marca de invocación
+				}
+
+				CombatPetsMinionSlots: {
+					Label: Todas las Mascotas de Combate Ocupan un Espacio de Súbdito
+					Tooltip: Si está activado, cada mascota de combate ocupará un espacio de súbdito. De lo contrario, la primera invocada es gratuita.
+				}
+
+				AllowMultipleCombatPets: {
+					Label: Permitir Múltiples Mascotas de Combate
+					Tooltip: Si está activado, los emblemas de mascota de combate de nivel más alto aumentarán la cantidad de mascotas que puedes controlar.
+				}
+
+				DisableSummonersShineAI: {
+					Label: Summoner's Shine: Desactivar Cambios de IA
+					Tooltip: Si está activado, desactiva los cambios de IA en los súbditos de este mod realizados por Summoner's Shine.
+				}
+			}
+
+			TacticsUIAnchorType: {
+				Tooltip: ""
+				Health.Label: Vida
+				Inventory.Label: Inventario
+			}
+
+			QuickDefendHotkeyStyleType: {
+				Tooltip: ""
+				Toggle.Label: Alternar
+				Hold.Label: Mantener
+			}
+
+			Common.AcceptClientChanges: No eres el propietario del servidor, así que no puedes cambiar esta configuración
+		}
+	}
+}

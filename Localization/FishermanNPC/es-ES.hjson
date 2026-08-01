@@ -1,0 +1,405 @@
+Mods: {
+	FishermanNPC: {
+		Configs: {
+			FishermanNPCConfigServer: {
+				DisplayName: Opciones de Servidor de Fisherman NPC
+
+				SellModdedItems: {
+					Label: "[i:3122]   Vender objetos personalizados de Fisherman NPC"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá los objetos personalizados añadidos por este mod.
+						  Activado: El Pescador SÍ venderá los objetos personalizados añadidos por este mod.
+						  Desactivado: El Pescador NO venderá los objetos personalizados añadidos por este mod.
+						    Desactívalo para eliminar los objetos del mod.
+						Valor por defecto: Activado
+						'''
+				}
+
+				SellBait: {
+					Label: "[i:2002]   Vender Cebo"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá cebo.
+						  Activado: El Pescador SÍ venderá cebo.
+						  Desactivado: El Pescador NO venderá cebo.
+						    Desactívalo para eliminar el cebo de la tienda.
+						Valor por defecto: Activado
+						'''
+				}
+
+				SellFish: {
+					Label: "[i:2290]   Vender Pescado"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá pescado.
+						  Activado: El Pescador SÍ venderá pescado.
+						  Desactivado: El Pescador NO venderá pescado.
+						    Desactívalo para eliminar el pescado de la tienda.
+						Valor por defecto: Activado
+						'''
+				}
+
+				SellFishingRods: {
+					Label: "[i:2291]   Vender Cañas de Pescar"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá cañas de pescar.
+						  Activado: El Pescador SÍ venderá cañas de pescar.
+						  Desactivado: El Pescador NO venderá cañas de pescar.
+						    Desactívalo para eliminar las cañas de pescar de la tienda.
+						Valor por defecto: Activado
+						'''
+				}
+
+				SellExtraItems: {
+					Label: "[i:3120]   Vender Objetos Extra"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá objetos extra, tales como:
+						accesorios de pesca, piezas del Buscador de Peces, y objetos de vanidad.
+						  Activado: El Pescador venderá objetos extra.
+						  Desactivado: El Pescador NO venderá objetos extra.
+						    Desactívalo para eliminar los objetos extra de la tienda.
+						Valor por defecto: Activado
+						'''
+				}
+
+				ShopPriceScaling: {
+					Label: "[i:87]   Escala de Precios de la Tienda"
+					Tooltip:
+						'''
+						Esta opción ajusta la escala de los precios en la tienda del Pescador.
+						  50 significa la mitad del precio normal.
+						  200 significa el doble del precio normal.
+						    Cambia este valor si quieres que la tienda sea más barata o más cara.
+						Valor por defecto: 100
+						'''
+				}
+
+				TownNPCsCrossModSupport: {
+					Label: "[i:3121]   Compatibilidad entre Mods del Pescador"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador venderá objetos de otros mods,
+						si tendrá diálogo entre mods, y felicidad entre mods.
+						  Activado: El Pescador venderá objetos entre mods.
+						  Desactivado: El Pescador NO venderá objetos entre mods.
+						    Desactívalo para eliminar los objetos y diálogos entre mods.
+						Valor por defecto: Activado
+						No requiere recarga para el diálogo y los objetos de la tienda.
+						Requiere recarga para la felicidad.
+						'''
+				}
+
+				CatchNPCs: {
+					Label: "[i:1991]   Atrapar al Pescador"
+					Tooltip:
+						'''
+						Esta opción determina si el Pescador añadido por este mod puede ser
+						atrapado con una Red para Insectos (al estilo de Fargo's Mutant Mod).
+						  Activado: El Pescador SÍ puede ser atrapado.
+						  Desactivado: El Pescador NO puede ser atrapado.
+						    Actívalo para atrapar al Pescador.
+						Valor por defecto: Desactivado
+						Requiere una recarga.
+						'''
+				}
+
+				LoadDebugItems: {
+					Label: "[i:784]   Cargar Objetos de Depuración"
+					Tooltip:
+						'''
+						Esta opción determina si se cargarán los objetos de depuración.
+						  Activado: Los objetos de depuración SÍ se cargarán.
+						  Desactivado: Los objetos de depuración NO se cargarán.
+						    Actívalo para cargar los objetos de depuración.
+						Actualmente esto afecta a:
+						    Cambiador de Misión del Angler (Depuración)
+						Valor por defecto: Desactivado
+						Requiere una recarga.
+						'''
+				}
+
+				Headers.ServerHeader: "[c/00FF00:Opciones de Servidor]"
+				MultiplayerMessage: ¡No eres el propietario del servidor, así que no puedes cambiar esta configuración!
+			}
+		}
+
+		Common: {
+			// The following words are used for the Bestiary happiness text.
+			Forest: Bosque
+			Ocean: Océano
+			Desert: Desierto
+			None: Ninguno
+		}
+
+		Conditions: {
+			SellModdedItems: La opción 'Vender objetos personalizados de Fisherman NPC' está activada
+			SellBait: La opción 'Vender Cebo' está activada
+			SellFish: La opción 'Vender Pescado' está activada
+			SellFishingRods: La opción 'Vender Cañas de Pescar' está activada
+			SellExtraItems: La opción 'Vender Objetos Extra' está activada
+			TownNPCsCrossModSupport: La opción 'Compatibilidad entre Mods del Pescador' está activada
+			AnyUnderground: En el Subsuelo, las Cavernas, o el Inframundo
+			AnyUndergroundOrHardmode: En el Subsuelo, las Cavernas, el Inframundo, o en Modo Difícil
+			AnyUndergroundNotDesert: En el Subsuelo, las Cavernas, el Inframundo, y no en el Desierto
+			InCavernsOrUnderworld: En las Cavernas o el Inframundo
+			DownedBocOrEoWCrimsonOrHardmode: Tras derrotar al Cerebro de Cthulhu, en un mundo Carmesí, o en Modo Difícil
+			DownedBocOrEoWCorruptionOrHardmode: Tras derrotar al Devorador de Mundos, en un mundo de Corrupción, o en Modo Difícil
+			InJungleOrHardmode: En la Jungla o en Modo Difícil
+			InUnderworldOrHardmode: En el Inframundo o en Modo Difícil
+			CountTownNPCsS: Cuando haya {0} o más PNJs del pueblo en el mundo
+			NotInDesert: No en el desierto
+			BocOrMoonLord: Tras derrotar al Cerebro de Cthulhu en un mundo Carmesí, o tras derrotar al Señor de la Luna
+			EowOrMoonLord: Tras derrotar al Devorador de Mundos en un mundo de Corrupción, o tras derrotar al Señor de la Luna
+
+			Calamity: {
+				CragAstralOrSulphur: En las Grietas de Azufre, la Infección Astral, o el Mar Sulfuroso
+				DownedOldDuke: Tras derrotar al Viejo Duque
+				AstralAndHardmode: En la Infección Astral y en Modo Difícil
+				InCrag: En las Grietas de Azufre
+				InSunkenSea: En el Mar Hundido
+				DownedDesertScourge: Tras derrotar al Azote Desértico
+				DownedHiveMindOrPerforators: Tras derrotar a la Mente Colmena o a los Perforadores
+				DownedCryogen: Tras derrotar a Cryogen
+				DownedProvidence: Tras derrotar a Providencia
+				DownedDoG: Tras derrotar al Devorador de Dioses
+			}
+
+			Thorium.DownedForgottenOne: Tras derrotar al Ser Olvidado
+			ThoriumMod.DownedForgottenOne: Mods.FishermanNPC.Conditions.ThoriumMod.DownedForgottenOne
+			CrossModError: ¡Hubo un error con este objeto entre mods!
+		}
+
+		NPCs: {
+			Fisherman: {
+				DisplayName: Pescador
+
+				TownNPCMood: {
+					Content: Todo va sobre ruedas.
+					NoHome: ¿Podrías conseguirme algún tipo de embarcación? ¡Un hombre necesita un lugar donde dormir!
+					LoveSpace: Disfruto del espacio abierto, igual que el vasto océano.
+					FarFromHome: ¡Hombre al agua! ¡Estoy demasiado lejos de mi hogar!
+					DislikeCrowded: Preferiría tener algo más de espacio personal.
+					HateCrowded: Se supone que pescar es relajante, ¡pero no puedo concentrarme con todo el mundo alrededor!
+					LikeBiome: Hay muchos peces que pescar en {BiomeName}.
+					LoveBiome: Me encanta {BiomeName}, ¡es el mejor lugar para ir a pescar!
+					DislikeBiome: La falta de agua en {BiomeName} hace que pescar sea más difícil de lo que debería.
+					HateBiome: Por Davy Jones, ¡{BiomeName} no es un lugar seguro!
+					LikeNPC: Considero a {NPCName} parte de mi tripulación. Es una persona en la que se puede confiar.
+					LikeNPC_Princess: "{NPCName} se ha ofrecido a conseguirme una lujosa embarcación nueva. ¡Qué amable de su parte!"
+					LoveNPC: No, no soy el padre de {NPCName}, ¡pero cuidaré de él con gusto!
+					DislikeNPC: No me gusta estar cerca de {NPCName}. No es el tipo de persona con la que me junto.
+					HateNPC: Odio a {NPCName}. Insulta mi persona y mi oficio.
+					Princess_LovesNPC: ¡{NPCName} pesca todo tipo de peces deliciosos para el pueblo!
+				}
+
+				NPCDialog: {
+					# {0} will be replaced with other text (usually the name of another NPC). It is important that you keep {0} somewhere in the string.
+					# If a line starts with {0}, the line must be in quotes.
+					Default1: Saludos. ¿Te apetece ir a pescar?
+					Default2: Tengo todo lo que necesitas si quieres ir a pescar.
+					Default3: ¿Cañas de pescar? ¿Cebo? ¿Anzuelos? ¿Los quieres?
+					Default4: Asegúrate de tener cebo en tu anzuelo.
+					Default5: Hay todo tipo de peces extraños en estas aguas; ¡mira qué puedes pescar!
+					Default6: ¡Ahoy! Me llamo {0}.
+					Rare1: Hmm... Parece que he perdido mi caña...
+					Rare2: Estabas pagando demasiado por los gusanos. Ahora soy tu nuevo proveedor de gusanos.
+					Hurt: Eso va a dejar marca.
+					DayTime: Un bonito día soleado, hoy.
+					DayTimeRaining: ¡La lluvia es el momento perfecto para ir a pescar!
+					NightTime: Hora de dormir un poco.
+					NightTimeRaining: Ten cuidado ahí fuera. ¡Hay una tormenta muy fea esta noche!
+					Homeless: ¿Podrías conseguirme algún tipo de embarcación? ¡Un hombre necesita un lugar donde dormir!
+					HasHome: ¡Ahora sí que puedo montar mi tienda como es debido! ¡Asegúrate de comprar algo!
+					PlayerHasWings: Sí, una vez vi un pez grande con alas...
+					PlayerHasLadyBug: Yo no usaría esa mariquita como cebo si fuera tú. Cuentan historias de una maldición terrible si lo haces...
+					Party1: ¡Esa es la pesca más grande que he visto! Hora de celebrar.
+					Party2: Me cociné un poco de Atún Abejorro. ¡Esas cosas están deliciosas!
+					BloodMoon: He oído que esta noche hay criaturas de lo más extrañas nadando en el agua. ¡A pescarlas!
+					HowDidIGetHere: Alguna especie de tormenta debió de desviarme de mi rumbo. Sé que no pretendía estar aquí en este momento.
+					SellNothing: Una fuerza misteriosa me dijo que no vendiera nada. Dijeron que revisara la "configuración", sea lo que sea eso.
+					AnglerInfo: "{0} anda detrás de todo tipo de peces exóticos. Deberías ver qué es lo que quiere hoy. Por ahora, has completado {1} para él."
+					# The space at the end is important here. Unless your language doesn't need spaces or something.
+					AnglerQuest1: "Hasta ahora has completado {1} misiones para {0} el Angler. "
+					AnglerQuest2: ¡Creo que es hora de que empieces!
+					AnglerQuest3: ¡Sigue así!
+					AnglerQuest4: ¡Buen trabajo! ¡Sigue así!
+					AnglerQuest5: ¡Buen trabajo, hijo! Has completado {1} misiones para {0} el Angler. ¿Por qué no sigues así?
+					AnglerQuest6: ¡Buen trabajo, muchacha! Has completado {1} misiones para {0} el Angler. ¿Por qué no sigues así?
+					AnglerHappiness: No, no soy el padre de {0} el Angler, ¡pero cuidaré de él con gusto!
+					PirateHappiness: No confiaría en {0} el Pirata. He tenido más de un encontronazo con piratas.
+					PrincessHappiness: "{0} la Princesa se ha ofrecido a conseguirme una lujosa embarcación nueva. ¡Qué amable de su parte!"
+					TruffleNormal: De vez en cuando cojo Champiñones Brillantes para usarlos como cebo. No creo que {0} sepa que hago eso, ¡así que no se lo digas!
+					TruffleHappiness: Soy amigo de {0} el Trufa. ¡Los Champiñones Brillantes son un buen cebo!
+					NurseHappiness: No me cae bien {0} la Enfermera. Siempre me insiste con revisiones que no necesito.
+					MechanicHappiness: "{0} la Mecánica siempre está aquí para ayudarme cuando mi barco necesita reparaciones."
+					ThoriumMod.Diverman: ¡{0} sí que es el tipo de persona que respeto!
+
+					CalamityMod: {
+						SeaKing: Amidias es una persona de lo más interesante. Espero que no le importe que pesque por aquí.
+						Warn1: Cuidado con las sirenas, hijo, no todas son amistosas.
+						Warn2: Cuidado con las sirenas, muchacha, no todas son amistosas.
+					}
+
+					SGAmod.Sharkvern: ¿Un Shark-qué? Eso sí que es un capricho de la naturaleza.
+					FargosMutant.Mutant: Las alas que tiene {0} me recuerdan a otra cosa...
+					NoFishingQuests.AnglerShop: Parece que {0} ha empezado a vender sus propios objetos. No te olvides de mí; ¡todavía tengo muchos productos disponibles en mi tienda!
+					PbonesUtilities.MysteriousTrader: He oído rumores de un hombre con capucha azul que vende objetos de valor...
+					TorchSeller.TorchMan: de verdad que me alegra el ánimo cuando estoy cerca de él.
+					BossesAsNPCs.DukeFishron: Duke Fishron es todo un personaje. ¡Nunca pensé que llegaría a hablar con alguien como él!
+
+					RijamsMod: {
+						InterTravel: "{0} está bien y eso, pero ¡no me fío de ella cerca de mi alijo de peces!"
+						Harpy: "{0} a veces me ayuda a explorar antes de mis viajes de pesca. ¡Muy útil!"
+						HellTrader: Dejé que {0} probara algunos tipos de pescado distintos. ¡Parece que le gustaron!
+					}
+
+					HelpfulNPCs.Fisherman2: "{0} puede que sea mi competencia, pero no puedo seguir enfadado con otro pescador."
+				}
+
+				Census_SpawnCondition: "{$Mods.FishermanNPC.NPCs.Fisherman.Census.SpawnCondition}"
+				Census.SpawnCondition: Rescata al Angler y ten al menos 5 PNJs del pueblo
+			}
+
+			Zoologist: {
+				NPCDialog: {
+					ExtraChat: ¡Le sigo advirtiendo a {0} sobre los peligros de la sobrepesca y simplemente me ignora! ¡Qué descaro!
+					ExtraChatTransformed: ¡{0} DESTRUYE ambiente!
+				}
+			}
+
+			Angler.NPCDialog.ExtraChat: ¿Ah, sí? ¿Y qué hay de {0}? Supongo que no está mal. ¡Ahora, vuelve al trabajo!
+			Truffle.NPCDialog.ExtraChat: "{0} es amable conmigo. No parece que quiera comerme."
+			Princess.NPCDialog.ExtraChat: ¡{0} pesca todo tipo de peces deliciosos para el pueblo!
+			MealwormCritter.DisplayName: Gusano de la Harina
+			RedWormCritter.DisplayName: Gusano Rojo
+		}
+
+		Bestiary: {
+			Description: {
+				Fisherman: Un pescador comercial venido de tierras lejanas, el Pescador domina su oficio. Te venderá muchos artículos relacionados con la pesca.
+				MealwormCritter: A pesar de su nombre, los Gusanos de la Harina no son en realidad gusanos. Son, de hecho, la etapa larvaria de un escarabajo.
+				RedWormCritter: Emparentado con los gusanos comunes, este gran y jugoso gusano rojo es un excelente cebo de pesca.
+			}
+
+			Happiness: {
+				// These are automatically translated from other localization. Leave as is.
+				Fisherman: {
+					Love: "{$Mods.FishermanNPC.Common.Ocean}, {$NPCName.Angler}"
+					Like: "{$Mods.FishermanNPC.Common.Forest}, {$NPCName.Princess}, {$NPCName.Truffle}, {$NPCName.Mechanic}"
+					Dislike: "{$Mods.FishermanNPC.Common.Desert}, {$NPCName.Pirate}, {$NPCName.Nurse}"
+					Hate: "{$Mods.FishermanNPC.Common.None}"
+				}
+			}
+		}
+
+		Items: {
+			PlasticWormLure: {
+				DisplayName: Señuelo de Gusano de Plástico
+				Tooltip: "'No es el mejor cebo'"
+			}
+
+			Mealworm: {
+				DisplayName: Gusano de la Harina
+				Tooltip: ""
+			}
+
+			RedWorm: {
+				DisplayName: Gusano Rojo
+				Tooltip: ""
+			}
+
+			GlowingMushroomChunk: {
+				DisplayName: Trozo de Champiñón Brillante
+				Tooltip: "'No es lo bastante sabroso como para atraer a grandes bestias'"
+			}
+
+			BaitBox: {
+				DisplayName: Caja de Cebo
+				Tooltip:
+					'''
+					¡Contiene un montón de cebo!
+					{$CommonItemTooltip.RightClickToOpen}
+					'''
+			}
+
+			Fisherman_Vanity_Shirt: {
+				DisplayName: Camisa de Pescador
+				Tooltip: ""
+			}
+
+			Fisherman_Vanity_Pants: {
+				DisplayName: Pantalones de Pescador
+				Tooltip: ""
+			}
+
+			RecyclingMachine: {
+				DisplayName: Máquina Recicladora
+				Tooltip:
+					'''
+					Convierte objetos de basura en objetos más útiles
+					'No se parece a nada que hayas visto antes.'
+					'''
+			}
+
+			MealwormCage: {
+				DisplayName: Jaula de Gusano de la Harina
+				Tooltip: ""
+			}
+
+			RedWormCage: {
+				DisplayName: Jaula de Gusano Rojo
+				Tooltip: ""
+			}
+
+			PlasticWormLureCage: {
+				DisplayName: Jaula de Señuelo de Gusano de Plástico
+				Tooltip: "'¿Qué esperabas?'"
+			}
+
+			CaughtFisherman: {
+				DisplayName: "{$Mods.FishermanNPC.NPCs.Fisherman.DisplayName}"
+				Tooltip: "'{$Mods.FishermanNPC.NPCs.Fisherman.NPCDialog.Default1}'"
+			}
+
+			DebugAnglerQuestChanger: {
+				DisplayName: Cambiador de Misión del Angler (Depuración)
+				Tooltip: ""
+			}
+		}
+
+		Projectiles.HarpoonSpear.DisplayName: Lanza Arpón
+
+		Tiles: {
+			RecyclingMachine.MapEntry: Máquina Recicladora
+			MealwormCage.MapEntry: Jaula de Gusano de la Harina
+			RedWormCage.MapEntry: Jaula de Gusano Rojo
+			PlasticWormLureCage.MapEntry: Jaula de Señuelo de Gusano de Plástico
+		}
+
+		UI: {
+			Fisherman: {
+				Shop1: Cebo
+				Shop2: Pescado
+				Shop3: Cañas
+				Shop4: Extras
+				CycleShop: Cambiar Tienda
+				NoShop: ¡Las tiendas están desactivadas!
+				CapturedSpawnText: ¡El Pescador ha aparecido!
+			}
+
+			// "Love" and "Hate" are already translated from vanilla's random world name generator
+			Like: Le gusta
+			Dislike: No le gusta
+		}
+
+		Emotes: {
+			FishermanEmote.Command: fnpcfisherman
+			FisherwomanEmote.Command: fnpcfisherwoman
+		}
+	}
+}
+
+TownNPCMood_Princess.LoveNPC_FishermanNPC/Fisherman: ¡{NPCName} pesca todo tipo de peces deliciosos para el pueblo!

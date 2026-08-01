@@ -294,6 +294,10 @@ Classes: {
 	Ranged: Ranged
 	Magic: Magic
 	Summoner: Summoner
+	Rogue: Rogue
+	Bard: Bard
+	Healer: Healer
+	Thrower: Thrower
 }
 
 Stages: {

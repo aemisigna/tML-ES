@@ -1,5 +1,63 @@
 Mods: {
 	BlueMoon: {
+		Configs: {
+			BlueMoonConfig: {
+				DisplayName: Configuración de Enchanted Moons
+
+				Headers: {
+					Blue_Moon: Luna Azul
+					Cherry_Moon: Luna de Cereza
+					Harvest_Moon: Luna de la Cosecha
+					Mint_Moon: Luna de Menta
+				}
+
+				EnableBlueMoonSpawn: {
+					Label: Activar/desactivar la aparición natural de la Luna Azul
+					Tooltip: ""
+				}
+
+				DecreaseBlueMoonSpawnRate: {
+					Label: Reducir la probabilidad de aparición de la Luna Azul
+					Tooltip: ""
+				}
+
+				EnableCherryMoonSpawn: {
+					Label: Activar/desactivar la aparición de la Luna de Cereza
+					Tooltip: ""
+				}
+
+				DecreaseCherryMoonSpawnRate: {
+					Label: Reducir la probabilidad de aparición de la Luna de Cereza
+					Tooltip: ""
+				}
+
+				EnableHarvestMoonSpawn: {
+					Label: Activar/desactivar la aparición de la Luna de la Cosecha
+					Tooltip: ""
+				}
+
+				DecreaseHarvestMoonSpawnRate: {
+					Label: Reducir la probabilidad de aparición de la Luna de la Cosecha
+					Tooltip: ""
+				}
+
+				EnableMintMoonSpawn: {
+					Label: Activar/desactivar la aparición de la Luna de Menta
+					Tooltip: ""
+				}
+
+				DecreaseMintMoonSpawnRate: {
+					Label: Reducir la probabilidad de aparición de la Luna de Menta
+					Tooltip: ""
+				}
+
+				IncreaseMintMoonSpawnRate: {
+					Label: Aumentar la probabilidad de aparición de la Luna de Menta
+					Tooltip: ""
+				}
+			}
+		}
+
 		Items: {
 			BlueMedallion: {
 				Tooltip: Invoca una rara Luna Azul durante la noche

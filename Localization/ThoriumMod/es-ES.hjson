@@ -779,11 +779,6 @@ Mods: {
 				Description: Defensa y velocidad de movimiento reducidas
 			}
 
-			MagickStaffDebuff: {
-				DisplayName: Decadencia Elemental
-				Description: Aplastado por los elementos menores de Terraria
-			}
-
 			MasterMarksmansScouterDebuff: {
 				DisplayName: Visión Ómnica
 				Description: Este enemigo está en la mira de un asesino
@@ -1646,7 +1641,22 @@ Mods: {
 
 			HarpyStaffBuff: {
 				DisplayName: Mejora del bastón de arpía
-				Description: Mods.ThoriumMod.Buffs.HarpyStaffBuff.Description
+				Description: NULL
+			}
+
+			SnarkyGunFireDebuff: {
+				DisplayName: Pistola Sarcástica - Fuego
+				Description: Acumulando una quemadura fea
+			}
+
+			SnarkyGunIceDebuff: {
+				DisplayName: Pistola Sarcástica - Hielo
+				Description: NULL
+			}
+
+			MagickStaffDebuff: {
+				Description: Aplastado por los elementos menores de Terraria
+				DisplayName: Decadencia Elemental
 			}
 		}
 
@@ -2148,6 +2158,12 @@ Mods: {
 			ColdlingBanner.DisplayName: Estandarte de Frígido
 			CoolmeraBanner.DisplayName: Estandarte de Coolmera
 			CrownofThornsBanner.DisplayName: Estandarte de Corona de Espinas
+
+			Crow: {
+				DisplayName: Estandarte de Cuervo
+				Tooltip: ""
+			}
+
 			DarksteelKnightBanner.DisplayName: Estandarte de Caballero de Acero Oscuro
 			DissonanceSeerBanner.DisplayName: Estandarte del Vidente de Disonancia
 			EarthenBatBanner.DisplayName: Estandarte de Murciélago Terroso
@@ -3866,7 +3882,11 @@ Mods: {
 
 			BoreanFangStaff: {
 				DisplayName: Bastón de Colmillos Boreales
-				Tooltip: Lanza una andanada de colmillos congelantes
+				Tooltip:
+					'''
+					Daña a los enemigos para generar fragmentos helados
+					Haz clic derecho para enviar todos los fragmentos helados almacenados al enemigo bajo tu cursor
+					'''
 			}
 
 			BoreanStriderMask: {
@@ -4001,7 +4021,11 @@ Mods: {
 
 			GorgonsEye: {
 				DisplayName: Ojo de Gorgona
-				Tooltip: Petrifica brevemente a los enemigos golpeados
+				Tooltip:
+					'''
+					El daño petrifica a los enemigos golpeados y comienza a cubrir el yoyo de piedra
+					Cuando está completamente cubierto, lanzar el yoyo hacia abajo libera la roca
+					'''
 			}
 
 			ArcanePotion: {
@@ -7365,8 +7389,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Es demasiado grande para ser una espada, más bien parece un bloque de hierro'
-					Clic izquierdo: libera una ráfaga de ondas de choque potenciadas
-					Clic derecho: embiste con fuerza colosal
+					Clic izquierdo para liberar una ráfaga de ondas de choque
+					Clic derecho para embestir con la espada con fuerza inmensa
 					'''
 			}
 
@@ -7625,7 +7649,7 @@ Mods: {
 
 			MagickStaff: {
 				DisplayName: Bastón Mágico
-				Tooltip: Crea un rayo de elementos fluctuantes
+				Tooltip: Lanza rápidamente rayos de magia fluctuante
 			}
 
 			ManaBauble: {
@@ -7639,7 +7663,7 @@ Mods: {
 
 			Pierce: {
 				DisplayName: Perforar
-				Tooltip: Crea un rayo de magia pesada y penetrante
+				Tooltip: Crea un rayo de magia que perfora a los enemigos
 			}
 
 			Poison: {
@@ -9179,7 +9203,7 @@ Mods: {
 				Tooltip:
 					'''
 					Rodea a un aliado con una barrera de plumas de corta duración
-					Haz clic derecho para rodearte a ti mismo con la barrera
+					Haz clic derecho para rodearte a ti mismo con la barrera en su lugar
 					'''
 			}
 
@@ -10732,8 +10756,8 @@ Mods: {
 				Tooltip: ""
 			}
 
-			LodeStoneQuickDraw: {
-				DisplayName: Disparo Rápido de Piedra Imán
+			LodestoneSlugger: {
+				DisplayName: Escopeta de Piedra Imán
 				Tooltip: El daño quebranta a los enemigos, aumentando en 10% el daño que reciben
 			}
 
@@ -11116,11 +11140,6 @@ Mods: {
 					'''
 			}
 
-			Nocturnal: {
-				DisplayName: Nocturno
-				Tooltip: Al golpear a un enemigo, puede liberarse una 'luz negra' teledirigida
-			}
-
 			PinkPhaseblade: {
 				DisplayName: Sable de Fase Rosado
 				Tooltip: ""
@@ -11129,11 +11148,6 @@ Mods: {
 			PinkPhasesaber: {
 				DisplayName: Sable de Fase Rosado (Mejorado)
 				Tooltip: ""
-			}
-
-			Sanguine: {
-				DisplayName: Sanguíneo
-				Tooltip: Al golpear a un enemigo, puede liberarse una 'luz vital' teledirigida
 			}
 
 			SolScorchedSlab: {
@@ -15530,8 +15544,8 @@ Mods: {
 				Tooltip: Convierte las flechas de madera en una lluvia de llamas
 			}
 
-			CobaltPopper: {
-				DisplayName: Reventador de Cobalto
+			CobaltRevolver: {
+				DisplayName: Revólver de Cobalto
 				Tooltip: ""
 			}
 
@@ -15583,9 +15597,13 @@ Mods: {
 					'''
 			}
 
-			MyceliumGattlingGun: {
-				DisplayName: Ametralladora de Micelio
-				Tooltip: "{$CommonItemTooltip.PercentChanceToSaveAmmo}"
+			ShroomachineGun: {
+				DisplayName: Hongotralladora
+				Tooltip:
+					'''
+					Convierte balas de mosquete en nanobalas
+					{$CommonItemTooltip.PercentChanceToSaveAmmo}
+					'''
 			}
 
 			MythrilPelter: {
@@ -15593,13 +15611,13 @@ Mods: {
 				Tooltip: ""
 			}
 
-			OrichalcumPelter: {
-				DisplayName: Lanzador de Oricalco
+			OrichalcumPopper: {
+				DisplayName: Reventador de Oricalco
 				Tooltip: ""
 			}
 
-			PalladiumSubmachineGun: {
-				DisplayName: Subfusil de Paladio
+			PalladiumSMG: {
+				DisplayName: SMG de Paladio
 				Tooltip: ""
 			}
 
@@ -18006,8 +18024,8 @@ Mods: {
 				Tooltip: "'De otro plano de existencia'"
 			}
 
-			ValadiumFoeBlaster: {
-				DisplayName: Cañón Valadium
+			ValadiumBlaster: {
+				DisplayName: Bláster de Valadium
 				Tooltip: Las balas disparadas con esta arma bombardean temporalmente a los enemigos con energía interdimensional
 			}
 
@@ -19201,7 +19219,7 @@ Mods: {
 				DisplayName: Pistola Sarcástica
 				Tooltip:
 					'''
-					Convierte balas de mosquete en una variedad de huevos diferentes  
+					Convierte las balas disparadas en una variedad de huevos diferentes
 					Haz clic derecho para cambiar entre tipos de huevo
 					'''
 			}
@@ -19634,6 +19652,191 @@ Mods: {
 			StoneColumnWall: {
 				DisplayName: Pared de Columna de Piedra
 				Tooltip: ""
+			}
+
+			DumboOctopusStatue: {
+				DisplayName: Estatua de Pulpo Dumbo
+				Tooltip: ""
+			}
+
+			LobsterStatue: {
+				DisplayName: Estatua de Langosta
+				Tooltip: ""
+			}
+
+			HeadSpinner: {
+				DisplayName: Cabeza Giratoria
+				Tooltip: Cada cinco golpes libera una lluvia de icor
+			}
+
+			AlchemistBlock: {
+				DisplayName: Bloque de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistPlatform: {
+				DisplayName: Plataforma de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistWall: {
+				DisplayName: Pared de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistBathtub: {
+				DisplayName: Bañera de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistBed: {
+				DisplayName: Cama de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistBookcase: {
+				DisplayName: Librero de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistCandelabra: {
+				DisplayName: Candelabro de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistCandle: {
+				DisplayName: Vela de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistChair: {
+				DisplayName: Silla de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistChandelier: {
+				DisplayName: Lámpara de Araña de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistClock: {
+				DisplayName: Reloj de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistCup: {
+				DisplayName: Taza de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistDoor: {
+				DisplayName: Puerta de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistDresser: {
+				DisplayName: Tocador de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistLamp: {
+				DisplayName: Lámpara de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistLantern: {
+				DisplayName: Linterna de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistPiano: {
+				DisplayName: Piano de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistSink: {
+				DisplayName: Lavabo de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistSofa: {
+				DisplayName: Sofá de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistTable: {
+				DisplayName: Mesa de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistToilet: {
+				DisplayName: Inodoro de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistWorkbench: {
+				DisplayName: Banco de Trabajo de Alquimista
+				Tooltip: ""
+			}
+
+			AlchemistChest: {
+				DisplayName: Cofre de Alquimista
+				Tooltip: ""
+			}
+
+			CrowCage: {
+				DisplayName: Jaula de Cuervo
+				Tooltip: ""
+			}
+
+			CrowStatue: {
+				DisplayName: Estatua de Cuervo
+				Tooltip: ""
+			}
+
+			Salivation: {
+				DisplayName: Salivación
+				Tooltip: Cada cinco golpes libera una lluvia de llama maldita
+			}
+
+			ValadiumFoeBlaster: {
+				Tooltip: Las balas disparadas con esta arma bombardean temporalmente a los enemigos con energía interdimensional
+				DisplayName: Cañón Valadium
+			}
+
+			PalladiumSubmachineGun: {
+				Tooltip: ""
+				DisplayName: Subfusil de Paladio
+			}
+
+			OrichalcumPelter: {
+				Tooltip: ""
+				DisplayName: Lanzador de Oricalco
+			}
+
+			MyceliumGattlingGun: {
+				Tooltip: Probabilidad del {0}% de ahorrar munición
+				DisplayName: Ametralladora de Micelio
+			}
+
+			CobaltPopper: {
+				Tooltip: ""
+				DisplayName: Reventador de Cobalto
+			}
+
+			Sanguine: {
+				Tooltip: Al golpear a un enemigo, puede liberarse una 'luz vital' teledirigida
+				DisplayName: Sanguíneo
+			}
+
+			Nocturnal: {
+				Tooltip: Al golpear a un enemigo, puede liberarse una 'luz negra' teledirigida
+				DisplayName: Nocturno
+			}
+
+			LodeStoneQuickDraw: {
+				Tooltip: El daño quebranta a los enemigos, aumentando en 10% el daño que reciben
+				DisplayName: Disparo Rápido de Piedra Imán
 			}
 		}
 
@@ -20191,6 +20394,11 @@ Mods: {
 			CrownofThorns: {
 				DisplayName: Corona de Espinas
 				BestiaryFlavorText: Vive en los suelos de las profundidades. Una sola picadura de esta estrella de mar puede significar la perdición.
+			}
+
+			Crow: {
+				DisplayName: Cuervo
+				BestiaryFlavorText: A pesar de su entorno sombrío, esta ave simplemente está buscando comida.
 			}
 
 			DumboOctopus: {
@@ -21352,7 +21560,9 @@ Mods: {
 			BoomCorrosive.DisplayName: Corrosión
 			BoomNitrogen.DisplayName: Nitrógeno
 			BoomPlasma.DisplayName: Plasma
-			BoreanFangStaffPro.DisplayName: Bastón Colmillo Boreal Pro
+			BoreanFangStaffPro.DisplayName: "{$Items.BoreanFangStaff.DisplayName}"
+			BoreanFangStaffPro2.DisplayName: "{$Items.BoreanFangStaff.DisplayName}"
+			BoreanFangStaffPro3.DisplayName: "{$Items.BoreanFangStaff.DisplayName}"
 			AbyssalStrike.DisplayName: Golpe Abismal
 			AbyssalStrike2.DisplayName: Golpe Abismal2
 			ForgottenOneSpit.DisplayName: Escupitajo del Olvidado
@@ -21506,7 +21716,6 @@ Mods: {
 			CharonsBeaconPro.DisplayName: Faro de Caronte Pro
 			ChlorophyteBolt.DisplayName: Proyectil de Clorofita
 			ChlorophyteCloud.DisplayName: Nube de Clorofita
-			CinderShot.DisplayName: Disparo de Ceniza
 			ClimbersIceAxePro.DisplayName: Piolet del Escalador
 			ClimbersIceAxePro2.DisplayName: Piolet del Escalador 2
 			ClockWorkBombPro.DisplayName: Bomba Mecánica Pro
@@ -21530,7 +21739,6 @@ Mods: {
 			CoralPolearmPro3.DisplayName: Arma Larga de Coral Pro 3
 			CoralSlasherPro.DisplayName: Tajador de Coral Pro
 			CorrosionBeakerPro.DisplayName: Matraz de Corrosión Pro
-			CorruptionSpark.DisplayName: Chispa de Corrupción
 			CrashSurge.DisplayName: Oleada de Choque
 			CryoFangProQuick.DisplayName: Colmillo Gélido
 			Crystal.DisplayName: Cristal
@@ -21733,7 +21941,8 @@ Mods: {
 			GoldenLocksPro4.DisplayName: Rizos Dorados
 			GolemsGazePro.DisplayName: Mirada del Gólem Pro
 			GolemsGazePro2.DisplayName: Mirada del Gólem Pro2
-			GorgonsEyePro.DisplayName: Ojo de la Gorgona Pro
+			GorgonsEyePro.DisplayName: "{$Items.GorgonsEye.DisplayName}"
+			GorgonsEyePro2.DisplayName: "{$Items.GorgonsEye.DisplayName}"
 			GraniteArrowPro.DisplayName: Flecha Granítica Pro
 			GraniteBarrier.DisplayName: Barrera Granítica
 			GraniteControlRodBobber.DisplayName: Controlador Granítico (Pesca)
@@ -22008,7 +22217,6 @@ Mods: {
 			LegacyPro.DisplayName: Legado Pro
 			LegionOrnamentPro.DisplayName: Adorno de Legión
 			LegionOrnamentShard.DisplayName: Fragmento de Adorno de Legión
-			LifeLight.DisplayName: Luz Vital
 			LightBolt.DisplayName: Rayo de Luz
 			Lightning.DisplayName: Rayo
 			LightStrike.DisplayName: Golpe Luminoso
@@ -22032,7 +22240,6 @@ Mods: {
 			LootRangPro.DisplayName: Lanzador de Botín
 			LovegunPro.DisplayName: Pistola del Amor Pro
 			MageHandPro.DisplayName: Mano Mágica Pro
-			MagickStaffPro.DisplayName: Bastón Mágico Pro
 			MagicThorHammerPro.DisplayName: Martillo Mágico de Thor Pro
 			MantisPunchPro.DisplayName: Puño de Camarón Mantis
 			MantisPunchPro2.DisplayName: Puño de Camarón Mantis
@@ -22217,7 +22424,6 @@ Mods: {
 			NightStarTrue2.DisplayName: Estrella Nocturna Verdadera2
 			NightStarTrueImpact.DisplayName: Impacto Estrella Nocturna Verdadera
 			NitrogenVialPro.DisplayName: Vial de Nitrógeno Pro
-			NocturnalPro.DisplayName: Nocturno Pro
 			NorthernLightPro0.DisplayName: Aurora Pro0
 			NorthernLightPro1.DisplayName: Aurora Pro1
 			NovaRiflePro.DisplayName: Rifle Nova Pro
@@ -22233,14 +22439,9 @@ Mods: {
 			OldGodsVisionPro.DisplayName: Visión del Dios Antiguo
 			OldGodsVisionPro2.DisplayName: Visión del Dios Antiguo
 			OmegaBeam.DisplayName: Rayo Omega
-			OmegaBlast.DisplayName: Explosión Omega
-			OmegaBoom.DisplayName: Estallido Omega
 			OmniArrow.DisplayName: Flecha Omnicida
 			OmniArrow2.DisplayName: Flecha Omnicida
 			OmniArrow3.DisplayName: Flecha Omnicida
-			OmniBoom.DisplayName: Estallido Omni
-			OmniBurst.DisplayName: Ráfaga Omni
-			OmniBurstDamage.DisplayName: Daño Ráfaga Omni
 			AssassinArmorSetPro.DisplayName: Armadura de Asesino Pro
 			OpalHookPro.DisplayName: Garfio de Ópalo Pro
 			OpalStaffPro.DisplayName: Bastón de Ópalo Pro
@@ -22307,8 +22508,6 @@ Mods: {
 			PhantomCameraPro2.DisplayName: Cámara Fantasma Pro2
 			PhaseDartPro.DisplayName: Dardo de Fase Pro
 			PiercePro.DisplayName: Perforador Pro
-			PlasmaBlast.DisplayName: Explosión de Plasma
-			PlasmaShot.DisplayName: Disparo de Plasma
 			PlasmaStaffPro.DisplayName: Bastón de Plasma Pro
 			PlasmaStaffPro2.DisplayName: Bastón de Plasma Pro2
 			PlasmaStaffPro3.DisplayName: Bastón de Plasma Pro3
@@ -22360,7 +22559,6 @@ Mods: {
 			SandStoneSpearPro.DisplayName: Lanza de Piedra Arenisca Pro
 			SandStorm.DisplayName: Tormenta de Arena
 			SandweaversTiaraPro.DisplayName: Tiara de Tejedores de Arena Pro
-			SanguinePro.DisplayName: Sanguinario Pro
 			ScalperDagger.DisplayName: Daga Scalper
 			SchmelzePro.DisplayName: Schmelze Pro
 			ScorpainPro.DisplayName: Escorpión Doloroso Pro
@@ -22413,7 +22611,6 @@ Mods: {
 			ShockRiflePro.DisplayName: Rifle de Descarga Pro
 			ShockRiflePro2.DisplayName: Rifle de Descarga Pro2
 			ShockRiflePro3.DisplayName: Rifle de Descarga Pro3
-			Shockwave.DisplayName: Onda de Choque
 			ShootingStarDrillPro.DisplayName: Taladro Estrella Fugaz
 			ShroomBolt.DisplayName: Rayo de Hongo
 			ShroomiteRocketDrillPro.DisplayName: Taladro Cohete de Shroomita
@@ -22743,7 +22940,8 @@ Mods: {
 			WondrousWandPro5.DisplayName: Varita Maravillosa Pro5
 			WrithingSheathPro.DisplayName: Hoja del Vacío
 			WyrmDecimatorPro.DisplayName: Decimador de Wyrm Pro
-			WyvernSlayerPro.DisplayName: Asesino de Guivernos Pro
+			WyvernSlayerPro.DisplayName: "{$Items.WyvernSlayer.DisplayName}"
+			WyvernSlayerPro2.DisplayName: "{$Items.WyvernSlayer.DisplayName}"
 			YakaArrowPro.DisplayName: Flecha Yaka Pro
 			YewVisual.DisplayName: Visual de Tejo
 			YewWoodShrapnelPro.DisplayName: Esquirla de Madera de Tejo
@@ -22753,6 +22951,7 @@ Mods: {
 			OmegaBlasterPro3.DisplayName: Megacañón Omega Pro3
 			OmegaBlasterPro2.DisplayName: Megacañón Omega Pro2
 			OmegaBlasterPro.DisplayName: Megacañón Omega Pro
+			OmegaBlast.DisplayName: Explosión Omega
 			InfernoLordsFocusPro.DisplayName: Foco del Señor del Infierno Pro
 			ThunderstruckPro2.DisplayName: Impacto de Trueno
 			ThunderstruckPro.DisplayName: Impacto de Trueno
@@ -22841,6 +23040,31 @@ Mods: {
 			WallChickenPro.DisplayName: Pollo de Pared
 			ParticleWhipPro2.DisplayName: "{$Items.ParticleWhip.DisplayName}"
 			FrostPlagueStaffPro.DisplayName: "{$Items.FrostPlagueStaff.DisplayName}"
+			HeadSpinnerPro.DisplayName: "{$Items.HeadSpinner.DisplayName}"
+			HeadSpinnerPro2.DisplayName: "{$Items.HeadSpinner.DisplayName}"
+			LucidCutterPro.DisplayName: Cortador de Lucidez
+			SalivationPro.DisplayName: "{$Items.Salivation.DisplayName}"
+			SalivationPro2.DisplayName: "{$Items.Salivation.DisplayName}"
+			CinderStringPro.DisplayName: "{$Items.CinderString.DisplayName}"
+			OmniCannonPro.DisplayName: "{$Items.OmniCannon.DisplayName}"
+			OmniCannonPro2.DisplayName: "{$Items.OmniCannon.DisplayName}"
+			OmniCannonPro3.DisplayName: "{$Items.OmniCannon.DisplayName}"
+			OmniCannonPro4.DisplayName: "{$Items.OmniCannon.DisplayName}"
+			OmegaPro2.DisplayName: Omega Pro2
+			LodestoneSluggerPro.DisplayName: Escopeta de Piedra Imán
+			Shockwave.DisplayName: Onda de Choque
+			SanguinePro.DisplayName: Sanguinario Pro
+			PlasmaShot.DisplayName: Disparo de Plasma
+			PlasmaBlast.DisplayName: Explosión de Plasma
+			OmniBurstDamage.DisplayName: Daño Ráfaga Omni
+			OmniBurst.DisplayName: Ráfaga Omni
+			OmniBoom.DisplayName: Estallido Omni
+			OmegaBoom.DisplayName: Estallido Omega
+			NocturnalPro.DisplayName: Nocturno Pro
+			MagickStaffPro.DisplayName: Bastón Mágico Pro
+			LifeLight.DisplayName: Luz Vital
+			CorruptionSpark.DisplayName: Chispa de Corrupción
+			CinderShot.DisplayName: Disparo de Ceniza
 		}
 
 		Tiles: {
@@ -23460,6 +23684,7 @@ Mods: {
 
 			ExhaustionBar.Exhausted: Algunos objetos arrojadizos ahora son mucho más débiles
 			HellfireMinigunGauge.Overloaded: ¡Demasiado caliente!
+			Tracker.ContractCompletedNotification: Contrato de Tracker completado: {0}
 
 			InformationalIcons: {
 				Endurance: {
