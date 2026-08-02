@@ -67,6 +67,8 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
+| Ancients Awakened | ✅ | v0.1.5.1
+| Ancients Awakened: Classic | ✅ | v1.0.18
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
@@ -90,6 +92,9 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Fisherman NPC | ✅ | v0.2.10
 | Useful NPCs | ✅ | v3.0.4
 | The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
+| Munchies | ✅ | v1.4.2
+| Munchies Calamity Addon | ✅ | v1.3.1
+| Munchies Crossmod Addon | ✅ | v2.2
 ---
 
 ## Comunidad
