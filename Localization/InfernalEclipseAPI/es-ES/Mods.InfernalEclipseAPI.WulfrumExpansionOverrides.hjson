@@ -1,0 +1,14 @@
+Items: {
+	Metalash: {
+		DisplayName: Metalash
+		Tooltip:
+			'''
+			3 de daño de etiqueta de invocación
+			Golpear a un enemigo incrusta una Daga de Wulfrum en él
+			La daga inflige daño pasivo mientras está incrustada en un enemigo
+			Solo se puede incrustar una daga por enemigo a la vez
+			[c/83B87E:'La hoja al final de este látigo era una de las muchas armas de fabricación estándar creadas por la Rebelión de Wulfrum.]
+			[c/83B87E:Hechas de forma barata y frágiles de usar, estas dagas antiguas encuentran utilidad fortaleciendo otras armas.']
+			'''
+	}
+}

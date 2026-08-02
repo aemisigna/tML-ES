@@ -1,0 +1,54 @@
+Fanatic: {
+	StandardDialogue1: Would you happen to have a spare 9 hours to discuss the origins of this world and how we have all come to be? No? Some other time then.
+	StandardDialogue2: Ahh, it is good to see you again. Hmm? What do you mean we have not met before?
+	StandardDialogue3: Everywhere I have travelled, the people seem to praise gods of all sorts and shapes. Madness, I tell you. The forgotten ones stand above them all.
+	StandardDialogue4: The voices never leave.
+	DayDialogue1: Be quick, my friend. As I do intend on vanishing the moment I leave your line of sight.
+	DayDialogue2: Hnngh, the sunlight irritates my skin. I much prefer to do business when it is dark.
+	GraveyardDialogue: My, what a grim atmosphere. This is no place for me to be. The dead are not much for conversation regarding the forgotten gods.
+	BloodMoonDialogue1: My, the locals here seem awfully tense tonight. Hmm? What do you mean those are 'Zombies'?
+	BloodMoonDialogue2: The moon is bleeding? Oh, do not you worry, it does that sometimes.
+	EclipseDialogue1: It is day, but it is not bright. Is it day, or is it night? Must I stay or must I leave? I do not know, and so I must scream.
+	EclipseDialogue2: The solar eclipse is quite the marvel to look at, just do not look at it for too long, as you may cause irreparable damage to your retinas.
+	RainDialogue1: Some people dislike the rain, but I quite enjoy it. The pattering of raindrops on the ground is rather soothing. It also prevents death by dehydration.
+	RainDialogue2: Ah, it is raining. Fortunately for us, my wares are designed to be waterproof.
+	RainDialogue3: Moisture.
+	SlimeRainDialogue1: Are you familiar with regicide by any chance? I ask this because you may be in for a surprise should you continue massacring these gelatinous beings.
+	SlimeRainDialogue2: I highly recommend you do not attempt to consume those slimes, their bodies are surprisingly acidic and you will be ironically digested from the inside.
+	FrostMoonDialogue: I no longer like Christmas.
+	PumpkinMoonDialogue: I no longer like Halloween.
+	PartyDialogue: Having a party? I would love to join, but time not spent praising the forgotten gods is time better spent.
+	MoonLordDialogue: Are you certain that now is a good time for this?
+}
+
+Historian: {
+	SavedDialogue: Ah! G-get awa- Oh, thank the Gods, I was sure this was my last moment for a second. T-thank you for your assistance, I’m Sophie, a still-learning historian from out west. I got attacked days ago and have been stranded since. If it’s not much, do you perhaps know of any nearby shelter? I fear I’m moments away from catching a sickness at this rate.
+	StandardDialogue1: I’m used to far bigger places frankly. This is nice though, small and quaint. Either way it beats covering myself in shrubbery… night unto night.
+	StandardDialogue2: I’m mainly from a city, so I don’t have much experience with these uh, excuse if this offends, underdeveloped areas? Overall it has exceeded my expectations however!
+	StandardDialogue3: I can see why this region is so taboo, a desert and tundra within a walk of each other!? The war left this place quite irregular, that’s for sure!
+	StandardDialogue4: What are you even doing here if it’s not too much to ask? This entire area is quite unsafe and hasn’t been settled for like 500 years! I suppose it would’ve had to eventually.
+	NightDialogue1: Could you tell {0} to stop opening the doors? It’s hard to do anything when he keeps letting monsters in.
+	NightDialogue2: I-I assume everywhere here is equally monster infested? I wanted to get a breath of fresh air but those horrid eyes kept assaulting me! No wonder this is all abandoned…
+	NightDialogue3: Where I’m from it’s quite hard to get a good look at the sky. This place is great in that regard, and so close to the floating isles too! I wonder what goes on up there, it’s been so silent.
+	BloodMoonDialogue1: I’ll ask this once, shut those blasted things up! You love to fight, don’t you? Then stop lurking in here and give them hell already!
+	BloodMoonDialogue2: Shut up, I don’t want to hear it, just go and shut those things up, I can hardly hear myself think!
+	RainDialogue: The pitter patter of the rain is quite soothing, the noise helps me concentrate. Although I’m not much of a fan of rain itself, do you know how hard it is to wash these clothes?
+	GraveyardDialogue: Perhaps I can hopefully send a message to some peers of mine? Because this is not my forte sadly, apologies!
+	Help1: I assume you have been to the Mire? I would only go there at night, it is covered with dense fog during the day.
+	Help2: You have been to the Inferno, yes? I would recommend only stepping in there during the day. It gets covered with heavy ash during the night.
+	Help3: There’s supposedly some small mystical sprites flying around the old swamp and volcano! I’ve heard some people catch them with nets and use them for various purposes, you could try it if you’re brave enough to venture there.
+	HelpBlight: I... I don't remember much about the blight, except for the fact the ground seeming very solid, as well as catching a glimpse of... horrid, pulsing masses of flesh. Perhaps those two things are related in some way.
+	Quest1Start: Ah you wish to help me out? Fantastic! I could use help actually… Well, first I need somewhere to stay, I can't exactly operate in the grass. It’s a bit of a demand but if you can please find me somewhere, even if it’s temporary.
+	Quest1Current: How’s it coming along? I’m patient but also rather tired of laying around in the dirt. Sorry if I’m being pushy there haha.
+	Quest1End: Oh you found something! Fantastic, frankly I’ll take anything right now. Now, I wish I had a proper gift as thanks, but I'm afraid I haven't anything interesting to give. I hope some spare cash will do for now, until I can give something else later.
+	Quest2Start: Well time for your first real mission now isn’t it? Once more, thank you for your assistance. I wish to learn more about this place, it’s rather vague but please bring for me an artefact or similarly intriguing looking object you can find. Report back to me when you find something!
+	Quest2Current: Still on the search are you? Well take your time, we’re in no rush!
+	Quest2End: Well, this is an interesting collection. This region is far far more diverse then I thought it was haha. I’m not an expert on these much myself, but I’ll figure out what I can and hopefully bring them back home!
+	NoMoreQuests: Enthusiasm is appreciated but… I don’t have anything more I need help with right now. Come back later alright?
+	GivePainting: Oh! What a gorgeous artwork! The paint is very rustic yet shows no aging over the testament of time. Strange considering the typographic work on the text behind the painting. "The Golden Hunter" The Man is proud, stoic, with a feeling I can only equate to a great ruler. You found this underground no? This very well might be a painting I have no real knowledge on then sadly.
+	GiveTrade: A trade deal between the Acropolis and the people below being severed? This dates back several centuries at the least. The Acropolis used to have connections to us down here, but after an assassination on their monarch occurred at night the doors have since remained shut. I don't think its possible for them to want to communicate with us again. Seems from this letter the next in line wasn't at all keen on us judging from their writing.
+	GiveNotebook: Where-Where did you find this?! Oh- Oh the blight. That's heartbreaking. This was the book of Reginald Agaricus. He was my...my friend. He took me on an expedition to those damned mushrooms. We ventured into the caves, following one of those infected spawn. We were ambushed and... I'm sorry, I do not wish to speak of this anymore.
+	GiveBottle: Oooh pirates. That's a measure of time that dates back ages. This speaks of the Susuric Islands as well, that place is notoriously considered bad luck now just due to the amount of strange disappearances and happenings over there. The rest of the text however is in this language I am unable to decipher. I'm fluent in many things but that is not one of them.
+	GiveBounty: Bounties? How barbaric. From that alone I can tell this is from a very harsh ruling or perhaps a corrupt guard force? This person however, I'm not familiar at all to who they are. They look like a hardened soldier of this city or district. No date or symbol on this unfortunately. You'd think they'd be smart enough to put those on systems like these but alas they hadn't.
+	GiveDrill: WOAH, an Incinerite Drill! These were made for drilling through the tough volcanic slag down in the Inferno. It was meant to be placed on the front of a minecart, and would heat up whilst spinning to carve through the stone like butter! Awesome, right? Several of these were commissioned by the Duke for deeper expeditions into the volcano, for its rich deposits of precious minerals.
+}

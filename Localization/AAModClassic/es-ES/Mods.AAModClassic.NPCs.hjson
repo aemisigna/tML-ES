@@ -1,0 +1,339 @@
+GlobalNPCInfo.NPCarrive: ¡han despertado!
+
+EnemyChat: {
+	SeraphChat1: ¡Ay, no eres divertido! ¡Cobarde!
+	SeraphChat2: ¡Jajaja! ¡Huyendo como el cobarde caminador de tierra que eres!
+	SeraphChat3: Ahora me aburrí.
+	SeraphChat4: ¡Vuelve! ¡Me estaba divirtiendo pateándote!
+	SeraphChat5: Ay, el pequeño caminador de tierra está llorando. ¿Vas a ir a llorar?
+	SeraphKillChat1: Ups. Murieron. Bueno, qué se le va a hacer...
+	SeraphKillChat2: ¡Jaj! ¡Gané!
+	SeraphKillChat3: ¡Eso fue divertido! ¡Vuelve cuando no apestes!, ¡mocoso!
+	SeraphKillChat4: ¡Y MANTENTE LEJOS!
+	SeraphKillChat5: Bueno, eso fue anticlimax. ¡Pan comido!
+	SeraphHurtChat1: ¡AY..! ¡Qué GROSERÍA! ¡ATENAAAAAAAAAAAAAAA!!!
+	SeraphHurtChat2: ¡OYE! ¡Solo estaba jugando! ¡Espera a que Atenea se entere de ESTO!
+	SeraphHurtChat3: ¡AHORA SÍ LA ARMASTE! ¡Ay ATEEEENAAAAAAAA!
+	SeraphHurtChat4: ¡ESO DOLIÓ..! ¡UAAAAAA ATENAAAAAA EL CAMINADOR DE TIERRA ¡ESTÁ SIENDO MALO!
+	SeraphHurtChat5: ¡*GASP*! ¡Arruinaste mi vestido! ¡Voy a traer a Atenea!
+	SeraphAthenaRunChat1: ¡Ahora sí la armaste!
+	SeraphAthenaRunChat2: No quiero estar aquí para esto...
+	SeraphAthenaRunChat3: ¡Ahora sí te vas a enterar!
+	SeraphAthenaRunChat4: Lo que pase ahora no es mi culpa.
+	SeraphAthenaRunChat5: ¡Eso es lo que te mereces!
+	AthenaChat1: ...ugh... esos malditos mocosos...
+	AthenaChat2: ¡No tengo tiempo para esto!
+}
+
+Athena.DisplayName: Atenea
+AthenaDefeat.DisplayName: "{$NPCs.Athena.DisplayName}"
+AthenaFlee.DisplayName: "{$NPCs.Athena.DisplayName}"
+OwlRune.DisplayName: Runa de Búho
+SeraphA.DisplayName: Guardia Serafín
+Seraph.DisplayName: Serafín
+SeraphHurt.DisplayName: "{$NPCs.Seraph.DisplayName}"
+AthenaA.DisplayName: Atenea Olímpica
+AthenaCloneDark.DisplayName: "{$NPCs.AthenaCloneLight.DisplayName}"
+AthenaCloneLight.DisplayName: Clon de Atenea
+ChargedOwlRune.DisplayName: Runa de Búho Cargada
+SeraphHerald.DisplayName: Heraldo Serafín
+BunnyBrawler.DisplayName: Luchador Conejo
+RabbitcopterSoldier.DisplayName: Soldado Helicoptonejo
+RabidRabbit.DisplayName: Conejo Rabioso
+RajahRabbit.DisplayName: Conejo Rajá
+RoyalRabbit_NPC.DisplayName: Conejo Real
+RajahRabbitA.DisplayName: Conejo Rajá; Campeón de los Inocentes
+RajahRabbitADefeat.DisplayName: "{$NPCs.RajahRabbitA.DisplayName}"
+SupremeBunnyBrawler.DisplayName: Luchador Conejo Supremo
+SupremeRabbitcopterSoldier.DisplayName: Soldado Helicoptonejo Supremo
+SupremeRabidRabbit.DisplayName: Conejo Rabioso Supremo
+GripOfChaosInferno.DisplayName: Garra del Caos
+GripOfChaosMire.DisplayName: Garra del Caos
+ChaosDragon.DisplayName: Dragón del Caos
+ShenDoragonA.DisplayName: Emperador Shen Doragon
+ShenDoragon.DisplayName: Shen Doragon; Profeta de la Discordia
+AbyssGrip.DisplayName: Garra de la Ira Abismal
+BlazeGrip.DisplayName: Garra de la Furia Ardiente
+ShenDoragon_Hitbox.DisplayName: "{$NPCs.ShenDoragon.DisplayName}"
+ShenDoragonDeath.DisplayName: Muerte de la Discordia
+ShenDoragonDefeat.DisplayName: Derrota de la Discordia
+ShenDoragonSpawn.DisplayName: Discordia
+ShenDoragonTransition.DisplayName: Despertar Discordiano
+FuryAshe.DisplayName: Ashe de la Furia
+FuryAsheVanish.DisplayName: "{$NPCs.FuryAshe.DisplayName}"
+FuryFlameVortex.DisplayName: Vórtice de Llama
+ShenlingBody1.DisplayName: "{$NPCs.ShenlingHead.DisplayName}"
+ShenlingBody2.DisplayName: "{$NPCs.ShenlingHead.DisplayName}"
+ShenlingHead.DisplayName: Serpiente Discordiana
+ShenlingTail.DisplayName: "{$NPCs.ShenlingHead.DisplayName}"
+WrathHaruka.DisplayName: Haruka de la Ira
+WrathHarukaClone.DisplayName: "{$NPCs.WrathHaruka.DisplayName}"
+WrathHarukaVanish.DisplayName: "{$NPCs.WrathHaruka.DisplayName}"
+AHDeath.DisplayName: Derrota de las Hermanas
+AHSpawn.DisplayName: Hermanas de la Discordia
+Ashe.DisplayName: Ashe Akuma
+AshenDragonArms.DisplayName: "{$NPCs.AshenDragonHead.DisplayName}"
+AshenDragonBody1.DisplayName: "{$NPCs.AshenDragonHead.DisplayName}"
+AshenDragonBody2.DisplayName: "{$NPCs.AshenDragonHead.DisplayName}"
+AshenDragonBody3.DisplayName: "{$NPCs.AshenDragonHead.DisplayName}"
+AshenDragonHead.DisplayName: Dragón Ceniciento
+AshenDragonTail.DisplayName: "{$NPCs.AshenDragonHead.DisplayName}"
+AsheRune.DisplayName: Runa de Ashe
+AsheSpawn.DisplayName: "{$NPCs.Ashe.DisplayName}"
+AsheVanish.DisplayName: "{$NPCs.Ashe.DisplayName}"
+FlameVortex.DisplayName: Vórtice de Llama
+Haruka.DisplayName: Haruka Yamata
+HarukaClone.DisplayName: "{$NPCs.Haruka.DisplayName}"
+HarukaFall.DisplayName: "{$NPCs.Haruka.DisplayName}"
+HarukaSpawn.DisplayName: "{$NPCs.Haruka.DisplayName}"
+HarukaVanish.DisplayName: "{$NPCs.Haruka.DisplayName}"
+DesertDjinn.DisplayName: Genio del Desierto
+DustDjinn.DisplayName: Genio del Polvo
+Anubis.DisplayName: Anubis; Escriba de Leyendas
+EyeSentry.DisplayName: Centinela de Ojo
+HorusHawk.DisplayName: Halcón de Horus
+Locust.DisplayName: Langosta
+MinionRitual.DisplayName: Ritual
+Scarab.DisplayName: Escarabajo
+UraeusBody.DisplayName: "{$NPCs.UraeusHead.DisplayName}"
+UraeusHead.DisplayName: Ureo
+UraeusTail.DisplayName: "{$NPCs.UraeusHead.DisplayName}"
+AnubisA.DisplayName: Anubis; Juez Abandonado
+AnubisForsakenTransition.DisplayName: "{$NPCs.Anubis.DisplayName}"
+CursedLocust.DisplayName: Langosta Maldita
+CursedMinionRitual.DisplayName: Ritual Maldito
+CursedScarab.DisplayName: Escarabajo Maldito
+ForsakenSun.DisplayName: Sol Abandonado
+HorusSentry.DisplayName: Centinela de Horus
+Naddaha.DisplayName: Naddaha
+FeudalFungus.DisplayName: Hongo Feudal
+FeudalFungus_FungalSpore.DisplayName: Espora Fúngica
+FeudalFungus_FungusFlier.DisplayName: Volador Hongo
+FeudalFungusAsleep.DisplayName: Champiñón Gigante Brillante
+FeudalFungusWakeUp.DisplayName: Champiñón Gigante Brillante...?
+GlowingMushling.DisplayName: Cría de Champiñón Brillante
+GregariousGlowshrooms.DisplayName: Champiñones Brillantes Gregarios
+LuminousAccordyceps.DisplayName: Acordicéps Luminoso
+TruffleToad.DisplayName: Sapo Trufa
+TinyToad.DisplayName: Sapo Minúsculo
+FatPixie.DisplayName: Hada Gorda
+GreedBody.DisplayName: "{$NPCs.GreedHead.DisplayName}"
+GreedHead.DisplayName: Avaricia
+GreedTransition.DisplayName: Centella de Avaricia
+OreConstruct.DisplayName: Constructo de Mineral
+SparkOfDesire.DisplayName: Centella de Deseo
+ScavengerBody.DisplayName: "{$NPCs.ScavengerHead.DisplayName}"
+ScavengerHead.DisplayName: Carroñero
+ScavengerTail.DisplayName: "{$NPCs.ScavengerHead.DisplayName}"
+GreedABody.DisplayName: "{$NPCs.GreedAHead.DisplayName}"
+GreedAHead.DisplayName: Rey Gusano, Avaricia
+SingularityOfDesire.DisplayName: Singularidad del Deseo
+Broodmini.DisplayName: Cría Reproductora
+Broodmother.DisplayName: La Madre Reproductora
+DragonEgg.DisplayName: Huevo de Dragón
+InfernalSlime.DisplayName: Babosa Infernal
+DragonClaw_NPC.DisplayName: Garra de Dragón
+FlameBrute.DisplayName: Bruto Ardiente
+Singemander.DisplayName: Salamandra Chamuscada
+WyrmlingBody.DisplayName: "{$NPCs.WyrmlingHead.DisplayName}"
+WyrmlingHead.DisplayName: Wyrmlín
+WyrmlingTail1.DisplayName: "{$NPCs.WyrmlingHead.DisplayName}"
+WyrmlingTail2.DisplayName: "{$NPCs.WyrmlingHead.DisplayName}"
+BlazePhoenix.DisplayName: Fénix Ardiente
+InfernalGhoul.DisplayName: Ghoul Infernal
+PigronInferno.DisplayName: Pigron
+ChaoticDawn.DisplayName: Amanecer Caótico
+InfernoMimic.DisplayName: Mímic del Infierno
+WyrmBody1.DisplayName: "{$NPCs.WyrmHead.DisplayName}"
+WyrmBody2.DisplayName: "{$NPCs.WyrmHead.DisplayName}"
+WyrmBody3.DisplayName: "{$NPCs.WyrmHead.DisplayName}"
+WyrmBody4.DisplayName: "{$NPCs.WyrmHead.DisplayName}"
+WyrmHead.DisplayName: Wyrm
+MagmaSwimmer.DisplayName: Nadador de Magma
+AkumaBody.DisplayName: "{$NPCs.AkumaHead.DisplayName}"
+AkumaHead.DisplayName: Akuma; Demonio Draconiano
+AkumaTransition.DisplayName: Alma de la Furia
+AkumaABody.DisplayName: "{$NPCs.AkumaAHead.DisplayName}"
+AkumaAHead.DisplayName: Akuma Oni
+AwakenedLungBody.DisplayName: "{$NPCs.AwakenedLungHead.DisplayName}"
+AwakenedLungHead.DisplayName: Pulmón Despertado
+AwakenedLungTail.DisplayName: "{$NPCs.AwakenedLungHead.DisplayName}"
+BlazeClaw.DisplayName: Garra Ardiente
+AncientLungBody.DisplayName: "{$NPCs.AncientLungHead.DisplayName}"
+AncientLungHead.DisplayName: Pulmón Antiguo
+AncientLungTail.DisplayName: "{$NPCs.AncientLungHead.DisplayName}"
+MadnessBat.DisplayName: Volador de la Locura
+MadnessSlime.DisplayName: Babosa de la Locura
+HarukaShadowPostHydra.DisplayName: "{$NPCs.HarukaShadow.DisplayName}"
+HarukaShadow.DisplayName: ...
+HydraBody.DisplayName: Hidra
+HydraHead1.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead2.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead3.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead4.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead5.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead6.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead7.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead8.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+HydraHead9.DisplayName: "{$NPCs.HydraBody.DisplayName}"
+MurkySlime.DisplayName: Babosa Oscura
+HydraClaw_NPC.DisplayName: Garra de Hidra
+Mosster.DisplayName: Mos monstruo
+Newt.DisplayName: Tritón
+Skulker.DisplayName: Merodeador
+Kappa.DisplayName: Kappa
+Toxitoad.DisplayName: Sapo Tóxico
+ShadowGhoul.DisplayName: Ghoul de Sombra
+PigronMire.DisplayName: Pigron
+ChaoticTwilight.DisplayName: Crepúsculo Caótico
+MireMimic.DisplayName: Mímic del Cenagal
+Miresquito.DisplayName: Mosquito del Cenagal
+FogAngler.DisplayName: Pescador de Niebla
+MireSoul.DisplayName: Alma del Cenagal
+YamataABody.DisplayName: Yamata no Orochi
+YamataAHead.DisplayName: "{$NPCs.YamataABody.DisplayName}"
+YamataAHeadFake.DisplayName: "{$NPCs.YamataABody.DisplayName}"
+YamataBody.DisplayName: Yamata; Pesadilla Temida
+YamataHead.DisplayName: "{$NPCs.YamataBody.DisplayName}"
+YamataHeadFake1.DisplayName: "{$NPCs.YamataBody.DisplayName}"
+YamataHeadFake2.DisplayName: "{$NPCs.YamataBody.DisplayName}"
+YamataTransition.DisplayName: Espíritu de la Ira
+AbyssClaw.DisplayName: Garra Abismal
+Soulsucker.DisplayName: Absorbealmas
+Mushling.DisplayName: Cría de Champiñón
+MushroomMonarch.DisplayName: Monarca Champiñón
+MushroomMonarchAsleep.DisplayName: Champiñón Gigante
+MushroomMonarchWakeUp.DisplayName: Champiñón Gigante...?
+FungusFrog.DisplayName: Rana Fúngica
+Mushbug.DisplayName: Bicho Champiñón
+MushroomCrab.DisplayName: Cangrejo Champiñón
+MushroomJelly.DisplayName: Gelatina Champiñón
+MushroomZombie.DisplayName: Zombi Champiñón
+MushroomZombie2.DisplayName: Zombi Champiñón
+ElderDragon.DisplayName: Dragón Anciano
+IceCrystal.DisplayName: Cristal de Hielo
+SubzeroSerpentBody.DisplayName: "{$NPCs.SubzeroSerpentHead.DisplayName}"
+SubzeroSerpentHead.DisplayName: Serpiente Subgélida
+SubzeroSerpentTail.DisplayName: "{$NPCs.SubzeroSerpentHead.DisplayName}"
+SnowSerpentBody.DisplayName: "{$NPCs.SnowSerpentHead.DisplayName}"
+SnowSerpentHead.DisplayName: Serpiente de Nieve
+SnowSerpentTail.DisplayName: "{$NPCs.SnowSerpentHead.DisplayName}"
+DaybringerBody.DisplayName: "{$NPCs.DaybringerHead.DisplayName}"
+DaybringerHead.DisplayName: Portador del Amanecer
+DaybringerTail.DisplayName: "{$NPCs.DaybringerHead.DisplayName}"
+Equiprobe.DisplayName: Equiprobe
+NightCloud.DisplayName: Nube Nocturna
+NightcrawlerBody.DisplayName: "{$NPCs.NightcrawlerHead.DisplayName}"
+NightcrawlerHead.DisplayName: Rastrero Nocturno
+NightcrawlerTail.DisplayName: "{$NPCs.NightcrawlerHead.DisplayName}"
+SunWatcher.DisplayName: Vigilante del Sol
+NightGuard.DisplayName: Guardia Nocturno
+DBPortal.DisplayName: Estrella Brillante
+NCPortal.DisplayName: Vacío Oscuro
+WormSpawn.DisplayName: Voz Celestial
+PurityCrawler.DisplayName: Rastrero de Pureza
+PuritySphere.DisplayName: Esfera de Pureza
+PuritySquid.DisplayName: Calamar de Pureza
+PurityWeaverBody.DisplayName: Tejedor de Tierra
+PurityWeaverHead.DisplayName: Tejedor de Pureza
+PurityWeaverTail.DisplayName: Tejedor de Tierra
+TerraDeadshot.DisplayName: Tirador Certero de Tierra
+TerraKnight.DisplayName: Caballero de Tierra
+TerraSquire.DisplayName: Escudero de Tierra
+TerraWarlock.DisplayName: Brujo de Tierra
+TerraCrawler.DisplayName: Rastrero de Tierra
+TerraSphere.DisplayName: Esfera de Tierra
+TerraSquid.DisplayName: Calamar de Tierra
+TerraWeaverBody.DisplayName: "{$NPCs.TerraWeaverHead.DisplayName}"
+TerraWeaverHead.DisplayName: Tejedor de Tierra
+TerraWeaverTail.DisplayName: "{$NPCs.TerraWeaverHead.DisplayName}"
+TerraWizard.DisplayName: Mago de Tierra
+UnityProbe.DisplayName: Sonda de Unidad
+UnityWatcher.DisplayName: Vigilante de Unidad
+Sagittarius.DisplayName: Sagitario
+ShadowScout.DisplayName: Explorador de Sombra
+StoneSearcher.DisplayName: Buscador de Piedra
+ZeroDeactivated.DisplayName: Máquina Extraña
+VoidScout.DisplayName: Explorador del Vacío
+Vortex.DisplayName: Vórtice
+NullZP.DisplayName: "{$NPCs.Null.DisplayName}"
+Null.DisplayName: Nulo
+ZeroA.DisplayName: ZER0 PR0T0C0L
+ZeroEcho.DisplayName: 3CH0
+ZeroMini.DisplayName: ZER0 0RGANIZACIÓN AUTÓNOMA
+ZeroTransition.DisplayName: Grieta Rota
+Zero.DisplayName: Zero
+ZeroBrokenWeapon.DisplayName: Arma Rota
+ZeroGenocideCannon.DisplayName: Cañón del Genocidio
+ZeroGigataser.DisplayName: Gigatáser
+ZeroNeutralizer.DisplayName: Neutralizador
+ZeroNovaFocus.DisplayName: Enfoque Nova
+ZeroOmegaVolley.DisplayName: Descarga Omega
+ZeroRealityCannon.DisplayName: Cañón de la Realidad
+ZeroRiftShredder.DisplayName: Trituradora de Grietas
+ZeroVoidStar.DisplayName: Estrella del Vacío
+Searcher.DisplayName: Buscador
+OrthrusXBody.DisplayName: Orthrus X
+OrthrusXHead.DisplayName: "{$NPCs.OrthrusXBody.DisplayName}"
+OrthrusXHead_OrthrusReticle.DisplayName: Retícula
+RaiderEgg.DisplayName: Huevo de Asaltante
+RaiderUltima.DisplayName: Asaltante Supremo
+RaiderUltima_RaiderRocket.DisplayName: Cohete del Asaltante
+Raidmini.DisplayName: Cría Asaltante
+Retriever.DisplayName: El Recuperador
+CyberClaw.DisplayName: Garra Cibernética
+AmbientSoulOfCthulhu.DisplayName: ???
+OlympianDragon.DisplayName: Dragón Olímpico
+AnubisUnreleased.DisplayName: "{$NPCs.Anubis.DisplayName}"
+AnubisCircle.DisplayName: Círculo de Anubis
+BiomiteCore.DisplayName: Núcleo de Biomita
+TechnoTruffle.DisplayName: Trufa Tecnológica
+TruffleProbe.DisplayName: Sonda de Trufa
+Truffling.DisplayName: Cría de Trufa
+DimensionDiver.DisplayName: Buzo de Trinchera
+RiftShark.DisplayName: Tiburón de Trinchera
+Cthulhu.DisplayName: Cthulhu, Calamidad Cósmica
+DeityBrain.DisplayName: Lu'Kthu
+EyeOfAzathoth.DisplayName: Ojo de Azathoth
+DeityEater.DisplayName: Crom Cruach
+DeityEaterBody.DisplayName: "{$NPCs.DeityEater.DisplayName}"
+DeityEaterTail.DisplayName: "{$NPCs.DeityEater.DisplayName}"
+DeityEye.DisplayName: Cyaegha
+DeityLeviathan.DisplayName: Vile-Oct
+DeityShark.DisplayName: Tiburón Deidad
+DeityShark2.DisplayName: Tiburón Deidad
+LeviathanBubble.DisplayName: Burbuja de Leviatán
+DeityRose.DisplayName: Ei'lor
+DeityRoseClaws.DisplayName: Tentáculo de Ei'Lor
+DeityRoseHook.DisplayName: Garra de Ei'Lor
+DeityRoseSpore.DisplayName: Espora de Ei'Lor
+ShadowUrchin.DisplayName: Erizo de Sombra
+DeitySkull.DisplayName: Rhan-Tegoth
+DeitySkull_Hand.DisplayName: Garra de Tegoth
+DeitySkull_Hand1.DisplayName: "{$NPCs.DeitySkull_Hand.DisplayName}"
+DeitySkull_Hand2.DisplayName: "{$NPCs.DeitySkull_Hand.DisplayName}"
+DeitySkull_Hand3.DisplayName: "{$NPCs.DeitySkull_Hand.DisplayName}"
+DeitySkull_Hand4.DisplayName: "{$NPCs.DeitySkull_Hand.DisplayName}"
+DeitySkull_Hand5.DisplayName: "{$NPCs.DeitySkull_Hand.DisplayName}"
+CthulhuPortal.DisplayName: Portal Oscuro
+CthulhuSpawn.DisplayName: Portal Cuántico
+DeityDragon.DisplayName: Psyvern
+DeityDragon_Arms.DisplayName: "{$NPCs.DeityDragon.DisplayName}"
+DeityDragon_Body1.DisplayName: "{$NPCs.DeityDragon.DisplayName}"
+DeityDragon_Body2.DisplayName: "{$NPCs.DeityDragon.DisplayName}"
+DeityDragon_Body3.DisplayName: "{$NPCs.DeityDragon.DisplayName}"
+DeityDragon_Tail.DisplayName: "{$NPCs.DeityDragon.DisplayName}"
+Portal.DisplayName: Portal de Grieta
+RiftVision.DisplayName: Visión de Grieta
+SoulOfCthulhu.DisplayName: Alma de Cthulhu
+UDUNFUKED.DisplayName: Sombra Lovecraftiana
+TrenchSquid.DisplayName: Calamar de Trinchera
+InfinityCore.DisplayName: Punto Cero
+InfinityZero.DisplayName: Zero Infinito; Malicia Mecánica
+InfinityZeroHand1.DisplayName: Zero Encadenado
+InfinityZeroHand2.DisplayName: "{$NPCs.InfinityZeroHand1.DisplayName}"
+InfinityZeroSpawn1.DisplayName: Muerte
+Oblivion.DisplayName: Oblivio
+TerraSerpentBody.DisplayName: "{$NPCs.TerraSerpentHead.DisplayName}"
+TerraSerpentHead.DisplayName: Serpiente de Tierra
+TerraSerpentTail.DisplayName: "{$NPCs.TerraSerpentHead.DisplayName}"

@@ -1,0 +1,792 @@
+Functional: {
+	ChaosCrucible: {
+		DisplayName: Crisol del Caos
+		Tooltip: Incluso el caos requiere una mano firme y una fragua gigantesca con la que trabajar
+	}
+
+	TruePaladinsSmeltery: {
+		DisplayName: Fundición del Paladín Verdadero
+		Tooltip:
+			'''
+			Una superfundición pensada solo para los herreros más dignos
+			Funciona como la mayoría de estaciones de elaboración necesarias
+			'''
+	}
+
+	HaphestusForge: {
+		DisplayName: Forja de Hefesto
+		Tooltip:
+			'''
+			*Golpea la parte superior de la forja* 'Este bebé puede contener muchas estaciones de elaboración.'
+			Funciona como una Forja Infernal, Yunque de Piedra Infierno, Mesa de Alquimia, Altar Demoníaco, Taller del Inventero, y una Mesa y una Silla
+			'''
+	}
+
+	DragonAltarSafe: {
+		DisplayName: Altar del Dragón
+		Tooltip: ""
+	}
+
+	QuantumFusionAccelerator: {
+		DisplayName: Acelerador de Fusión Cuántica
+		Tooltip:
+			'''
+			Lanzando partículas a la velocidad del sonido
+			Te permite trabajar con Materia Oscura y Radio
+			'''
+	}
+
+	RadiantArcanum: {
+		DisplayName: Arcano Radiante
+		Tooltip:
+			'''
+			Pide un deseo a una estrella
+			Te permite trabajar con Materia Oscura y Radio
+			'''
+	}
+
+	BinaryReassembler: {
+		DisplayName: Reensambla Fragmentación Binaria
+		Tooltip: La realidad nunca fue tan fácil de manipular
+	}
+
+	FurnitureDynamo: {
+		DisplayName: Dínamo de Muebles
+		Tooltip:
+			'''
+			Combina todas las estaciones de elaboración de muebles en un bloque
+			¡Ahora no tienes que llenar tu base con 12 estaciones de elaboración!
+			'''
+	}
+
+	CorruptAltar: {
+		DisplayName: Altar Demoníaco
+		Tooltip: ""
+	}
+
+	CrimsonAltar: {
+		DisplayName: Altar Carmesí
+		Tooltip: ""
+	}
+
+	HallowedAnvil: {
+		DisplayName: Yunque Sagrado
+		Tooltip: Un Yunque Sagrado
+	}
+
+	HallowedForge: {
+		DisplayName: Forja Sagrada
+		Tooltip: Es increíble lo que esta cosa NO puede cocinar
+	}
+
+	PaladinsSmeltery: {
+		DisplayName: Forja de Fundición del Paladín
+		Tooltip:
+			'''
+			Esta cosa puede hacer mucha cosas
+			Funciona como la mayoría de estaciones de elaboración del modo difícil + Un banco de trabajo y un banco de trabajo pesado
+			'''
+	}
+
+	HellstoneAnvil: {
+		DisplayName: Yunque de Piedra Infierno
+		Tooltip: ¿Se supone que esto debe estar en fuego?
+	}
+
+	SharpeningLavaFish: {
+		DisplayName: Pez Afilador de Lava
+		Tooltip: ""
+	}
+
+	AbyssAltarSafe: {
+		DisplayName: Altar del Abismo
+		Tooltip: ""
+	}
+
+	ToxinMonkfish: {
+		DisplayName: Pez Monje Tóxico
+		Tooltip: ""
+	}
+
+	TerraCore: {
+		DisplayName: Núcleo de Terraria
+		Tooltip:
+			'''
+			Combina la mayoría de estaciones de elaboración en una
+			Se usa para crear estaciones de elaboración antiguas
+			'''
+	}
+
+	TerraPrismStation: {
+		DisplayName: Núcleo Infinito
+		Tooltip:
+			'''
+			El 'elabora-todo'.
+			Combina todas las estaciones de elaboración vainilla y Ancients Awakened juntas
+			'''
+	}
+
+	InfernoPylon: {
+		DisplayName: Pylón del Infierno
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	MirePylon: {
+		DisplayName: Pylón del Cenagal
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	RedMushroomPylon: {
+		DisplayName: Pylón de Seta Roja
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	VoidPylon: {
+		DisplayName: Pylón del Vacío
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+}
+
+TerraCrystal: {
+	DisplayName: Cristal Terrestre
+	Tooltip: ""
+}
+
+DoomsdayCircuitPlating: {
+	DisplayName: Revestimiento de Circuito del Día del Juicio
+	Tooltip: ""
+}
+
+DoomstoneBrick: {
+	DisplayName: Ladrillo de Piedra Ruina
+	Tooltip: ""
+}
+
+VoidUnit: {
+	DisplayName: Unidad de Recreación del Vacío
+	Tooltip: ""
+}
+
+AvesInABox: {
+	DisplayName: Aves en una Caja
+	Tooltip: HAGAN MÁS CAJAS DE MÚSICA MALDITO PATO
+}
+
+AvesStatue: {
+	DisplayName: Estatua del Maestro Pato
+	Tooltip: ""
+}
+
+BegStatue: {
+	DisplayName: Estatua del Caballo Raro
+	Tooltip: ""
+}
+
+CharlieStatue: {
+	DisplayName: Estatua de la Guitarra
+	Tooltip: ""
+}
+
+DallinStatue: {
+	DisplayName: Estatua del Doctor
+	Tooltip: ""
+}
+
+EnderStatue: {
+	DisplayName: Estatua del Héroe de Leyenda
+	Tooltip: ""
+}
+
+FargoStatue: {
+	DisplayName: Estatua de la Ardilla de Sombrero de Copa
+	Tooltip: ""
+}
+
+FazerStatue: {
+	DisplayName: Estatua de Sammy
+	Tooltip: ""
+}
+
+GroxStatue: {
+	DisplayName: Estatua del Guardián
+	Tooltip: ""
+}
+
+HallamStatue: {
+	DisplayName: Estatua del Dios de los Arco Iris
+	Tooltip: ""
+}
+
+KyuuStatue: {
+	DisplayName: Estatua de Excaligrim
+	Tooltip: ""
+}
+
+LCSStatue: {
+	DisplayName: Estatua de la Mentira
+	Tooltip: ""
+}
+
+MoonStatue: {
+	DisplayName: Estatua de la Avispa
+	Tooltip: ""
+}
+
+SauceStatue: {
+	DisplayName: Estatua de la Serpiente
+	Tooltip: ""
+}
+
+TailsStatue: {
+	DisplayName: Estatua del Zorro
+	Tooltip: ""
+}
+
+EnderMemory: {
+	DisplayName: Memoria Eterna
+	Tooltip:
+		'''
+		Una estatua inmensa hecha para conmemorar a alguien
+		Un grabado sombrío está grabado en la base.
+		'''
+}
+
+SkycrystalBrick: {
+	DisplayName: Ladrillo de Cristal Celeste
+	Tooltip: ""
+}
+
+SkymarbleBrick: {
+	DisplayName: Ladrillo de Mármol Celeste
+	Tooltip: ""
+}
+
+RoyalRabbitCage: {
+	DisplayName: Jaula de Conejo Real
+	Tooltip: ""
+}
+
+RitualAltar: {
+	DisplayName: Altar Ritual
+	Tooltip: Un altar antiguo cuya función se ha perdido en el tiempo...
+}
+
+DiscordianTorch: {
+	DisplayName: Antorcha Discordiana
+	Tooltip: ""
+}
+
+DesertCrate: {
+	DisplayName: Caja del Desierto
+	Tooltip: "'Está demasiado polvorienta para abrir'"
+}
+
+HellCrate: {
+	DisplayName: Caja del Infierno
+	Tooltip: "'Está demasiado derretida para abrir'"
+}
+
+CovetiteBrick: {
+	DisplayName: Ladrillo de Covetita
+	Tooltip: ""
+}
+
+CovetiteBrickWall: {
+	DisplayName: Pared de Ladrillo de Covetita
+	Tooltip: ""
+}
+
+GreedBrick: {
+	DisplayName: Ladrillo de Tesoro
+	Tooltip: ""
+}
+
+GreedChest: {
+	DisplayName: Cofre de Avaricia
+	Tooltip: ""
+}
+
+GreedLantern: {
+	DisplayName: Linterna de Piedra
+	Tooltip: ""
+}
+
+GreedStone: {
+	DisplayName: Piedra de Tesoro
+	Tooltip: ""
+}
+
+IncineriteBrick: {
+	DisplayName: Ladrillo de Incinerita
+	Tooltip: ""
+}
+
+IncineriteBrickWall: {
+	DisplayName: Pared de Ladrillo de Incinerita
+	Tooltip: ""
+}
+
+Razewood: {
+	DisplayName: Madera Cortante
+	Tooltip: ""
+}
+
+RazewoodWall: {
+	DisplayName: Pared de Madera Cortante
+	Tooltip: ""
+}
+
+DragonfireTorch: {
+	DisplayName: Antorcha de Fuego de Dragón
+	Tooltip: ""
+}
+
+SunAltar: {
+	DisplayName: Altar del Sol Dracónico
+	Tooltip: ""
+}
+
+SunAltarA: {
+	DisplayName: Altar del Sol Despertado
+	Tooltip: ""
+}
+
+DaybreakBrick: {
+	DisplayName: Ladrillo de Amanecer
+	Tooltip: ""
+}
+
+DaybreakBrickWall: {
+	DisplayName: Pared de Ladrillo de Amanecer
+	Tooltip: ""
+}
+
+DaybreakTorch: {
+	DisplayName: Antorcha de Amanecer
+	Tooltip: ""
+}
+
+InfernoChest: {
+	DisplayName: Cofre del Infierno
+	Tooltip: ""
+}
+
+ScorchedDynastyWood: {
+	DisplayName: Madera de Dinastía Quemada
+	Tooltip: ""
+}
+
+ScorchedDynastyWoodUnsafe: {
+	DisplayName: Madera de Dinastía Quemada Insegura
+	Tooltip: ""
+}
+
+ScorchedShingles: {
+	DisplayName: Tejas Quemadas
+	Tooltip: ""
+}
+
+TorchAsh: {
+	DisplayName: Ceniza Volcánica
+	Tooltip: ""
+}
+
+Torchice: {
+	DisplayName: Hielo Naranja
+	Tooltip: ""
+}
+
+Torchsand: {
+	DisplayName: Arena de Antorcha
+	Tooltip: ""
+}
+
+TorchsandHardened: {
+	DisplayName: Arena de Antorcha Endurecida
+	Tooltip: ""
+}
+
+Torchsandstone: {
+	DisplayName: Piedra de Arena de Antorcha
+	Tooltip: ""
+}
+
+Torchstone: {
+	DisplayName: Piedra de Antorcha
+	Tooltip: Cálido al tacto
+}
+
+AbyssiumBrick: {
+	DisplayName: Ladrillo de Abisita
+	Tooltip: ""
+}
+
+Bogwood: {
+	DisplayName: Madera de Cenagal
+	Tooltip: ""
+}
+
+BogwoodWall: {
+	DisplayName: Pared de Madera de Cenagal
+	Tooltip: ""
+}
+
+BogtoxinTorch: {
+	DisplayName: Antorcha de Toxina del Cenagal
+	Tooltip: ""
+}
+
+DreadMoonAltar: {
+	DisplayName: Altar de la Luna de Pavor
+	Tooltip: ""
+}
+
+DreadMoonAltarA: {
+	DisplayName: Altar de la Luna Despertada
+	Tooltip: ""
+}
+
+EventideAbyssiumBrick: {
+	DisplayName: Ladrillo de Penumbra
+	Tooltip: ""
+}
+
+EventideBrickWall: {
+	DisplayName: Pared de Ladrillo de Penumbra
+	Tooltip: ""
+}
+
+EventideTorch: {
+	DisplayName: Antorcha de Penumbra
+	Tooltip: ""
+}
+
+MireChest: {
+	DisplayName: Cofre del Cenagal
+	Tooltip: ""
+}
+
+Darkmud: {
+	DisplayName: Lodo Oscuro
+	Tooltip: ""
+}
+
+Depthsand: {
+	DisplayName: Arena de Profundidad
+	Tooltip: ""
+}
+
+DepthsandHardened: {
+	DisplayName: Arena de Profundidad Endurecida
+	Tooltip: ""
+}
+
+Depthsandstone: {
+	DisplayName: Piedra de Arena de Profundidad
+	Tooltip: ""
+}
+
+Depthstone: {
+	DisplayName: Piedra de Profundidad
+	Tooltip: Húmedo
+}
+
+IndigoIce: {
+	DisplayName: Hielo Índigo
+	Tooltip: ""
+}
+
+MushroomBlock: {
+	DisplayName: Bloque de Seta
+	Tooltip: ""
+}
+
+IceCrate: {
+	DisplayName: Caja de Hielo
+	Tooltip: "'Está demasiado congelada para abrir'"
+}
+
+RelicBrick: {
+	DisplayName: Ladrillo de Reliquia
+	Tooltip: ""
+}
+
+RelicBrickWall: {
+	DisplayName: Pared de Ladrillo de Reliquia
+	Tooltip: ""
+}
+
+DarkmatterBrick: {
+	DisplayName: Ladrillo de Materia Oscura
+	Tooltip: ""
+}
+
+DarkmatterBrickWall: {
+	DisplayName: Pared de Ladrillo de Materia Oscura
+	Tooltip: ""
+}
+
+EquinoxBrick: {
+	DisplayName: Ladrillo de Equinoccio
+	Tooltip: Cambia dependiendo de la hora del día
+}
+
+EquinoxBrickWall: {
+	DisplayName: Pared de Ladrillo de Equinoccio
+	Tooltip: ""
+}
+
+RadiumBrick: {
+	DisplayName: Ladrillo de Radio
+	Tooltip: ""
+}
+
+RadiumBrickWall: {
+	DisplayName: Pared de Ladrillo de Radio
+	Tooltip: ""
+}
+
+PermeableTerraWoodWand: {
+	DisplayName: Vara de Madera Terra Permeable
+	Tooltip: Click derecho para cambiar modos
+}
+
+TerraLeafWand: {
+	DisplayName: Vara de Hoja Terra
+	Tooltip: ""
+}
+
+TerraWoodWand: {
+	DisplayName: Vara de Madera Terra
+	Tooltip: Click derecho para cambiar modos
+}
+
+OuroborosWood: {
+	DisplayName: Madera de Ouróboros
+	Tooltip: ""
+}
+
+OuroborosWoodWall: {
+	DisplayName: Pared de Madera de Ouróboros
+	Tooltip: ""
+}
+
+DoomsdayPlatingWall: {
+	DisplayName: Pared de Circuito del Día del Juicio
+	Tooltip: ""
+}
+
+DoomstoneBrickWall: {
+	DisplayName: Pared de Ladrillo de Piedra Ruina
+	Tooltip: ""
+}
+
+DoomstoneB: {
+	DisplayName: Piedra Ruina
+	Tooltip: ""
+}
+
+Doomstone: {
+	DisplayName: Piedra Ruina Cargada
+	Tooltip: ""
+}
+
+DoomsdayChest: {
+	DisplayName: Cofre del Día del Juicio
+	Tooltip: ""
+}
+
+DoomitePlatingWall: {
+	DisplayName: Pared de Revestimiento de Doomita
+	Tooltip: ""
+}
+
+KeepBrick: {
+	DisplayName: Ladrillo de Fortaleza
+	Tooltip: ""
+}
+
+AcropolisPainting: {
+	DisplayName: Palacio en el Cielo
+	Tooltip: "'Esos serafines actúan más como arpías que arpías reales...'"
+}
+
+AkumaPainting: {
+	DisplayName: Demonio Dracónico
+	Tooltip: "'Las llamas del odio... siguen ardiendo en este demonio...'"
+}
+
+AnubisPainting: {
+	DisplayName: Un Viejo Amigo
+	Tooltip: "'Tipo duro, pero me hace reír.'"
+}
+
+CRajahPainting: {
+	DisplayName: Campeón de los Inocentes
+	Tooltip: "'Lo único más poderoso que un defensor es su furia interminable.'"
+}
+
+DaedalusPainting: {
+	DisplayName: Señor de la Luz
+	Tooltip: "'Hace lo correcto... incluso si no es lo mejor a hacer.'"
+}
+
+DecayPainting: {
+	DisplayName: El Guardián
+	Tooltip: "'Ese viejo espectro... ¿qué estará planeando..?'"
+}
+
+FulgurusPainting: {
+	DisplayName: Portador del Trueno
+	Tooltip: "'No pinté este. Fue un regalo de los Fulgurianos... parecen estar bien.'"
+}
+
+GreedPainting: {
+	DisplayName: El Rey Gusano
+	Tooltip: "'En lo profundo de las cavernas hay montañas de tesoro... custodiadas por una serpiente hecha de él.'"
+}
+
+HotJPainting: {
+	DisplayName: El Corazón
+	Tooltip: "'El origen de la vida... reducido a un montón de tierra consciente. Pobre cosa...'"
+}
+
+IZPainting: {
+	DisplayName: Ojo del Infinito
+	Tooltip: "'Aún me acecha en mis pesadillas...'"
+}
+
+JojoBagginsPainting: {
+	DisplayName: El Arquitecto
+	Tooltip: "'Tipo raro pero vaya, fue un gran constructor.'"
+}
+
+KingQueenPainting: {
+	DisplayName: Los Monarcas
+	Tooltip: "'Te echo de menos, mamá y papá...'"
+}
+
+LuciferPainting: {
+	DisplayName: Rey del Mal
+	Tooltip: "'El pozo. Caliente, oscuro y sangriento, no gracias.'"
+}
+
+MushmadPainting: {
+	DisplayName: Locura
+	Tooltip: "'Tantas setas...'"
+}
+
+NKPainting: {
+	DisplayName: El Caballero Perdido
+	Tooltip: "'Las leyendas dicen que este despiadado guardián de calabozos fue una vez como nosotros antes de morir...'"
+}
+
+RajahPainting: {
+	DisplayName: Castigador Saltador
+	Tooltip: "'El rey de los pequeños e indefensos, de los cuales ciertamente no es ninguno.'"
+}
+
+SanguinePainting: {
+	DisplayName: Sangre y Huesos
+	Tooltip: "'Parece que han tomado el término 'monstruo cara' demasiado en serio.'"
+}
+
+ShenPainting: {
+	DisplayName: Augur de Ruina Discordiano
+	Tooltip: "'Lo sellé, pero el asunto sobre contener el caos para siempre... es que no puedes.'"
+}
+
+ShipPainting: {
+	DisplayName: Galeón Lúgubre
+	Tooltip: "'Ese barco... todavía no entiendo qué son esas criaturas que lo infestan...'"
+}
+
+SoCPainting: {
+	DisplayName: Alma Hundida
+	Tooltip: "'Una abominación eldritch sellada en el barco en el que se hundió...'"
+}
+
+TerraPainting: {
+	DisplayName: El Héroe
+	Tooltip: "'Me aclaiman como un Héroe, pero siento que no he hecho suficiente.'"
+}
+
+UmbraPainting: {
+	DisplayName: Arácnido
+	Tooltip: "'Odio las arañas. Especialmente esta.'"
+}
+
+ValkyriePainting: {
+	DisplayName: Valor
+	Tooltip: "'Espero que puedas encontrar a tu ser querido perdido...'"
+}
+
+WizardPainting: {
+	DisplayName: El Mago
+	Tooltip: "'No me importa en qué te hayas convertido. Aún tengo esperanza en ti.'"
+}
+
+YamataPainting: {
+	DisplayName: Grito de Siete Cabezas
+	Tooltip: "'Dulce Azathoth, ¿cerrará este lagarto enormemente grande la boca?!'"
+}
+
+ZeroPainting: {
+	DisplayName: "0"
+	Tooltip: "'Esa cosa... no sé qué es, pero solo... me da escalofríos.'"
+}
+
+TerraBrick: {
+	DisplayName: Ladrillo Terra
+	Tooltip: ""
+}
+
+RottedDynastyWood: {
+	DisplayName: Madera de Dinastía Podrida
+	Tooltip: Es esponjoso
+}
+
+RottedShingles: {
+	DisplayName: Tejas Podridas
+	Tooltip: ""
+}
+
+SunkenChest: {
+	DisplayName: Cofre Hundido
+	Tooltip: ""
+}
+
+Sticker: {
+	DisplayName: Adhesivo Especial
+	Tooltip: Eres ganador
+}
+
+AncientDataBank: {
+	DisplayName: Banco de Datos Antiguo
+	Tooltip: ""
+}
+
+DataBank: {
+	DisplayName: Banco de Datos
+	Tooltip: ""
+}
+
+StormChest: {
+	DisplayName: Cofre de Tormenta
+	Tooltip: ""
+}
+
+LivingBogtoxinBlock: {
+	DisplayName: Bloque Viviente de Toxina del Cenagal
+	Tooltip: ""
+}
+
+LivingDragonFireBlock: {
+	DisplayName: Bloque Viviente de Fuego de Dragón
+	Tooltip: ""
+}
+
+ScorchedDynastyWoodWall: {
+	DisplayName: Pared de Madera de Dinastía Quemada
+	Tooltip: ""
+}

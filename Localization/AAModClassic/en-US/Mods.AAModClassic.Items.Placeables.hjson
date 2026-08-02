@@ -1,0 +1,792 @@
+Functional: {
+	ChaosCrucible: {
+		DisplayName: Chaos Crucible
+		Tooltip: Even chaos requires a steady hand and a gigantic forge to work with
+	}
+
+	TruePaladinsSmeltery: {
+		DisplayName: True Paladin's Smeltery
+		Tooltip:
+			'''
+			A superforge meant for only the worthiest of smiths
+			Functions as most necessary crafting stations
+			'''
+	}
+
+	HaphestusForge: {
+		DisplayName: Hephaestus Forge
+		Tooltip:
+			'''
+			*Slaps top of forge* 'This baby can fit so many crafting stations in it.'
+			Functions as a Hellforge, Hellstone Anvil, Alchemy Table, Demon Altar, Tinkerer's Workshop, and a Table and Chair
+			'''
+	}
+
+	DragonAltarSafe: {
+		DisplayName: Dragon Altar
+		Tooltip: ""
+	}
+
+	QuantumFusionAccelerator: {
+		DisplayName: Quantum Fusion Accelerator
+		Tooltip:
+			'''
+			Launching particles at the speed of sound
+			Allows you to work with Dark Matter and Radium
+			'''
+	}
+
+	RadiantArcanum: {
+		DisplayName: Radiant Arcanum
+		Tooltip:
+			'''
+			Wish upon a star
+			Allows you to work with Dark Matter and Radium
+			'''
+	}
+
+	BinaryReassembler: {
+		DisplayName: Binary Fragmentation Reassembler
+		Tooltip: Reality has never been so easy to manipulate
+	}
+
+	FurnitureDynamo: {
+		DisplayName: Furniture Dynamo
+		Tooltip:
+			'''
+			Combines all funiture-crafting stations into one block
+			Now you don't have to clutter your base with 12 crafting stations!
+			'''
+	}
+
+	CorruptAltar: {
+		DisplayName: Demon Altar
+		Tooltip: ""
+	}
+
+	CrimsonAltar: {
+		DisplayName: Crimson Altar
+		Tooltip: ""
+	}
+
+	HallowedAnvil: {
+		DisplayName: Hallowed Anvil
+		Tooltip: A Holy Anvil
+	}
+
+	HallowedForge: {
+		DisplayName: Hallowed Forge
+		Tooltip: It's amazing what this thing CAN'T cook
+	}
+
+	PaladinsSmeltery: {
+		DisplayName: Paladin's Smeltery Forge
+		Tooltip:
+			'''
+			This thing can make a lot of stuff
+			Functions as most hardmode crafting stations + A workbench and heavy workbench
+			'''
+	}
+
+	HellstoneAnvil: {
+		DisplayName: Hellstone Anvil
+		Tooltip: Is this thing supposed to be on fire?
+	}
+
+	SharpeningLavaFish: {
+		DisplayName: Sharpening Lava Fish
+		Tooltip: ""
+	}
+
+	AbyssAltarSafe: {
+		DisplayName: Abyss Altar
+		Tooltip: ""
+	}
+
+	ToxinMonkfish: {
+		DisplayName: Toxin Monkfish
+		Tooltip: ""
+	}
+
+	TerraCore: {
+		DisplayName: Core of Terraria
+		Tooltip:
+			'''
+			Combines most crafting stations into one
+			Used to create ancient crafting stations
+			'''
+	}
+
+	TerraPrismStation: {
+		DisplayName: Infinity Core
+		Tooltip:
+			'''
+			The 'craft-all'.
+			Combiles all vanilla and Ancients Awakened crafting stations together
+			'''
+	}
+
+	InfernoPylon: {
+		DisplayName: Inferno Pylon
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	MirePylon: {
+		DisplayName: Mire Pylon
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	RedMushroomPylon: {
+		DisplayName: Red Mushroom Pylon
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+
+	VoidPylon: {
+		DisplayName: Void Pylon
+		Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+	}
+}
+
+TerraCrystal: {
+	DisplayName: Terra Crystal
+	Tooltip: ""
+}
+
+DoomsdayCircuitPlating: {
+	DisplayName: Doomsday Circuit Plating
+	Tooltip: ""
+}
+
+DoomstoneBrick: {
+	DisplayName: Doomstone Brick
+	Tooltip: ""
+}
+
+VoidUnit: {
+	DisplayName: Void Recreation Unit
+	Tooltip: ""
+}
+
+AvesInABox: {
+	DisplayName: Aves In A Box
+	Tooltip: MAKE MORE MUSIC BOXES YOU DAMN DUCK
+}
+
+AvesStatue: {
+	DisplayName: Mallard Meistro Statue
+	Tooltip: ""
+}
+
+BegStatue: {
+	DisplayName: Weird Horse Statue
+	Tooltip: ""
+}
+
+CharlieStatue: {
+	DisplayName: Guitar Statue
+	Tooltip: ""
+}
+
+DallinStatue: {
+	DisplayName: Doctor Statue
+	Tooltip: ""
+}
+
+EnderStatue: {
+	DisplayName: Hero of Legend Statue
+	Tooltip: ""
+}
+
+FargoStatue: {
+	DisplayName: Top Hat Squirrel Statue
+	Tooltip: ""
+}
+
+FazerStatue: {
+	DisplayName: Sammy Statue
+	Tooltip: ""
+}
+
+GroxStatue: {
+	DisplayName: Guardian Statue
+	Tooltip: ""
+}
+
+HallamStatue: {
+	DisplayName: God of Rainbows Statue
+	Tooltip: ""
+}
+
+KyuuStatue: {
+	DisplayName: Excaligrim Statue
+	Tooltip: ""
+}
+
+LCSStatue: {
+	DisplayName: Lie Statue
+	Tooltip: ""
+}
+
+MoonStatue: {
+	DisplayName: Wasp Statue
+	Tooltip: ""
+}
+
+SauceStatue: {
+	DisplayName: Snake Statue
+	Tooltip: ""
+}
+
+TailsStatue: {
+	DisplayName: Fox Statue
+	Tooltip: ""
+}
+
+EnderMemory: {
+	DisplayName: Eternal Memory
+	Tooltip:
+		'''
+		An immense statue made to commemorate somebody
+		A somber engraving is etched into the base.
+		'''
+}
+
+SkycrystalBrick: {
+	DisplayName: Skycrystal Brick
+	Tooltip: ""
+}
+
+SkymarbleBrick: {
+	DisplayName: Skymarble Brick
+	Tooltip: ""
+}
+
+RoyalRabbitCage: {
+	DisplayName: Royal Rabbit Cage
+	Tooltip: ""
+}
+
+RitualAltar: {
+	DisplayName: Ritual Altar
+	Tooltip: An old altar whose function has been lost to time...
+}
+
+DiscordianTorch: {
+	DisplayName: Discordian Torch
+	Tooltip: ""
+}
+
+DesertCrate: {
+	DisplayName: Desert Crate
+	Tooltip: "'It's too dusty to open'"
+}
+
+HellCrate: {
+	DisplayName: Hell Crate
+	Tooltip: "'It's too molten to open'"
+}
+
+CovetiteBrick: {
+	DisplayName: Covetite Brick
+	Tooltip: ""
+}
+
+CovetiteBrickWall: {
+	DisplayName: Covetite Brick Wall
+	Tooltip: ""
+}
+
+GreedBrick: {
+	DisplayName: Hoard Brick
+	Tooltip: ""
+}
+
+GreedChest: {
+	DisplayName: Greed Chest
+	Tooltip: ""
+}
+
+GreedLantern: {
+	DisplayName: Stone Lantern
+	Tooltip: ""
+}
+
+GreedStone: {
+	DisplayName: Hoardstone
+	Tooltip: ""
+}
+
+IncineriteBrick: {
+	DisplayName: Incinerite Brick
+	Tooltip: ""
+}
+
+IncineriteBrickWall: {
+	DisplayName: Incinerite Brick Wall
+	Tooltip: ""
+}
+
+Razewood: {
+	DisplayName: Razewood
+	Tooltip: ""
+}
+
+RazewoodWall: {
+	DisplayName: Razewood Wall
+	Tooltip: ""
+}
+
+DragonfireTorch: {
+	DisplayName: Dragonfire Torch
+	Tooltip: ""
+}
+
+SunAltar: {
+	DisplayName: Draconic Sun Altar
+	Tooltip: ""
+}
+
+SunAltarA: {
+	DisplayName: Awakened Sun Altar
+	Tooltip: ""
+}
+
+DaybreakBrick: {
+	DisplayName: Daybreak Brick
+	Tooltip: ""
+}
+
+DaybreakBrickWall: {
+	DisplayName: Daybreak Brick Wall
+	Tooltip: ""
+}
+
+DaybreakTorch: {
+	DisplayName: Daybreak Torch
+	Tooltip: ""
+}
+
+InfernoChest: {
+	DisplayName: Inferno Chest
+	Tooltip: ""
+}
+
+ScorchedDynastyWood: {
+	DisplayName: Scorched Dynasty Wood
+	Tooltip: ""
+}
+
+ScorchedDynastyWoodUnsafe: {
+	DisplayName: Scorched Dynasty Wood Unsafe
+	Tooltip: ""
+}
+
+ScorchedShingles: {
+	DisplayName: Scorched Shingles
+	Tooltip: ""
+}
+
+TorchAsh: {
+	DisplayName: Volcanic Ash
+	Tooltip: ""
+}
+
+Torchice: {
+	DisplayName: Orange Ice
+	Tooltip: ""
+}
+
+Torchsand: {
+	DisplayName: Torchsand
+	Tooltip: ""
+}
+
+TorchsandHardened: {
+	DisplayName: Hardened Torchsand
+	Tooltip: ""
+}
+
+Torchsandstone: {
+	DisplayName: Torchsandstone
+	Tooltip: ""
+}
+
+Torchstone: {
+	DisplayName: Torchstone
+	Tooltip: Warm to the touch
+}
+
+AbyssiumBrick: {
+	DisplayName: Abyssium Brick
+	Tooltip: ""
+}
+
+Bogwood: {
+	DisplayName: Bogwood
+	Tooltip: ""
+}
+
+BogwoodWall: {
+	DisplayName: Bogwood Wall
+	Tooltip: ""
+}
+
+BogtoxinTorch: {
+	DisplayName: Bogtoxin Torch
+	Tooltip: ""
+}
+
+DreadMoonAltar: {
+	DisplayName: Dread Moon Altar
+	Tooltip: ""
+}
+
+DreadMoonAltarA: {
+	DisplayName: Awakened Moon Altar
+	Tooltip: ""
+}
+
+EventideAbyssiumBrick: {
+	DisplayName: Eventide Brick
+	Tooltip: ""
+}
+
+EventideBrickWall: {
+	DisplayName: Eventide Brick Wall
+	Tooltip: ""
+}
+
+EventideTorch: {
+	DisplayName: Eventide Torch
+	Tooltip: ""
+}
+
+MireChest: {
+	DisplayName: Mire Chest
+	Tooltip: ""
+}
+
+Darkmud: {
+	DisplayName: Darkmud
+	Tooltip: ""
+}
+
+Depthsand: {
+	DisplayName: Depthsand
+	Tooltip: ""
+}
+
+DepthsandHardened: {
+	DisplayName: Hardened Depthsand
+	Tooltip: ""
+}
+
+Depthsandstone: {
+	DisplayName: Depthsandstone
+	Tooltip: ""
+}
+
+Depthstone: {
+	DisplayName: Depthstone
+	Tooltip: Dank
+}
+
+IndigoIce: {
+	DisplayName: Indigo Ice
+	Tooltip: ""
+}
+
+MushroomBlock: {
+	DisplayName: Mushroom Block
+	Tooltip: ""
+}
+
+IceCrate: {
+	DisplayName: Ice Crate
+	Tooltip: "'It's too frigid to open'"
+}
+
+RelicBrick: {
+	DisplayName: Relic Brick
+	Tooltip: ""
+}
+
+RelicBrickWall: {
+	DisplayName: Relic Brick Wall
+	Tooltip: ""
+}
+
+DarkmatterBrick: {
+	DisplayName: Darkmatter Brick
+	Tooltip: ""
+}
+
+DarkmatterBrickWall: {
+	DisplayName: Darkmatter Brick Wall
+	Tooltip: ""
+}
+
+EquinoxBrick: {
+	DisplayName: Equinox Brick
+	Tooltip: Changes depending on the time of day
+}
+
+EquinoxBrickWall: {
+	DisplayName: Equinox Brick Wall
+	Tooltip: ""
+}
+
+RadiumBrick: {
+	DisplayName: Radium Brick
+	Tooltip: ""
+}
+
+RadiumBrickWall: {
+	DisplayName: Radium Brick Wall
+	Tooltip: ""
+}
+
+PermeableTerraWoodWand: {
+	DisplayName: Permeable Terra Wood Wand
+	Tooltip: Right click to swap modes
+}
+
+TerraLeafWand: {
+	DisplayName: Terra Leaf Wand
+	Tooltip: ""
+}
+
+TerraWoodWand: {
+	DisplayName: Terra Wood Wand
+	Tooltip: Right click to swap modes
+}
+
+OuroborosWood: {
+	DisplayName: Ouroboros Wood
+	Tooltip: ""
+}
+
+OuroborosWoodWall: {
+	DisplayName: Ouroboros Wood Wall
+	Tooltip: ""
+}
+
+DoomsdayPlatingWall: {
+	DisplayName: Doomsday Circuit Wall
+	Tooltip: ""
+}
+
+DoomstoneBrickWall: {
+	DisplayName: Doomstone Brick Wall
+	Tooltip: ""
+}
+
+DoomstoneB: {
+	DisplayName: Doomstone
+	Tooltip: ""
+}
+
+Doomstone: {
+	DisplayName: Charged Doomstone
+	Tooltip: ""
+}
+
+DoomsdayChest: {
+	DisplayName: Doomsday Chest
+	Tooltip: ""
+}
+
+DoomitePlatingWall: {
+	DisplayName: Doomite Plating Wall
+	Tooltip: ""
+}
+
+KeepBrick: {
+	DisplayName: Keep Brick
+	Tooltip: ""
+}
+
+AcropolisPainting: {
+	DisplayName: Palace in the Sky
+	Tooltip: "'Those seraphs act more like harpies than actual harpies...'"
+}
+
+AkumaPainting: {
+	DisplayName: Draconian Demon
+	Tooltip: "'The flames of hate...they still rage in this demon...'"
+}
+
+AnubisPainting: {
+	DisplayName: An Old Friend
+	Tooltip: "'Tough guy, but he makes me laugh.'"
+}
+
+CRajahPainting: {
+	DisplayName: Champion of the Innocent
+	Tooltip: "'The only thing more powerful than a defender is his unending fury.'"
+}
+
+DaedalusPainting: {
+	DisplayName: Lord of Light
+	Tooltip: "'Does what's right...even if it's not the best thing to do.'"
+}
+
+DecayPainting: {
+	DisplayName: The Warden
+	Tooltip: "'That old spectre...what is he planning..?'"
+}
+
+FulgurusPainting: {
+	DisplayName: Thunder Bringer
+	Tooltip: "'I didn't paint this one. It was a gift from the fulgarians...they seem alright.'"
+}
+
+GreedPainting: {
+	DisplayName: The Worm King
+	Tooltip: "'Deep in the caverns lies mountains of treasure...guarded by a serpent made of it.'"
+}
+
+HotJPainting: {
+	DisplayName: The Heart
+	Tooltip: "'The origin of life...reduced to a sentient dirt pile. Poor thing...'"
+}
+
+IZPainting: {
+	DisplayName: Eye of Infinity
+	Tooltip: "'It still haunts my nightmares...'"
+}
+
+JojoBagginsPainting: {
+	DisplayName: The Architect
+	Tooltip: "'Weird guy but boy was he ever a great builder.'"
+}
+
+KingQueenPainting: {
+	DisplayName: The Monarchs
+	Tooltip: "'I miss you, mom and dad...'"
+}
+
+LuciferPainting: {
+	DisplayName: King of Evil
+	Tooltip: "'The pit. Hot, dark, and bloody, no thanks.'"
+}
+
+MushmadPainting: {
+	DisplayName: Madness
+	Tooltip: "'So many mushrooms...'"
+}
+
+NKPainting: {
+	DisplayName: The Lost Knight
+	Tooltip: "'Legends say this ruthless dungeon guard was once like us before she died...'"
+}
+
+RajahPainting: {
+	DisplayName: Pouncing Punisher
+	Tooltip: "'The king of the small and helpless, both of which he is most certainly not.'"
+}
+
+SanguinePainting: {
+	DisplayName: Blood & Bones
+	Tooltip: "'They seem to have taken the term 'face monster' a bit too seriously.'"
+}
+
+ShenPainting: {
+	DisplayName: Discordian Doomsayer
+	Tooltip: "'I sealed him away, but the thing about containing chaos forever...is that you can't.'"
+}
+
+ShipPainting: {
+	DisplayName: Gloomy Galleon
+	Tooltip: "'That ship...I still don't understand what those creatures infesting it are...'"
+}
+
+SoCPainting: {
+	DisplayName: Sunken Soul
+	Tooltip: "'An eldritch abomination sealed into the ship it sunk...'"
+}
+
+TerraPainting: {
+	DisplayName: The Hero
+	Tooltip: "'They hail me as a Hero, yet I feel like I haven't done enough.'"
+}
+
+UmbraPainting: {
+	DisplayName: Arachnid
+	Tooltip: "'I hate spiders. Especially this one.'"
+}
+
+ValkyriePainting: {
+	DisplayName: Valor
+	Tooltip: "'I hope you can find your lost loved one...'"
+}
+
+WizardPainting: {
+	DisplayName: The Wizard
+	Tooltip: "'I don't care what you've become. I still have hope for you.'"
+}
+
+YamataPainting: {
+	DisplayName: 7-Headed Scream
+	Tooltip: "'Sweet Azathoth, will this oversized lizard zip his lip?!'"
+}
+
+ZeroPainting: {
+	DisplayName: "0"
+	Tooltip: "'That thing...I don't know what it is, but it just...gives me the chills.'"
+}
+
+TerraBrick: {
+	DisplayName: Terra Brick
+	Tooltip: ""
+}
+
+RottedDynastyWood: {
+	DisplayName: Rotted Dynasty Wood
+	Tooltip: It's squishy
+}
+
+RottedShingles: {
+	DisplayName: Rotted Shingles
+	Tooltip: ""
+}
+
+SunkenChest: {
+	DisplayName: Sunken Chest
+	Tooltip: ""
+}
+
+Sticker: {
+	DisplayName: Special Sticker
+	Tooltip: Y0u're winner
+}
+
+AncientDataBank: {
+	DisplayName: Ancient Data Bank
+	Tooltip: ""
+}
+
+DataBank: {
+	DisplayName: Data Bank
+	Tooltip: ""
+}
+
+StormChest: {
+	DisplayName: Storm Chest
+	Tooltip: ""
+}
+
+LivingBogtoxinBlock: {
+	DisplayName: Living Bogtoxin Block
+	Tooltip: ""
+}
+
+LivingDragonFireBlock: {
+	DisplayName: Living Dragon Fire Block
+	Tooltip: ""
+}
+
+ScorchedDynastyWoodWall: {
+	DisplayName: Scorched Dynasty Wood Wall
+	Tooltip: ""
+}

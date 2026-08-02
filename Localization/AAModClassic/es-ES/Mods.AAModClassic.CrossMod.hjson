@@ -1,0 +1,514 @@
+BossChecklist: {
+	MushroomMonarch: {
+		Name: Monarca Seta
+		Spawn: Usa un {0} durante el día.
+		Despawn: "[c/F08080:El Monarca Seta escapa hacia el cielo]"
+	}
+
+	FeudalFungus: {
+		Name: Hongo Feudal
+		Spawn: Usa un {0} en un bioma de Seta Brillante.
+		Despawn: "[c/70FFF3:El Hongo Feudal se desvanece]"
+	}
+
+	GripsOfChaos: {
+		Name: Garras del Caos
+		Spawn: Usa un {0} o un {1} durante la noche.
+		Despawn: "[c/75008C:Las Garras se alejan volando, habiendo lidiado contigo]"
+	}
+
+	TruffleToad: {
+		Name: Sapo Trufa
+		Spawn: Usa un {0} en un bioma de Seta brillante.
+		Despawn: "[c/70FFF3:El Sapo Trufa grazna, luego se desvanece]"
+	}
+
+	Broodmother: {
+		Name: Madre Cría
+		Spawn: Usa un {0} en el Infierno durante el día.
+		Despawn: "[c/FFA500:La Madre Cría regresa a las profundidades ardientes]"
+	}
+
+	Hydra: {
+		Name: Hidra
+		Spawn: Usa un {0} en el Cenagal durante la noche.
+		Despawn: "[c/483D8B:La Hidra se arrastra de vuelta a su guarida oscura]"
+	}
+
+	SubzeroSerpent: {
+		Name: Serpiente Subgélida
+		Spawn: Usa un {0} en la Tundra durante la noche.
+		Despawn: "[c/6495ED:La Serpiente Subgélida se hunde de vuelta en la nieve]"
+	}
+
+	DesertDjinn: {
+		Name: Djinn del Desierto
+		Spawn: Usa un {0} en el Desierto durante el día.
+		Despawn: "[c/F4A460:El Djinn del Desierto se flexiona sobre ti triunfalmente]"
+	}
+
+	Sagittarius: {
+		Name: Sagitario
+		Spawn: Usa un {0} en el Vacío.
+		Despawn: "[c/FF0000:Sagitario galopa hacia la oscuridad infinita...]"
+	}
+
+	TechnoTruffle: {
+		Name: Trufa Tecnológica
+		Spawn: Usa un {0} durante la noche.
+		Despawn: "[c/eb34eb:La Trufa Tecnológica desecha su objetivo.]"
+	}
+
+	Retriever: {
+		Name: El Recuperador
+		Spawn: Usa un {0} durante la noche.
+		Despawn: "[c/eb34eb:El Recuperador recibe su recompensa.]"
+	}
+
+	OrthrusX: {
+		Name: Orthrus X
+		Spawn: Usa un {0} durante la noche.
+		Despawn: "[c/eb34eb:Orthrus se teletransporta a la base.]"
+	}
+
+	RaiderUltima: {
+		Name: Asaltante Última
+		Spawn: Usa un {0} durante la noche.
+		Despawn: "[c/eb34eb:Asaltante Última regresa a la base.]"
+	}
+
+	Anubis: {
+		Name: Anubis
+		Spawn: Usa un {0} en el Desierto.
+		Despawn: "[c/FFD700:Anubis bromea luego regresa a su forma.]"
+	}
+
+	BiomiteCore: {
+		Name: Núcleo Biomita
+		Spawn: Usa un {0} en el pedestal del Fuerte Perdido.
+		Despawn: "[c/228B22:Los mecanismos del Fuerte se ralentizan hasta detenerse.]"
+	}
+
+	Athena: {
+		Name: Atenea
+		Spawn: Usa un {0} en el altar de búho en la Acrópolis, o hiere un Serafín en la Acrópolis.
+		Despawn: "[c/008AA6:Atenea te regaña antes de volar lejos.]"
+	}
+
+	Greed: {
+		Name: Codicia
+		Spawn: Usa un {0} en el Altar del Deseo en el Tesoro, o abre 3 Cofres de Codicia en el Tesoro.
+		Despawn: "[c/E39F00:Codicia regresa a contar sus relucientes.]"
+	}
+
+	RajahRabbit: {
+		Name: Conejo Rajá
+		Spawn: Usa un {0} o mata 100 Conejos como un idiota.
+		Despawn: "[c/D3D3D3:La justicia del Castigador Saltarín ha sido servida.]"
+	}
+
+	ForsakenAnubis: {
+		Name: Anubis Abandonado
+		Spawn: Desafía al Escriba Legendario después de haber eliminado al Señor de la Luna.
+		Despawn: "[c/228B22:El poder del Juez se revierte, su decepción inconmensurable.]"
+	}
+
+	AthenaA: {
+		Name: Atenea Olímpica
+		Spawn: Desafía a Atenea después de haber demostrado tu valía a Anubis.
+		Despawn: "[c/008AA6:La Diosa se aleja volando, completamente complacida.]"
+	}
+
+	GreedA: {
+		Name: Codicia Rey Gusano
+		Spawn: Desafía a Codicia después de haber demostrado tu valía a Anubis.
+		Despawn: "[c/E39F00:El Acaparador se arrastra a su escondrijo, otro tesoro en el montón.]"
+	}
+
+	EquinoxWorms: {
+		Name: Portador del Día y Rastrero Nocturno
+		Spawn: Usa {0}.
+		Despawn: "[c/2F1F6C:El par desaparece hacia las estrellas para continuar su equilibrio.]"
+	}
+
+	SistersOfDiscord: {
+		Name: Hermanas de la Discordia
+		Spawn: Usa {0}.
+		Despawn: "[c/FF00FF:Las hermanas corren a casa para contarles a sus padres de su victoria.]"
+	}
+
+	Akuma: {
+		Name: Akuma
+		Spawn: Usa {0} en el Infierno durante el día.
+		Despawn: "[c/92251E:El Demonio regresa a su Pagoda sin divertirse con su batalla.]"
+	}
+
+	AkumaA: {
+		Name: Oni Akuma
+		Spawn: Derrota a Akuma en Modo Experto o usa {0}.
+		Despawn: "[c/00BFFF:El Demonio se arrastra de vuelta a su Pagoda furioso por su batalla.]"
+	}
+
+	Yamata: {
+		Name: Yamata
+		Spawn: Usa {0} en el Cenagal durante la noche.
+		Despawn: "[c/35397E:El Enemigo se arrastra en el Lago de Almas para disfrutar de su victoria.]"
+	}
+
+	YamataA: {
+		Name: Yamata No Orochi
+		Spawn: Derrota a Yamata en Modo Experto o usa {0}.
+		Despawn: "[c/921E44:El Enemigo se desliza de vuelta al Lago de Almas para lamerse las heridas.]"
+	}
+
+	Zero: {
+		Name: Zero
+		Spawn: Usa {0} en el Vacío.
+		Despawn: "[c/FF0000:La máquina ejecuta protocolo de retorno y reanuda su vigilancia silenciosa.]"
+	}
+
+	ZeroP: {
+		Name: Protocolo Zero
+		Spawn: Derrota a Zero en Modo Experto o usa {0}.
+		Despawn: "[c/FF0000:La máquina ejecuta protocolo de reparación antes de reanudar su vigilancia silenciosa.]"
+	}
+
+	RajahRabbitR: {
+		Name: Venganza del Conejo Rajá
+		Spawn: Usa {0} o mata 100 conejos después de haber matado al menos 1000.
+		Despawn: "[c/D3D3D3:La justicia del Campeón de los Inocentes ha sido servida.]"
+	}
+
+	Shen: {
+		Name: Shen Doragon
+		Spawn: Usa {0}.
+		Despawn: "[c/FF00FF:El caos reina de todas formas, el profeta de la discordia continúa su discordia.]"
+	}
+
+	ShenA: {
+		Name: Shen Doragon Despierto
+		Spawn: Derrota a Shen Doragon en Modo Experto o usa {0}.
+		Despawn: "[c/FF00FF:A pesar de tus mejores esfuerzos, el caos reina de todas formas.]"
+	}
+
+	InfinityZero: {
+		Name: Zero Infinito
+		Spawn: Usa {0}.
+		Despawn: "[c/A9A9A9:Su directiva exitosa, la malicia mecánica espera a otro.]"
+	}
+
+	SoulOfCthulhu: {
+		Name: Alma de Cthulhu
+		Spawn: Usa {0}.
+		Despawn: "[c/00FFFF:La ira de los antiguos dioses ejecutada, la calamidad cósmica regresa a su letargo.]"
+	}
+
+	Cthulhu: {
+		Name: Cthulhu, Calamidad Cósmica
+		Spawn: Derrota el Alma de Cthulhu en Modo Experto.
+		Despawn: "[c/00FFFF:La ira de los antiguos dioses ejecutada, la calamidad cósmica fija su vista en Terraria.]"
+	}
+
+	#Despawn Messages
+	DespawnKraken: El cefalópodo se abre paso a través de una grieta conjurada.
+}
+
+MusicDisplay: {
+	ModName: Ancients Awakened: Classic
+
+	SuperancientsPinch: {
+		Author: por SpectralAves
+		DisplayName: Batallas Pasadas
+	}
+
+	Broodmother: {
+		Author: por SpectralAves
+		DisplayName: Furia Ardiente
+	}
+
+	ChaosPreShen: {
+		Author: por MaestroVGM
+		DisplayName: Condenado
+	}
+
+	Djinn: {
+		Author: por Tyeski
+		DisplayName: El Cuenco de Polvo
+	}
+
+	Acropolis: {
+		Author: por ENNWAY
+		DisplayName: Palacio en el Cielo
+	}
+
+	Akuma: {
+		Author: por Saucecoie
+		DisplayName: Prueba por Fuego
+	}
+
+	AkumaAwakened: {
+		Author: por Tyeski
+		DisplayName: Amanecer del Dragón
+	}
+
+	Anubis: {
+		Author: por Tyeski
+		DisplayName: Cuerdas del Juicio
+	}
+
+	Equinox: {
+		Author: por ProduceVGM
+		DisplayName: Ciclón Celestial
+	}
+
+	AnubisAwakened: {
+		Author: por Tyeski
+		DisplayName: Purgatorio
+	}
+
+	Athena: {
+		Author: por ENNWAY
+		DisplayName: Magisanto
+	}
+
+	Fungus: {
+		Author: por SpectralAves
+		DisplayName: Paliza Bioluminiscente
+	}
+
+	AthenaAwakened: {
+		Author: por ENNWAY
+		DisplayName: Diosa de Aquellos Alados
+	}
+
+	Greed: {
+		Author: por Tyeski
+		DisplayName: Cazador de Oro
+	}
+
+	GreedAwakened: {
+		Author: por Tyeski
+		DisplayName: Ira De Riquezas Perdidas
+	}
+
+	Grips: {
+		Author: por SpectralAves
+		DisplayName: Terror Gemelo
+	}
+
+	Hoard: {
+		Author: por Tyeski
+		DisplayName: Ensenada
+	}
+
+	Hydra: {
+		Author: por SpectralAves
+		DisplayName: Ira Abismal Pura
+	}
+
+	MireDay: {
+		Author: por ProduceVGM
+		DisplayName: A Través de la Bruma Tóxica
+	}
+
+	MireLake: {
+		Author: por Rockwizard
+		DisplayName: Lago de Almas
+	}
+
+	InfernoNight: {
+		Author: por ProduceVGM
+		DisplayName: Tormenta de Brasas
+	}
+
+	InfernoPagoda: {
+		Author: por Rockwizard
+		DisplayName: Torre Chamuscada
+	}
+
+	MireSurface: {
+		Author: por ProduceVGM
+		DisplayName: Pantano Aislado
+	}
+
+	InfernoSurface: {
+		Author: por ProduceVGM
+		DisplayName: Tierra Chamuscada
+	}
+
+	InfernoUnderground: {
+		Author: por ProduceVGM
+		DisplayName: Manto Interior
+	}
+
+	MireUnderground: {
+		Author: por ProduceVGM
+		DisplayName: Gateadores Escalofriantes
+	}
+
+	Monarch: {
+		Author: por SpectralAves
+		DisplayName: Enfrentamiento Fúngico
+	}
+
+	MushroomSurface: {
+		Author: por SpectralAves
+		DisplayName: Crecimiento Excesivo
+	}
+
+	Rajah: {
+		Author: por SpectralAves
+		DisplayName: JUSTICIA
+	}
+
+	RajahAwakened: {
+		Author: por Jteoh
+		DisplayName: Justicia Suprema EX
+	}
+
+	Sagittarius: {
+		Author: por SpectralAves
+		DisplayName: Horizonte de Eventos
+	}
+
+	Shen: {
+		Author: por MaestroVGM
+		DisplayName: Alas de Dualidad
+	}
+
+	Sisters: {
+		Author: por MaestroVGM
+		DisplayName: Unida
+	}
+
+	Stars: {
+		Author: por ProduceVGM
+		DisplayName: Estrellas Dispersas
+	}
+
+	EquinoxAltar: {
+		Author: por ProduceVGM
+		DisplayName: Ofrendas
+	}
+
+	Subzero: {
+		Author: por ProduceVGM
+		DisplayName: Gracia Glacial
+	}
+
+	ShenAwakened: {
+		Author: por MaestroVGM
+		DisplayName: Coda Discordante
+	}
+
+	SunkenShipPreSoC: {
+		Author: por ProduceVGM
+		DisplayName: Maldición Dormida
+	}
+
+	SunkenShip: {
+		Author: por Cosmoptera
+		DisplayName: Ruinas Desgarradas por Grietas
+	}
+
+	ZeroAwakened: {
+		Author: por Saucecoie
+		DisplayName: Llega el Día del Juicio
+	}
+
+	Zero: {
+		Author: por SpectralAves
+		DisplayName: Catástrofe de Engranajes
+	}
+
+	Terrarium: {
+		Author: por ProduceVGM
+		DisplayName: Lugar de Descanso
+	}
+
+	LostKeep: {
+		Author: por Saucecoie
+		DisplayName: Salón de Memorias
+	}
+
+	BiomiteCore: {
+		Author: por ProduceVGM
+		DisplayName: Espíritu Inquieto
+	}
+
+	TruffleToad: {
+		Author: por SpectralAves
+		DisplayName: TODESTOOL
+	}
+
+	Void: {
+		Author: por ProduceVGM
+		DisplayName: Desperdicio
+	}
+
+	VoidPostML: {
+		Author: por ProduceVGM
+		DisplayName: Inanis
+	}
+
+	VoidPreIZ: {
+		Author: por Cosmoptera
+		DisplayName: Gigante Dormido
+	}
+
+	Yamata: {
+		Author: por Saucecoie
+		DisplayName: Media Luna de la Locura
+	}
+
+	YamataAwakened: {
+		Author: por Tyeski
+		DisplayName: Pesadilla Abismal
+	}
+
+	Siege: {
+		Author: por ProduceVGM
+		DisplayName: Caos Controlado
+	}
+
+	TechnoTruffle: {
+		Author: por SpectralAves
+		DisplayName: Combate de Moho Mecánico
+	}
+
+	Parthenan: {
+		Author: por Tyeski
+		DisplayName: Maelstrom
+	}
+
+	SoulOfCthulhu: {
+		Author: por MaestroVGM
+		DisplayName: Rapsodia Recóndita (Calma)
+	}
+
+	Cthulhu: {
+		Author: por MaestroVGM
+		DisplayName: Rapsodia Recóndita (Combate)
+	}
+
+	InfinityZero: {
+		Author: por MaestroVGM
+		DisplayName: Infinitum
+	}
+}
+
+CalamityMod: {
+	LoreItemTooltip:
+		'''
+		[c/E3AF40:Los susurros de lo alto bailan en tus oídos...]
+		[c/BEBEBE:Mantén Shift presionado para escuchar más atentamente]
+		'''
+	AwakeningReplacement:
+		'''
+		El mundo rebosa de caos. Mis ojos se alzan para ver polvo antiguo danzando desde salientes altos.
+		Estas alas grandiosas... ¿cuánto tiempo ha pasado desde que fui un héroe digno de su nombre?
+		Parece que han pasado siglos, pero todo lo que he hecho es parpadear.
+		Contempla mis obras, tal como son... Arruinadas. Nadie se atrevería a buscarme; caminar mi camino.
+		Nada los espera en este mundo cruel.
+		'''
+}

@@ -1,0 +1,163 @@
+CriminalBuff: {
+	DisplayName: Criminal
+	Description: "'Tiene un estómago REALMENTE revuelto'"
+}
+
+EaterBuff: {
+	DisplayName: Devorador Demoníaco
+	Description: "'El nombre es mentira, se comen cualquier cosa.'"
+}
+
+HandsBuff: {
+	DisplayName: Manos Serviciales
+	Description: "'¡Aquí para echarte no una, sino dos manos!'"
+}
+
+TwinkleStarBuff: {
+	DisplayName: Estrella Titilante
+	Description: "'Cómo me pregunto qué eres...'"
+}
+
+GriplingsBuff: {
+	DisplayName: Garritas
+	Description: Son muy apegadas
+}
+
+Struggle: {
+	DisplayName: Agarrado
+	Description: Luchando por soltarte
+}
+
+StruggleAlt: {
+	DisplayName: Presiona Espacio
+	Description: Presiona Espacio
+}
+
+InfestedBlue: {
+	DisplayName: Infestación Azul
+	Description: Hongos azules cubren tu cuerpo
+}
+
+FrogletBuff: {
+	DisplayName: Ranita Fúngica
+	Description: Esperando el beso del amor verdadero
+}
+
+FesteringSkinBuff: {
+	DisplayName: Piel Purulenta
+	Description: "'Se retuerce de agonía'"
+}
+
+InfestedRed: {
+	DisplayName: Infestación Roja
+	Description: Hongos rojos se clavan en tu carne
+}
+
+DukeShroomBuff: {
+	DisplayName: Duque de los Hongos
+	Description: Se ve extrañamente familiar...
+}
+
+WikiBuff: {
+	DisplayName: Wiki
+	Description: "'No eres Zack, pero pareces bastante genial ♪'"
+}
+
+ManaforceBuff: {
+	DisplayName: Fuerza de Maná
+	Description: 20% de aumento en el maná máximo
+}
+
+CommanderBuff: {
+	DisplayName: Comandante
+	Description: Mayor alcance de los látigos
+}
+
+ReboundBuff: {
+	DisplayName: Rebote
+	Description: Salto adicional en el aire
+}
+
+HeartPowerBuff: {
+	DisplayName: Poder del Corazón
+	Description: Mayor curación de los corazones de vida
+}
+
+StarreachBuff: {
+	DisplayName: Mejora de Alcance Estelar
+	Description: Mayor alcance de recolección de estrellas
+}
+
+ChillBuff: {
+	DisplayName: Frío
+	Description: Menos daño de fuentes de calor
+}
+
+Mushedlad: {
+	DisplayName: Locos de Atar
+	Description: "'¿Quién es un fracaso de la evolución ahora!?'"
+}
+
+SporovidBuff: {
+	DisplayName: Esporovido Esporádico
+	Description: "'Algo así no debería existir'"
+}
+
+BroodminiBuff: {
+	DisplayName: Mejora Broodmini
+	Description: Mods.AAMod.Buffs.BroodminiBuff.Description
+}
+
+BabyCragBuff: {
+	Description: Mods.AAMod.Buffs.BabyCragBuff.Description
+	DisplayName: Mejora Peñasco Bebé
+}
+
+Hydratoxin: {
+	Description: ¡Un veneno potente drena tus defensas!
+	DisplayName: Hidrotoxina
+}
+
+Dragonfire: {
+	Description: ¡Llamas dracónicas debilitan tus ataques!
+	DisplayName: Fuego de Dragón
+}
+
+SicknessTonicBuff: {
+	Description: Inmunidad al veneno y a la ponzoña
+	DisplayName: Tónico contra Enfermedades
+}
+
+CoagulantTonicBuff: {
+	Description: Los efectos de daño con el tiempo relacionados con el veneno tienen su duración reducida a la mitad.
+	DisplayName: Mejora de Tónico Coagulante
+}
+
+SuperSpicyCurryBuff: {
+	DisplayName: Curry Súper Picante
+	Description: ¡QUEMA! ¡QUEMA! ¡QUEMA!
+}
+
+SmoulderingTonicBuff: {
+	Description: Mods.AAMod.Buffs.SmoulderingTonicBuff.Description
+	DisplayName: Inmunidad a ¡Ardiendo! y ¡En llamas!
+}
+
+SacrificeCurse: {
+	Description:
+		'''
+		"Tu espíritu está atado al limbo"
+		Sin curación ni regeneración de ninguna fuente
+		'''
+	DisplayName: Azote del Sauce
+}
+
+AccursedBlood: {
+	DisplayName: Sangre Maldita
+	Description: Mods.AAMod.Buffs.AccursedBlood.Description
+}
+
+StunnedDebuff: {
+	Description: Mods.AAMod.Buffs.StunnedDebuff.Description
+	DisplayName: Efecto Negativo: Aturdido
+}

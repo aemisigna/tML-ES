@@ -1,0 +1,74 @@
+AcropolisBiome: {
+	DisplayName: The Acropolis
+	TownNPCDialogueName: the Acropolis
+}
+
+HoardBiome: {
+	DisplayName: The Hoard
+	TownNPCDialogueName: the Hoard
+}
+
+InfernoBiome: {
+	DisplayName: The Inferno
+	TownNPCDialogueName: the Inferno
+}
+
+MireBiome: {
+	DisplayName: The Mire
+	TownNPCDialogueName: the Mire
+}
+
+RisingMoonLakeBiome: {
+	DisplayName: The Rising Moon Lake
+	TownNPCDialogueName: the Rising Moon Lake
+}
+
+RisingSunPagodaBiome: {
+	DisplayName: The Rising Sun Pagoda
+	TownNPCDialogueName: the Rising Sun Pagoda
+}
+
+TerrariumBiome: {
+	DisplayName: The Terrarium
+	TownNPCDialogueName: the Terrarium
+}
+
+VoidBiome: {
+	DisplayName: The Void
+	TownNPCDialogueName: the Void
+}
+
+LostKeepBiome: {
+	DisplayName: The Lost Keep
+	TownNPCDialogueName: the Lost Keep
+}
+
+ParthenanBiome: {
+	DisplayName: The Parthenan
+	TownNPCDialogueName: the Parthenan
+}
+
+RedMushroomBiome: {
+	DisplayName: Red Mushroom
+	TownNPCDialogueName: the Red Mushroom
+}
+
+StarsBiome: {
+	DisplayName: Celestial Stars
+	TownNPCDialogueName: the Celestial Stars
+}
+
+SunkenShipBiome: {
+	DisplayName: The Sunken Ship
+	TownNPCDialogueName: the Sunken Ship
+}
+
+UndergroundInfernoBiome: {
+	DisplayName: Underground Inferno
+	TownNPCDialogueName: the Underground Inferno
+}
+
+UndergroundMireBiome: {
+	DisplayName: Underground Mire
+	TownNPCDialogueName: the Underground Mire
+}

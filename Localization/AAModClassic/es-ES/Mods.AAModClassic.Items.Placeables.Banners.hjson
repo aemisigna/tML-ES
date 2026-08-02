@@ -1,0 +1,329 @@
+ThixxieBanner: {
+	DisplayName: Estandarte de Thixxie
+	Tooltip: ""
+}
+
+FatPixie_Banner: {
+	DisplayName: Estandarte de Píxie Gorda
+	Tooltip: ""
+}
+
+SeraphBanner: {
+	DisplayName: Estandarte de Serafín
+	Tooltip: ""
+}
+
+ChaosDragonBanner: {
+	DisplayName: Estandarte del Dragón del Caos
+	Tooltip: ""
+}
+
+DjinnBanner: {
+	DisplayName: Estandarte del Djinn
+	Tooltip: ""
+}
+
+TinyToadBanner: {
+	DisplayName: Estandarte del Sapo Diminuto
+	Tooltip: ""
+}
+
+ScavengerBanner: {
+	DisplayName: Estandarte del Carroñero
+	Tooltip: ""
+}
+
+InfernalSlimeBanner: {
+	DisplayName: Estandarte de Baba Infernal
+	Tooltip: ""
+}
+
+DragonClawBanner: {
+	DisplayName: Estandarte de Garra de Dragón
+	Tooltip: ""
+}
+
+FlameBruteBanner: {
+	DisplayName: Estandarte de Bruto de Llama
+	Tooltip: ""
+}
+
+SingemanderBanner: {
+	DisplayName: Estandarte de Chamuscalagarto
+	Tooltip: ""
+}
+
+WyrmlingBanner: {
+	DisplayName: Estandarte de Dragoncillo
+	Tooltip: ""
+}
+
+ChaoticDawnBanner: {
+	DisplayName: Estandarte del Amanecer Caótico
+	Tooltip: ""
+}
+
+WyrmBanner: {
+	DisplayName: Estandarte del Dragón
+	Tooltip: ""
+}
+
+MagmaSwimmerBanner: {
+	DisplayName: Estandarte del Nadador de Magma
+	Tooltip: ""
+}
+
+BlazeClawBanner: {
+	DisplayName: Estandarte de Garra Inflamante
+	Tooltip: ""
+}
+
+AncientLungBanner: {
+	DisplayName: Estandarte del Pulmón Antiguo
+	Tooltip: ""
+}
+
+MadnessBatBanner: {
+	DisplayName: Estandarte del Murciélago de Locura
+	Tooltip: ""
+}
+
+MadnessSlimeBanner: {
+	DisplayName: Estandarte de Baba de Locura
+	Tooltip: ""
+}
+
+MurkySlimeBanner: {
+	DisplayName: Estandarte de Baba Oscura
+	Tooltip: ""
+}
+
+HydraClawBanner: {
+	DisplayName: Estandarte de Garra de Hidra
+	Tooltip: ""
+}
+
+MossterBanner: {
+	DisplayName: Estandarte de Monstruo
+	Tooltip: ""
+}
+
+NewtBanner: {
+	DisplayName: Estandarte de Tritón
+	Tooltip: ""
+}
+
+SkulkerBanner: {
+	DisplayName: Estandarte del Merodeador
+	Tooltip: ""
+}
+
+KappaBanner: {
+	DisplayName: Estandarte del Kappa
+	Tooltip: ""
+}
+
+ToxitoadBanner: {
+	DisplayName: Estandarte de Sapo Toxico
+	Tooltip: ""
+}
+
+PigronMireBanner: {
+	DisplayName: Estandarte de Cerdáurico del Cenagal
+	Tooltip: ""
+}
+
+ChaoticTwilightBanner: {
+	DisplayName: Estandarte del Crepúsculo Caótico
+	Tooltip: ""
+}
+
+MiresquitoBanner: {
+	DisplayName: Estandarte de Mosquito del Cenagal
+	Tooltip: ""
+}
+
+FogAnglerBanner: {
+	DisplayName: Estandarte del Pescador de Niebla
+	Tooltip: ""
+}
+
+AbyssClawBanner: {
+	DisplayName: Estandarte de Garra del Abismo
+	Tooltip: ""
+}
+
+SoulsuckerBanner: {
+	DisplayName: Estandarte del Chupaalmas
+	Tooltip: ""
+}
+
+FungusFrogBanner: {
+	DisplayName: Estandarte de Rana Fúngica
+	Tooltip: ""
+}
+
+MushbugBanner: {
+	DisplayName: Estandarte de Insecto Seta
+	Tooltip: ""
+}
+
+MushroomCrabBanner: {
+	DisplayName: Estandarte del Cangrejo Seta
+	Tooltip: ""
+}
+
+MushroomJellyBanner: {
+	DisplayName: Estandarte de Medusa Seta
+	Tooltip: ""
+}
+
+MushroomZombieBanner: {
+	DisplayName: Estandarte del Zombi Seta
+	Tooltip: ""
+}
+
+SnowSerpentBanner: {
+	DisplayName: Estandarte de Serpiente de Nieve
+	Tooltip: ""
+}
+
+SunWatcherBanner: {
+	DisplayName: Estandarte del Observador del Sol
+	Tooltip: ""
+}
+
+NightGuardBanner: {
+	DisplayName: Estandarte de Guardia Nocturna
+	Tooltip: ""
+}
+
+PurityCrawlerBanner: {
+	DisplayName: Estandarte del Rastreador de Pureza
+	Tooltip: ""
+}
+
+PuritySphereBanner: {
+	DisplayName: Estandarte de la Esfera de Pureza
+	Tooltip: ""
+}
+
+PuritySquidBanner: {
+	DisplayName: Estandarte del Calamar de Pureza
+	Tooltip: ""
+}
+
+PurityWeaverBanner: {
+	DisplayName: Estandarte del Tejedor de Pureza
+	Tooltip: ""
+}
+
+TerraDeadshotBanner: {
+	DisplayName: Estandarte de Disparo Certero Terra
+	Tooltip: ""
+}
+
+TerraKnightBanner: {
+	DisplayName: Estandarte del Caballero Terra
+	Tooltip: ""
+}
+
+TerraSquireBanner: {
+	DisplayName: Estandarte del Escudero Terra
+	Tooltip: ""
+}
+
+TerraWarlockBanner: {
+	DisplayName: Estandarte del Brujo Terra
+	Tooltip: ""
+}
+
+TerraCrawlerBanner: {
+	DisplayName: Estandarte del Rastreador Terra
+	Tooltip: ""
+}
+
+TerraSphereBanner: {
+	DisplayName: Estandarte de la Esfera Terra
+	Tooltip: ""
+}
+
+TerraSquidBanner: {
+	DisplayName: Estandarte del Calamar Terra
+	Tooltip: ""
+}
+
+TerraWizardBanner: {
+	DisplayName: Estandarte del Mago Terra
+	Tooltip: ""
+}
+
+UnityProbeBanner: {
+	DisplayName: Estandarte de Sonda Unidad
+	Tooltip: ""
+}
+
+UnityWatcherBanner: {
+	DisplayName: Estandarte del Observador Unidad
+	Tooltip: ""
+}
+
+ShadowScoutBanner: {
+	DisplayName: Estandarte del Explorador Sombra
+	Tooltip: ""
+}
+
+StoneSearcherBanner: {
+	DisplayName: Estandarte del Buscador de Piedra
+	Tooltip: ""
+}
+
+VoidScoutBanner: {
+	DisplayName: Estandarte del Explorador del Vacío
+	Tooltip: ""
+}
+
+VortexBanner: {
+	DisplayName: Estandarte del Vórtice
+	Tooltip: ""
+}
+
+NullBanner: {
+	DisplayName: Estandarte Nulo
+	Tooltip: ""
+}
+
+SearcherBanner: {
+	DisplayName: Estandarte del Buscador
+	Tooltip: ""
+}
+
+DimensionDiverBanner: {
+	DisplayName: Estandarte del Buzo Dimensional
+	Tooltip: ""
+}
+
+RiftSharkBanner: {
+	DisplayName: Estandarte del Tiburón de Grieta
+	Tooltip: ""
+}
+
+TrenchSquidBanner: {
+	DisplayName: Estandarte del Calamar de Trinchera
+	Tooltip: ""
+}
+
+TerraWeaverBanner: {
+	DisplayName: Estandarte del Tejedor Terra
+	Tooltip: ""
+}
+
+TerraSerpentBanner: {
+	DisplayName: Estandarte de la Serpiente Terra
+	Tooltip: ""
+}
+
+DustDjinnBanner: {
+	DisplayName: Estandarte del Djinn de Polvo
+	Tooltip: ""
+}

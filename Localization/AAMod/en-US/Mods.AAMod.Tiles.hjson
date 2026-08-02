@@ -1,0 +1,69 @@
+BogwoodChest: {
+	ContainerName: Bogwood Chest
+	MapEntry: Bogwood Chest
+}
+
+BogwoodDresser: {
+	ContainerName: Bogwood Dresser
+	MapEntry: Bogwood Dresser
+}
+
+RazewoodChest: {
+	ContainerName: Razewood Chest
+	MapEntry: Razewood Chest
+}
+
+RazewoodDresser: {
+	ContainerName: Razewood Dresser
+	MapEntry: Razewood Dresser
+}
+
+FurnitureDynamo.MapEntry: Furniture Dynamo
+InfernoCrate.MapEntry: Crate
+MireCrate.MapEntry: Crate
+BogwoodBathtub.MapEntry: Bogwood Bathtub
+BogwoodBed.MapEntry: Bogwood Bed
+BogwoodBookcase.MapEntry: Bogwood Bookcase
+BogwoodCandelabra.MapEntry: Bogwood Candelabra
+BogwoodCandle.MapEntry: Bogwood Candle
+BogwoodClock.MapEntry: Bogwood Clock
+BogwoodPiano.MapEntry: Bogwood Piano
+BogwoodSofa.MapEntry: Bogwood Sofa
+BogwoodTorch.MapEntry: Torch
+BogwoodWorkBench.MapEntry: Bogwood Work Bench
+MireCampfire.MapEntry: Campfire
+InfernoCampfire.MapEntry: Campfire
+RazewoodBathtub.MapEntry: Razewood Bathtub
+RazewoodBed.MapEntry: Razewood Bed
+RazewoodBookcase.MapEntry: Razewood Bookcase
+RazewoodCandelabra.MapEntry: Razewood Candelabra
+RazewoodCandle.MapEntry: Razewood Candle
+RazewoodClock.MapEntry: Razewood Clock
+RazewoodPiano.MapEntry: Razewood Piano
+RazewoodSofa.MapEntry: Razewood Couch
+RazewoodTorch.MapEntry: Torch
+RazewoodWorkBench.MapEntry: Razewood Work Bench
+BioticAssimilator.MapEntry: Biotic Assimilator
+MushmonTile.MapEntry: ..?
+Bloomshroom.MapEntry: Bloomshroom
+BlightTorch.MapEntry: Blight Torch
+ManmadeMushmonTile.MapEntry: Royal Effigy
+BlightCrate.MapEntry: Blight Crate
+TumorTile.MapEntry: Tumor
+IncineriteOre.MapEntry: Incinerite Ore
+MushladTerrarium.MapEntry: Mushlad Terrarium
+MushladTerrariumTile.MapEntry: Mushlad Terrarium Tile
+BrownMushladTerrariumTile.MapEntry: Brown Mushlad Terrarium Tile
+GreyMushladTerrariumTile.MapEntry: Grey Mushlad Terrarium Tile
+BlightCampfire.MapEntry: Blight Campfire
+MireTree.MapEntry: Mire Tree
+BlightedBathtub.MapEntry: Blighted Bathtub
+BlightedBed.MapEntry: Blighted Bed
+BlightedBookcase.MapEntry: Blighted Bookcase
+BlightedCandelabra.MapEntry: Blighted Candelabra
+BlightCandle.MapEntry: Blight Candle
+BlightedClock.MapEntry: Blighted Clock
+BlightedDresser.MapEntry: Blighted Dresser
+BlightedPiano.MapEntry: Blighted Piano
+BlightedSofa.MapEntry: Blighted Sofa
+BlightedWorkbench.MapEntry: Blighted Workbench

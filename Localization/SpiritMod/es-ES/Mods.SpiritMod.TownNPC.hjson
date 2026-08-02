@@ -12,7 +12,7 @@ Adventurer: {
 		Special3: ¡Tengo unos precios excelentes hoy! ¡La mercancía de {0} no puede competir! Literalmente no puede. Ya no vendo armas de fuego.
 		Special4: Como la luna, mi mercancía es inconsistente.
 		Special5: Todos parecen estar muy agresivos esta noche. Con los zombis tocando a nuestra puerta, creo que deberías comprar cosas y bajar bajo tierra lo más rápido posible. ¿Puedes llevarme contigo?
-		Special6: Los trasgos están más organizados de lo que crees- vi a sus magos construir una torre enorme por allá. ¡Deberías ir a verla alguna vez!
+		Special6: Los duendes están más organizados de lo que crees- vi a sus magos construir una torre enorme por allá. ¡Deberías ir a verla alguna vez!
 		Special7: Mi antiguo socio de negocios se dedicó a la vida de bandido hace unos años. Me pregunto si le está yendo bien. Creo que sus asociados han establecido un campamento de bandidos en algún lugar cerca de los mares.
 		Special8: Una luz azul resplandeciente está en el horizonte. Me pregunto de qué se tratará, ¿eh?
 		Bound: ¡Pensé que ya estaba perdido! Si no hubieras intervenido, probablemente habría terminado como comida de lo que fuera que esos monstruos estaban tratando de conjurar allá. Yo no lo tocaría si fuera tú... Mira, tienes mi agradecimiento; pero entre tú y yo, han sido unos meses muy largos, y todo lo que quiero es unas vacaciones de aventurar por un tiempo. La vida es corta, y prefiero no acortarla más. ¿Tienes un lugar donde quedarme?
@@ -59,7 +59,7 @@ Gambler: {
 		Bound:
 			'''
 			Debe ser mi día de suerte para ver una cara amistosa por aquí.
-			Estos trasgos no se tomaron muy bien que les ofreciera, eh, un trato amañado.
+			Estos duendes no se tomaron muy bien que les ofreciera, eh, un trato amañado.
 			En fin, ¿tienes un lugar donde quedarte? Juguémoslo a cara o cruz.
 			'''
 	}

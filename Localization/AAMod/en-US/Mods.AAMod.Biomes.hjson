@@ -1,0 +1,42 @@
+InfernoSurfaceBiome: {
+	DisplayName: The Inferno
+	TownNPCDialogueName: the Inferno
+	Subtitle: Searing Wasteland
+}
+
+InfernoUndergroundBiome: {
+	DisplayName: Underground Inferno
+	TownNPCDialogueName: the Underground Inferno
+}
+
+MireSurfaceBiome: {
+	DisplayName: The Mire
+	TownNPCDialogueName: the Mire
+	Subtitle: Poison Swamp
+}
+
+MireUndergroundBiome: {
+	DisplayName: Underground Mire
+	TownNPCDialogueName: the Underground Mire
+}
+
+MushblightBiome: {
+	DisplayName: Mushroom Blight
+	TownNPCDialogueName: the Mushroom Blight
+	Subtitle: Heart of Infection
+}
+
+MushblightSurfaceBiome: {
+	DisplayName: Mushroom Blight Surface
+	TownNPCDialogueName: the Mushroom Blight
+}
+
+DreadMoonBiome: {
+	TownNPCDialogueName: the Dread Moon Biome
+	DisplayName: Dread Moon Biome
+}
+
+MourningSunBiome: {
+	TownNPCDialogueName: the Mourning Sun Biome
+	DisplayName: Mourning Sun Biome
+}

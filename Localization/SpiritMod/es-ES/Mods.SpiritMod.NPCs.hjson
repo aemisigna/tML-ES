@@ -138,7 +138,7 @@ CobbledEye3.DisplayName: Ojo Adoquinado
 
 Dusking: {
 	DisplayName: Dusking
-	Entry: La consecuencia pesadillesca de una sesión de espiritismo fallida por brujos trasgos. Este espíritu abominable sigue siendo un recordatorio ardiente del caos que la magia de llama sombría puede provocar.
+	Entry: La consecuencia pesadillesca de una sesión de espiritismo fallida por brujos duendes. Este espíritu abominable sigue siendo un recordatorio ardiente del caos que la magia de llama sombría puede provocar.
 	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/DuskCrown] en cualquier lugar durante la noche.
 }
 
@@ -612,7 +612,7 @@ GloopGloop: {
 }
 
 Goblin_Grenadier: {
-	DisplayName: Granadero Trasgo
+	DisplayName: Granadero Duende
 	Entry: Cuando las bolas con pinchos no bastan, buenos y anticuados explosivos que escupen metralla harán el truco.
 }
 
@@ -681,8 +681,8 @@ Masticator: {
 
 Mecromancer: {
 	DisplayName: Mecromante
-	Entry: Una de las mentes más brillantes del arsenal del Ejército Trasgo. El talento de un Mecromante para la mecánica es prácticamente inigualable.
-	BossChecklistIntegration.SpawnInfo: El Mecromante aparece raramente durante un Ejército Trasgo después de derrotar al Ojo de Cthulhu.
+	Entry: Una de las mentes más brillantes del arsenal del Ejército Duende. El talento de un Mecromante para la mecánica es prácticamente inigualable.
+	BossChecklistIntegration.SpawnInfo: El Mecromante aparece raramente durante un Ejército Duende después de derrotar al Ojo de Cthulhu.
 }
 
 GoldCrateMimic: {
@@ -1096,11 +1096,11 @@ Gambler: {
 		Princess_LovesNPC: Me agrada {NPCName}.
 	}
 
-	Entry: La Apostadora ha vivido mucho tiempo al límite, entregándose a los caprichos del destino. Aunque esto la convierte en una jugadora ferviente, también una vez la ató a lo alto de una fortaleza trasgo.
+	Entry: La Apostadora ha vivido mucho tiempo al límite, entregándose a los caprichos del destino. Aunque esto la convierte en una jugadora ferviente, también una vez la ató a lo alto de una fortaleza duende.
 	Census.SpawnCondition:
 		'''
-		Rescata a la Apostadora de una Torre Trasgo
-		Si tu mundo no tiene una Torre Trasgo, ten al menos 1 de Oro en tu inventario
+		Rescata a la Apostadora de una Torre Duende
+		Si tu mundo no tiene una Torre Duende, ten al menos 1 de Oro en tu inventario
 		'''
 }
 
@@ -1184,7 +1184,7 @@ Rogue: {
 	Census.SpawnCondition:
 		'''
 		Rescata al Bandido del Escondite Bandido
-		Si tu mundo no tiene una Torre Trasgo, ten al menos 1 de Oro en tu inventario
+		Si tu mundo no tiene una Torre Duende, ten al menos 1 de Oro en tu inventario
 		'''
 }
 

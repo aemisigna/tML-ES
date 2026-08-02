@@ -1,0 +1,42 @@
+InfernoSurfaceBiome: {
+	DisplayName: El Infierno
+	TownNPCDialogueName: el Infierno
+	Subtitle: Yerma Abrasador
+}
+
+InfernoUndergroundBiome: {
+	DisplayName: Infierno Subterráneo
+	TownNPCDialogueName: el Infierno Subterráneo
+}
+
+MireSurfaceBiome: {
+	DisplayName: El Cenagal
+	TownNPCDialogueName: el Cenagal
+	Subtitle: Pantano Venenoso
+}
+
+MireUndergroundBiome: {
+	DisplayName: Cenagal Subterráneo
+	TownNPCDialogueName: el Cenagal Subterráneo
+}
+
+MushblightBiome: {
+	DisplayName: Plaga de Hongos
+	TownNPCDialogueName: la Plaga de Hongos
+	Subtitle: Corazón de la Infección
+}
+
+MushblightSurfaceBiome: {
+	DisplayName: Superficie de la Plaga de Hongos
+	TownNPCDialogueName: la Plaga de Hongos
+}
+
+DreadMoonBiome: {
+	TownNPCDialogueName: el Bioma de la Luna Siniestra
+	DisplayName: Bioma de la Luna Siniestra
+}
+
+MourningSunBiome: {
+	TownNPCDialogueName: el Bioma del Sol Doliente
+	DisplayName: Bioma del Sol Doliente
+}

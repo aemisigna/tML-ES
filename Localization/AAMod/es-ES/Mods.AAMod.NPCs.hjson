@@ -1,0 +1,151 @@
+GrappleClap: {
+	DisplayName: Garras del Caos
+	Subtitle: Terribles Gemelas
+
+	BossChecklistIntegration: {
+		SpawnInfo: Usa un [i:AAMod/HandSummons] de noche.
+		DespawnMessage: Las Garras regresan a sus respectivos entornos...
+	}
+}
+
+TruffleToad: {
+	BossChecklistIntegration: {
+		SpawnInfo: Ataca un cúmulo móvil de hongos azules, o usa un [i:AAMod/FrogSpawn] en los Hongos Brillantes.
+		DespawnMessage: El Sapo Trufero se aleja saltando distraídamente...
+	}
+
+	DisplayName: Sapo Trufero
+	Subtitle: Anfibio Fúngico Gigante
+}
+
+InfernoGrip.DisplayName: Garra del Infierno
+MireGrip.DisplayName: Garra del Cenagal
+OffGuardClap.DisplayName: Garras del Caos
+DragonClaw.DisplayName: Garra de Dragón
+HoneyBee.DisplayName: Abeja Gigante
+HydraClaw.DisplayName: Garra de Hidra
+Hydra.DisplayName: Hidra
+LeafBeetle.DisplayName: Escarabajo de Hoja
+Fanatic.DisplayName: Fanático
+Boomshroom.DisplayName: Hongo Bomba
+GoAheadTellThemNobodyWillBelieveYou.DisplayName: Hada Gorda
+BlueMushMound.DisplayName: Cúmulo de Hongos
+ToadTongue.DisplayName: Lengua de Sapo
+
+MushMon: {
+	BossChecklistIntegration: {
+		SpawnInfo: Interactúa con el cadáver putrefacto en el fondo de las cuevas de la plaga, o usa un [i:AAMod/RoyalEffigy] en los Hongos de la Plaga.
+		DespawnMessage: El Monarca Fúngico es tragado por la tierra...
+	}
+
+	DisplayName: Monarca Fúngico
+	Title: El Monarca Fúngico
+	Subtitle: Rey Fúngico Engendrado
+}
+
+ExhaustedWoman.DisplayName: Mujer Exhausta
+FungoidSwarmer.DisplayName: Fungoide Enjambrador
+FungoidGrunt.DisplayName: Fungoide Recluta
+Splinter.DisplayName: Astilla
+FungoidHulk.DisplayName: Fungoide Coloso
+FungoidHulk_Top.DisplayName: Fungoide Coloso
+FungoidHulk_Bottom.DisplayName: Fungoide Coloso
+Mushlad.DisplayName: Cochinilla Fúngica
+CreeperVine.DisplayName: Enredadera Reptante
+Witherwing.DisplayName: Ala Marchita
+HealingTree.DisplayName: Árbol Curativo
+
+RoyalEffigy: {
+	DisplayName: ..?
+	ChatText: Un cuerpo descompuesto yace inmóvil...
+	ChatButtonText: Examinar de Cerca
+}
+
+MonarchAwaken.DisplayName: ..!
+BlightWorm.DisplayName: Gusano de la Plaga
+BlightWorm_Dig.DisplayName: Gusano de la Plaga
+
+Historian: {
+	DisplayName: Historiadora
+
+	TownNPCMood: {
+		Content: Estoy contenta.
+		NoHome: Tomaré el hecho de que sigo aquí afuera como un no a mi pregunta inicial.
+		FarFromHome: Debo haberme perdido otra vez. Nunca voy a aprenderme los caminos de este lugar.
+		LoveSpace: Por fin, paz. Nunca te das cuenta de lo bien que la tenías hasta que se va, ¿verdad? Tendré que anotar eso, seguro que la gente de mi hogar amaría escuchar ese resultado.
+		DislikeCrowded: Perdón si esto es mucho pedir pero… ¿Podrías por favor encontrarme un lugar más tranquilo? Es como estar de vuelta en casa con tanta cháchara.
+		HateCrowded: Odio lo abarrotado de gente que está esto.
+		LikeBiome: Lamentablemente no he visto mucha naturaleza en mi vida, aunque siempre le he tenido bastante cariño. Todos los animales y plantas, pequeños ecosistemas diminutos. Me pregunto si ellos nos consideran tan fascinantes como nosotros a ellos, jaja...
+		HateBiome: Y-yo, eh… Aprecio l-la vivienda pero por favor sáquenme de aquí. Este lugar m-me perturba mucho, quiero salir, ahora.
+		LikeNPC: No esperaba encontrar a alguien con quien conectar por aquí. ¡Por suerte, {NPCName} rebosa de temas de conversación!
+		DislikeNPC: Pónganle algo de disciplina a {NPCName}. No creo poder soportar el desgaste mental de ver otro de sus peces plagados de hongos.
+		HateNPC: Aléjenme de aquí, por favor… No puedo estar en presencia de {NPCName}.
+		LikeNPC_Princess: Aunque dudo de la… legitimidad del título de {NPCName}, no puedo negar que no destacaría en esa posición. Honestamente, la realeza más agradable con la que he hablado, si es que lo es.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+TumoroidMaw.DisplayName: Fauces Tumoroide
+TumoroidSentry.DisplayName: Centinela Tumoroide
+TumorNPC.DisplayName: Tumor
+TumoroidSpewer.DisplayName: Escupidor Tumoroide
+Mosster.DisplayName: Monstruo de Musgo
+Flamebrute.DisplayName: Bestia Ígnea
+Broodmother.DisplayName: Progenitora
+LurkerHeadBlue.DisplayName: Cabeza de Acechante del Pantano
+LurkerHeadGreen.DisplayName: Cabeza de Acechante del Pantano
+LurkerHeadPurple.DisplayName: Cabeza de Acechante del Pantano
+Swamplurker.DisplayName: Acechante del Pantano
+Swamplurker_Sleep.DisplayName: Acechante del Pantano
+DragonEgg.DisplayName: Huevo de Dragón
+LivingEmber.DisplayName: Ascua Viviente
+AcidFrog.DisplayName: Rana Ácida
+Flamespitter.DisplayName: Escupefuego
+KaboomBeetle.DisplayName: Escarabajo Explosivo
+KomodoWalk.DisplayName: Komodo
+KomodoWall.DisplayName: Komodo
+LargeCrag.DisplayName: Peñasco
+NormalCrag.DisplayName: Peñasco
+OilSlime.DisplayName: Limo de Aceite
+SmallCrag.DisplayName: Peñasco
+WyrmlingBody.DisplayName: Dragoncillo
+WyrmlingHead.DisplayName: Dragoncillo
+WyrmlingTail1.DisplayName: Dragoncillo
+WyrmlingTail2.DisplayName: Dragoncillo
+Earwig.DisplayName: Tijereta
+GatorSwim.DisplayName: Caimán
+GatorWalk.DisplayName: Caimán
+GiantMosquito.DisplayName: Mosquito Gigante
+JunkSlime.DisplayName: Limo de Chatarra
+MireLoot.DisplayName: ???
+MireFish2.DisplayName: ???
+MireFish.DisplayName: ???
+MireCrate.DisplayName: ???
+GenericItem.DisplayName: ???
+GenericFish.DisplayName: ???
+TwistedRoot.DisplayName: Raíz Retorcida
+Terrorvine.DisplayName: Enredadera del Terror
+RootSucker.DisplayName: Chupador de Raíces
+MireViperTail.DisplayName: Víbora del Cenagal
+MireViperHead.DisplayName: Víbora del Cenagal
+MireViperBody.DisplayName: Víbora del Cenagal
+FungoidSkitterer.DisplayName: Fungoide Correteador
+MireTadpole.DisplayName: Renacuajo del Cenagal
+SmallEncampment.DisplayName: Pequeño Campamento
+SoulTotem.DisplayName: Tótem de Almas
+LongneckHead.DisplayName: Cuellilargo
+Longneck.DisplayName: Cuellilargo
+ObsidianGolem.DisplayName: Gólem de Obsidiana
+WillowWisp.DisplayName: Fuego Fatuo del Sauce
+Apparition.DisplayName: Aparición
+AnguishedCoals.DisplayName: Brasas Angustiadas
+Depthstalker.DisplayName: Acechador de las Profundidades
+DepthstalkerBaby.DisplayName: Acechador de las Profundidades Bebé
+DepthstalkerEgg.DisplayName: Huevo de Acechador de las Profundidades
+SullenwoodHusk.DisplayName: Cascarón de Madera Sombría
+MireTreeNPC.DisplayName: ""
+TreeApparation.DisplayName: Aparición
+MagmaSpriteOrbit.DisplayName: Espíritu de Magma
+MagmaSprite.DisplayName: Espíritu de Magma

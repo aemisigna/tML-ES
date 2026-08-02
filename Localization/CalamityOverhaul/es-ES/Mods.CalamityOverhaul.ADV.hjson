@@ -774,7 +774,7 @@ FirstMetOldDuke: {
 	B1: ¿Has cambiado de idea?
 	B2: Entonces hasta luego.
 	HL1: ¿El viejo profesor...? Aunque parece no reconocerme.
-	HL2: Sus palabras son creíbles; éramos colegas en la Universidad del Mar de Azufre, un titán de la arqueología marina.
+	HL2: Sus palabras son creíbles; éramos amigos en la Universidad del Mar de Azufre, un titán de la arqueología marina.
 	C1: Aceptar cooperación
 	C2: Rechazar cooperación
 	C3: Rechazar y desenvainar

@@ -1,0 +1,54 @@
+Fanatic: {
+	StandardDialogue1: ¿Tendrías por casualidad 9 horas libres para discutir los orígenes de este mundo y cómo todos llegamos a existir? ¿No? Será en otra ocasión entonces.
+	StandardDialogue2: Ahh, qué bueno verte de nuevo. ¿Hmm? ¿Cómo que no nos habíamos conocido antes?
+	StandardDialogue3: En todos los lugares que he recorrido, la gente parece venerar dioses de todo tipo y forma. Una locura, te lo digo. Los olvidados están por encima de todos ellos.
+	StandardDialogue4: Las voces nunca se van.
+	DayDialogue1: Sé rápido, amigo mío. Pues tengo la intención de desvanecerme en cuanto salga de tu vista.
+	DayDialogue2: Hnngh, la luz del sol me irrita la piel. Prefiero mucho más hacer negocios cuando está oscuro.
+	GraveyardDialogue: Vaya, qué ambiente tan sombrío. Este no es lugar para mí. Los muertos no son de mucha conversación cuando se trata de los dioses olvidados.
+	BloodMoonDialogue1: Vaya, los lugareños se ven terriblemente tensos esta noche. ¿Hmm? ¿Cómo que son 'Zombis'?
+	BloodMoonDialogue2: ¿La luna está sangrando? Oh, no te preocupes, eso pasa a veces.
+	EclipseDialogue1: Es de día, pero no hay luz. ¿Es de día, o es de noche? ¿Debo quedarme o debo irme? No lo sé, así que debo gritar.
+	EclipseDialogue2: El eclipse solar es toda una maravilla para contemplar, solo no lo mires por demasiado tiempo, ya que podrías causarte un daño irreparable en las retinas.
+	RainDialogue1: A algunas personas no les gusta la lluvia, pero a mí me agrada bastante. El repiqueteo de las gotas contra el suelo es bastante relajante. También previene la muerte por deshidratación.
+	RainDialogue2: Ah, está lloviendo. Por suerte para nosotros, mi mercancía está diseñada para ser resistente al agua.
+	RainDialogue3: Humedad.
+	SlimeRainDialogue1: ¿Estás familiarizado con el regicidio por casualidad? Pregunto esto porque podrías llevarte una sorpresa si sigues masacrando a estos seres gelatinosos.
+	SlimeRainDialogue2: Te recomiendo encarecidamente que no intentes consumir esos limos, sus cuerpos son sorprendentemente ácidos y, irónicamente, serás digerido desde adentro.
+	FrostMoonDialogue: Ya no me gusta la Navidad.
+	PumpkinMoonDialogue: Ya no me gusta Halloween.
+	PartyDialogue: ¿Una fiesta? Me encantaría unirme, pero el tiempo que no se dedica a venerar a los dioses olvidados es tiempo mejor invertido.
+	MoonLordDialogue: ¿Estás seguro de que este es un buen momento para esto?
+}
+
+Historian: {
+	SavedDialogue: ¡Ah! A-aléjate- Oh, gracias a los Dioses, por un segundo estuve segura de que ese era mi último momento. G-gracias por tu ayuda, soy Sophie, una historiadora que todavía está aprendiendo, vengo del oeste. Me atacaron hace días y he estado varada desde entonces. Si no es mucho pedir, ¿de casualidad conoces algún refugio cercano? Temo que a este ritmo estoy a momentos de contraer una enfermedad.
+	StandardDialogue1: Sinceramente estoy acostumbrada a lugares mucho más grandes. Aunque esto es agradable, pequeño y pintoresco. De cualquier forma, es mejor que cubrirme con arbustos… noche tras noche.
+	StandardDialogue2: Principalmente soy de ciudad, así que no tengo mucha experiencia con estas, eh, disculpa si esto ofende, ¿zonas subdesarrolladas? Aun así, ¡en general ha superado mis expectativas!
+	StandardDialogue3: Puedo entender por qué esta región es tan tabú, ¡¿un desierto y una tundra a solo unos pasos de distancia?! ¡La guerra dejó este lugar bastante irregular, eso seguro!
+	StandardDialogue4: ¿Qué se supone que haces aquí, si no es mucho preguntar? ¡Toda esta zona es bastante insegura y no ha sido habitada en como 500 años! Supongo que eventualmente tenía que pasar.
+	NightDialogue1: ¿Podrías decirle a {0} que deje de abrir las puertas? Es difícil hacer cualquier cosa cuando sigue dejando entrar monstruos.
+	NightDialogue2: ¿S-supongo que todo por aquí está igual de infestado de monstruos? Quería tomar un poco de aire fresco, ¡pero esos ojos horribles no dejaban de atacarme! Con razón todo esto está abandonado…
+	NightDialogue3: De donde vengo es bastante difícil apreciar bien el cielo. Este lugar es genial en ese aspecto, ¡y tan cerca de las islas flotantes también! Me pregunto qué pasa allá arriba, ha estado tan silencioso.
+	BloodMoonDialogue1: Te lo pediré una sola vez, ¡haz callar a esas malditas cosas! Te encanta pelear, ¿no? ¡Entonces deja de andar rondando aquí adentro y dales su merecido de una vez!
+	BloodMoonDialogue2: Cállate, no quiero escucharlo, solo ve y haz callar a esas cosas, ¡casi ni puedo pensar con este ruido!
+	RainDialogue: El repiqueteo de la lluvia es bastante relajante, el ruido me ayuda a concentrarme. Aunque no es que me encante la lluvia en sí, ¿sabes lo difícil que es lavar esta ropa?
+	GraveyardDialogue: ¿Quizás pueda enviarle un mensaje a algunos amigos míos? Porque lamentablemente esto no es mi fuerte, ¡disculpas!
+	Help1: ¿Supongo que ya has estado en el Cenagal? Yo solo iría de noche, durante el día está cubierto de una niebla densa.
+	Help2: ¿Has estado en el Infierno, cierto? Te recomendaría entrar ahí solo durante el día. Se cubre de una ceniza densa durante la noche.
+	Help3: ¡Al parecer hay unos pequeños espíritus místicos volando por el antiguo pantano y el volcán! He escuchado que algunas personas los atrapan con redes y los usan para varios propósitos, podrías intentarlo si eres lo bastante valiente para aventurarte ahí.
+	HelpBlight: Yo... no recuerdo mucho sobre la plaga, salvo que el suelo parecía muy sólido, además de haber vislumbrado... masas de carne horribles y palpitantes. Quizás esas dos cosas estén relacionadas de alguna manera.
+	Quest1Start: Ah, ¿deseas ayudarme? ¡Fantástico! La verdad es que me vendría bien la ayuda… Bueno, primero necesito un lugar donde quedarme, no puedo exactamente operar entre el pasto. Es mucho pedir, pero si puedes, por favor encuéntrame un lugar, aunque sea temporal.
+	Quest1Current: ¿Cómo va todo? Soy paciente, pero también estoy bastante cansada de estar tirada en la tierra. Perdón si estoy siendo insistente, jaja.
+	Quest1End: ¡Oh, encontraste algo! Fantástico, sinceramente aceptaré lo que sea en este momento. Ahora, desearía tener un regalo apropiado como agradecimiento, pero me temo que no tengo nada interesante para dar. Espero que algo de dinero sirva por ahora, hasta que pueda darte algo más después.
+	Quest2Start: Bueno, es hora de tu primera misión de verdad, ¿no? Una vez más, gracias por tu ayuda. Deseo aprender más sobre este lugar, es una petición un tanto vaga, pero por favor tráeme un artefacto o algún objeto de apariencia igualmente intrigante que puedas encontrar. ¡Repórtate conmigo cuando encuentres algo!
+	Quest2Current: ¿Sigues en la búsqueda? Bueno, tómate tu tiempo, ¡no hay prisa!
+	Quest2End: Bueno, esta es una colección interesante. Esta región es muchísimo más diversa de lo que pensaba, jaja. No soy demasiado experta en esto tampoco, pero averiguaré lo que pueda y espero poder llevarlos de vuelta a casa.
+	NoMoreQuests: Se aprecia el entusiasmo pero… no tengo nada más con lo que necesite ayuda por ahora. Vuelve más tarde, ¿de acuerdo?
+	GivePainting: ¡Oh! ¡Qué obra de arte tan magnífica! La pintura es muy rústica, pero no muestra ningún desgaste con el paso del tiempo. Extraño, considerando el trabajo tipográfico del texto detrás de la pintura. "El Cazador Dorado" El Hombre se ve orgulloso, estoico, con una sensación que solo puedo comparar con la de un gran gobernante. La encontraste bajo tierra, ¿no? Entonces esta bien podría ser una pintura de la que lamentablemente no tengo ningún conocimiento real.
+	GiveTrade: ¿Un acuerdo comercial entre la Acrópolis y la gente de aquí abajo, cortado por completo? Esto data de al menos varios siglos atrás. La Acrópolis solía tener conexiones con nosotros aquí abajo, pero tras un asesinato a su monarca ocurrido de noche, las puertas han permanecido cerradas desde entonces. No creo que sea posible que quieran volver a comunicarse con nosotros. Al parecer, por esta carta, el siguiente en la línea sucesoria no nos tenía ningún aprecio, a juzgar por su forma de escribir.
+	GiveNotebook: ¡¿Dón-dónde encontraste esto?! Oh- Oh, la plaga. Eso es desgarrador. Este era el libro de Reginald Agaricus. Él era mi... mi amigo. Me llevó en una expedición hacia esos malditos hongos. Nos aventuramos en las cuevas, siguiendo a una de esas crías infectadas. Nos emboscaron y... lo siento, no deseo hablar más de esto.
+	GiveBottle: Oooh, piratas. Eso data de hace muchísimo tiempo. Esto también menciona las Islas Susúricas, un lugar hoy en día notoriamente considerado de mala suerte, solo por la cantidad de extrañas desapariciones y sucesos ocurridos allí. El resto del texto, sin embargo, está en un idioma que no puedo descifrar. Domino muchas cosas, pero esa no es una de ellas.
+	GiveBounty: ¿Recompensas por captura? Qué barbaridad. Solo con eso puedo deducir que esto proviene de un régimen muy severo, o quizás de una fuerza de guardia corrupta. Sin embargo, esta persona, no tengo idea de quién podría ser. Parece un soldado curtido de esta ciudad o distrito. Lamentablemente no tiene fecha ni símbolo alguno. Uno pensaría que serían lo bastante listos como para incluir eso en sistemas como este, pero por lo visto no lo fueron.
+	GiveDrill: ¡GUAU, un Taladro de Incinerita! Estos fueron hechos para perforar la resistente escoria volcánica allá abajo en el Infierno. Estaba pensado para colocarse en la parte frontal de una vagoneta minera, y se calentaba mientras giraba para atravesar la piedra como si fuera mantequilla. ¿No es genial? Varios de estos fueron encargados por el Duque para expediciones más profundas hacia el volcán, debido a sus ricos depósitos de minerales preciosos.
+}

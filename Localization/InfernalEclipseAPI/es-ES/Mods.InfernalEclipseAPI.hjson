@@ -171,6 +171,7 @@ ItemBalance: {
 ItemTooltip: {
 	BasicDamage: daño básico
 	OmniShield: -Escudo Omni-
+	Donor: - Objeto de Donador -
 	Playtester: - Objeto de Playtester -
 	Contributor: - Objeto de Colaborador -
 	NamelessDowned: Debes superar la prueba
@@ -552,6 +553,7 @@ ItemTooltip: {
 		Puzzles: Mr. Puzzles
 		cat: StarlightCat
 		Arkangel: Arkangel
+		Minesky: Mineskye
 	}
 
 	MergedCraftingTreeTooltip: {
@@ -2432,6 +2434,49 @@ Items: {
 			Los límites de esta pintura no son suficientes para acomodar a cada vencedor
 			'''
 	}
+
+	BlixerCore: {
+		DisplayName: Núcleo Blixer
+		Tooltip:
+			'''
+			Invoca brazos Blixer para protegerte
+			Ocupa 4 espacios de súbdito y solo puede haber un conjunto
+			Tiene dos modos que se pueden alternar con <right>
+			'''
+		DefaultMode:
+			'''
+			Modo Predeterminado:
+			Un conjunto de dos manos y dos cañones se acoplará a los brazos
+			Las manos atacan automáticamente a los enemigos cercanos dentro de su alcance
+			Los cañones dispararán hacia el cursor de tu ratón mientras usas cualquier objeto
+			'''
+		LaserMode:
+			'''
+			Modo Láser:
+			Un conjunto de cuatro cañones se acoplará a los brazos
+			Los cañones dispararán láseres precisos hacia el cursor mientras usas cualquier objeto
+			'''
+	}
+
+	InterludeFourMusicBox: {
+		DisplayName: Caja Musical (Interludio 4)
+		Tooltip: Reproduce 'Calamity before the cynosure' de theforge129
+	}
+
+	LastBattleMusicBox: {
+		DisplayName: Caja Musical (Devorador de Dioses - Fase Final)
+		Tooltip: Reproduce 'Last Battle (Ballos Mix)' de DM DOKURO
+	}
+
+	PlanteraMusicBox: {
+		DisplayName: Caja Musical (Plantera - Modo Infernum)
+		Tooltip: Reproduce 'Floral Animosity' de PinpinNeon
+	}
+
+	QueenSlimeMusicBox: {
+		DisplayName: Caja Musical (Reina Slime - Modo Infernum)
+		Tooltip: Reproduce 'Crowned Before One's End' de PinpinNeon
+	}
 }
 
 Projectiles: {
@@ -2482,6 +2527,9 @@ Projectiles: {
 	SplitFirebrandProjectile.DisplayName: Proyectil de Split Firebrand
 	SplitFirebrandFlailProjectile.DisplayName: Proyectil de Mangual de Split Firebrand
 	SplitFirebrandExplosion.DisplayName: Explosión de Split Firebrand
+	BlixerArm.DisplayName: Brazo Blixer
+	BlixerHand.DisplayName: Mano Blixer
+	BlixerCannonPro.DisplayName: Bala Blixer
 }
 
 DiaryTooltip:
@@ -2826,6 +2874,15 @@ Configs: {
 		DisableUnnecessaryContent: {
 			Label: Desactivar Contenido Innecesario
 			Tooltip: ""
+		}
+
+		EnableCodebreakerInterlude: {
+			Label: Interludio del Descifrador
+			Tooltip:
+				'''
+				Activa o desactiva el tema del Interludio del Descifrador.
+				Este interludio sonará la primera vez que coloques el componente final del Descifrador.
+				'''
 		}
 	}
 
@@ -3328,6 +3385,11 @@ Buffs: {
 		DisplayName: Marca de Ruptura de Prisma
 		Description: Mods.InfernalEclipseAPI.Buffs.PrismBreakTag.Description
 	}
+
+	BlixerBuff: {
+		DisplayName: Blixer
+		Description: "'¡No diseñé ESTO! :('"
+	}
 }
 
 Tiles: {
@@ -3339,6 +3401,10 @@ Tiles: {
 	ProphecyMusicBoxTile.MapEntry: Caja Musical
 	MenuMusicBoxTile.MapEntry: Caja Musical
 	FinalFractalMusicBoxTile.MapEntry: Caja Musical
+	InterludeFourMusicBoxTile.MapEntry: Caja Musical
+	LastBattleMusicBoxTile.MapEntry: Caja Musical
+	PlanteraMusicBoxTile.MapEntry: Caja Musical
+	QueenSlimeMusicBoxTile.MapEntry: Caja Musical
 }
 
 NPCs: {
@@ -3395,6 +3461,7 @@ BossName: {
 	LittleCat: Próximamente... - ???
 	ProvidenceNight: Unholy Finality - Providence (Noche)
 	Seahorse: Seahorse Scrutiny (Rebirth) - Cnidrion
+	Arsenal: Arsenal - Interludio del Descifrador
 }
 
 PetDialog.DoGDSPTip: ¡La cuadrícula láser aparece al mismo tiempo que él embiste! Enfócate primero en embestir al Devourer y luego muévete a un lugar seguro, ¡pero no olvides esas bolas de fuego!

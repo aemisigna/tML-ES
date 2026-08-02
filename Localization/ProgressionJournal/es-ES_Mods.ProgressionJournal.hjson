@@ -74,6 +74,7 @@ UI: {
 	ReadyBuildsEmpty: Aún no hay conjuntos listos para esta clase y etapa.
 	SelectedItemNoData: Aún no hay datos de obtención para este objeto.
 	SelectedItemCrafts: Creación
+	SelectedItemWorldGeneration: Generación del mundo
 	SelectedItemDrops: Botín
 	SelectedItemShops: Tiendas
 	SelectedItemFishing: Pesca
@@ -92,6 +93,19 @@ UI: {
 	QualitySlopGluttonyBlenderChanceCondition: Prob. de bazofia de calidad: duración del potenciador de comida en minutos × 0.5% por Bien alimentado, × 0.75% por Completamente satisfecho, o × 1% por Lleno de exquisiteces.
 	GluttonyBlenderAvailabilityCondition: El Vendedor sospechoso siempre vende la licuadora de gula por 10 monedas de oro.
 	VanillaFruitTreeCuttingCondition: Puede caer al talar árboles de este tipo: {0}.
+	ModdedFruitTreeShakingCondition: Puede caer al sacudir árboles de este tipo: {0}.
+	ThoriumYewTreeSource: Árboles de tejo
+	ThoriumSnowyTreeSource: Árboles nevados
+	ThoriumDeadTreeSource: Árboles muertos
+	ThoriumSpookyTreeSource: Árboles espeluznantes
+	ThoriumSakuraTreeSource: Árboles de sakura
+	CalamityAstralTreeSource: Árboles astrales y palmeras
+	CalamityAstralSnowTreeSource: Árboles de nieve astral
+	CalamitasExhumingCondition: Lleva el objeto de origen a la Bruja de Azufre después de derrotar a Calamitas Suprema y selecciona el encantamiento Exhumado.
+	ThoriumWorldgenChestReplacementCondition: Thorium coloca este objeto en un cofre generado de este tipo; no está presente en todos los cofres.
+	ThoriumHammerConversionCondition: Haz clic derecho en el objeto de origen del inventario para convertirlo en esta forma.
+	ThoriumRepellentServiceCondition: Después de que el Zombi Confundido haya presenciado un día y una noche completos, paga 1 moneda de plata para recibir uno de cinco repelentes al azar.
+	ThoriumChiLanternConfigCondition: Requiere que la Linterna de Chi esté activada en la configuración del servidor de Thorium.
 	AAModClassicStarfishOceanFloorCondition: Se recolecta del fondo del Océano.
 	AAModClassicPrismOreCondition: Extrae mineral de prisma generado de forma natural con un poder de pico de al menos 65%.
 	AAModClassicEquinoxOreCondition: El mineral de radio aparece en el mundo tras derrotar a los gusanos del equinoccio y suelta mineral de radio o mineral de materia oscura al extraerse.
@@ -170,6 +184,22 @@ UI: {
 	AAModClassicCarrotPlantCondition: Brota de forma natural en la hierba de la superficie en Modo Difícil; rompe la planta para obtener la zanahoria
 	AAModClassicAnubisBookExchangeSource: Anubis el escriba legendario
 	AAModClassicAnubisBookExchangeCondition: Dale el libro "La vida y las aventuras épicas de Anubis el perro maravilloso" tras derrotar a Anubis
+	VanillaDungeonBooksSource: Libros de la mazmorra
+	VanillaDungeonBooksCondition: Se genera como un libro azul especial en las estanterías de la mazmorra
+	VanillaNaturesGiftPlantSource: Planta de la selva
+	VanillaNaturesGiftPlantCondition: Crece raramente de forma natural en la hierba de la selva bajo la superficie
+	VanillaLifeFruitPlantSource: Planta de Fruta de la Vida
+	VanillaLifeFruitPlantCondition: Crece de forma natural en la hierba de la Jungla Subterránea
+	VanillaShadowOrbLocationCondition: Se genera en las grietas subterráneas de la Corrupción
+	VanillaCrimsonHeartLocationCondition: Se genera en las grietas subterráneas del Carmesí
+	ThoriumAloePlantSource: Planta de aloe de la selva
+	ThoriumAloePlantCondition: Rompe los restos vegetales con forma de aloe que se encuentran en la Selva
+	ThoriumManaBerryPlantSource: Planta de baya de maná
+	ThoriumManaBerryPlantCondition: Crece raramente bajo la hierba de la bendición
+	ThoriumWaterChestnutPlantSource: Vegetación de las Profundidades Acuáticas
+	ThoriumWaterChestnutPlantCondition: Rompe la vegetación luminosa generada de forma natural en las Profundidades Acuáticas
+	ThoriumLivingLeafBushSource: Arbusto de Hoja Viva
+	ThoriumLivingLeafBushCondition: Crece raramente de forma natural en la hierba de la superficie, lejos de los bordes del mundo
 	NpcSpawnOldOnesArmy: Ejército del Antiguo
 	NpcSpawnGranite: Cueva de granito
 	NpcSpawnMarble: Cueva de mármol

@@ -1,0 +1,2660 @@
+BeetleShell: {
+	DisplayName: Green Husk
+	Tooltip: Slightly increases the Luck of the user
+}
+
+IridescentScale: {
+	DisplayName: Iridescent Scale
+	Tooltip:
+		'''
+		1 defense
+		4% increased critical strike chance
+		Increases the Luck of the user
+		'''
+}
+
+ExoticScent: {
+	DisplayName: Exotic Scent
+	Tooltip:
+		'''
+		Summons the Griplings of Mischief
+		'Baby hands!'
+		'''
+}
+
+TwinClawPendant: {
+	DisplayName: Twin Claw Pendant
+	Tooltip:
+		'''
+		Reduces damage taken by 10% while in the Inferno or Mire
+		Increased damage against burning or poisoned enemies
+		'''
+}
+
+InfernoSolution: {
+	DisplayName: Orange Solution
+	Tooltip:
+		'''
+		Used by the Clentaminator
+		Spreads the Inferno
+		'''
+}
+
+MireSolution: {
+	DisplayName: Dark Green Solution
+	Tooltip:
+		'''
+		Used by the Clentaminator
+		Spreads the Mire
+		'''
+}
+
+OrderSolution: {
+	DisplayName: Order Solution
+	Tooltip:
+		'''
+		Used by the Clentaminator
+		Cleanses the Chaos
+		'''
+}
+
+MushblightSolution: {
+	DisplayName: Red & Yellow Solution
+	Tooltip:
+		'''
+		Used by the Clentaminator
+		Spreads Blighted Mushrooms
+		'''
+}
+
+BogwoodBreastplate: {
+	DisplayName: Bogwood Shirt
+	Tooltip: ""
+}
+
+BogwoodGreaves: {
+	DisplayName: Bogwood Pants
+	Tooltip: ""
+}
+
+BogwoodHelmet: {
+	DisplayName: Bogwood Ajirogasa
+	Tooltip: ""
+}
+
+RazewoodBoots: {
+	DisplayName: Razewood Boots
+	Tooltip: ""
+}
+
+RazewoodChestplate: {
+	DisplayName: Razewood Chestplate
+	Tooltip: ""
+}
+
+RazewoodHelmet: {
+	DisplayName: Razewood Helmet
+	Tooltip: ""
+}
+
+StellarGreaves: {
+	DisplayName: Stellar Greaves
+	Tooltip: Increases maximum mana by 20
+}
+
+StellarHat: {
+	DisplayName: Stellar Hat
+	Tooltip: 8% increased magic and minion damage
+}
+
+StellarRobe: {
+	DisplayName: Stellar Robe
+	Tooltip:
+		'''
+		Increases maximum mana by 20
+		Increases your max number of minions by 1
+		'''
+}
+
+HandSummons: {
+	DisplayName: Chaotic Extract
+	Tooltip:
+		'''
+		Summons the Grips of Chaos
+		'A potent concoction of natural minerals'
+		'''
+}
+
+HoneycombChunk: {
+	DisplayName: Honeycomb Chunk
+	Tooltip: Gives the Honey buff
+}
+
+InfernoCrate: {
+	DisplayName: Ashen Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MireCrate: {
+	DisplayName: Murky Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Fishmother: {
+	DisplayName: Fishmother
+	Tooltip: ""
+}
+
+Hydrafish: {
+	DisplayName: Pondlurker
+	Tooltip: ""
+}
+
+HooksOfChaos: {
+	DisplayName: Hooks Of Chaos
+	Tooltip: "'Never lose your grip again'"
+}
+
+ChaosPowder: {
+	DisplayName: Chaos Dust
+	Tooltip: "'Contains small traces of energy'"
+}
+
+InfernoShroom: {
+	DisplayName: Solar Mushroom
+	Tooltip: ""
+}
+
+MireShroom: {
+	DisplayName: Lunar Mushroom
+	Tooltip: ""
+}
+
+Boulders: {
+	DisplayName: Inferno Boulder
+	Tooltip: ""
+}
+
+BrokenLanterns: {
+	DisplayName: Broken Lantern
+	Tooltip: ""
+}
+
+BurntPole: {
+	DisplayName: Burnt Pole
+	Tooltip: ""
+}
+
+BurntTent: {
+	DisplayName: Burnt Tent
+	Tooltip: ""
+}
+
+DragonEggShell: {
+	DisplayName: Dragon Egg Shell
+	Tooltip: ""
+}
+
+DragonEgg: {
+	DisplayName: Dragon Egg
+	Tooltip: ""
+}
+
+LargeRubble: {
+	DisplayName: Inferno Rubble (Large)
+	Tooltip: ""
+}
+
+LargeStalactites: {
+	DisplayName: Inferno Stalactite (Large)
+	Tooltip: ""
+}
+
+LargeStalagmites: {
+	DisplayName: Inferno Stalagmite (Large)
+	Tooltip: ""
+}
+
+Rubble: {
+	DisplayName: Inferno Rubble (Medium)
+	Tooltip: ""
+}
+
+SmallRubble: {
+	DisplayName: Inferno Rubble (Small)
+	Tooltip: ""
+}
+
+SmallStalactites: {
+	DisplayName: Inferno Stalactite (Small)
+	Tooltip: ""
+}
+
+SmallStalagmites: {
+	DisplayName: Inferno Stalagmite (Small)
+	Tooltip: ""
+}
+
+MireBoulders: {
+	DisplayName: Mire Boulder
+	Tooltip: ""
+}
+
+MireBushes: {
+	DisplayName: Mire Bush
+	Tooltip: ""
+}
+
+MireGraves: {
+	DisplayName: Mire Grave
+	Tooltip: ""
+}
+
+MireLargeRubble: {
+	DisplayName: Mire Rubble (Large)
+	Tooltip: ""
+}
+
+MireLargeStalactites: {
+	DisplayName: Mire Stalactite (Large)
+	Tooltip: ""
+}
+
+MireLargeStalagmites: {
+	DisplayName: Mire Stalagmite (Large)
+	Tooltip: ""
+}
+
+MireReeds: {
+	DisplayName: Mire Reed
+	Tooltip: ""
+}
+
+MireSmallRubble: {
+	DisplayName: Mire Rubble (Small)
+	Tooltip: ""
+}
+
+MireSmallStalactites: {
+	DisplayName: Mire Stalactite (Small)
+	Tooltip: ""
+}
+
+MireSmallStalagmites: {
+	DisplayName: Mire Stalagmite (Small)
+	Tooltip: ""
+}
+
+MireTallGrass: {
+	DisplayName: Mire Tall Grass
+	Tooltip: ""
+}
+
+DragonClawBanner: {
+	DisplayName: Dragon Claw Banner
+	Tooltip: Nearby players get a bonus against: Dragon Claw
+}
+
+HoneyBeeBanner: {
+	DisplayName: Big Bee Banner
+	Tooltip: Nearby players get a bonus against: Big Bee
+}
+
+HydraClawBanner: {
+	DisplayName: Hydra Claw Banner
+	Tooltip: Nearby players get a bonus against: Hydra Claw
+}
+
+LeafBeetleBanner: {
+	DisplayName: Leaf Beetle Banner
+	Tooltip: Nearby players get a bonus against: Leaf Beetle
+}
+
+Bogwood: {
+	DisplayName: Bogwood
+	Tooltip: ""
+}
+
+Darkmud: {
+	DisplayName: Darkmud
+	Tooltip: ""
+}
+
+Depthsand: {
+	DisplayName: Depthsand
+	Tooltip: ""
+}
+
+Depthstone: {
+	DisplayName: Depthstone
+	Tooltip: ""
+}
+
+DepthstoneBrick: {
+	DisplayName: Depthstone Brick
+	Tooltip: ""
+}
+
+HardenedDepthsand: {
+	DisplayName: Hardened Depthsand
+	Tooltip: ""
+}
+
+HardenedTorchsand: {
+	DisplayName: Hardened Torchsand
+	Tooltip: ""
+}
+
+Razewood: {
+	DisplayName: Razewood
+	Tooltip: ""
+}
+
+Torchsand: {
+	DisplayName: Torchsand
+	Tooltip: ""
+}
+
+Torchslag: {
+	DisplayName: Torchslag
+	Tooltip: ""
+}
+
+Torchstone: {
+	DisplayName: Torchstone
+	Tooltip: ""
+}
+
+TorchstoneBrick: {
+	DisplayName: Torchstone Brick
+	Tooltip: ""
+}
+
+FurnitureDynamo: {
+	DisplayName: Furniture Dynamo
+	Tooltip:
+		'''
+		Combines all furniture-crafting stations into one block
+		Now you don't have to clutter your base with 12 crafting stations!
+		'''
+}
+
+BogwoodBathtub: {
+	DisplayName: Bogwood Bathtub
+	Tooltip: ""
+}
+
+BogwoodBed: {
+	DisplayName: Bogwood Bed
+	Tooltip: ""
+}
+
+BogwoodBookcase: {
+	DisplayName: Bogwood Bookcase
+	Tooltip: ""
+}
+
+BogwoodCandelabra: {
+	DisplayName: Bogwood Candelabra
+	Tooltip: ""
+}
+
+BogwoodCandle: {
+	DisplayName: Bogwood Candle
+	Tooltip: ""
+}
+
+BogwoodChair: {
+	DisplayName: Bogwood Chair
+	Tooltip: ""
+}
+
+BogwoodChandelier: {
+	DisplayName: Bogwood Chandelier
+	Tooltip: ""
+}
+
+BogwoodChest: {
+	DisplayName: Bogwood Chest
+	Tooltip: ""
+}
+
+BogwoodClock: {
+	DisplayName: Bogwood Clock
+	Tooltip: ""
+}
+
+BogwoodDoor: {
+	DisplayName: Bogwood Door
+	Tooltip: ""
+}
+
+BogwoodDresser: {
+	DisplayName: Bogwood Dresser
+	Tooltip: ""
+}
+
+BogwoodLamp: {
+	DisplayName: Bogwood Lamp
+	Tooltip: ""
+}
+
+BogwoodLantern: {
+	DisplayName: Bogwood Lantern
+	Tooltip: ""
+}
+
+BogwoodPiano: {
+	DisplayName: Bogwood Piano
+	Tooltip: ""
+}
+
+BogwoodPlatform: {
+	DisplayName: Bogwood Platform
+	Tooltip: ""
+}
+
+BogwoodSink: {
+	DisplayName: Bogwood Sink
+	Tooltip: ""
+}
+
+BogwoodSofa: {
+	DisplayName: Bogwood Sofa
+	Tooltip: ""
+}
+
+BogwoodTable: {
+	DisplayName: Bogwood Table
+	Tooltip: ""
+}
+
+BogwoodTorch: {
+	DisplayName: Mire Torch
+	Tooltip: ""
+}
+
+BogwoodWorkBench: {
+	DisplayName: Bogwood Work Bench
+	Tooltip: ""
+}
+
+MireCampfire: {
+	DisplayName: Mire Campfire
+	Tooltip: Life regen is increased when near a campfire
+}
+
+InfernoCampfire: {
+	DisplayName: Inferno Campfire
+	Tooltip: Life regen is increased when near a campfire
+}
+
+RazewoodBathtub: {
+	DisplayName: Razewood Bathtub
+	Tooltip: ""
+}
+
+RazewoodBed: {
+	DisplayName: Razewood Bed
+	Tooltip: ""
+}
+
+RazewoodBookcase: {
+	DisplayName: Razewood Bookcase
+	Tooltip: ""
+}
+
+RazewoodCandelabra: {
+	DisplayName: Razewood Candelabra
+	Tooltip: ""
+}
+
+RazewoodCandle: {
+	DisplayName: Razewood Candle
+	Tooltip: ""
+}
+
+RazewoodChair: {
+	DisplayName: Razewood Chair
+	Tooltip: ""
+}
+
+RazewoodChandelier: {
+	DisplayName: Razewood Chandelier
+	Tooltip: ""
+}
+
+RazewoodChest: {
+	DisplayName: Razewood Chest
+	Tooltip: ""
+}
+
+RazewoodClock: {
+	DisplayName: Razewood Clock
+	Tooltip: ""
+}
+
+RazewoodDoor: {
+	DisplayName: Razewood Door
+	Tooltip: ""
+}
+
+RazewoodDresser: {
+	DisplayName: Razewood Dresser
+	Tooltip: ""
+}
+
+RazewoodLamp: {
+	DisplayName: Razewood Lamp
+	Tooltip: ""
+}
+
+RazewoodLantern: {
+	DisplayName: Razewood Lantern
+	Tooltip: ""
+}
+
+RazewoodPiano: {
+	DisplayName: Razewood Guqin
+	Tooltip: ""
+}
+
+RazewoodPlatform: {
+	DisplayName: Razewood Platform
+	Tooltip: ""
+}
+
+RazewoodSink: {
+	DisplayName: Razewood Sink
+	Tooltip: ""
+}
+
+RazewoodSofa: {
+	DisplayName: Razewood Sofa
+	Tooltip: ""
+}
+
+RazewoodTable: {
+	DisplayName: Razewood Table
+	Tooltip: ""
+}
+
+RazewoodTorch: {
+	DisplayName: Inferno Torch
+	Tooltip: ""
+}
+
+RazewoodWorkBench: {
+	DisplayName: Razewood Work Bench
+	Tooltip: ""
+}
+
+GripRelic: {
+	DisplayName: Grips of Chaos Relic
+	Tooltip: ""
+}
+
+ToadRelic: {
+	DisplayName: Truffle Toad Relic
+	Tooltip: ""
+}
+
+InfernoGripTrophy: {
+	DisplayName: Inferno Grip Trophy
+	Tooltip: ""
+}
+
+MireGripTrophy: {
+	DisplayName: Mire Grip Trophy
+	Tooltip: ""
+}
+
+BogwoodWall: {
+	DisplayName: Bogwood Wall
+	Tooltip: ""
+}
+
+DarkmudWall: {
+	DisplayName: Darkmud Wall
+	Tooltip: ""
+}
+
+DepthstoneBrickWall: {
+	DisplayName: Depthstone Brick Wall
+	Tooltip: ""
+}
+
+DepthstoneWall: {
+	DisplayName: Depthstone Wall
+	Tooltip: ""
+}
+
+RazewoodWall: {
+	DisplayName: Razewood Wall
+	Tooltip: ""
+}
+
+TorchstoneBrickWall: {
+	DisplayName: Torchstone Brick Wall
+	Tooltip: ""
+}
+
+TorchstoneWall: {
+	DisplayName: Torchstone Wall
+	Tooltip: ""
+}
+
+BogwoodHammer: {
+	DisplayName: Bogwood Hammer
+	Tooltip: ""
+}
+
+RazewoodHammer: {
+	DisplayName: Razewood Hammer
+	Tooltip: ""
+}
+
+GripsTreasureBag: {
+	DisplayName: Treasure Bag (Grips of Chaos)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ToadTreasureBag: {
+	DisplayName: Treasure Bag (Truffle Toad)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MonarchTreasureBag: {
+	DisplayName: Treasure Bag (Mushroom Monarch)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+UndownerAA: {
+	DisplayName: AA Undowner
+	Tooltip:
+		'''
+		Undowns all AA bosses
+		Non-Consumable
+		'''
+}
+
+UndownerAA2: {
+	DisplayName: AA Unbooler
+	Tooltip:
+		'''
+		Undowns all AA bools
+		Non-Consumable
+		'''
+}
+
+InfernoSeeds: {
+	DisplayName: Charred Seeds
+	Tooltip: Plants Inferno grass on dirt
+}
+
+MireSeeds: {
+	DisplayName: Damp Seeds
+	Tooltip: Plants Mire grass on darkmud
+}
+
+TitleTester: {
+	DisplayName: Title Tester
+	Tooltip: Tests titles... wouldn't you know?
+}
+
+InfernoGripMask: {
+	DisplayName: Inferno Grip Mask
+	Tooltip: "'Stylish!'"
+}
+
+MireGripMask: {
+	DisplayName: Mire Grip Mask
+	Tooltip: "'Stylish!'"
+}
+
+ChillaBag: {
+	DisplayName: Local Rodent's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating a Local Rodent!'
+		'''
+}
+
+FezLordsBag: {
+	DisplayName: Fez Lord's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating the Fez Lord!'
+		'''
+}
+
+DearGod: {
+	DisplayName: Ludicrous Purple's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating the Ludicrous Purple!'
+		'''
+}
+
+LunaticRag: {
+	DisplayName: Ludicrous Purple's Rags
+	Tooltip:
+		'''
+		'Great for impersonating Ancients Awakened Devs!'
+		Only a psychopath would wear something so itchy
+		'''
+}
+
+LunaticTendrils: {
+	DisplayName: Ludicrous Purple's Tendrils
+	Tooltip:
+		'''
+		'Great for impersonating Ancients Awakened Devs!'
+		Tangles even more than wired earphones
+		'''
+}
+
+LunaticWig: {
+	DisplayName: Ludicrous Purple's Wig
+	Tooltip:
+		'''
+		'Great for impersonating Ancients Awakened Devs!'
+		It smells like blackcurrent
+		'''
+}
+
+DragonBag: {
+	DisplayName: Rustic Dragon's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating a Rustic Dragon!'
+		'''
+}
+
+DragonBody: {
+	DisplayName: Rustic Dragon's Breastplate
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DragonHead: {
+	DisplayName: Rustic Dragon's Mask
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DragonLegs: {
+	DisplayName: Rustic Dragon's Greaves
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+FoxWonderBox: {
+	DisplayName: Fox Wonder's Toolbox
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating the Fox Wonder!'
+		'''
+}
+
+TailsBody: {
+	DisplayName: Fox Wonder's Costume
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+TailsHead: {
+	DisplayName: Fox Wonder's Helmet
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+TailsLegs: {
+	DisplayName: Fox Wonder's Leggings
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DoxiBag: {
+	DisplayName: Paradox Traveler's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating a Dimension Traveler!'
+		'Don't try Paradox'
+		'''
+}
+
+DevSlinkyHead: {
+	DisplayName: Slinky's Bow Hairpin
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DevSlinkyBody: {
+	DisplayName: Slinky's Dark Top
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DevSlinkyLegs: {
+	DisplayName: Slinky's Dark Pants
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+FinityDye: {
+	DisplayName: Finity Dye
+	Tooltip:
+		'''
+		'Great for impersonating Ancients Awakened Devs!'
+		'Make vanity yours!'
+		'''
+}
+
+BurningGelWand: {
+	DisplayName: Flaming Gel Wand
+	Tooltip: Fires sticky globs of burning gel
+}
+
+ClawCast: {
+	DisplayName: Claw Caster
+	Tooltip:
+		'''
+		Creates phantom claws to slash your enemies
+		'The pages are all hand signals'
+		'''
+}
+
+ManaFlower: {
+	DisplayName: Mana Bloom
+	Tooltip: "'Smells wonderful'"
+}
+
+PinkGelWand: {
+	DisplayName: Bouncing Gel Wand
+	Tooltip: Fires bouncy globs of burning gel
+}
+
+StargazersJournal: {
+	DisplayName: Stargazer's Journal
+	Tooltip: Summons fallen stars to the cursor position
+}
+
+BleedingBone: {
+	DisplayName: Bleeding Bone
+	Tooltip: ""
+}
+
+BogwoodSword: {
+	DisplayName: Bogwood Katana
+	Tooltip: ""
+}
+
+CosmicCutter: {
+	DisplayName: Cosmic Cutter
+	Tooltip: Fires a piercing star when hitting enemies
+}
+
+FryingPan: {
+	DisplayName: Frying Pan
+	Tooltip: "'Excessive use may lead to ear damage.'"
+}
+
+GoldFryingPan: {
+	DisplayName: Golden Frying Pan
+	Tooltip: "'An exceptionally rare find'"
+}
+
+RazewoodSword: {
+	DisplayName: Razewood Machete
+	Tooltip: ""
+}
+
+TwinTalons: {
+	DisplayName: Twin Talons
+	Tooltip:
+		'''
+		Left Click to throw a barrage of punches
+		Right Click to slash horizontally
+		'''
+}
+
+YoinkySploinky: {
+	DisplayName: The Yoinky Sploinky
+	Tooltip: "'The madness seeps ever deeper'"
+}
+
+BogwoodBow: {
+	DisplayName: Bogwood Longbow
+	Tooltip: ""
+}
+
+HeavenlyString: {
+	DisplayName: Heavenly String
+	Tooltip: Converts wooden arrows into jester arrows
+}
+
+RazewoodBow: {
+	DisplayName: Razewood Bow
+	Tooltip: ""
+}
+
+Vehemence: {
+	DisplayName: Vehemence
+	Tooltip: Converts musket bullets into Dragon rounds
+}
+
+Vice: {
+	DisplayName: Vice
+	Tooltip: Converts musket bullets into Hydra rounds
+}
+
+VnV: {
+	DisplayName: Vice & Vehemence
+	Tooltip:
+		'''
+		Alternates between Dragon and Hydra shots
+		Right Click to separate
+		'''
+}
+
+CrimsonStaff: {
+	DisplayName: Hematemesis
+	Tooltip: Summons a Crimera to fight for you
+}
+
+DemoniteStaff: {
+	DisplayName: Shadow Maw
+	Tooltip: Summons an Eater to fight for you
+}
+
+HelpingHands: {
+	DisplayName: Helping Hands
+	Tooltip: Summons a pair of Hands to fight for you
+}
+
+Nightcrawler: {
+	DisplayName: Nightcrawler Clawer
+	Tooltip:
+		'''
+		4 summon tag damage
+		Your summons will focus struck enemies
+		Cause damaging stars to fall on hit
+		'''
+}
+
+TwinkleStaff: {
+	DisplayName: Twinkle Staff
+	Tooltip: Summons a little star to fight for you
+}
+
+Worms: {
+	DisplayName: Bundle of Worms
+	Tooltip:
+		'''
+		4 summon tag damage
+		Your summons will focus struck enemies
+		'Incoming!'
+		'''
+}
+
+Fungrock: {
+	DisplayName: Fungrock
+	Tooltip: ""
+}
+
+Rott: {
+	DisplayName: Rott
+	Tooltip: ""
+}
+
+BlightShroom: {
+	DisplayName: Blighted Mushroom
+	Tooltip: ""
+}
+
+ToadTrophy: {
+	DisplayName: Truffle Toad Trophy
+	Tooltip: ""
+}
+
+ToadMask: {
+	DisplayName: Truffle Toad Mask
+	Tooltip: ""
+}
+
+TruffleTongue: {
+	DisplayName: Truffle Tongue
+	Tooltip:
+		'''
+		4 summon tag damage
+		Your summons will focus struck enemies
+		May confuse enemies
+		'''
+}
+
+Frogeyes: {
+	DisplayName: Frogeyes
+	Tooltip:
+		'''
+		Throws two yoyos at once
+		May confuse enemies
+		'''
+}
+
+FungalFrag: {
+	DisplayName: Fungal Frag
+	Tooltip:
+		'''
+		A small explosion that leaves lingering spores
+		May poison enemies
+		'''
+}
+
+SporeBloon: {
+	DisplayName: Spore Balloon
+	Tooltip:
+		'''
+		Hold and release clouds of damaging spores
+		May poison enemies
+		'''
+}
+
+FrogSpawn: {
+	DisplayName: Glowing Frog Spawn
+	Tooltip:
+		'''
+		Summons the Truffle Toad
+		'You can faintly see something writhing within'
+		'''
+}
+
+FatPixieBanner: {
+	DisplayName: Fat Pixie Banner
+	Tooltip: Nearby players get a bonus against: Fat Pixie
+}
+
+BlightSeeds: {
+	DisplayName: Blighted Seeds
+	Tooltip: Plants blighted grass on rott
+}
+
+HalmEars: {
+	DisplayName: Halm Ears
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+HalmHoodie: {
+	DisplayName: Halm Hoodie
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+HalmJeans: {
+	DisplayName: Halm Jeans
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+HalmTail: {
+	DisplayName: Halm Tail
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+WeirdCat: {
+	DisplayName: Weird Cat
+	Tooltip:
+		'''
+		mom come pick me up im scared
+		'All the essentials for impersonating !!??'
+		'''
+}
+
+Slingshot: {
+	DisplayName: Slingshot
+	Tooltip: Uses spiky balls as ammo
+}
+
+GoblinBreastplate: {
+	DisplayName: Goblin Breastplate
+	Tooltip: ""
+}
+
+GoblinGreaves: {
+	DisplayName: Goblin Greaves
+	Tooltip: ""
+}
+
+GoblinRangerHat: {
+	DisplayName: Goblin Ranger Hat
+	Tooltip:
+		'''
+		12% increased ranged damage
+		8% increased ranged crit strike chance
+		'''
+}
+
+GoblinWarriorHelmet: {
+	DisplayName: Goblin Warrior Helmet
+	Tooltip:
+		'''
+		12% increased melee damage
+		10% increased melee speed
+		'''
+}
+
+MonarchRelic: {
+	DisplayName: Mushroom Monarch Relic
+	Tooltip: ""
+}
+
+MonarchMask: {
+	DisplayName: Mushroom Monarch Mask
+	Tooltip: ""
+}
+
+MycelialThumper: {
+	DisplayName: Mycelial Thumper
+	Tooltip:
+		'''
+		Uses mushrooms as ammo
+		Different kinds of mushrooms have varying effects
+		'''
+}
+
+MushroomAmmo: {
+	DisplayName: Mushroom Ammo
+	Tooltip: ""
+}
+
+LeechingFungus: {
+	DisplayName: Leeching Fungus
+	Tooltip:
+		'''
+		Killing enemies will temporarily boost your HP with a maximum increase of 10%
+		Extra HP depletes overtime
+		Recover life when killing an enemy
+		'''
+}
+
+FeastingTubes: {
+	DisplayName: Feasting Tubes
+	Tooltip: Latches onto enemies to sap their life
+}
+
+Derooter: {
+	DisplayName: Derooter
+	Tooltip: ""
+}
+
+StemSmacker: {
+	DisplayName: Stem Smacker
+	Tooltip: ""
+}
+
+StipeShot: {
+	DisplayName: Stipe Shot
+	Tooltip: May convert wooden arrows into blighted mushrooms
+}
+
+BioticAssimilator: {
+	DisplayName: Biotic Assimilator
+	Tooltip: Used to craft and combine items from biological matter
+}
+
+Biomass: {
+	DisplayName: Condensed Biomass
+	Tooltip: A grotesque amalgamation of organic material
+}
+
+RoomMusher: {
+	DisplayName: Room Musher
+	Tooltip: ""
+}
+
+ShroomSaber: {
+	DisplayName: Shroom Saber
+	Tooltip: Inflicts Infested Blue
+}
+
+GlowBow: {
+	DisplayName: Glow Bow
+	Tooltip: May convert wooden arrows into glowing mushrooms
+}
+
+BioticBreastplate: {
+	DisplayName: Biotic Breastplate
+	Tooltip: Increases max life by 10
+}
+
+BioticGreaves: {
+	DisplayName: Biotic Greaves
+	Tooltip: Increases max life by 10
+}
+
+BioticHelmet: {
+	DisplayName: Biotic Helmet
+	Tooltip:
+		'''
+		Increases max life by 10
+		2% increased critical strike chance
+		'''
+}
+
+ToadBrain: {
+	DisplayName: Glowing Brain
+	Tooltip: "'You feel it vibrating in your hand'"
+}
+
+MonarchHeart: {
+	DisplayName: Blighted Heart
+	Tooltip: "'You feel it pulsing in your hand'"
+}
+
+SaprophyteString: {
+	DisplayName: Saprophyte String
+	Tooltip: Converts wooden arrows into glowing or blighted mushrooms
+}
+
+RootMasher: {
+	DisplayName: Root Masher
+	Tooltip: ""
+}
+
+ShadowflameDimbolt: {
+	DisplayName: Shadowflame Dimbolt
+	Tooltip: Fires a chaos ball that passes through tiles
+}
+
+CranialThorn: {
+	DisplayName: Cranial Thorn
+	Tooltip: Throws a large spike that breaks into shrapnel
+}
+
+BlightshroomStew: {
+	DisplayName: Blightshroom Stew
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'They're safe to eat after being boiled. Probably. Hopefully.'
+		'''
+}
+
+NastyPatty: {
+	DisplayName: Nasty Patty
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'We killed The Health Inspector!'
+		'''
+}
+
+Chordyceps: {
+	DisplayName: Chordyceps
+	Tooltip:
+		'''
+		Right click to play normally
+		'It still needs tuning'
+		'''
+}
+
+FesteringSkewer: {
+	DisplayName: Festering Skewer
+	Tooltip: Summons Festering Skin to impale grounded enemies
+}
+
+Brasshroom: {
+	DisplayName: Truffle Trumpet
+	Tooltip:
+		'''
+		Right click to play normally
+		'It still needs tuning'
+		'''
+}
+
+SerbBag: {
+	DisplayName: The Nefarious White
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating the Nefarious White!'
+		It pleads for mercy, do not listen.
+		'''
+}
+
+SerbBody: {
+	DisplayName: Nefarious White's Body
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+SerbHead: {
+	DisplayName: Nefarious White's Head
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+SerbLeggings: {
+	DisplayName: Nefarious White's Legs
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DawnBag: {
+	DisplayName: Hyperactive Feline's Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating the Hyperactive Feline!'
+		'''
+}
+
+DawnBody: {
+	DisplayName: Hyperactive Feline's Shirt
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DawnHead: {
+	DisplayName: Hyperactive Feline's Mask
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+DawnLeggings: {
+	DisplayName: Hyperactive Feline's Leggings
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+AfungusPainting: {
+	DisplayName: Not My Son
+	Tooltip: "'D.B. Martin'"
+}
+
+Slashroom: {
+	DisplayName: Slashroom
+	Tooltip: ""
+}
+
+CopperPendant: {
+	DisplayName: Copper Pendant
+	Tooltip: 2% increased crit chance
+}
+
+OrderBottleBlade: {
+	DisplayName: Order Bottle Blade
+	Tooltip: Extremely fragile
+}
+
+BrokenOrderBottleBlade: {
+	DisplayName: Order Bottle Blade (Broken)
+	Tooltip:
+		'''
+		Flings glass shards and Order Solution droplets when swung
+		Droplets deal extra damage against chaotic beings
+		'''
+}
+
+CopperCapper: {
+	DisplayName: Copper Capper
+	Tooltip:
+		'''
+		Uses coins for ammo
+		Higher valued coins do more damage
+		'''
+}
+
+RottWall: {
+	DisplayName: Rott Wall
+	Tooltip: ""
+}
+
+RoyalEffigy: {
+	DisplayName: Royal Effigy
+	Tooltip:
+		'''
+		Used to refight the Mushroom Monarch
+		'A tribute to the parasite's lost host'
+		'''
+}
+
+HeartyTruffle: {
+	DisplayName: Hearty Truffle
+	Tooltip:
+		'''
+		Summons the Duke of Shroom
+		'A fungus among us.'
+		'''
+}
+
+BlightedPlatform: {
+	DisplayName: Blighted Platform
+	Tooltip: ""
+}
+
+TestBook: {
+	DisplayName: Book of Accomplishment
+	Tooltip: Left click to read
+}
+
+UndownerAA3: {
+	DisplayName: AA Unquester
+	Tooltip:
+		'''
+		Resets all AA quests
+		Non-Consumable
+		'''
+}
+
+MushladItem: {
+	DisplayName: Mushlad (Polka dot)
+	Tooltip: ""
+}
+
+BarbarosBell: {
+	DisplayName: Barbaros' Bell
+	Tooltip:
+		'''
+		Summons a magical golden monkey
+		'Ding ♪'
+		'''
+}
+
+ManaforcePotion: {
+	DisplayName: Manaforce Potion
+	Tooltip: Increases max mana by 20%
+}
+
+CommanderPotion: {
+	DisplayName: Commander Potion
+	Tooltip: Increases whip range
+}
+
+BogEel: {
+	DisplayName: Bog Eel
+	Tooltip: ""
+}
+
+FesteringHerring: {
+	DisplayName: Festering Herring
+	Tooltip: ""
+}
+
+FireTuna: {
+	DisplayName: Fire Tuna
+	Tooltip: ""
+}
+
+GlowingCarp: {
+	DisplayName: Glowing Carp
+	Tooltip: ""
+}
+
+RazewoodToilet: {
+	DisplayName: Razewood Toilet
+	Tooltip: ""
+}
+
+ReboundPotion: {
+	DisplayName: Rebound Potion
+	Tooltip: Grants an extra jump
+}
+
+RazewoodFence: {
+	DisplayName: Razewood Fence
+	Tooltip: ""
+}
+
+Bloomshroom: {
+	DisplayName: Bloomshroom
+	Tooltip: ""
+}
+
+WardenPainting: {
+	DisplayName: The Warden
+	Tooltip: "'T.I. M'"
+}
+
+BloomshroomSeeds: {
+	DisplayName: Bloomshroom Seeds
+	Tooltip: ""
+}
+
+HeartPowerPotion: {
+	DisplayName: Heart Power Potion
+	Tooltip: Increases healing of life hearts by 5
+}
+
+H: {
+	DisplayName: ""
+	Tooltip: ""
+}
+
+StarreachPotion: {
+	DisplayName: Starreach Potion
+	Tooltip: Increases pickup range for mana stars
+}
+
+ChillPotion: {
+	DisplayName: Chill Potion
+	Tooltip: Reduces damage from hot sources
+}
+
+CB: {
+	DisplayName: ""
+	Tooltip: ""
+}
+
+MushladBlackItem: {
+	DisplayName: Mushlad (Black)
+	Tooltip: ""
+}
+
+MushladBrownItem: {
+	DisplayName: Mushlad (Brown)
+	Tooltip: ""
+}
+
+ImitationBag: {
+	DisplayName: Imitation Monarch Bag
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'All the essentials for impersonating... Mushroom Monarch?'
+		'''
+}
+
+ImitationHood: {
+	DisplayName: Imitation Monarch Hood
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+ImitationRobe: {
+	DisplayName: Imitation Monarch Robe
+	Tooltip: "'Great for impersonating Ancients Awakened Devs!'"
+}
+
+BlightTorch: {
+	DisplayName: Blight Torch
+	Tooltip: ""
+}
+
+WiltingFibers: {
+	Tooltip: "'Smells foul'"
+	DisplayName: Wilting Fibers
+}
+
+FungoidHulkBanner: {
+	DisplayName: Fungoid Hulk Banner
+	Tooltip: Nearby players get a bonus against: Fungoid Hulk
+}
+
+CreeperVineBanner: {
+	DisplayName: Creeper Vine Banner
+	Tooltip: Nearby players get a bonus against: Creeper Vine
+}
+
+FungoidGruntBanner: {
+	DisplayName: Fungoid Grunt Banner
+	Tooltip: Nearby players get a bonus against: Fungoid Grunt
+}
+
+FungoidSwarmerBanner: {
+	DisplayName: Fungoid Swarmer Banner
+	Tooltip: Nearby players get a bonus against: Fungoid Swarmer
+}
+
+MushladBanner: {
+	DisplayName: Mushlad Banner
+	Tooltip: Nearby players get a bonus against: Mushlad
+}
+
+SplinterBanner: {
+	DisplayName: Splinter Banner
+	Tooltip: Nearby players get a bonus against: Splinter
+}
+
+WitherwingBanner: {
+	DisplayName: Witherwing Banner
+	Tooltip: Nearby players get a bonus against: Witherwing
+}
+
+BioticHamaxe: {
+	DisplayName: Biotic Hamaxe
+	Tooltip: ""
+}
+
+MonarchTrophy: {
+	DisplayName: Mushroom Monarch Trophy
+	Tooltip: ""
+}
+
+ShinyRing: {
+	DisplayName: Shiny Ring
+	Tooltip: 2% increased damage
+}
+
+CancroidAccordian: {
+	DisplayName: Cancroid Accordion
+	Tooltip:
+		'''
+		Right click to change pitches
+		'A cacophony of chaotic chords'
+		'''
+}
+
+Plumeshroom: {
+	DisplayName: Plumeshroom
+	Tooltip: Summons a large mushroom to release harmful spores
+}
+
+BlightCrate: {
+	DisplayName: Blighted Crate
+	Tooltip: Right click to open
+}
+
+MushladStaff: {
+	DisplayName: Madlad Staff
+	Tooltip: Summons aggressive Mushlads to fight for you
+}
+
+SporovidStaff: {
+	DisplayName: Sporovid Staff
+	Tooltip:
+		'''
+		Summons a conjoined mushroom to fight for you
+		Requires 2 minion slots
+		'''
+}
+
+VolcanicPupfish: {
+	DisplayName: Volcanic Pupfish
+	Tooltip: ""
+}
+
+FrogspawnBottle: {
+	DisplayName: Frogspawn in a Bottle
+	Tooltip:
+		'''
+		Summons a Fungal Froglet to provide light
+		'Make sure you give it plenty of sunlight'
+		'''
+}
+
+StemCell: {
+	DisplayName: Stem Cell
+	Tooltip: Increases the potency of healing items by 10%
+}
+
+TruffleLeg: {
+	DisplayName: Truffle Leg
+	Tooltip:
+		'''
+		Increases jump speed and fall resistance
+		Hold Down to fall faster
+		'''
+}
+
+GoldenHunterPainting: {
+	DisplayName: "'The Golden Hunter'"
+	Tooltip:
+		'''
+		The artist is unknown
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+AdventurersNotebook: {
+	DisplayName: Adventurer's Notebook
+	Tooltip:
+		'''
+		All pages are illegible except the final one
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+RegalRapier: {
+	DisplayName: Regal Rapier
+	Tooltip: ""
+}
+
+PerishedRose: {
+	DisplayName: Perished Rose
+	Tooltip:
+		'''
+		A flower that was somehow spared from infection
+		Wilting and dry, yet it still clings to life
+		It holds no value aside from sentiment
+		'''
+}
+
+MessageInABottle: {
+	DisplayName: Message in a Bottle
+	Tooltip:
+		'''
+		An aged sheet of parchment paper sits inside the bottle
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+Tumor: {
+	DisplayName: Tumor Block
+	Tooltip: ""
+}
+
+TumorWall: {
+	DisplayName: Tumor Wall
+	Tooltip: ""
+}
+
+ArrestBounty: {
+	DisplayName: Bounty for Arrest
+	Tooltip:
+		'''
+		The portait of a female soldier is drawn on the front
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+TradeNotice: {
+	DisplayName: Notice of Trade
+	Tooltip:
+		'''
+		A formal message declaring the termination of a trade deal
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+Terathrowma: {
+	DisplayName: Terathrowma
+	Tooltip: Drips pus onto enemies
+}
+
+HandMortar: {
+	DisplayName: Hand Mortar
+	Tooltip: Uses grenades as ammo
+}
+
+InfestedHalberd: {
+	DisplayName: Infested Halberd
+	Tooltip: ""
+}
+
+ClusterGrenade: {
+	DisplayName: Cluster Grenade
+	Tooltip:
+		'''
+		Explodes into multiple smaller grenades
+		Mini grenades will not destroy tiles
+		'''
+}
+
+Bilethrower: {
+	DisplayName: Bilethrower
+	Tooltip:
+		'''
+		Uses mushrooms as ammo
+		Ignores 5 points of enemy Defense
+		'''
+}
+
+BlightWormBanner: {
+	DisplayName: Blight Worm Banner
+	Tooltip: Nearby players get a bonus against: Blight Worm
+}
+
+TumoroidMawBanner: {
+	DisplayName: Tumoroid Maw Banner
+	Tooltip: Nearby players get a bonus against: Tumoroid Maw
+}
+
+TumoroidSentryBanner: {
+	DisplayName: Tumoroid Sentry Banner
+	Tooltip: Nearby players get a bonus against: Tumoroid Sentry
+}
+
+TumoroidSpewerBanner: {
+	DisplayName: Tumoroid Spewer Banner
+	Tooltip: Nearby players get a bonus against: Tumoroid Spewer
+}
+
+FlamebruteBanner: {
+	DisplayName: Flamebrute Banner
+	Tooltip: Nearby players get a bonus against: Flamebrute
+}
+
+DragonCape: {
+	DisplayName: Dragon Cape
+	Tooltip: ""
+}
+
+HydraNecklace: {
+	DisplayName: Hydra Necklace
+	Tooltip: ""
+}
+
+MosquitoWing: {
+	DisplayName: Mosquito Wing
+	Tooltip: ""
+}
+
+CragShell: {
+	DisplayName: Crag Shell
+	Tooltip: ""
+}
+
+ScorchedEgg: {
+	DisplayName: Scorched Egg
+	Tooltip: ""
+}
+
+LivingEmberItem: {
+	DisplayName: Living Ember
+	Tooltip: ""
+}
+
+AbyssiumBar: {
+	DisplayName: Crude Scalemail
+	Tooltip: ""
+}
+
+BeastScales: {
+	DisplayName: Beast Scales
+	Tooltip: ""
+}
+
+DragonScale: {
+	DisplayName: Dragon Scale
+	Tooltip: ""
+}
+
+FishSkin: {
+	DisplayName: Fish Skin
+	Tooltip: ""
+}
+
+IncineriteBar: {
+	DisplayName: Incinerite Bar
+	Tooltip: ""
+}
+
+IncineriteOre: {
+	DisplayName: Incinerite Ore
+	Tooltip: ""
+}
+
+LurkerHide: {
+	DisplayName: Lurker Hide
+	Tooltip: ""
+}
+
+MonsterTeeth: {
+	DisplayName: Monster Teeth
+	Tooltip: ""
+}
+
+ScorchedScale: {
+	DisplayName: Scorched Scale
+	Tooltip: ""
+}
+
+FlamespitterBanner: {
+	DisplayName: Flamespitter Banner
+	Tooltip: ""
+}
+
+GiantMosquitoBanner: {
+	DisplayName: Giant Mosquito Banner
+	Tooltip: ""
+}
+
+KomodoBanner: {
+	DisplayName: Komodo Banner
+	Tooltip: ""
+}
+
+WyrmlingBanner: {
+	DisplayName: Wyrmling Banner
+	Tooltip: ""
+}
+
+AncientBogwood: {
+	DisplayName: Ancient Bogwood
+	Tooltip: ""
+}
+
+AncientRazewood: {
+	DisplayName: Ancient Razewood
+	Tooltip: ""
+}
+
+IncineriteBrick: {
+	DisplayName: Incinerite Brick
+	Tooltip: ""
+}
+
+TorchAsh: {
+	DisplayName: Volcanic Ash
+	Tooltip: ""
+}
+
+Torchice: {
+	DisplayName: Snowflake Obsidian
+	Tooltip: ""
+}
+
+BroodmotherRelic: {
+	DisplayName: Broodmother Relic
+	Tooltip: ""
+}
+
+BroodmotherTrophy: {
+	DisplayName: Broodmother Trophy
+	Tooltip: ""
+}
+
+SwamplurkerRelic: {
+	DisplayName: Swamplurker Relic
+	Tooltip: ""
+}
+
+SwamplurkerTrophy: {
+	DisplayName: Swamplurker Trophy
+	Tooltip: ""
+}
+
+AncientBogwoodWall: {
+	DisplayName: Ancient Bogwood Wall
+	Tooltip: ""
+}
+
+AncientRazewoodWall: {
+	DisplayName: Ancient Razewood Wall
+	Tooltip: ""
+}
+
+IncineriteBrickWall: {
+	DisplayName: Incinerite Brick Wall
+	Tooltip: ""
+}
+
+Lantern: {
+	DisplayName: Lantern
+	Tooltip: ""
+}
+
+BroodmotherTreasureBag: {
+	DisplayName: Broodmother Treasure Bag
+	Tooltip: ""
+}
+
+SwamplurkerTreasureBag: {
+	DisplayName: Swamplurker Treasure Bag
+	Tooltip: ""
+}
+
+BroodmotherMask: {
+	DisplayName: Broodmother Mask
+	Tooltip: ""
+}
+
+SwamplurkerMask: {
+	DisplayName: Swamplurker Mask
+	Tooltip: ""
+}
+
+HeatersMaw: {
+	DisplayName: Heaters Maw
+	Tooltip: ""
+}
+
+Pyrosphere: {
+	DisplayName: Pyrosphere
+	Tooltip: ""
+}
+
+Railjaw: {
+	DisplayName: Railjaw
+	Tooltip: ""
+}
+
+TriheadLongbow: {
+	DisplayName: Trihead Longbow
+	Tooltip: ""
+}
+
+InfernoRubble: {
+	Tooltip: ""
+	DisplayName: Inferno Rubble
+}
+
+IncineriteHelmet: {
+	DisplayName: Blazing Monk Hat
+	Tooltip:
+		'''
+		10% increased magic and minion damage
+		Increases whip range by 10%
+		'''
+}
+
+IncineriteChestplate: {
+	DisplayName: Blazing Monk Gown
+	Tooltip:
+		'''
+		8% increased magic and minion damage
+		Increases your max number of minions by 1
+		'''
+}
+
+IncineriteBoots: {
+	DisplayName: Blazing Monk Skirt
+	Tooltip: Increases your max number of sentries by 1
+}
+
+DragonBullet: {
+	Tooltip: ""
+	DisplayName: Dragon Bullet
+}
+
+DragonArrow: {
+	Tooltip: Arrows ignore drag and soar through the air.
+	DisplayName: Dragon Arrow
+}
+
+BurningStaff: {
+	DisplayName: Burning Staff
+	Tooltip: Summons a flaming mass at the cursor. Unstably erupts projectiles at close enemies before exploding.
+}
+
+DragonsBreath: {
+	DisplayName: Dragons Breath
+	Tooltip: ""
+}
+
+DragonClaws: {
+	DisplayName: Dragon Claws
+	Tooltip: Left click to unleash a flurry of flaming strikes. Right click to perform a dash slash closing the distance.
+}
+
+FlamingFury: {
+	DisplayName: Flaming Fury
+	Tooltip: ""
+}
+
+Incineration: {
+	DisplayName: Incineration
+	Tooltip: Slamming against enemies charges heat in the weapon. Upon fully building it releases an explosion at the yo-yo's position and returns.
+}
+
+DragonFlamebow: {
+	DisplayName: Dragon Flamebow
+	Tooltip: ""
+}
+
+SearingGuard: {
+	DisplayName: Searing Guard
+	Tooltip:
+		'''
+		3 defense
+		Immunity to On Fire!
+		Release a pulse of heat upon taking damage
+		'''
+}
+
+Kusarigama: {
+	Tooltip: ""
+	DisplayName: Kusarigama
+}
+
+ThrowingPickaxe: {
+	Tooltip: ""
+	DisplayName: Throwing Pickaxe
+}
+
+Spluttershot: {
+	Tooltip: ""
+	DisplayName: Spluttershot
+}
+
+SmokeBomb: {
+	Tooltip: ""
+	DisplayName: Smog Bomb
+}
+
+Fukiya: {
+	Tooltip: ""
+	DisplayName: Fukiya
+}
+
+SacrificialKnife: {
+	Tooltip: Right click to charge with blood causing it to do more damage at the cost of health
+	DisplayName: Sacrificial Knife
+}
+
+ExilesKatana: {
+	Tooltip: ""
+	DisplayName: Exiles Katana
+}
+
+Daisho: {
+	Tooltip: ""
+	DisplayName: Daisho
+}
+
+RootWand: {
+	Tooltip: Binds enemies in roots
+	DisplayName: Root Wand
+}
+
+BogwoodPike: {
+	Tooltip: ""
+	DisplayName: Bogwood Pike
+}
+
+ScalemailHelmet: {
+	DisplayName: Scalemail Helmet
+	Tooltip: 10% increased melee and ranged damage
+}
+
+ScalemailGreaves: {
+	DisplayName: Scalemail Greaves
+	Tooltip: 18% increased movement speed
+}
+
+ScalemailBreastplate: {
+	DisplayName: Scalemail Breastplate
+	Tooltip:
+		'''
+		8% increased melee and ranged damage
+		Attackers also take damage
+		'''
+}
+
+AshigaruCap: {
+	DisplayName: Ashigaru Cap
+	Tooltip: Enemies are less likely to target you
+}
+
+AshigaruBreastplate: {
+	DisplayName: Ashigaru Gown
+	Tooltip: Increases fishing power by 6
+}
+
+AshigaruBoots: {
+	DisplayName: Ashigaru Boots
+	Tooltip: Increases fishing power by 7
+}
+
+ToothDart: {
+	Tooltip: ""
+	DisplayName: Tooth Dart
+}
+
+SmallMirePod: {
+	Tooltip: ""
+	DisplayName: Small Mire Pod
+}
+
+HydraBullet: {
+	Tooltip: ""
+	DisplayName: Hydra Bullet
+}
+
+IronPike: {
+	DisplayName: Iron Pike
+	Tooltip: ""
+}
+
+LeadPike: {
+	DisplayName: Lead Pike
+	Tooltip: ""
+}
+
+MushladTerrarium: {
+	DisplayName: Mushlad Terrarium
+	Tooltip: ""
+}
+
+BrownMushladTerrarium: {
+	DisplayName: Brown Mushlad Terrarium
+	Tooltip: ""
+}
+
+GreyMushladTerrarium: {
+	DisplayName: Grey Mushlad Terrarium
+	Tooltip: ""
+}
+
+FungrockBrick: {
+	DisplayName: Fungrock Brick
+	Tooltip: ""
+}
+
+FungrockBrickWall: {
+	DisplayName: Fungrock Brick Wall
+	Tooltip: ""
+}
+
+InfernoTable: {
+	DisplayName: Inferno Table
+	Tooltip: ""
+}
+
+DevPlacementTool: {
+	DisplayName: Dev Placement Tool
+	Tooltip: ""
+}
+
+IncineriteDrillHead: {
+	DisplayName: Incinerite Drill Head
+	Tooltip:
+		'''
+		A piece of mining equipment from a more advanced civilisation
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+UnderworldRelic: {
+	DisplayName: Underworld Relic
+	Tooltip:
+		'''
+		Appears to be a landmark dedicated to an unknown figure
+		Someone with historical knowledge may be interested in this
+		'''
+}
+
+BlightCampfire: {
+	DisplayName: Blight Campfire
+	Tooltip: ""
+}
+
+FungrockWall: {
+	DisplayName: Fungrock Wall
+	Tooltip: ""
+}
+
+Bogroot: {
+	DisplayName: Bogroot
+	Tooltip: ""
+}
+
+BogwoodFence: {
+	DisplayName: Bogwood Fence
+	Tooltip: ""
+}
+
+BogrootWall: {
+	DisplayName: Bogroot Wall
+	Tooltip: ""
+}
+
+Cinderock: {
+	DisplayName: Cinderock
+	Tooltip: Magic weapons shoot a fireball every 4th use
+}
+
+StewardGuardHelmet: {
+	Tooltip: ""
+	DisplayName: Steward Guard Helmet
+}
+
+StewardGuardGreaves: {
+	Tooltip: ""
+	DisplayName: Steward Guard Greaves
+}
+
+StewardGuardChainmail: {
+	Tooltip: ""
+	DisplayName: Steward Guard Chainmail
+}
+
+ObsidianGolemBanner: {
+	DisplayName: Obsidian Golem Banner
+	Tooltip: Nearby players get a bonus against: Obsidian Golem
+}
+
+WillowWispItem: {
+	DisplayName: Willow Wisp
+	Tooltip: ""
+}
+
+HotCoal: {
+	Tooltip: ""
+	DisplayName: Hot Coal
+}
+
+AnguishedCoalsBanner: {
+	DisplayName: Anguished Coals Banner
+	Tooltip: Nearby players get a bonus against: Anguished Coals
+}
+
+TwistedRootBanner: {
+	Tooltip: ""
+	DisplayName: Twisted Root Banner
+}
+
+TerrorvineBanner: {
+	Tooltip: ""
+	DisplayName: Terrorvine Banner
+}
+
+RootSuckerBanner: {
+	Tooltip: ""
+	DisplayName: Root Sucker Banner
+}
+
+LongneckBanner: {
+	Tooltip: ""
+	DisplayName: Longneck Banner
+}
+
+DepthstalkerBanner: {
+	DisplayName: Depthstalker Banner
+	Tooltip: ""
+}
+
+OilSlimeBanner: {
+	DisplayName: Oil Slime Banner
+	Tooltip: ""
+}
+
+MireBearTrap: {
+	DisplayName: Bear Trap
+	Tooltip: ""
+}
+
+ShrapnelOfTeeth: {
+	DisplayName: Shrapnel Of Teeth
+	Tooltip: ""
+}
+
+TerrorvineWhip: {
+	DisplayName: Terrorvine Whip
+	Tooltip: ""
+}
+
+HydraArrow: {
+	DisplayName: Hydra Arrow
+	Tooltip: Arrows split in two
+}
+
+Torchsandstone: {
+	DisplayName: Torchsandstone
+	Tooltip: ""
+}
+
+TorchAshWall: {
+	DisplayName: Volcanic Ash Wall
+	Tooltip: ""
+}
+
+TorchiceWall: {
+	DisplayName: Snowflake Obsidian Wall
+	Tooltip: ""
+}
+
+HardenedTorchsandWall: {
+	DisplayName: Hardened Torchsand Wall
+	Tooltip: ""
+}
+
+TorchsandstoneWall: {
+	DisplayName: Torchsandstone Wall
+	Tooltip: ""
+}
+
+Crossbow: {
+	DisplayName: Crossbow
+	Tooltip: ""
+}
+
+VialOfResentment: {
+	DisplayName: Vial of Resentment
+	Tooltip:
+		'''
+		Summons the Dread Moon
+		'A hydra never forgets.'
+		'''
+}
+
+UrnOfRemembrance: {
+	DisplayName: Urn of Remembrance
+	Tooltip:
+		'''
+		Summons the Mourning Sun
+		'Dragons are highly emotional creatures.'
+		'''
+}
+
+HydravenomGland: {
+	DisplayName: Hydravenom Gland
+	Tooltip: 50% increased critical strike damage
+}
+
+IncineriteTower: {
+	Tooltip: ""
+	DisplayName: Incinerite Tower
+}
+
+MusblightGrassWall: {
+	Tooltip: ""
+	DisplayName: Musblight Grass Wall
+}
+
+BlightedMushroomWall: {
+	Tooltip: ""
+	DisplayName: Blighted Mushroom Wall
+}
+
+SullenwoodHuskBanner: {
+	Tooltip: ""
+	DisplayName: Sullenwood Husk Banner
+}
+
+Eruptor: {
+	Tooltip: ""
+	DisplayName: Eruptor
+}
+
+SicknessTonic: {
+	Tooltip: Grants immunity to poison and venom
+	DisplayName: Sickness Tonic
+}
+
+CoagulantTonic: {
+	Tooltip: Halves the duration of poison-related debuffs
+	DisplayName: Coagulant Tonic
+}
+
+SuperSpicyCurry: {
+	DisplayName: Super Spicy Curry
+	Tooltip: Causes you to breathe fire at enemies
+}
+
+MagmaSpriteBanner: {
+	Tooltip: ""
+	DisplayName: Magma Sprite Banner
+}
+
+SmoulderingTonic: {
+	Tooltip: Grants immunity to Burning! and On Fire!
+	DisplayName: Smouldering Tonic
+}
+
+AccursedBlade: {
+	DisplayName: Accursed Blade
+	Tooltip:
+		'''
+		Right click to fire accursed blood for 20 mana
+		Foes struck by the blood take more damage from the blade
+		'''
+}
+
+GraveHand: {
+	DisplayName: Grave Hand
+	Tooltip:
+		'''
+		Hold Right Click to sap the life of enemies near you, dealing magic damage at the cost of a movement penalty
+		'Do you believe in ghosts?'
+		'''
+}
+
+TheKnife: {
+	DisplayName: The Knife
+	Tooltip: ""
+}
+
+BlightedBathtub: {
+	DisplayName: Blighted Bathtub
+	Tooltip: ""
+}
+
+BlightedBed: {
+	DisplayName: Blighted Bed
+	Tooltip: ""
+}
+
+BlightedBookcase: {
+	DisplayName: Blighted Bookcase
+	Tooltip: ""
+}
+
+BlightedCandelabra: {
+	DisplayName: Blighted Candelabra
+	Tooltip: ""
+}
+
+BlightCandle: {
+	DisplayName: Blight Candle
+	Tooltip: ""
+}
+
+BlightedChair: {
+	DisplayName: Blighted Chair
+	Tooltip: ""
+}
+
+BlightedChandelier: {
+	DisplayName: Blighted Chandelier
+	Tooltip: ""
+}
+
+BlightedClock: {
+	DisplayName: Blighted Clock
+	Tooltip: ""
+}
+
+BlightedDoor: {
+	DisplayName: Blighted Door
+	Tooltip: ""
+}
+
+BlightedDresser: {
+	DisplayName: Blighted Dresser
+	Tooltip: ""
+}
+
+Cranberries: {
+	DisplayName: Cranberries
+	Tooltip: ""
+}
+
+Roselle: {
+	DisplayName: Roselle
+	Tooltip: ""
+}
+
+Salak: {
+	DisplayName: Salak
+	Tooltip: ""
+}
+
+WaterChestnut: {
+	DisplayName: Water Chestnut
+	Tooltip: ""
+}
+
+BlightedLamp: {
+	DisplayName: Blighted Lamp
+	Tooltip: ""
+}
+
+BlightedLantern: {
+	DisplayName: Blighted Lantern
+	Tooltip: ""
+}
+
+BlightedPiano: {
+	DisplayName: Blighted Piano
+	Tooltip: ""
+}
+
+BlightedSink: {
+	DisplayName: Blighted Sink
+	Tooltip: ""
+}
+
+BlightedSofa: {
+	DisplayName: Blighted Sofa
+	Tooltip: ""
+}
+
+BlightedTable: {
+	DisplayName: Blighted Table
+	Tooltip: ""
+}
+
+BlightedToilet: {
+	DisplayName: Blighted Toilet
+	Tooltip: ""
+}
+
+BlightedWorkbench: {
+	DisplayName: Blighted Workbench
+	Tooltip: ""
+}
+
+TwistedBracer: {
+	DisplayName: Twisted Bracer
+	Tooltip: Causes protective vines to sprout from the user, they sap life upon hitting enemies
+}
+
+MireStargazer: {
+	DisplayName: Mire Stargazer
+	Tooltip: Right-Click to skin
+}
+
+ShinyCrappie: {
+	DisplayName: Shiny Crappie
+	Tooltip: ""
+}
+
+AcidGar: {
+	DisplayName: Acid Gar
+	Tooltip: Right-Click to skin
+}
+
+BloatedBluegill: {
+	DisplayName: Bloated Bluegill
+	Tooltip: Right-Click to skin
+}
+
+DwellerFish: {
+	DisplayName: Dweller Fish
+	Tooltip: ""
+}
+
+Moonfish: {
+	DisplayName: Moonfish
+	Tooltip: Right-Click to get fallen stars!
+}
+
+Whiskerfish: {
+	DisplayName: Whiskerfish
+	Tooltip: Right-Click to skin
+}
+
+SkinnedFish: {
+	DisplayName: Skinned Fish
+	Tooltip: Minor improvements to all stats
+}
+
+WickedNeckpiece: {
+	Tooltip:
+		'''
+		7% Increased critical strike chance 
+		Upon hitting a crit with a bow receive an increase to its fire rate for the next 7 seconds 
+		Within in this period you cannot crit and this goes on cooldown for 7 seconds afterward
+		'''
+	DisplayName: Wicked Neckpiece
+}

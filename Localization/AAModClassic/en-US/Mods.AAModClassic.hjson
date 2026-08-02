@@ -1,0 +1,73 @@
+Keybinds: {
+	Rifthotkey: Rift Home
+	RiftReturnhotkey: Rift Back
+	AccessoryAbilityKey: AA Accessory Ability
+	ArmorAbilityKey: AA Armor Ability
+
+	Mods: {
+		AAModClassic: {
+			Keybinds: {
+				InfinityHotKey.DisplayName: Snap
+				Rifthotkey.DisplayName: Rift Home
+				RiftReturnhotkey.DisplayName: Rift Back
+				AccessoryAbilityKey.DisplayName: Accessory Ability
+				ArmorAbilityKey.DisplayName: Armor Ability
+				TimeStoneKey.DisplayName: Time Stone
+			}
+		}
+	}
+}
+
+Configs: {
+	AAConfigClient: {
+		DisplayName: AA Config Client
+
+		NoAATownNPC: {
+			Label: Disable AA Town NPCs
+			Tooltip: Disables this mod's town npcs from spawning, for those who'd prefer to have other npcs spawn quicker. Note: This does not affect Anubis due to him being key to progression.
+		}
+
+		NoBossDialogue: {
+			Label: Disable Boss Dialogue
+			Tooltip: Disables dialogue from bosses to prevent chatspam. Also makes animations that have boss dialogue go by a little quicker.
+		}
+
+		DisableNewAAReminderMessage: {
+			Label: Disable Ancients Awakened Reminder Message
+			Tooltip: Disables the reminder message on world join to check out Ancients Awakened [BETA].
+		}
+
+		EnableContentReplacement: {
+			Label: Enable Content Replacement
+			Tooltip: ""
+		}
+
+		AncientIntroText: {
+			Label: Boss Title Cards
+			Tooltip: Toggles the Title Cards that some later bosses display when spawned.
+		}
+
+		DisableAnticheat: {
+			Label: Disable Anticheat
+			Tooltip: Disables some of the mod's anti-cheat features.
+		}
+
+		DisablePinchThemes: {
+			Label: Disable Pinch Themes
+			Tooltip: Disables the theme that plays when endgame bosses are low on health.
+		}
+
+		HideIdentifiableInfo: {
+			Label: Hide Identifiable Info
+			Tooltip: Disables 4th wall breaking dialogue that makes use of personally identifiable information.
+		}
+	}
+}
+
+WorldBuild: {
+	Info1: Placing Chaos Altars
+	Info2: Spreading Chaos
+	Info3: Scorching the Inferno
+	Info4: Flooding the Mire
+	Info5: Constructing the Terrarium
+}

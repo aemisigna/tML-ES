@@ -1,0 +1,379 @@
+DarkmatterJackhammer: {
+	DisplayName: Martillo Perforador de Materia Oscura
+	Tooltip: ""
+}
+
+DarkmatterPitchet: {
+	DisplayName: Pico de Materia Oscura
+	Tooltip: ""
+}
+
+Terratool: {
+	DisplayName: Herramienta Terra
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+DoomiteMiningLaser: {
+	DisplayName: Láser Minero de Doomita
+	Tooltip: Extrae minerales con un láser de antimateria
+}
+
+FulguritePitchet: {
+	DisplayName: Pico de Fulgurita
+	Tooltip: ""
+}
+
+ExtravagantTerratool: {
+	DisplayName: Herramienta Terra Extravagante
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+GroviteTerratool: {
+	DisplayName: Herramienta Terra de Grovita
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+Terraformer: {
+	DisplayName: Transformador de Tierra
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		Herramienta Terra EX
+		'''
+}
+
+ChaosTerratool: {
+	DisplayName: Herramienta Terra de Caos
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+Timecaller: {
+	DisplayName: Invocador de Tiempo
+	Tooltip:
+		'''
+		Trae la siguiente luz.
+		No Consumible
+		'''
+}
+
+DiscordianTerratool: {
+	DisplayName: Herramienta Terra Discordante
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+Nightaxe: {
+	DisplayName: Hacha Nocturna
+	Tooltip: ""
+}
+
+TrueNightaxe: {
+	DisplayName: Hacha Nocturna Verdadera
+	Tooltip: ""
+}
+
+Scalpel: {
+	DisplayName: Escalpelo
+	Tooltip: ""
+}
+
+TrueScalpel: {
+	DisplayName: Escalpelo Verdadero
+	Tooltip: ""
+}
+
+Excavator: {
+	DisplayName: Excavador
+	Tooltip: ""
+}
+
+Toothpick: {
+	DisplayName: Palillo de Dientes
+	Tooltip: ""
+}
+
+GlowingMushmallet: {
+	DisplayName: Martillo de Champiñón Brillante
+	Tooltip: ""
+}
+
+GlowingMushpick: {
+	DisplayName: Pico de Champiñón Brillante
+	Tooltip: ""
+}
+
+UnityPickaxe: {
+	DisplayName: Pico de Unidad
+	Tooltip: Puede extraer mitril y oricalco.
+}
+
+MINEer: {
+	DisplayName: MINEro
+	Tooltip: Extrae minerales más rápido
+}
+
+Unearther: {
+	DisplayName: Desenterrador
+	Tooltip: Extrae minerales mucho más rápido
+}
+
+DragonDigger: {
+	DisplayName: Excavador de Dragón
+	Tooltip: Los dragones no cavan realmente, pero esto funcionará
+}
+
+Stonebreaker: {
+	DisplayName: Rompepiedras
+	Tooltip: ""
+}
+
+PerfectStonebreaker: {
+	DisplayName: Rompepiedras Perfecto
+	Tooltip: ""
+}
+
+ScorchShark: {
+	DisplayName: Tiburón Abrasador
+	Tooltip: ""
+}
+
+Suncaller: {
+	DisplayName: Invocador Solar
+	Tooltip:
+		'''
+		Trae el sol matutino.
+		No Consumible
+		'''
+}
+
+DraconianTerratool: {
+	DisplayName: Herramienta Terra Dracónica
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		+20 alcance de bloque
+		'''
+}
+
+Grasscutter: {
+	DisplayName: Cortador de Hierba
+	Tooltip: ""
+}
+
+MadnessAxe: {
+	DisplayName: Hacha de Locura
+	Tooltip: ""
+}
+
+MadnessHammer: {
+	DisplayName: Martillo de Locura
+	Tooltip: ""
+}
+
+MadnessPickaxe: {
+	DisplayName: Pico de Locura
+	Tooltip: ""
+}
+
+HydraTuneller: {
+	DisplayName: Perforador Hidra
+	Tooltip: Bien, esto se está volviendo ridículo. Las Hidras no usan taladros.
+}
+
+ShadowDrill: {
+	DisplayName: Taladro de Sombras
+	Tooltip: Extrae cosas con una cosa verde giratoria, supongo.
+}
+
+DepthDigger: {
+	DisplayName: Excavador de Profundidades
+	Tooltip: ""
+}
+
+Mooncaller: {
+	DisplayName: Invocador Lunar
+	Tooltip:
+		'''
+		Trae la luna brillante.
+		No Consumible
+		'''
+}
+
+PerfectShadowDrill: {
+	DisplayName: Taladro de Sombras Perfecto
+	Tooltip: Ahora sí se parece más.
+}
+
+DreadTerratool: {
+	DisplayName: Herramienta Terra de Terror
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+CoralAxe: {
+	DisplayName: Hacha de Coral
+	Tooltip: El hacha hecha del Océano
+}
+
+CoralPickaxe: {
+	DisplayName: Pico de Coral
+	Tooltip: Porque Pico Azul era un nombre aburrido
+}
+
+Mushmallet: {
+	DisplayName: Martillo de Champiñón
+	Tooltip: ""
+}
+
+Mushpick: {
+	DisplayName: Pico de Champiñón
+	Tooltip: ""
+}
+
+DragonPickaxe: {
+	DisplayName: Pico de Dragón
+	Tooltip: ""
+}
+
+Icepick: {
+	DisplayName: Pico de Hielo
+	Tooltip: ""
+}
+
+RadiumHammaxe: {
+	DisplayName: Hacha-Martillo de Radio
+	Tooltip: ""
+}
+
+Starminer: {
+	DisplayName: Minero Estelar
+	Tooltip: ""
+}
+
+RiftMirror: {
+	DisplayName: Espejo de Grieta
+	Tooltip:
+		'''
+		Presiona la tecla de grieta para volver a casa
+		Presiona la tecla de retorno de grieta para volver a tu ubicación de grieta más reciente
+		'''
+}
+
+CodeMagnet: {
+	DisplayName: Imán de Código Binario
+	Tooltip:
+		'''
+		Trae objetos hacia ti acercando su código más cerca de ti
+		Clic derecho para desactivar efectos
+		'''
+}
+
+CodeMagnetOff: {
+	DisplayName: Imán de Código Binario
+	Tooltip:
+		'''
+		Trae objetos hacia ti acercando su código más cerca de ti
+		Los efectos están actualmente inactivos, Clic derecho para reactivar
+		'''
+}
+
+DoomiteJacksaw: {
+	DisplayName: Sierra de Cadena Doomita
+	Tooltip: ¡Diseñada para la acción definitiva de romper árboles y paredes!
+}
+
+DoomsdayTerratool: {
+	DisplayName: Herramienta Terra del Juicio Final
+	Tooltip:
+		'''
+		Clic derecho para cambiar tipos de herramienta
+		Solo puedes tener un máximo de 2 tipos de herramienta activos
+		'''
+}
+
+ShatteredMirror: {
+	DisplayName: Espejo Roto
+	Tooltip: Un recuerdo hace mucho abandonado que necesita desesperadamente reparaciones.
+}
+
+GravitronCentrifuge: {
+	DisplayName: Centrífuga Gravitrón
+	Tooltip:
+		'''
+		Proporciona una gran cantidad de fuerza centrífuga, otorgando gravedad estándar en el espacio
+		Clic derecho para desactivar efectos
+		'''
+}
+
+GravitronCentrifugeOff: {
+	DisplayName: Centrífuga Gravitrón (Inactiva)
+	Tooltip:
+		'''
+		Proporciona una gran cantidad de fuerza centrífuga, otorgando gravedad estándar en el espacio
+		Los efectos están actualmente inactivos, Clic derecho para reactivar
+		'''
+}
+
+TheGripsOfChaos: {
+	DisplayName: Las Garras del Caos
+	Tooltip:
+		'''
+		Dispara 2 ganchos diferentes dependiendo de cuál ya esté afuera
+		El rojo tiene un alcance más largo
+		El azul se retrae más rápido
+		'''
+}
+
+LivingRazeleafWand: {
+	DisplayName: Varita de Hoja Cortante Viviente
+	Tooltip: Coloca hojas de madera cortante viviente
+}
+
+LivingRazewoodWand: {
+	DisplayName: Varita de Madera Cortante Viviente
+	Tooltip: Coloca madera cortante viviente
+}
+
+LivingBogleafWand: {
+	DisplayName: Varita de Hoja de Pantano Viviente
+	Tooltip: Coloca hojas de madera de pantano
+}
+
+LivingBogwoodWand: {
+	DisplayName: Varita de Madera de Pantano Viviente
+	Tooltip: Coloca madera de pantano viviente
+}
+
+DragonsGrip: {
+	DisplayName: Garra de Dragón
+	Tooltip: ""
+}
+
+HydraBite: {
+	DisplayName: Mordida de Hidra
+	Tooltip: ""
+}

@@ -1,0 +1,749 @@
+Skullshot: {
+	DisplayName: Súper Calavera Disparadora
+	Tooltip:
+		'''
+		Dispara una lluvia masiva de balas contra tus enemigos
+		Haz clic derecho para disparar huesos giratorios a tu enemigo
+		Usa Balas y Huesos como munición
+		'Tengo un odio irracional a los dioses`
+		- Gibs
+		'''
+}
+
+StormRifle: {
+	DisplayName: Rifle de Tormenta
+	Tooltip:
+		'''
+		Dispara disparos estáticos
+		'NUM'
+		- BlazenBreaker
+		'''
+}
+
+EternalTwilight: {
+	DisplayName: Crepúsculo Eterno
+	Tooltip: Crepúsculo Caído EX
+}
+
+PerfectChaosBustershot: {
+	DisplayName: Calavera Destructora de Caos Perfecta
+	Tooltip:
+		'''
+		Dispara un doble rayo perforante y un reguero de 10 balas
+		Calavera Destructora de Caos EX
+		'''
+}
+
+PerfectChaosJavelin: {
+	DisplayName: Jabalina de Caos Perfecta
+	Tooltip:
+		'''
+		Explota al contacto
+		Jabalina de Caos EX
+		'''
+}
+
+SupremeHellshot: {
+	DisplayName: Calavera Disparadora del Infierno Suprema
+	Tooltip:
+		'''
+		Dispara una lluvia masiva de balas contra tus enemigos
+		Haz clic derecho para disparar calaveras del infierno a tu enemigo
+		Usa Balas y Huesos como munición
+		Súper Calavera Disparadora EX
+		'''
+}
+
+ThunderLord: {
+	DisplayName: Señor del Trueno
+	Tooltip:
+		'''
+		Dispara Disparos de Trueno y tiene una rara posibilidad de disparar un Disparó de Trueno Supercargado que invoca trueno del cielo
+		Rifle de Tormenta EX
+		'''
+}
+
+ApollosWrath: {
+	DisplayName: Ira de Apolo
+	Tooltip:
+		'''
+		Dispara rayos de sombra
+		No usa Munición
+		'''
+}
+
+Skyfall: {
+	DisplayName: Lluvia Celestial
+	Tooltip: ""
+}
+
+Bonesaw: {
+	DisplayName: Sierra Ósea
+	Tooltip:
+		'''
+		Convierte balas en balas de ícor
+		16% de posibilidad de no consumir munición
+		'''
+}
+
+Battlestar: {
+	DisplayName: Acorazado de Batalla
+	Tooltip:
+		'''
+		Convierte balas en balas de clorofita
+		32% de posibilidad de no consumir munición
+		'''
+}
+
+TheVulcano: {
+	DisplayName: El Volcán
+	Tooltip: Convierte Gel en una explosión de magma
+}
+
+BurningGel: {
+	DisplayName: Gel Ardiente
+	Tooltip: Enciende al objetivo al golpearlo
+}
+
+Dawnstrike: {
+	DisplayName: Golpe del Amanecer
+	Tooltip: Carga el blaster para disparar explosiones de fuego más grandes
+}
+
+AlienRifle: {
+	DisplayName: Rifle Alienígena
+	Tooltip: Usa celdas de energía como munición
+}
+
+Darksprayer: {
+	DisplayName: Rociador Sombrío
+	Tooltip:
+		'''
+		'Chorros de oscuridad, dejan su marca'
+		Inflige Devastación Lunar
+		'''
+}
+
+FallingTwilight: {
+	DisplayName: Crepúsculo Caído
+	Tooltip: ""
+}
+
+MidnightWrath: {
+	DisplayName: Ira de Medianoche
+	Tooltip: No se consume
+}
+
+Sevenshot: {
+	DisplayName: Disparo Séxtuple de Hidra
+	Tooltip:
+		'''
+		Dispara 6 balas y un rayo lunar destructivo
+		50% de posibilidad de no consumir munición
+		'''
+}
+
+DragonsMaw: {
+	DisplayName: Fauces del Dragón
+	Tooltip: Transforma flechas en Flechas de Dragón
+}
+
+DarkmatterKunai: {
+	DisplayName: Kunai de Materia Oscura
+	Tooltip: ""
+}
+
+TerraBallista: {
+	DisplayName: Ballesta Terra
+	Tooltip: Reemplaza Flechas con Flechas Terra
+}
+
+BlackHoleBlaster: {
+	DisplayName: Lanzador de Agujero Negro
+	Tooltip: Ocasionalmente dispara un cohete que explota en un vórtice al colisionar con un bloque
+}
+
+BrokenZeroWeapon: {
+	DisplayName: Arma Cero Rota
+	Tooltip: Intenta electrocutarte violentamente
+}
+
+GenocideCannon: {
+	DisplayName: Cañón del Genocidio
+	Tooltip:
+		'''
+		Dispara Cohetes altamente explosivos
+		25% de posibilidad de disparar un cohete defectuoso que explota en cohetes de fragmento
+		'''
+}
+
+Genocide: {
+	DisplayName: Genocidio
+	Tooltip:
+		'''
+		Dispara un reguero de láseres perforantes infinitos que ignoran bloques y se dirigen a enemigos
+		Se vuelve más fuerte cuanto más el rayo perfora
+		No requiere munición
+		'''
+}
+
+Gigataser: {
+	DisplayName: Gigatáser
+	Tooltip: Dispara rayos de vacío
+}
+
+Neutralizer: {
+	DisplayName: Neutralizador
+	Tooltip:
+		'''
+		Clic izquierdo para disparar un láser rebotante que se vuelve más poderoso al rebotar en paredes
+		Clic derecho para disparar flechas normales
+		'''
+}
+
+OmegaVolley: {
+	DisplayName: Descarga Omega
+	Tooltip:
+		'''
+		Dispara rápidamente una descarga de balas sónicas increíblemente precisa
+		Cada diez disparos puede disparar dos balas adicionales
+		33% de posibilidad de no consumir munición
+		'''
+}
+
+RealityCannon: {
+	DisplayName: Cañón de Realidad
+	Tooltip: Dispara rápidamente un reguero de láseres oscuros
+}
+
+FulguriteTazerblaster: {
+	DisplayName: Lanzador de Taser Fulgurita
+	Tooltip:
+		'''
+		Dispara rápidamente descargas de taser
+		Leve posibilidad de disparar 2 descargas de taser a la vez
+		'''
+}
+
+Annihilator: {
+	DisplayName: Aniquilador
+	Tooltip: Dispara un láser cuántico que crea una singularidad inmensamente poderosa
+}
+
+GameRaider: {
+	DisplayName: Saqueador del Juego
+	Tooltip: Dispara Cohetes de Mooshroom explosivos
+}
+
+GibsFemur: {
+	DisplayName: Fémur Furioso
+	Tooltip: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+}
+
+MobianBuster: {
+	DisplayName: Destructora Mobian
+	Tooltip:
+		'''
+		Un blaster Mobian de emisión estándar.
+		Mantén presionado el botón de uso para cargar y luego suelta un Disparo Cargado poderoso
+		'Recuerda que el disparo cargado se dispara cuando SUELTAS el gatillo, no al revés'
+		- Tails
+		'''
+}
+
+Hurricane: {
+	DisplayName: Huracán
+	Tooltip:
+		'''
+		Dispara 2 ondas de 6 flechas
+		Tienes una posibilidad de disparar una Flecha Oceánica
+		66% de posibilidad de no consumir flecha
+		Tsunami EX
+		'''
+}
+
+FreedomStar: {
+	DisplayName: Estrella de la Libertad
+	Tooltip:
+		'''
+		El confiable blaster de Tails
+		Mantén presionado el botón de uso para cargar y luego suelta un Disparo Cargado poderoso
+		'Te he hecho esperar, ¿no?'
+		- Tails
+		Destructora Mobian EX
+		'''
+}
+
+Independence: {
+	DisplayName: Independencia
+	Tooltip:
+		'''
+		Dispara 3 cohetes de fuegos artificiales
+		Celebración EX
+		'''
+}
+
+SharkLauncher: {
+	DisplayName: Lanzador de Tiburón
+	Tooltip:
+		'''
+		Lanza un tiburón mortal que se adhiere
+		Pistola de Piraña EX
+		'''
+}
+
+Skystrike: {
+	DisplayName: Golpe Celeste
+	Tooltip:
+		'''
+		Lanza Flechas de Ruina Aérea desde el cielo
+		Las flechas iniciales ignoran bloques
+		Ruina Aérea EX
+		'''
+}
+
+UltimateOreCannon: {
+	DisplayName: Cañón de Mineral Definitivo
+	Tooltip:
+		'''
+		Usa Cualquier Mineral como Munición
+		Ciertos minerales tienen efectos especiales al ser disparados
+		Arma Legendaria
+		Cañón de Mineral EX
+		'''
+}
+
+UnityBallista: {
+	DisplayName: Ballesta de Unidad
+	Tooltip:
+		'''
+		Reemplaza Flechas con Flechas Terra
+		Dispara 3 ondas de 3 flechas en un único uso
+		Ballesta Terra EX
+		'''
+}
+
+UWAM: {
+	DisplayName: U.W.A.M.
+	Tooltip:
+		'''
+		Dispara cientos de balas con una dispersión muy baja
+		Tienes una posibilidad de disparar tiburones, causando 2x de daño
+		88% de posibilidad de no consumir munición
+		G.D.L.P. EX
+		'''
+}
+
+FlareMinigun: {
+	DisplayName: Minigun de Llamarada
+	Tooltip:
+		'''
+		Dispara docenas de llamaradas en sucesión rápida
+		33% de posibilidad de no consumir llamaradas
+		Clic derecho para desactivar todas las llamaradas
+		'''
+}
+
+HKMP5: {
+	DisplayName: HK MP5
+	Tooltip: ¡Convierte balas en balas explosivas!
+}
+
+L85A2: {
+	DisplayName: L85A2
+	Tooltip: ¡Convierte balas en balas de alta velocidad!
+}
+
+LaserRifle: {
+	DisplayName: Carabina Láser
+	Tooltip: Usa celdas de energía como munición
+}
+
+M79: {
+	DisplayName: M79
+	Tooltip:
+		'''
+		Usa Proyectiles M79 como munición
+		33% de posibilidad de no consumir munición
+		'''
+}
+
+MidasGun: {
+	DisplayName: Lanzador Midas
+	Tooltip: Dispara cosas y obtén más dinero
+}
+
+RazorwindLongbow: {
+	DisplayName: Arco Largo de Viento de Navaja
+	Tooltip: Reemplaza flechas de madera con flechas de viento con retroceso alto
+}
+
+Windfury: {
+	DisplayName: Furia del Viento
+	Tooltip: Reemplaza flechas de madera con flechas de vendaval con retroceso alto y perforación infinita
+}
+
+Bunzooka: {
+	DisplayName: Lanzador de Conejo
+	Tooltip: Dispara Cohetes de Conejo
+}
+
+FluffyFury: {
+	DisplayName: Furia Esponjosa
+	Tooltip:
+		'''
+		Convierte flechas en Flechas de Zanahoria que se dividen
+		Advertencia de posible lag
+		'''
+}
+
+RPG: {
+	DisplayName: RPG
+	Tooltip:
+		'''
+		`Granada Propulsada por Conejo`
+		Dispara Cohetes de Conejo
+		Lanzador de Conejo EX
+		'''
+}
+
+ChaosBustershot: {
+	DisplayName: Calavera Destructora de Caos
+	Tooltip: Dispara un doble rayo perforante y un reguero de 6 balas
+}
+
+ChaosJavelin: {
+	DisplayName: Jabalina de Caos
+	Tooltip: Explota al contacto
+}
+
+DraconicRipper: {
+	DisplayName: Desgarra Dracónica
+	Tooltip:
+		'''
+		Dispara docenas de dientes de alto calibre
+		Ignora la defensa enemiga
+		50% de posibilidad de no consumir munición
+		'''
+}
+
+FlamingTwilight: {
+	DisplayName: Crepúsculo Ardiente
+	Tooltip:
+		'''
+		Clic izquierdo para lanzar una bola de fuego discordante a tus enemigos
+		Clic derecho para lluvia de fuego y furia en tu posición del cursor
+		Consume gel como munición
+		33% de posibilidad de no consumir gel
+		'''
+}
+
+AbyssalKunai: {
+	DisplayName: Kunai Abismal
+	Tooltip: ""
+}
+
+MizuArashi: {
+	DisplayName: Mizu Arashi
+	Tooltip:
+		'''
+		Tiene una posibilidad de 1/15 de disparar un espíritu Mizu
+		Los espíritus causan 2x de daño, perforan hasta 10 enemigos y atraviesan bloques
+		77% de posibilidad de no consumir flechas
+		'''
+}
+
+Scourge: {
+	DisplayName: Castigo
+	Tooltip:
+		'''
+		¡Convierte balas en balas malditas!
+		24% de posibilidad de no consumir munición
+		'''
+}
+
+Sandagger: {
+	DisplayName: Daga de Arena
+	Tooltip: ""
+}
+
+SandstormCrossbow: {
+	DisplayName: Ballesta de Tormenta de Arena
+	Tooltip: Reemplaza flechas con pernos del desierto
+}
+
+DynaskullJavelin: {
+	DisplayName: Jabalina Dinacráneo
+	Tooltip: Si se clava en un enemigo y ese enemigo muere, libera un rayo de búsqueda de Energía-Dina
+}
+
+FossilBoneslinger: {
+	DisplayName: Lanzador de Huesos Fósil
+	Tooltip: ""
+}
+
+NeithsString: {
+	DisplayName: Cuerda de Neith
+	Tooltip:
+		'''
+		Dispara 2 flechas a la vez
+		Ocasionalmente puede disparar ``Flecha de Juicio``, que reduce la defensa enemiga
+		Convierte flechas de madera en flechas de momia más lentas pero de alto daño
+		'''
+}
+
+Sandthrower: {
+	DisplayName: Lanzador de Arena
+	Tooltip: 30% de posibilidad de no consumir gel
+}
+
+PrimevalJavelin: {
+	DisplayName: Jabalina Primigenia
+	Tooltip: Si se clava en un enemigo y ese enemigo muere, libera 4 rayos de búsqueda de Energía-Dina
+}
+
+CursedFlamefury: {
+	DisplayName: Furia de Fuego Maldita
+	Tooltip: 50% de posibilidad de no consumir gel
+}
+
+Lifeline: {
+	DisplayName: Línea de Vida
+	Tooltip:
+		'''
+		Dispara 2 flechas de Momia mejoradas junto con normales
+		Dispara una descarga de ``Flechas Abandonadas`` si 2 flechas mejoradas golpean al objetivo
+		Las Flechas Abandonadas reducen el daño de contacto enemigo
+		'''
+}
+
+BoneBow: {
+	DisplayName: Arco de Hueso
+	Tooltip: Reemplaza Flechas de Madera con Flechas de Hueso
+}
+
+DeathlyLongbow: {
+	DisplayName: Arco Largo Mortal
+	Tooltip: Reemplaza Flechas de Hueso con Calaveras Ardientes
+}
+
+TrueDeathlyLongbow: {
+	DisplayName: Arco Largo de Espanto Mortal
+	Tooltip:
+		'''
+		Reemplaza Flechas con Flechas de Segador
+		Dispara una calavera de espanto explosiva cada segundo disparo
+		'''
+}
+
+FrogLob: {
+	DisplayName: Lanzamiento de Rana
+	Tooltip: ""
+}
+
+Fireball: {
+	DisplayName: Bola de Fuego
+	Tooltip: ¡Incluso mejor que la Flor de Fuego de Mario!
+}
+
+GildedGlock: {
+	DisplayName: Pistola Dorada
+	Tooltip: Usa Monedas como Munición
+}
+
+OreCannon: {
+	DisplayName: Cañón de Mineral
+	Tooltip:
+		'''
+		Usa Algunos Minerales como Munición
+		Ciertos minerales tienen efectos especiales al ser disparados
+		'''
+}
+
+DragonFlamebow: {
+	DisplayName: Arco de Fuego Dragón
+	Tooltip: Transforma flechas en Flechas de Dragón
+}
+
+DragonsSpine: {
+	DisplayName: Espina de Dragón
+	Tooltip: ""
+}
+
+Firebuster: {
+	DisplayName: Destructor de Fuego
+	Tooltip: ""
+}
+
+Blastshot: {
+	DisplayName: Disparo de Explosión
+	Tooltip: Consume Gel
+}
+
+RadiantDawn: {
+	DisplayName: Amanecer Radiante
+	Tooltip: Mantén presionado para disparar más flechas
+}
+
+YearOfTheDragon: {
+	DisplayName: Año del Dragón
+	Tooltip:
+		'''
+		¡Dispara fuegos artificiales deslumbrantes para sorprender a tus amigos y vencer a tus enemigos!
+		'La marca Akuma no se responsabiliza por daños causados por disparar fuegos artificiales de frente a las caras de los enemigos'
+		'''
+}
+
+MadnessBow: {
+	DisplayName: Arco de Locura
+	Tooltip: ""
+}
+
+MadnessKnife: {
+	DisplayName: Cuchillo de Locura
+	Tooltip: ""
+}
+
+AbyssalPentashot: {
+	DisplayName: Disparo Quíntuple Abismal
+	Tooltip: ""
+}
+
+HydraFang: {
+	DisplayName: Colmillo de Hidra
+	Tooltip: Perfora hasta 3 enemigos
+}
+
+HydraTrishot: {
+	DisplayName: Disparo Cuádruple de Hidra
+	Tooltip: ""
+}
+
+Mossket: {
+	DisplayName: Mosquete de Musgo
+	Tooltip: ""
+}
+
+MurkyGel: {
+	DisplayName: Gel Turbio
+	Tooltip: Inflige el efecto negativo Engrasado al golpear
+}
+
+AbyssalShadowshot: {
+	DisplayName: Disparo de Sombra Abismal
+	Tooltip: Dispara un rayo de sombra de búsqueda así como un reguero de 6 balas
+}
+
+Bubbleshot: {
+	DisplayName: Disparo de Burbuja
+	Tooltip: ""
+}
+
+TheSquirter: {
+	DisplayName: El Aspersor
+	Tooltip: No usa munición
+}
+
+Toxithrower: {
+	DisplayName: Lanzatoxinas
+	Tooltip: Usa gel como munición
+}
+
+AbyssalEruption: {
+	DisplayName: Erupción Abismal
+	Tooltip: Escupe ácido abismal que hará que los enemigos exploten si son asesinados por su ácido corrosivo, también usa gel
+}
+
+CoralBow: {
+	DisplayName: Arco de Coral
+	Tooltip: De alguna manera mejor que un arco metálico
+}
+
+OceanWhaler: {
+	DisplayName: Cazador del Océano
+	Tooltip: ""
+}
+
+SpookyKnife: {
+	DisplayName: Cuchillo Escalofriante
+	Tooltip: Esparce Brasas de Madera Fúnebre al golpear
+}
+
+MushroomBow: {
+	DisplayName: Arco de Seta
+	Tooltip: ""
+}
+
+SerpentsSting: {
+	DisplayName: Aguijón de Serpiente
+	Tooltip: Convierte balas en disparos de nieve
+}
+
+Sickleshot: {
+	DisplayName: Disparo de Hoz
+	Tooltip: Dispara 2 flechas de hielo con alta velocidad
+}
+
+SnowflakeShuriken: {
+	DisplayName: Shuriken de Copo de Nieve
+	Tooltip: ""
+}
+
+Winterbreak: {
+	DisplayName: Quiebre de Invierno
+	Tooltip: ""
+}
+
+OdinsBlade: {
+	DisplayName: Espada de Hielo de Odín
+	Tooltip: Parece que Greed accidentalmente robó esto en algún momento a alguien
+}
+
+ShootingStar: {
+	DisplayName: Estrella Fugaz
+	Tooltip: ""
+}
+
+DoomiteAssaultBlaster: {
+	DisplayName: Lanzador de Asalto Doomita
+	Tooltip: ""
+}
+
+DoomiteHolobow: {
+	DisplayName: Arco Holo Doomita
+	Tooltip: ""
+}
+
+DoomPistol: {
+	DisplayName: Pistola del Destino
+	Tooltip: ""
+}
+
+Incapacitator: {
+	DisplayName: Incapacitador
+	Tooltip: ""
+}
+
+SingularityCannon: {
+	DisplayName: Cañón de Singularidad
+	Tooltip: ""
+}
+
+AncientHydraTrishot: {
+	DisplayName: Disparo Cuádruple de Hidra Antigua
+	Tooltip: ¡Incluso purifica la corrupción!
+}
+
+CthulhuCannon: {
+	DisplayName: Cañón de Cthulhu
+	Tooltip:
+		'''
+		Usa balas de cañón como munición
+		Dispara bombas que rompen la realidad que se fragmentan en grietas oscuras poderosas al impacto
+		'''
+}
+
+ProtocolR: {
+	DisplayName: Protocolo-R
+	Tooltip: Dispara una ráfaga de cohetes especiales
+}

@@ -1,0 +1,460 @@
+AleisterBook: {
+	DisplayName: Libro de Aleister
+	Tooltip:
+		'''
+		Un libro legendario del Mega Therión.
+		Aumento del 10% al daño de esbirros
+		+2 espacios de esbirro
+		Quizás podrías hacerlo más fuerte..?
+		Hay una nota escrita en la portada:
+		Necesito almas más poderosas, *****,*********,**********
+		'''
+}
+
+TheBookOfTheLaw: {
+	DisplayName: El Libro de la Ley
+	Tooltip:
+		'''
+		Un libro legendario del Mega Therión.
+		Aumento del 30% al daño de esbirros
+		+2 espacios de esbirro
+		Incluye los efectos de todas las piezas utilizadas para hacerlo.
+
+		'''
+}
+
+DemonGauntlet: {
+	DisplayName: Guantelete Demoníaco
+	Tooltip: ""
+}
+
+Equinox: {
+	DisplayName: Equinoxio
+	Tooltip: "'Verdadero equilibrio'"
+}
+
+Duality: {
+	DisplayName: Dualidad
+	Tooltip: "'El caos brota de este talismán antiguo'"
+}
+
+DragontamersCloak: {
+	DisplayName: Manto del Domador de Dragones
+	Tooltip: ""
+}
+
+Lantern: {
+	DisplayName: Linterna
+	Tooltip: ""
+}
+
+TaiyangBaolei: {
+	DisplayName: Taiyang Baolei
+	Tooltip: ""
+}
+
+EnergyConduit: {
+	DisplayName: Conducto de Energía
+	Tooltip: ""
+}
+
+Naitokurosu: {
+	DisplayName: Naitokurosu
+	Tooltip: ""
+}
+
+DarkVoid: {
+	DisplayName: Vacío Oscuro
+	Tooltip: "'Oscuro y espeluznante'"
+}
+
+RadiantStar: {
+	DisplayName: Estrella Radiante
+	Tooltip: "'Es reluciente'"
+}
+
+DarkmatterWings: {
+	DisplayName: Impulsador de Materia Oscura
+	Tooltip: ""
+}
+
+StormCharm: {
+	DisplayName: Amuleto de Tormenta
+	Tooltip: ""
+}
+
+StormRiot: {
+	DisplayName: Escudo de Rebelión de Tormenta
+	Tooltip: ""
+}
+
+StormPendant: {
+	DisplayName: Colgante de Tormenta
+	Tooltip: ""
+}
+
+HoloCape: {
+	DisplayName: Capa Holográfica
+	Tooltip: ""
+}
+
+StormClaw: {
+	DisplayName: Garra de Tormenta
+	Tooltip: ""
+}
+
+APageOfTheRuneBook: {
+	DisplayName: Una Página del Libro de Runas
+	Tooltip: ""
+}
+
+EmperorFishronWings: {
+	DisplayName: Alas de Emperador Fishron
+	Tooltip: ""
+}
+
+TheBookOfRunes: {
+	DisplayName: El Libro de las Runas
+	Tooltip: ""
+}
+
+BulwarkOfChaos: {
+	DisplayName: Baluarte del Caos
+	Tooltip: ""
+}
+
+FireFrostMedallion: {
+	DisplayName: Medallón Ígnea-Helada
+	Tooltip: ""
+}
+
+CursedEyeOfTheSoulBinder: {
+	DisplayName: Ojo Maldito del Vinculador de Almas
+	Tooltip: ""
+}
+
+OlympianWings: {
+	DisplayName: Alas Olímpicas
+	Tooltip: ""
+}
+
+SeraphHarp: {
+	DisplayName: Arpa de Serafín
+	Tooltip: ""
+}
+
+GoddessHarp: {
+	DisplayName: Arpa de Diosa
+	Tooltip: ""
+}
+
+RabbitcopterWings: {
+	DisplayName: Orejas de Conejo-Helicóptero
+	Tooltip: "'Sí, así no funcionan las orejas de conejo pero qué se le va a hacer, funciona.'"
+}
+
+RajahRabbitsSashOfVengeance: {
+	DisplayName: Banda de Venganza del Rajá Conejo
+	Tooltip: ""
+}
+
+RajahRabbitsCloakOfSupremacy: {
+	DisplayName: Manto de Supremacía del Rajá Conejo
+	Tooltip: "'Has sido considerado un digno sucesor por el Campeón de los Inocentes'"
+}
+
+ClawOfChaos: {
+	DisplayName: Garra del Caos
+	Tooltip: ""
+}
+
+ChaosWings: {
+	DisplayName: Alas del Caos
+	Tooltip: ""
+}
+
+DragonstrideBoots: {
+	DisplayName: Botas de Zancada de Dragón
+	Tooltip: ""
+}
+
+HeartOfPassion: {
+	DisplayName: Corazón de la Pasión
+	Tooltip: ""
+}
+
+HeartOfSorrow: {
+	DisplayName: Corazón de la Tristeza
+	Tooltip: ""
+}
+
+WingsOfChaos: {
+	DisplayName: Alas del Caos
+	Tooltip: ""
+}
+
+SandstormMedallion: {
+	DisplayName: Medallón de Tempestad de Arena
+	Tooltip: ""
+}
+
+VultureWings: {
+	DisplayName: Alas de Buitre
+	Tooltip: ""
+}
+
+ArtifactOfJudgement: {
+	DisplayName: Artefacto del Juicio
+	Tooltip: ""
+}
+
+ArtifactOfGuilt: {
+	DisplayName: Artefacto de la Culpa
+	Tooltip: ""
+}
+
+PalladiumShield: {
+	DisplayName: Escudo de Paladio
+	Tooltip: ""
+}
+
+GlowingTruffle: {
+	DisplayName: Trufa Brillante
+	Tooltip: "'No la lamas.'"
+}
+
+TruffleLegs: {
+	DisplayName: Piernas de Trufa
+	Tooltip: ""
+}
+
+CharmOfDesire: {
+	DisplayName: Amuleto del Deseo
+	Tooltip: ""
+}
+
+TalismanOfDesire: {
+	DisplayName: Talismán del Deseo
+	Tooltip: ""
+}
+
+DragonsGuard: {
+	DisplayName: Guardia del Dragón
+	Tooltip: ""
+}
+
+MagmancerWings: {
+	DisplayName: Alas de Nigromante de Magma
+	Tooltip: ""
+}
+
+OrnateBand: {
+	DisplayName: Banda Ornamentada
+	Tooltip: ""
+}
+
+DraconianWings: {
+	DisplayName: Alas del Sol Dracónico
+	Tooltip: ""
+}
+
+HydraPendant: {
+	DisplayName: Colgante de Hidra
+	Tooltip: ""
+}
+
+AshProofVest0: {
+	DisplayName: Chaleco a Prueba de Ceniza
+	Tooltip:
+		'''
+		"{$Accessories.AshProofVest3.SharedFlavorText}"
+		Estado del Chaleco: Ceniza en el viento...
+		'''
+}
+
+AshProofVest1: {
+	DisplayName: Chaleco a Prueba de Ceniza
+	Tooltip:
+		'''
+		"{$Accessories.AshProofVest3.SharedFlavorText}"
+		Estado del Chaleco: Se va yendo
+		'''
+}
+
+AshProofVest2: {
+	DisplayName: Chaleco a Prueba de Ceniza
+	Tooltip:
+		'''
+		"{$Accessories.AshProofVest3.SharedFlavorText}"
+		Estado del Chaleco: Ha visto días mejores
+		'''
+}
+
+AshProofVest3: {
+	SharedFlavorText: Permanecer en la tormenta de fuego demasiado tiempo degradará este accesorio y causará que se rompa...
+	DisplayName: Chaleco a Prueba de Ceniza
+	Tooltip:
+		'''
+		"{$Accessories.AshProofVest3.SharedFlavorText}"
+		Estado del Chaleco: Como nuevo
+		'''
+}
+
+ShadowBand: {
+	DisplayName: Banda de Sombra
+	Tooltip: ""
+}
+
+AquamancerWings: {
+	DisplayName: Alas del Nigromante Acuático
+	Tooltip: ""
+}
+
+BlackLotusEmblem: {
+	DisplayName: Emblema de Loto Negro
+	Tooltip: ""
+}
+
+BotchedBand: {
+	DisplayName: Banda Arruinada
+	Tooltip: ""
+}
+
+DreadMoonWings: {
+	DisplayName: Alas de la Luna del Terror
+	Tooltip: ""
+}
+
+OldOneCharm: {
+	DisplayName: Amuleto del Anciano
+	Tooltip: ""
+}
+
+HeartyTruffle: {
+	DisplayName: Trufa Robusta
+	Tooltip: "'No la comas.'"
+}
+
+ArcticMedallion: {
+	DisplayName: Medallón Ártico
+	Tooltip: ""
+}
+
+RadiumWings: {
+	DisplayName: Alas de Radio
+	Tooltip: ""
+}
+
+TerraWings: {
+	DisplayName: Alas de Terra
+	Tooltip: ""
+}
+
+SagittariusShield: {
+	DisplayName: Escudo de Sagitario
+	Tooltip: ""
+}
+
+BrokenCode: {
+	DisplayName: Código Roto
+	Tooltip: "'No te ves bien'"
+}
+
+ZeroWings: {
+	DisplayName: Jet Cero
+	Tooltip: ""
+}
+
+DragonSerpentNecklace: {
+	DisplayName: Collar de Dragón Serpiente
+	Tooltip: ""
+}
+
+MadnessTruffle: {
+	DisplayName: Trufa de la Locura
+	Tooltip: "'Sabes qué? Solo no la pongas cerca de tu boca.'"
+}
+
+HeartOfAnarchy: {
+	DisplayName: Corazón de la Anarquía
+	Tooltip: "'Los corazones de las Hermanas laten como uno solo en esta porcelana antigua'"
+}
+
+MetallicTruffle: {
+	DisplayName: Trufa Metálica
+	Tooltip: "'No la muerdas.'"
+}
+
+AnkhNecklace: {
+	DisplayName: Collar Anj
+	Tooltip: ""
+}
+
+AnkhScarf: {
+	DisplayName: Bufanda Anj
+	Tooltip: ""
+}
+
+AnkhTablet: {
+	DisplayName: Tableta Anj
+	Tooltip: ""
+}
+
+DwarvenGauntlet: {
+	DisplayName: Guantelete Enano
+	Tooltip: "'Está bien. Lo haré yo mismo.'"
+}
+
+MindStone: {
+	DisplayName: Piedra Mental
+	Tooltip: "'Es simple Cálculo'"
+}
+
+PowerStone: {
+	DisplayName: Piedra del Poder
+	Tooltip: "'La diversión no es algo que uno considere al equilibrar el universo'"
+}
+
+RealityStone: {
+	DisplayName: Piedra de la Realidad
+	Tooltip: "'Ahora...la realidad puede ser lo que yo quiera que sea...'"
+}
+
+SoulStone: {
+	DisplayName: Piedra del Alma
+	Tooltip: "'He perdido más de lo que puedas imaginar'"
+}
+
+TimeStone: {
+	DisplayName: Piedra del Tiempo
+	Tooltip:
+		'''
+		Usar la Piedra del Tiempo como un objeto, detiene/reanuda el tiempo
+		'Temelo. Huye de él. El Destino igual llega.'
+		'''
+}
+
+SpaceStone: {
+	DisplayName: Piedra del Espacio
+	Tooltip:
+		'''
+		Presionar la tecla de grieta te devuelve a casa
+		Presionar la tecla de retorno de grieta te devuelve a tu ubicación de grieta más reciente
+		"'Pero esto...Sí me pone una sonrisa en la cara'"
+		'''
+}
+
+InfinityGauntlet: {
+	DisplayName: Guantelete del Infinito
+	Tooltip: Perfectamente Equilibrado, como todas las cosas deberían ser
+}
+
+KappaFins: {
+	DisplayName: Aletas Kappa
+	Tooltip: ""
+}
+
+KappaGear: {
+	DisplayName: Equipo Kappa
+	Tooltip: ""
+}

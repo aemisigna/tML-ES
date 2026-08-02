@@ -1,0 +1,252 @@
+TilesInfo: {
+	Spawnpointremoved: Spawn point removed!
+	Spawnpointset: Spawn point set!
+	EnderMemoryInfo: In memory of a long lost friend still in our hearts.
+	DragonEgg1: The sound of the egg breaking echoes through the volcano...
+	DragonEgg2: You hear a distant roar...
+	DragonEgg3: You hear a tired, quiet roar, and then...snoring..?
+	HydraPod1: The contents spill from the broken pod. Nasty.
+	HydraPod2: You hear hissing somewhere nearby
+	HydraPod3: You hear hissing, but it scuttles away into the fog...
+}
+
+GreedChest: {
+	MapEntry: Greed Chest
+	GreedChest1: The ground below you trembles slightly...
+	GreedChest2: You hear a scream echo through the caverns...
+	GreedChest3: HANDS OFF MY LOOT YOU THIEVING APE!!!
+}
+
+AvesInABox_Tile.MapEntry: Aves in a Box
+DevStatue_Tile.MapEntry: Statue
+AleisterBook_Tile.MapEntry: Aleister Book
+CCBag_Tile.MapEntry: Cardboard Box
+CerberusBag_Tile.MapEntry: Cerberus Kennel
+CrystalChandelier_Tile.MapEntry: Crystal Chandelier
+EnderMemory_Tile.MapEntry: Ender Memory
+FurnitureDynamo_Tile.MapEntry: Furniture Dynamo
+SkyCrystal_Tile.MapEntry: Sky Crystal
+AcropolisAltar_Tile.MapEntry: Owl Altar
+RoyalRabbitCage_Tile.MapEntry: Royal Rabbit Cage
+RitualAltar_Tile.MapEntry: Ritual Altar
+DiscordianTorch_Tile.MapEntry: Discordian Torch
+AnyAncientCraftingStation_Tile.MapEntry: Any Ancient Crafting Station
+ChaosCrucible_Tile.MapEntry: Chaos Crucible
+ChaosAltarSafe_Tile.MapEntry: Chaos Altar
+DynaskullFossil_Tile.MapEntry: Dynaskull Fossil
+EvilAltarSafe_Tile.MapEntry: Evil Altar
+HallowedOre_Tile.MapEntry: Hallowed Ore
+ThixxieBanner_Tile.MapEntry: Thixxie Banner
+HallowedAnvil_Tile.MapEntry: Hallowed Anvil
+HallowedForge_Tile.MapEntry: Hallowed Forge
+PaladinsSmeltery_Tile.MapEntry: Paladins Smeltery
+TruePaladinsSmeltery_Tile.MapEntry: True Paladins Smeltery
+FatPixie_Banner_Tile.MapEntry: Fat Pixie Banner
+HaphestusForge_Tile.MapEntry: Haphestus Forge
+HellstoneAnvil_Tile.MapEntry: Hellstone Anvil
+Throne_Tile.MapEntry: Throne of Evil
+CovetiteOre_Tile.MapEntry: Covetite Ore
+GreedAltar_Tile.MapEntry: Desire Altar
+GreedChest_Tile.MapEntry: Greed Chest
+GreedLantern_Tile.MapEntry: Stone Lantern
+IncineriteOre_Tile.MapEntry: Incinerite Ore
+RazewoodBed_Tile.MapEntry: Razewood Bed
+RazewoodBookshelf_Tile.MapEntry: Razewood Bookshelf
+RazewoodCandelabra_Tile.MapEntry: Razewood Candelabra
+RazewoodCandle_Tile.MapEntry: Razewood Candle
+RazewoodChair_Tile.MapEntry: Razewood Chair
+RazewoodChandelier_Tile.MapEntry: Razewood Chandelier
+RazewoodChest_Tile.MapEntry: Razewood Chest
+
+RazewoodClock_Tile: {
+	MapEntry: Razewood Clock
+	FlavorText: Maybe making a clock out of burned wood wasn't such a good idea. It doesn't even work.
+}
+
+RazewoodCouch_Tile.MapEntry: Razewood Couch
+RazewoodDoorClosed_Tile.MapEntry: Razewood Door
+RazewoodDoorOpen_Tile.MapEntry: Razewood Door
+RazewoodDresser_Tile.MapEntry: Razewood Dresser
+RazewoodLamp_Tile.MapEntry: Razewood Lamp
+RazewoodLantern_Tile.MapEntry: Razewood Lantern
+RazewoodPiano_Tile.MapEntry: Razewood Piano
+RazewoodSink_Tile.MapEntry: Razewood Sink
+RazewoodTable_Tile.MapEntry: Razewood Table
+RazewoodTub_Tile.MapEntry: Razewood Tub
+RazewoodWorkbench_Tile.MapEntry: Razewood Workbench
+DragonfireTorch_Tile.MapEntry: Dragonfire Torch
+SharpeningLavaFish_Tile.MapEntry: Sharpening Lava Fish
+DaybreakIncineriteOre_Tile.MapEntry: Daybreak Incinerite Ore
+DaybreakTorch_Tile.MapEntry: Daybreak Torch
+InfernoChest_Tile.MapEntry: Inferno Chest
+DragonAltarUnsafe_Tile.MapEntry: Dragon Altar
+DragonEgg_Tile.MapEntry: Dragon Egg
+RazewoodPalmSapling_Tile.MapEntry: Razewood Palm Sapling
+RazewoodSapling_Tile.MapEntry: Razewood Sapling
+AbyssiumOre_Tile.MapEntry: Abyssium Ore
+BogwoodBathtub_Tile.MapEntry: Bogwood Bathtub
+BogwoodBed_Tile.MapEntry: Bogwood Bed
+BogwoodBench_Tile.MapEntry: Bogwood Bench
+BogwoodBookshelf_Tile.MapEntry: Bogwood Bookshelf
+BogwoodCandelabra_Tile.MapEntry: Bogwood Candelabra
+BogwoodCandle_Tile.MapEntry: Bogwood Candle
+BogwoodChair_Tile.MapEntry: Bogwood Chair
+BogwoodChandelier_Tile.MapEntry: Bogwood Chandelier
+BogwoodChest_Tile.MapEntry: Bogwood Chest
+BogwoodClock_Tile.MapEntry: Bogwood Clock
+BogwoodCouch_Tile.MapEntry: Bogwood Couch
+BogwoodDoorClosed_Tile.MapEntry: Bogwood Door
+BogwoodDoorOpen_Tile.MapEntry: Bogwood Door
+BogwoodDresser_Tile.MapEntry: Bogwood Dresser
+BogwoodLamp_Tile.MapEntry: Bogwood Lamp
+BogwoodLantern_Tile.MapEntry: Bogwood Lantern
+BogwoodPiano_Tile.MapEntry: Bogwood Piano
+BogwoodSink_Tile.MapEntry: Bogwood Sink
+BogwoodTable_Tile.MapEntry: Bogwood Table
+BogwoodWorkbench_Tile.MapEntry: Bogwood Workbench
+BogtoxinTorch_Tile.MapEntry: Bogtoxin Torch
+ToxinMonkfish_Tile.MapEntry: Toxin Monkfish
+EventideAbyssiumOre_Tile.MapEntry: Eventide Abyssium Ore
+EventideTorch_Tile.MapEntry: Eventide Torch
+MireChest_Tile.MapEntry: Mire Chest
+AbyssAltarUnsafe_Tile.MapEntry: Abyss Altar
+HydraPod_Tile.MapEntry: Hydra Pod
+BogwoodPalmTreeSapling_Tile.MapEntry: Bogwood Palm Tree Sapling
+BogwoodSapling_Tile.MapEntry: Bogwood Sapling
+VikingRelic_Tile.MapEntry: Viking Relic
+RadiumOre_Tile.MapEntry: Radium Ore
+QuantumFusionAccelerator_Tile.MapEntry: Quantum Fusion Accelerator
+RadiantArcanum_Tile.MapEntry: Radiant Arcanum
+GravAltar_Tile.MapEntry: Altar of the Force
+StarAltar_Tile.MapEntry: Altar of the Stars
+WormAltar_Tile.MapEntry: Altar of the Balance
+TerraCore_Tile.MapEntry: Core of Terraria
+TerraPrismStation_Tile.MapEntry: Infinity Core
+PrismOre_Tile.MapEntry: Prism Ore
+OuroborosWoodBathtub_Tile.MapEntry: Ouroboros Wood Bathtub
+OuroborosWoodBed_Tile.MapEntry: Ouroboros Wood Bed
+OuroborosWoodBookcase_Tile.MapEntry: Ouroboros Wood Bookcase
+OuroborosWoodChair_Tile.MapEntry: Ouroboros Wood Chair
+OuroborosWoodChest_Tile.MapEntry: Ouroboros Wood Chest
+OuroborosWoodClock_Tile.MapEntry: Ouroboros Wood Clock
+OuroborosWoodDoorClosed_Tile.MapEntry: Ouroboros Wood Door
+OuroborosWoodDoorOpen_Tile.MapEntry: Ouroboros Wood Door
+OuroborosWoodLantern_Tile.MapEntry: Ouroboros Wood Lantern
+OuroborosWoodWorkbench_Tile.MapEntry: Ouroboros Wood Workbench
+ApocalyptiteOre_Tile.MapEntry: Apocalyptite Ore
+DoomBathtub_Tile.MapEntry: Doom Bathtub
+DoomBed_Tile.MapEntry: Doom Bed
+DoomBookcase_Tile.MapEntry: Doom Bookcase
+DoomCandelabra_Tile.MapEntry: Doom Candelabra
+DoomCandle_Tile.MapEntry: Doom Candle
+DoomChair_Tile.MapEntry: Doom Chair
+DoomChandelier_Tile.MapEntry: Doom Chandelier
+DoomChest_Tile.MapEntry: Doom Chest
+
+DoomClock_Tile: {
+	MapEntry: Doom Clock
+
+	FlavorText: {
+		PreZero:
+			'''
+			The clock is counting down to something...you aren't sure what though.
+			The number at the moment is so high you don't even know what the number is called.
+			'''
+		PostZero: The Clock reads one digit: 0
+	}
+}
+
+DoomCouch_Tile.MapEntry: Doom Couch
+DoomDoorClosed_Tile.MapEntry: Doom Door
+DoomDoorOpen_Tile.MapEntry: Doom Door
+DoomDresser_Tile.MapEntry: Doom Dresser
+DoomLamp_Tile.MapEntry: Doom Lamp
+DoomLantern_Tile.MapEntry: Doom Lantern
+DoomPiano_Tile.MapEntry: Doom Piano
+DoomSink_Tile.MapEntry: Doom Sink
+DoomTable_Tile.MapEntry: Doom Table
+DoomWorkbench_Tile.MapEntry: Doom Workbench
+BinaryReassembler_Tile.MapEntry: Binary Reassembler
+DoomsdayChest_Tile.MapEntry: Doomsday Chest
+OuroborosSapling_Tile.MapEntry: Ouroboros Sapling
+AncientDataBank_Tile.MapEntry: Ancient Data Bank
+DataBank_Tile.MapEntry: Data Bank
+StormChest_Tile.MapEntry: Storm Chest
+Core_Tile.MapEntry: Biomite Cell
+CoreActivator_Tile.MapEntry: Core Engine
+CoreDoor_Tile.MapEntry: Sealed Door
+KeepBath_Tile.MapEntry: Keep Bath
+KeepBed_Tile.MapEntry: Keep Bed
+KeepBookcase_Tile.MapEntry: Keep Bookcase
+KeepCandelabra_Tile.MapEntry: Keep Candelabra
+KeepCandle_Tile.MapEntry: Keep Candle
+KeepChair_Tile.MapEntry: Keep Chair
+KeepChandelier_Tile.MapEntry: Keep Chandelier
+KeepClock_Tile.MapEntry: Keep Clock
+KeepCouch_Tile.MapEntry: Keep Couch
+KeepDoorClosed_Tile.MapEntry: Keep Door
+KeepDoorOpen_Tile.MapEntry: Keep Door
+KeepDresser_Tile.MapEntry: Keep Dresser
+KeepLamp_Tile.MapEntry: Keep Lamp
+KeepLantern_Tile.MapEntry: Keep Lantern
+KeepPiano_Tile.MapEntry: Keep Piano
+KeepSink_Tile.MapEntry: Keep Sink
+KeepTable_Tile.MapEntry: Keep Table
+KeepWorkbench_Tile.MapEntry: Keep Workbench
+SpiralStairs_Tile.MapEntry: Spiral Stairs
+TerraBath_Tile.MapEntry: Terra Bath
+TerraBed_Tile.MapEntry: Terra Bed
+TerraBookcase_Tile.MapEntry: Terra Bookcase
+TerraCandelabra_Tile.MapEntry: Terra Candelabra
+TerraCandle_Tile.MapEntry: Terra Candle
+TerraChair_Tile.MapEntry: Terra Chair
+TerraChandelier_Tile.MapEntry: Terra Chandelier
+TerraChest_Tile.MapEntry: Terra Chest
+TerraClock_Tile.MapEntry: Terra Clock
+TerraCouch_Tile.MapEntry: Terra Couch
+TerraDoorClosed_Tile.MapEntry: Terra Door
+TerraDoorOpen_Tile.MapEntry: Terra Door
+TerraDresser_Tile.MapEntry: Terra Dresser
+TerraLamp_Tile.MapEntry: Terra Lamp
+TerraLantern_Tile.MapEntry: Terra Lantern
+TerraPiano_Tile.MapEntry: Terra Piano
+TerraSink_Tile.MapEntry: Terra Sink
+TerraTable_Tile.MapEntry: Terra Table
+TerraWorkbench_Tile.MapEntry: Terra Workbench
+KeepDoor1_Tile.MapEntry: Keep Door
+KeepDoor2_Tile.MapEntry: Keep Door
+KeepDoor2S_Tile.MapEntry: Keep Door
+KeepDoor3_Tile.MapEntry: Keep Door
+
+TerraStatue_Tile: {
+	MapEntry: Lost Hero Statue
+	FlavorText: The Hero who saved us all from the brink of chaos
+}
+
+SunkenChest_Tile.MapEntry: Sunken Chest
+InfernoPylon_Tile.MapEntry: Inferno Pylon
+MirePylon_Tile.MapEntry: Mire Pylon
+RedMushroomPylon_Tile.MapEntry: Red Mushroom Pylon
+VoidPylon_Tile.MapEntry: Void Pylon
+FulguriteShard_Tile.MapEntry: Fulgurite Shard
+RedmushBed_Tile.MapEntry: Mushroom Bed
+RedmushBench_Tile.MapEntry: Mushroom Bench
+RedmushBookcase_Tile.MapEntry: Mushroom Bookcase
+RedmushCandelabra_Tile.MapEntry: Mushroom Candelabra
+RedmushCandle_Tile.MapEntry: Mushroom Candle
+RedmushChair_Tile.MapEntry: Mushroom Chair
+RedmushChandelier_Tile.MapEntry: Mushroom Chandelier
+RedmushChest_Tile.MapEntry: Mushroom Chest
+RedmushClock_Tile.MapEntry: Mushroom Clock
+RedmushCouch_Tile.MapEntry: Mushroom Couch
+RedmushDoorClosed_Tile.MapEntry: Mushroom Door
+RedmushDoorOpen_Tile.MapEntry: Mushroom Door
+RedmushDresser_Tile.MapEntry: Mushroom Dresser
+RedmushLamp_Tile.MapEntry: Mushroom Lamp
+RedmushLantern_Tile.MapEntry: Mushroom Lantern
+RedmushPiano_Tile.MapEntry: Mushroom Piano
+RedmushSink_Tile.MapEntry: Mushroom Sink
+RedmushTable_Tile.MapEntry: Mushroom Table
+RedmushToilet_Tile.MapEntry: Mushroom Toilet
+RedmushTub_Tile.MapEntry: Mushroom Tub
+RedmushWorkbench_Tile.MapEntry: Mushroom Workbench

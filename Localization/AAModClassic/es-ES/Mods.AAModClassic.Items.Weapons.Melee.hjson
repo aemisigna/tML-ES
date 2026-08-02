@@ -1,0 +1,1124 @@
+BladeOfNight: {
+	DisplayName: Hoja de Noche
+	Tooltip: Una espada oscura de una criatura oscura.
+}
+
+Doragonburedo: {
+	DisplayName: Doragonburedo
+	Tooltip:
+		'''
+		'Voy a aniquilar a todo su equipo'
+		- Jace
+		'''
+}
+
+GentlemansRapier: {
+	DisplayName: Florete del Caballero
+	Tooltip:
+		'''
+		Dispara sombreros de copa elegantes y espectrales
+		El clic derecho lanza la hoja hacia adelante
+		El clic izquierdo balancea la hoja
+		'Espeluznante'
+		- Tied
+		'''
+}
+
+Aerodrake: {
+	DisplayName: Aerodrake
+	Tooltip: Dragón Volador EX
+}
+
+Apocalypse: {
+	DisplayName: Apocalipsis
+	Tooltip:
+		'''
+		Las Calabazas Ardientes viajan hacia la puesta de sol, donde
+		las almas viajan para alcanzar el más allá.
+		Hoja del Caballero de la Muerte EX
+		'''
+}
+
+DraconianFury: {
+	DisplayName: Furia Draconiana
+	Tooltip:
+		'''
+		Llueve fuego e ira sobre tus enemigos
+		Inflige Amanecer
+		Reinado del Fuego EX
+		'''
+}
+
+DraculaKnives: {
+	DisplayName: Dagas de Drácula
+	Tooltip:
+		'''
+		Lanza rápidamente puñales que roban vida
+		Puñales Vampíricos EX
+		'''
+}
+
+FuryGreatforger: {
+	DisplayName: Gran Forja de Furia
+	Tooltip:
+		'''
+		Golpear enemigos causa una explosión + chispas que vuelan
+		Forja de Furia EX
+		'''
+}
+
+GentlemansLongblade: {
+	DisplayName: Largablade del Caballero
+	Tooltip:
+		'''
+		Dispara muchos sombreros de copa elegantes y espectrales
+		El clic derecho lanza la hoja hacia adelante
+		El clic izquierdo balancea la hoja
+		Florete del Caballero EX
+		'''
+}
+
+Ikari: {
+	DisplayName: Ikari
+	Tooltip:
+		'''
+		Desata hojas caóticas explosivas para golpear a tus enemigos
+		Las hojas atraviesan bloques
+		Asesino del Caos EX
+		'''
+}
+
+PerfectChaos: {
+	DisplayName: Caos Perfecto
+	Tooltip: Caos EX
+}
+
+ScourgeOfTheShadows: {
+	DisplayName: Azote de las Sombras
+	Tooltip:
+		'''
+		Rebota en bloques hasta 3 veces
+		Se quiebra después de golpear a un enemigo
+		Dispara pequeños comedores mientras viaja y al golpear enemigos
+		Azote del Corruptor EX
+		'''
+}
+
+ScytheOfEvil: {
+	DisplayName: Guadaña del Mal
+	Tooltip:
+		'''
+		La guadaña del señor de la muerte misma
+		Inflige Ícor e Infierno Maldito
+		Hoz de la Muerte EX
+		'''
+}
+
+TheLolkat: {
+	DisplayName: El Lolkat
+	Tooltip:
+		'''
+		¿QUÉ SIGNIFICA ESTO?!?!?!111!!11
+		Maúmere EX
+		'''
+}
+
+TrueTerraBlade: {
+	DisplayName: Espada Terra Verdadera
+	Tooltip:
+		'''
+		Dispara proyectiles de búsqueda que infligen Fulgor Terrestre
+		Hoja Terra EX
+		'''
+}
+
+UltimaShortsword: {
+	DisplayName: Espada Corta Última
+	Tooltip: Espada Corta de Cobre EX
+}
+
+Umbra: {
+	DisplayName: Umbra
+	Tooltip:
+		'''
+		Una espada oscura de una criatura oscura
+		Hoja de Noche EX
+		'''
+}
+
+CthulhusBlade: {
+	DisplayName: Hoja de Cthulhu
+	Tooltip: ""
+}
+
+ChaosSlayer: {
+	DisplayName: Asesino del Caos
+	Tooltip:
+		'''
+		Desata hojas caóticas para golpear a tus enemigos
+		Las hojas atraviesan bloques
+		'Destruye toda cordura'
+		'''
+}
+
+TrueFleshrendClaymore: {
+	DisplayName: Gran Claymore que Rasga Carne Verdadera
+	Tooltip:
+		'''
+		Inflige Ícor a tu objetivo
+		A pesar del nombre, no está hecha de carne
+		'''
+}
+
+BlazingDawn: {
+	DisplayName: Amanecer Abrasador
+	Tooltip: El Amanecer Radiante llama
+}
+
+FlamingFury: {
+	DisplayName: Furia Ardiente
+	Tooltip: Forjada con la ira encendida de dragones antiguos.
+}
+
+DraconianDawn: {
+	DisplayName: Amanecer Draconiano
+	Tooltip: La verdadera hoja del Sol Naciente
+}
+
+Dragonkite: {
+	DisplayName: Cometa Dragón
+	Tooltip: ""
+}
+
+Daycrusher: {
+	DisplayName: Triturador del Día
+	Tooltip:
+		'''
+		Golpea enemigos con la fuerza de una masa solar
+		Inflige Amanecer
+		'''
+}
+
+MorningGlory: {
+	DisplayName: Gloria de la Mañana
+	Tooltip: Se divide en 4 lanzas fantasmales adicionales que atraviesan al lanzarse
+}
+
+ReignOfFire: {
+	DisplayName: Reinado del Fuego
+	Tooltip:
+		'''
+		Llueve fuego e ira sobre tus enemigos
+		Inflige Amanecer
+		'''
+}
+
+Solar: {
+	DisplayName: Solar
+	Tooltip:
+		'''
+		Gira con la velocidad de un planeta orbitando el sol
+		Inflige amanecer
+		'''
+}
+
+SunPartisan: {
+	DisplayName: Pica del Sol
+	Tooltip:
+		'''
+		Una de dos lanzas legendarias usadas para dividir el tiempo en día y noche
+		Inflige amanecer
+		'''
+}
+
+AbyssalYari: {
+	DisplayName: Yari Abismal
+	Tooltip: Una de dos lanzas legendarias usadas para dividir el tiempo en día y noche
+}
+
+Crescent: {
+	DisplayName: Creciente
+	Tooltip:
+		'''
+		Más rápida que la luz de la luna
+		Inflige Devastación Lunar
+		'''
+}
+
+Flairdra: {
+	DisplayName: Flairdra
+	Tooltip:
+		'''
+		Sé la hidra.
+		Inflige Devastación Lunar
+		'''
+}
+
+HydraStabber: {
+	DisplayName: Cuchilla Abismal
+	Tooltip:
+		'''
+		Extremadamente rápida y peligrosa
+		Inflige Devastación Lunar
+		'''
+}
+
+ThrowingCrescent: {
+	DisplayName: Creciente Arrojadiza
+	Tooltip: ""
+}
+
+DragonBlade: {
+	DisplayName: Hoja Dragón
+	Tooltip: ¡Dispara espadas pequeñas!
+}
+
+DarkmatterSlasher: {
+	DisplayName: Cortador de Materia Oscura
+	Tooltip: ""
+}
+
+DarkmatterSpinblade: {
+	DisplayName: Hoja Giratoria de Materia Oscura
+	Tooltip: ""
+}
+
+RealityShredders: {
+	DisplayName: Desgarradores de Realidad
+	Tooltip: Hojas hechas de Materia Oscura. Inflige el efecto negativo Electrificado
+}
+
+Void: {
+	DisplayName: Vacío
+	Tooltip: Hecha de pura Materia Oscura
+}
+
+Poppy: {
+	DisplayName: Amapola
+	Tooltip: ""
+}
+
+TrueCopperShortsword: {
+	DisplayName: Espada Corta de Cobre Verdadera
+	Tooltip: Literalmente hecha solo por los memes
+}
+
+StallionsStar: {
+	DisplayName: Estrella del Semental
+	Tooltip: Una hoja giratoria de ruina
+}
+
+RiftShredder: {
+	DisplayName: Desgarrador de Grietas
+	Tooltip: Dispara estrellas del vacío que desgarran la realidad misma
+}
+
+TheVortex: {
+	DisplayName: El Vórtice
+	Tooltip: Gira lo suficientemente rápido para arrastrar a todos los enemigos a su atracción gravitacional
+}
+
+FulguriteTazesaber: {
+	DisplayName: Espada Electrizada de Fulgurianita
+	Tooltip: ""
+}
+
+StormJavelin: {
+	DisplayName: Jabalina de Tormenta
+	Tooltip: ""
+}
+
+InfinityBlade: {
+	DisplayName: Hoja del Infinito
+	Tooltip: ""
+}
+
+SagittariusA: {
+	DisplayName: Sagitario-A
+	Tooltip: Lanza 6 cadenas de combate con filos afilados
+}
+
+FuryForger: {
+	DisplayName: Forja de Furia
+	Tooltip: Golpear enemigos causa chispas que vuelan de ellos
+}
+
+CursedSickle: {
+	DisplayName: Hoz Maldita
+	Tooltip:
+		'''
+		Gira una guadaña maldita alrededor tuyo que desgarrra a enemigos
+		Clic derecho para blandir la guadaña sobre la cabeza y disparar una Guadaña Maldita
+		'''
+}
+
+Demise: {
+	DisplayName: Perdición
+	Tooltip:
+		'''
+		Una espada legendaria que fue blandida por el rey demonio
+		Clic izquierdo para desatar energía demoníaca destructiva
+		Clic derecho para desatar hojas demoníacas que caen del cielo
+		'''
+}
+
+ExtravagantLongsword: {
+	DisplayName: Espada Larga Extravagante
+	Tooltip: ""
+}
+
+ExtravagantLongswordS: {
+	DisplayName: Espada Larga Extravagante
+	Tooltip: ""
+}
+
+ScytheOfTheGrimReaper: {
+	DisplayName: Guadaña de la Parca
+	Tooltip:
+		'''
+		Clic izquierdo para blandir y soltar guadaña de búsqueda
+		Clic derecho para hacer golpe de carrera
+		Eres inmune durante la carrera e infliges 10x daño en combate cuerpo a cuerpo
+		La habilidad de carrera tiene 10 segundos de recarga
+		'Bueno, ¿cuántas Parcas has conocido antes, amigo?'
+		- Gregg
+		'''
+}
+
+SoulSiphon: {
+	DisplayName: Sifón de Almas
+	Tooltip:
+		'''
+		Te juro que si me pides una canción una vez más...
+		- Charlie
+		'''
+}
+
+TimeTeller: {
+	DisplayName: Relojero del Tiempo
+	Tooltip:
+		'''
+		El daño cambia basado en la hora del día
+		El daño es mayor al Mediodía y la Medianoche
+		'¡Hora de Morir!'
+		- Dallin
+		'''
+}
+
+TitanAxe: {
+	DisplayName: Hacha del Titán
+	Tooltip:
+		'''
+		Clic derecho lanza el hacha.
+		Clic izquierdo balancea el hacha.
+		'Vaya, esto no es Google'
+		- Welox
+		'''
+}
+
+NoodleSword: {
+	DisplayName: "[DEV] Espada Fideos"
+	Tooltip: Top 10 armas rotas en videojuegos
+}
+
+EmperorFlairon: {
+	DisplayName: Flairón Emperador
+	Tooltip: Suelta una armada de burbujas de búsqueda
+}
+
+Axis: {
+	DisplayName: Eje
+	Tooltip:
+		'''
+		Los enemigos golpeados por esta lanza serán rodeados por copos de nieve
+		Polo Norte EX
+		'''
+}
+
+Catastrophe: {
+	DisplayName: Catástrofe
+	Tooltip:
+		'''
+		Una gran espada todopoderosa que fue blandida por el señor demonio
+		Clic izquierdo para desatar energía demoníaca destructiva
+		Clic derecho para desatar hojas cataclísmicas que caen del cielo
+		Los Golpes de Combate Real tienen una oportunidad de devorar al instante el alma de un enemigo
+		Perdición EX
+		'''
+}
+
+Chronos: {
+	DisplayName: Cronos
+	Tooltip:
+		'''
+		Relojero del Tiempo EX
+		El daño cambia basado en la hora del día
+		El daño es mayor al Mediodía y la Medianoche
+		'El tiempo es una gran bola de yo-yos temporales vibrantes y ondulantes.'
+		- Dallin
+		'''
+}
+
+CosmicFury: {
+	DisplayName: Furia Cósmica
+	Tooltip:
+		'''
+		Causa que las estrellas llueva del cielo
+		Las estrellas pueden alcanzar enemigos a través de cualquier obstáculo
+		Ira Estelar EX
+		'''
+}
+
+ExquisiteExtravagantGreatblade: {
+	DisplayName: Gran Espada Exquisita y Extravagante
+	Tooltip: Espada Larga Extravagante EX
+}
+
+ExquisiteExtravagantGreatbladeS: {
+	DisplayName: Gran Espada Exquisita y Extravagante
+	Tooltip: Espada Larga Extravagante EX
+}
+
+FinalChaos: {
+	DisplayName: Caos Final
+	Tooltip:
+		'''
+		'PUEDO HACER CUALQUIER COSA'
+		Arma Legendaria
+		'''
+}
+
+PerfectChaosChain: {
+	DisplayName: Cadena de Caos Perfecto
+	Tooltip:
+		'''
+		Dispara una hoja giratoria que desgarrra enemigos
+		Cadena del Caos EX
+		'''
+}
+
+PerfectChaosYari: {
+	DisplayName: Yari de Caos Perfecto
+	Tooltip: Yari del Caos EX
+}
+
+SlapBone: {
+	DisplayName: Hueso de Golpe
+	Tooltip:
+		'''
+		El golpe más pequeño enviará a tus enemigos al espacio
+		Mano de Golpe EX
+		'''
+}
+
+SoulShredder: {
+	DisplayName: Desgarrador de Almas
+	Tooltip:
+		'''
+		Clic izquierdo para blandir y soltar guadaña de búsqueda
+		Clic derecho para hacer golpe de carrera
+		Eres inmune durante la carrera e infliges 15x daño en combate cuerpo a cuerpo
+		La habilidad de carrera tiene 5 segundos de recarga
+		'Bueno, ¿cuántas Parcas has conocido antes, amigo?'
+		- Gregg
+		Guadaña de la Parca EX
+		'''
+}
+
+TartarusReaper: {
+	DisplayName: Segador del Tártaro
+	Tooltip:
+		'''
+		Gira una guadaña maldita alrededor tuyo que desgarrra a enemigos
+		Clic derecho para blandir la guadaña
+		Hoz Maldita EX
+		'''
+}
+
+TitanSlayer: {
+	DisplayName: Asesino del Titán
+	Tooltip:
+		'''
+		Clic izquierdo para balancear rápidamente el hacha
+		Clic derecho para lanzar el hacha
+		Hacha del Titán EX
+		'''
+}
+
+BugSwatter: {
+	DisplayName: Matamoscas
+	Tooltip: Causa daño adicional a bichos desagradables
+}
+
+MidasClub: {
+	DisplayName: Garrote de Midas
+	Tooltip: Golpea cosas para conseguir más dinero
+}
+
+Tizona: {
+	DisplayName: Tizona
+	Tooltip: ""
+}
+
+SkycutterKopis: {
+	DisplayName: Cópide Cortador del Cielo
+	Tooltip: ""
+}
+
+Olympia: {
+	DisplayName: Olimpia
+	Tooltip: ""
+}
+
+BloodyMary: {
+	DisplayName: María Sangrienta
+	Tooltip: ""
+}
+
+BaneOfTheBunny: {
+	DisplayName: Perdición del Conejo
+	Tooltip:
+		'''
+		Clic derecho para usar como lanza
+		Clic izquierdo para usar como jabalina
+		Lanzar Jabalinas justo después de una estocada de lanza lanza jabalinas más rápido por un momento
+		'''
+}
+
+ThePunisher: {
+	DisplayName: El Castigador
+	Tooltip: ""
+}
+
+BaneOfTheSlaughterer: {
+	DisplayName: Perdición del Carnicero
+	Tooltip:
+		'''
+		Clic derecho para usar como lanza
+		Clic izquierdo para usar como jabalina
+		Lanzar Jabalinas justo después de una estocada de lanza lanza jabalinas más rápido por un momento
+		Perdición del Conejo EX
+		'''
+}
+
+Excalihare: {
+	DisplayName: Excaliconejo
+	Tooltip: ""
+}
+
+TheAvenger: {
+	DisplayName: El Vengador
+	Tooltip: El Castigador EX
+}
+
+Chaos_Item: {
+	DisplayName: Caos
+	Tooltip: Ira e furia sobre aquellos golpeados por esta hoja discordante
+}
+
+ChaosChain: {
+	DisplayName: Cadena del Caos
+	Tooltip: Lanza una esfera volátil de energía caótica
+}
+
+ChaosYari: {
+	DisplayName: Yari del Caos
+	Tooltip: ""
+}
+
+Asteroid: {
+	DisplayName: Asteroide
+	Tooltip:
+		'''
+		Se estrella en enemigos con la fuerza de un asteroide chocando contra la tierra
+		Inflige Infierno Discordante
+		'''
+}
+
+Timesplitter: {
+	DisplayName: Divisor del Tiempo
+	Tooltip:
+		'''
+		Se dice que esta lanza fue usada para dividir el tiempo en día y noche
+		Inflige Amanecer y Devastación Lunar
+		'''
+}
+
+Masamune: {
+	DisplayName: Masamune
+	Tooltip:
+		'''
+		Clic izquierdo para cortar rápidamente a tus enemigos con la hoja
+		Ignora marcos de invulnerabilidad
+		Clic derecho para disparar una onda de hoja
+		'''
+}
+
+DuskBringer: {
+	DisplayName: Traedor del Crepúsculo
+	Tooltip: ""
+}
+
+FleshrendClaymore: {
+	DisplayName: Gran Claymore que Rasga Carne
+	Tooltip: Manchada con la sangre de tus enemigos caídos.
+}
+
+CarnalCrusher: {
+	DisplayName: Triturador Carnal
+	Tooltip: Los Golpes Críticos te curam
+}
+
+IchorSpear: {
+	DisplayName: Lanza de Ícor
+	Tooltip: Inflige Ícor a enemigos al golpear
+}
+
+Djinnerang: {
+	DisplayName: Djinnerang
+	Tooltip: ""
+}
+
+SultansScimitar: {
+	DisplayName: Cimitarra del Sultán
+	Tooltip: ""
+}
+
+AmberGreatsword: {
+	DisplayName: Gran Espada de Ámbar
+	Tooltip: ""
+}
+
+AmberSaber: {
+	DisplayName: Sable de Ámbar
+	Tooltip: ""
+}
+
+DesertScimitar: {
+	DisplayName: Cimitarra del Desierto
+	Tooltip: ""
+}
+
+SandScimitar: {
+	DisplayName: Cimitarra de Arena
+	Tooltip: ""
+}
+
+JackalsWrath: {
+	DisplayName: Ira del Chacal
+	Tooltip: Dispara una hoja fantasmal de penetración de muro que regresa al balancear
+}
+
+Judgment: {
+	DisplayName: Sentencia
+	Tooltip: Suelta lluvia de arena encantada al golpear enemigos
+}
+
+CrookOfTheSoulJudge: {
+	DisplayName: Cayado del Juez de Almas
+	Tooltip:
+		'''
+		Atraviesa bloques
+		Cada golpe que hace el cayado te cura cuando regresa
+		'''
+}
+
+Soulsplitter: {
+	DisplayName: Divisor de Almas
+	Tooltip: Dispara un trío de hojas fantasmales de penetración de muro que regresan al balancear
+}
+
+Verdict: {
+	DisplayName: Veredicto
+	Tooltip:
+		'''
+		Suelta lluvia de arena encantada al golpear enemigos
+		Crea 2 hojas fantasmales olvidadas que también golpean horizontalmente al enemigo
+		'''
+}
+
+AquaLance: {
+	DisplayName: Lanza Acuática
+	Tooltip: ""
+}
+
+BladeOfEvil: {
+	DisplayName: Hoja del Mal
+	Tooltip:
+		'''
+		El equilibrio perfecto entre Corrupción y Carmesí
+		Dispara bolas de fuego alternando de Ícor y Llamas Malditas
+		'''
+}
+
+ToadTongue: {
+	DisplayName: Lengua de Sapo
+	Tooltip: Atrae enemigos hacia ti cuando se retrae
+}
+
+GoblinSlayer: {
+	DisplayName: Asesino de Goblins
+	Tooltip:
+		'''
+		Puede blandirse con clic izquierdo y lanzarse hacia adelante con clic derecho
+		'La hoja de un legendario asesino de goblins'
+		'''
+}
+
+IlluminantFlail: {
+	DisplayName: Cadena de Combate Iluminante
+	Tooltip: ""
+}
+
+MoltenLance: {
+	DisplayName: Lanza de Magma
+	Tooltip: ¡Hace brochetas de parrilla instantáneas!
+}
+
+ScorchedSaw: {
+	DisplayName: Sierra Chamuscada
+	Tooltip: ""
+}
+
+StoneSlammer: {
+	DisplayName: Golpeador de Piedra
+	Tooltip: Golpear a un volador siempre da crítico y envía el objetivo volando al suelo
+}
+
+Earthbreaker: {
+	DisplayName: Rompedor de Tierra
+	Tooltip:
+		'''
+		Golpear a un volador siempre da crítico y envía el objetivo volando al suelo
+		La fuerza de concusión del golpe también tiene una 50% de oportunidad de confundir al enemigo golpeado
+		Si el enemigo golpea el suelo después de ser golpeado, tomará daño
+		'''
+}
+
+DragonGlove: {
+	DisplayName: Guante de Dragón
+	Tooltip: ""
+}
+
+Incineration: {
+	DisplayName: Incineración
+	Tooltip: Quemador Giratorio
+}
+
+Pyrosphere: {
+	DisplayName: Esfera Ígnea
+	Tooltip: ""
+}
+
+Yogan: {
+	DisplayName: Yogan
+	Tooltip: Enciende enemigos al golpear
+}
+
+Dracorang: {
+	DisplayName: Dracorang
+	Tooltip: Deja un rastro de fuego de corta duración
+}
+
+Firestorm: {
+	DisplayName: Tormenta de Fuego
+	Tooltip: Lanza bolas de fuego rebotantes al balancear
+}
+
+Ryusei: {
+	DisplayName: Ryusei
+	Tooltip: Enciende enemigos al golpear con fuego y Fuego de Dragón
+}
+
+SunHalberd: {
+	DisplayName: Alabarda del Sol
+	Tooltip: Golpea enemigos en un arco, luego perfora en la dirección del cursor
+}
+
+DragonShiv: {
+	DisplayName: Cuchilla de Dragón
+	Tooltip:
+		'''
+		Lento, pero golpea como un cuerpo celestial
+		Inflige Amanecer
+		'''
+}
+
+GrassSpear: {
+	DisplayName: Lanza de Hierba
+	Tooltip: ""
+}
+
+JungleReaper: {
+	DisplayName: Segador de la Jungla
+	Tooltip: Es una guadaña. Cálmate Welox.
+}
+
+MadnessSaber: {
+	DisplayName: Sable de Locura
+	Tooltip: ""
+}
+
+AbyssalTwilight: {
+	DisplayName: Crepúsculo Abismal
+	Tooltip: El Anochecer Eterno Llama
+}
+
+Depthwalker: {
+	DisplayName: Caminante de Profundidades
+	Tooltip: Camina por la Hidra
+}
+
+ExilesKatana: {
+	DisplayName: Katana del Exiliado
+	Tooltip: Formada con la ira inquebrantable de las profundidades.
+}
+
+HydraGlove: {
+	DisplayName: Guante de Hidra
+	Tooltip: ""
+}
+
+HydrasSpear: {
+	DisplayName: Lanza de Hidra
+	Tooltip: ""
+}
+
+AbyssalArc: {
+	DisplayName: Arco Abismal
+	Tooltip: ""
+}
+
+BackScratcher: {
+	DisplayName: Rascador de Espalda
+	Tooltip: ""
+}
+
+DeathDaggers: {
+	DisplayName: Puñales de Muerte
+	Tooltip: Lanza puñales que roban vida infligiendo Hidratoxina
+}
+
+DreadTwilight: {
+	DisplayName: Crepúsculo Terrorífico
+	Tooltip: La luna naciente encarnada
+}
+
+GuardianOfTheDepths: {
+	DisplayName: Guardián de las Profundidades
+	Tooltip: ""
+}
+
+SwimmingHydra: {
+	DisplayName: Hidra Nadadora
+	Tooltip: ""
+}
+
+Amenomuraku: {
+	DisplayName: Amenomuraku
+	Tooltip:
+		'''
+		Utilizada para derrotar las monstruosidades de múltiples cabezas del abismo
+		Inflige Devastación Lunar
+		'''
+}
+
+OceanRazor: {
+	DisplayName: Navaja Oceánica
+	Tooltip: Salado
+}
+
+SaltwaterSpear: {
+	DisplayName: Lanza de Agua Salada
+	Tooltip: ""
+}
+
+RomulusTazesaber: {
+	DisplayName: Espada Electrizada de Rómulo
+	Tooltip: Una Espada Electrizada Fulguriana robada de un héroe respetado.
+}
+
+SpookySawblade: {
+	DisplayName: Cuchilla de Sierra Espeluznante
+	Tooltip: Un chakram poseído que busca enemigos porque está poseído por un fantasma espeluznante
+}
+
+Musharang: {
+	DisplayName: Musharang
+	Tooltip: ""
+}
+
+Mushmace: {
+	DisplayName: Musmazo
+	Tooltip: ""
+}
+
+CloudEdge: {
+	DisplayName: Filo de Nube
+	Tooltip: Dispara proyectiles de nube
+}
+
+TheDragonsBreath: {
+	DisplayName: Aliento del Dragón
+	Tooltip: Debe necesitar cepillarse los dientes
+}
+
+BlizzardBuster: {
+	DisplayName: Rompedor de Nevadas
+	Tooltip: ""
+}
+
+SerpentSpike: {
+	DisplayName: Púa de Serpiente
+	Tooltip: ""
+}
+
+SubzeroSlasher: {
+	DisplayName: Cortador Subglacial
+	Tooltip: Tiene una oportunidad de disparar un proyectil subglacial al balancear
+}
+
+GlacierBreaker: {
+	DisplayName: Rompedor de Glaciares
+	Tooltip: Suelta Carámbanos mientras la cadena de combate viaja
+}
+
+IceLongsword: {
+	DisplayName: Espada Larga de Hielo
+	Tooltip: Lanza hielo literal a tus enemigos en lugar de ese miserable pequeño rayo de nieve
+}
+
+RaiderLance: {
+	DisplayName: Lanza de Asaltante
+	Tooltip: ""
+}
+
+VikingPolearm: {
+	DisplayName: Arma de Asta Vikinga
+	Tooltip: ""
+}
+
+AsgardianLance: {
+	DisplayName: Lanza de Asgard
+	Tooltip: ""
+}
+
+DragonFang: {
+	DisplayName: Colmillo de Dragón
+	Tooltip: Clic derecho para cortar a tus enemigos con la gracia de una Valquiria
+}
+
+BreakingDawn: {
+	DisplayName: Amanecer Roto
+	Tooltip: ""
+}
+
+TerraBroadsword: {
+	DisplayName: Gran Espada Terra
+	Tooltip: ""
+}
+
+HarmonyShortsword: {
+	DisplayName: Espada Corta de Armonía
+	Tooltip: ""
+}
+
+AmethystGreatsword: {
+	DisplayName: Gran Espada de Amatista
+	Tooltip: ""
+}
+
+AmethystSaber: {
+	DisplayName: Sable de Amatista
+	Tooltip: ""
+}
+
+DiamondGreatsword: {
+	DisplayName: Gran Espada de Diamante
+	Tooltip: ""
+}
+
+DiamondSaber: {
+	DisplayName: Sable de Diamante
+	Tooltip: ""
+}
+
+EmeraldGreatsword: {
+	DisplayName: Gran Espada de Esmeralda
+	Tooltip: ""
+}
+
+EmeraldSaber: {
+	DisplayName: Sable de Esmeralda
+	Tooltip: ""
+}
+
+PrismaticGreatsword: {
+	DisplayName: Gran Espada Prismática
+	Tooltip: ""
+}
+
+RubyGreatsword: {
+	DisplayName: Gran Espada de Rubí
+	Tooltip: ""
+}
+
+RubySaber: {
+	DisplayName: Sable de Rubí
+	Tooltip: ""
+}
+
+SapphireGreatsword: {
+	DisplayName: Gran Espada de Zafiro
+	Tooltip: ""
+}
+
+SapphireSaber: {
+	DisplayName: Sable de Zafiro
+	Tooltip: ""
+}
+
+TopazGreatsword: {
+	DisplayName: Gran Espada de Topacio
+	Tooltip: ""
+}
+
+TopazSaber: {
+	DisplayName: Sable de Topacio
+	Tooltip: ""
+}
+
+TrueTinShortsword: {
+	DisplayName: Espada Corta de Estaño Verdadera
+	Tooltip: La verdadera hoja de las sombras
+}
+
+SagittariusLeg: {
+	DisplayName: Pierna de Sagitario
+	Tooltip: Es un pedazo de metal. Golpeas cosas con él. Concepto muy básico.
+}
+
+DoomiteSaber: {
+	DisplayName: Sable de Doomita
+	Tooltip: ""
+}
+
+Executioner: {
+	DisplayName: Ejecutor
+	Tooltip: ""
+}
+
+Voidsaber: {
+	DisplayName: Sable del Vacío
+	Tooltip: ""
+}
+
+EventHorizon: {
+	DisplayName: Horizonte de Eventos
+	Tooltip: ""
+}
+
+RealityAnchor: {
+	DisplayName: Ancla de Realidad
+	Tooltip: Lanza un ancla misteriosa que impacta con las fuerzas de varias dimensiones
+}

@@ -1,0 +1,32 @@
+Razewood: 1 defense
+Bogwood: 1 defense
+Stellar:
+	'''
+	You emit light
+	Increased mana regeneration rate
+	10% reduced mana usage
+	'''
+Steward: undecided
+GoblinM:
+	'''
+	Increased armour penetration by 2
+	Immunity to knockback
+	'''
+GoblinR:
+	'''
+	Increased armour penetration by 2
+	15% increased movement speed
+	'''
+Ashigaru: May increase haul from fishing (unimplemented)
+Biotic:
+	'''
+	Immunity to blue and red Infestation
+	While above 50% health, 12% increased damage and 10% increased attack speed
+	While below 50% health, 15% increased movement speed and damage resistance
+	'''
+Incinerite:
+	'''
+	Your Magic and Minions ignite enemies
+	Fire magic is empowered
+	'''
+Scalemail: undecided

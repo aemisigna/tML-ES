@@ -1,0 +1,252 @@
+TilesInfo: {
+	Spawnpointremoved: ¡Punto de resurrección eliminado!
+	Spawnpointset: ¡Punto de resurrección establecido!
+	EnderMemoryInfo: En memoria de un viejo amigo perdido, que aún vive en nuestros corazones.
+	DragonEgg1: El sonido del huevo al romperse resuena por el volcán...
+	DragonEgg2: Escuchas un rugido lejano...
+	DragonEgg3: Escuchas un rugido cansado y apagado, y luego... ¿ronquidos...?
+	HydraPod1: El contenido se derrama de la vaina rota. Qué asco.
+	HydraPod2: Escuchas un siseo en algún lugar cercano.
+	HydraPod3: Escuchas un siseo, pero se escabulle entre la niebla...
+}
+
+GreedChest: {
+	MapEntry: Cofre de la Codicia
+	GreedChest1: El suelo bajo tus pies tiembla ligeramente...
+	GreedChest2: Escuchas un grito resonar por las cavernas...
+	GreedChest3: ¡¡QUITA LAS MANOS DE MI BOTÍN, MONO LADRÓN!!!
+}
+
+AvesInABox_Tile.MapEntry: Aves en una caja
+DevStatue_Tile.MapEntry: Estatua
+AleisterBook_Tile.MapEntry: Libro de Aleister
+CCBag_Tile.MapEntry: Caja de cartón
+CerberusBag_Tile.MapEntry: Perrera de Cerbero
+CrystalChandelier_Tile.MapEntry: Lámpara Araña de cristal
+EnderMemory_Tile.MapEntry: Memoria de Ender
+FurnitureDynamo_Tile.MapEntry: Dínamo de Muebles
+SkyCrystal_Tile.MapEntry: Cristal Celestial
+AcropolisAltar_Tile.MapEntry: Altar del Búho
+RoyalRabbitCage_Tile.MapEntry: Jaula del Conejo Real
+RitualAltar_Tile.MapEntry: Altar ritual
+DiscordianTorch_Tile.MapEntry: Antorcha discordiana
+AnyAncientCraftingStation_Tile.MapEntry: Cualquier estación de fabricación antigua
+ChaosCrucible_Tile.MapEntry: Crisol del Caos
+ChaosAltarSafe_Tile.MapEntry: Altar del Caos
+DynaskullFossil_Tile.MapEntry: Fósil de Dynaskull
+EvilAltarSafe_Tile.MapEntry: Altar malvado
+HallowedOre_Tile.MapEntry: Mineral sagrado
+ThixxieBanner_Tile.MapEntry: Estandarte de Thixxie
+HallowedAnvil_Tile.MapEntry: Yunque sagrado
+HallowedForge_Tile.MapEntry: Forja sagrada
+PaladinsSmeltery_Tile.MapEntry: Fundición del Paladín
+TruePaladinsSmeltery_Tile.MapEntry: Fundición del Paladín Verdadero
+FatPixie_Banner_Tile.MapEntry: Estandarte de Hada Gorda
+HaphestusForge_Tile.MapEntry: Forja de Haphestus
+HellstoneAnvil_Tile.MapEntry: Yunque de piedra infernal
+Throne_Tile.MapEntry: Trono del Mal
+CovetiteOre_Tile.MapEntry: Mineral de Covetita
+GreedAltar_Tile.MapEntry: Altar del Deseo
+GreedChest_Tile.MapEntry: Cofre de la Codicia
+GreedLantern_Tile.MapEntry: Linterna de piedra
+IncineriteOre_Tile.MapEntry: Mineral de Incinerita
+RazewoodBed_Tile.MapEntry: Cama de Madera Calcinada
+RazewoodBookshelf_Tile.MapEntry: Librería de Madera Calcinada
+RazewoodCandelabra_Tile.MapEntry: Candelabro de Madera Calcinada
+RazewoodCandle_Tile.MapEntry: Vela de Madera Calcinada
+RazewoodChair_Tile.MapEntry: Silla de Madera Calcinada
+RazewoodChandelier_Tile.MapEntry: Lámpara Araña de Madera Calcinada
+RazewoodChest_Tile.MapEntry: Cofre de Madera Calcinada
+
+RazewoodClock_Tile: {
+	MapEntry: Reloj de Madera Calcinada
+	FlavorText: Quizá hacer un reloj con madera quemada no fue tan buena idea. Ni siquiera funciona.
+}
+
+RazewoodCouch_Tile.MapEntry: Sofá de Madera Calcinada
+RazewoodDoorClosed_Tile.MapEntry: Puerta de Madera Calcinada
+RazewoodDoorOpen_Tile.MapEntry: Puerta de Madera Calcinada
+RazewoodDresser_Tile.MapEntry: Aparador de Madera Calcinada
+RazewoodLamp_Tile.MapEntry: Lámpara de Madera Calcinada
+RazewoodLantern_Tile.MapEntry: Linterna de Madera Calcinada
+RazewoodPiano_Tile.MapEntry: Piano de Madera Calcinada
+RazewoodSink_Tile.MapEntry: Fregadero de Madera Calcinada
+RazewoodTable_Tile.MapEntry: Mesa de Madera Calcinada
+RazewoodTub_Tile.MapEntry: Bañera de Madera Calcinada
+RazewoodWorkbench_Tile.MapEntry: Banco de trabajo de Madera Calcinada
+DragonfireTorch_Tile.MapEntry: Antorcha de Fuego de Dragón
+SharpeningLavaFish_Tile.MapEntry: Pez afilador de lava
+DaybreakIncineriteOre_Tile.MapEntry: Mineral de Incinerita del Amanecer
+DaybreakTorch_Tile.MapEntry: Antorcha del Amanecer
+InfernoChest_Tile.MapEntry: Cofre del Infierno
+DragonAltarUnsafe_Tile.MapEntry: Altar del Dragón
+DragonEgg_Tile.MapEntry: Huevo de Dragón
+RazewoodPalmSapling_Tile.MapEntry: Retoño de palmera de Madera Calcinada
+RazewoodSapling_Tile.MapEntry: Retoño de Madera Calcinada
+AbyssiumOre_Tile.MapEntry: Mineral de Abisium
+BogwoodBathtub_Tile.MapEntry: Bañera de Madera del Cenagal
+BogwoodBed_Tile.MapEntry: Cama de Madera del Cenagal
+BogwoodBench_Tile.MapEntry: Banco de Madera del Cenagal
+BogwoodBookshelf_Tile.MapEntry: Librería de Madera del Cenagal
+BogwoodCandelabra_Tile.MapEntry: Candelabro de Madera del Cenagal
+BogwoodCandle_Tile.MapEntry: Vela de Madera del Cenagal
+BogwoodChair_Tile.MapEntry: Silla de Madera del Cenagal
+BogwoodChandelier_Tile.MapEntry: Lámpara Araña de Madera del Cenagal
+BogwoodChest_Tile.MapEntry: Cofre de Madera del Cenagal
+BogwoodClock_Tile.MapEntry: Reloj de Madera del Cenagal
+BogwoodCouch_Tile.MapEntry: Sofá de Madera del Cenagal
+BogwoodDoorClosed_Tile.MapEntry: Puerta de Madera del Cenagal
+BogwoodDoorOpen_Tile.MapEntry: Puerta de Madera del Cenagal
+BogwoodDresser_Tile.MapEntry: Aparador de Madera del Cenagal
+BogwoodLamp_Tile.MapEntry: Lámpara de Madera del Cenagal
+BogwoodLantern_Tile.MapEntry: Linterna de Madera del Cenagal
+BogwoodPiano_Tile.MapEntry: Piano de Madera del Cenagal
+BogwoodSink_Tile.MapEntry: Fregadero de Madera del Cenagal
+BogwoodTable_Tile.MapEntry: Mesa de Madera del Cenagal
+BogwoodWorkbench_Tile.MapEntry: Banco de trabajo de Madera del Cenagal
+BogtoxinTorch_Tile.MapEntry: Antorcha de Toxina del Cenagal
+ToxinMonkfish_Tile.MapEntry: Rape Tóxico
+EventideAbyssiumOre_Tile.MapEntry: Mineral de Abisium del Crepúsculo
+EventideTorch_Tile.MapEntry: Antorcha del Crepúsculo
+MireChest_Tile.MapEntry: Cofre del Cenagal
+AbyssAltarUnsafe_Tile.MapEntry: Altar del Abismo
+HydraPod_Tile.MapEntry: Vaina de Hidra
+BogwoodPalmTreeSapling_Tile.MapEntry: Retoño de palmera de Madera del Cenagal
+BogwoodSapling_Tile.MapEntry: Retoño de Madera del Cenagal
+VikingRelic_Tile.MapEntry: Reliquia vikinga
+RadiumOre_Tile.MapEntry: Mineral de radio
+QuantumFusionAccelerator_Tile.MapEntry: Acelerador de Fusión Cuántica
+RadiantArcanum_Tile.MapEntry: Arcano Radiante
+GravAltar_Tile.MapEntry: Altar de la Fuerza
+StarAltar_Tile.MapEntry: Altar de las Estrellas
+WormAltar_Tile.MapEntry: Altar del Equilibrio
+TerraCore_Tile.MapEntry: Núcleo de Terraria
+TerraPrismStation_Tile.MapEntry: Núcleo del Infinito
+PrismOre_Tile.MapEntry: Mineral de prisma
+OuroborosWoodBathtub_Tile.MapEntry: Bañera de madera de Ouroboros
+OuroborosWoodBed_Tile.MapEntry: Cama de madera de Ouroboros
+OuroborosWoodBookcase_Tile.MapEntry: Librería de madera de Ouroboros
+OuroborosWoodChair_Tile.MapEntry: Silla de madera de Ouroboros
+OuroborosWoodChest_Tile.MapEntry: Cofre de madera de Ouroboros
+OuroborosWoodClock_Tile.MapEntry: Reloj de madera de Ouroboros
+OuroborosWoodDoorClosed_Tile.MapEntry: Puerta de madera de Ouroboros
+OuroborosWoodDoorOpen_Tile.MapEntry: Puerta de madera de Ouroboros
+OuroborosWoodLantern_Tile.MapEntry: Linterna de madera de Ouroboros
+OuroborosWoodWorkbench_Tile.MapEntry: Banco de trabajo de madera de Ouroboros
+ApocalyptiteOre_Tile.MapEntry: Mineral de apocaliptita
+DoomBathtub_Tile.MapEntry: Bañera Doomita
+DoomBed_Tile.MapEntry: Cama Doomita
+DoomBookcase_Tile.MapEntry: Librería Doomita
+DoomCandelabra_Tile.MapEntry: Candelabro Doomita
+DoomCandle_Tile.MapEntry: Vela Doomita
+DoomChair_Tile.MapEntry: Silla Doomita
+DoomChandelier_Tile.MapEntry: Lámpara Araña Doomita
+DoomChest_Tile.MapEntry: Cofre Doomita
+
+DoomClock_Tile: {
+	MapEntry: Reloj Doomita
+
+	FlavorText: {
+		PreZero:
+			'''
+			El reloj está contando regresivamente hasta algo... aunque no sabes qué.
+			El número actual es tan alto que ni siquiera sabes cómo se llama.
+			'''
+		PostZero: El reloj muestra un solo dígito: 0
+	}
+}
+
+DoomCouch_Tile.MapEntry: Sofá Doomita
+DoomDoorClosed_Tile.MapEntry: Puerta Doomita
+DoomDoorOpen_Tile.MapEntry: Puerta Doomita
+DoomDresser_Tile.MapEntry: Aparador Doomita
+DoomLamp_Tile.MapEntry: Lámpara Doomita
+DoomLantern_Tile.MapEntry: Linterna Doomita
+DoomPiano_Tile.MapEntry: Piano Doomita
+DoomSink_Tile.MapEntry: Fregadero Doomita
+DoomTable_Tile.MapEntry: Mesa Doomita
+DoomWorkbench_Tile.MapEntry: Banco de trabajo Doomita
+BinaryReassembler_Tile.MapEntry: Reensamblador binario
+DoomsdayChest_Tile.MapEntry: Cofre del Fin del Mundo
+OuroborosSapling_Tile.MapEntry: Retoño de Ouroboros
+AncientDataBank_Tile.MapEntry: Banco de datos antiguo
+DataBank_Tile.MapEntry: Banco de datos
+StormChest_Tile.MapEntry: Cofre de la Tormenta
+Core_Tile.MapEntry: Célula de Biomite
+CoreActivator_Tile.MapEntry: Motor del Núcleo
+CoreDoor_Tile.MapEntry: Puerta sellada
+KeepBath_Tile.MapEntry: Bañera de la Fortaleza
+KeepBed_Tile.MapEntry: Cama de la Fortaleza
+KeepBookcase_Tile.MapEntry: Librería de la Fortaleza
+KeepCandelabra_Tile.MapEntry: Candelabro de la Fortaleza
+KeepCandle_Tile.MapEntry: Vela de la Fortaleza
+KeepChair_Tile.MapEntry: Silla de la Fortaleza
+KeepChandelier_Tile.MapEntry: Lámpara Araña de la Fortaleza
+KeepClock_Tile.MapEntry: Reloj de la Fortaleza
+KeepCouch_Tile.MapEntry: Sofá de la Fortaleza
+KeepDoorClosed_Tile.MapEntry: Puerta de la Fortaleza
+KeepDoorOpen_Tile.MapEntry: Puerta de la Fortaleza
+KeepDresser_Tile.MapEntry: Aparador de la Fortaleza
+KeepLamp_Tile.MapEntry: Lámpara de la Fortaleza
+KeepLantern_Tile.MapEntry: Linterna de la Fortaleza
+KeepPiano_Tile.MapEntry: Piano de la Fortaleza
+KeepSink_Tile.MapEntry: Fregadero de la Fortaleza
+KeepTable_Tile.MapEntry: Mesa de la Fortaleza
+KeepWorkbench_Tile.MapEntry: Banco de trabajo de la Fortaleza
+SpiralStairs_Tile.MapEntry: Escaleras de caracol
+TerraBath_Tile.MapEntry: Bañera de Terra
+TerraBed_Tile.MapEntry: Cama de Terra
+TerraBookcase_Tile.MapEntry: Librería de Terra
+TerraCandelabra_Tile.MapEntry: Candelabro de Terra
+TerraCandle_Tile.MapEntry: Vela de Terra
+TerraChair_Tile.MapEntry: Silla de Terra
+TerraChandelier_Tile.MapEntry: Lámpara Araña de Terra
+TerraChest_Tile.MapEntry: Cofre de Terra
+TerraClock_Tile.MapEntry: Reloj de Terra
+TerraCouch_Tile.MapEntry: Sofá de Terra
+TerraDoorClosed_Tile.MapEntry: Puerta de Terra
+TerraDoorOpen_Tile.MapEntry: Puerta de Terra
+TerraDresser_Tile.MapEntry: Aparador de Terra
+TerraLamp_Tile.MapEntry: Lámpara de Terra
+TerraLantern_Tile.MapEntry: Linterna de Terra
+TerraPiano_Tile.MapEntry: Piano de Terra
+TerraSink_Tile.MapEntry: Fregadero de Terra
+TerraTable_Tile.MapEntry: Mesa de Terra
+TerraWorkbench_Tile.MapEntry: Banco de trabajo de Terra
+KeepDoor1_Tile.MapEntry: Puerta de la Fortaleza
+KeepDoor2_Tile.MapEntry: Puerta de la Fortaleza
+KeepDoor2S_Tile.MapEntry: Puerta de la Fortaleza
+KeepDoor3_Tile.MapEntry: Puerta de la Fortaleza
+
+TerraStatue_Tile: {
+	MapEntry: Estatua del Héroe Perdido
+	FlavorText: El héroe que nos salvó a todos cuando estábamos al borde del caos
+}
+
+SunkenChest_Tile.MapEntry: Cofre hundido
+InfernoPylon_Tile.MapEntry: Torre de teletransporte del Infierno
+MirePylon_Tile.MapEntry: Torre de teletransporte del Cenagal
+RedMushroomPylon_Tile.MapEntry: Torre de teletransporte del Hongo Rojo
+VoidPylon_Tile.MapEntry: Torre de teletransporte del Vacío
+FulguriteShard_Tile.MapEntry: Fragmento de Fulgurita
+RedmushBed_Tile.MapEntry: Cama de champiñón
+RedmushBench_Tile.MapEntry: Banco de champiñón
+RedmushBookcase_Tile.MapEntry: Librería de champiñón
+RedmushCandelabra_Tile.MapEntry: Candelabro de champiñón
+RedmushCandle_Tile.MapEntry: Vela de champiñón
+RedmushChair_Tile.MapEntry: Silla de champiñón
+RedmushChandelier_Tile.MapEntry: Lámpara Araña de champiñón
+RedmushChest_Tile.MapEntry: Cofre de champiñón
+RedmushClock_Tile.MapEntry: Reloj de champiñón
+RedmushCouch_Tile.MapEntry: Sofá de champiñón
+RedmushDoorClosed_Tile.MapEntry: Puerta de champiñón
+RedmushDoorOpen_Tile.MapEntry: Puerta de champiñón
+RedmushDresser_Tile.MapEntry: Aparador de champiñón
+RedmushLamp_Tile.MapEntry: Lámpara de champiñón
+RedmushLantern_Tile.MapEntry: Linterna de champiñón
+RedmushPiano_Tile.MapEntry: Piano de champiñón
+RedmushSink_Tile.MapEntry: Fregadero de champiñón
+RedmushTable_Tile.MapEntry: Mesa de champiñón
+RedmushToilet_Tile.MapEntry: Retrete de champiñón
+RedmushTub_Tile.MapEntry: Bañera de champiñón
+RedmushWorkbench_Tile.MapEntry: Banco de trabajo de champiñón

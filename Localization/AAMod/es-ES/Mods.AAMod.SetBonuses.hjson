@@ -1,0 +1,32 @@
+Razewood: 1 de defensa
+Bogwood: 1 de defensa
+Stellar:
+	'''
+	Emites luz
+	Mayor velocidad de regeneración de maná
+	10% de reducción en el uso de maná
+	'''
+Steward: sin decidir
+GoblinM:
+	'''
+	Aumenta la penetración de armadura en 2
+	Inmunidad al retroceso
+	'''
+GoblinR:
+	'''
+	Aumenta la penetración de armadura en 2
+	15% de aumento en la velocidad de movimiento
+	'''
+Ashigaru: Puede aumentar el botín de la pesca (sin implementar)
+Biotic:
+	'''
+	Inmunidad a la Infestación Azul y Roja
+	Con más del 50% de vida, 12% de aumento de daño y 10% de aumento en la velocidad de ataque
+	Con menos del 50% de vida, 15% de aumento en la velocidad de movimiento y resistencia al daño
+	'''
+Incinerite:
+	'''
+	Tu magia y tus súbditos incendian a los enemigos
+	La magia de fuego se potencia
+	'''
+Scalemail: sin decidir

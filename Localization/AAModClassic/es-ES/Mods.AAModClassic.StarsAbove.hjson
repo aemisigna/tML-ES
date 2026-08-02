@@ -1,0 +1,387 @@
+PromptDialogue: {
+	MushroomMonarch: {
+		Seen: {
+			Asphodene: ¡Guau! ¡Un champiñón enorme! Y se está moviendo... Supongo que eso no es tan raro en este mundo.
+			Eridani: Los hongos de este mundo son verdaderamente extraños... Lo mejor será no subestimar a este enemigo.
+		}
+
+		Defeat: {
+			Asphodene: ¡Se está alejando volando! ¿Supongo que ganamos...? Me sirve.
+			Eridani: El Monarca huye. Una victoria temporal, pero una victoria al fin y al cabo.
+		}
+	}
+
+	FeudalFungus: {
+		Seen: {
+			Asphodene: Realeza fúngica luminosa. Claro que eso existe. Aunque esas esporas parecen peligrosas.
+			Eridani: La contraparte del monarca rojo. Sospecho que esas esporas luminiscentes poseen propiedades nocivas.
+		}
+
+		Defeat: {
+			Asphodene: Se está retirando. Un cobarde luminoso, pero al menos ya se fue.
+			Eridani: El Hongo Feudal escapa. Regresará, pero hemos ganado tiempo.
+		}
+	}
+
+	GripsOfChaos: {
+		Seen: {
+			Asphodene: ¿Dos manos gigantes y asquerosas? ¿Quién hizo esto? No parecen amigables.
+			Eridani: Puedo percibir energía caótica emanando de esas Garras. Mantente alerta.
+		}
+
+		Defeat: {
+			Asphodene: ¡Manos fuera! ...Bueno, ya paro. Cayeron.
+			Eridani: Un enemigo formidable, pero triunfamos gracias a un posicionamiento cuidadoso. Aunque dudo que sea la última vez que veamos fuerzas tan caóticas.
+		}
+	}
+
+	TruffleToad: {
+		Seen: {
+			Asphodene: Una rana champiñón. Brilla. Terraria es extraña, pero empiezo a disfrutarla.
+			Eridani: Ese sapo parece agitado. No dejes que su apariencia pequeña y adorable te engañe.
+		}
+
+		Defeat: {
+			Asphodene: El sapo ya croó. ...Me retiro antes de empeorar esto.
+			Eridani: El Sapo Trufa ya no existe. Su agilidad fue digna de mención, pero en última instancia insuficiente.
+		}
+	}
+
+	Broodmother: {
+		Seen: {
+			Asphodene: ¡Un dragón de verdad! Bien, esto es increíble. ...Por favor, que no me queme hasta carbonizarme.
+			Eridani: La Progenitora del Infierno. Un reptil pirogénico de poder considerable. Sus llamas serán letales.
+		}
+
+		Defeat: {
+			Asphodene: ¡La Progenitora cayó! Sabía que podíamos lograrlo. ...No preguntaré por las marcas de quemaduras.
+			Eridani: La Progenitora ha sido derrotada. Sus llamas se han extinguido. Una amenaza importante neutralizada.
+		}
+	}
+
+	HydraBody: {
+		Seen: {
+			Asphodene: Una cabeza, dos cabezas... ¡¿cuántas hay?! Esto se está saliendo de control.
+			Eridani: La Hidra. Cada cabeza representa una amenaza independiente. Concéntrate en una a la vez.
+		}
+
+		Defeat: {
+			Asphodene: ¿Cuántas cabezas eran? Perdí la cuenta. Al menos ya no queda ninguna.
+			Eridani: Las cabezas de la Hidra han dejado de moverse. Una victoria bien disputada.
+		}
+	}
+
+	SubzeroSerpent: {
+		Seen: {
+			Asphodene: ¡¿Una serpiente helada?! Hermosa, pero probablemente letal. No te acerques demasiado.
+			Eridani: La Serpiente Subcero. Su aliento de escarcha ígnea no es ninguna broma; mantén la distancia siempre que sea posible.
+		}
+
+		Defeat: {
+			Asphodene: Esa serpiente acaba de quedar congelada. Hoy estoy imparable.
+			Eridani: La Serpiente Subcero ha sido vencida. Tal vez ahora sea un poco más seguro explorar la tundra.
+		}
+	}
+
+	Djinn: {
+		Seen: {
+			Asphodene: ¡Un genio! ¿Puedo pedir tres deseos? ¿No? ¿Solo arena y golpes?
+			Eridani: El Djinn del Desierto controla las arenas mismas. No permitas que controle el campo de batalla.
+		}
+
+		Defeat: {
+			Asphodene: No hubo deseos, pero conseguimos botín. Lo tomaré como premio de consolación.
+			Eridani: El Djinn regresa a su lámpara. Las arenas vuelven a estar tranquilas.
+		}
+	}
+
+	Sagittarius: {
+		Seen: {
+			Asphodene: Un caballo robot que dispara láseres. Claro, ¿por qué no? Este mundo no deja de sorprenderme.
+			Eridani: Un constructo Fulguriano, pero la influencia del Vacío parece haberse apoderado de él. Procede con cautela.
+		}
+
+		Defeat: {
+			Asphodene: El caballo robot cayó. ¿'Daño extenso'? Sí, no me digas.
+			Eridani: Sagittarius ha sido desmantelado. Ahora no es más que chatarra.
+		}
+	}
+
+	Anubis: {
+		Seen: {
+			Asphodene: Anubis quiere ponernos a prueba. Dijo que no se contendrá. Esperemos poder con esto...
+			Eridani: Anubis, nuestro aliado, ahora es nuestro compañero de entrenamiento. Busca medir nuestra fuerza. No lo decepciones.
+		}
+
+		Defeat: {
+			Asphodene: Dice que lo hicimos bien. ¡Uf! Fue tenso, pero supongo que al final solo ladraba, no mordía.
+			Eridani: Anubis reconoce nuestra fuerza. Parece que estamos listos para lo que venga después.
+		}
+	}
+
+	Athena: {
+		Seen: {
+			Asphodene: ¡Ay, no! Quizá no fue buena idea golpear a esos Serafines... ¡Prepárate para luchar!
+			Eridani: Parece que nuestra intrusión aquí no pasó desapercibida... Ahora debemos enfrentarnos a la Reina de los Serafines.
+		}
+
+		Defeat: {
+			Asphodene: ¡Ja! ¡Le demostramos quién manda! Lo mejor es que nos deje en paz.
+			Eridani: Athena cede. Parece que incluso ella quedó impresionada por tu fuerza. Tal vez sea posible hacer las paces.
+		}
+	}
+
+	Greed: {
+		Seen: {
+			Asphodene: Un gusano gigante cubierto de oro. De mal gusto Y mortal. Vaya combinación.
+			Eridani: Avaricia, la Glotona Dorada. Acumula tesoros y detesta a los intrusos. Una motivación predecible.
+		}
+
+		Defeat: {
+			Asphodene: Se enterró de nuevo. Supongo que por ahora le dimos suficiente pelea.
+			Eridani: Avaricia se retira hacia la piedra. La criatura sigue viva, pero nosotros también.
+		}
+	}
+
+	Rajah: {
+		Seen: {
+			Asphodene: ¡Guau, qué conejo tan grande! ¡Y está MUY enojado!
+			Eridani: Rajah, el Conejo, el Justiciero Saltarín. Busca justicia, pero ¿qué hicimos para provocar su ira?
+
+			Murderer: {
+				Asphodene: Te llamó asesino. {0}, ¿qué HICISTE?
+				Eridani: ...Ya veo. Esto no es un duelo. Nos detesta de verdad. Su ira no carece de fundamento.
+			}
+		}
+
+		Defeat: {
+			Asphodene: Se está alejando volando... Con las orejas... Como hélices... Este mundo nunca deja de sorprenderme.
+			Eridani: Hemos vencido al Justiciero Saltarín, pero aun así, su ira fue bastante inquietante.
+
+			Murderer: {
+				Asphodene: Se fue, pero juró vengarse. Quizá deberíamos reconsiderar nuestras decisiones aquí...
+				Eridani: Se retira con odio en los ojos. Esto no ha terminado. Volveremos a enfrentarnos a él.
+			}
+		}
+	}
+
+	ForsakenAnubis: {
+		Seen: {
+			Asphodene: Este tipo tiene mucho descaro al pensar que no estamos listos. ¡Su nueva forma no nos detendrá! ¡Démosle una lección!
+			Eridani: El Juez Abandonado se alza. Está comprobando si estamos preparados para lo que permanece encerrado. Demostremos que lo estamos.
+		}
+
+		Defeat: {
+			Asphodene: ¡Claro que lo hiciste bien! Fue un enfrentamiento intenso. Veamos qué quiere.
+			Eridani: Una victoria bien merecida. En efecto, sería prudente celebrar una reunión estratégica. Vamos a hablar con él.
+		}
+	}
+
+	AthenaA: {
+		Seen: {
+			Asphodene: ¿¡Athena aún no termina!? Va con todo para 'una última pelea', ¿eh? ¡Tendremos que hacer lo mismo!
+			Eridani: Athena está decidida a no volver a perder... No caerá tan fácilmente como la última vez. Mantente alerta. Hasta los vientos están en nuestra contra.
+		}
+
+		Defeat: {
+			Asphodene: ¡Qué arpía tan enojada! Pero mencionó que fuerzas oscuras están despertando... Qué mal augurio. Tendremos que cuidarnos las espaldas.
+			Eridani: Athena advierte que fuerzas caóticas están agitándose. ¿Quién podría ser ese 'él' al que se refería?
+		}
+	}
+
+	GreedA: {
+		Seen: {
+			Asphodene: ¡Avaricia volvió y es mucho más fuerte! ¡Pero no vamos a regalarle nuestras vidas!
+			Eridani: Avaricia, el Rey Gusano. El glotón ha crecido. Amenaza con consumir nuestras propias vidas.
+		}
+
+		Defeat: {
+			Asphodene: Volvió a huir. Sigue furiosa, pero al menos se fue por ahora.
+			Eridani: El Rey Gusano escapa. Avaricia nunca muere de verdad; solo hiberna.
+		}
+	}
+
+	EquinoxWorms: {
+		Seen: {
+			Asphodene: Los Gusanos del Equinoccio... dijeron que esto sería una prueba. Allá vamos.
+			Eridani: Portador del Día y Reptador Nocturno. Nos honran con una prueba de fuerza. No los decepcionemos.
+		}
+
+		Defeat: {
+			Asphodene: Se están desvaneciendo. Supongo que después de todo pasamos la prueba.
+			Eridani: Los Gusanos del Equinoccio se disuelven. Parece que hemos sido considerados dignos.
+		}
+	}
+
+	SistersOfDiscord: {
+		Seen: {
+			Asphodene: Ashe y Haruka. Han oído hablar de nosotros. Esto podría ser algo personal.
+			Eridani: Las Hermanas de la Discordia. Fuego y acero, y buscan vengarse por algún desaire del pasado.
+		}
+
+		Defeat: {
+			Asphodene: Se están retirando. ¿'Alguien tiene que avisarle a papá'? ¿Quién es su padre? Ahora tengo curiosidad.
+			Eridani: Ashe y Haruka se retiran. Subestimaron nuestras capacidades. Aunque su padre podría ser alguien de quien preocuparse.
+		}
+	}
+
+	YamataBody: {
+		Seen: {
+			Asphodene: Siete cabezas. Y no deja de gritar. Genial. Simplemente genial.
+			Eridani: Yamata, la Pesadilla Funesta. Ego descomunal, veneno descomunal. Evita su aliento a toda costa.
+		}
+
+		Defeat: {
+			NotExpert: {
+				Asphodene: Cayó, pero ya está presumiendo. ¿'Me contuve contigo'? Claro que sí.
+				Eridani: El cuerpo de Yamata cae, pero algo no está bien. Creo que podría hablar en serio al decir que se contuvo con nosotros...
+			}
+
+			Expert: {
+				Asphodene: ¡Ja! Esa hidra no fue tan terrible. ...Espera, algo no parece estar bien.
+				Eridani: La forma de Yamata se derrumba y, aun así... el aire se ha vuelto tenso. Detecto una sobrecarga de energía perniciosa. Prepárate.
+			}
+		}
+	}
+
+	YamataABody: {
+		Seen: {
+			Asphodene: ¡Ay, cielos! ¿¡Siete cabezas no fueron suficientes!? Ahora es aún más grande y está más enojado. Estamos en problemas.
+			Eridani: Así que este es el poder de Yamata, despierto por completo. Esta es su verdadera forma; no vaciles.
+		}
+
+		Defeat: {
+			Asphodene: Se está retirando, todavía enojado. Qué descaro que encima nos llame tramposos. Como sea, ganamos.
+			Eridani: Yamata huye furioso. Regresará, pero hoy hemos demostrado lo que valemos.
+		}
+	}
+
+	Akuma: {
+		Seen: {
+			Asphodene: Un guiverno de fuego que no deja de llamarnos 'niño'. Qué grosero Y mortal. Típico.
+			Eridani: Akuma, el Demonio Draconiano. Un asalto frontal o nada. Aquí no hay engaños.
+		}
+
+		Defeat: {
+			NotExpert: {
+				Asphodene: Se disolvió en brasas. ¿'Vuelve cuando seas más fuerte'? Qué modesto, ¿no?
+				Eridani: El alma de Akuma permanece. El Demonio Draconiano no ha muerto de verdad; solo se ha dispersado.
+			}
+
+			Expert: {
+				Asphodene: Se está disolviendo... ¿Ganamos? Espera, algo está pasando...
+				Eridani: La forma de Akuma se dispersa, pero su esencia persiste. No, espera... Percibo una sobrecarga de energía en formación.
+			}
+		}
+	}
+
+	AkumaA: {
+		Seen: {
+			Asphodene: ¡¿Esto no ha terminado?! ¡El guiverno está MUCHO más caliente! De verdad avivamos las llamas... ¡Esto está mal!
+			Eridani: Este debe ser el verdadero poder de Akuma, ahora despierto. La temperatura del aire aumenta drásticamente; mantente en movimiento.
+		}
+
+		Defeat: {
+			Asphodene: ¡Por fin! Admite que ganamos de forma justa. Ya era hora.
+			Eridani: Akuma reconoce su derrota. Hay un indicio de respeto en su tono. Un honor a regañadientes.
+		}
+	}
+
+	Zero: {
+		Seen: {
+			Asphodene: Una máquina flotante con armas orbitando a su alrededor. Habla en código. Qué escalofriante.
+			Eridani: Cero. Un Constructo del Día del Juicio. Sus armas desatarán un ataque implacable. ¡Busca cobertura! ¡Rápido!
+		}
+
+		Defeat: {
+			NotExpert: {
+				Asphodene: Cero cayó. Aunque parece que intentaba hacer algo al final... Quizá tengamos suerte de que fallara.
+				Eridani: El constructo cae, pero su 'Protocolo del Día del Juicio' me preocupa. Quizá tengamos suerte de que no lograra utilizarlo.
+			}
+		}
+	}
+
+	ZeroProtocol: {
+		Seen: {
+			Asphodene: ¡Guau! ¡¿Acaba de arrojar su cuerpo físico?! ¡Este 'Protocolo del Día del Juicio' no es ninguna broma! Ahora luchamos contra un error viviente.
+			Eridani: Ha desechado la unidad Cero. Ahora luchamos contra algo completamente distinto. Se ha vuelto mucho más móvil. ¡No dejes que te atrape!
+		}
+
+		Defeat: {
+			Asphodene: ¿Una señal de auxilio? ¡¿Y a quién podría estar llamando ESA cosa para pedir ayuda?! Tampoco me gusta esa grieta ominosa...
+			Eridani: Permitir que esa máquina transmita su señal de auxilio podría resultar desastroso. Creo que el amo del Vacío podría estar en nuestro horizonte.
+		}
+	}
+
+	SupremeRajah: {
+		Seen: {
+			Asphodene: ¿¡Este tipo otra vez!? ¡Eso sí que es un aumento de poder! Pero no podemos dejar que este conejo acabe con nosotros.
+			Eridani: El Campeón de los Inocentes. Este es su verdadero poder. No venceremos tan fácilmente.
+
+			Murderer: {
+				Asphodene: Está aún más enojado. 'Asesino' otra vez. La arruinamos, ¿verdad?
+				Eridani: No habrá perdón. Solo venganza. No se detendrá hasta que se haga justicia.
+			}
+		}
+
+		Defeat: {
+			Asphodene: ¿Se detuvo? ¡Vaya, quiere que ocupemos su lugar! {0}, habla en serio.
+			Eridani: El Campeón nos transmite su deber. 'Sé aquel a quien los inocentes puedan acudir.' Una gran responsabilidad.
+		}
+	}
+
+	Shen: {
+		Seen: {
+			Asphodene: Eso es... Yamata Y Akuma. Combinados. Estamos perdidos...
+			Eridani: Shen Doragon, el Augur Discordante. La verdadera prueba de nuestras capacidades.
+		}
+
+		Defeat: {
+			Expert: {
+				Asphodene: Uf... ¡Esa fue difícil! Espera un momento... ¿Qué está pasando?
+				Eridani: El Augur cae. No, espera. Esto no ha terminado, ¿verdad? Percibo energía residual.
+			}
+
+			NotExpert: {
+				Asphodene: Uf... ¡Esa fue difícil! Espera... ¿'poder verdadero'? ¿Me estás diciendo que eso no era todo lo que tenía?
+				Eridani: Pensar que ese dragón aún tenía más... Me daría miedo ver de qué sería capaz si luchara con toda su fuerza.
+			}
+		}
+	}
+
+	ShenA: {
+		Seen: {
+			Asphodene: ¡¿Esa ni siquiera era su forma final?! ¡Este tipo no se rinde!
+			Eridani: Tiene razón. Debimos anticiparlo. La prueba continúa.
+		}
+
+		Defeat: {
+			Asphodene: ¡Se está separando! Y se están echando la culpa mutuamente. El clásico trabajo en equipo de los villanos.
+			Eridani: La fusión de Shen Doragon se desmorona. 'Te enfrentarás de nuevo a nuestra furia.' Un ciclo sin fin.
+		}
+	}
+
+	InfinityZero: {
+		Seen: {
+			Asphodene: Esa máquina es enorme... ¿Esto fue lo que llamó esa señal de auxilio?! Y ahora nos ha fijado como objetivo. Quizá tengamos problemas...
+			Eridani: Un constructo mecánico de poder inmenso. Este debe ser el objetivo de esa señal de auxilio... Prepárate.
+		}
+
+		Defeat: {
+			Asphodene: ¡¿Quién rayos era ese?! ¿'La próxima vez no seré tan indulgente'? Ni hablar, ese tipo no puede ser más fuerte que ese monstruo mecánico, ¿verdad...?
+			Eridani: Tuvimos suerte de que se marchara con tanta facilidad... Su poder estaba fuera de toda escala. 'La próxima vez no seré tan indulgente'. Una advertencia para el futuro.
+		}
+	}
+
+	SoulOfCthulhu: {
+		Seen: {
+			Asphodene: ¿Un timón de barco con cara? Y escucho susurros... 'vete'... Qué escalofriante.
+			Eridani: El Alma de Cthulhu. Antigua, malévola y ahora despierta. Debemos actuar con cautela.
+		}
+
+		Defeat: {
+			Asphodene: Explotó mientras nos maldecía. ¿'En nombre de Azathoth'...? ...¿Deberíamos preocuparnos?
+			Eridani: La ira de Cthulhu se ha agotado. Pero no debemos tomar su maldición a la ligera. Esto quizá no sea el final... Puede que haya fuerzas mayores en juego.
+		}
+	}
+}

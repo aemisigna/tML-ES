@@ -1,0 +1,163 @@
+CriminalBuff: {
+	DisplayName: Criminal
+	Description: "'It has a REALLY upset stomach'"
+}
+
+EaterBuff: {
+	DisplayName: Demon Eater
+	Description: "'The name is a lie, they'll eat anything.'"
+}
+
+HandsBuff: {
+	DisplayName: Helping Hands
+	Description: "'Here to lend not one, but two hands!'"
+}
+
+TwinkleStarBuff: {
+	DisplayName: Twinkle Star
+	Description: "'How I wonder what you are...'"
+}
+
+GriplingsBuff: {
+	DisplayName: Griplings
+	Description: They're very clingy
+}
+
+Struggle: {
+	DisplayName: Grappled
+	Description: Struggling to loosen yourself
+}
+
+StruggleAlt: {
+	DisplayName: Press Space
+	Description: Press Space
+}
+
+InfestedBlue: {
+	DisplayName: Blue Infestation
+	Description: Blue mushrooms cover your body
+}
+
+FrogletBuff: {
+	DisplayName: Fungal Froglet
+	Description: Waiting for a true love's kiss
+}
+
+FesteringSkinBuff: {
+	DisplayName: Festering Skin
+	Description: "'It writhes in agony'"
+}
+
+InfestedRed: {
+	DisplayName: Red Infestation
+	Description: Red mushrooms dig into your flesh
+}
+
+DukeShroomBuff: {
+	DisplayName: Duke of Shroom
+	Description: Looks oddly familiar...
+}
+
+WikiBuff: {
+	DisplayName: Wiki
+	Description: "'You're not Zack, but you seem cool enough ♪'"
+}
+
+ManaforceBuff: {
+	DisplayName: Manaforce
+	Description: 20% increased max mana
+}
+
+CommanderBuff: {
+	DisplayName: Commander
+	Description: Increased whip range
+}
+
+ReboundBuff: {
+	DisplayName: Rebound
+	Description: Extra midair jump
+}
+
+HeartPowerBuff: {
+	DisplayName: Heart Power
+	Description: Increased healing from life hearts
+}
+
+StarreachBuff: {
+	DisplayName: Starreach Buff
+	Description: Increased star pickup range
+}
+
+ChillBuff: {
+	DisplayName: Chill
+	Description: Reduced damage from hot sources
+}
+
+Mushedlad: {
+	DisplayName: Mad Lads
+	Description: "'Who's a failure of evolution now!?'"
+}
+
+SporovidBuff: {
+	DisplayName: Sporadic Sporovid
+	Description: "'Something like this shouldn't exist'"
+}
+
+BroodminiBuff: {
+	DisplayName: Broodmini Buff
+	Description: Mods.AAMod.Buffs.BroodminiBuff.Description
+}
+
+BabyCragBuff: {
+	Description: Mods.AAMod.Buffs.BabyCragBuff.Description
+	DisplayName: Baby Crag Buff
+}
+
+Hydratoxin: {
+	Description: Potent vemon leeches your defenses!
+	DisplayName: Hydratoxin
+}
+
+Dragonfire: {
+	Description: Draconic flames cripple your attacks!
+	DisplayName: Dragonfire
+}
+
+SicknessTonicBuff: {
+	Description: Immunity to poison and venom
+	DisplayName: Sickness Tonic
+}
+
+CoagulantTonicBuff: {
+	Description: Poision related damage over time effects have their duriation halved.
+	DisplayName: Coagulant Tonic Buff
+}
+
+SuperSpicyCurryBuff: {
+	DisplayName: Super Spicy Curry
+	Description: IT BURNS! BURNS! BURNS!
+}
+
+SmoulderingTonicBuff: {
+	Description: Mods.AAMod.Buffs.SmoulderingTonicBuff.Description
+	DisplayName: Immunity to Burning! and On Fire!
+}
+
+SacrificeCurse: {
+	Description:
+		'''
+		"Your spirit's bound in limbo"
+		No healing or regeneration from any sources 
+		'''
+	DisplayName: Willow's Bane
+}
+
+AccursedBlood: {
+	DisplayName: Accursed Blood
+	Description: Mods.AAMod.Buffs.AccursedBlood.Description
+}
+
+StunnedDebuff: {
+	Description: Mods.AAMod.Buffs.StunnedDebuff.Description
+	DisplayName: Stunned Debuff
+}

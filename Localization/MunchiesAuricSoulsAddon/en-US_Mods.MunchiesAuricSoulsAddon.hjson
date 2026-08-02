@@ -1,0 +1,102 @@
+Acquisition: {
+	YharonSoul: Obtained by defeating Jungle Dragon, Yharon
+	GoozmaSoul: Obtained by defeating Goozma
+	RottenSoul: Obtained by defeating Old Duke
+	AshenSoul: Obtained by defeating Pyrogen
+	AvatarAuricSoul: Obtained by defeating Avatar of Emptiness
+	NamelessAuricSoul: Obtained by defeating The Nameless Deity
+	GoodApple: Obtained by defeating The Nameless Deity
+	BloodOrange: Combine 10 Blood Orb and 5 each of Life Fruit and Soul of Might, Sight, & Fright
+	MiracleFruit: Combine 12 Living Shard and 5 each of Life Fruit, Trapper Bulb, and Life Alloy
+	Elderberry: Combine 5 Life Fruit, 10 each of Uelibloom Bar and Divine Geode, and 20 Unholy Essence
+	Dragonfruit: Combine 5 each of Life Fruit and Yharon Soul Fragment, 15 Solar Fragment, and 1 Ascendent Spirit Essence
+	SanguineTangerine: Combine 10 Blood Orb, 1 Life Fruit and 5 each of Soul of Might, Sight, & Fright
+	TaintedCloudberry: Combine 1 Life Fruit, 10 Uelibloom Bar and 8 Divine Geode
+	SacredStrawberry: Combine 1 Life Fruit, 5 Yharon Soul Fragment and 1 Ascendent Spirit Essence
+	EnchantedStarfish: 10% chance to fish up in the Surface at night
+	CometShard: Combine 10 each Meteorite Bar and Fallen Star and 50 Starblight Soot
+	EtherealCore: Combine 20 each Nebula Fragment Fallen Star and 25 Astral Bar
+	PhantomHeart: Combine 5 Ruinous Soul and 25 Necroplasm
+	MushroomPlasmaRoot: Drops from Crabulon in Revengeance or Death Mode only
+	InfernalBlood: Drops from Ravager in Revengeance or Death Mode only
+	RedLightningContainer: Drops from Dragonfolly in Revengeance or Death Mode only
+	ElectrolyteGelPack: Drops from Slime God in Revengeance or Death Mode only
+	StarlightFuelCell: Drops from Astrum Aureus in Revengeance or Death Mode only
+	Ectoheart: Drops from Polterghast in Revengeance or Death Mode only
+	CelestialOnion: Drops from Moon Lord
+	InspirationEssence: Combine 1 Ocean Essence, 1 Death Essence, 1 Inferno Essence and 1 Inspiration Fragment at the Ancient Manipulator
+	InspirationSingularity: Combine 10 Ashes of Annihilation and 1 Inspiration Essence at the Draedon Forge
+	SingularityCore: Combine 2 Soul Heart, 10 Luminite Bar and 10 Sanguite Scales at the Ancient Manipulator
+	RuinousPlasmaInjection: Combine 1 Armored Shell, 1 Dark Plasma and 1 Ruinous Soul at at Ancient Manipulator
+	VioletStar: Craft with Dissolving Earth, Mana Crystal, Fragment of Evil (5), Fragment of Otherworld (5), and Shadow Scale (15) at an Evil Altar
+	ScarletStar: Craft with Dissolving Earth, Mana Crystal, Fragment of Evil (5), Fragment of Otherworld (5), and Tissue Sample (15) at an Evil Altar
+	VoidenAnkh: Craft with Cursed Matter (10), Soul Residue (10), and Evostone (20) at an Anvil
+	SoulHeart: Craft with Life Crystal and Skip Soul (100) at the Transmutation Altar
+	ChaosConduit:
+		'''
+		Create a construction using Chaos Conduit, 21 Conduit Chassis and 21 Brilliance Block
+		(Right Click to see the construction)
+		'''
+	InfernoConduit:
+		'''
+		Create a construction using Inferno Conduit, 21 Conduit Chassis and 21 Nether Block
+		(Right Click to see the construction)
+		'''
+	EvilConduit:
+		'''
+		Create a construction using Evil Conduit, 21 Conduit Chassis and 21 Umbra Block
+		(Right Click to see the construction)
+		'''
+	TidalConduit:
+		'''
+		Create a construction using Tide Conduit, 21 Conduit Chassis and 21 Deluge Block
+		(Right Click to see the construction)
+		'''
+	OtherworldConduit:
+		'''
+		Create a construction using Otherworld Conduit, 21 Conduit Chassis and 21 Aether Block
+		(Right Click to see the construction)
+		'''
+	PermafrostConduit:
+		'''
+		Create a construction using Permafrost Conduit, 21 Conduit Chassis and 21 Aurora Block
+		(Right Click to see the construction)
+		'''
+	EarthenConduit:
+		'''
+		Create a construction using Earth Conduit, 21 Conduit Chassis and 21 Earth Block
+		(Right Click to see the construction)
+		'''
+	NatureConduit:
+		'''
+		Create a construction using Nature Conduit, 21 Conduit Chassis and 21 Nature Block
+		(Right Click to see the construction)
+		'''
+	SunsHeart: Obtained by defeating Slime God
+	GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
+	AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
+	HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
+	WhimInABottle: Combine 1 Bottle, 8 Tank of the Past Underworld and 6 Will to Grow at Final Anvil
+	HeartOfOcean: Drops from Diver
+	TheSwitch: Combine 1 Cold Blood, 1 Whale Bone Charm, 8 Essence of Nothingness, 8 Essence of Upshot at Final Anvil
+	Americano: Combine 1 Bottled Water, 12 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Mocha: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 12 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Cappuccino: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 32 Turbid Coffee Bean
+	RabiesVaccine: Combine 30 Rabies Shot at Placed Bottle or Alchemy Table
+	DeerSinew: Drops from Deerclops in Eternity Mode only
+	MutantsDiscountCard: Drops from Wall of Flesh in Eternity Mode only
+	MutantsCreditCard: Drops from Duke Fishron in Eternity Mode only
+	MutantsPact: Drops from Lunatic Cultist in Eternity Mode only
+	MedicKit: Drops from Patient Zero
+	GalaxyHeart: Drops from Nebuleus
+	ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
+	WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
+}
+
+Difficulty: {
+	Fargo: Eternity
+	Calamity: Revengeance
+}
+
+Categories.SOTSConduits: Conduits

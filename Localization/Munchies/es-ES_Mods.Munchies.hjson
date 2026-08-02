@@ -1,0 +1,66 @@
+Keybinds.ToggleReport.DisplayName: Alternar Informe
+
+Configs: {
+	Config: {
+		DisplayName: Configuración
+
+		AllowDragging: {
+			Label: Permitir Arrastre
+			Tooltip: Permite arrastrar la lista de verificación por la pantalla
+		}
+
+		ResetDragCoords: {
+			Label: Restablecer Posición de Arrastre
+			Tooltip: Selecciona esto para restablecer la posición de la lista de verificación
+		}
+
+		ShowMultiUseConsumables: {
+			Label: Mostrar Consumibles de Uso Múltiple
+			Tooltip: Muestra los consumibles que se pueden usar un número limitado de veces, como los Cristales de Vida
+		}
+	}
+}
+
+Common.ConcatenateNewline:
+	'''
+	{0}
+	{1}
+	'''
+
+ConsumableType: {
+	player: Guardado por Jugador
+	world: "[c/f26fee:Guardado por Mundo]"
+}
+
+UI: {
+	Report: {
+		Consumables: Consumibles
+		Completed: "¡{0} Completado!"
+	}
+}
+
+Difficulty: {
+	classic: Solo en Modo Clásico
+	expert: "[c/eb9b34:Solo en Modo Experto]"
+	master: "[c/0000FF:Solo en Modo Maestro]"
+	mod_custom: "[c/00A5FF:Solo en Modo {0} - {1}]"
+}
+
+Acquisition: {
+	LifeCrystal: Se encuentra en la capa Subterránea y más abajo
+	LifeFruit: Se encuentra en la Jungla subterránea y más abajo en Modo Difícil
+	ManaCrystal: Se crafea con 5 estrellas de maná
+	ArtisanLoaf: Vendido por el Mercader esquelético (se encuentra en la capa de Caverna) durante las fases de Cuarto menguante, Luna nueva y Cuarto creciente - No se vende después de consumirlo
+	TorchGodsFavor: Se obtiene al derrotar al Dios Antorcha (coloca 101 antorchas en un área reducida y esquiva todos los proyectiles)
+	VitalCrystal: Transforma un Cristal de Vida con fulgor
+	AegisFruit: Transforma una Fruta de la Vida con fulgor
+	ArcaneCrystal: Transforma un Cristal de Maná con fulgor
+	Ambrosia: Transforma cualquier fruta con fulgor
+	GummyWorm: Transforma un Gusano dorado con fulgor (0.25% de probabilidad de aparecer en lugar de un gusano normal)
+	GalaxyPearl: Transforma una Perla rosa con fulgor (1.33% de probabilidad de soltarse de las Ostras)
+	DemonHeart: Soltado por la Bolsa del tesoro del Muro de Carne tras derrotarlo en Modo Experto
+	MinecartUpgradeKit: Combina la Pieza de rueda mecánica (Los Gemelos), la Pieza de vagoneta mecánica (El Destructor) y la Pieza de batería mecánica (Esqueletrón mayor) en Modo Experto
+	AdvCombatTech1: Pesca durante una Luna de Sangre
+	AdvCombatTech2: Transforma un Tomo encantado con fulgor (comprado al Mago)
+	PeddlersSatchel: Transforma un Sombrero de vendedor ambulante con fulgor (soltado por el Mercader ambulante al morir)
+}

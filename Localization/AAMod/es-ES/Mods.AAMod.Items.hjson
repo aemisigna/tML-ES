@@ -1,0 +1,2660 @@
+BeetleShell: {
+	DisplayName: Cáscara Verde
+	Tooltip: Aumenta ligeramente la suerte del usuario
+}
+
+IridescentScale: {
+	DisplayName: Escama Iridiscente
+	Tooltip:
+		'''
+		1 de defensa
+		Aumenta un 4% la probabilidad de golpe crítico
+		Aumenta la suerte del usuario
+		'''
+}
+
+ExoticScent: {
+	DisplayName: Aroma Exótico
+	Tooltip:
+		'''
+		Invoca a las Garritas Traviesas
+		'¡Manitas de bebé!'
+		'''
+}
+
+TwinClawPendant: {
+	DisplayName: Colgante de Garra Gemela
+	Tooltip:
+		'''
+		Reduce el daño recibido en un 10% mientras estás en el Infierno o el Cenagal
+		Aumenta el daño contra enemigos en llamas o envenenados
+		'''
+}
+
+InfernoSolution: {
+	DisplayName: Solución Naranja
+	Tooltip:
+		'''
+		Usado por el Clentaminador
+		Esparce el Infierno
+		'''
+}
+
+MireSolution: {
+	DisplayName: Solución Verde Oscuro
+	Tooltip:
+		'''
+		Usado por el Clentaminador
+		Esparce el Cenagal
+		'''
+}
+
+OrderSolution: {
+	DisplayName: Solución de Orden
+	Tooltip:
+		'''
+		Usado por el Clentaminador
+		Purifica el Caos
+		'''
+}
+
+MushblightSolution: {
+	DisplayName: Solución Roja y Amarilla
+	Tooltip:
+		'''
+		Usado por el Clentaminador
+		Esparce Hongos Plagados
+		'''
+}
+
+BogwoodBreastplate: {
+	DisplayName: Camisa de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodGreaves: {
+	DisplayName: Pantalones de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodHelmet: {
+	DisplayName: Ajirogasa de Madera del Cenagal
+	Tooltip: ""
+}
+
+RazewoodBoots: {
+	DisplayName: Botas de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodChestplate: {
+	DisplayName: Peto de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodHelmet: {
+	DisplayName: Casco de Madera Calcinada
+	Tooltip: ""
+}
+
+StellarGreaves: {
+	DisplayName: Grebas Estelares
+	Tooltip: Aumenta el maná máximo en 20
+}
+
+StellarHat: {
+	DisplayName: Sombrero Estelar
+	Tooltip: Aumenta un 8% el daño mágico y de invocación
+}
+
+StellarRobe: {
+	DisplayName: Túnica Estelar
+	Tooltip:
+		'''
+		Aumenta el maná máximo en 20
+		Aumenta en 1 el máximo de súbditos que puedes tener
+		'''
+}
+
+HandSummons: {
+	DisplayName: Extracto Caótico
+	Tooltip:
+		'''
+		Invoca a las Garras del Caos
+		'Una potente mezcla de minerales naturales'
+		'''
+}
+
+HoneycombChunk: {
+	DisplayName: Trozo de Panal
+	Tooltip: Otorga la mejora Miel
+}
+
+InfernoCrate: {
+	DisplayName: Caja Cenicienta
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MireCrate: {
+	DisplayName: Caja Turbia
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Fishmother: {
+	DisplayName: Madre de los Peces
+	Tooltip: ""
+}
+
+Hydrafish: {
+	DisplayName: Acechante del Estanque
+	Tooltip: ""
+}
+
+HooksOfChaos: {
+	DisplayName: Ganchos del Caos
+	Tooltip: "'Nunca vuelvas a perder el agarre'"
+}
+
+ChaosPowder: {
+	DisplayName: Polvo del Caos
+	Tooltip: "'Contiene pequeños rastros de energía'"
+}
+
+InfernoShroom: {
+	DisplayName: Hongo Solar
+	Tooltip: ""
+}
+
+MireShroom: {
+	DisplayName: Hongo Lunar
+	Tooltip: ""
+}
+
+Boulders: {
+	DisplayName: Roca del Infierno
+	Tooltip: ""
+}
+
+BrokenLanterns: {
+	DisplayName: Farol Roto
+	Tooltip: ""
+}
+
+BurntPole: {
+	DisplayName: Poste Quemado
+	Tooltip: ""
+}
+
+BurntTent: {
+	DisplayName: Tienda Quemada
+	Tooltip: ""
+}
+
+DragonEggShell: {
+	DisplayName: Cáscara de Huevo de Dragón
+	Tooltip: ""
+}
+
+DragonEgg: {
+	DisplayName: Huevo de Dragón
+	Tooltip: ""
+}
+
+LargeRubble: {
+	DisplayName: Escombros del Infierno (Grande)
+	Tooltip: ""
+}
+
+LargeStalactites: {
+	DisplayName: Estalactita del Infierno (Grande)
+	Tooltip: ""
+}
+
+LargeStalagmites: {
+	DisplayName: Estalagmita del Infierno (Grande)
+	Tooltip: ""
+}
+
+Rubble: {
+	DisplayName: Escombros del Infierno (Mediano)
+	Tooltip: ""
+}
+
+SmallRubble: {
+	DisplayName: Escombros del Infierno (Pequeño)
+	Tooltip: ""
+}
+
+SmallStalactites: {
+	DisplayName: Estalactita del Infierno (Pequeña)
+	Tooltip: ""
+}
+
+SmallStalagmites: {
+	DisplayName: Estalagmita del Infierno (Pequeña)
+	Tooltip: ""
+}
+
+MireBoulders: {
+	DisplayName: Roca del Cenagal
+	Tooltip: ""
+}
+
+MireBushes: {
+	DisplayName: Arbusto del Cenagal
+	Tooltip: ""
+}
+
+MireGraves: {
+	DisplayName: Tumba del Cenagal
+	Tooltip: ""
+}
+
+MireLargeRubble: {
+	DisplayName: Escombros del Cenagal (Grande)
+	Tooltip: ""
+}
+
+MireLargeStalactites: {
+	DisplayName: Estalactita del Cenagal (Grande)
+	Tooltip: ""
+}
+
+MireLargeStalagmites: {
+	DisplayName: Estalagmita del Cenagal (Grande)
+	Tooltip: ""
+}
+
+MireReeds: {
+	DisplayName: Junco del Cenagal
+	Tooltip: ""
+}
+
+MireSmallRubble: {
+	DisplayName: Escombros del Cenagal (Pequeño)
+	Tooltip: ""
+}
+
+MireSmallStalactites: {
+	DisplayName: Estalactita del Cenagal (Pequeña)
+	Tooltip: ""
+}
+
+MireSmallStalagmites: {
+	DisplayName: Estalagmita del Cenagal (Pequeña)
+	Tooltip: ""
+}
+
+MireTallGrass: {
+	DisplayName: Pasto Alto del Cenagal
+	Tooltip: ""
+}
+
+DragonClawBanner: {
+	DisplayName: Estandarte de Garra de Dragón
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Garra de Dragón
+}
+
+HoneyBeeBanner: {
+	DisplayName: Estandarte de Abeja Gigante
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Abeja Gigante
+}
+
+HydraClawBanner: {
+	DisplayName: Estandarte de Garra de Hidra
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Garra de Hidra
+}
+
+LeafBeetleBanner: {
+	DisplayName: Estandarte de Escarabajo de Hoja
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Escarabajo de Hoja
+}
+
+Bogwood: {
+	DisplayName: Madera del Cenagal
+	Tooltip: ""
+}
+
+Darkmud: {
+	DisplayName: Lodo Oscuro
+	Tooltip: ""
+}
+
+Depthsand: {
+	DisplayName: Arena Profunda
+	Tooltip: ""
+}
+
+Depthstone: {
+	DisplayName: Piedra Profunda
+	Tooltip: ""
+}
+
+DepthstoneBrick: {
+	DisplayName: Ladrillo de Piedra Profunda
+	Tooltip: ""
+}
+
+HardenedDepthsand: {
+	DisplayName: Arena Profunda Endurecida
+	Tooltip: ""
+}
+
+HardenedTorchsand: {
+	DisplayName: Arena Ígnea Endurecida
+	Tooltip: ""
+}
+
+Razewood: {
+	DisplayName: Madera Calcinada
+	Tooltip: ""
+}
+
+Torchsand: {
+	DisplayName: Arena Ígnea
+	Tooltip: ""
+}
+
+Torchslag: {
+	DisplayName: Escoria Ígnea
+	Tooltip: ""
+}
+
+Torchstone: {
+	DisplayName: Piedra Ígnea
+	Tooltip: ""
+}
+
+TorchstoneBrick: {
+	DisplayName: Ladrillo de Piedra Ígnea
+	Tooltip: ""
+}
+
+FurnitureDynamo: {
+	DisplayName: Dínamo de Muebles
+	Tooltip:
+		'''
+		Combina todas las estaciones de fabricación de muebles en un solo bloque
+		¡Ahora no tienes que abarrotar tu base con 12 estaciones de fabricación!
+		'''
+}
+
+BogwoodBathtub: {
+	DisplayName: Bañera de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodBed: {
+	DisplayName: Cama de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodBookcase: {
+	DisplayName: Librería de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodCandelabra: {
+	DisplayName: Candelabro de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodCandle: {
+	DisplayName: Vela de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodChair: {
+	DisplayName: Silla de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodChandelier: {
+	DisplayName: Lámpara Araña de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodChest: {
+	DisplayName: Cofre de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodClock: {
+	DisplayName: Reloj de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodDoor: {
+	DisplayName: Puerta de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodDresser: {
+	DisplayName: Aparador de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodLamp: {
+	DisplayName: Lámpara de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodLantern: {
+	DisplayName: Farol de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodPiano: {
+	DisplayName: Piano de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodPlatform: {
+	DisplayName: Plataforma de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodSink: {
+	DisplayName: Lavabo de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodSofa: {
+	DisplayName: Sofá de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodTable: {
+	DisplayName: Mesa de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogwoodTorch: {
+	DisplayName: Antorcha del Cenagal
+	Tooltip: ""
+}
+
+BogwoodWorkBench: {
+	DisplayName: Banco de Trabajo de Madera del Cenagal
+	Tooltip: ""
+}
+
+MireCampfire: {
+	DisplayName: Hoguera del Cenagal
+	Tooltip: La regeneración de vida es mayor junto a una hoguera
+}
+
+InfernoCampfire: {
+	DisplayName: Hoguera del Infierno
+	Tooltip: La regeneración de vida es mayor junto a una hoguera
+}
+
+RazewoodBathtub: {
+	DisplayName: Bañera de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodBed: {
+	DisplayName: Cama de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodBookcase: {
+	DisplayName: Librería de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodCandelabra: {
+	DisplayName: Candelabro de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodCandle: {
+	DisplayName: Vela de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodChair: {
+	DisplayName: Silla de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodChandelier: {
+	DisplayName: Lámpara Araña de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodChest: {
+	DisplayName: Cofre de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodClock: {
+	DisplayName: Reloj de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodDoor: {
+	DisplayName: Puerta de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodDresser: {
+	DisplayName: Aparador de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodLamp: {
+	DisplayName: Lámpara de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodLantern: {
+	DisplayName: Farol de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodPiano: {
+	DisplayName: Guqin de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodPlatform: {
+	DisplayName: Plataforma de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodSink: {
+	DisplayName: Lavabo de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodSofa: {
+	DisplayName: Sofá de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodTable: {
+	DisplayName: Mesa de Madera Calcinada
+	Tooltip: ""
+}
+
+RazewoodTorch: {
+	DisplayName: Antorcha del Infierno
+	Tooltip: ""
+}
+
+RazewoodWorkBench: {
+	DisplayName: Banco de Trabajo de Madera Calcinada
+	Tooltip: ""
+}
+
+GripRelic: {
+	DisplayName: Reliquia de las Garras del Caos
+	Tooltip: ""
+}
+
+ToadRelic: {
+	DisplayName: Reliquia del Sapo Trufero
+	Tooltip: ""
+}
+
+InfernoGripTrophy: {
+	DisplayName: Trofeo de Garra del Infierno
+	Tooltip: ""
+}
+
+MireGripTrophy: {
+	DisplayName: Trofeo de Garra del Cenagal
+	Tooltip: ""
+}
+
+BogwoodWall: {
+	DisplayName: Pared de Madera del Cenagal
+	Tooltip: ""
+}
+
+DarkmudWall: {
+	DisplayName: Pared de Lodo Oscuro
+	Tooltip: ""
+}
+
+DepthstoneBrickWall: {
+	DisplayName: Pared de Ladrillo de Piedra Profunda
+	Tooltip: ""
+}
+
+DepthstoneWall: {
+	DisplayName: Pared de Piedra Profunda
+	Tooltip: ""
+}
+
+RazewoodWall: {
+	DisplayName: Pared de Madera Calcinada
+	Tooltip: ""
+}
+
+TorchstoneBrickWall: {
+	DisplayName: Pared de Ladrillo de Piedra Ígnea
+	Tooltip: ""
+}
+
+TorchstoneWall: {
+	DisplayName: Pared de Piedra Ígnea
+	Tooltip: ""
+}
+
+BogwoodHammer: {
+	DisplayName: Martillo de Madera del Cenagal
+	Tooltip: ""
+}
+
+RazewoodHammer: {
+	DisplayName: Martillo de Madera Calcinada
+	Tooltip: ""
+}
+
+GripsTreasureBag: {
+	DisplayName: Bolsa de Tesoro (Garras del Caos)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ToadTreasureBag: {
+	DisplayName: Bolsa del Tesoro (Sapo Trufero)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MonarchTreasureBag: {
+	DisplayName: Bolsa del Tesoro (Monarca Fúngico)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+UndownerAA: {
+	DisplayName: Restaurador de Jefes AA
+	Tooltip:
+		'''
+		Revierte el estado de derrota de todos los jefes de AA
+		No consumible
+		'''
+}
+
+UndownerAA2: {
+	DisplayName: Restaurador de Booleanos AA
+	Tooltip:
+		'''
+		Revierte todos los booleanos de AA
+		No consumible
+		'''
+}
+
+InfernoSeeds: {
+	DisplayName: Semillas Carbonizadas
+	Tooltip: Planta césped del Infierno en tierra
+}
+
+MireSeeds: {
+	DisplayName: Semillas Húmedas
+	Tooltip: Planta césped del Cenagal en Lodo Oscuro
+}
+
+TitleTester: {
+	DisplayName: Probador de Títulos
+	Tooltip: Prueba títulos... ¿quién lo hubiera imaginado?
+}
+
+InfernoGripMask: {
+	DisplayName: Máscara de Garra del Infierno
+	Tooltip: "'¡Elegante!'"
+}
+
+MireGripMask: {
+	DisplayName: Máscara de Garra del Cenagal
+	Tooltip: "'¡Elegante!'"
+}
+
+ChillaBag: {
+	DisplayName: Bolsa del Roedor Local
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por un Roedor Local!'
+		'''
+}
+
+FezLordsBag: {
+	DisplayName: Bolsa del Señor del Fez
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por el Señor del Fez!'
+		'''
+}
+
+DearGod: {
+	DisplayName: Bolsa del Púrpura Ridículo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por el Púrpura Ridículo!'
+		'''
+}
+
+LunaticRag: {
+	DisplayName: Harapos del Púrpura Ridículo
+	Tooltip:
+		'''
+		'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'
+		Solo un psicópata usaría algo que pica tanto
+		'''
+}
+
+LunaticTendrils: {
+	DisplayName: Zarcillos del Púrpura Ridículo
+	Tooltip:
+		'''
+		'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'
+		Se enreda más que unos audífonos con cable
+		'''
+}
+
+LunaticWig: {
+	DisplayName: Peluca del Púrpura Ridículo
+	Tooltip:
+		'''
+		'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'
+		Huele a grosella negra
+		'''
+}
+
+DragonBag: {
+	DisplayName: Bolsa del Dragón Rústico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por un Dragón Rústico!'
+		'''
+}
+
+DragonBody: {
+	DisplayName: Coraza del Dragón Rústico
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DragonHead: {
+	DisplayName: Máscara del Dragón Rústico
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DragonLegs: {
+	DisplayName: Grebas del Dragón Rústico
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+FoxWonderBox: {
+	DisplayName: Caja de Herramientas de Fox Wonder
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por el Fox Wonder!'
+		'''
+}
+
+TailsBody: {
+	DisplayName: Disfraz de Fox Wonder
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+TailsHead: {
+	DisplayName: Casco de Fox Wonder
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+TailsLegs: {
+	DisplayName: Mallas de Fox Wonder
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DoxiBag: {
+	DisplayName: Bolsa del Viajero de la Paradoja
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por un Viajero Dimensional!'
+		'No intentes la Paradoja'
+		'''
+}
+
+DevSlinkyHead: {
+	DisplayName: Horquilla de Lazo de Slinky
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DevSlinkyBody: {
+	DisplayName: Top Oscuro de Slinky
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DevSlinkyLegs: {
+	DisplayName: Pantalón Oscuro de Slinky
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+FinityDye: {
+	DisplayName: Tinte Finity
+	Tooltip:
+		'''
+		'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'
+		'¡Haz que la vanidad sea tuya!'
+		'''
+}
+
+BurningGelWand: {
+	DisplayName: Vara de Gel Ardiente
+	Tooltip: Dispara globos pegajosos de gel ardiente
+}
+
+ClawCast: {
+	DisplayName: Lanzador de Garras
+	Tooltip:
+		'''
+		Crea garras fantasma para cortar a tus enemigos
+		'Las páginas son solo señales de manos'
+		'''
+}
+
+ManaFlower: {
+	DisplayName: Flor de Maná
+	Tooltip: "'Huele maravilloso'"
+}
+
+PinkGelWand: {
+	DisplayName: Vara de Gel Rebotante
+	Tooltip: Dispara globos rebotantes de gel ardiente
+}
+
+StargazersJournal: {
+	DisplayName: Diario del Observador de Estrellas
+	Tooltip: Invoca estrellas caídas en la posición del cursor
+}
+
+BleedingBone: {
+	DisplayName: Hueso Sangrante
+	Tooltip: ""
+}
+
+BogwoodSword: {
+	DisplayName: Katana de Madera del Cenagal
+	Tooltip: ""
+}
+
+CosmicCutter: {
+	DisplayName: Cortador Cósmico
+	Tooltip: Dispara una estrella perforante al golpear enemigos
+}
+
+FryingPan: {
+	DisplayName: Sartén
+	Tooltip: "'El uso excesivo puede causar daño auditivo.'"
+}
+
+GoldFryingPan: {
+	DisplayName: Sartén Dorada
+	Tooltip: "'Un hallazgo excepcionalmente raro'"
+}
+
+RazewoodSword: {
+	DisplayName: Machete de Madera Calcinada
+	Tooltip: ""
+}
+
+TwinTalons: {
+	DisplayName: Garras Gemelas
+	Tooltip:
+		'''
+		Clic izquierdo para lanzar una ráfaga de golpes
+		Clic derecho para cortar horizontalmente
+		'''
+}
+
+YoinkySploinky: {
+	DisplayName: El Yoinky Sploinky
+	Tooltip: "'La locura se filtra cada vez más profundo'"
+}
+
+BogwoodBow: {
+	DisplayName: Arco Largo de Madera del Cenagal
+	Tooltip: ""
+}
+
+HeavenlyString: {
+	DisplayName: Cuerda Celestial
+	Tooltip: Convierte flechas de madera en flechas de bufón
+}
+
+RazewoodBow: {
+	DisplayName: Arco de Madera Calcinada
+	Tooltip: ""
+}
+
+Vehemence: {
+	DisplayName: Vehemencia
+	Tooltip: Convierte balas de mosquete en balas de Dragón
+}
+
+Vice: {
+	DisplayName: Vicio
+	Tooltip: Convierte balas de mosquete en balas de Hidra
+}
+
+VnV: {
+	DisplayName: Vicio y Vehemencia
+	Tooltip:
+		'''
+		Alterna entre disparos de Dragón e Hidra
+		Clic derecho para separar
+		'''
+}
+
+CrimsonStaff: {
+	DisplayName: Hematemesis
+	Tooltip: Invoca a un Crimera para que luche por ti
+}
+
+DemoniteStaff: {
+	DisplayName: Fauces Sombrías
+	Tooltip: Invoca a un Devorador para que luche por ti
+}
+
+HelpingHands: {
+	DisplayName: Manos Amigas
+	Tooltip: Invoca un par de Manos para que luchen por ti
+}
+
+Nightcrawler: {
+	DisplayName: Garra de la Lombriz Nocturna
+	Tooltip:
+		'''
+		4 de daño de etiqueta de invocación
+		Tus invocaciones se enfocarán en los enemigos golpeados
+		Causa que caigan estrellas dañinas al golpear
+		'''
+}
+
+TwinkleStaff: {
+	DisplayName: Bastón Centelleante
+	Tooltip: Invoca una pequeña estrella para que luche por ti
+}
+
+Worms: {
+	DisplayName: Manojo de Gusanos
+	Tooltip:
+		'''
+		4 de daño de etiqueta de invocación
+		Tus invocaciones se enfocarán en los enemigos golpeados
+		'¡Ahí vienen!'
+		'''
+}
+
+Fungrock: {
+	DisplayName: Fungoroca
+	Tooltip: ""
+}
+
+Rott: {
+	DisplayName: Rott
+	Tooltip: ""
+}
+
+BlightShroom: {
+	DisplayName: Hongo Plagado
+	Tooltip: ""
+}
+
+ToadTrophy: {
+	DisplayName: Trofeo del Sapo Trufero
+	Tooltip: ""
+}
+
+ToadMask: {
+	DisplayName: Máscara del Sapo Trufero
+	Tooltip: ""
+}
+
+TruffleTongue: {
+	DisplayName: Lengua Trufera
+	Tooltip:
+		'''
+		4 de daño de etiqueta de invocación
+		Tus invocaciones se enfocarán en los enemigos golpeados
+		Puede confundir a los enemigos
+		'''
+}
+
+Frogeyes: {
+	DisplayName: Ojos de Rana
+	Tooltip:
+		'''
+		Lanza dos yoyos a la vez
+		Puede confundir a los enemigos
+		'''
+}
+
+FungalFrag: {
+	DisplayName: Fragmento Fúngico
+	Tooltip:
+		'''
+		Una pequeña explosión que deja esporas persistentes
+		Puede envenenar a los enemigos
+		'''
+}
+
+SporeBloon: {
+	DisplayName: Globo de Esporas
+	Tooltip:
+		'''
+		Mantén presionado y suelta nubes de esporas dañinas
+		Puede envenenar a los enemigos
+		'''
+}
+
+FrogSpawn: {
+	DisplayName: Huevas de Rana Brillantes
+	Tooltip:
+		'''
+		Invoca al Sapo Trufero
+		'Puedes ver tenuemente algo retorciéndose en su interior'
+		'''
+}
+
+FatPixieBanner: {
+	DisplayName: Estandarte de Hada Gorda
+	Tooltip: Los jugadores cercanos reciben un bono de combate contra: Hada Gorda
+}
+
+BlightSeeds: {
+	DisplayName: Semillas Plagadas
+	Tooltip: Planta césped plagado en Rott
+}
+
+HalmEars: {
+	DisplayName: Orejas de Halm
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+HalmHoodie: {
+	DisplayName: Sudadera de Halm
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+HalmJeans: {
+	DisplayName: Jeans de Halm
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+HalmTail: {
+	DisplayName: Cola de Halm
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+WeirdCat: {
+	DisplayName: Gato Raro
+	Tooltip:
+		'''
+		mamá ven a buscarme tengo miedo
+		'Todo lo esencial para hacerte pasar por !!??'
+		'''
+}
+
+Slingshot: {
+	DisplayName: Resortera
+	Tooltip: Usa bolas con púas como munición
+}
+
+GoblinBreastplate: {
+	DisplayName: Peto de Duende
+	Tooltip: ""
+}
+
+GoblinGreaves: {
+	DisplayName: Grebas de Duende
+	Tooltip: ""
+}
+
+GoblinRangerHat: {
+	DisplayName: Sombrero de Guardabosques Duende
+	Tooltip:
+		'''
+		12% más de daño a distancia
+		8% más de probabilidad de golpe crítico a distancia
+		'''
+}
+
+GoblinWarriorHelmet: {
+	DisplayName: Casco de Guerrero Duende
+	Tooltip:
+		'''
+		12% más de daño cuerpo a cuerpo
+		10% más de velocidad cuerpo a cuerpo
+		'''
+}
+
+MonarchRelic: {
+	DisplayName: Reliquia del Monarca Fúngico
+	Tooltip: ""
+}
+
+MonarchMask: {
+	DisplayName: Máscara del Monarca Fúngico
+	Tooltip: ""
+}
+
+MycelialThumper: {
+	DisplayName: Golpeador Micelial
+	Tooltip:
+		'''
+		Usa hongos como munición
+		Diferentes tipos de hongos tienen efectos variados
+		'''
+}
+
+MushroomAmmo: {
+	DisplayName: Munición de Hongo
+	Tooltip: ""
+}
+
+LeechingFungus: {
+	DisplayName: Hongo Sanguijuela
+	Tooltip:
+		'''
+		Matar enemigos aumentará temporalmente tu HP con un incremento máximo del 10%
+		El HP extra se agota con el tiempo
+		Recupera vida al matar a un enemigo
+		'''
+}
+
+FeastingTubes: {
+	DisplayName: Tubos Devoradores
+	Tooltip: Se adhiere a los enemigos para drenar su vida
+}
+
+Derooter: {
+	DisplayName: Desenraizador
+	Tooltip: ""
+}
+
+StemSmacker: {
+	DisplayName: Golpeador de Tallos
+	Tooltip: ""
+}
+
+StipeShot: {
+	DisplayName: Disparo de Estípite
+	Tooltip: Puede convertir flechas de madera en hongos plagados
+}
+
+BioticAssimilator: {
+	DisplayName: Asimilador Biótico
+	Tooltip: Se usa para crear y combinar objetos a partir de materia biológica
+}
+
+Biomass: {
+	DisplayName: Biomasa Condensada
+	Tooltip: Una amalgama grotesca de material orgánico
+}
+
+RoomMusher: {
+	DisplayName: Triturador de Habitaciones
+	Tooltip: ""
+}
+
+ShroomSaber: {
+	DisplayName: Sable de Hongo
+	Tooltip: Inflige Azul Infestado
+}
+
+GlowBow: {
+	DisplayName: Arco Brillante
+	Tooltip: Puede convertir flechas de madera en hongos brillantes
+}
+
+BioticBreastplate: {
+	DisplayName: Peto Biótico
+	Tooltip: Aumenta la vida máxima en 10
+}
+
+BioticGreaves: {
+	DisplayName: Grebas Bióticas
+	Tooltip: Aumenta la vida máxima en 10
+}
+
+BioticHelmet: {
+	DisplayName: Casco Biótico
+	Tooltip:
+		'''
+		Aumenta la vida máxima en 10
+		2% más de probabilidad de golpe crítico
+		'''
+}
+
+ToadBrain: {
+	DisplayName: Cerebro Brillante
+	Tooltip: "'Lo sientes vibrar en tu mano'"
+}
+
+MonarchHeart: {
+	DisplayName: Corazón Plagado
+	Tooltip: "'Lo sientes palpitar en tu mano'"
+}
+
+SaprophyteString: {
+	DisplayName: Cuerda Saprófita
+	Tooltip: Convierte flechas de madera en hongos brillantes o plagados
+}
+
+RootMasher: {
+	DisplayName: Triturador de Raíces
+	Tooltip: ""
+}
+
+ShadowflameDimbolt: {
+	DisplayName: Perno Tenue de Llama Sombría
+	Tooltip: Dispara una bola de caos que atraviesa bloques
+}
+
+CranialThorn: {
+	DisplayName: Espina Craneal
+	Tooltip: Lanza una púa grande que se rompe en metralla
+}
+
+BlightshroomStew: {
+	DisplayName: Guiso de Hongo Plagado
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'Son seguros de comer después de hervirlos. Probablemente. Ojalá.'
+		'''
+}
+
+NastyPatty: {
+	DisplayName: Hamburguesa Asquerosa
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'¡Matamos al Inspector de Salud!'
+		'''
+}
+
+Chordyceps: {
+	DisplayName: Chordyceps
+	Tooltip:
+		'''
+		Clic derecho para tocar normalmente
+		'Todavía necesita afinación'
+		'''
+}
+
+FesteringSkewer: {
+	DisplayName: Espetón Purulento
+	Tooltip: Invoca a Piel Purulenta para empalar a los enemigos en tierra
+}
+
+Brasshroom: {
+	DisplayName: Trompeta Trufera
+	Tooltip:
+		'''
+		Clic derecho para tocar normalmente
+		'Todavía necesita afinación'
+		'''
+}
+
+SerbBag: {
+	DisplayName: El Blanco Infame
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por el Blanco Infame!'
+		Suplica clemencia, no escuches.
+		'''
+}
+
+SerbBody: {
+	DisplayName: Cuerpo del Blanco Infame
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+SerbHead: {
+	DisplayName: Cabeza del Blanco Infame
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+SerbLeggings: {
+	DisplayName: Piernas del Blanco Infame
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DawnBag: {
+	DisplayName: Bolsa del Felino Hiperactivo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'¡Todo lo esencial para hacerte pasar por el Felino Hiperactivo!'
+		'''
+}
+
+DawnBody: {
+	DisplayName: Camisa del Felino Hiperactivo
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DawnHead: {
+	DisplayName: Máscara del Felino Hiperactivo
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+DawnLeggings: {
+	DisplayName: Pantalones del Felino Hiperactivo
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+AfungusPainting: {
+	DisplayName: No Es Mi Hijo
+	Tooltip: "'D.B. Martin'"
+}
+
+Slashroom: {
+	DisplayName: Hongo Cortante
+	Tooltip: ""
+}
+
+CopperPendant: {
+	DisplayName: Colgante de Cobre
+	Tooltip: Aumenta un 2% la probabilidad de golpe crítico
+}
+
+OrderBottleBlade: {
+	DisplayName: Cuchilla de Botella de Orden
+	Tooltip: Extremadamente frágil
+}
+
+BrokenOrderBottleBlade: {
+	DisplayName: Cuchilla de Botella de Orden (Rota)
+	Tooltip:
+		'''
+		Lanza fragmentos de vidrio y gotas de Solución de Orden al ser blandida
+		Las gotas causan daño adicional contra seres caóticos
+		'''
+}
+
+CopperCapper: {
+	DisplayName: Rematador de Cobre
+	Tooltip:
+		'''
+		Usa monedas como munición
+		Las monedas de mayor valor causan más daño
+		'''
+}
+
+RottWall: {
+	DisplayName: Pared Podrida
+	Tooltip: ""
+}
+
+RoyalEffigy: {
+	DisplayName: Efigie Real
+	Tooltip:
+		'''
+		Se usa para volver a luchar contra el Monarca Fúngico
+		'Un tributo al huésped perdido del parásito'
+		'''
+}
+
+HeartyTruffle: {
+	DisplayName: Trufa Vigorizante
+	Tooltip:
+		'''
+		Invoca al Duque de los Hongos
+		'Un hongo entre nosotros.'
+		'''
+}
+
+BlightedPlatform: {
+	DisplayName: Plataforma de la Plaga
+	Tooltip: ""
+}
+
+TestBook: {
+	DisplayName: Libro de Logros
+	Tooltip: Clic izquierdo para leer
+}
+
+UndownerAA3: {
+	DisplayName: Anulador de Misiones AA
+	Tooltip:
+		'''
+		Reinicia todas las misiones de AA
+		No Consumible
+		'''
+}
+
+MushladItem: {
+	DisplayName: Cochinilla Fúngica (Lunares)
+	Tooltip: ""
+}
+
+BarbarosBell: {
+	DisplayName: Campana de Barbaros
+	Tooltip:
+		'''
+		Invoca a un mono dorado mágico
+		'Ding ♪'
+		'''
+}
+
+ManaforcePotion: {
+	DisplayName: Poción de Fuerza de Maná
+	Tooltip: Aumenta el maná máximo en un 20%
+}
+
+CommanderPotion: {
+	DisplayName: Poción de Comandante
+	Tooltip: Aumenta el alcance de los látigos
+}
+
+BogEel: {
+	DisplayName: Anguila del Cenagal
+	Tooltip: ""
+}
+
+FesteringHerring: {
+	DisplayName: Arenque Putrefacto
+	Tooltip: ""
+}
+
+FireTuna: {
+	DisplayName: Atún de Fuego
+	Tooltip: ""
+}
+
+GlowingCarp: {
+	DisplayName: Carpa Luminosa
+	Tooltip: ""
+}
+
+RazewoodToilet: {
+	DisplayName: Inodoro de Madera Calcinada
+	Tooltip: ""
+}
+
+ReboundPotion: {
+	DisplayName: Poción de Rebote
+	Tooltip: Otorga un salto adicional
+}
+
+RazewoodFence: {
+	DisplayName: Cerca de Madera Calcinada
+	Tooltip: ""
+}
+
+Bloomshroom: {
+	DisplayName: Hongo Floreciente
+	Tooltip: ""
+}
+
+WardenPainting: {
+	DisplayName: El Guardián
+	Tooltip: "'T.I. M'"
+}
+
+BloomshroomSeeds: {
+	DisplayName: Semillas de Hongo Floreciente
+	Tooltip: ""
+}
+
+HeartPowerPotion: {
+	DisplayName: Poción de Poder del Corazón
+	Tooltip: Aumenta en 5 la curación de los corazones de vida
+}
+
+H: {
+	DisplayName: ""
+	Tooltip: ""
+}
+
+StarreachPotion: {
+	DisplayName: Poción de Alcance Estelar
+	Tooltip: Aumenta el rango de recolección de las estrellas de maná
+}
+
+ChillPotion: {
+	DisplayName: Poción Refrescante
+	Tooltip: Reduce el daño de fuentes de calor
+}
+
+CB: {
+	DisplayName: ""
+	Tooltip: ""
+}
+
+MushladBlackItem: {
+	DisplayName: Cochinilla Fúngica (Negra)
+	Tooltip: ""
+}
+
+MushladBrownItem: {
+	DisplayName: Cochinilla Fúngica (Marrón)
+	Tooltip: ""
+}
+
+ImitationBag: {
+	DisplayName: Bolsa de Imitación del Monarca
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'Todo lo esencial para hacerte pasar por... ¿el Monarca Fúngico?'
+		'''
+}
+
+ImitationHood: {
+	DisplayName: Capucha de Imitación del Monarca
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+ImitationRobe: {
+	DisplayName: Túnica de Imitación del Monarca
+	Tooltip: "'¡Genial para hacerte pasar por los Devs de Ancients Awakened!'"
+}
+
+BlightTorch: {
+	DisplayName: Antorcha de la Plaga
+	Tooltip: ""
+}
+
+WiltingFibers: {
+	Tooltip: "'Huele mal'"
+	DisplayName: Fibras Marchitas
+}
+
+FungoidHulkBanner: {
+	DisplayName: Estandarte de la Mole Fungoide
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Mole Fungoide
+}
+
+CreeperVineBanner: {
+	DisplayName: Estandarte de la Enredadera Reptante
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Enredadera Reptante
+}
+
+FungoidGruntBanner: {
+	DisplayName: Estandarte del Soldado Fungoide
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Soldado Fungoide
+}
+
+FungoidSwarmerBanner: {
+	DisplayName: Estandarte del Enjambrador Fungoide
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Enjambrador Fungoide
+}
+
+MushladBanner: {
+	DisplayName: Estandarte de la Cochinilla Fúngica
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Cochinilla Fúngica
+}
+
+SplinterBanner: {
+	DisplayName: Estandarte de la Astilla
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Astilla
+}
+
+WitherwingBanner: {
+	DisplayName: Estandarte del Ala Marchita
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Ala Marchita
+}
+
+BioticHamaxe: {
+	DisplayName: Hachomartillo Biótico
+	Tooltip: ""
+}
+
+MonarchTrophy: {
+	DisplayName: Trofeo del Monarca Fúngico
+	Tooltip: ""
+}
+
+ShinyRing: {
+	DisplayName: Anillo Brillante
+	Tooltip: Aumenta el daño en un 2%
+}
+
+CancroidAccordian: {
+	DisplayName: Acordeón Cancroide
+	Tooltip:
+		'''
+		Clic derecho para cambiar el tono
+		'Una cacofonía de acordes caóticos'
+		'''
+}
+
+Plumeshroom: {
+	DisplayName: Hongo Plumoso
+	Tooltip: Invoca un hongo grande que libera esporas dañinas
+}
+
+BlightCrate: {
+	DisplayName: Caja de la Plaga
+	Tooltip: Clic derecho para abrir
+}
+
+MushladStaff: {
+	DisplayName: Bastón Chiflado
+	Tooltip: Invoca Cochinillas Fúngicas agresivas para luchar por ti
+}
+
+SporovidStaff: {
+	DisplayName: Bastón Sporovid
+	Tooltip:
+		'''
+		Invoca un hongo unido para luchar por ti
+		Requiere 2 espacios de esbirro
+		'''
+}
+
+VolcanicPupfish: {
+	DisplayName: Pez Cachorro Volcánico
+	Tooltip: ""
+}
+
+FrogspawnBottle: {
+	DisplayName: Huevos de Rana en una Botella
+	Tooltip:
+		'''
+		Invoca una Ranita Fúngica para dar luz
+		'Asegúrate de darle mucha luz solar'
+		'''
+}
+
+StemCell: {
+	DisplayName: Célula Madre
+	Tooltip: Aumenta la potencia de los objetos curativos en un 10%
+}
+
+TruffleLeg: {
+	DisplayName: Pata de Trufa
+	Tooltip:
+		'''
+		Aumenta la velocidad de salto y la resistencia a caídas
+		Mantén presionado Abajo para caer más rápido
+		'''
+}
+
+GoldenHunterPainting: {
+	DisplayName: "'El Cazador Dorado'"
+	Tooltip:
+		'''
+		Se desconoce al artista
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+AdventurersNotebook: {
+	DisplayName: Cuaderno del Aventurero
+	Tooltip:
+		'''
+		Todas las páginas son ilegibles excepto la última
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+RegalRapier: {
+	DisplayName: Estoque Real
+	Tooltip: ""
+}
+
+PerishedRose: {
+	DisplayName: Rosa Marchita
+	Tooltip:
+		'''
+		Una flor que de alguna manera se salvó de la infección
+		Marchita y seca, aún se aferra a la vida
+		No tiene ningún valor más allá del sentimental
+		'''
+}
+
+MessageInABottle: {
+	DisplayName: Mensaje en una Botella
+	Tooltip:
+		'''
+		Una hoja envejecida de papel pergamino descansa dentro de la botella
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+Tumor: {
+	DisplayName: Bloque de Tumor
+	Tooltip: ""
+}
+
+TumorWall: {
+	DisplayName: Pared de Tumor
+	Tooltip: ""
+}
+
+ArrestBounty: {
+	DisplayName: Recompensa por Arresto
+	Tooltip:
+		'''
+		El retrato de una soldado está dibujado en el frente
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+TradeNotice: {
+	DisplayName: Aviso de Comercio
+	Tooltip:
+		'''
+		Un mensaje formal que declara la terminación de un acuerdo comercial
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+Terathrowma: {
+	DisplayName: Terathrowma
+	Tooltip: Gotea pus sobre los enemigos
+}
+
+HandMortar: {
+	DisplayName: Mortero de Mano
+	Tooltip: Usa granadas como munición
+}
+
+InfestedHalberd: {
+	DisplayName: Alabarda Infestada
+	Tooltip: ""
+}
+
+ClusterGrenade: {
+	DisplayName: Granada de Racimo
+	Tooltip:
+		'''
+		Explota en múltiples granadas más pequeñas
+		Las mini granadas no destruirán bloques
+		'''
+}
+
+Bilethrower: {
+	DisplayName: Lanzabilis
+	Tooltip:
+		'''
+		Usa hongos como munición
+		Ignora 5 puntos de Defensa enemiga
+		'''
+}
+
+BlightWormBanner: {
+	DisplayName: Estandarte del Gusano de la Plaga
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Gusano de la Plaga
+}
+
+TumoroidMawBanner: {
+	DisplayName: Estandarte de las Fauces Tumoroides
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Fauces Tumoroides
+}
+
+TumoroidSentryBanner: {
+	DisplayName: Estandarte del Centinela Tumoroide
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Centinela Tumoroide
+}
+
+TumoroidSpewerBanner: {
+	DisplayName: Estandarte del Escupidor Tumoroide
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Escupidor Tumoroide
+}
+
+FlamebruteBanner: {
+	DisplayName: Estandarte de la Bestia Ígnea
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Bestia Ígnea
+}
+
+DragonCape: {
+	DisplayName: Capa de Dragón
+	Tooltip: ""
+}
+
+HydraNecklace: {
+	DisplayName: Collar de Hidra
+	Tooltip: ""
+}
+
+MosquitoWing: {
+	DisplayName: Ala de Mosquito
+	Tooltip: ""
+}
+
+CragShell: {
+	DisplayName: Caparazón de Peñasco
+	Tooltip: ""
+}
+
+ScorchedEgg: {
+	DisplayName: Huevo Chamuscado
+	Tooltip: ""
+}
+
+LivingEmberItem: {
+	DisplayName: Ascua Viviente
+	Tooltip: ""
+}
+
+AbyssiumBar: {
+	DisplayName: Cota de Malla Tosca
+	Tooltip: ""
+}
+
+BeastScales: {
+	DisplayName: Escamas de Bestia
+	Tooltip: ""
+}
+
+DragonScale: {
+	DisplayName: Escama de Dragón
+	Tooltip: ""
+}
+
+FishSkin: {
+	DisplayName: Piel de Pez
+	Tooltip: ""
+}
+
+IncineriteBar: {
+	DisplayName: Barra de Incinerita
+	Tooltip: ""
+}
+
+IncineriteOre: {
+	DisplayName: Mineral de Incinerita
+	Tooltip: ""
+}
+
+LurkerHide: {
+	DisplayName: Piel de Acechante
+	Tooltip: ""
+}
+
+MonsterTeeth: {
+	DisplayName: Dientes de Monstruo
+	Tooltip: ""
+}
+
+ScorchedScale: {
+	DisplayName: Escama Chamuscada
+	Tooltip: ""
+}
+
+FlamespitterBanner: {
+	DisplayName: Estandarte del Escupefuego
+	Tooltip: ""
+}
+
+GiantMosquitoBanner: {
+	DisplayName: Estandarte del Mosquito Gigante
+	Tooltip: ""
+}
+
+KomodoBanner: {
+	DisplayName: Estandarte del Komodo
+	Tooltip: ""
+}
+
+WyrmlingBanner: {
+	DisplayName: Estandarte del Dragoncillo
+	Tooltip: ""
+}
+
+AncientBogwood: {
+	DisplayName: Madera del Cenagal Ancestral
+	Tooltip: ""
+}
+
+AncientRazewood: {
+	DisplayName: Madera Calcinada Ancestral
+	Tooltip: ""
+}
+
+IncineriteBrick: {
+	DisplayName: Ladrillo de Incinerita
+	Tooltip: ""
+}
+
+TorchAsh: {
+	DisplayName: Ceniza Volcánica
+	Tooltip: ""
+}
+
+Torchice: {
+	DisplayName: Obsidiana de Copo de Nieve
+	Tooltip: ""
+}
+
+BroodmotherRelic: {
+	DisplayName: Reliquia de la Progenitora
+	Tooltip: ""
+}
+
+BroodmotherTrophy: {
+	DisplayName: Trofeo de la Progenitora
+	Tooltip: ""
+}
+
+SwamplurkerRelic: {
+	DisplayName: Reliquia del Acechante del Pantano
+	Tooltip: ""
+}
+
+SwamplurkerTrophy: {
+	DisplayName: Trofeo del Acechante del Pantano
+	Tooltip: ""
+}
+
+AncientBogwoodWall: {
+	DisplayName: Pared de Madera del Cenagal Ancestral
+	Tooltip: ""
+}
+
+AncientRazewoodWall: {
+	DisplayName: Pared de Madera Calcinada Ancestral
+	Tooltip: ""
+}
+
+IncineriteBrickWall: {
+	DisplayName: Pared de Ladrillo de Incinerita
+	Tooltip: ""
+}
+
+Lantern: {
+	DisplayName: Farol
+	Tooltip: ""
+}
+
+BroodmotherTreasureBag: {
+	DisplayName: Bolsa de Tesoro de la Progenitora
+	Tooltip: ""
+}
+
+SwamplurkerTreasureBag: {
+	DisplayName: Bolsa de Tesoro del Acechante del Pantano
+	Tooltip: ""
+}
+
+BroodmotherMask: {
+	DisplayName: Máscara de la Progenitora
+	Tooltip: ""
+}
+
+SwamplurkerMask: {
+	DisplayName: Máscara del Acechante del Pantano
+	Tooltip: ""
+}
+
+HeatersMaw: {
+	DisplayName: Fauces del Calentador
+	Tooltip: ""
+}
+
+Pyrosphere: {
+	DisplayName: Pirosfera
+	Tooltip: ""
+}
+
+Railjaw: {
+	DisplayName: Mandíbula de Riel
+	Tooltip: ""
+}
+
+TriheadLongbow: {
+	DisplayName: Arco Largo Tricéfalo
+	Tooltip: ""
+}
+
+InfernoRubble: {
+	Tooltip: ""
+	DisplayName: Escombros del Infierno
+}
+
+IncineriteHelmet: {
+	DisplayName: Sombrero del Monje Ardiente
+	Tooltip:
+		'''
+		10% de aumento en el daño mágico y de invocación
+		Aumenta el alcance de los látigos en un 10%
+		'''
+}
+
+IncineriteChestplate: {
+	DisplayName: Túnica del Monje Ardiente
+	Tooltip:
+		'''
+		8% de aumento en el daño mágico y de invocación
+		Aumenta en 1 tu número máximo de invocaciones
+		'''
+}
+
+IncineriteBoots: {
+	DisplayName: Falda del Monje Ardiente
+	Tooltip: Aumenta en 1 tu número máximo de centinelas
+}
+
+DragonBullet: {
+	Tooltip: ""
+	DisplayName: Bala de Dragón
+}
+
+DragonArrow: {
+	Tooltip: Las flechas ignoran la resistencia del aire y se deslizan por el cielo.
+	DisplayName: Flecha de Dragón
+}
+
+BurningStaff: {
+	DisplayName: Bastón Ardiente
+	Tooltip: Invoca una masa flamante en el cursor. Erupciona proyectiles de forma inestable contra enemigos cercanos antes de explotar.
+}
+
+DragonsBreath: {
+	DisplayName: Aliento de Dragón
+	Tooltip: ""
+}
+
+DragonClaws: {
+	DisplayName: Garras de Dragón
+	Tooltip: Clic izquierdo para desatar una ráfaga de golpes flamantes. Clic derecho para realizar un tajo con embiste que cierra la distancia.
+}
+
+FlamingFury: {
+	DisplayName: Furia Flamante
+	Tooltip: ""
+}
+
+Incineration: {
+	DisplayName: Incineración
+	Tooltip: Golpear enemigos carga calor en el arma. Al llenarse por completo, libera una explosión en la posición del yoyo y regresa.
+}
+
+DragonFlamebow: {
+	DisplayName: Arco Flamante de Dragón
+	Tooltip: ""
+}
+
+SearingGuard: {
+	DisplayName: Guardia Abrasadora
+	Tooltip:
+		'''
+		3 de defensa
+		Inmunidad a ¡En llamas!
+		Libera un pulso de calor al recibir daño
+		'''
+}
+
+Kusarigama: {
+	Tooltip: ""
+	DisplayName: Kusarigama
+}
+
+ThrowingPickaxe: {
+	Tooltip: ""
+	DisplayName: Pico Arrojadizo
+}
+
+Spluttershot: {
+	Tooltip: ""
+	DisplayName: Traqueteo
+}
+
+SmokeBomb: {
+	Tooltip: ""
+	DisplayName: Bomba de Smog
+}
+
+Fukiya: {
+	Tooltip: ""
+	DisplayName: Fukiya
+}
+
+SacrificialKnife: {
+	Tooltip: Clic derecho para cargarlo con sangre, haciendo que inflija más daño a costa de vida
+	DisplayName: Cuchillo Sacrificial
+}
+
+ExilesKatana: {
+	Tooltip: ""
+	DisplayName: Katana del Exiliado
+}
+
+Daisho: {
+	Tooltip: ""
+	DisplayName: Daisho
+}
+
+RootWand: {
+	Tooltip: Ata a los enemigos con raíces
+	DisplayName: Vara de Raíces
+}
+
+BogwoodPike: {
+	Tooltip: ""
+	DisplayName: Pica de Madera del Cenagal
+}
+
+ScalemailHelmet: {
+	DisplayName: Yelmo de Cota de Escamas
+	Tooltip: 10% de aumento en el daño cuerpo a cuerpo y a distancia
+}
+
+ScalemailGreaves: {
+	DisplayName: Grebas de Cota de Escamas
+	Tooltip: 18% de aumento en la velocidad de movimiento
+}
+
+ScalemailBreastplate: {
+	DisplayName: Coraza de Cota de Escamas
+	Tooltip:
+		'''
+		8% de aumento en el daño cuerpo a cuerpo y a distancia
+		Los atacantes también reciben daño
+		'''
+}
+
+AshigaruCap: {
+	DisplayName: Gorro Ashigaru
+	Tooltip: Los enemigos tienen menos probabilidad de atacarte
+}
+
+AshigaruBreastplate: {
+	DisplayName: Túnica Ashigaru
+	Tooltip: Aumenta el poder de pesca en 6
+}
+
+AshigaruBoots: {
+	DisplayName: Botas Ashigaru
+	Tooltip: Aumenta el poder de pesca en 7
+}
+
+ToothDart: {
+	Tooltip: ""
+	DisplayName: Dardo de Diente
+}
+
+SmallMirePod: {
+	Tooltip: ""
+	DisplayName: Vaina Pequeña del Cenagal
+}
+
+HydraBullet: {
+	Tooltip: ""
+	DisplayName: Bala de Hidra
+}
+
+IronPike: {
+	DisplayName: Pica de Hierro
+	Tooltip: ""
+}
+
+LeadPike: {
+	DisplayName: Pica de Plomo
+	Tooltip: ""
+}
+
+MushladTerrarium: {
+	DisplayName: Terrario de Cochinilla Fúngica
+	Tooltip: ""
+}
+
+BrownMushladTerrarium: {
+	DisplayName: Terrario de Cochinilla Fúngica Marrón
+	Tooltip: ""
+}
+
+GreyMushladTerrarium: {
+	DisplayName: Terrario de Cochinilla Fúngica Gris
+	Tooltip: ""
+}
+
+FungrockBrick: {
+	DisplayName: Ladrillo de Fungoroca
+	Tooltip: ""
+}
+
+FungrockBrickWall: {
+	DisplayName: Pared de Ladrillo de Fungoroca
+	Tooltip: ""
+}
+
+InfernoTable: {
+	DisplayName: Mesa del Infierno
+	Tooltip: ""
+}
+
+DevPlacementTool: {
+	DisplayName: Herramienta de Colocación de Desarrollador
+	Tooltip: ""
+}
+
+IncineriteDrillHead: {
+	DisplayName: Cabezal de Taladro de Incinerita
+	Tooltip:
+		'''
+		Una pieza de equipo minero de una civilización más avanzada
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+UnderworldRelic: {
+	DisplayName: Reliquia del Inframundo
+	Tooltip:
+		'''
+		Parece ser un monumento dedicado a una figura desconocida
+		Alguien con conocimientos históricos podría estar interesado en esto
+		'''
+}
+
+BlightCampfire: {
+	DisplayName: Fogata de la Plaga
+	Tooltip: ""
+}
+
+FungrockWall: {
+	DisplayName: Pared de Fungoroca
+	Tooltip: ""
+}
+
+Bogroot: {
+	DisplayName: Raíz del Cenagal
+	Tooltip: ""
+}
+
+BogwoodFence: {
+	DisplayName: Cerca de Madera del Cenagal
+	Tooltip: ""
+}
+
+BogrootWall: {
+	DisplayName: Pared de Raíz del Cenagal
+	Tooltip: ""
+}
+
+Cinderock: {
+	DisplayName: Roca de Ceniza
+	Tooltip: Las armas mágicas disparan una bola de fuego cada 4 usos
+}
+
+StewardGuardHelmet: {
+	Tooltip: ""
+	DisplayName: Yelmo de la Guardia del Senescal
+}
+
+StewardGuardGreaves: {
+	Tooltip: ""
+	DisplayName: Grebas de la Guardia del Senescal
+}
+
+StewardGuardChainmail: {
+	Tooltip: ""
+	DisplayName: Cota de Malla de la Guardia del Senescal
+}
+
+ObsidianGolemBanner: {
+	DisplayName: Estandarte del Gólem de Obsidiana
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Gólem de Obsidiana
+}
+
+WillowWispItem: {
+	DisplayName: Fuego Fatuo del Sauce
+	Tooltip: ""
+}
+
+HotCoal: {
+	Tooltip: ""
+	DisplayName: Carbón Caliente
+}
+
+AnguishedCoalsBanner: {
+	DisplayName: Estandarte de Carbones Angustiados
+	Tooltip: Los jugadores cercanos obtienen una bonificación contra: Carbones Angustiados
+}
+
+TwistedRootBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte de Raíz Retorcida
+}
+
+TerrorvineBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte de Enredadera del Terror
+}
+
+RootSuckerBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte de Chupador de Raíces
+}
+
+LongneckBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte de Cuellilargo
+}
+
+DepthstalkerBanner: {
+	DisplayName: Estandarte de Acechador de las Profundidades
+	Tooltip: ""
+}
+
+OilSlimeBanner: {
+	DisplayName: Estandarte de Limo de Aceite
+	Tooltip: ""
+}
+
+MireBearTrap: {
+	DisplayName: Trampa para Osos
+	Tooltip: ""
+}
+
+ShrapnelOfTeeth: {
+	DisplayName: Metralla de Dientes
+	Tooltip: ""
+}
+
+TerrorvineWhip: {
+	DisplayName: Látigo de Enredadera del Terror
+	Tooltip: ""
+}
+
+HydraArrow: {
+	DisplayName: Flecha de Hidra
+	Tooltip: Las flechas se dividen en dos
+}
+
+Torchsandstone: {
+	DisplayName: Arenisca Ígnea
+	Tooltip: ""
+}
+
+TorchAshWall: {
+	DisplayName: Pared de Ceniza Volcánica
+	Tooltip: ""
+}
+
+TorchiceWall: {
+	DisplayName: Pared de Obsidiana Copo de Nieve
+	Tooltip: ""
+}
+
+HardenedTorchsandWall: {
+	DisplayName: Pared de Arena Ígnea Endurecida
+	Tooltip: ""
+}
+
+TorchsandstoneWall: {
+	DisplayName: Pared de Arenisca Ígnea
+	Tooltip: ""
+}
+
+Crossbow: {
+	DisplayName: Ballesta
+	Tooltip: ""
+}
+
+VialOfResentment: {
+	DisplayName: Vial de Resentimiento
+	Tooltip:
+		'''
+		Invoca la Luna Siniestra
+		'Una hidra nunca olvida.'
+		'''
+}
+
+UrnOfRemembrance: {
+	DisplayName: Urna del Recuerdo
+	Tooltip:
+		'''
+		Invoca el Sol Doliente
+		'Los dragones son criaturas sumamente emocionales.'
+		'''
+}
+
+HydravenomGland: {
+	DisplayName: Glándula de Hidraveneno
+	Tooltip: 50% de aumento en el daño crítico
+}
+
+IncineriteTower: {
+	Tooltip: ""
+	DisplayName: Torre de Incinerita
+}
+
+MusblightGrassWall: {
+	Tooltip: ""
+	DisplayName: Pared de Pasto de Musplaga
+}
+
+BlightedMushroomWall: {
+	Tooltip: ""
+	DisplayName: Pared de Hongo Aplagado
+}
+
+SullenwoodHuskBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte del Caparazón de Madera Sombría
+}
+
+Eruptor: {
+	Tooltip: ""
+	DisplayName: Eruptor
+}
+
+SicknessTonic: {
+	Tooltip: Otorga inmunidad al veneno y la ponzoña
+	DisplayName: Tónico contra Enfermedades
+}
+
+CoagulantTonic: {
+	Tooltip: Reduce a la mitad la duración de los efectos negativos relacionados con el veneno
+	DisplayName: Tónico Coagulante
+}
+
+SuperSpicyCurry: {
+	DisplayName: Curry Súper Picante
+	Tooltip: Hace que exhales fuego sobre los enemigos
+}
+
+MagmaSpriteBanner: {
+	Tooltip: ""
+	DisplayName: Estandarte del Espíritu de Magma
+}
+
+SmoulderingTonic: {
+	Tooltip: Otorga inmunidad a ¡Ardiendo! y ¡En llamas!
+	DisplayName: Tónico Humeante
+}
+
+AccursedBlade: {
+	DisplayName: Espada Maldita
+	Tooltip:
+		'''
+		Clic derecho para disparar sangre maldita por 20 de maná
+		Los enemigos alcanzados por la sangre reciben más daño de la espada
+		'''
+}
+
+GraveHand: {
+	DisplayName: Mano de la Tumba
+	Tooltip:
+		'''
+		Mantén presionado el clic derecho para drenar la vida de los enemigos cercanos, infligiendo daño mágico a costa de una penalización de movimiento
+		'¿Crees en los fantasmas?'
+		'''
+}
+
+TheKnife: {
+	DisplayName: El Cuchillo
+	Tooltip: ""
+}
+
+BlightedBathtub: {
+	DisplayName: Bañera Aplagada
+	Tooltip: ""
+}
+
+BlightedBed: {
+	DisplayName: Cama Aplagada
+	Tooltip: ""
+}
+
+BlightedBookcase: {
+	DisplayName: Librería Aplagada
+	Tooltip: ""
+}
+
+BlightedCandelabra: {
+	DisplayName: Candelabro Aplagado
+	Tooltip: ""
+}
+
+BlightCandle: {
+	DisplayName: Vela de la Plaga
+	Tooltip: ""
+}
+
+BlightedChair: {
+	DisplayName: Silla Aplagada
+	Tooltip: ""
+}
+
+BlightedChandelier: {
+	DisplayName: Lámpara Araña Aplagada
+	Tooltip: ""
+}
+
+BlightedClock: {
+	DisplayName: Reloj Aplagado
+	Tooltip: ""
+}
+
+BlightedDoor: {
+	DisplayName: Puerta Aplagada
+	Tooltip: ""
+}
+
+BlightedDresser: {
+	DisplayName: Aparador Aplagado
+	Tooltip: ""
+}
+
+Cranberries: {
+	DisplayName: Arándanos Rojos
+	Tooltip: ""
+}
+
+Roselle: {
+	DisplayName: Flor de Jamaica
+	Tooltip: ""
+}
+
+Salak: {
+	DisplayName: Salak
+	Tooltip: ""
+}
+
+WaterChestnut: {
+	DisplayName: Castaña de Agua
+	Tooltip: ""
+}
+
+BlightedLamp: {
+	DisplayName: Lámpara Aplagada
+	Tooltip: ""
+}
+
+BlightedLantern: {
+	DisplayName: Linterna Aplagada
+	Tooltip: ""
+}
+
+BlightedPiano: {
+	DisplayName: Piano Aplagado
+	Tooltip: ""
+}
+
+BlightedSink: {
+	DisplayName: Fregadero Aplagado
+	Tooltip: ""
+}
+
+BlightedSofa: {
+	DisplayName: Sofá Aplagado
+	Tooltip: ""
+}
+
+BlightedTable: {
+	DisplayName: Mesa Aplagada
+	Tooltip: ""
+}
+
+BlightedToilet: {
+	DisplayName: Retrete Aplagado
+	Tooltip: ""
+}
+
+BlightedWorkbench: {
+	DisplayName: Banco de Trabajo Aplagado
+	Tooltip: ""
+}
+
+TwistedBracer: {
+	DisplayName: Brazalete Retorcido
+	Tooltip: Hace que broten enredaderas protectoras del usuario, que drenan vida al golpear enemigos
+}
+
+MireStargazer: {
+	DisplayName: Contemplaestrellas del Cenagal
+	Tooltip: Clic derecho para desollar
+}
+
+ShinyCrappie: {
+	DisplayName: Mojarra Brillante
+	Tooltip: ""
+}
+
+AcidGar: {
+	DisplayName: Pejelagarto Ácido
+	Tooltip: Clic derecho para desollar
+}
+
+BloatedBluegill: {
+	DisplayName: Mojarra Azul Hinchada
+	Tooltip: Clic derecho para desollar
+}
+
+DwellerFish: {
+	DisplayName: Pez Morador
+	Tooltip: ""
+}
+
+Moonfish: {
+	DisplayName: Pez Luna
+	Tooltip: ¡Clic derecho para obtener estrellas caídas!
+}
+
+Whiskerfish: {
+	DisplayName: Pez Bigotudo
+	Tooltip: Clic derecho para desollar
+}
+
+SkinnedFish: {
+	DisplayName: Pez Desollado
+	Tooltip: Mejoras menores en todas las estadísticas
+}
+
+WickedNeckpiece: {
+	Tooltip:
+		'''
+		7% de aumento en la probabilidad de golpe crítico
+		Al conectar un golpe crítico con un arco, recibes un aumento en su velocidad de disparo durante los siguientes 7 segundos
+		Durante este período no puedes dar golpes críticos, y esto entra en enfriamiento durante 7 segundos después
+		'''
+	DisplayName: Collar Malvado
+}

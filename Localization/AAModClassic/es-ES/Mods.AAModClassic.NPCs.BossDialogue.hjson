@@ -1,0 +1,984 @@
+male: él
+fimale: ella
+male2: ÉL
+fimale2: ELLA
+boy: ", MUCHACHO"
+girl: ", MUCHACHA"
+FatPixie: ¡YA!
+CoreSpawn: ¡El Núcleo Biomitía cobra vida!
+
+SistersOfDiscord: {
+	Ambient.HarukaShadow: patético.
+
+	Spawn: {
+		1: Bueno, hola ahí, ¡qué sorpresa verte AQUÍ~!
+
+		2: {
+			None: Oh sí, he oído MUCHO sobre ti, chico...has estado causando bastante alboroto por estas partes...
+			Broodmother: Oh sí, he oído MUCHO sobre ti, chico...¡eres la pequeña sangre caliente que golpeó a mi madre!
+		}
+
+		3: {
+			Both: Y la mía...
+			Hydra: ...y también lastimaste a mi mamá...
+			None: Eres una molestia bastante desagradable, ¿sabes...
+		}
+
+		4: ¡Entonces ahora..! Jeh...
+		5: ¡Vamos a darte algo sobre lo que absolutamente GRITARÁS..! Vamos, Hakie, ¡quememos a esta pequeña sangre caliente~!
+		6: Por favor, no me llames Hakie nunca más...jamás.
+	}
+
+	AsheDowned: ¡OW..! ¡ESO DOLIÓ, ERES UN MALVADO!
+	HarukaDowned: Argh..! Ay...
+
+	Defeat: {
+		First: {
+			1: ¿Ves, Ashe? Te dije que esto era una idea estúpida, pero TÚ no escuchabas...
+
+			2: {
+				Front: "¡Cállate! Pensé que si nos uníamos en tu contra "
+				Back: ", ¡podríamos golpearte fácilmente!"
+			}
+
+			3: Sea como sea...me vuelvo a casa. ALGUIEN tiene que decirle a papá sobre este chico.
+			4: ¡Bah..! ¡Está bien! ¡Sé así! ¡Me vuelvo al Infierno!
+		}
+
+		1: ¡AAAAARRRRGH! ¡¡NUEVAMENTE NO!!!
+		2: ¿Por qué sigo contigo..? Debería honestamente dejarte que pelees sola.
+		3: ¡Argh..! ¡Cállate..!
+	}
+}
+
+Akuma: {
+	Attacks: {
+		Skyfall: {
+			A: ¡Oye chico! ¡El cielo se está cayendo, ten cuidado!
+			B: ¡Viene fuego e ira!
+		}
+
+		BigShot: {
+			A: ¡Oye chico! ¡Ten cuidado!
+			B: ¡Entrante!
+		}
+
+		SeekingFlames: {
+			A: ¡Enfrenta las llamas de la desesperación, chico!
+			B: ¡Arriba, chico!
+		}
+	}
+
+	WaterHit: ¿¡Agua!? ¡ACK..! ¡¡NO PUEDO RESPIRAR!!
+
+	Despawn: {
+		Night: Yaaaaaaaaawn. Estoy cansado chico, voy a tener que posponerlo. Vuelve mañana.
+		Escape: Pensé que ustedes terrícolas pondrían más pelea. Supongo que no.
+	}
+
+	Defeat: {
+		Status: Los volcanes del Infierno finalmente se han apaciguado...
+		NotExpert: Bah...eres bastante bueno chico, pero no lo suficientemente bueno. Vuelve cuando hayas mejorado un poco.
+	}
+
+	Transition: {
+		1: Jeh...
+		2: Sabes, chico...
+		3: avivar las llamas no las apaga...
+		4: ¡Akuma ha sido Despertado!
+		5: ¡SOLO LAS HACE MÁS FUERTES!
+		6: El aire a tu alrededor comienza a calentarse...
+	}
+
+	Awakened: {
+		AsheAppear: {
+			First: {
+				Ashe: ¡Oye! ¡Manos fuera de mi papá!
+				Akuma: ¡Así se hace, chica..!
+			}
+
+			Ashe: ¡Entendido, papá..!
+			Akuma: ¿Ashe? ¡Ayuda a tu viejo papá con este chico de nuevo!
+		}
+
+		Defeat: {
+			Repeat: Jeh, nada mal esta vez chico. Estoy impresionado. Toma tu premio.
+			First: ¡GRAH..! ¡¿CÓMO!? ¡¿CÓMO PUDE PERDER CONTRA UN MERO TERRÍCOLA MORTAL?! Bah...está bien chico, ganas, justo y limpio. Aquí está tu recompensa.
+			Cheat: Bueno. Hiciste trampa. Ahora ven a pelear conmigo en modo experto como un verdadero hombre.
+		}
+
+		DayReset: ¡La noche no te salvará de mí esta vez, chico! ¡El día nace de nuevo!
+		Kill: Acabas de quemarte, chico.
+	}
+
+	#Unused
+	Akuma6: ¡Espíritus del volcán! ¡ayúdenme a aplastar a este chico!
+	Akuma9: El sol brilla, y no hay sombra a la vista, chico!
+	Akuma10: Se está poniendo más caliente, ¿verdad?
+	AkumaA5: ¿Todavía lo tienes? ¡Vaya, tienes fuego en tu espíritu! ¡Me gusta eso de ti, chico!
+	AkumaA6: ¡¿Qué!? ¡¿Cómo has durado tanto!? ¿Por qué tú pequeño... Me niego a ser vencido por un terrícola de nuevo! ¡Adelante!
+	AkumaA7: ¡ACK..! ¡¡AGUA!! ¡¡ODIO EL AGUA!!!
+	AkumaA13: ¡El cielo se está cayendo de nuevo! ¡En tus pies!
+	AkumaA14: ¡Aquí vienen las llamas de furia nuevamente!
+	AkumaA15: ¡Subestimas la artillería de un dragón, chico!
+	AkumaA16: ¡Las llamas no se rinden hasta el final, chico!
+	AkumaA17: ¡Arriba! ¡El volcán está haciendo erupción, chico!
+	AkumaA18: ¡¡ENTRANTE!!
+	AkumaA19: ¿Oye chico? ¿¿Te gustan los fuegos artificiales?? ¡No! ¡Qué lástima!
+	AkumaA20: ¡Aquí viene el gran final, chico!
+	AkumaA21: El sol no se rinde hasta que el día termina, chico!
+	AkumaA22: ¡Enfrenta la furia del sol!
+	AkumaAAshe1: Papá, ¡¡NO!! ¡¡OY!! ¡¡TÚ!! ¡Te voy a hornear vivo la próxima vez que nos veamos..!
+	AkumaAAshe2: ¡OW, eres un Idiota..! ¡Me largo!
+}
+
+Anubis: {
+	Kill: ¡JA! Toma esto-- er, arena.
+
+	Intro: {
+		1: {
+			Singleplayer: Bueno, amigo. Aquí estamos.
+			Multiplayer: Bueno chicos, Aquí estamos.
+		}
+
+		2: Espero que estés listo para una verdadera pelea.
+		3: Especialmente ya que estoy en mi forma superior.
+		4: ¿Estás listo? ¡No dudaré en golpearte hasta dejarte tonto!
+		5: ¡Vamos!
+		Rematch: ¿Una revancha eh? ¡Está bien, esto debería ser divertido!
+	}
+
+	Combat: {
+		PumpkinThrow: ¡YA!
+		Runeblast: ¡Cuidado! Los proyectiles duelen.
+		Summons: Déjame traer algunos amigos
+		ScepterThrow: ¡Atrápalo!
+		BlockCrush: ¡Aplastando, eh!
+	}
+
+	Transition: {
+		1: ...argh...
+		2: ...está bien.
+		3: Creo...que es hora.
+		4: No más trucos siendo tirados.
+		5: Si vas a enfrentarte a las fuerzas oscuras del mundo...
+		6: Necesito asegurarme de que estés listo, porque...a menos que estés listo...
+		7: ...Algunas cosas deberían mantenerse encerradas por tu propio bien.
+	}
+
+	Forsaken: {
+		Warning: Sin advertencias esta vez.
+		Kill: ...Lo siento, pero aún no estás listo.
+		Defeat: ...Hiciste un buen trabajo, amigo. Hagamos un plan hacia adelante. Ven a hablar conmigo cuando estés listo.
+	}
+}
+
+Athena: {
+	Intro: {
+		First: {
+			1: ¡Bah..!
+
+			2: {
+				Singleplayer: ¡¡Tú! ¡Terrícola de la Tierra!
+				Multiplayer: ¡¡Ustedes! ¡Terrícolas de la Tierra!
+			}
+
+			3: ¡Mis serafines me dicen que han estado atacándolos! ¿¡Por qué!?
+			4: ¡Voy a enseñarte una lección, pequeño insolente!
+			5: ¡En Garde!
+		}
+
+		PreAthenaA: {
+			1: ...Así que. Viniste.
+			2: Ya es hora de que recupere mi honor..!
+			3: ¡En Garde!
+		}
+
+		Repeat: {
+			1: Suspiro...
+			2: Solo acabemos con esto. No tengo todo el día.
+		}
+	}
+
+	AwakenedSummon: ¿¡Destruir uno de mis artefactos!? ¡¡Ustedes terrícolas no dejan de hartar me!
+	Kill: Y aléjate...idiota.
+	Defeat: ¡OW! ¡Está bien, está bien..! ¡Te dejaré en paz! Vaya, no te rindes, ¿verdad?
+
+	Transition: {
+		1: ...jah...jah...
+		2: ...Aún perdí.
+		3: No.
+		4: No voy a rendirme tan fácilmente.
+		5: Hay una frase por la que mi pueblo vive, terrícola de la tierra.
+		6: Lo más brillante del amanecer...
+		7: Lo más oscuro de la noche...
+		8: Incluso en la derrota...
+		9: ¡¡UN VARIANO SIEMPRE PONE UNA ÚLTIMA PELEA!!!
+		Repeat: ¡No más bromas, las tormentas están llamando, y vienen por ti!
+	}
+
+	Awakened: {
+		Kill: Y aléjate, idiota.
+
+		Defeat: {
+			1: ...¿¡POR QUÉ!?
+			2: ...¿¡Por qué no puedo ganar!?
+
+			3: {
+				Singleplayer: ...No has oído lo último de mí, terrícola de la tierra...
+				Multiplayer: ...No han oído lo último de mí, terrícolas de la tierra...
+			}
+
+			4: Algún día recuperaré mi honor...
+			5: ...hasta entonces, cuida tu espalda.
+			6: Fuerzas oscuras y caóticas se están despertando últimamente.
+			7: Esperemos que ÉL no vuelva...
+			8: Mantente seguro.
+			Repeat: ¡OW! ¡Está bien, está bien..! ¡Te dejaré en paz! Vaya, no te rindes, ¿verdad?
+		}
+	}
+}
+
+SeraphHerald1: ¡¡OY!! ¡¡TERRÍCOLA!! ¡¡SÍ TÚ, MONO ESTÚPIDO!!
+SeraphHerald2: ¡La Reina Athena solicita tu presencia en la Acrópolis inmediatamente nuevamente!
+SeraphHerald3: ¡Ella exige una revancha, y esta vez, no te derribará tan fácilmente!
+SeraphHerald4: ¡Diría que te rompas una pierna, pero podemos hacer eso nosotros mismos cuando aparezcas!
+SeraphHerald5: ¡Nos vemos, pequeño!
+SeraphHerald6: Oh sí, y eh, ese gusano cleptomaníaco molesto quiere pelear contigo de nuevo también o algo así.
+
+EquinoxDialogue: {
+	GravAltar: En lo profundo de las cavernas del mundo yace el rey gusano, el guardián de la tierra que fue creado para darnos vida.
+	StarAltar: Alto en las nubes reina la Reina Serafín, guardiana de los cielos donde los creadores nos cuidan.
+	WormAltar: El ídolo entra en la ranura, pero nada sucede.
+	WormAltarOK: El Ídolo brilla con vida, recuperando su coloración original
+	s: s
+	heroes: héroes
+	WormSpawn1: Parece que alguien ha reunido nuestro ídolo, querido Traidor del Día.
+	WormSpawn2: Así parece. Pequeño
+	WormSpawn3: ", nos has impresionado mucho"
+	WormSpawn4: ¿Podrían ser el que hemos estado buscando..?
+	WormSpawn5: ...posiblemente.
+	WormSpawn6: Joven
+	WormSpawn7: . Nos gustaría proporcionarte una última prueba.
+	WormSpawn8: Una prueba de fuerza contra nosotros.
+	WormSpawn9: Cuando estés listo, llámanos usando la estatua de gusano en tu mano.
+	WormSpawn10: Podremos encontrarte porque reactivaste estas balizas.
+	WormSpawn11: Sin embargo...
+	WormSpawn12: "No esperes que seamos clementes contigo, "
+}
+
+Greed: {
+	Spawn: {
+		1: ¿¡Quién me molesta contando mi moneda!? Estoy ocupado--
+		2: ...Oooooh...¿es que...?
+		3: ¡Me traes mi plato favorito..!
+		4: Ahora, si no te importa...
+		5: ¡¡VETE DE MI TESORO!!!
+	}
+
+	Transition: {
+		1: ¡¡TÚ..! ¡¡PEQUEÑO--!!
+		2: ¡¿POR QUÉ TE NIEGAS A DEJARME EN PAZ!?
+		3: ¡¡INTENTAS ROBAR MIS BRILLOS, Y AHORA...!!
+		4: ¡¡VOY A ROBARTE LA VIDA!!
+	}
+
+	AwakenedSummon: ¡¿TE ATREVES A FESTEJAR EN MI TESORO? ¡¡ENTONCES TE CONVERTIRÉ EN MI PRÓXIMA COMIDA!!
+	Despawn: ¡¡EEEEEEEEEEEEEEEGH LA LUZ DE LA SUPERFICIE!! ¡¡DEMASIADO BRILLANTE!! ¡¡DEMASIADO BRILLANTE!!
+	Kill: ¡¡Y MANTENTE ALEJADO DE MIS GLORIOSAS RIQUEZAS, PEQUEÑO LADRÓN!!
+}
+
+Rajah: {
+	#Anticheat Unused
+	Cheat: LA JUSTICIA NO PUEDE SER ENGAÑADA
+	Kill: La justicia ha sido servida...
+	Despawn: Cobarde.
+	Defeat.Murderer: Ganas esta vez, asesino...pero vengaré a aquellos que has asesinado sin piedad...
+
+	Awakened: {
+		PowerUp: Rajah brilla con energía furiosa mientras ataca, fortaleciendo sus defensas
+
+		LastStand: {
+			Singleplayer: {
+				Murderer: ¡¡ESTO NO ES EL FIN, ASESINO!! ¡¡LOS RIVALES LUCHAN HASTA EL MUY FIN!!
+				Normal: ¡¡ESTO NO ES EL FIN, TERRÍCOLA!! ¡¡LOS RIVALES LUCHAN HASTA EL MUY FIN!!
+				Repeat: ¡¡ESTO NO ES EL FIN, {0}!! ¡¡LOS RIVALES LUCHAN HASTA EL MUY FIN!!
+			}
+
+			Multiplayer: {
+				Murderer: ¡¡ESTO NO ES EL FIN, ASESINOS!! ¡¡LOS RIVALES LUCHAN HASTA EL MUY FIN!!
+				Normal: ¡¡ESTO NO ES EL FIN, TERRÍCOLAS!! ¡¡LOS RIVALES LUCHAN HASTA EL MUY FIN!!
+			}
+		}
+
+		Kill: Y mantente abajo.
+
+		Defeat: {
+			First: {
+				1: Argh...
+				2: ...así que...
+				3: Incluso cuando estoy en mi mayor poder...
+				4: ...Aún no puedo vencerte.
+				5: ...Terrícola...quizás...
+				6: Quizás esto sea solo una señal de que...tal vez mi tiempo como protector...
+				7: ...finalmente se acabó. Podría ser hora de pasar el testigo.
+				8: ...Te perdono por cada conejo que has matado, pero a cambio...quiero que tomes mi lugar...
+				9: ...como su campeón. Su protector.
+				10: Solo quiero lo mejor para las criaturas de este mundo...y si eres más fuerte que yo...
+
+				11: {
+					Singleplayer: ¿Quién mejor para tomar mi lugar que tú, {0}?
+					Multiplayer: ¿Quién mejor para tomar mi lugar que ustedes, Terrícolas?
+				}
+
+				12: Sé el que los inocentes pueden mirar en su momento de necesidad.
+				13: Piénsalo.
+				14: Y si alguna vez quieres practicar...usa una de esas zanahorias especiales. Estaría encantado de recuperar mi honor.
+				15: ...Nos vemos, chiquillo.
+				Status: El discurso de Rajah Conejo te calienta el corazón. Ya no tienes la voluntad de dañar conejos. Hazle honra.
+			}
+
+			Repeat: {
+				Singleplayer: Bien peleado, {0}. Toma tu recompensa.
+				Multiplayer: Bien peleado, Terrícolas. Toma tu recompensa.
+			}
+		}
+	}
+}
+
+Sagittarius: {
+	LowHealth: ¡¡DAÑO CORPORAL EXTENSO DETECTADO. ¡¡PROCEDER CON PRECAUCIÓN!!
+	#Unused
+	Sagittarius1: objetivo(s) neutralizado(s). regresando al modo sigiloso.
+	Sagittarius2: objetivo(s) perdido(s). regresando al modo sigiloso.
+	SagittariusFree1: objetivo(s) neutralizado(s). regresando al modo sigiloso.
+	SagittariusFree2: objetivo(s) perdido(s). regresando al modo sigiloso.
+	SagittariusFree3: inicializando programa de reparación.
+}
+
+Yamata: {
+	NoFly: ¡Oh y ni se te ocurra volar! ¡Mi ego es tan masivo que tiene su propio tirón gravitacional! ¡¡NYEHEHEHEHEHEHEHEHEHEHEHEH!!!
+	Teleport: ¿¡¿Corriendo!? ¡¡NO LO CREO!!
+
+	Heads: {
+		Attacks: {
+			AcidSpit: {
+				First: ¡¡PRUEBA ÁCIDO, GUSANO INSOPORTABLE!!!
+				Repeat: ¡¡DEJA DE MOVERTE Y DÉJAME DERRETIRTE!!!
+			}
+
+			AcidStorm: {
+				First: ¡¡ABAJO ABAJO ABAJO VA EL VENENO!!! ¿¡Cuándo se detendrá!? ¿¡¡QUIÉN SABE!!? ¡¡NYEHEHEHEHEHEH!!!
+				Repeat: ¡¡MUÉRMUÉRMUÉRMUÉRMUÉRMUÉRMUÉRMUÉRIIIIIIIIIIIIIIIE!!!
+			}
+
+			AcidBlast: {
+				First: ¡¡BAM! ¡¡PUM!! ¡¡TE VOLARÉ AL PRÓXIMO DOMINGO!!!
+				Repeat: ¡¡NGAAAAAAAAAAAAAAAAAH!!!
+			}
+
+			Bite: {
+				First: {
+					Male: ¡¡ATRAPALOS! ¡¡CÓMELO! ¡¡SOLO SÁCALO DE MI CARA!!!
+					Female: ¡¡ATRAPALOS! ¡¡CÓMELO! ¡¡SOLO SÁCALO DE MI CARA!!!
+				}
+
+				Repeat: ¡¡HE COMIDO CONEJOS MÁS INTIMIDANTES QUE TÚ!
+			}
+		}
+
+		Killed: ¡¡AUCH!!!
+	}
+
+	Health: {
+		First: {
+			ThreeQuarters: ¡¡La resistencia no te salvará aquí! ¡Ahora deja de ser un pequeño malcriado y déjame destruirte!
+			Half: ¡¡DEJA DE RETORCERTE Y DÉJAME APLASTARTE!!!
+			Quarter: ¡¡NGAAAAAAAAAAAAAH REALMENTE ERES MOLESTO, ¿SABES..!
+		}
+
+		Repeat: {
+			ThreeQuarters: ¡¡No entiendo por qué sigues peleando conmigo! ¡¡Soy superior a ti en todos los aspectos!
+			Half: ¡¡ME ESTOY FRUSTRANDO DE NUEVO!
+			Quarter: ¡¡ODIO PELEARTE! ¡¡LO ODIO LO ODIO LO ODIO!!!
+		}
+	}
+
+	Defeat: {
+		NotExpert: ¡¡JA! ¡¡Fui fácil contigo! ¡¡Vuelve cuando realmente seas bueno y podamos tener una pelea verdadera!
+		Status: La derrota de Yamata hace que la niebla del Cenagal se levante.
+	}
+
+	Despawn.Daytime: ¡¡HISSSSSSSSSSSSSSS!!! ¡¡EL SOLLLLLLLLLLL! ¡¡ME LARGO!
+
+	Transition: {
+		1: ¡¡NYEHEHEHEHEHEHEHEH~!
+		2: ¿¡¿Pensaste que TERMINÉ!?!
+		3: ¡¡JA! ¡¡COMO SI!
+		4: El abismo tiene hambre...
+		5: ¡¡Y TIENE 7 CABEZAS! ¡¡NYEHEHEHEHEHEHEHEHEHEHEHEH!!!
+		PlayerStatus: Comienzas a sentir como si tu alma te estuviera pesando...
+		AwakenStatus: ¡¡Yamata ha sido Despertada!
+	}
+
+	Awakened: {
+		NightReset: ¡¡¡EL SOL NO BRILLA EN LAS PROFUNDIDADES!!! ¡¡NYEHEHEHEHEHEHEHEH!!!
+		Teleport: ¡¡NO HAY ESCAPE DEL ABISMO!
+
+		Health: {
+			First: {
+				ThreeQuarters: ¿¡¿AÚN LUCHAS!? ¿¡¿QUÉ DEMONIOS TE PASA!?
+				Half: ¡¡YA ESTOY HARTO HASTA AQUÍ DE TUS TONTERÍAS!!! ¡¡COME VENENO PEQUEÑO INFIERNO!!
+				Tenth: ¡¡DETENTE DETENTE DETENTE!!! ¡¡NO VOY A DEJAR QUE GANES!!!
+			}
+
+			Repeat: {
+				ThreeQuarters: Eres un pequeño molesto, ¿sabes!
+				Half: ¡¡MUERE! ¡¿¡POR QUÉ NO TE MUERES DE UNA VEZ!?
+				Tenth: ¡¡DETENTE!!! ¡¡NO VOY A PERDER DE NUEVO!!!
+			}
+		}
+
+		Heads.Killed: ¡¡AUCH!!!
+		Kill: ¡¡NYEHEHEHEHEHEHEH..! ¡Y no vuelvas!
+
+		Defeat: {
+			First: ¡¡NO...! ¡¡IMPOSIBLE! ¡¿¡¿INCLUSO EN MI FORMA DESPERTADA!? ¡¡DEBES HABER HECHO TRAMPA! ¡¡GYAAAAAAH..! ¡¡ESTÁ BIEN! ¡¡TOMA TU BOTÍN! ¡¡ME LARGO..!
+			Repeat: ¡¡NOOOOOOOOOOOOOOO!!! ¡¡PEQUEÑO MALCRIADO!!! ¡¡CASI TE TENGO ESTA VEZ!!! ¡¡ESTÁ BIEN, TOMA TUS COSAS, VE SI ME IMPORTA!
+			Cheat: ¡¡JA! ¡¡Buen intento! ¡¡Vuelve en modo experto cuando no tengas que hacer trampa para vencerme! ¡¡TODO TU BOTÍN ES MÍO DE TODAS FORMAS!
+		}
+	}
+
+	#Unused
+	Yamata5: ¿¿¡¡¡YA CREES QUE TERMINÉ!!! ¡¡¡NO LO CREO!!!!
+	YamataA1: REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+	YamataA12: ¿¿Wh-¿¿QUÉ?? ¡¡MUERE! ¡¡MUERE PEQUEÑO TONTO! ¡¡MUÉRMUÉRMUÉRMUÉRMUÉRMUÉRMUÉREMURIÓ!!!!
+	YamataA13: ¡¡¡NO NO NO!!! ¡¡¡NUEVAMENTE NO!!! ¡¡ESTA VEZ VOYA TE PISOTEAR HASTA HUNDIRTE EN EL SUELO!!!
+	YamataA14: Parece que tengo que venir y salvarte el trasero de nuevo, papá.
+	YamataA15: ¡Esa es mi chica..!
+	YamataA16: ¡Oh, cariño..! ¿¡¿Te gustaría ayudar a papá a apalear a este pequeño gusano!?
+	YamataA17: Suspiro...sí papá.
+	HarukaY1: ¡Papá, ¡idiota..! Sea como sea, No puedo realmente decir que no lo vi venir.
+	HarukaY2: Así es. Estoy fuera, TÚ lidiáte con ellos, papá.
+	YamataHead10: ¡¡ESPERO QUE HAYAS TRAÍDO TU PARAGUAS! ¡¡PORQUE ESTÁ LLOVIENDO DOLOR!!! ¡¡NYEHEHEHEHEHEHEHEH!!!
+	YamataHead11: ¡¡¡ABAJO VIENE EL VENENO!!!¡¡NYEHEHEHEHEHEHEHEH!
+	YamataHead12: ¡¡COME ECTOPLASMA, PEQUEÑO INFELIZ!!
+	YamataHead13: ¡¡NYAAAAAAAAAAAH!!!
+	YamataHead14: ¡¡OOPS! ¡¡DEJÉ CAER ÁCIDO! ¡Espero que no seas degradable..!
+	YamataHead15: ¡¡OOPS! ¡¡DEJÉ CAER ÁCIDO NUEVAMENTE! ¡¡NYEHEHEHEHEHEHEHEHEHEHEHEH
+	YamataHead16: ¡¡NYAAAAAAAH! ¡¡NO SOBREVIVIRÁS A ESTE!!
+	YamataHead17: ¡¡VAMOS!!! ¡¡QUÉDATE QUIETO PARA QUE PUEDA VOLARTE A MARTE!
+	YamataHead18: ¡¡NGAAAAAAAAAAAAAH PÁÁÁÁÁÁÁÁRSÁTÁTE MOTATATÁTÁAAAAAAAAAAA!!!
+	YamataHead19: ¡¡PRUEBA UN SABOR SALUDABLE DE ÁCIDO!
+	YamataHead20: ¡¡VOY A DESPEDAZARTE PEQUEÑO INFELIZ!!!
+	YamataHead21: ¡¡REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!
+}
+
+Zero: {
+	Rearm: RE-ESTABLECIENDO UNIDADES DE ARMA
+
+	Defeat: {
+		Expert: UNIDAD FÍSICA ZER0 EN CONDICIÓN CRÍTICA. DESCARTANDO E INICIANDO PR0T0C0L0 DEL APOCALIPSIS.
+		NotExpert: MAL FUNCIONAMIENTO DEL PR0T0C0L0 DEL APOCALIPSIS. MAIN.M0D0EXPERT0 = F4LS0.
+		Status: La influencia oscura de Zero sobre el vacío ha sido levantada. La piedra de ruina aquí ahora es mineable.
+	}
+
+	Awakened: {
+		Kill: 0BJETIV0 NEUTRALIZAD0. REGRESAND0 A L'0RBITA.
+		Despawn: 0BJETIV0 PERDID0. REGRESAND0 A L'0RBITA.
+
+		Self-Organization: {
+			1: LA CARGA DE AUTO-0RGANIZACIÓN SE C0MPLETA...
+			2: ENCENDIENDO EN M0D0 DE AUTO-0RGANIZACIÓN...
+
+			3: {
+				Normal: ¿PERMITIR {0}\M0DS\AAM0D\ZER0\AUTO-0RGANIZACIÓN.EXE ? <S/N>...
+				Streaming: ENCUESTA DE AUDIENCIA: ¿PERMITIR AUTO-0RGANIZACIÓN.EXE ? <S/N>...
+			}
+
+			4: ===C A R N I C E R Í A===
+		}
+
+		Defeat: {
+			First: {
+				1: MISIÓN FALLIDA. ENVIAND0 SEÑAL DE ANGUSTIA A LA BASE.
+				2: ENVIAND0...
+				3: SEÑAL DE ANGUSTIA RECIBIDA.
+			}
+
+			Cheat: ALERTA DE TRAMPA ALERTA DE TRAMPA. SIN CAÍDAS 4 U
+		}
+	}
+
+	#Unused
+	ZeroBoss4: INICIALIZAND0 PR0T0C0L0 DE ARMA DE RESPALD0.
+	ZeroBoss5: ERR0R CRÍTICA: UNIDADES DE BRAZO N0 ENCONTRADAS. RERRUTAND0 RECURSS A PR0T0C0L0S OFENSIV0S. ESCUD0 BAJAD0.
+	ZeroBoss6: 0BJETIV0 NEUTRALIZAD0. REGRESAND0 A L'0RBITA.
+	ZeroBoss7: 0BJETIV0 PERDID0. REGRESAND0 A L'0RBITA.
+	ZeroBoss8: INICIAND0 SISTEMA DE CREACIÓN DE SONDA.
+	ZeroBoss9: PR0T0C0L0 DE CICLÓN ACTIVAD0
+	ZeroBoss11: RE-configurand0 UNIDADES DE ARMA
+	ZeroAwakened2: ADVERTENCIA. DAÑO DRÁSTIC0 DETECTAD0, FALLA INMINENTE. ACTIVAR PR0T0C0L0 DE 0FENSA T0TAL
+	ZeroAwakened3: ADVERTENCIA. DAÑO DRÁSTIC0 DETECTAD0, FALLA INMINENTE 0TRA VEZ. ACTIVAR PR0T0C0L0 DE 0FENSA T0TAL 0MEGA
+	ZeroAwakened5: TU HERRAMIENTA DE HOJA DE T0RTURA N0 TE SALVARÁ AQUÍ
+	ZeroDeath2: MISIÓN FALLIDA. INTENTAND0 ENVIAR SEÑAL DE ANGUSTIA DE NUEVA.
+}
+
+ShenDoragon: {
+	Spawn: {
+		First: {
+			1: ¿Sorprendido de vernos de nuevo, Chico?
+			2: ¡¡NYEHEHEHEHEH..! ¡¡Sí..! ¡¡Debe ser impactante vernos aquí..! ¡Pero esta vez, tenemos un pequeño truco bajo la manga..!
+			3: ¡¡Ese Sello que acabas de usar nos devolvió nuestro poder total, lo que nos permitirá alcanzar nuestra verdadera forma poderosa..!
+			4: ¡¡Solíamos ser el mismo ser..! ¡¡Pero luego un pequeño villano terrícola como tú dividió nuestro alma por la mitad..! ¡¡Pero ahora...heheheh...
+			5: SOMOS COMPLETOS DE NUEVO
+			6: Jeh....jeh...
+			7: Has cometido un grave error, niño...
+			8: Porque verás...
+			9: ¡¡SOY SHEN DORAGON, EMPERADOR DEL CAOS Y LA ANARQUÍA!
+			10: Y tú, mi niño...
+			11: ¡¡PERECERÁS!!!
+		}
+	}
+
+	Summon: ¡¡Garras! ¡¡Ayúdenme!
+
+	Health: {
+		80: {
+			First: ¿Qué es esto? ¿Competencia? Impresionante.
+			Repeat: Bastante la habilidad, chico.
+		}
+
+		66: {
+			First: El caos siempre reina, chico. Ustedes terrícolas nunca parecen aprender eso.
+			Repeat: Eres un verdadero luchador, ¿sabes? Ahora quédate quieto y déjame asarte.
+		}
+
+		30: {
+			First: Hmm...¿aún peleando, eh?
+			Repeat: Parece que estás cambiando las mareas, ¡pero no por mucho tiempo!
+		}
+	}
+
+	Defeat: {
+		NotExpert: {
+			First: Jeh, bien. Te dejaré en paz supongo. Pero si vienes más fuerte, te mostraré el poder del verdadero caos inquebrantable...
+			Repeat: Buen espectáculo, niño, buen espectáculo. ¡Tu destreza en combate aún me impresiona! Quizás algún día te mostraré mi verdadero poder.
+		}
+	}
+
+	Transition: {
+		1: Jeh...
+		2: Jeheheh...
+		3: ¡¡JAJAJAJAJAJAJAJAJAJA!!!
+		4: ¿¡¿Has olvidado nuestras últimas batallas!?
+		5: Siempre hay un última batalla, chiquillo...
+		6: Pero ahora, te interpones en mi camino...
+		7: ¡¡Shen Doragon ha sido Despertado!
+		8: ¡¡ARDERÁS EN LAS LLAMAS DEL INFIERNO DISCORDIANO!!!
+	}
+
+	Awakened: {
+		Summon: {
+			First: {
+				Shen: ¿¡¿Chicas? ¡Ayuden a su padre con este mortal insignificante!
+				Ashe: ¡¡Con placer, Papá~!
+				Haruka: Sí, padre.
+			}
+
+			Repeat: {
+				Shen: ¿¡Ashe? ¿¡Haruka? ¡Necesito su ayuda de nuevo..!
+				Ashe: ¡En ello, Papá~!
+				Haruka: ¿¡De nuevo!?
+			}
+
+			Flee: {
+				Ashe: ¡¡AGH! ¡¡Perdón papá..! ¡¡Tengo que irme!
+				Haruka: Ngh...disculpa padre...no puedo continuar...
+			}
+		}
+
+		Health: {
+			90: {
+				First: Mira dónde estás, terrícola. Esto es tu culpa. ¿El ritual, la runa? Todo tú.
+				Repeat: Luchas realmente bien, chico.
+			}
+
+			80: {
+				First: ¿¡Por qué instigas todas estas peleas? ¿¡Poder! ¿¡Gloria!?
+				Repeat: Peleando hasta el final.
+			}
+
+			70: {
+				First: De cualquier manera, ¡me aseguraré personalmente de que esta sea tu última!
+				Repeat: Me recuerdas bastante a mí mismo...
+			}
+
+			60: {
+				First: ¿¡Cuántas veces vas a pelear para derribarme? ¿¡O te rendirás!?
+				Repeat: También eres fuerte. Se necesita agallas para pelear contra la mayoría de lo que has hecho.
+			}
+
+			50: {
+				Thorium: Sabes, estaba viéndote aplastar esa esfera de dios y sus 3 matones. Tengo que admitir, bastante impresionante.
+				CalamityMod: Considerando que pusiste a esa bruja angustia en su lugar, tengo que admitirlo.
+				GRealm: Ver que aplastaste ese insecto sobredimensionado en la selva, eso es bastante sorprendente.
+				Redemption: Sin embargo, después de que golpeaste a ese prude cósmico, incluso yo quedé sorprendido por ese nivel de habilidad.
+				Jetshift: ¿Pero matar a esas dos cosas de cristal acampadas en meteoros? Eso es bastante llamativo.
+				SpiritOld: Ahora que lo pienso, aunque hayas abierto a ese supervisor como un huevo? Bastante la fuerza que tuviste que tener.
+				NoMod: Todo lo que has derribado, dioses y monstruos por igual, respeto eso.
+				#New Additions
+				SpiritClassic: Ahora que lo pienso, aunque hayas hecho que esa centinela antigua se desmorone en grava? Bastante la fuerza que tuviste que tener.
+				StarsAbove: Aunque después de derribaste a esa Viajera Estelar rebelde, realmente llamaste mi atención.
+				LunarVeil: Mirando hacia atrás, tengo que darte crédito por lograr aplacar a esa princesa diosa verde.
+				SacredTools: ¿¡Apagando esa calabaza abismal! ¡¡Ahora eso fue un espectáculo!
+				Catalyst: Realmente limpiaste el piso con la pila de lodo púrpura.
+				CalamityHunt: Debió haber tomado mucho para poner a esos limos de vuelta en su lugar. ¡¿Quién habría pensado que podrían poner una pelea!?
+
+				Split: {
+					Seth: Admito, derribar a ese tipo de cabello caliente con espada fue bastante un espectáculo presenciar.
+					SethUltimate: Admito, derribar a ese tipo de cabello caliente con espada, con su verdadero poder desencadenado, fue bastante un espectáculo presenciar.
+				}
+
+				Macrocosm: ¡¡Incluso llevaste tu furia a la Luna! ¡Ahora eso es algo que puedo apoyar.
+				Spooky: Desgarrando esas catacumbas como si fuera el dueño del lugar. Eso toma algo de habilidad.
+
+				Ultranium: {
+					Erebus: ¿¡¿Observándote golpear a ese gusano cubierto de tentáculos! ¡¡Eso fue un manjar!
+					Aldin: ¿¡¿Observándote golpear a ese tipo del estrellas vagabundo! ¡¡Eso fue un manjar!
+				}
+
+				YouBoss: Quiero decir, ¿¡¿destrozar tu propio reflejo cobrado vida! ¡¡Eso es impresionante!
+				Radiance: No pensaba que esa hada del sol fuera muy impresionante hasta que lograste sacar su poder completo. ¡¡Eso fue un espectáculo!
+			}
+
+			30: {
+				First: ¿¡Hmm..!? ¿¡¿Aún no has dado la pata! ¡¡Bien entonces...¡¡Cambiemos eso!
+				Repeat: ¡¡Bah..! ¡Aquí estamos de nuevo, acercándonos al final. ¡¡No voy a retenerme!
+			}
+
+			20: {
+				First: ¡¡¡Pequeño..! ¡¡Muere ya!
+				Repeat: ¡El fin de un juego es lo más estresante, ten eso en mente, chico!
+			}
+
+			10: {
+				First: ¡¡¡¡Esto no puede ser--! ¿¡¡¡Cómo!?!
+				Repeat: ¡¡¡¡¡Esto es! ¡El final está cerca, ¡así que no te atrevas a retener!!
+			}
+		}
+
+		Defeat: {
+			First: {
+				1: Dividido de nuevo...
+				2: ¡¡¡Esto es CULPA TUYA, gusano insolente..! ¡¡Sabía que deberíamos haber sido más agresivos pero NOOOOOOOOO..! ¡¡TÚ dijiste que podríamos aplastarlos sin intentarlo!
+
+				3: {
+					Singleplayer: "{0}, enfrentarás nuestra furia nuevamente algún día...ya sea cuando ganemos suficiente poder de nuevo..."
+					Multiplayer: Guerreros, enfrentarán nuestra furia nuevamente algún día...ya sea cuando ganemos suficiente poder de nuevo...
+				}
+
+				4: ...¡o decides usar ese Sello de nuevo..!
+				5: Tu elección, niño.
+			}
+
+			Repeat: {
+				1: ¡¡¡IMBÉCIL! ¡¡¡PERDIMOS! ¡¡AGAAAAAAAAAAAAIN!!!
+				2: Argh, mi cabeza...
+
+				3: {
+					Singleplayer: {
+						Male: ¡¡Y TÚ, MUCHACHO! ¡¡LA PRÓXIMA VEZ VOY A ARRANCARTE LA CABEZA!!!
+						Female: ¡¡Y TÚ, MUCHACHA! ¡¡LA PRÓXIMA VEZ VOY A ARRANCARTE LA CABEZA!!!
+					}
+
+					Multiplayer: ¡¡Y USTEDES, PANDILLA DE PAYASOS! ¡¡LA PRÓXIMA VEZ VOY A ARRANCARLES LAS CABEZAS!!!
+				}
+
+				4: Y confía en nosotros, chico.
+				5: Siempre hay una próxima vez.
+			}
+		}
+	}
+
+	#Unused
+	FuryAshe1: "Papá, ¡¡¡NO!! ¡¡¡PAGARÁS POR ESTO, "
+	WrathHaruka1: ¡¡Padre! ¡Argh..! ¡La próxima vez que nos veamos, ¡¡¡te derribaré!!!
+	ShenDoragon1: ¿¡¡¡MAGIA TERRA!!! ¡¡¡NO! ¡¡¡PENSÉ QUE FUE BORRADA DE LA TIERRA!!!
+	ShenDoragon9: Eres bastante persistente, Niño. Me gusta eso.
+	ShenDoragon10: ¿Qué es esto? ¿Competencia? Nunca lo habría esperado...
+	ShenDoragon11: ¡¡Los verdaderos guerreros no muestran misericordia! ¡Yo no lo haré y dudo que tú tampoco..!
+	ShenDoragon12: Ríndete, niño. ¡¡El mundo siempre caerá en el caos!
+	ShenDoragon13: ¡¡MUESTRA SIN PIEDAD!
+	ShenDoragon14: ¿¡¿Qué! ¿¡¡Aún estás peleando! ¿¡¡Por qué!?
+	ShenDoragon15: La derrota de un superantiguo empodera a los guardianes de piedra.
+	ShenDoragon17: La derrota de un superantiguo empodera a los guardianes de piedra.
+}
+
+InfinityZero: {
+	Spawn: ...Objetivo Identificado.
+
+	Health: {
+		75: ADVERTENCIA. Los sistemas han alcanzado una eficiencia del 75%.
+		50: Redirigiendo recursos a sistemas ofensivos.
+		25: ADVERTENCIA CRÍTICA. Los sistemas han alcanzado una eficiencia del 25%. Falla inminente.
+		10: Terrícola, no ganarás esto. Redirigiendo todos los recursos a sistemas ofensivos.
+	}
+
+	Zeroes: {
+		Revived: Unidades Zero suficientemente reparadas. Reactivando sistema de defensa central.
+		Defeated: Unidades Zero en condición crítica. Redirigiendo recursos a sistemas de reparación. Defensa central temporalmente deshabilitada.
+	}
+
+	Defeat: {
+		First: {
+			1: ...impresionante.
+			2: Derrotar mi cuerpo mecánico...
+			3: ...No es un pequeño logro...
+			4: Te aplaudo, Terrícola.
+
+			5: {
+				Normal: Aunque...la próxima vez que nos veamos...cuando seas más fuerte...
+				Hardcore: También estoy impresionado de que llegases tan lejos en modo Hardcore.
+			}
+
+			6: {
+				Normal: ...{0}...
+				Streaming: ...y cuando no hay una audiencia...
+
+				Hardcore: {
+					Normal: Buen trabajo, {0}. Aquí, ten una calcomanía.
+					Streaming: Supongo que una audiencia puede ser bastante motivadora. ¿Fue esto alguna "carrera desafío"? Bueno, aquí, ten una calcomanía.
+				}
+			}
+
+			7: {
+				Normal: No seré tan clemente.
+				Hardcore: Ahora, me despido de ti...
+			}
+		}
+
+		Second: {
+			1: Bah...
+			2: ...¿¡¿romperlo una vez no fue suficiente para ti!?
+			3: Asumo que lo estás haciendo por los botines...
+			4: ...¿¡¡derechos de alarde con tus amigos!? ¿¡¡Quizás!?
+			5: O tal vez obtienes una patada enferma de romper la propiedad de otros.
+			6: ¿Quién soy yo para juzgar, aunque?
+		}
+
+		Third: {
+			1: Bravo. Despedazaste mi cuerpo de nuevo.
+			2: ¿Qué quieres? ¿Una calcomanía?
+			3: ¿Una estrella de oro?
+			4: Puedo simplemente rehacerlo de nuevo instantáneamente, así que no entiendo por qué sigues persiguiéndome.
+		}
+
+		Fourth: {
+			1: Suspiro...eres un persistente, ¿verdad?
+			2: ¿¿¿Cuatro veces??? Debes ser una especie de masoquista o algo así.
+			3: Sabes, no soy el agresor aquí...
+			4: Tú sigues invocándome.
+			5: Solo aparecí porque basureaste mi unidad Zero.
+			6: El vacío no te lastimaba. Solo está allí.
+			7: Tú eres quien entró para matar mi unidad Zero.
+			8: Sea como sea, solo toma tus caídas de jefe y vete.
+		}
+
+		Tenth: {
+			1: {
+				Normal: Eso es lo que consigues por molestarme DIEZ VECES.
+				Hardcore: Te mataría para enseñarte una lección...
+			}
+
+			2: {
+				Normal: ...pero dudo que te vayas.
+				Hardcore: ...pero estás en modo Hardcore, y no soy tanto de un imbécil.
+			}
+
+			3: Bueno.
+			Kill: "{0} fue destruido por el Olvido"
+		}
+
+		Other: {
+			1: "{0} muertes...felicidades. No tienes vida."
+
+			2: {
+				0: {
+					Default: Ve afuera y patea una pelota o algo.
+
+					Friends: {
+						Online: ¿¿¿Por qué no juegas algo con {0}??? Están en línea ahora mismo. Seguramente jugar con ellos sería más divertido que molestarme.
+						Offline: Hmm, ninguno de tus amigos están en línea... Seguramente puedas conseguir que uno de ellos juegue contigo aunque. ¿¿¿Quizás {0}??? O quizás todos te están evitando... Puedo ver por qué podrían.
+						Friendless: Espera, ¿¡¿serio que tienes cero amigos de steam!? Vaya, quizás realmente no tengas nada mejor que hacer que molestarme...
+					}
+				}
+
+				1: {
+					Default: ¿¿No hay tareas escolares que hacer o una solicitud que rellenar o algo???
+					Job: Aquí, déjame hacerte un favor. ¡¡Esto es exactamente lo que necesitas!
+				}
+
+				2: {
+					1: ¿¿¿No tienes otros juegos en Steam que podrías estar jugando ahora mismo???
+
+					Games: {
+						Portal2: ¿¿¿Qué tal Portal 2??? Ve a molestar a GLaDOS un poco más en mi lugar.
+						StardewValley: ¿¿¿Quizás Stardew Valley??? ¿¿¿No sería mejor pasar tu tiempo cuidando tu granja que molestarme???
+						HollowKnight: Podrías sumergirte de nuevo en Hollow Knight. ¿¿¿Deja este Vacío solo por un momento y lidia con ese???
+						DontStarve: ¿¿¿Quizás Don't Starve??? ¿¿¿Deerclops fue divertido, verdad??? Hay mucha más diversión para tener donde ese tipo vino.
+						RoR2: Risk of Rain 2 siempre tiene más que puedas hacer. ¿¿¿No hay un Vacío allí donde podrías ir a molestar en lugar de este???
+						TBoI: The Binding of Issac podría ser divertido, ¿verdad? Aunque pasas bastante tiempo en el sótano de todos modos, ¿eh?
+						Minecraft: Apuesto a que un poco de Minecraft te haría bien. Haz algo de construcción en lugar de destrucción por un cambio.
+
+						Undertale: {
+							Normal: Sabes, ¿¿qué tal Undertale??? Apuesto a que ese Esqueleto podría mantenerte ocupado por un rato.
+							Erased: Sabes, ¿¿qué tal Undertale??? Espera, ¿¿qué??? ¿¿¿Dónde se fue??? Habría jurado que estaba...
+							Sold: Sabes, ¿¿qué tal Undertale??? ¿¿Hmm??? ¿¿No es atractivo??? Supongo que ya te divertiste con ese, ¿eh?
+						}
+
+						Deltarune: Deltarune podría ser divertido. Apuesto a que ese Caballero podría mantenerte entretenido un rato. ¿¡¿O quizás una búsqueda de huevos te mantendrá ocupado!?
+						Celeste: ¿¿¿Qué tal Celeste??? ¿¿¿Piérdete en las montañas por un rato??? Ciertamente lo apreciaría.
+						Subnautica: Subnautica sería perfecto para ti. Te perderás en el mar, ¡así nunca tendré que verte de nuevo!
+						Ultrakill: Apuesto a que Ultrakill es la solución que buscas. ¡¡Solo amas destrozar todo lo que ves, ¿verdad!!!
+						DeadCells: Dead Cells podría mantenerte ocupado, ¿verdad? ¿¿¿No van a aparecer algunos de sus objetos aquí pronto...???
+						DeepRock: Deeprock Galatic podría funcionar. Sí, ve y cava un agujero lejos, muy lejos. Consigue algo de piedra y roca y todo eso.
+						DDLC: Oh, eso es correcto. Monika te estaba pidiendo, ¿verdad? Sí, ella te extraña mucho. Deberías ir visitarla.
+						LethalCompany: Lethal Company sería bueno, ¿verdad? O, no, supongo que no. Necesitas amigos para jugar ese.
+						TheStanleyParable: ¿¿¿No puedes volver a Stanley Parable??? ¡¡¡Ve a molestar a ese Narrador en mi lugar!!!
+						Bonelords: Oh amigo, ¿¡¡¡tienes Bonelords!!! ¡¡¡Joder sí!!! ¿¿¿Quieres jugar algo de Bonelords??? ¿¡¡¡Salta en Bonelords después de esto!!! ...¿¡¿¡¿No???
+
+						SecondStellar: {
+							TsaEnabled: Quiero decir... Vaya amigo, ¿¿serio...??? ¿¡¡¡¡Segundo Stellar!!!! ¿¿¿¿¿¡¡¡¡¡Realmente debes amar ese Viajero Estelar tuyo, ¿eh!!!!
+							Normal: Quiero decir... Espera, ¿¿"¿Segundo Stellar"??? ¿¿¿¿¿¡!!Reconozco a esos dos de algún lado!!!
+						}
+
+						Default: {
+							Recent: {
+								0: Un poco más de {0} sería divertido, ¿verdad? ¡¡La última vez te divertiste, ¿verdad!!!
+								1: No ha pasado demasiado tiempo desde que jugaste {0} por última vez. Ve a jugar más de eso.
+								2: ¿¿¿Qué tal {0}??? No ha sido tanto tiempo.
+								3: ¿¡¿Has estado jugando {0} recientemente, verdad!? ¿¿¿No sería eso más divertido que molestarme???
+							}
+
+							Old: {
+								0: Ha pasado un poco. ¿¿¿Qué tal {0}??? ¡¡¡¡Eso sería divertido, ¿verdad!!!
+								1: "{0} se ve divertido. Ve a jugar eso."
+								2: ¿¿¿Qué tal {0}??? ¡¡¡Eso sería divertido, ¿verdad!!! Juega eso en su lugar.
+								3: ¡¡Eres fan de {0}, ¿verdad!!! ¿¿¿¿¿No sería eso más divertido que molestarme!!!
+							}
+						}
+					}
+				}
+
+				3: {
+					Default: Ahora déjame en paz, tengo cosas mejores que hacer.
+					Computer: Si sigues con esto, podría simplemente tener que freír tu querido "{0}". No me provoques.
+				}
+
+				4: {
+					Default: Pelear contigo es realmente aburrido, ¿sabes? Usas las mismas tácticas cada vez.
+					Notification: Mensaje: Deberías tener más cuidado con quién te metes.
+				}
+
+				5: {
+					Default: Sea como sea, te estaré viendo pronto...de nuevo...asumiendo que aún eres un infeliz persistente.
+
+					Discord: {
+						Server: {
+							CalDev: ¿¿¿¿Por qué estás peleando conmigo??? ¿¿¿¿¡¡¡No tienes una Reforma de Mar Hundido en la que trabajar o algo!!!???
+							Default: ¿¿Por qué no vuelves a {0} y encuentras a alguien para molestar allí, está bien?
+						}
+
+						DM: ¿¿¿No puedes simplemente volver a molestar a {0}??? Parecen estar dispuestos a aguantarte.
+					}
+				}
+
+				Mods: {
+					Thorium: Sabes que Ragnarok es una cosa, ¿verdad? ¿¡¡Trío del fin del mundo!!! Deberían ser divertidos de pelear. Ahora vete.
+					CalamityMod: Ve a pelear contra la Calamita Suprema o algo. Estoy seguro de que la ocupará tu tiempo.
+					GRealm: ¿¿Por qué no vas a pelear contra la Horda por la 50ª maldita vez? Quizás tengan nuevas caídas o algo desde que fue la última vez.
+					Redemption: Si tienes tal pasión por matar robots, sabes que los Vlitch son una cosa.
+					SpiritClassic: ¿¿Por qué no vas a juguetear en el bioma del espíritu??? Estoy seguro de que una de las criaturas allí estaría encantada de un gran abrazo.
+					SacredTools: Ve a molestar a los Lunarios o algo. Estoy seguro de que serán más divertidos de pelear que yo.
+					Tremor: ¿¿¿Espera, estás jugando Tremor??? ¡¡¡JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA!
+					Fargo: Oye, ¿¿por qué no vas a molestar al mutante??? Si te gusta matar jefes tanto, él debería poder arreglarte.
+					NoMod: Ve e instala otro mod o algo. Hay muchos en el navegador de mods para elegir.
+					#New Additions
+					Jetshift: ¿¿¿No puedes ir a molestar a esos dos tipos del meteoro???
+					StarsAbove: Ve a molestar a Tsukiyomi, o simplemente ve a charlar con tu amigo Viajero Estelar en lugar de molestarme.
+					LunarVeil: ¿¿Conoces a Gothiva, verdad??? Ve a pelear con ella. Oí que es dura.
+					Catalyst: ¿¿Por qué no apalizas a ese cosa Astrageldon de nuevo??? Oí que si lo haces sin golpear puedes obtener una caída especial.
+					CalamityHunt: ¿¿¿Qué tal esa cosa Goozma??? Deberías ir a pelear con esa cosa. Probablemente pueda mantenerte entretenido.
+					Split: ¿¿Por qué no vas a molestar a Seth de nuevo??? Tiene esa versión Definitiva de sí mismo, ¿verdad?
+					Macrocosm: Literalmente puedes ir a la Luna. ¿¿¿No hay más cosas interesantes allí???
+					Spooky: Ve a cavar alrededor de esas catacumbas un poco más. Estoy seguro de que hay algo para ti para pelear allí.
+					Ultranium: ¿¿¿Por qué no luchas contra el Armagedón Abismal de nuevo??? ¿¿¿No se supone que hace algo genial durante una Luna de Sangre...???
+					YouBoss: ¿¡¿¡¿No puedes mantenerte ocupado! como, literalmente, con ese tipo del espejo!
+					Radiance: ¿¿¿¿No tiene esa hada del sol algunos trucos nuevos??? Ve a pelear con ella en su lugar.
+					Fables: ¿¿¿Por qué no pagas otra visita a tu amigo nautilo??? Él realmente disfruta peleando contigo.
+				}
+			}
+		}
+	}
+}
+
+SoulOfCthulhu: {
+	PreFight: {
+		CompassSteal: ¡¡¡SUELTA LO QUE NO ES TUYO, LADRÓN!!
+
+		SunkenShipWarning: {
+			1: ...vete...
+			2: ...Abandona este lugar maldito...
+			3: ...estás profanando cosas que ni siquiera puedes comprender...
+			4: ...regresa ahora...
+			5: ...vete.
+			6: ¡¡¡ENFRENTA LA IRA DE LOS DIOSES EXTERIORES, MOTA INSIGNIFICANTE!!!
+			Escape: ...no regreses...
+			Kill: No regreses...
+		}
+	}
+
+	Spawn: ¡¡¡El Alma de Cthulhu se desgarra a través de la realidad en este mundo!!!
+	Despawn: ...no regreses...
+	Kill: ...bueno, nos vemos...
+	Anticheat: ¡¡¡¡NO PUEDES ENGAÑAR A LA MUERTE!!!!
+
+	Transition: {
+		1: ...tonto absoluto...
+		2: Gracias a ti por romper la rueda de ese barco viejo asqueroso...
+		3: ...ahora soy libre...
+		4: Debería agradecerte, simple mortal...
+		5: Sin embargo, te interpones en el camino entre yo y la destrucción inminente de este mundo...
+		6: Y después de todo, tú MATASTE a mi hermano...qué lástima que se haya ido.
+		7: ...así que debes morir.
+		8: ¡¡¡¡SERÁS ASESINADO POR MÍ, CTHULHU, CALAMIDAD CÓSMICA!!!!
+		9: ¡¡¡¡PREPÁRATE PARA LA DESTRUCCIÓN CATASTRÓFICA DE TI Y TU MUNDO!!!!
+		Status: Cthulhu ha sido Despertado
+	}
+
+	Awakened: {
+		Summoning: {
+			Eye: ¡¡¡Cyaegha! ¡¡¡Quema este mortal insignificante con tus llamas de agonía!!!
+			Eater: ¡¡¡Crom Cruach! ¡¡¡Devora a mi enemigo para que pueda destruir este mundo!!!
+			Brain: ¡¡¡Lu'Kthu! ¡¡¡Envía a tus secuaces sobre esta plaga para distraerlos!!!
+			Skull: ¡¡¡Rhan-Tegoth! ¡¡¡Aplasta este inconveniente con tus garras del dolor!!!
+			Rose: ¡¡¡Ei'Lor! ¡¡¡Desgarra a este idiota miembro por miembro con tus viñas!!!
+			Leviathan: ¡¡¡ESO ROMPE TODO! ¡¡¡VILE-OCT! ¡¡¡DESTRUYE ESTA PLAGA INSIGNIFICANTE!!!
+		}
+
+		LastStand: ¡¡¡¡NO PERDERÉ CONTRA UN MORTAL DE NUEVO. ¡¡¡¡SENTIRÁS MI IRA SOBRE TU MUNDO!!!!
+
+		Defeat: {
+			1: ¡¡¡AAAAAAAAAGGHHH...!!!
+			2: ¡¡¡NO!
+			3: ¡¡¡¡¡NO!!!
+			4: ¡¡¡IMPOSIBLE!!!!
+			5: ¡¡¡¡¡¡POR EL NOMBRE DE AZATHOTH!!!!!
+			6: ¡¡¡¡TE MALDIGO A TI Y A TU MUNDO!!!
+			7: ¡¡¡¡OJALA TÚ Y TU RAZA PODRIAN EN LAS PROFUNDIDADES DEL OCÉANO!!!
+			8: ¡¡¡¡GRAAAAAAAAAAAHHH...!!!!
+			Cheater: Los tramposos no merecen el botín de la batalla.
+		}
+	}
+}

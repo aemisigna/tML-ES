@@ -1,0 +1,73 @@
+Keybinds: {
+	Rifthotkey: Teletransporte a la base
+	RiftReturnhotkey: Teletransporte de regreso
+	AccessoryAbilityKey: Habilidad de accesorio de AA
+	ArmorAbilityKey: Habilidad de armadura de AA
+
+	Mods: {
+		AAModClassic: {
+			Keybinds: {
+				InfinityHotKey.DisplayName: Chasquido
+				Rifthotkey.DisplayName: Teletransporte a la base
+				RiftReturnhotkey.DisplayName: Teletransporte de regreso
+				AccessoryAbilityKey.DisplayName: Habilidad de accesorio
+				ArmorAbilityKey.DisplayName: Habilidad de armadura
+				TimeStoneKey.DisplayName: Piedra del Tiempo
+			}
+		}
+	}
+}
+
+Configs: {
+	AAConfigClient: {
+		DisplayName: Configuración del cliente de AA
+
+		NoAATownNPC: {
+			Label: Desactivar PNJ de ciudad de AA
+			Tooltip: Evita que aparezcan los PNJ de ciudad de este mod, para quienes prefieran que otros PNJ aparezcan más rápido. Nota: esto no afecta a Anubis, ya que es clave para el progreso.
+		}
+
+		NoBossDialogue: {
+			Label: Desactivar diálogos de jefes
+			Tooltip: Desactiva los diálogos de los jefes para evitar saturar el chat. También hace que las animaciones que contienen diálogos de jefes avancen un poco más rápido.
+		}
+
+		DisableNewAAReminderMessage: {
+			Label: Desactivar mensaje de recordatorio de Ancients Awakened
+			Tooltip: Desactiva el mensaje de recordatorio al entrar al mundo para echar un vistazo a Ancients Awakened [BETA].
+		}
+
+		EnableContentReplacement: {
+			Label: Activar el reemplazo de contenido
+			Tooltip: ""
+		}
+
+		AncientIntroText: {
+			Label: Tarjetas de presentación de jefes
+			Tooltip: Activa o desactiva las tarjetas de presentación que algunos jefes posteriores muestran al aparecer.
+		}
+
+		DisableAnticheat: {
+			Label: Desactivar antitrampas
+			Tooltip: Desactiva algunas funciones antitrampas del mod.
+		}
+
+		DisablePinchThemes: {
+			Label: Desactivar temas de apuro
+			Tooltip: Desactiva el tema musical que suena cuando los jefes de la etapa final tienen poca vida.
+		}
+
+		HideIdentifiableInfo: {
+			Label: Ocultar información identificable
+			Tooltip: Desactiva los diálogos que rompen la cuarta pared y utilizan información de identificación personal.
+		}
+	}
+}
+
+WorldBuild: {
+	Info1: Colocando altares del caos
+	Info2: Extendiendo el caos
+	Info3: Abrasando el Infierno
+	Info4: Inundando el Cenagal
+	Info5: Construyendo el Terrario
+}

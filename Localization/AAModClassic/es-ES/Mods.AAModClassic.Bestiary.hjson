@@ -1,0 +1,198 @@
+LargeLetter: Un personaje extraño de una tierra desconocida. Viaja constantemente en busca de objetos variopintos de todos los rincones. Se dedica a vender estos extraños artefactos y disfraces.
+OlympianDragon: Cuando las fuerzas caóticas cautivaron a sus hermanos, algunos dragones buscaron refugio junto a la Reina de los Serafines. A cambio de su protección, ahora sirven a sus órdenes.
+Athena: Reina de los serafines que nunca se rinde. Está completamente furiosa con quienes llama 'caminantes de la tierra' por atormentar a sus seguidores.
+SeraphGuard: Más hábiles con la magia que sus hermanos menores, estos guardias reales protegen a su reina hasta el final.
+Seraph: Aves patéticas de la Acrópolis, apenas capaces de mantener bajo control su magia y su temperamento. Claman por Athena ante el menor inconveniente.
+OlympianAthena: Llevada al límite tras la caída del Señor de la Luna, esta diosa enseña los colmillos para demostrar que una Varian nunca se rinde.
+AthenaClone: Una muestra suprema de la destreza mágica de la diosa. Creados a partir de nubes, estos clones imitan cada uno de sus movimientos.
+BunnyBrawler: Si un conejo come lo suficiente, crecerá. Así funcionan muchas cosas en el mundo.
+RabbitcopterSoldier: Algunos conejos pueden volar. Solo tienen que hacer girar las orejas. Quizá algún día tú también puedas hacerlo...
+RabidRabbit: Muchos de los conejos del mundo admiran al Justiciero Saltarín. Unos pocos dedicados se suman a su cruzada por la justicia.
+RajahRabbit: Un guerrero legendario al que muchos simplemente llaman el 'Justiciero Saltarín'. Mantiene estable la ley de la equidad protegiendo a quienes son demasiado débiles para protegerse. Pocos lo han visto y han sobrevivido para contarlo...
+RoyalRabbit: Un conejo común bajo protección real. Quienes masacren a los inocentes serán castigados...
+
+ChampionRajahRabbit: {
+	1: Campeón de los Inocentes, el Justiciero Saltarín, el Mayor Defensor de la Tierra. Estos son algunos de los muchos títulos atribuidos a Rajah Rabbit durante su época de servicio a los conejos. Aunque sea extremadamente subjetiva, la clasificación de los habitantes de este mundo en una jerarquía de poder es algo sobre lo que muchos han trabajado arduamente. Entre la élite, Rajah se alza orgulloso; solo unos pocos pueden compararse con la totalidad de su fuerza.
+	2: Con la llegada de los estudios históricos y arqueológicos modernos, la catalogación de la fauna extinta está a la vanguardia del trabajo de muchos eruditos. Debido a la naturaleza siempre cambiante de los ecosistemas de Terraria, ya sea por cambios naturales de biodiversidad a lo largo de extensos periodos o por cataclismos repentinos, como la aparición de las diversas infecciones que asolan el paisaje, especies de todas las formas y tamaños han aparecido y desaparecido. Entre ellas, Titanus Lepus destaca especialmente por su enorme tamaño y fuerza.
+	3: Aunque normalmente se cree que está completamente extinta, solo se ha avistado a un miembro de su especie, y todos estos informes han sido extremadamente esporádicos tanto en frecuencia como en ubicación. La criatura parece tener en muy alta estima a su pariente más cercano, el conejo común, pues todos los relatos están directamente relacionados con interacciones con estos animales del bosque. Al parecer, no desea otra cosa que proteger a los lepóridos, y Rajah Rabbit, el apodo que parece haberse impuesto, ha sido visto utilizando un arsenal de armas que exige un dominio extremo de varios estilos de combate, supuestamente forjadas por él mismo. Junto con su extraordinaria fuerza, agilidad y sigilo, Titanis Lepus se ha ganado un estatus casi mitológico; la mayoría considera que los informes sobre su existencia no son más que cuentos fantasiosos o fábulas.
+	4: No fue hasta la llegada de los Fulgurianos que las historias sobre Titanis Lepus se tomaron en serio. Esta raza de científicos y eruditos fijó la mirada en las estrellas, y sus estudios acabaron convirtiendo las tierras de Terraria en su principal objeto de interés. Sin embargo, su sed de conocimiento no podía saciarse: simplemente apagaba a quienes se volvían demasiado curiosos. Tal fue el caso de la creación del Panteón, un proceso no tan impecable como podría suponerse. El subproducto creado por cada intento fallido dio lugar a algo que superaba sus planes, muy por encima de las capacidades de su equipo. Con esta Amalgama vagando por las tierras y consumiendo todo a su paso, los Fulgurianos no pudieron hacer nada para detenerla. Si no hubiera sido por la compasión de la princesa hacia las víctimas más indefensas de la bestia, lo más probable es que no hubiera sobrevivido para contar las hazañas de Rajah. Esta sería la primera vez que él sería su salvador, pero no la última. En la situación más desesperada, el poder del Justiciero Saltarín fue lo único que pudo salvarla de las garras de Umbra. En una batalla claramente inclinada a su favor, él devolvería a la antigua criatura de la Corrupción a las sombras donde pertenecía, cumpliendo una vez más el trabajo de su vida: proteger a los inocentes.
+	5: Proteger a los inocentes. Todo esto ha sido por eso. Al derrotarlo en un combate de práctica sin quitarle la vida, has demostrado que hay alguien digno de su título. Alguien más fuerte que él, capaz de cumplir sus objetivos. La vida es un regalo que muchos se apresuran a no valorar plenamente. Un regalo que muchos están dispuestos a desperdiciar y destruir deliberadamente. Héroes que han dedicado siglos o milenios a defender lo correcto. Gente humilde de los pueblos, que aporta a su comunidad lo que logra reunir. Criaturas de todas las formas y tamaños, hasta llegar al humilde conejo. Su seguridad está ahora en tus manos. Él sabe que no lo decepcionarás.
+}
+
+SupremeRabbitcopterSoldier: "{$Bestiary.RabbitcopterSoldier}"
+SupremeRabidRabbit: "{$Bestiary.RabidRabbit}"
+SupremeBunnyBrawler: "{$Bestiary.BunnyBrawler}"
+GripOfChaosInferno: La mano caótica de un ser superior, degradada a carne de cañón. Este agarre infernal abrasa todo a su paso.
+GripOfChaosMire: La mano caótica de un ser superior, degradada a carne de cañón. Este agarre abisal ahoga todo a su paso.
+ChaosDragon: Antes llamaban hogar a los cielos, pero estos dragones descendieron a la superficie después de que aparecieran fuerzas caóticas en el mundo. Ahora solo sirven para extender aún más el caos.
+AwakenedShenDoragon: Aunque Shen Doragon es feroz, no es la verdadera forma del Mago del Caos. Este monstruo no es más que un vistazo al poder absoluto y abrumador de un alma al borde de alcanzar su plenitud.
+AbyssGrip: Invocados de nuevo por el Emperador del Caos, los venenos asfixiantes del Agarre Abisal regresan para imponer su gobierno anárquico.
+BlazeGrip: Invocada de nuevo por el Emperador del Caos, la furia llameante del Agarre Infernal regresa para imponer su gobierno anárquico.
+ShenDoragon: A pesar de lo opuestos que son el Cenagal y el Infierno, están firmemente conectados por la raíz. Una vez desgarrado por un héroe legendario, el Augur renace y clama venganza...
+FuryAshe: Tras ser convocada por el despertar del Emperador del Caos, esta hechicera vivaz hará cualquier cosa para proteger a su padre.
+Shenling: Los antiguos Pulmones, antaño regios, han sido sobrecargados con repugnantes magias discordantes.
+WrathHaruka: Tras ser convocada por el despertar del Emperador del Caos, esta asesina atormentada hará cualquier cosa para proteger a su padre.
+Ashe: La hija insoportable de Akuma y la Progenitora, entrenada en las artes de la magia arcana y la conjuración, está lista para encontrar a su próximo oponente.
+AshenDragon: Al fusionar el alma de un guiverno con su piromancia, Ashe puede invocar estos espantosos fantasmas.
+Haruka: La hija atormentada de Yamata y la Hidra, entrenada en las artes del combate marcial, está lista para encontrar a su próximo oponente.
+Samurai: El samurái proviene de una aldea destruida por un demonio ancestral y ahora espera verlo caer.
+DesertDjinn: Un espíritu arrogante que vaga por el desierto, esperando encontrar algún día a un oponente digno.
+DustDjinn: La diferencia entre un genio y un djinn es que uno concede deseos y el otro concede la muerte.
+Legendscribe: El dios del más allá, juez de las almas y protagonista principal de la autobiografía galardonada '¡La vida y las épicas aventuras de Anubis, el perro maravilloso!'.
+Anubis: "'Hay muchas cosas sobre mí que podría contarte, pero no voy a hacerlo.'"
+EyeSentry: Un constructo letal que abrasará con Fuego Rúnico a cualquiera que se encuentre bajo su mirada.
+HorusHawk: Regaladas a Anubis por un amigo cercano, estas ágiles aves ahora acuden a su llamado.
+Locust: Invocadas desde la Tierra de los Muertos, estas plagas insignificantes escupen sobre los enemigos del Escriba de Leyendas.
+Scarab: Invocados desde la Tierra de los Muertos, estos humildes insectos se lanzan contra los enemigos del Escriba de Leyendas.
+Uraeus: Invocadas desde la Tierra de los Muertos, estas serpientes majestuosas enseñan los colmillos para ayudar en la prueba del Escriba de Leyendas.
+ForsakenAnubis: "'Ya te dije que algunas cosas es mejor mantenerlas bajo llave para siempre; ahora deja de preguntar.'"
+CursedLocust: Hinchadas por las almas malditas de quienes fueron juzgados, estas langostas ayudan a regañadientes en la prueba del Juez Abandonado.
+CursedScarab: Fortalecidos por las almas malditas de quienes fueron juzgados, estos escarabajos ayudan con fiereza en la prueba del Juez Abandonado.
+HorusSentry: Fortalecido por las almas malditas de quienes fueron juzgados, este constructo anuncia la perdición para cualquiera que caiga bajo su mirada.
+Naddaha: Un espíritu del agua invocado desde la Tierra de los Muertos; prestará gustosa su voz para ayudar en la prueba del Juez Abandonado.
+FeudalFungus: Cavar profundamente bajo los hongos de la superficie revela una especie de hongo completamente distinta, aunque no muy diferente en temperamento. Si se cavara aún más profundo, ¿qué otros hongos nuevos se encontrarían...?
+GlowingMushling: Uno de los sirvientes peligrosamente luminiscentes del Hongo Feudal.
+LuminousAccordyceps: Aunque suele ser parásito, esta peculiar variedad de cordyceps ha formado una relación beneficiosa para ambas partes con este Sapo Trufa. El sapo lo protege de los depredadores, mientras que el Accordyceps evita que reciba daño.
+GregariousGlowshrooms: Aunque estos hongos están cerca, no están conectados por el tallo. Esto impide que se los considere un grupo de hongos y, en su lugar, significa que son gregarios.
+TruffleToad: Una rana grande, quizá demasiado grande, que hace su hogar en las cavernas luminosas de las profundidades.
+TinyToad: Estas crías repugnantes están listas para defender a su madre desde el momento en que nacen. Nada en este mundo es más asqueroso que esta bestia.
+GoblinSlayer: Un caballero equipado con una armadura de acero. A pesar de su pobre equipo, puede detectar a cualquier duende que se acerque y, en poco tiempo, rebanarlos, trocearlos y convertirlos en papas fritas de duende.
+FatPixie: A pesar de su origen Sagrado, la existencia de esta criatura no tiene nada de sagrada.
+Lucifer: El propietario demoníaco del Foso y el injusto gobernante del Inframundo. Parece felizmente ajeno a que la construcción de su arena se detuvo hace años.
+Greed: Este gran gusano de piedra, adornado con una amplia variedad de minerales, defiende ferozmente su cueva y el tesoro que contiene con todas sus fuerzas.
+OreConstruct: Animados por el poder sobrenatural de Greed, estos constructos heredan el poder de los minerales con los que fueron construidos y ayudan aún más en la defensa de su rey.
+Scavenger: Los gusanos que llevan ofrendas a su Rey reciben parte de su poder y evolucionan de simples Excavadores a carroñeros de rango apenas superior.
+WormKingGreed: Ahora, tras despertar de nuevo después de la caída del Señor de la Luna, este gusano avaricioso puede revelar por fin su fuerza olvidada hace mucho tiempo, doblando el tejido del espacio con un poder ajeno a nuestra dimensión.
+SingularityOfDesire: En toda su fuerza, Greed es capaz de conjurar estos portales interdimensionales. ¡Lo que sea que haya al otro lado quiere verte muerto tanto como él!
+Broodmini: En su furia, la Progenitora llama a sus crías recién nacidas para luchar contra los intrusos. Trágicamente, esto la convierte en una hipócrita.
+Broodmother: La madre de muchos dragones que vigila a la prole dentro del Infierno. La destrucción de los huevos impulsa a esta madre primigenia a destruir a cualquiera que se atreva a tocarlos.
+InfernalSlime: Al incorporar la roca fundida del Infierno a sus cuerpos, estos slimes se vuelven más resistentes.
+DragonClaw: Descendientes menores de las Garras del Caos. Recorren la noche en busca de su próxima pelea.
+FlameBrute: Una masa feroz de magma viviente y temperamento ardiente; su negativa a enfriarse la convierte en una auténtica molestia.
+Singemander: Los singemander presumen de una fuerza de mordida devastadora, capaz de desgarrar las pieles escamosas de sus presas.
+Wyrmling: Aunque solo son juveniles, estas crías de sierpe buscan sin descanso una comida fresca.
+BlazePhoenix: Manifestaciones puras de la furia latente del Infierno que buscan cualquier cosa que puedan reducir a cenizas.
+InfernalGhoul: Los ghuls abrasados por el Infierno babean magma ardiente por la boca e incineran a cualquiera que se acerque demasiado.
+ChaoticDawn: Maldecida por la furia latente del Infierno, esta arma corta de un lado a otro y derriba a cualquiera que encuentre.
+InfernoMimic: Los cofres falsos reclamados por el Infierno se hinchan de una fuerza inmensa. Pueden nacer de cofres ordinarios por la fuerza.
+Wyrm: Mucho más formidables que sus crías, las sierpes adultas prefieren acechar en las cavernas y dejar que sus presas lleguen hasta ellas.
+MagmaSwimmer: Una criatura peculiar que logra prosperar en las aguas abrasadoras del Infierno.
+Akuma: El descarado y grandioso dragón del Infierno. Akuma exhibe audazmente su poder ante cualquiera que se atreva a entrar en su dominio.
+OniAkuma: El demonio dracónico nunca se quedó realmente sin opciones. Al recurrir a su forma más pura, demostrará que su fuego ansía la absolución.
+BlazeClaw: Cuando el Antiguo de la Furia despierta de su letargo, las garras de dragón cercanas adoptan una forma nueva y terrible.
+AncientLung: Se desconoce por qué una serpiente tan gloriosa es tan astuta.
+MadnessBat: Hace muchas lunas, el Caos se filtró en la tierra. Su maldad arraigada influye en cualquiera dispuesto a escucharla y lo conduce a la locura.
+MadnessSlime: Este slime absorbió una miasma profunda y adormecida del Caos de la tierra. Aunque los slimes no pueden volverse locos de verdad, lo que cuenta es la intención.
+Hydra: Este monstruoso y sarnoso habitante de los pantanos se alimenta de las vainas de algas comunes del Cenagal. Por desgracia, romperlas parece llamar su atención.
+MurkySlime: Al absorber materia vegetal del ecosistema del Cenagal, estos buzos turbios se mezclan con su nuevo entorno.
+HydraClaw: Descendientes menores del Agarre del Cenagal. Recorren la noche en busca de su próxima pelea.
+Mosster: El coloso residente del Cenagal, que golpeará a cualquier enemigo que se cruce en su camino.
+Newt: Este lagarto excepcionalmente letal debe evitarse por todos los medios si quieres atravesar el Cenagal sin que te bombardeen con lodo explosivo.
+Skulker: Estos crustáceos acorazados desconfían de todo lo fuera de lo común. Intentarán deshacerse de cualquier cosa que interrumpa su sueño pacífico.
+Kappa: Al acecho en los mares, estos rufianes intentan caerle por sorpresa a cualquier transeúnte desprevenido.
+Toxitoad: Estos sapos sienten atracción por todo lo brillante y engullen las monedas que encuentran. Sin embargo, eso les provoca una horrible indigestión.
+ShadowGhoul: Los ghuls empapados en las aguas del Cenagal expulsan un veneno mortal por la boca y consumen rápidamente la vida de quienes encuentran.
+ChaoticTwilight: Hechizada por la ira que impregna el Cenagal, esta arma lanza tajos a su alrededor intentando silenciar todo lo que se mueva.
+MireMimic: Los cofres falsos que sucumben al Cenagal crecen con un poder recién descubierto. Pueden nacer de cofres ordinarios por la fuerza.
+Miresquito: El recordatorio que recibe uno por olvidarse de ponerse repelente de insectos antes de aventurarse en el Cenagal.
+FogAngler: Dominando las aguas estancadas del Cenagal, nada que entre puede escapar de las fauces de estos terrores.
+MireSoul: Aunque las seis cabezas falsas de Yamata quizá no sean parte real de su cuerpo, siguen estando muy vivas. Cuando comenzó su arremetida, eligió a los seis adoradores que más creían en él, los devoró y los ató a su voluntad.
+YamataNoOrochi: Impulsado hasta la locura, Yamata recurrió a su forma primigenia y no se detendrá ante nada para destruir a todo aquel que se atreva a oponérsele.
+Yamata: El monstruoso y bocazas azote del Cenagal. Yamata no se detiene ante nada para eliminar aquello que considera una amenaza.
+AbyssClaw: Cuando el Antiguo de la Ira despierta de su letargo, las garras de hidra cercanas adoptan una forma nueva y terrible.
+Soulsucker: Ninguna cantidad de bolas de naftalina mantendrá alejada a esta amenaza hinchada.
+Lovecraftian: Descendiente de un señor de otro mundo, el lovecraftiano ofrece conocimiento sobre todo lo incognoscible.
+Mushling: Uno de los súbditos ferozmente leales del Monarca de los Hongos.
+MushroomMonarch: Un hongo forestal común al que dejaron a su suerte durante demasiado tiempo. Ahora solo busca extender su colonia.
+Mushman: Este amigo fúngico se especializa en el campo de la farmacéutica para prepararte una dosis de sus mejores fórmulas.
+FungusFrog: Estas criaturas no comenzaron a aparecer hasta después de que derrotaras al Monarca de los Hongos. ¿No fue más que una coincidencia o es que los biomas de hongos se comunican entre sí...?
+Mushbug: Esta especie agresiva de mariquita se siente como en casa cerca de los hongos rojos y vive en simbiosis con el hongo.
+MushroomCrab: Estos crustáceos corretean por los campos de hongos rojos, infestados en gran medida por esporas fúngicas.
+MushroomJelly: Algunos peces expuestos a esporas de hongos rojos se convierten en un curioso híbrido de hongo y medusa.
+MushroomZombie: El hongo que controla la mente de estos zombis solo quiere una cosa: ¡cerebros! Esto resulta muy conveniente para el zombi.
+ElderDragon: Los dragones eran comunes en las alturas más elevadas. Después de que aparecieran fuerzas caóticas en el mundo, muchos dragones buscaron su poder. Ahora solo los ancianos permanecen en los cielos.
+IceCrystal: Un fragmento de hielo encantado por la Serpiente Subcero para ayudarla a cazar a sus presas.
+SubzeroSerpent: El alfa y anciano de las especies de serpientes de la tundra, esta serpiente sinuosa puede escupir escarcha ardiente directamente por la boca.
+SnowSerpent: Una evolución bastante desafortunada para un reptil.
+Daybringer: Seres ancestrales conocidos como los Equinoccios recorren el cosmos. Después de encontrar pareja, se establecen alrededor de un planeta y comienzan la danza eterna del día y la noche.
+Equiprobe: Nacidas de la unión del día y la noche, estas sondas ayudan a sus Equinoccios a ofrecer una prueba de combate que los habitantes de su planeta deben superar.
+Nightcrawler: Aunque los Equinoccios carecen de depredadores naturales, hay una fuerza a la que todos temen: la Tormenta del Caos. Cuenta la leyenda que un par de Equinoccios, junto con un gran héroe, logró sellar la tormenta.
+Sunwatcher: Nacidas de Equinoccios hembras, estas sondas recolectan energía de la luz para sus Equinoccios.
+Nightguard: Nacidas de Equinoccios machos, estas sondas recolectan energía de la materia oscura para sus Equinoccios.
+PurityCrawler: Una criatura semejante a un insecto, experta en drenar nutrientes de la estructura cristalina del Terrario.
+PuritySphere: Un organismo biológico unicelular formado por la energía natural latente del Terrario.
+PuritySquid: Un cefalópodo al que le ha tomado gusto al aire espeso, parecido al agua, del Terrario.
+PurityWeaver: Los gusanos que se atiborran de las energías del Terrario terminan transformándose en sus protectores.
+UnityProbe: Una sonda generada por el Corazón de la Naturaleza para defenderlo de las amenazas mientras se regenera.
+UnityWatcher: Una sonda generada por el Corazón de la Naturaleza para defenderlo de las amenazas mientras se regenera.
+TerraSquire: Defensores juveniles del Corazón de la Naturaleza; estos escuderos quizá asciendan con la edad a una forma superior.
+TerraDeadshot: Un francotirador que ejecutará a cualquiera que invada el Terrario.
+TerraKnight: Un berserker que abatirá a cualquiera que invada el Terrario.
+TerraWizard: Un archimago cuyos hechizos fulminarán a cualquiera que invada el Terrario.
+TerraWarlock: Un conjurador cuyos súbditos perseguirán a cualquiera que invada el Terrario.
+TerraCrawler: Invocado por un Brujo Terra para perseguir a cualquiera que invada el Terrario.
+TerraSphere: Invocada por un Brujo Terra para perseguir a cualquiera que invada el Terrario.
+TerraSquid: Invocado por un Brujo Terra para perseguir a cualquiera que invada el Terrario.
+TerraWeaver: Invocada por un Brujo Terra para perseguir a cualquiera que invada el Terrario.
+TerraSerpentHead: Mientras fuerzas ancestrales despiertan de su letargo, estos formidables constructos se unen para proteger el Terrario.
+Sagittarius: Un antiguo constructo de los Fulgurianos, creado para el reconocimiento. Perdió la mitad de su cuerpo debido a la malévola interferencia del Vacío, pero aún tiene suficiente potencia para aplastar a cualquier enemigo.
+ShadowScout: Drones resistentes que parecen haber aparecido solo después de la destrucción de un constructo de rango superior. ¿Están buscando algo?
+StoneSearcher: Un dron de reconocimiento de origen desconocido. Su carcasa es de un tipo resistente de augita, nativo únicamente del Vacío.
+ZeroDeactivated: No puedes detener lo que está por venir.
+VoidScout: Un dron orientado al combate con un láser de gran potencia. Parece estar buscando algo... O quizá a alguien...
+Vortex: Un dron de diseño inusual, con hojas que atraviesan los huesos como si fueran mantequilla. Si giran lo bastante rápido, pueden crear su propia atracción gravitatoria.
+ZeroProtocol: El hombre no es divino. La vida no es divina. El suelo, los mares, los cielos, nada de ello es divino. Y aunque yo no soy nada de eso, no soy divino. Ninguna mano puede tocar los cielos aquí. Pero mis ojos atraviesan su firmamento; veo a través de la pared y directamente a través de ti. Déjame en paz.
+Zero: Sangre de hierro fundido. Tendones de alambre. Diodos y ánodos y grasa. Una mano para entregársela al Padre. Dios hace el mundo, el mundo come, el mundo come a Dios: un ouroboros cíclico y nulo cuya hambre solo se sacia a sí misma.
+ZeroGenocideCannon: Fue diseñado para masacrar.
+ZeroGigataser: Fue diseñado para inmovilizar objetivos.
+ZeroNeutralizer: Fue diseñado para ejecutar.
+ZeroNovaFocus: Fue diseñado para desorientar ejércitos.
+ZeroOmegaVolley: Fue diseñado para fuego de supresión.
+ZeroRealityCannon: Fue diseñado para la precisión.
+ZeroRiftShredder: Fue diseñado para impedir el acceso.
+ZeroVoidStar: Fue diseñado para agrupar objetivos.
+Null: System.NullReferenceException: La referencia a un objeto no se estableció como instancia de un objeto.
+Searcher: Drones de reconocimiento de gran potencia que parecen haber sido atraídos por perturbaciones recientes. Parece que uno de ellos te está buscando.
+OrthrusX: El protector del Parthenan, diseñado específicamente para la defensa. De las tres unidades S.I.E.G.E., es, con diferencia, la más resistente; sus únicos puntos débiles son sus cabezas.
+RaiderUltima: El androide de ataque principal de los Fulgurianos, diseñado para enfrentarse a cualquier amenaza potencial que aceche en el Vacío.
+Raidmini: Las subunidades de Raider Ultima están diseñadas para atraer el fuego lejos de Raider Ultima mientras prepara sus ataques.
+Retriever: El único dispositivo que los Fulgurianos han logrado enviar al Vacío y que ha regresado. Reúne objetos para investigarlos mientras evita todo lo peligroso.
+CyberClaw: Desplegada después de que el Retriever dejara de estar operativo para reunir muestras de investigación por toda la superficie de Terraria.
+BiomiteCore: El protector de la Fortaleza Perdida, abandonado en otro tiempo; esta máquina ha aprovechado el poder del mundo mismo para defender su hogar.
+TechnoTruffle: Una invención de lo más desconcertante. Quizá sus inventores deberían haberse preguntado si debían crearla.
+TruffleProbe: Al ser desplegada, la Trufa Tecnológica fue tan impopular que no dejaban de destruirla. Esta fue su solución.
+Truffling: Los protocolos de autopropagación de la Trufa Tecnológica hacen que libere enjambres de estas amenazas.
+DimensionDiver: Procedentes de otra dimensión, estos buceadores abren fuego contra cualquier amenaza potencial.
+RiftShark: La grieta en el corazón del Barco Hundido ha contaminado los mares cercanos y ha hecho que la vida marina adopte nuevas formas sobrenaturales.
+Cthulhu: Ahora que ha despertado de nuevo, Cthulhu solo busca reanudar su guerra y desatar una calamidad cósmica sobre el mundo.
+DeityBrain: Con la forma del cerebro que Cthulhu perdió hace siglos, Lu'Kthu guiará a las legiones de Cthulhu hacia la victoria en su nueva guerra.
+EyeOfAzathoth: Regalados a Cthulhu por una deidad aún mayor, estos ojos reciben órdenes de Lu'Kthu para ayudar a su amo.
+DeityEater: Con la forma de la columna vertebral que Cthulhu perdió hace siglos, Crom Cruach devorará a cualquiera que se atreva a obstaculizar la misión de su amo.
+DeityEye: Con la forma del ojo que Cthulhu perdió hace siglos, Cyaegha quemará a todos los que se opongan a su amo con las Llamas de la Agonía.
+DeityLeviathan: Con la forma de una bestia marina que Cthulhu vio mientras dormía, Vile-Oct es el más poderoso de los sirvientes de Cthulhu; lo libera contra quienes puedan representar una amenaza.
+DeityRose: Con la forma de una parodia del guardián de las dríadas, Ei'lor puede atrapar a cualquiera que su amo considere una amenaza.
+ShadowUrchin: Desplegados por Ei'lor, estos erizos de mar ayudan a suprimir cualquier amenaza potencial para su amo.
+DeitySkull: Con la forma de los huesos que Cthulhu perdió hace siglos, Rhan-Tegoth aplastará a cualquiera que se atreva a oponerse a la voluntad de su amo.
+DeityDragon: Los guivernos y los dragones fueron los primeros en enfrentarse a las deidades gemelas. Al ser los primeros en caer, muchas de sus almas se convirtieron en sirvientes sin voluntad, mientras que el resto quedó suspendido en la atmósfera.
+RiftVision: Maldiciones vivientes creadas por una deidad poderosa, solo ofrecen la perdición a quienes las contemplan.
+SoulOfCthulhu: Tras ser derrotado hace siglos, el alma de Cthulhu huyó a los mares y provocó un gran tifón que se tragó un barco cercano. Su alma quedó ligada al timón de la embarcación, donde comenzó su letargo.
+TrenchSquid: La grieta en el corazón del Barco Hundido ha contaminado los mares cercanos y ha hecho que la vida marina adopte nuevas formas sobrenaturales.
+LovecraftianShadow: Ten cuidado al adentrarte en aguas inexploradas. En este naufragio abandonado hace mucho tiempo podrías encontrarte con algo mucho peor que la muerte misma.
+
+InfinityZero: {
+	1: La creación implica destrucción. El cambio implica quietud. Todo gira y fluye sobre sí mismo, retorciendo su propio cuchillo cada vez más profundo en su propio pecho. Una máquina hecha para cultivar es una máquina hecha para consumir, pues incluso en un infinito de infinitos, nada de ello podría importar jamás.
+	2:
+		'''
+		País infestado de ovejas
+		Fingen que son tan libres
+		Caen, están sangrando
+		Nunca se preguntan por qué mueren
+		Nadan en el lago de la muerte
+		Devoradas por cocodrilos
+		Así
+		Nadie vio, a nadie le importa
+		'''
+}
+
+InfinityZeroChainedZero: ¿Pensabas que solo había uno de ellos?
+Oblivion: Como si fuera a contarte algo sobre mí.

@@ -36,8 +36,8 @@ Coral2x2.MapEntry: Coral
 Coral3x3.MapEntry: Coral
 CrystalFlower.MapEntry: Flor de Cristal
 Cloudstalk.MapEntry: Tallo de Nube
-GoblinStandardTile.MapEntry: Estandarte de Batalla Trasgo
-GoblinStatueTile.MapEntry: Estatua de Trasgo
+GoblinStandardTile.MapEntry: Estandarte de Batalla Duende
+GoblinStatueTile.MapEntry: Estatua de Duende
 Spike1Tile.MapEntry: Formación de Granito
 Spike2Tile.MapEntry: Formación de Granito
 Spike3Tile.MapEntry: Formación de Granito
@@ -236,7 +236,7 @@ SepulchreChestTile1: {
 	ContainerName: Cofre del Sepulcro
 }
 
-ShadowflameStone.MapEntry: Estante de Armas Trasgo
+ShadowflameStone.MapEntry: Estante de Armas Duende
 ShiverbarkFlagTile.MapEntry: Bandera de Shiverbark
 ShiverbarkTotemTile.MapEntry: Tótem de Shiverbark
 BlueSign.MapEntry: Cartel
@@ -295,7 +295,7 @@ SepulchreChestTile: {
 SepulchreMirror.MapEntry: Espejo del Sepulcro
 SepulchreWindowOne.MapEntry: Ventana del Sepulcro
 SepulchreWindowTwo.MapEntry: Ventana del Sepulcro
-GoblinStandardTileRubble.MapEntry: Escombros del Estandarte Trasgo
+GoblinStandardTileRubble.MapEntry: Escombros del Estandarte Duende
 SkullStick3FlipRubble.MapEntry: Escombros del Palo con Cráneo
 SkullStick3Rubble.MapEntry: Escombros del Palo con Cráneo
 TentOppositeRubble.MapEntry: Escombros de la Tienda de Campaña

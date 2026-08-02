@@ -2840,7 +2840,7 @@ HeadlessPirateBanner: {
 }
 
 HobgoblinBanner: {
-	DisplayName: Estandarte de Trasgo
+	DisplayName: Estandarte de Duende
 	Tooltip: ""
 }
 

@@ -1,0 +1,1273 @@
+BossSummon: {
+	ChaosRune: {
+		DisplayName: Chaos Rune
+		Tooltip:
+			'''
+			A cursed tablet bursting with chaotic energy
+			Summons Shen Doragon's true awakened form
+			Non-Consumable
+			'''
+	}
+
+	ChaosSigil: {
+		DisplayName: Chaos Sigil
+		Tooltip:
+			'''
+			A cursed tablet filled with unstable magic
+			Summons the chaos emperor
+			Non-Consumable
+			'''
+	}
+
+	DraconianSunRune: {
+		DisplayName: Draconian Sun Rune
+		Tooltip:
+			'''
+			An enchanted tablet bursting with flaming chaotic energy
+			Summons Akuma Awakened
+			Only useable during the day in the Inferno
+			Non-Consumable
+			'''
+	}
+
+	DreadMoonRune: {
+		DisplayName: Dread Moon Rune
+		Tooltip:
+			'''
+			An enchanted tablet radiating dark chaotic energy
+			Summons Yamata no Orochi
+			Can only be used in the mire at night
+			Non-Consumable
+			'''
+	}
+
+	DreadMoonSigil: {
+		DisplayName: Dread Moon Sigil
+		Tooltip:
+			'''
+			A ragged old tablet said to contain the dark magic of a new moon
+			Summons Yamata
+			Can only be used at night in the mire
+			Non-Consumable
+			'''
+	}
+
+	EquinoxWorm: {
+		DisplayName: Equinox Worm
+		Tooltip:
+			'''
+			A worm created using celestial materials
+			Summons the Equinox Worms
+			Non-Consumable
+			'''
+	}
+
+	DoomsdayTesseract: {
+		DisplayName: Doomsday Tesseract
+		Tooltip:
+			'''
+			DESCRIPTI0NHERE
+			UNSTABLE. C0NTAINS C0DE T0 ACTIVATE THE BRINGER 0F DEATH
+			ANALYSIS 0F M0D C0NFIGURATI0N RECC0MENDED: Y0U HAVE BEEN WARNED
+			N0N-C0NSUMABLE
+			'''
+	}
+
+	CyberneticScrap: {
+		DisplayName: Cybernetic Scrap
+		Tooltip:
+			'''
+			A bunch of metal garbage
+			Summons the Orthrus X
+			Can only be used at night
+			'''
+	}
+
+	CyberneticBell: {
+		DisplayName: Cybernetic Bell
+		Tooltip:
+			'''
+			A carefully tinkered bell
+			Summons the Raider Ultima
+			Can only be used at night
+			'''
+	}
+
+	CyberneticClaw: {
+		DisplayName: Cybernetic Claw
+		Tooltip:
+			'''
+			Summons the Retriever
+			Only useable at night
+			'''
+	}
+
+	InfinityBeacon: {
+		DisplayName: Infinity Beacon
+		Tooltip:
+			'''
+			An ominous device with unstable code
+			Summons the Infinity Slayer
+			You get the feeling it may be wise to check the mod's configuration. You've been warned.
+			Non-consumable
+			'''
+	}
+
+	OwlStatue: {
+		DisplayName: Owl Statue
+		Tooltip:
+			'''
+			Summons Athena
+			Can only be used in the Acropolis at the Owl Altar
+			'It stares into your soul.'
+			'''
+		TooltipAlt1: Can only be used in the Acropolis
+		TooltipAlt2: Use at the Owl Altar to summon Athena
+		TooltipAlt3: Use directly to summon Olympian Athena
+	}
+
+	GoldenCarrot: {
+		DisplayName: Ten Karat Carrot
+		Tooltip: Summons the Pouncing Punisher himself
+	}
+
+	PlatinumCarrot: {
+		DisplayName: Ten Karat Carrot
+		Tooltip: Summons the Pouncing Punisher himself
+	}
+
+	TenCaratCarrot: {
+		DisplayName: Ten Carat Carrot
+		Tooltip:
+			'''
+			The fury of the Raging Rajah can be felt radiating from this ornate carrot...
+			Non-consumable
+			'''
+	}
+
+	CuriousLookingClaw: {
+		DisplayName: Curious Looking Claw
+		Tooltip:
+			'''
+			It's strangely dry
+			Can only be used at night
+			'''
+	}
+
+	InterestingLookingClaw: {
+		DisplayName: Interesting Looking Claw
+		Tooltip:
+			'''
+			It's oddly Clammy
+			Can only be used at night
+			'''
+	}
+
+	FlamesOfAnarchy: {
+		DisplayName: Flames of Anarchy
+		Tooltip:
+			'''
+			The flames of chaos burn in this antique china
+			Calls upon the Sisters of Discord
+			Non-Consumable
+			'''
+	}
+
+	DesertLamp: {
+		DisplayName: Desert Lamp
+		Tooltip: Summons the Desert Djinn
+	}
+
+	RasScepter: {
+		DisplayName: Ra's Scepter
+		Tooltip:
+			'''
+			Summons Anubis
+			Can only be used in the desert on the surface
+			'I uh...borrowed this from a bird friend of mine.'
+			Non-Consumable
+			'''
+		TooltipExtension: Right click to summon Forsaken Judge, Anubis
+	}
+
+	CursedSkull: {
+		DisplayName: Cursed Skull
+		Tooltip:
+			'''
+			Summons Skeletron
+			Can only be used at night
+			'''
+	}
+
+	ConfusingLookingMushroom: {
+		DisplayName: Confusing Looking Mushroom
+		Tooltip:
+			'''
+			Summons the Feudal Fungus
+			Can only be used in a glowing mushroom biome
+			'''
+	}
+
+	Toadstool: {
+		DisplayName: Toadstool
+		Tooltip:
+			'''
+			Summons the Truffle Toad
+			Can only be used in a glowing mushroom biome
+			'''
+	}
+
+	GoldenGrub: {
+		DisplayName: Golden Grub
+		Tooltip:
+			'''
+			Summons Greed
+			Can only be used in Greed's Hoard at the Altar of Desire
+			'It's really shiny.'
+			'''
+		TooltipAlt1: Can only be used in Greed's Hoard
+		TooltipAlt2: Use at the Altar of Desire to summon Greed
+		TooltipAlt3: Use directly to summon Worm King, Greed
+	}
+
+	AncientBell: {
+		DisplayName: Ancient Bell
+		Tooltip:
+			'''
+			An ornately crafted bell
+			Summons the Broodmother in the Inferno
+			Only useable during the day
+			'''
+	}
+
+	DraconianSunSigil: {
+		DisplayName: Draconian Sun Sigil
+		Tooltip:
+			'''
+			An ornate tablet said to contain the radiant power of a thousand suns
+			Summons Akuma
+			Only useable during the day in the Inferno
+			Non-Consumable
+			'''
+	}
+
+	JungleOrchid: {
+		DisplayName: Jungle Orchid
+		Tooltip:
+			'''
+			Summons Plantera
+			Can only be used in the underground jungle
+			'''
+	}
+
+	HydraChow: {
+		DisplayName: Hydra Chow
+		Tooltip:
+			'''
+			Just holding this makes you gag
+			Summons the Hydra
+			Can only be used at night
+			'''
+	}
+
+	IntimidatingLookingMushroom: {
+		DisplayName: Intimidating Looking Mushroom
+		Tooltip: Summons the Mushroom Monarch
+	}
+
+	SubzeroCrystal: {
+		DisplayName: Subzero Crystal
+		Tooltip: Summons the Subzero Serpent
+	}
+
+	Lifescanner: {
+		DisplayName: Lifescanner
+		Tooltip:
+			'''
+			Summons Sagittarius
+			Can only be used in the Void
+			'''
+	}
+
+	ERROR_NULL: {
+		DisplayName: ERR0R_NULL
+		Tooltip:
+			'''
+			ACTIVATES THE GR0UND ZER0 C0DE F0R THE NEAREST ZER0 UNIT
+			ANALYSIS 0F M0D C0NFIGURATI0N RECC0MENDED: Y0U HAVE BEEN WARNED
+			N0N-C0NSUMABLE
+			'''
+	}
+
+	CyberneticShroom: {
+		DisplayName: Cybernetic Shroom
+		Tooltip:
+			'''
+			Summons the Techno Truffle
+			Can only be used at night
+			'''
+	}
+
+	CursedCompass: {
+		DisplayName: Cursed Compass
+		Tooltip:
+			'''
+			An old, broken compass. Who knows what it's for.
+			Faint whispers urge you to return to the Sunken Ship
+			Non-consumable
+			'''
+
+		AltText0: {
+			Ready: The compass' arrow spins rapidly, giving off an eerie vibe.
+			Downed: An old, broken compass harboring an eldritch curse.
+		}
+
+		AltText1:
+			'''
+			Summons the Cosmic Calamity
+			Only useable near the Sunken Ship
+			'''
+	}
+
+	Masshroom: {
+		DisplayName: Masshroom
+		Tooltip: Summons a lot of Mushroom Monarchs
+	}
+
+	GlowingMasshroom: {
+		DisplayName: Glowing Masshroom
+		Tooltip:
+			'''
+			Summons a lot of Feudal Fungi
+			Can only be used in glowing mushroom biomes
+			'''
+	}
+}
+
+Consumables: {
+	InfernoKey: {
+		DisplayName: Inferno Key
+		Tooltip: Unlocks the power of the blazing sun
+	}
+
+	VoidKey: {
+		DisplayName: Doomstopper Chip
+		Tooltip: Unlocks Doomsday Chests
+	}
+
+	LuckyCracker: {
+		DisplayName: Lucky Cracker
+		Tooltip: She said it can make you lucky. Do you trust her?
+	}
+
+	LuckyCalmingPotion: {
+		DisplayName: Lucky Calming Potion
+		Tooltip: Reduces enemy aggression
+	}
+
+	LuckyEndurancePotion: {
+		DisplayName: Lucky Endurance Potion
+		Tooltip:
+			'''
+			Reduces damage taken by 10%
+			Increase your 10% defense
+			'''
+	}
+
+	LuckyIronskinPotion: {
+		DisplayName: Lucky Ironskin Potion
+		Tooltip: Increase defense by 9
+	}
+
+	LuckyLifeforcePotion: {
+		DisplayName: Lucky Lifeforce Potion
+		Tooltip: Increases max life by 21%
+	}
+
+	LuckyRagePotion: {
+		DisplayName: Lucky Rage Potion
+		Tooltip: Increases critical chance by 11%
+	}
+
+	LuckyRegenerationPotion: {
+		DisplayName: Lucky Regeneration Potion
+		Tooltip: Provides life regeneration
+	}
+
+	LuckySummoningPotion: {
+		DisplayName: Lucky Summoning Potion
+		Tooltip: Increases your max number of minions and turrents
+	}
+
+	LuckySwiftnessPotion: {
+		DisplayName: Lucky Swiftness Potion
+		Tooltip: 26% increased movement speed
+	}
+
+	LuckyThornsPotion: {
+		DisplayName: Lucky Thorns Potion
+		Tooltip: Attackers also take damage
+	}
+
+	LuckyWrathPotion: {
+		DisplayName: Lucky Wrath Potion
+		Tooltip: Increases damage by 11%
+	}
+
+	RoninPotion: {
+		DisplayName: Ronin Potion
+		Tooltip: When you don't get hurt, you will have 3s immune time
+	}
+
+	Carrot: {
+		DisplayName: Carrot
+		Tooltip: Good for your eyesight
+	}
+
+	GrandHealingPotion: {
+		DisplayName: Grand Healing Potion
+		Tooltip: ""
+	}
+
+	GrandManaPotion: {
+		DisplayName: Grand Mana Potion
+		Tooltip: ""
+	}
+
+	TheBigOne: {
+		DisplayName: The Big One
+		Tooltip: ""
+	}
+
+	OrderBottle: {
+		DisplayName: Order Flask
+		Tooltip: Brings order to the Chaos Biomes
+	}
+
+	OrderSolution: {
+		DisplayName: Order Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Cleanses the Chaos
+			'''
+	}
+
+	CorruptionFlask: {
+		DisplayName: Shadow Flask
+		Tooltip: Spreads the Corruption
+	}
+
+	CrimsonFlask: {
+		DisplayName: Blood Flask
+		Tooltip: Spreads the Crimson
+	}
+
+	YellowSolution: {
+		DisplayName: Yellow Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Clears the Snow biome
+			'''
+	}
+
+	GlowingSporeBag: {
+		DisplayName: Glowing Spore Bag
+		Tooltip: Spreads Glowing Mushrooms
+	}
+
+	HallowFlask: {
+		DisplayName: Crystal Flask
+		Tooltip: Spreads the Hallow
+	}
+
+	GildedKey: {
+		DisplayName: Gilded Key
+		Tooltip: This probably unlocks...something?
+	}
+
+	AshJar: {
+		DisplayName: Ash Jar
+		Tooltip: Spreads the Inferno
+	}
+
+	ScorchedSeeds: {
+		DisplayName: Scorched Seeds
+		Tooltip: Plants Inferno grass
+	}
+
+	Sunpowder: {
+		DisplayName: Sunpowder
+		Tooltip: ""
+	}
+
+	FlaskOfDragonfire: {
+		DisplayName: Flask of Dragonfire
+		Tooltip: Melee and Whip attacks inflict enemies with Dragonflame
+	}
+
+	KeyOfSmite: {
+		DisplayName: Key of Smite
+		Tooltip: Charged with flaming energy
+	}
+
+	OrangeSolution: {
+		DisplayName: Orange Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Spreads the Inferno
+			'''
+	}
+
+	Fungicide: {
+		DisplayName: Fungicide
+		Tooltip: Originally concocted by the Swarm to combat the ever-expending mushroom menace.
+	}
+
+	JungleFlask: {
+		DisplayName: Jungle Flask
+		Tooltip: Converts Forest into Jungle
+	}
+
+	LimeSolution: {
+		DisplayName: Lime Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Converts the forest into the jungle
+			'''
+	}
+
+	SwarmSolution: {
+		DisplayName: Swarm Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Cleanses the mushroom biomes
+			'''
+	}
+
+	GodlySoul: {
+		DisplayName: Godly Soul
+		Tooltip:
+			'''
+			Gives a weapon the ''Godly'' prefix if it is possible
+			Right-click weapon with the soul to set prefix
+			Consumes in process
+			'''
+	}
+
+	LegendarySoul: {
+		DisplayName: Legendary Soul
+		Tooltip:
+			'''
+			Gives a weapon the ''Legendary'' prefix if it is possible
+			Right-click weapon with the soul to set prefix
+			Consumes in process
+			'''
+	}
+
+	MythicalSoul: {
+		DisplayName: Mythical Soul
+		Tooltip:
+			'''
+			Gives a weapon the ''Mythical'' prefix if it is possible
+			Right-click weapon with the soul to set prefix
+			Consumes in process
+			'''
+	}
+
+	UnrealSoul: {
+		DisplayName: Unreal Soul
+		Tooltip:
+			'''
+			Gives a weapon the ''Unreal'' prefix if it is possible
+			Right-click weapon with the soul to set prefix
+			Consumes in process
+			'''
+	}
+
+	DankSeeds: {
+		DisplayName: Dank Seeds
+		Tooltip: Plants Mire grass
+	}
+
+	DarkwaterFlask: {
+		DisplayName: Darkwater Flask
+		Tooltip: Spreads the Mire
+	}
+
+	Moonpowder: {
+		DisplayName: Moonpowder
+		Tooltip: ""
+	}
+
+	FlaskOfHydratoxin: {
+		DisplayName: Flask of Hydratoxin
+		Tooltip: Melee and Whip attacks inflict enemies with Hydratoxin
+	}
+
+	IndigoSolution: {
+		DisplayName: Indigo Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Spreads the Mire
+			'''
+	}
+
+	KeyOfSpite: {
+		DisplayName: Key of Spite
+		Tooltip: Charged with abyssal energy
+	}
+
+	MireKey: {
+		DisplayName: Mire Key
+		Tooltip: Unlocks the power of the wrathful abyss
+	}
+
+	ForestFlask: {
+		DisplayName: Forest Flask
+		Tooltip: Converts Jungle to Forest
+	}
+
+	DeepGreenSolution: {
+		DisplayName: Deep Green Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Converts the jungle into forest
+			'''
+	}
+
+	BrownSolution: {
+		DisplayName: Brown Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Spreads the Red Mushroom biome
+			'''
+	}
+
+	MyceliumSeeds: {
+		DisplayName: Mycelium Seeds
+		Tooltip: Plants Mycelium
+	}
+
+	SporeBag: {
+		DisplayName: Spore Bag
+		Tooltip: Spreads the surface mushroom biome
+	}
+
+	IceFlask: {
+		DisplayName: Ice Flask
+		Tooltip: Spreads the Tundra
+	}
+
+	IcemeltFlask: {
+		DisplayName: Icemelt Flask
+		Tooltip: Clears the snow biome
+	}
+
+	WhiteSolution: {
+		DisplayName: White Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Spreads the snow biome
+			'''
+	}
+
+	StarIdol: {
+		DisplayName: Blessing of the Stars
+		Tooltip:
+			'''
+			It sparkles like the stars in the sky
+			Can only be used if there arent many radium stars in the world.
+			'''
+	}
+
+	PurityFlask: {
+		DisplayName: Purity Flask
+		Tooltip: Spreads the Forest
+	}
+
+	VoidFlask: {
+		DisplayName: Void Flask
+		Tooltip: Spreads the Void
+	}
+
+	BlackSolution: {
+		DisplayName: Black Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Spreads the Void
+			'''
+	}
+
+	TerraKey: {
+		DisplayName: Terra Key
+		Tooltip: ""
+	}
+
+	GoblinTinkererDoll: {
+		DisplayName: Goblin Tinkerer Doll
+		Tooltip: "'I'm sorry, little one...'"
+	}
+}
+
+Currency: {
+	AncientCoin: {
+		DisplayName: Ancient Coin
+		Tooltip: A red and blue coin with an A engraved into it
+	}
+
+	BloodRune: {
+		DisplayName: Blood Rune
+		Tooltip: An ancient stone said to contain the blood of an ancient being
+	}
+
+	ChristmasCheer: {
+		DisplayName: Christmas Cheer
+		Tooltip: Pure joy and minty fresh goodness
+	}
+
+	GoblinSoul: {
+		DisplayName: Goblin Soul
+		Tooltip: The soul of a goblin
+	}
+
+	MartianCredit: {
+		DisplayName: Martian Credit
+		Tooltip: A card that has some sort of monetary value to the martians
+	}
+
+	PirateBooty: {
+		DisplayName: Pirate's Booty
+		Tooltip: An exceedingly well-crafted gold coin
+	}
+
+	HalloweenTreat: {
+		DisplayName: Halloween Treat
+		Tooltip: A very tasty treat. Don't eat it though, most likely cursed.
+	}
+
+	MonsterSoul: {
+		DisplayName: Monster Soul
+		Tooltip: The soul of a terrifying Monster
+	}
+}
+
+MonochromeApple: {
+	DisplayName: Monochromatic Apple
+	Tooltip: Will attract an equestrian friend
+}
+
+GRealmAdvertisement: {
+	DisplayName: GRealm Advertisement
+	Tooltip:
+		'''
+		'Want more AA content and more Grox-filled fun? Go play GRealm!'
+		- Grox The Great
+		'''
+}
+
+FancyTruffle: {
+	DisplayName: Fancy Truffle
+	Tooltip: Attracts a royal creature which flourishes in water & combat
+}
+
+RoyalRabbit_Item: {
+	DisplayName: Royal Rabbit
+	Tooltip: Under direct protection by the Pouncing Punisher
+}
+
+ChampionHelmetMageSetEffect_CarrotBooster: {
+	DisplayName: Carrot Booster
+	Tooltip: Etheral, but crunchy.
+}
+
+Dyes: {
+	DiscordianDye: {
+		DisplayName: Discordian Dye
+		Tooltip: Gives a discordian touch to whatever this dye is applied to
+	}
+
+	DiscordianInfernoDye: {
+		DisplayName: Discordian Inferno Dye
+		Tooltip: Gives a discordian touch to whatever this dye is applied to
+	}
+
+	BlazingDye: {
+		DisplayName: Blazing Dye
+		Tooltip: Gives a blazing touch to whatever this dye is applied to
+	}
+
+	BlazingFuryDye: {
+		DisplayName: Blazing Fury Dye
+		Tooltip: Gives a blazing touch to whatever this dye is applied to
+	}
+
+	AbyssalDye: {
+		DisplayName: Abyssal Dye
+		Tooltip: Gives an abyssal touch to whatever this dye is applied to
+	}
+
+	AbyssalWrathDye: {
+		DisplayName: Abyssal Wrath Dye
+		Tooltip: Gives an abyssal touch to whatever this dye is applied to
+	}
+
+	DoomsdayDye: {
+		DisplayName: Doomsday Dye
+		Tooltip: Adds a glitchy-look to whatever this dye is applied to
+	}
+}
+
+TheLifeAndEpicAdventuresOfAnubisTheWonderDog: {
+	DisplayName: The Life And Epic Adventures Of Anubis The Wonder Dog
+	Tooltip: ""
+}
+
+Fishmother: {
+	DisplayName: Fishmother
+	Tooltip: ""
+}
+
+Hellfisher: {
+	DisplayName: Hellfisher
+	Tooltip: ""
+}
+
+TriHeadedKoi: {
+	DisplayName: Tri-headed Koi
+	Tooltip: ""
+}
+
+LovecraftiansResearchList: {
+	DisplayName: Lovecraftian's Research List
+	Tooltip:
+		'''
+		I need these things, please!
+		1. Something from that biosphere underground. A crystal from it could work...
+		2. Flesh samples from the corruption. I want to see what those things are made of.
+		3. A bone sample from the crimson. I'm wondering how their bone structure works.
+		4. Find whatever the creatures in the Mire eat. Just kill them until one drops its food or something.
+		5. A scale from something in the Inferno. I'm trying to figure out how these things are so fire resistant.
+		6. Spore Samples from the jungle. These mushrooms are really annoying, maybe I can make something to kill them off.
+		7. Some kind of creature part that injects poison or something. My syringe broke and that nurse won't let me use any of hers.
+		8. A sample of whatever the Mushroom Monarch and Feudal Fungus are made of. I might need some help studying these, though...
+		9. A  piece of scrap metal from those floating islands west of here. That stuff looks interesting to make equipment with.
+		10. An Ice machine would be kind of nice to have.
+		11. Bunnies. Not for testing purposes, I just think they're cute and want a couple as pets.
+		12. Something sparkly from the Hallow. I wonder if I can use it to make more potions...
+		'''
+}
+
+MadnessMushroom: {
+	DisplayName: Madness Mushroom
+	Tooltip:
+		'''
+		An exceedingly rare mushroom
+		Maybe the Mushman knows what to do with it?
+		'''
+}
+
+GravitySphere: {
+	DisplayName: Gravity Sphere
+	Tooltip: A stone model of the planet, complete with an orbitting moon!
+}
+
+StarChart: {
+	DisplayName: Star Chart
+	Tooltip: A map of the solar system up to this planet.
+}
+
+WormIdol: {
+	DisplayName: Worm Idol
+	Tooltip:
+		'''
+		An ancient statue depicting some form of worm god.
+		It looks like it hasn't been touched in years
+		'''
+}
+
+GS: {
+	DisplayName: G S
+	Tooltip: ""
+}
+
+SC: {
+	DisplayName: S C
+	Tooltip: ""
+}
+
+GlitchFish: {
+	DisplayName: Glitch Fish
+	Tooltip: ""
+}
+
+Lore: {
+	Calamity: {
+		MushroomMonarchLore: {
+			DisplayName: Mushroom Monarch
+			Tooltip: ""
+			Lore:
+				'''
+				Even the simple beings have their kings.
+				For reasons I do not claim to know, the mushrooms of Terraria seek to expand their reach endlessly. 
+				With leaders as weak as this, it is of no surprise that they have not managed that, even with the advantages my crusade might have provided.
+				'''
+		}
+
+		FeudalFungusLore: {
+			DisplayName: Feudal Fungus
+			Tooltip: ""
+			Lore:
+				'''
+				Despite the ghastly control they can exert, it would be dishonest of me to say I do not find their nature fascinating.
+				Were my crusade to have properly ended, and my relationship with the engineer to not have faded, I would have asked him to engage in the study of the mushroom's magical properties.
+				'''
+		}
+
+		GripsOfChaosLore: {
+			DisplayName: Grips of Chaos
+			Tooltip: ""
+			Lore:
+				'''
+				These strange hands are a common sight among my scouters.
+				Their nature is unknown to me, but I assume them to be related to the wicked chaos over Terraria.
+				One thing I know for sure; gods are not the only thing desecrating this land.
+				'''
+		}
+
+		TruffleToadLore: {
+			DisplayName: Truffle Toad
+			Tooltip: ""
+			Lore:
+				'''
+				Another display of the fungus' tenacity and unwillingness to let the dead rest.
+				With time, I have learned that parades of power such as these are merely the weak desperately attempting to attain strength.
+				'''
+		}
+
+		BroodmotherLore: {
+			DisplayName: The Broodmother
+			Tooltip: ""
+			Lore:
+				'''
+				What a curious creature, born out of that infernal chaos, a shame to see it slayed.
+				I have met her daughter before, a strange relationship to be aware of, but one I learned to treat with respect.
+				I would tread with care from now on.
+				'''
+		}
+
+		HydraLore: {
+			DisplayName: The Hydra
+			Tooltip: ""
+			Lore:
+				'''
+				The harsh, chaotic mire it calls home was once a settlement of great renown.
+				They were my most avid supporters, and their destruction was a tragedy I could not prevent.
+				God or not, whoever is responsible will one day find my wrath.
+				'''
+		}
+
+		DesertDjinnLore: {
+			DisplayName: Desert Djinn
+			Tooltip: ""
+			Lore:
+				'''
+				Once, in the age of Dragons, the Ilmeran Sea was naught but a sand-swept desert and home to a forsaken caste.
+				By my Crusade's hand, it has been restored.
+				Now, the spirits of that forgotten civilization stir from their water-choked slumber.
+				A bizarre twist of fate, is it not?
+				'''
+		}
+
+		SubzeroSerpentLore: {
+			DisplayName: Subzero Serpent
+			Tooltip: ""
+			Lore:
+				'''
+				A poor creature.
+				It would seem it has grown weak as godly essence and chaotic forces encroach upon its habitat.
+				Both are scourges that must be expunged if this world is ever to know peace.
+				'''
+		}
+
+		SagittariusLore: {
+			DisplayName: Sagittarius
+			Tooltip: ""
+			Lore:
+				'''
+				Those ominous islands... They have long been a fascination of Draedon's.
+				A great many of my researchers under his command have studied the anomaly they surround.
+				Yet even they have learned little...
+				The construct you faced, its construction is unique from the others we've observed.
+				There are others who seek to understand the nature of this anomaly; perhaps they have a role to play in this.
+				'''
+		}
+
+		SiegeUnitsLore: {
+			DisplayName: The Siege Units
+			Tooltip: ""
+			Lore:
+				'''
+				Such laughable constructs, these are undoubtedly the products of the Fulgurians.
+				They were once a single being, the Storm Elemental, though they separated themselves long ago into a larger organization.
+				Their attempts at innovation are laughable; even these faulty machines clearly reflect their inspiration from Draedon's own failings.
+				Hubris will undoubtedly be their unmaking.
+				'''
+		}
+
+		OrthrusXLore: {
+			DisplayName: Orthrus X
+			Tooltip: ""
+			Lore:
+				'''
+				This crude machination is truly the Fulgurians' last line of defense?
+				How pitiful.
+				I have no doubt my Godseeker Knights could reduce it to little more than scrap with ease.
+				'''
+		}
+
+		RaiderUltimaLore: {
+			DisplayName: Raider Ultima
+			Tooltip: ""
+			Lore:
+				'''
+				I had heard rumors of this Siege Unit.
+				Members of my infantry have indeed been routed by it on a handful of occasions.
+				Seeing you dispatch of it... My soldiers have clearly grown soft in my absence.
+				'''
+		}
+
+		RetrieverLore: {
+			DisplayName: The Retriever
+			Tooltip: ""
+			Lore:
+				'''
+				Constructing a retrieval unit in the form of a hand... It's almost pitiful.
+				Despite the lacking design, it is indeed capable of entering the anomaly.
+				I have no doubt the fulgurians' meddling with that which they do not understand can only end poorly.
+				'''
+		}
+
+		AnubisLore: {
+			DisplayName: The Legendscribe
+			Tooltip: ""
+			Lore:
+				'''
+				Until recently, I had only heard myths murmured among my Knights of the Legendscribe.
+				After the Great Incineration, I was shocked to find him standing before my court in the flesh.
+				He issued a warning: one would rise to put an end to my reign.
+				It would seem he sees in you the means to destroy me.
+				Time will be the only one to tell how this fable ends...
+				'''
+		}
+
+		AthenaLore: {
+			DisplayName: Athena
+			Tooltip: ""
+			Lore:
+				'''
+				A rather peculiar cohort, the seraphs were known to mingle with the Chrysadians before the Downfall.
+				Now they've grown into reclusive hermits, relying on the protection of their Queen.
+				If this is all that has become of the Ancients, then I am sorely disappointed.
+				'''
+		}
+
+		GreedLore: {
+			DisplayName: Greed
+			Tooltip: ""
+			Lore:
+				'''
+				What is this...? Another worm like...him?
+				Impossible, they were all purged except for the Devourer because he escaped into a--
+				...hmm...what if he wasn't the only one with that ability..?
+				'''
+		}
+
+		RajahRabbitLore: {
+			DisplayName: Rajah Rabbit
+			Tooltip: ""
+			Lore:
+				'''
+				A noble warrior, Rajah is a worthy rival.
+				During my conquest, he challenged me for the same reason he sought you; I honored his invitation and bested him in a duel.
+				He survived through sheer grit, challenging me once more, and we came to see eye-to-eye.
+				We were not so different, avengers of the unjustly fallen. Our bond grew stronger, and our blades locked many more times.
+				Draedon once claimed he was a spy, studying my movements to one day kill me, but he was wrong. He could never understand the mutual respect of two rivals.
+				Despite having drifted apart, I know him well: this was far from the full breadth of his might. Be thankful he was merciful, and hope he does not wield his full fury against you.
+				'''
+		}
+
+		ForsakenAnubisLore: {
+			DisplayName: Forsaken Judge, Anubis
+			Tooltip: ""
+			Lore:
+				'''
+				So Anubis elected to show you a glimpse of what he's truly capable of.
+				When he chose to stand against me, it was undoubtedly at his strongest.
+				Even then, I felt no fear. This was nothing compared to the power I witnessed when facing the Traitor Almighty.
+				You'll need to grow even stronger if you hope to be my match.
+				'''
+		}
+
+		OlympianAthenaLore: {
+			DisplayName: Olympian Athena
+			Tooltip: ""
+			Lore:
+				'''
+				I had thought it possible that Athena was holding back in your first bout.
+				So that is the true power of a Varian... Time has worn their kind sparse, yet they still have fight left in them.
+				I wonder, had they aided the Dragons in their final fight, could fate have spun a different tale...?
+				'''
+		}
+
+		WormKingGreedLore: {
+			DisplayName: Worm King Greed
+			Tooltip: ""
+			Lore:
+				'''
+				My speculation is proven correct...
+				There can be no doubt. That gilded worm is indeed the Devourer's kin.
+				But if that is true, then...
+				For how long has the Distortion's ilk been influencing these lands...?
+				'''
+		}
+
+		EquinoxWormsLore: {
+			DisplayName: The Equinox Worms
+			Tooltip: ""
+			Lore:
+				'''
+				Our world knows many worms of cosmic origin, with these two being no exception.
+				Through their benevolence, our world is gifted with Day and Night.
+				They are the stark opposite of the Gods. They dedicate themselves to our prosperity.
+				Legends even tell of them fighting alongside a hero to banish the forces of Chaos.
+				It is that hero who inspired me to take up my blade and begin my Crusade.
+				'''
+		}
+
+		SistersOfDiscordLore: {
+			DisplayName: The Sisters of Discord
+			Tooltip: ""
+			Lore:
+				'''
+				A rather irksome pair those two are.
+				I have no doubt the quiet one has been spying on the Crusade's operations for some time now.
+				Likewise, the mage has attacked my troops on multiple occasions. I've heard she wishes to face the Brimstone Witch one-on-one.
+				I doubt even as a team they would survive such an encounter.
+				'''
+		}
+
+		AkumaLore: {
+			DisplayName: Akuma
+			Tooltip: ""
+			Lore:
+				'''
+				The Draconian Demon...
+				Any attempts by my forces to push into the Inferno were swiftly repelled by his flames.
+				It was he who was responsible for the Infero: birthed from his flames, razing the civilization that once called the region their home.
+				Beware, your victory here is only temporary. Akuma's furious spirit endures even now.
+				And I fear their true power still slumbers... Waiting to be awakened.
+				'''
+		}
+
+		YamataLore: {
+			DisplayName: Yamata
+			Tooltip: ""
+			Lore:
+				'''
+				The Dread Nightmare...
+				My forces dared not step into the Mire, his vile toxins snuffed out any who did.
+				It was he who was responsible for the Mire: birthed from his toxins, choking out the civilization that once called the region their home.
+				Beware, your victory here is only temporary. Yamata's wrathful soul yet persists.
+				And I fear their true power still slumbers... Waiting to be awakened.
+				'''
+		}
+
+		ZeroLore: {
+			DisplayName: Zero
+			Tooltip: ""
+			Lore:
+				'''
+				The Doomsday Construct...
+				Draedon had long been fascinated by this unit. Its shields repelled each of his attempts to break them.
+				It seems only you were capable of activating it.
+				Be wary.
+				That distress signal, if Draedon's research on that anomaly is to be believed...
+				You've invited disaster onto our doorstep.
+				'''
+		}
+
+		ChampionRajahRabbitLore: {
+			DisplayName: The Champion of the Innocent
+			Tooltip: ""
+			Lore:
+				'''
+				I had thought Rajah's time as Champion of the Innocent would far outlast me, yet I was mistaken.
+				Now, you bear his title, and he retires to the wayside just as I have.
+				To best him at his fullest strength is no small feat; you may just be ready to face even me.
+				Emerge victorious in your coming battles, and that time shall soon be at hand.
+				'''
+		}
+
+		ShenDoragonLore: {
+			DisplayName: Shen Doragon
+			Tooltip: ""
+			Lore:
+				'''
+				To think, Akuma and Yamata were but two halves of a single being...
+				Even still, I can't help but doubt that was all it was capable of.
+				In ancient tales, I've heard the story of a hero who did battle against Discord Incarnate.
+				Yet that tale did not describe a dragon, but a man instead... How curious...
+				'''
+		}
+
+		InfinityZeroLore: {
+			DisplayName: Infinity Zero
+			Tooltip: ""
+			Lore:
+				'''
+				Knowledge of the Infinity Slayer was as far as Draedon's research into the anomaly reached.
+				To think it was that powerful, and it was no more than a shell for an even greater threat.
+				Oblivion... I fear I have heard that name once before, in ancient scripts describing our universe's creation.
+				Four Titans of immeasurable power...
+				Could this be the incarnation of Entropy they spoke of...?
+				'''
+		}
+
+		SoulOfCthulhuLore: {
+			DisplayName: Soul Of Cthulhu
+			Tooltip: ""
+			Lore:
+				'''
+				The downfall of the dragons... Could it be that there was not just one aberrant behemoth, but two...?
+				If that eldritch spirit is to be believed, then that must indeed have been the case, but why would this one's tale be kept from me...?
+				In my studies of the Dragons' language, I learned 'Cthulhu' to mean 'Great Beast'.
+				Perhaps it was this twin that such a moniker was inspired by...
+				'''
+		}
+	}
+}
+
+InfinityGauntlet: {
+	DisplayName: Infinity Gauntlet
+	Tooltip: ""
+}
+
+TimeStone: {
+	DisplayName: Time Stone
+	Tooltip: ""
+}
+
+GoblinTinkererDoll: {
+	DisplayName: Goblin Tinkerer Doll
+	Tooltip: ""
+}

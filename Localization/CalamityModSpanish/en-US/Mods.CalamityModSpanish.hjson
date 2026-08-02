@@ -124,6 +124,26 @@ Configs: {
 				'''
 		}
 
+		SplitLocalization: {
+			Label: Split Mod
+			Tooltip: Activa/Desactiva la traducción de Split Mod.
+		}
+
+		SpiritModLocalization: {
+			Label: Spirit Mod
+			Tooltip: Activa/Desactiva la traducción de Spirit Mod.
+		}
+
+		AncientsAwakenedLocalization: {
+			Label: Ancients Awakened
+			Tooltip: Activa/Desactiva la traducción de Ancients Awakened.
+		}
+
+		AncientsAwakenedClassicLocalization: {
+			Label: Ancients Awakened: Classic
+			Tooltip: Activa/Desactiva la traducción de Ancients Awakened: Classic.
+		}
+
 		CalamityModMusicLocalization: {
 			Label: Calamity Mod Music
 			Tooltip: Activa/Desactiva la traducción de Calamity Mod Music.
@@ -247,18 +267,41 @@ Configs: {
 		}
 
 		AmuletOfManyMinionsLocalization: {
-			Label: The Amulet Of Many Minions
+			Label: The Amulet Of Many Minions: Combat Pets!
 			Tooltip: Activa/Desactiva la traducción de The Amulet Of Many Minions.
 		}
 
-		SplitLocalization: {
-			Label: Split Mod
-			Tooltip: Activa/Desactiva la traducción de Split Mod.
+		MunchiesLocalization: {
+			Label: Munchies - Consumables Checklist
+			Tooltip: Activa/Desactiva la traducción de Munchies - Consumables Checklist.
 		}
 
-		SpiritModLocalization: {
-			Label: Spirit Mod
-			Tooltip: Activa/Desactiva la traducción de Spirit Mod.
+		MunchiesCalamityAddonLocalization: {
+			Label: Munchies - Calamity Addon
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Munchies - Calamity Addon.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de Munchies ni Calamity Mod si tienes esta opción activada, ya que este mod requiere de ambos.
+				'''
+		}
+
+		MunchiesAuricSoulsAddonLocalization: {
+			Label: Munchies Crossmod Addon
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Munchies Crossmod Addon.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de:
+				- Munchies
+				- Calamity Mod
+				- Calamity: Hunt of the Old God
+				- Calamity: Wrath of the Gods
+				- Ragnarok Mod
+				- Infernal Eclipse of Ragnarok
+				- Secrets of the Shadows
+				- Fargo's Souls Mod
+				- Quality of Terraria
+				...si tienes esta opción activada, ya que Munchies Crossmod Addon modifica contenido de todos ellos.
+				'''
 		}
 
 		ShowStartUpCollabMessage: {

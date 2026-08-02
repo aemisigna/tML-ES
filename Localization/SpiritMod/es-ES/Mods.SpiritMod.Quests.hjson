@@ -136,8 +136,8 @@ QuestInfo: {
 	BreakingAndEntering: {
 		Name: Allanamiento de Morada
 		Description: Un par de mis amigos exploradores vieron algo preocupante cerca de las costas lejanas del mundo. Alcanzaron a ver a una mujer atada allá arriba. ¿Te importaría ir hasta allá y revisar? ¡Quizás necesite que la rescaten! Si no te sientes muy altruista, ¡seguro también hay mucho botín para llevarse!
-		Dialogue: Debe ser mi día de suerte para ver una cara amistosa por aquí! Estos trasgos no se tomaron muy bien que les ofreciera, eh, un trato amañado. En fin, ¿tienes un lugar donde quedarte? Juguémoslo a cara o cruz.
-		Objective: Encuentra la Torre Arcana Trasgo y rescata a la prisionera.
+		Dialogue: Debe ser mi día de suerte para ver una cara amistosa por aquí! Estos duendes no se tomaron muy bien que les ofreciera, eh, un trato amañado. En fin, ¿tienes un lugar donde quedarte? Juguémoslo a cara o cruz.
+		Objective: Encuentra la Torre Arcana Duende y rescata a la prisionera.
 	}
 
 	CritterCaptureBlossmoon: {

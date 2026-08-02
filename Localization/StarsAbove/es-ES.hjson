@@ -6466,7 +6466,7 @@
 					DislikeBiome: Como un hada, pensarías que preferiría {BiomeName}. Déjame ser claro: no lo hago. Intenta mirar por un telescopio mientras te pisotea un unicornio.
 					HateBiome: ¿En serio? ¿{BiomeName}? Debes tener algunos rencores contra mí... Siéntete libre de compartirlos.
 					LoveNPC: No hay vuelta que darle: {NPCName} es mucho mejor en artes mágicas que yo. Me encantaría aprender bajo su tutoría.
-					LikeNPC: Un colega científico en {NPCName} proporciona un discurso valioso.
+					LikeNPC: Un amigo científico en {NPCName} proporciona un discurso valioso.
 					DislikeNPC: No es que odie a {NPCName}... sin embargo, no podríamos ser más diferentes en nuestros gustos.
 					HateNPC: Brusco, ignorante e inculto. {NPCName} es la esencia destilada del individuo que nunca quiero volver a ver.
 					LikeNPC_Princess: ¿{NPCName} es una princesa? Podría ser pertinente construir una buena relación; sus arcas podrían permitirse instrumentos más fuertes.

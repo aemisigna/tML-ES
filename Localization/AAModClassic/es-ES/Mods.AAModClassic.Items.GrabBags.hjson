@@ -1,0 +1,428 @@
+TreasureBags: {
+	ShenDoragonTreasureBag: {
+		DisplayName: Depósito de Tesoro (Shen Doragon)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	AnubisTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Anubis)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	AnubisATreasureBag: {
+		DisplayName: Bolsa de Tesoro (Anubis el Juez Abandonado)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	BroodmotherTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Madre Reproductora)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	AkumaTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Akuma)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	HydraTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Hidra)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	YamataTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Yamata)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	ZeroTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Zero)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	OrthrusXTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Orthrus X)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	RaiderUltimaTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Asaltante Supremo)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	RetrieverTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Recuperador)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TechnoTruffleTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Trufa Tecnológica)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	InfinityZeroTreasureBag: {
+		DisplayName: Depósito de Tesoro (Zero Infinito)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	AthenaTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Atenea)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	AthenaATreasureBag: {
+		DisplayName: Bolsa de Tesoro (Atenea Olímpica)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	RajahRabbitTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Conejo Rajá)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	RajahRabbitATreasureBag: {
+		DisplayName: Depósito de Tesoro (Campeón de los Inocentes)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	GripsOfChaosTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Garras del Caos)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	SistersOfDiscordTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Hermanas de la Discordia)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	DesertDjinnTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Genio del Desierto)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	FeudalFungusTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Hongo Feudal)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TruffleToadTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Sapo Trufa)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	GreedTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Avaricia)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	GreedATreasureBag: {
+		DisplayName: Bolsa de Tesoro (Avaricia Rey Gusano)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	MushroomMonarchTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Monarca Champiñón)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	SubzeroSerpentTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Serpiente Subgélida)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	EquinoxWormsTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Gusanos del Equinoccio)
+		Tooltip:
+			'''
+			{$CommonItemTooltip.RightClickToOpen}
+			El botín contenido depende de la hora del día
+			'''
+	}
+
+	SagittariusTreasureBag: {
+		DisplayName: Bolsa de Tesoro (Sagitario)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	SoulOfCthulhuTreasureBag: {
+		DisplayName: Depósito de Tesoro (Alma de Cthulhu)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+}
+
+Vanity: {
+	AnarchyBag: {
+		DisplayName: Bolsa Prístina
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a Anarchy. En serio, es solo Anarchy.'
+			Para el registro, Anarchy lo dibujó él mismo.
+			'''
+	}
+
+	ApawnBag: {
+		DisplayName: Huevo Sorpresa
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Es un huevo de plástico. Un MUUUUUUY grande.!'
+			'''
+	}
+
+	AvesBag: {
+		DisplayName: Bolsa del Pato DJ
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Pato Monocromático.'
+			'''
+	}
+
+	BegBag: {
+		DisplayName: Bolsa del Caballo Raro
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a ese chico caballo raro.'
+			'''
+	}
+
+	BigEBag: {
+		DisplayName: Bolsa de la Letra Grande
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a una Letra Grande.'
+			'''
+	}
+
+	BlazenBag: {
+		DisplayName: Bolsa del Señor Trueno
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Señor Trueno.'
+			'''
+	}
+
+	CCBag: {
+		DisplayName: Caja de Cartón del Maníaco del Cenagal
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Devoto del Miedo.'
+			'''
+	}
+
+	CerberusBag: {
+		DisplayName: Perrera del Pequeño Cerbero
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Invocador de Cachorros.'
+			'''
+	}
+
+	CharlieBag: {
+		DisplayName: Bolsa de la Parca
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Amo de lo Siniestro.'
+			'''
+	}
+
+	DellyBag: {
+		DisplayName: Bolsa de la Hija del Vacío
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a la Señora del Vacío.'
+			'''
+	}
+
+	FargoBag: {
+		DisplayName: Sombrero de Copa Ardilla
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a la Ardilla del Meme.'
+			'''
+	}
+
+	FazerBag: {
+		DisplayName: Bolsa Mojada de Pelaje
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Zorro Amante de la Diversión.'
+			'''
+	}
+
+	GibsBag: {
+		DisplayName: Sarcófago del Espectro Furioso
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Espectro Desenfrenado.'
+			'''
+	}
+
+	GroxBag: {
+		DisplayName: Cofre del Mar de Grovita
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Pirata de Código Furioso.'
+			'''
+	}
+
+	HallamBag: {
+		DisplayName: Sombrero de Copa del Mago
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Gato Loco.'
+			'''
+	}
+
+	MaskanoBag: {
+		DisplayName: Bolsa de Máscaras
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Señor de las Máscaras.'
+			'''
+	}
+
+	MikpinBag: {
+		DisplayName: Bolsa del Kitsune
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Zorro Otaku.'
+			'''
+	}
+
+	MoonBag: {
+		DisplayName: Bolsa del Insecto Lunar
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar a la Abeja Lunar.'
+			'''
+	}
+
+	PlutoBag: {
+		DisplayName: Bolsa del Dios Externo
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Dios Enano.'
+			'''
+	}
+
+	ShoxBag: {
+		DisplayName: Bolsa de Choque Cargada
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Señor del Rayo.'
+			'''
+	}
+
+	TailsBag: {
+		DisplayName: Caja de Herramientas de Tails
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Zorro Maravilla.'
+			'''
+	}
+
+	TiedBag: {
+		DisplayName: Sombrero de Copa del Viejo Mago
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Hombre Esqueleto Elegante.'
+			'''
+	}
+
+	VoidEyeBag: {
+		DisplayName: Puerta del Vacío
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Vigilante Oscuro.'
+			'''
+	}
+
+	DallinBag: {
+		DisplayName: Bolsa del Señor del Fez
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Señor del Fez.'
+			'''
+	}
+
+	FuryWitchsBag: {
+		DisplayName: Morral de Ashe
+		Tooltip:
+			'''
+			Clic derecho para abrir
+			Contiene un conjunto de túnicas de Bruja de la Furia
+			'''
+	}
+
+	MidnightAssassinBag: {
+		DisplayName: Cofre Cerrado de Haruka
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			Contiene un conjunto de ropa de Asesina de Medianoche
+			'''
+	}
+
+	PlanterrorBag: {
+		DisplayName: Bolsa del Terror Plantas
+		Tooltip:
+			'''
+			"{$CommonItemTooltip.RightClickToOpen}"
+			'Lo esencial para impersonar al Terror Plantas.'
+			'''
+	}
+}
+
+Crates: {
+	InfernoCrate: {
+		DisplayName: Cofre del Infierno
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	DaybreakCrate: {
+		DisplayName: Cofre del Amanecer
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	MireCrate: {
+		DisplayName: Cofre del Cenagal
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	EventideCrate: {
+		DisplayName: Cofre del Atardecer
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	VoidCrate: {
+		DisplayName: Cofre del Vacío
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	NullCrate: {
+		DisplayName: Cofre Nulo
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+}

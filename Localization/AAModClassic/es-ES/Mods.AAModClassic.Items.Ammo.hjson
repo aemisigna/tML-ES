@@ -1,0 +1,121 @@
+EnergyCell: {
+	DisplayName: Celda de energía
+	Tooltip: ""
+}
+
+ReaperArrow: {
+	DisplayName: Flecha de la Parca
+	Tooltip: Esta flecha puede atravesar paredes
+}
+
+DragonArrow: {
+	DisplayName: Flecha de Dragón
+	Tooltip: Tiene un retroceso mayor que la mayoría de las flechas
+}
+
+DaybreakArrow: {
+	DisplayName: Flecha de Amanecer
+	Tooltip:
+		'''
+		Abrasa a su objetivo con el calor del sol abrasador
+		Inflige el efecto negativo Amanecer
+		No consumible
+		'''
+}
+
+EventideArrow: {
+	DisplayName: Flecha del Crepúsculo
+	Tooltip:
+		'''
+		Ciega a su objetivo con la oscuridad de la noche sin luna
+		Inflige el efecto negativo Devastación Lunar
+		No consumible
+		'''
+}
+
+TerraArrow: {
+	DisplayName: Flecha de Terra
+	Tooltip:
+		'''
+		Persigue a los enemigos
+		No consumible
+		'''
+}
+
+SingularityArrow: {
+	DisplayName: Flecha de Singularidad
+	Tooltip:
+		'''
+		Lo único más rápido que la luz es el vacío que la devora
+		No consumible
+		'''
+}
+
+UnstablePowerCell: {
+	DisplayName: Celda de energía inestable
+	Tooltip:
+		'''
+		Funciona como una bala
+		No consumible
+		'''
+}
+
+M79Round: {
+	DisplayName: Cartucho de M79
+	Tooltip: ""
+}
+
+ChaosArrow: {
+	DisplayName: Flecha del Caos
+	Tooltip: Inflige un efecto negativo aleatorio al golpear
+}
+
+DragonfireArrow: {
+	DisplayName: Flecha de Fuego de Dragón
+	Tooltip: Inflige el efecto negativo Fuego de Dragón al golpear
+}
+
+DragonfireBullet: {
+	DisplayName: Bala de Fuego de Dragón
+	Tooltip: ""
+}
+
+DragonfireDart: {
+	DisplayName: Dardo de Fuego de Dragón
+	Tooltip: ""
+}
+
+DaybreakBullet: {
+	DisplayName: Bala de Amanecer
+	Tooltip: ""
+}
+
+HydratoxinArrow: {
+	DisplayName: Flecha de Hidratoxina
+	Tooltip: Inflige el efecto negativo Hidratoxina al golpear
+}
+
+HydratoxinBullet: {
+	DisplayName: Bala de Hidratoxina
+	Tooltip: ""
+}
+
+HydratoxinDart: {
+	DisplayName: Dardo de Hidratoxina
+	Tooltip: ""
+}
+
+EventideBullet: {
+	DisplayName: Bala del Crepúsculo
+	Tooltip: ""
+}
+
+DarkmatterArrow: {
+	DisplayName: Flecha de materia oscura
+	Tooltip: ""
+}
+
+RadiumArrow: {
+	DisplayName: Flecha de radio
+	Tooltip: ""
+}

@@ -1,0 +1,440 @@
+LargeLetter: {
+	DisplayName: Carta Grande
+
+	TownNPCMood: {
+		Content: Podrías decir que las cosas han estado yendo... suave-E...
+		NoHome: Oye, necesito tu ayuda, amigo. Perdí todos mis ahorros. Estoy en la calle. Necesito tu ayuda, amigo.
+		FarFromHome: Oye, ¿dónde demonios estoy? ¿Cómo llegué aquí? ¿Dónde está mi casa?
+		LoveSpace: Ah, la paz y la tranquilidad realmente son agradables...
+		DislikeCrowded: ¿Se está llenando esto o solo me lo parece?
+		HateCrowded: Quién demonios son todas estas personas, amigo.
+		LikeNPC_Princess: Según mi contrato de vivienda, legalmente tengo que estar contento de estar cerca de {NPCName}. Ella está bien, supongo.
+		Princess_LovesNPC: "{NPCName} es todo un 'personaje'. ¡Tiene una colección bastante especial!"
+		LikeNPC: "{NPCName} es uno de mis amigos. Somos un poco diferentes del resto."
+		HateNPC: Oye. ¿No es {NPCName} ese tipo, como, súper racista? ¿Quién lo invitó? Dijo que quería 'matar a todos los duendes'. Eso es enfermizo, amigo.
+	}
+
+	Census.SpawnCondition: En Modo Experto
+	Button1: Tienda de Vanidad
+	Button2: Tienda de Armas
+	Chat1: Espero que no te importe que ande por aquí. Tuve que lidiar con MUCHO código deficiente para llegar aquí. Podría usar un descanso.
+	Chat2:
+		'''
+		¿Un dato divertido? Pues bien, nunca conocí a mi padre. Dicen que desapareció hace mucho tiempo. Él es un verdadero...
+		Sr. E.
+		'''
+	Chat3: ¿Buscas un pez? No tengo ni idea de quién hablas, amigo.
+	Chat4: ¡Mira! ¡Soy Big E! Siempre he estado aquí, ¡y siempre estaré!
+}
+
+Legendscribe: {
+	Census.SpawnCondition: Siempre Disponible
+	DisplayName: Legendscribe
+
+	TownNPCMood: {
+		Content: Estoy tan tranquilo como un pepino.
+		NoHome: Hombre, después de vagar por el desierto durante tanto tiempo... Una casa sería un cambio agradable.
+		FarFromHome: Estoy poniendo carteles de perro perdido... ¡Son para mí!
+		LoveSpace: Es agradable poder relajarse y descansar con todo este espacio.
+		DislikeCrowded: Es un poco ruidoso aquí. Solo quiero leer este libro realmente bueno.
+		HateCrowded: ¡Es muy estrecho! ¡Básicamente me tienes viviendo en una perrera!
+		LikeNPC_Princess: El corazón de {NPCName} es ciertamente más ligero que una pluma.
+		Princess_LovesNPC: ¡{NPCName} tiene tantas historias que compartir!
+		LoveBiome: ¡Ah, nada como el sol del desierto para ayudarse a broncear!
+		HateBiome: ¡E-e-estoy c-c-congelado! ¡Llévame a algún l-l-lugar cálido, por favor!
+		LikeNPC: "{NPCName} me ha estado ayudando a limpiarme las pulgas."
+		DislikeNPC: Este tipo {NPCName} no deja de jugar golf en mi desierto.
+	}
+
+	AnubisName: Legendscribe
+	SetChatButtons1: Cambiar Información
+	SetChatButtons2: ¿Qué Hago Ahora?
+	SetChatButtons3: Hongos. Es en serio.
+	SetChatButtons4: Más Hongos.
+	SetChatButtons5: Aguanta
+	SetChatButtons6: Dragón sin Valor
+	SetChatButtons7: Fenómeno de Tres Cabezas
+	SetChatButtons8: 3 Deseos
+	SetChatButtons9: Frío como el Hielo
+	SetChatButtons10: ¡Atrapado!
+	SetChatButtons11: Masa Mecánica
+	SetChatButtons12: Dos cabezas; cero cerebro
+	SetChatButtons13: Más jefes gusano, maldita sea.
+	SetChatButtons14: Antiguo del Juicio
+	SetChatButtons15: Gemelos Terribles
+	SetChatButtons16: Antiguo de la Furia
+	SetChatButtons17: Antiguo de la Ira
+	SetChatButtons18: Antiguo de la Perdición
+	SetChatButtons19: Profeta de la Discordia
+	SetChatButtons20: Los Guardianes de Piedra
+	SetChatButtons21: Dolor de Cabeza Chillón
+	SetChatButtons22: Qué Gusano
+	SetChatButtons23: Gamberro Saltarín
+	SetChatButtons24: Las Arpías Desgraciadas Vuelven
+	SetChatButtons25: Riquezas y Descansa en Paz
+	SetChatButtons26: Ira del Conejo Maldito
+	SetChatButtons27: Exijo una revancha.
+	GetBookChat:
+		'''
+		¡Lo tienes! ¡Mi copia de edición limitada de mi estimada biografía! Gracias, amigo. ¿Sabes qué? Como regalo, puedes quedártela. Aquí, incluso te la autografo.
+		...Ups, accidentalmente usé mi pluma rúnica para firmarlo. Bueno, ahora es magia.
+		'''
+	GetSummonItemChat: Oye, gracias por volver. Quiero probar tu fuerza. Después de que destrozaste a esos cabezas de metal mecánicas, estoy interesado en ver cómo te desenvuelves contra alguien como yo. Aquí, toma este cetro y úsalo en el desierto en la superficie cuando estés listo. Estoy listo cuando sea.
+	GetSummonItemChat2: Toma esto. Es un artefacto antiguo que te será útil pronto. Debería dirigirte hacia un...lugar especial para la gente de este mundo. Lee las placas allí. Te dirán qué hacer. Tenemos trabajo que hacer si queremos eliminar algunos de los grandes males del mundo.
+	CombatTextChat: Me dirijo a casa. Paz.
+	downedMonarchY: ...¿eso fue todo?
+	downedMonarchN: Oye, ¿sabes todos estos pequeños hongos rojos que crecen por todas partes? He oído que si aplastas un montón juntos y los agitas, su rey o algo vendrá e intentará atropellarte. Tengo que ver eso.
+	downedFungusY: Buen trabajo. Ahora sé honesto, ¿qué tan drogado estás ahora?
+	downedFungusN: Las cuevas de hongos brillantes siempre me hacen sentir raro por alguna razón. De todas formas, ¿quieres mejores habilidades mágicas? Hay un gran monstruo de hongo que tiene excelentes habilidades mágicas infundidas en él. Solo cúbrete la nariz mientras estés allá abajo.
+	downedGripsY: Buen trabajo al derribar esas manos gigantes. Tal vez los pequeños finalmente me dejen en paz de una vez por todas.
+	downedGripsN: Esas garras voladoras por la noche son una pesadilla para tratar, y me asustan. En mis viajes, he encontrado dos REALMENTE gigantes. Tal vez si las matas, los pequeños se irán. Tal vez matando algunos de ellos y demostrando que tienes de alguna manera los llamará.
+	downedBroodY: Ese era el dragón más gordo que he visto en mi vida.
+	downedBroodN: ¿Te gustan los dragones? ¿No? Lástima. ¿Quieres equipo mejor? Tienes que ir a matar este ENORME dragón hecho de lava. Es grande, aterrador, y MUUUUCHO demasiado gordo para volar, pero lo hace de todas formas.
+	downedHydraY: Buen viaje. Esa hidra no puede dejar de insistir. Al menos su hija es un poco más tranquila... ¿eh? ¿Quién? Te lo explicaré después, buen trabajo.
+	downedHydraN: El Cenagal siempre ha sido un lugar de reunión para todos los lagartos más desagradables, pero hay uno realmente grande allí, y tiene 3 cabezas. Es realmente gruñona todo el tiempo, y cada vez que intento entrar en su guarida, ¡intenta COMERME!
+	downedDjinnY: ¡Ja! ¿Quién es duro ahora, saco de tristeza arenoso?
+	downedDjinnN: ESE HIJO DE UN-- Oh hola. Disculpa, solo estaba un poco furioso por una pequeña pelea que tuve con genios del desierto. Ese cabezota mágico y sus matones dejan de flexionar los músculos contra mí. ¿Podrías ir y enseñarles una que otra cosa?
+	downedSerpentY: ¡Espero que no hayas sufrido ningún 'CONGELAMIENTO'! *tum-tum* ...sí, sé que eso fue aburrido.
+	downedSerpentN: Serpientes, ¿por qué siempre tiene que ser serpientes? ¡Las odio! De todas formas, en la tundra recientemente, ha habido estas serpientes de nieve que no me dejan en paz. ¿Podrías hacer de fumigador y descubrir qué están haciendo?
+	downedRetrieverY: ¿No conseguiste mi 3ª edición de 'La Vida y Aventuras Épicas de Anubis el Perro Maravilla' por casualidad?
+	downedRetrieverN: ¿Recuerdas los Agarres del Caos? ¿Esas manos agarradoras desagradables? Hay uno robótico y sigue robando mis cosas. ¿Podrías hacerme un favor e irle a lanzar una llave o algo?
+	downedRaiderY: ¿Así que era un robot gigante después de todo? Bueno, a veces la gente simplemente piensa demasiado en el problema. Esa cosa era casi tan gorda como la Madre Dragón.
+	downedRaiderN: La gente dijo que vieron una sombra extraña en una de las noches. Era tan grande que incluso cerró la luna por un momento. Deberías descubrir este misterio y hacer algo al respecto.
+	downedOrthrusY: Supongo que orto es lo que come ahora.
+	downedOrthrusN: ¿Recuerdas la Hidra? Hay una más grande allá afuera. Y es un robot. Y uh... lanza relámpagos. Así que uh... ¡buena suerte!
+	downedEquinoxY: Buen trabajo al sacar los gusanos del Equinoxio. Pude decirlo porque es como una semana después ahora. Espero no haber perdido mi cita con la enfermera...
+	downedEquinoxN: ¿Te gustan los gusanos? Tampoco a mí, pero ¿adivina qué? Hay 2 grandes que controlan el flujo del día y la noche, y son bichos duros. Buena suerte.
+	AnubisScapterLost: ¿PERDISTE el cetro? ¡No puedo andar repartiendo estas cosas como si fuera caramelo! De todas formas, aquí hay otro.
+	downedAnubisBY: Podrías haber sido un poco más considerado conmigo, ¿sabes? Mi espalda todavía duele por eso.
+	downedAnubisBN: Escuché que hay este tipo guardián del lore que es realmente musculoso y apuesto, y a todas las chicas les encanta por sus increíbles habilidades de juicio de almas. Qué tipo.
+	downedAthenaY: Gracias al Equinoxio, ¡callaste a esos pequeños chilladores molestos! Estaba a punto de asar uno de ellos en un asador y tener pollo frito para cena si gritaban una vez más.
+	downedAthenaN: ¿Sabes esas arpías chillando en el cielo? Bueno, hay unas REALMENTE molestas llamadas serafines que simplemente NO PUEDEN CALLARSE. ¡¡¡Tienen una líder en ese palacio del cielo al este! Tal vez si le das lo tuyo, se callen la boca.
+	downedGreedYBookY: Oye, gracias por recuperar mi libro. Greed lo robó hace un tiempo, probablemente por los acentos dorados que usé para encuadernarlo. Mira alrededor de esa cueva, tal vez haya otras cosas que robó.
+	downedGreedYBookN: Oye uh... ¿ya encontraste mi cosa? ¿No? Solo remueve ese montón de botín allá abajo, estoy seguro de que está en algún lugar.
+	downedGreedN: Oye uh, hay un ENORME tesoro de oro subterráneo en algún lugar con mucho oro, pero es custodiado por un gusano realmente avaro. Deberías ir a verlo para un montón de botín, pero uh... hay algo mío allá abajo. ¿Podrías ir a buscarlo? No te preocupes, cuando lo veas, sabrás que es mío.
+	downedRajahY: ¿Derrotaste a Rajá? Pft, seguro, lo he visto aplastar supuestos dioses antes, no hay forma de que lo hayas vencido.
+	downedRajahN: Oye, ¿sabes esos conejos que brincan todo el tiempo? Yo uh... No los acosaría si fuera tú. Hay una leyenda por aquí de una especie de 'Guardián' que protege del peligro. ¿Por qué es una leyenda? Porque aparentemente nadie ha luchado contra esta cosa y ha vivido. Bonita historia, ¿eh?
+	downedAnubisFAnubisY: Lo hiciste bien, amigo. Estoy bastante impresionado, aunque todavía estaba conteniéndome. ¿Eh? ¿Mi poder total? Como dije antes, hay cosas que deberían permanecer cerradas por tu propio bien.
+	downedAnubisFAnubisN: Quiero una revancha, {0}. No por mi orgullo. Necesito asegurarme de que estés listo para lo que viene. Encuéntrame en el desierto y pelea de nuevo. Y prepárate.
+
+	UnofficialInterim: {
+		Help: Lo siento, amigo, pero hasta que no demuestres tu valía venciéndome, no ofreceré más ayuda.
+		PreFight.Repeat: Me temo que esto es algo que no puede esperar. A menos que puedas demostrar que estás listo para lo que viene, no te ayudaré más.
+
+		PostLose: {
+			First: Mala suerte, amigo. Vas a necesitar más que eso si quieres enfrentar lo que se avecina. No te preocupes, estaré listo para otra revancha cuando quieras.
+
+			Repeat: {
+				FirstDeath: {
+					0: ¿Por qué no intentas pelear conmigo de nuevo? Tu única oportunidad de proceder es venciéndome.
+					1: No me digas que estás dispuesto a rendirte después de una pérdida. ¡Vamos, vamos por una segunda ronda!
+				}
+
+				MultipleDeaths: {
+					0: Tu tenacidad es fuerte, pero la tenacidad por sí sola no será suficiente para lo que viene. ¡Vamos, hagámoslo de nuevo!
+					1: Ese fue un buen intento, amigo. Sigue intentando. No dudo que me demostrarás tu valía.
+				}
+			}
+		}
+
+		PostVictory: ¡Ja! ¡Eso fue algo más! Sabía que lo tenías en ti. No dudo que estés listo para enfrentar lo que se avecina.
+	}
+
+	downedAthenaAY: ¿Eh? ¿Qué es un Variano, preguntas? Eso es algo que no he escuchado en años... hace tanto tiempo que apenas recuerdo el nombre. Aunque sí recuerdo algo sobre otro pateando por ahí en algún lugar...
+	downedAthenaAN: Oye, ¿esa bruja molesta te encontró? Lo siento por decirle dónde estabas, no dejaba de chillar en mi oído. De todas formas, parece que Atenea quiere una revancha. Mantente en guardia, amigo. Esto parece una trampa...
+	GreedACalamityMod: Sabes, viendo cómo te enfrentabas al Devorador de Dioses me recordó un poco a Greed... quiero decir, piénsalo. Ambos tienen capacidades de agujero de gusano y ambos se adaptan a lo que comen. ¿Podrían ser posiblemente...? Nah, eso sería ridículo... ¿o...?
+	downedGreedAY: Así que SÍ estaba ocultando su verdadero poder todo este tiempo. Me pregunto por qué... ¿podría estar escondiéndose de algo, tal vez?
+	downedGreedAN: Sabes, parece que recuerdo una historia sobre el viejo ladrón. Cuando apareció por primera vez en estos lugares, era mucho más fuerte de lo que era cuando te patió el trasero. ¿Tal vez se debilitó con el tiempo? ¿O tal vez...? Nah, eso no podría ser.
+	downedSistersY: Bien, ¡enseñaste a esos dos mocosos malcriados una lección! ¡Esos dos no lo vieron venir!
+	downedSistersN: ¿Recuerdas al viejo Brood e Hydra? Bueno, esos dos tienen hijas. ¡Y HOMBRE, son molestas! ¡Cada vez que voy a los biomas del caos, esos dos están esperando para arruinar mi día! ¿Puedes irles a dar lo tuyo?
+	downedAkumaY: Akuma cree que es edgy. Para mí, simplemente parece que está intentando ser demasiado genial y fallando. De todas formas, querrías pasarte agua en el pelo. Te quemaste un poco.
+	downedAkumaN: ¿Por qué alguien llamaría demonio a una serpiente del sol? No tengo idea personalmente... pero Akuma tiene que irse. Siempre cubre mis desiertos con su aliento de fuego y eso me irrita.
+	downedYamataY: Gracias por callara esa princesa de siete cabezas. Me quita las ganas de arrancarme el pelaje.
+	downedYamataN: ¡Yamata, el pequeño quejoso! ¡Se queja de todo, y NO PUEDE CALLARSE! COMO SERIAMENTE, TÚ intenta lidiar con siete cabezas de dragón desagradablemente ruidosas que charlan constantemente y hablan una sobre la otra.
+	downedZeroY: ...Seré honesto. No me gustó nada lo que esa cosa dijo después de morir.
+	downedZeroN: ¿Sabes el Vacío? ¿Esas islas flotantes espeluznantes al este? Hay una ENORME máquina aterradora que solo está flotando allí. De todas formas, después de que golpeaste al Señor de la Luna, escuché una onda expansiva masiva desde el Vacío. ¿Podrías verificarlo por mí?
+	downedShenY: ¡Santo-- ¡Sabía que lo tenías, amigo! ¡Trabajo impresionante! Aunque... parecía bastante furioso cuando lo venciste... casi tan furioso como cuando fue vencido por-- eh, olvídalo.
+	downedShenN: Akuma y Yamata... sabes, esos dos fueron una vez un solo ser. Y vaya, ese tipo era poderoso. Destruyó 2 civilizaciones una vez. De todas formas, ¿entonces qué era lo que necesitabas?
+	downedRajahCY: ¿Así que el viejo Rajá finalmente decidió colgar el cetro? Parece que pensó que eras la opción correcta para proteger a los necesitados. Haría lo que dice. Es lo correcto, en mi opinión.
+	downedRajahCN: Esos conejos han estado bastante alterados últimamente. Algo no está bien. Solo lo siento...
+	Stones: Sabes... después de que venciste al viejo Shen, sentí que se activaba magia muy antigua. ¿Tal vez deberías visitara algunos de los jefes más difíciles que has enfrentado? Por cierto, ¿has visto al Invocador de Duendes recientemente? Caray, se volvió duro. Me pregunto cuál es su asunto.
+	else: ¿No sé? Pregúntame sobre cualquier criatura fuerte que puedas luchar actualmente.
+	AkumaGuideChat: Si fuera tú, me mantendría fuera del Cenagal durante el día. Se vuelve muy nebuloso y no puedes ver nada en ese lugar. Creo que puedes hacer una linterna con garras de fuego si me acuerdo correctamente para ayudarte a ver a través de ella...
+	YamataGuideChat: El Volcán en el Infierno se vuelve bastante activo por la noche por alguna razón. Durante el día, parece calmarse. ¿Podrías pasar si hicieras algún tipo de cubierta de esas garras de Hidra? Parece que no se ven afectadas por esa ceniza...
+	JungleGuideChat: Las criaturas en la jungla sueltan estas hojas realmente extrañas que he notado. Son duras como el acero, pero hacer equipo con ello podría ser una idea bastante interesante...
+	BroodMotherGuideChat: ¿Sabes esos huevos en el fondo del volcán del Infierno? Sí uh, no los tocaría si fuera tú, a menos que quieras tratar con un dragón muy enojado.
+	HydraGuideChat: Debajo del lago en el Cenagal hay algunas vainas de... algo. No quiero saber realmente qué come esa cosa de Hidra. Tampoco las rompería, ese lagarto se pone fierecilla cuando algo interfiere con su comida.
+	VoidGuideChat: Esas islas flotantes al este me asustan. Solo están... allí. Creo que hay algunas casas en ellas, pero no subiré allí.
+	HardModeGuideChat1: Oye, si vas a los biomas del caos subterráneo, creo que puedes conseguir almas como las que consigues en los biomas malvados. Esas deberían serle útiles.
+	HardModeGuideChat2: Oye, ¿sabes esos sapos en el Cenagal? He escuchado que acumulan toneladas de monedas. Solo ve y golpéalos hasta matarlos ¡y BAM! Dinero en efectivo.
+	PlantBossGuideChat: ¿Escuchaste esa música que venía del Terrario? Creo que hay algo nuevo allá abajo. Ve si puedes conseguir uno de esos prismas verdes que tienen. Creo que puedes hacer una nueva estación de elaboración loca con él.
+	EquinoxBossGuideChat: ¿Sabes esas esferas brillantes en el cielo? Si me acuerdo correctamente, cambian según la hora del día. ¿Tal vez puedas conseguir algo diferente de ellas si vas en diferentes puntos del día?
+	AnubisChatMask: Oye, te ves bien, guapo.
+	AnubisChat1: ¿No tendrías experiencia en acariciar vientres, verdad?
+	AnubisChat2: ¿Sabes esa sensación horrible de tener arena en tu traje de baño después de ir a la playa? Imagina tener eso todo el tiempo. Bienvenido a mi vida.
+	AnubisChat3: ¡Por enésima vez, NO SOY UN FURRY!
+	AnubisChat4: Oye, tengo una comezón realmente mala en la espalda. ¿Podrías ayudarme a rascarme?
+	AnubisChat5:
+		'''
+		No. No usaré un collar antipulgas.
+
+		*Rasguño Rasguño*
+		'''
+	AnubisChat6: Todos me preguntan quién es un buen chico, pero estoy molesto porque nunca me dicen quién es.
+	AnubisChat7: ¿Has visto mi cola? Necesito enseñarle una que otra cosa.
+	AnubisChat8: ¡El Genio del Desierto puede ser musculoso pero no tiene nada en mí! ¡Mira!
+	AnubisChat9: Gracias por dejarme quedarme aquí, por cierto. Caminar alrededor del desierto durante un par de miles de años realmente me agota.
+	AnubisChat10: Escribí la Historia de Terraria, sí. Pero también escribí otro libro excelente. ¡'La Vida y Aventuras Épicas de Anubis el Perro Maravilla'! ¿Quieres una copia?
+	AnubisChat11: "¿No odias cuando "
+	AnubisChat12: cosas carnudas rojas
+	AnubisChat13: cosas turbias púrpuras
+	AnubisChat14: " toman tu bioma? Es asqueroso."
+	AnubisChat15: ¿Qué criatura odio más? Oh, eso es fácil, King Slime. Si esa cosa cae sobre ti, buena suerte lavando la baba de tus ropas o pelaje sin un soplete.
+	AnubisChat16: "Vaya, intenté ligar con "
+	AnubisChat17: " hace poco y me golpeó el bajeezus. ¿Qué pasa con estas chicas y la luna de sangre?"
+	AnubisChat18: "Intenté ligar con "
+	AnubisChat19: " y fue totalmente educada conmigo. Eso es... extraño... especialmente durante una luna de sangre."
+	AnubisChat20: Oye, buen atuendo.
+	AnubisChat21: Oye, ¿te gusta mi sombrero de fiesta flotante? La magia es divertida.
+	AnubisChat22: La discoteca sigue siendo popular entre ustedes terrarianos, ¿verdad? Puedo hacer un buen baile.
+	AnubisChat23: "Oye uh... si alguien pregunta, "
+	AnubisChat24: " consiguió toda su información de mí, ¿acuerdo?"
+	AnubisChat25: "Ese "
+	AnubisChat26: " es bastante relajado. También conoce mucho sobre jefes... aunque espero que no me esté acosando."
+	AnubisChat27: "Creo que "
+	AnubisChat28: " no está siendo honesto sobre lo inteligente que es. Quiero decir, mira esa cara. Puro. Crudo. Genio."
+	AnubisChat29: " no deja de gritarme por comerme todos los zapatos que hace. No es mi culpa que los haga con cuero premium."
+	AnubisChat30: "No preguntes "
+	AnubisChat31: " de dónde consigue su mercancía. Es desagradable."
+	AnubisChat32: ...y entonces, lo da la vuelta, y resulta que este tipo se convirtió en, espera, un pepinillo. La cosa más graciosa que he visto. ¿Eh? ¿Con quién estoy hablando? No sé.
+	AnubisChatSOTSAnubisMask1: No.
+	AnubisChatSOTSAnubisMask2: Déjalo.
+	AnubisChatSOTSAnubisMask3: No me hables.
+	AnubisChatSOTSAnubisMask4: Aléjate de mí.
+}
+
+LegendscribeUnofficial: {
+	DisplayName: Legendscribe
+
+	TownNPCMood: {
+		Content: Estoy tan tranquilo como un pepino.
+		NoHome: Necesitaré una casa grande y bonita. ¿Crees que podrías conseguirme una con una bonita [c/FFFF00:Puerta Alta] por la que pueda pasar?
+		FarFromHome: Estoy poniendo carteles de perro perdido... ¡Son para mí!
+		LoveSpace: Es agradable poder relajarse y descansar con todo este espacio.
+		DislikeCrowded: Es un poco ruidoso aquí. Solo quiero leer este libro realmente bueno.
+		HateCrowded: ¡Es muy estrecho! ¡Básicamente me tienes viviendo en una perrera!
+		LikeNPC_Princess: El corazón de {NPCName} es ciertamente más ligero que una pluma.
+		Princess_LovesNPC: ¡{NPCName} tiene tantas historias que compartir!
+		LoveBiome: ¡Ah, nada como el sol del desierto para ayudarse a broncear!
+		HateBiome: ¡E-e-estoy c-c-congelado! ¡Llévame a algún l-l-lugar cálido, por favor!
+		LikeNPC: "{NPCName} me ha estado ayudando a limpiarme las pulgas."
+		DislikeNPC: Este tipo {NPCName} no deja de jugar golf en mi desierto.
+	}
+
+	Buttons: {
+		Help: Ayuda
+		Book: Encontré tu libro
+		Next: ¿Cuál es el siguiente?
+	}
+
+	Census.SpawnCondition: Necesita una casa con Puerta Alta
+}
+
+GoblinSlayer: {
+	DisplayName: Cazador de Duendes
+	Census.SpawnCondition: El Ejército de Duendes es Derrotado
+
+	TownNPCMood: {
+		Content: No siento duendes cercanos. Estoy en paz.
+		NoHome: No tener un lugar para guardar mis armas de cazador de duendes es difícil. ¿Puedes ayudar?
+		FarFromHome: He estado lejos de casa demasiado tiempo. ¡Podríamos haber sido atacados por duendes!
+		LoveSpace: Prefiero estar solo. Hace que sea más fácil detectar duendes.
+		DislikeCrowded: Algunos de estas personas... No les importan los duendes. Eso no puede tolerable.
+		HateCrowded: Hay duendes escondiéndose en esta multitud... ¡Lo sé!
+		LikeNPC_Princess: "{NPCName} no es un duende. Respeto eso."
+		Princess_LovesNPC: "{NPCName} puede ser racista, pero amo a todos en mi reino, así que supongo que está bien."
+		LikeBiome: No hay duendes a la vista en este bosque pacífico. Maravilloso.
+		DislikeBiome: He visto exploradores duendes merodeando por la costa. Necesitamos matarlos.
+		LikeNPC: "{NPCName} también es familiar con la caza de duendes. Muy bien."
+		HateNPC: NECESITO MATAR A ESE DUENDE.
+	}
+
+	GoblinSlayerName: Cazador de Duendes
+	GoblinSlayerChat1: "No confío en "
+	GoblinSlayerChat2: . Hay algo en él que no me gusta...
+	GoblinSlayerChat3: " me dice que de donde es, matan duendes mucho. Desearía visitar ese lugar alguna vez. Suena glorioso."
+	GoblinSlayerChat4: No me gustan los duendes.
+	GoblinSlayerChat5: ¿Has visto algún duende que pueda matar?
+	GoblinSlayerChat6: Los duendes son una plaga en la tierra.
+	GoblinSlayerChat7: ¿Encontraste algún buen nido de duendes para atacar?
+	GoblinSlayerChat8: ¿Por qué odio los duendes? Porque son duendes.
+	GoblinSlayerChat9: Oye, mientras estés fuera, ¿puedes matar algunos duendes para mí? Dame sus almas e intercambiaré por algo de mi equipo extra de caza de duendes.
+	GoblinSlayerChat10: Souka.
+	GoblinSlayerChat11: Hay otros ejércitos invadiendo esta tierra como esos duendes temidos. Afortunadamente, golpear el sentido común a esos pequeños enanos me ha preparado. Tráeme cosas especiales de ellos e intercambiaré por cosas que he recogido.
+}
+
+Lovecraftian: {
+	Census.SpawnCondition: Ojo de Cthulhu Derrotado
+	DisplayName: Lovecraftiano
+
+	TownNPCMood: {
+		Content: Me estoy adaptando a la vida en esta dimensión.
+		NoHome: Me gustaría un lugar donde pueda hacer mi investigación.
+		FarFromHome: Echo de menos mi investigación...
+		LoveSpace: Me alegra tener este lugar para mí solo. Mi investigación puede ser... peligrosa, para tu especie.
+		DislikeCrowded: Uf, es un poco difícil concentrarse con lo lleno que está.
+		HateCrowded: ¡Hay demasiadas personas aquí! ¡Me está impidiendo mi investigación!
+		LikeNPC_Princess: ¡{NPCName} es muy acogedora! ¡Incluso está dispuesta a ayudarme!
+		Princess_LovesNPC: ¡{NPCName} es tan curiosa sobre nosotros! Es encantador
+		LoveBiome: Me siento tan en casa aquí en el Océano. Es lo más cercano que tu dimensión llega a ser como la mía.
+		DislikeBiome: Uf, ¿crees que podría vivir en otro lugar? ¡Me estoy secando en este sol!
+		LikeNPC: "{NPCName} ha sido muy útil para aprender sobre tu dimensión."
+		DislikeNPC: No me cae bien {NPCName}. ¡Cada vez que le pregunto algo, siempre intenta cobrarme por su respuesta!
+	}
+
+	button1: Tienda
+	button2: Proporcionar Ingredientes
+	LovecraftianChat1: Sabes, de donde vengo, soy lo que tu mundo llamaría 'algo caliente'.
+	LovecraftianChat2: No fui la única que llegué aquí. Un montón de otras cosas pasaron conmigo cuando se abrió una grieta espacial en mi mundo. Cosas como el Ojo de Cthulhu y el Cerebro de Cthulhu ya estaban aquí. No tengo idea de dónde vinieron esos dos.
+	LovecraftianChat3: ...¿Qué estás mirando? Actúas como si nunca hubieras visto a una persona calamar antes.
+	LovecraftianChat4: Sí, soy mujer. ¿Qué pasa? ¿Es la barba de tentáculos la que te confundió?
+	LovecraftianChat5: Si tienes algo de sentido de autopreservación, evitaría ese navio hundido en el océano justo en la costa. Cosas aterradoras de mi zona merodeana allí, especialmente... olvídalo.
+	LovecraftianChat6: ¿Alguna vez encuentras cosas en tus tentáculos que no sabes cómo llegaron? ¿No? ¿Solo yo?
+	LovecraftianChat7: Oye, tu mundo es bastante interesante. ¿Podrías traerme muestras de diferentes biomas para que estudie? Si lo haces, puedo hacer algunas cosas geniales para comerciar contigo.
+	LovecraftianChat8: "Oh. Esto es incómodo. Pobre "
+	LovecraftianChat9: . Su barco fue el que fue destruido cuando caí de esa grieta.
+	LovecraftianChat10: "Ese "
+	LovecraftianChat11: " está hablando tonterías. Cthulhu probablemente lo aplastaría antes de que pudiera decir *ech*."
+	LovecraftianChat12: Ese tipo muerto tambaleándose me asusta, y eso dice mucho considerando que soy una historia de terror viviente. No sé, solo siento que sabe demasiado...
+	LovecraftianChat13: Dato divertido; El Señor de la Luna y Cthulhu son hermanos. Al menos eso es lo que me dijo una dama de hada rosada que conocí una vez.
+	PurityFlaskChat: ¡Oh! ¿Son esos fragmentos de pureza? ¡Perfecto! Aquí, toma esto. Puedes purificar la mayoría de los biomas con este frasco especial que hice.
+	AshJarChat: ¿Dragones, eh? He visto cosas más aterradoras. De todas formas, aquí hay un frasco nuevo. Ten cuidado, está caliente.
+	DarkwaterFlaskChat: ¿Qué es esto...? Es literalmente una bola de... algo. Voy a investigarlo. Aquí, frasco nuevo. Diviértete.
+	CorruptionFlaskChat: ¿Por qué estás asqueado? Hay cosas que huelen mucho peor que esto. Solo es carne en descomposición.
+	CrimsonFlaskChat: Hm... ¿huesos? He visto unos así antes. Similares a los de donde vengo.
+	HallowFlaskChat: ¿Qué es este material? Es... ¿reluciente? Cualquier cosa, lo investigaré un poco más. Aquí hay un frasco nuevo.
+	VoidFlaskChat: ¡Wow, esto es pesado! ¿Qué es esto? Nunca he visto este tipo de metal antes. Oh bien. Frasco nuevo. Aquí.
+	FungicideChat: Hmm... ¿esporas brillantes? Nunca he visto algo así aparte de hongos brillantes. Hablando de hongos, aquí, encontré una receta para un fungicida realmente bueno. Lo hice en un frasco.
+	SporeSacChat: ¿Qué es este material? Es tan suave... Lo haré funcionar, supongo. Oh, por cierto, (0) me mostró cómo hacer esporas de hongos. Siéntete libre de usarlas como veas conveniente.
+	SporeSacMushmanNameFallback: alguien con quien hablé antes
+	GlowingSporeSacChat: Hm, este material es bastante brillante. *Olfato* Vaya, eso quema mis fosas nasales. De todas formas, aquí, hice una versión brillante de las esporas de {0}.
+	GlowingSporeSacMushmanNameFallback: un tipo divertido
+	JungleFlaskChat: ¡Oh, muchas gracias! Estos aguijones servirán muy bien para algunas jeringas improvisadas. Aquí, he desarrollado una solución completamente nueva que convierte bosque en jungla. Ingenioso, ¿verdad?
+	IceFlaskChat: Ahora ESTO será útil. Gracias. Oye, hablando de hielo, mira esto. ¿Frascos de creación y eliminación de nieve? ¿Te gusta? ¡Dos por el precio de uno!
+	ForestFlaskChat: Desearía que tuviéramos estos de donde vengo. ¡Son adorables! Oh, pero tendrías cuidado con estos pequeños si fuera tú. La dríade me dijo que hay algún monstruo gigante que los protege... de todas formas, mientras estabas fuera, hice un frasco nuevo. Convierte la jungla en bosque. Ten cuidado con él.
+	SquidListChat: Aquí hay una lista de algunas cosas que necesito para mi investigación. Si la pierdes, estaré feliz de escribir una nueva para ti
+	NothingChat: Hmm... ¿nada? Necesito cosas para estudiar. Me gustaría algunos materiales importantes de biomas. Piezas de monstruos, plantas, etc.
+}
+
+Mushman: {
+	Census.SpawnCondition: Después de derrotar al Monarca de los Hongos, construye una casa en un bioma de hongos rojos
+	DisplayName: Mushman
+
+	TownNPCMood: {
+		Content: Solo soy un humilde hongo en el viento...
+		NoHome: Podría usar un lugar para crecer más de mis hongos especiales...
+		FarFromHome: ¡Oh no, mis hongos! ¿Están bien sin mí?
+		LoveSpace: ¡Ah, mis hongos tienen mucho espacio para crecer!
+		DislikeCrowded: Mis pobres hongos, se sienten bastante apretados.
+		HateCrowded: ¡ALGUIEN ha estado ROBANDO mis hongos! ¡Con toda esta gente aquí, no sé quién!
+		LikeNPC_Princess: ¡{NPCName} es una gran fan de hongos rojos como yo!
+		Princess_LovesNPC: ¡{NPCName} también es un tipo realmente divertido!
+		LoveBiome: ¡Ah, me encanta la vista de hongos rojos por la mañana!
+		HateBiome: Puaj, ¿¡HONGOS AZULES!? Esto apesta.
+		LikeNPC: Me gusta {NPCName}. ¡Ella realmente sabe cómo divertirse!
+		HateNPC: "{NPCName} es simplemente un aguafiestas."
+	}
+
+	button1: Tienda
+	button2: Plantas Extrañas
+	MushmanChat1: Esas trufas brillantes son simplemente tales aguafiestas.
+	MushmanChat2: " se ofreció a dejarme entrar en su bañera caliente una vez. Rechacé porque tenía cosas mejores que hacer"
+	MushmanChat3: El Monarca de los Hongos no es todo lo que parece, ¿sabes?
+	MushmanChat4: No preguntes de dónde consigo los hongos para mis pociones.
+	MushmanChat5: Tengo pociones, tienes dinero. ¿Quieres comerciar?
+	MushmanChat6: " me preguntó una vez si las trufas rojas sabían tan bien como las azules. Obviamente no. Las trufas azules son mucho más saladas."
+	NoMushroomChat1: Necesito plantas extrañas para algo. Tráeme algunas e intercambiaré por hongos alquímicos especiales. Bueno para hacer pociones.
+	NoMushroomChat2: ... ¿no hay plantas?
+	NoMushroomChat3: Plantas por favor. No te daré hongos sin ellas.
+	SpecialChat1: ¿Un Hongo de la Locura? ¡Dulce! Aquí hay un tipo especial de hongo como pago. Este es realmente útil. Solo... no lo comas directamente.
+	SpecialChat2: ¡Oh, un Hongo de la Locura! Me gustan mucho estos porque tienen propiedades especiales. Aquí, ten algunos hongos arcoíris.
+	SpecialChat3: Puedes encontrar estos en ambos biomas de hongos, ¿sabes? Asegúrate de revisar ambos solo en caso. Son realmente útiles.
+	MushroomChat1: Gracias. Estos hongos son mucho más útiles que tintes inútiles, ¿verdad?
+	MushroomChat2: Aquí. Más hongos de colores para todas tus necesidades de preparación. Solo... no los comas.
+	MushroomChat3: ¿Para qué uso estos materiales de tinte? Uh... cosas. ¡Ahora déjame en paz, tengo cosas que hacer!
+}
+
+Samurai: {
+	Census.SpawnCondition: Agarres del Caos Derrotados
+	DisplayName: Samurái
+
+	TownNPCMood: {
+		Content: La felicidad es una dirección, no un destino.
+		NoHome: Necesito un lugar para descansar y pulir mi acero si alguna vez voy a vencer a esa bestia...
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: La tranquilidad me ayuda a enfocarme mejor en mi entrenamiento.
+		DislikeCrowded: Un poco más de tranquilidad realmente me ayudaría a concentrarme.
+		HateCrowded: ¿Cómo se supone que debo entrenar con tanta gente alrededor? ¡Podría cortarle la cabeza a alguien!
+		LikeNPC_Princess: Si una nación va a surgir de las cenizas de lo que vino antes, confío en {NPCName} para liderarla.
+		Princess_LovesNPC: ¡{NPCName} es tan hábil con su espada!
+		LikeBiome: Incluso en su... estado caótico, amo mi tierra natal.
+		DislikeBiome: Puaj, este lugar simplemente rebosa de insectos...
+		LikeNPC: He hablado mucho con {NPCName}. Parece que sería un aliado valioso en mi búsqueda.
+		DislikeNPC: No soy realmente un fan de la cerveza de {NPCName}. Prefiero el Sake para ser honesto.
+	}
+
+	SamuraiChat1: "Conocí a "
+	SamuraiChat2: " hace un tiempo. Es todo un hombre de cultura."
+	SamuraiChat3: "No soy realmente un fan de "
+	SamuraiChat4: " la cerveza. Es un poco fuerte para mi gusto. Prefiero el Sake para ser honesto."
+	SamuraiChat5: Los biomas del Caos no siempre fueron tan.... err.... caóticos.
+	SamuraiChat6: ¿Has visto mi espada? No puedo encontrarla en ningún lado.
+	SamuraiChat7: Solíamos ser la nación más poderosa de toda Terraria... luego... ÉL llegó...
+	SamuraiChat8: Recuerdo a mi viejo maestro dándome palabras sabias como: 'INTENTAS VER CONTENIDO FLASH PERO NO TIENES UN REPRODUCTOR DE FLASH INSTALADO'... Todavía estoy tratando de averiguar eso.
+	SamuraiChat9: Para ser honesto, consigo la mitad de mis líneas de galletas de la fortuna. ¿Quieres una?
+	SamuraiChat10: Si te niegas a aceptar nada menos que lo mejor, a menudo lo obtendrás.
+	SamuraiChat11: El cambio puede doler, pero lleva a un camino hacia algo mejor.
+	SamuraiChat12: No puedes amar la vida hasta que vivas la vida que amas.
+	SamuraiChat13: La tierra siempre está en la mente de un pájaro volador.
+	SamuraiChat14: Nuestras acciones nos definen, tanto como definimos nuestras acciones.
+	SamuraiChat15: Nunca te rindas. No eres un fracaso si no te rindes.
+	SamuraiChat16: Ya conoces la respuesta a las preguntas que lingüen en tu cabeza.
+	SamuraiChat17: Es ahora, y en este mundo, que debemos vivir.
+	SamuraiChat18: Puedes hacer tu propia felicidad.
+	SamuraiChat19: Si llega el invierno, ¿puede estar lejos la primavera?
+	SamuraiChat20: Un extraño es un amigo con el que no has hablado todavía.
+	SamuraiChat21: Tus zapatos te harán feliz hoy.
+}
+
+LuciferSitting: {
+	DisplayName: Lucifer el Señor del Abismo
+
+	Buttons: {
+		Who: ¿Quién eres?
+		When: ¿Cuándo estará listo?
+		Why: ¿Por qué lo estás construyendo?
+		Bye: Está bien, adiós.
+	}
+
+	Dialogue: {
+		Start:
+			'''
+			Vuelve después. Estoy montando una tienda aquí.
+
+			¿Eh? ¿¡Qué estoy haciendo!? Estoy supervisando.
+			'''
+		Chat0: ¿¡Quién soy!? Yo-- ¿A quién estoy engañando? Ya sabes quién soy. Ahora lárgate, tengo una arena que construir.
+		Chat1: No sé, cuando mis tipos se levanten del trasero perezoso y realmente empiecen a construir cosas.
+		Chat2: Tienes muchas preguntas, ¿verdad? Lo estoy construyendo porque quiero ver sangre derramada. ¿Qué si no?
+		Chat3: Nos vemos alrededor. Vuelve cuando termine, ¡me encantaría verte ensartado! ¡BWAHAHAHAHAHAHAHAHAH!!!
+	}
+}
+
+QuestFish: {
+	Fishmother: Bueno, entonces, estaba caminando por el Infierno buscando algo caliente para una de mis bromas épicas, cuando vi este pez gordo bajo el agua, hirviendo el agua a su alrededor. ¡Pensé 'PERFECTO!'! pero no pude atraparlo porque no tenía mi caña conmigo. Vaya y atrápalo, esclavo.
+	FishmotherLocation: Atrapado en cualquier lugar en el Infierno
+	TriHeadedKoi: Odio el Cenagal. No puedo ver nada en ese lugar a menos que sea después de mi hora de dormir, pero sé que hay un pez asesino allá que quiero que tiene, espera, TRES CABEZAS. ¿Puedes ir a atraparlo para mí?
+	TriHeadedKoiLocation: Atrapado en cualquier lugar del Cenagal
+	GlitchFish: Una vez me desperté y vi un pez extraño en el agua de la isla aterradora sobre mí en el cielo, probablemente en el Oeste. Vaya, atrápalo para mí. ¿Preguntas por qué hay aguas en la isla del cielo? Encuentra tu propio camino.
+	GlitchFishLocation: Atrapado en cualquier lugar del Vacío
+}

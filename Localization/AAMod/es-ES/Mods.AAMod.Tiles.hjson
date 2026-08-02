@@ -1,0 +1,69 @@
+BogwoodChest: {
+	ContainerName: Cofre de Madera del Cenagal
+	MapEntry: Cofre de Madera del Cenagal
+}
+
+BogwoodDresser: {
+	ContainerName: Aparador de Madera del Cenagal
+	MapEntry: Aparador de Madera del Cenagal
+}
+
+RazewoodChest: {
+	ContainerName: Cofre de Madera Calcinada
+	MapEntry: Cofre de Madera Calcinada
+}
+
+RazewoodDresser: {
+	ContainerName: Aparador de Madera Calcinada
+	MapEntry: Aparador de Madera Calcinada
+}
+
+FurnitureDynamo.MapEntry: Dínamo de Muebles
+InfernoCrate.MapEntry: Caja
+MireCrate.MapEntry: Caja
+BogwoodBathtub.MapEntry: Bañera de Madera del Cenagal
+BogwoodBed.MapEntry: Cama de Madera del Cenagal
+BogwoodBookcase.MapEntry: Librería de Madera del Cenagal
+BogwoodCandelabra.MapEntry: Candelabro de Madera del Cenagal
+BogwoodCandle.MapEntry: Vela de Madera del Cenagal
+BogwoodClock.MapEntry: Reloj de Madera del Cenagal
+BogwoodPiano.MapEntry: Piano de Madera del Cenagal
+BogwoodSofa.MapEntry: Sofá de Madera del Cenagal
+BogwoodTorch.MapEntry: Antorcha
+BogwoodWorkBench.MapEntry: Banco de Trabajo de Madera del Cenagal
+MireCampfire.MapEntry: Hoguera
+InfernoCampfire.MapEntry: Hoguera
+RazewoodBathtub.MapEntry: Bañera de Madera Calcinada
+RazewoodBed.MapEntry: Cama de Madera Calcinada
+RazewoodBookcase.MapEntry: Librería de Madera Calcinada
+RazewoodCandelabra.MapEntry: Candelabro de Madera Calcinada
+RazewoodCandle.MapEntry: Vela de Madera Calcinada
+RazewoodClock.MapEntry: Reloj de Madera Calcinada
+RazewoodPiano.MapEntry: Piano de Madera Calcinada
+RazewoodSofa.MapEntry: Sofá de Madera Calcinada
+RazewoodTorch.MapEntry: Antorcha
+RazewoodWorkBench.MapEntry: Banco de Trabajo de Madera Calcinada
+BioticAssimilator.MapEntry: Asimilador Biótico
+MushmonTile.MapEntry: ..?
+Bloomshroom.MapEntry: Hongo Florido
+BlightTorch.MapEntry: Antorcha de la Plaga
+ManmadeMushmonTile.MapEntry: Efigie Real
+BlightCrate.MapEntry: Caja de la Plaga
+TumorTile.MapEntry: Tumor
+IncineriteOre.MapEntry: Mena de Incinerita
+MushladTerrarium.MapEntry: Terrario de Cochinilla Fúngica
+MushladTerrariumTile.MapEntry: Bloque de Terrario de Cochinilla Fúngica
+BrownMushladTerrariumTile.MapEntry: Bloque de Terrario de Cochinilla Fúngica Marrón
+GreyMushladTerrariumTile.MapEntry: Bloque de Terrario de Cochinilla Fúngica Gris
+BlightCampfire.MapEntry: Hoguera de la Plaga
+MireTree.MapEntry: Árbol del Cenagal
+BlightedBathtub.MapEntry: Bañera Plagada
+BlightedBed.MapEntry: Cama Plagada
+BlightedBookcase.MapEntry: Librería Plagada
+BlightedCandelabra.MapEntry: Candelabro Plagado
+BlightCandle.MapEntry: Vela de la Plaga
+BlightedClock.MapEntry: Reloj Plagado
+BlightedDresser.MapEntry: Aparador Plagado
+BlightedPiano.MapEntry: Piano Plagado
+BlightedSofa.MapEntry: Sofá Plagado
+BlightedWorkbench.MapEntry: Banco de Trabajo Plagado

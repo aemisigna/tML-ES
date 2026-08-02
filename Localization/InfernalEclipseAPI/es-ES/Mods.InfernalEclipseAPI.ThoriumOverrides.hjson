@@ -92,6 +92,11 @@ Items: {
 		Tooltip: Roba 3 de vida
 	}
 
+	ShroomachineGun: {
+		DisplayName: Hongotralladora
+		Tooltip: "{$CommonItemTooltip.PercentChanceToSaveAmmo}"
+	}
+
 	CrystalHoney: {
 		DisplayName: Miel Cristalina
 		Tooltip:
@@ -386,42 +391,6 @@ Items: {
 			12% de daño no radiante reducido
 			12% de daño radiante aumentado
 			15% de costo de maná reducido
-			Los hechizos curativos sanarán 1 de vida adicional
-			'''
-	}
-
-	FallenPaladinFaceguard: {
-		DisplayName: Máscara del Paladín Caído
-		Tooltip:
-			'''
-			10% de daño no radiante reducido
-			10% de daño radiante aumentado
-			3% de probabilidad de golpe crítico radiante aumentada
-			Velocidad de regeneración de vida aumentada
-			'''
-	}
-
-	FallenPaladinCuirass: {
-		DisplayName: Coraza del Paladín Caído
-		Tooltip:
-			'''
-			20% de daño no radiante reducido
-			20% de daño radiante aumentado
-			8% de probabilidad de golpe crítico radiante aumentada
-			15% de reducción de daño aumentada
-			Los hechizos curativos sanarán 2 de vida adicional
-			'''
-	}
-
-	FallenPaladinGreaves: {
-		DisplayName: Grebas del Paladín Caído
-		Tooltip:
-			'''
-			15% de daño no radiante reducido
-			15% de daño radiante aumentado
-			4% de probabilidad de golpe crítico radiante aumentada
-			15% de costo de maná reducido
-			20% de velocidad de movimiento aumentada
 			Los hechizos curativos sanarán 1 de vida adicional
 			'''
 	}

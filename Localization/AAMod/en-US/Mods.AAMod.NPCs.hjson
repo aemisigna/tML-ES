@@ -1,0 +1,151 @@
+GrappleClap: {
+	DisplayName: Grips of Chaos
+	Subtitle: Terrible Twins
+
+	BossChecklistIntegration: {
+		SpawnInfo: Use a [i:AAMod/HandSummons] at night.
+		DespawnMessage: The Grips return to their respective environments...
+	}
+}
+
+TruffleToad: {
+	BossChecklistIntegration: {
+		SpawnInfo: Attack a moving cluster of blue mushrooms, or use a [i:AAMod/FrogSpawn] in Glowing Mushrooms.
+		DespawnMessage: The Truffle Toad hops away absent-mindedly...
+	}
+
+	DisplayName: Truffle Toad
+	Subtitle: Giant Fungal Amphibian
+}
+
+InfernoGrip.DisplayName: Inferno Grip
+MireGrip.DisplayName: Mire Grip
+OffGuardClap.DisplayName: Grips of Chaos
+DragonClaw.DisplayName: Dragon Claw
+HoneyBee.DisplayName: Big Bee
+HydraClaw.DisplayName: Hydra Claw
+Hydra.DisplayName: Hydra
+LeafBeetle.DisplayName: Leaf Beetle
+Fanatic.DisplayName: Fanatic
+Boomshroom.DisplayName: Boomshroom
+GoAheadTellThemNobodyWillBelieveYou.DisplayName: Fat Pixie
+BlueMushMound.DisplayName: Mushroom Cluster
+ToadTongue.DisplayName: Toad Tongue
+
+MushMon: {
+	BossChecklistIntegration: {
+		SpawnInfo: Interact with the rotting carcass at the bottom of the blighted caves, or use a [i:AAMod/RoyalEffigy] in Blighted Mushrooms.
+		DespawnMessage: The Mushroom Monarch is swallowed by the earth...
+	}
+
+	DisplayName: Mushroom Monarch
+	Title: The Mushroom Monarch
+	Subtitle: Begotten Fungal King
+}
+
+ExhaustedWoman.DisplayName: Exhausted Woman
+FungoidSwarmer.DisplayName: Fungoid Swarmer
+FungoidGrunt.DisplayName: Fungoid Grunt
+Splinter.DisplayName: Splinter
+FungoidHulk.DisplayName: Fungoid Hulk
+FungoidHulk_Top.DisplayName: Fungoid Hulk
+FungoidHulk_Bottom.DisplayName: Fungoid Hulk
+Mushlad.DisplayName: Mushlad
+CreeperVine.DisplayName: Creeper Vine
+Witherwing.DisplayName: Witherwing
+HealingTree.DisplayName: Healing Tree
+
+RoyalEffigy: {
+	DisplayName: ..?
+	ChatText: A decayed body lies motionless...
+	ChatButtonText: Examine Closer
+}
+
+MonarchAwaken.DisplayName: ..!
+BlightWorm.DisplayName: Blight Worm
+BlightWorm_Dig.DisplayName: Blight Worm
+
+Historian: {
+	DisplayName: Historian
+
+	TownNPCMood: {
+		Content: I am content.
+		NoHome: I will take the fact that I am out here still as a no to my intial question.
+		FarFromHome: Must’ve gotten lost once more. I will never learn the pathways of this place.
+		LoveSpace: Finally, peace. You never realise how good you have it until it’s gone do you? I’ll have to write that down, I’m sure the people back home would love to hear that result.
+		DislikeCrowded: I’m sorry if this is demanding but… Can you please find me somewhere quieter? It’s like I’m back at home with such chattering.
+		HateCrowded: I hate how crowded I am.
+		LikeBiome: I haven’t seen much nature in my life sadly, I’ve always been rather fond of it however. All the animals and plants, tiny little ecosystems. I wonder if they consider us as fascinating as we consider them, haha..
+		HateBiome: I-uh- I appreciate t-the housing but please get me out of here. This place h-highly disturbs me, I want out, now.
+		LikeNPC: I wasn’t expecting to find a like minded sort here. Fortunately {NPCName} is just brimming with conversational topics!
+		DislikeNPC: Put some discipline into {NPCName}. I don’t think I can take the mental toll of seeing another one of his fungus riddled fish.
+		HateNPC: Move me away please… I cannot be in the presence of {NPCName}.
+		LikeNPC_Princess: While I doubt the… legitimacy of {NPCName}’s title, I cannot deny and say she wouldn’t excel in that position. Honestly the most pleasant royal I’ve talked to, if she is one.
+		Princess_LovesNPC: I like {NPCName}.
+	}
+
+	Census.SpawnCondition: Conditions unknown
+}
+
+TumoroidMaw.DisplayName: Tumoroid Maw
+TumoroidSentry.DisplayName: Tumoroid Sentry
+TumorNPC.DisplayName: Tumor
+TumoroidSpewer.DisplayName: Tumoroid Spewer
+Mosster.DisplayName: Mosster
+Flamebrute.DisplayName: Flamebrute
+Broodmother.DisplayName: Broodmother
+LurkerHeadBlue.DisplayName: Swamplurker Head
+LurkerHeadGreen.DisplayName: Swamplurker Head
+LurkerHeadPurple.DisplayName: Swamplurker Head
+Swamplurker.DisplayName: Swamplurker
+Swamplurker_Sleep.DisplayName: Swamplurker
+DragonEgg.DisplayName: Dragon Egg
+LivingEmber.DisplayName: Living Ember
+AcidFrog.DisplayName: Acid Frog
+Flamespitter.DisplayName: Flamespitter
+KaboomBeetle.DisplayName: Kaboom Beetle
+KomodoWalk.DisplayName: Komodo
+KomodoWall.DisplayName: Komodo
+LargeCrag.DisplayName: Crag
+NormalCrag.DisplayName: Crag
+OilSlime.DisplayName: Oil Slime
+SmallCrag.DisplayName: Crag
+WyrmlingBody.DisplayName: Wyrmling
+WyrmlingHead.DisplayName: Wyrmling
+WyrmlingTail1.DisplayName: Wyrmling
+WyrmlingTail2.DisplayName: Wyrmling
+Earwig.DisplayName: Earwig
+GatorSwim.DisplayName: Gator
+GatorWalk.DisplayName: Gator
+GiantMosquito.DisplayName: Giant Mosquito
+JunkSlime.DisplayName: Junk Slime
+MireLoot.DisplayName: ???
+MireFish2.DisplayName: ???
+MireFish.DisplayName: ???
+MireCrate.DisplayName: ???
+GenericItem.DisplayName: ???
+GenericFish.DisplayName: ???
+TwistedRoot.DisplayName: Twisted Root
+Terrorvine.DisplayName: Terror Vine
+RootSucker.DisplayName: Root Sucker
+MireViperTail.DisplayName: Mire Viper
+MireViperHead.DisplayName: Mire Viper
+MireViperBody.DisplayName: Mire Viper
+FungoidSkitterer.DisplayName: Fungoid Skitterer
+MireTadpole.DisplayName: Mire Tadpole
+SmallEncampment.DisplayName: Small Encampment
+SoulTotem.DisplayName: Soul Totem
+LongneckHead.DisplayName: Longneck
+Longneck.DisplayName: Longneck
+ObsidianGolem.DisplayName: Obsidian Golem
+WillowWisp.DisplayName: Willow Wisp
+Apparition.DisplayName: Apparition
+AnguishedCoals.DisplayName: Anguished Coals
+Depthstalker.DisplayName: Depthstalker
+DepthstalkerBaby.DisplayName: Baby Depthstalker
+DepthstalkerEgg.DisplayName: Depthstalker Egg
+SullenwoodHusk.DisplayName: Sullenwood Husk
+MireTreeNPC.DisplayName: ""
+TreeApparation.DisplayName: Apparition
+MagmaSpriteOrbit.DisplayName: Magma Sprite
+MagmaSprite.DisplayName: Magma Sprite

@@ -1,0 +1,478 @@
+Ethereal: {
+	DisplayName: Etéreo
+	Tooltip:
+		'''
+		'Si cae en manos equivocadas, puede causar daño devastador, así que no me lo des.'
+		- TheRedstoneBro
+		'''
+}
+
+PoniumStaff: {
+	DisplayName: Vara de Ponio
+	Tooltip:
+		'''
+		'Eso es un REEEEEEEE si alguna vez vi uno'
+		- Beg
+		'''
+}
+
+DuckstepREMIX: {
+	DisplayName: Duckstep R.E.M.I.X.
+	Tooltip: Lanzador Duckstep EX
+}
+
+Light: {
+	DisplayName: Luz
+	Tooltip: Etéreo EX
+}
+
+NovaFlare: {
+	DisplayName: Llamarada Nova
+	Tooltip:
+		'''
+		Dispara llamaradas teledirigidas desde el cielo
+		Llamarada Lunar EX
+		'''
+}
+
+PrismeowSpectrum: {
+	DisplayName: Prismeow Spectrum
+	Tooltip:
+		'''
+		Invoca un Gato Arcoíris Legendario en la posición del cursor
+		Dispara Rayos Arcoíris que se mueven en la dirección de tu cursor
+		Advertencia: ¡Usar esto RALENTIZARÁ tu juego!
+		Prismeow EX
+		'''
+}
+
+Prismeow: {
+	DisplayName: Prismeow
+	Tooltip:
+		'''
+		Dispara gatos arcoíris
+		'Divino'
+		- Hallam
+		'''
+}
+
+TrueTerraRose: {
+	DisplayName: Rosa Terra Verdadera
+	Tooltip:
+		'''
+		Algunos dicen que este bastón fue usado por la legendaria heroína misma
+		Los proyectiles explotan al impactar
+		Los proyectiles atraviesan paredes
+		Clic derecho dispara una rosa perforante
+		Rosa Terra EX
+		'''
+}
+
+MeteorStrike: {
+	DisplayName: Golpe de Meteoro
+	Tooltip:
+		'''
+		Dispara una lluvia de meteoritos a tus enemigos
+		Impactar a enemigos causa una explosión más pequeña pero más dañina
+		Impactar a un bloque causa un proyectil más grande pero menos dañino
+		Inflige Infierno Discordante
+		'''
+}
+
+Daystorm: {
+	DisplayName: Tormenta Diurna
+	Tooltip: Incinera a tus enemigos en una tormenta de caos ígneo abrasador
+}
+
+BogBomb: {
+	DisplayName: Bomba Cenagal
+	Tooltip: Dispara una bomba explosiva que inflige veneno a lo que sea que golpee
+}
+
+AbyssalBomb: {
+	DisplayName: Bomba Abismal
+	Tooltip:
+		'''
+		Dispara bombas de espíritus explosivas
+		Pequeña probabilidad de disparar una bomba despertada que explota en almas del abismo
+		'''
+}
+
+TerraRose: {
+	DisplayName: Rosa Terra
+	Tooltip:
+		'''
+		Algunos dicen que este bastón fue usado por la legendaria heroína misma
+		Los proyectiles atraviesan paredes
+		Clic derecho dispara una rosa perforante
+		'''
+}
+
+NovaFocus: {
+	DisplayName: Enfoque Nova
+	Tooltip: Dispara un láser de muerte increíblemente poderoso
+}
+
+Nova: {
+	DisplayName: Nova
+	Tooltip: Dispara una ráfaga de energía explosiva que causa una explosión expansiva
+}
+
+VoidStar: {
+	DisplayName: Estrella del Vacío
+	Tooltip: Dispara un vórtice oscuro y giratorio que se dirige a los enemigos
+}
+
+TotalDestruction: {
+	DisplayName: Destrucción Total
+	Tooltip: Destruye todo frente a ti con un láser destructivo
+}
+
+PineBreaker: {
+	DisplayName: Rompepinos
+	Tooltip:
+		'''
+		'No me gustan los huevos'
+		- Planterror
+		'''
+}
+
+DuckstepLauncher: {
+	DisplayName: Lanzador Duckstep
+	Tooltip:
+		'''
+		Cuac.
+		- Aves
+		'''
+}
+
+Placeholder: {
+	DisplayName: Marcador de Posición
+	Tooltip:
+		'''
+		'Morirán ProntoTM'
+		- Fargo
+		'''
+}
+
+SkrallStaff: {
+	DisplayName: Vara Skrall
+	Tooltip:
+		'''
+		Un Diamante skraltopiano envuelto en un palo
+		Es el palo el que es mágico. El diamante es solo para la apariencia
+		- Kingskrall
+		'''
+}
+
+UmbralReaper: {
+	DisplayName: Segadora Umbral
+	Tooltip:
+		'''
+		Clic izquierdo dispara lanzas teledirigidas
+		Clic derecho dispara una onda de energía del vacío
+		'Nunca toqué a Valkyrie'
+		- CMD
+		'''
+}
+
+SoapBlaster: {
+	DisplayName: Lanzador de Jabón
+	Tooltip: Dispara rápidamente burbujas destructivas
+}
+
+UltibladeTyphoon: {
+	DisplayName: Tifón Ultihoja
+	Tooltip:
+		'''
+		Lanza 3 ruedas cortantes teledirigidas rápidas
+		Tifón de Cuchillas Antiguas EX
+		'''
+}
+
+HiveArtillery: {
+	DisplayName: Artillería de Colmena
+	Tooltip:
+		'''
+		Dispara docenas de abejas aterradoras
+		Las abejas ignoran los marcos de invulnerabilidad de los enemigos
+		Lanzador de Abejas EX
+		'''
+}
+
+PoniumUltiscepter: {
+	DisplayName: Cetro Ulti Ponio
+	Tooltip: Vara de Ponio EX
+}
+
+Spectrum: {
+	DisplayName: Espectro
+	Tooltip:
+		'''
+		Enfoca un haz devastador de luz
+		Último Prisma EX
+		'''
+}
+
+StarburstWand: {
+	DisplayName: Varita Explosión Estelar
+	Tooltip:
+		'''
+		Mantén presionado para cargar la varita
+		Varita de Chispa EX
+		'''
+}
+
+SubzeroStormStaff: {
+	DisplayName: Vara Tormenta Subcero
+	Tooltip: Vara de Tormenta de Nieve EX
+}
+
+FlamingGelWand: {
+	DisplayName: Varita de Gel Ardiente
+	Tooltip: Dispara gel ardiente
+}
+
+Gong: {
+	DisplayName: Gong
+	Tooltip: ""
+}
+
+ManaBlade: {
+	DisplayName: Hoja de Maná
+	Tooltip: Dispara proyectiles teledirigidos al costo de maná
+}
+
+TrueGong: {
+	DisplayName: Gong Verdadero
+	Tooltip: MÁS GONG
+}
+
+AncientArcanum: {
+	DisplayName: Arcano Antiguo
+	Tooltip: Libera un quásar en miniatura teledirigido que explota al golpear a un enemigo
+}
+
+GaleOfWings: {
+	DisplayName: Ráfaga de Alas
+	Tooltip: ""
+}
+
+GaleForce: {
+	DisplayName: Fuerza de Ráfaga
+	Tooltip: ""
+}
+
+RoyalScepter: {
+	DisplayName: Cetro Real
+	Tooltip: Dispara un abanico de tres zanahorias
+}
+
+RabbitsWrath: {
+	DisplayName: Ira del Conejo
+	Tooltip: Deja caer zanahorias afiladas como navajas sobre tus enemigos
+}
+
+RoyalStaff: {
+	DisplayName: Vara Real
+	Tooltip:
+		'''
+		Dispara un abanico de cinco zanahorias doradas
+		Cetro Real EX
+		'''
+}
+
+AshRain: {
+	DisplayName: Lluvia de Ceniza
+	Tooltip:
+		'''
+		Dispara bolas de fuego que explotan al impactar o después de un tiempo
+		Clic derecho para detonar bolas de fuego
+		'''
+}
+
+FuryFlame: {
+	DisplayName: Llama Furiosa
+	Tooltip: Te permite disparar llamas explosivas a tus enemigos
+}
+
+SandLamp: {
+	DisplayName: Lámpara de Arena
+	Tooltip: ""
+}
+
+DesertStaff: {
+	DisplayName: Vara del Desierto
+	Tooltip: Dispara un rayo de arena encantada que explota en bolas rebotantes al impactar
+}
+
+TheLifeAndEpicAdventuresOfAnubisTheWonderDogSpecialEdition: {
+	DisplayName: La Vida y Las Épicas Aventuras de Anubis El Perro Maravilla Edición Especial
+	Tooltip: ""
+}
+
+ForsakenStaff: {
+	DisplayName: Vara Abandonada
+	Tooltip: Dispara 2 ráfagas teledirigidas de energía abandonada que explotan en chispas abandonadas
+}
+
+MushrockStaff: {
+	DisplayName: Vara de Champiñopiedra
+	Tooltip: ""
+}
+
+CrystalTome: {
+	DisplayName: Tomo Cristalino
+	Tooltip: Lanza cristales que se fragmentan en pedazos
+}
+
+GoldDigger: {
+	DisplayName: Buscador de Oro
+	Tooltip:
+		'''
+		Dispara un proyectil que, al colisionar con un bloque, crea una fuente de monedas
+		Solo 1 fuente puede estar activa a la vez
+		'''
+}
+
+OreStaff: {
+	DisplayName: Vara de Mineral
+	Tooltip: ""
+}
+
+BlazePike: {
+	DisplayName: Pica de Llama
+	Tooltip: Muy caliente al tocar
+}
+
+BlazingBreath: {
+	DisplayName: Aliento Ardiente
+	Tooltip: ""
+}
+
+Volley: {
+	DisplayName: Descarga
+	Tooltip: Dispara una descarga de tres bolas de fuego a un espaciado uniforme
+}
+
+Fireblast: {
+	DisplayName: Explosión Ígnea
+	Tooltip: Dispara un rayo explosivo de fuego de dragón
+}
+
+Sunstorm: {
+	DisplayName: Tormenta Solar
+	Tooltip:
+		'''
+		Invoca bolas de fuego orbitantes que se dirigen a los enemigos después de un tiempo
+		Clic derecho y mantén presionado para liberar y apuntar manualmente
+		'''
+}
+
+MagicFlower: {
+	DisplayName: Flor Mágica
+	Tooltip: Bonita
+}
+
+ManaRose: {
+	DisplayName: Rosa de Maná
+	Tooltip:
+		'''
+		Larga y Mágica
+		Clic derecho dispara una rosa perforante
+		'''
+}
+
+TrueManaRose: {
+	DisplayName: Rosa de Maná Verdadera
+	Tooltip:
+		'''
+		Bonita en Rosa
+		Clic derecho dispara una rosa perforante
+		'''
+}
+
+MadnessStaff: {
+	DisplayName: Vara de Locura
+	Tooltip: ""
+}
+
+GunkWand: {
+	DisplayName: Varita de Baba
+	Tooltip: ""
+}
+
+SludgeShot: {
+	DisplayName: Disparo de Cieno
+	Tooltip: ¡Eww! ¡Está musgoso!
+}
+
+VenomSpray: {
+	DisplayName: Aerosol de Veneno
+	Tooltip: ""
+}
+
+Depthsprayer: {
+	DisplayName: Pulverizador de Profundidades
+	Tooltip: Cubre a los enemigos con Hidratoxina
+}
+
+Toxifang: {
+	DisplayName: Colmillo Tóxico
+	Tooltip: Dispara Colmillos Tóxicos
+}
+
+AtlanteanTrident: {
+	DisplayName: Tridente Atlante
+	Tooltip: Dispara un triple disparo de rayos de agua
+}
+
+OceanTrident: {
+	DisplayName: Tridente Oceánico
+	Tooltip: Muy resbaladizo
+}
+
+ElectricityShard: {
+	DisplayName: Fragmento Eléctrico
+	Tooltip: Dispara chispas en un espaciado uniforme.
+}
+
+DragonStaff: {
+	DisplayName: Vara de Dragón
+	Tooltip: Dispara escamas de dragón.
+}
+
+Icicle: {
+	DisplayName: Carámbano
+	Tooltip: Lanza cristales que se fragmentan en pedazos.
+}
+
+StarStaff: {
+	DisplayName: Vara Estelar
+	Tooltip: ""
+}
+
+TerraFocus: {
+	DisplayName: Enfoque Terra
+	Tooltip: Dispara disparos de magia terra a tus enemigos
+}
+
+NeutronRod: {
+	DisplayName: Vara de Neutrón
+	Tooltip: Dispara estrellas giratorias que rebotan en paredes
+}
+
+DoomStaff: {
+	DisplayName: Vara de Perdición
+	Tooltip: ""
+}
+
+GalacticStormspike: {
+	DisplayName: Púa de Tormenta Galáctica
+	Tooltip: Dispara un rayo ramificado de electricidad oscura
+}
+
+SquidStorm: {
+	DisplayName: Tormenta de Calamares
+	Tooltip: Lanza tentáculos de las profundidades de R'lyeh
+}

@@ -1,0 +1,113 @@
+UI: {
+	Standard: OST Regular
+	Alternate: OST de Otro Mundo
+	StandardDesc: La banda sonora regular de SpectralAves.
+	AlternateDesc: La banda sonora alternativa de MaestroVGM
+}
+
+GameTips: {
+	AATip0: Durante la noche, la ceniza humeante cubre la mayor parte del Infierno, reduciendo drásticamente la visibilidad.
+	AATip1: Durante el día, una densa niebla se asienta sobre el Cenagal, reduciendo la visibilidad.
+	AATip2: ¿Encontraste un error o tienes comentarios que darnos? ¡Únete al Servidor de Discord de Ancients Awakened y cuéntanoslo!
+	AATip3: Al Sapo Trufero no le gusta el humo.
+}
+
+StatusMessages: {
+	Death.Clapped: "{0} fue arrasado."
+
+	WorldGen: {
+		Inferno: Provocando una erupción
+		Mire: Maldiciendo el pantano
+		Blight: Sembrando la plaga
+		Blight2: Sembrando la plaga...Formando tumores
+		Blight3: Sembrando la plaga...Cavando túneles
+		Blight4: Sembrando la plaga...Esparciendo césped
+	}
+
+	Progression: {
+		ToadDowned: La huida de la bestia esparce nueva flora entre los hongos azules...
+		TumorsDowned: Los músculos de las paredes infestadas se aflojan...
+		MonarchDowned: Las raíces protectoras en la piedra infestada se marchitan...
+	}
+}
+
+Configs: {
+	AAConfigClient: {
+		DisplayName: Configuración del Cliente de AA
+
+		OtherworldSoundtrack: {
+			Label: Activar la OST de Otro Mundo
+			Tooltip:
+				'''
+				Activa la OST de Otro Mundo de Ancients Awakened, reemplazando la música predeterminada por una sensación única.
+				Debes descargar 'Ancients Awakened Music'.
+				'''
+		}
+
+		Headers.Visuals: Visuales
+
+		NoScreenShake: {
+			Label: Desactivar Vibración de Pantalla
+			Tooltip: Evita que la cámara vibre para dar mayor impacto. Recomendado para quienes tienen fotosensibilidad.
+		}
+	}
+}
+
+SpecialTooltips: {
+	Readable: Mantén presionado [Shift] para leer el contenido
+	AdventurersNotebook:
+		'''
+		estas son mis últimas palabras, voy a morir aquí
+
+		me arrastraron hacia el fondo de esta cueva
+		gusanos negros se deslizaron por mi garganta, puedo sentirlos arrastrándose dentro de mí
+
+		ya no hay nada que hacer por mí, mi piel arde como si estuviera en llamas, siento que mi conciencia se desvanece
+		me están comiendo por dentro
+
+		este cuaderno será mi epitafio
+
+		por favor, si alguien encuentra esto
+		ALÉJATE de la plaga
+
+		ALÉJATE para que no termines como yo
+		'''
+}
+
+Emotes: {
+	FanaticEmote.Command: fanatic
+	InfernoGripEmote.Command: infernogrip
+	MireGripEmote.Command: miregrip
+	ToadEmote.Command: truffletoad
+	MonarchEmote.Command: mushmon
+}
+
+Achievements: {
+	ToadKilled: {
+		Description: Derrota al Sapo Trufero, una rana descomunal que merodea entre los hongos brillantes.
+		FriendlyName: La Princesa Y Los Hongos
+	}
+
+	MonarchKilled: {
+		Description: Derrota al Monarca Fúngico, un desafortunado aventurero vencido por una infección fúngica.
+		FriendlyName: Antibiótico
+	}
+
+	GripsKilled: {
+		Description: Derrota a las Garras del Caos, un par de garras imbuidas con energías caóticas.
+		FriendlyName: Ponle Garra
+	}
+}
+
+Players: {
+	AAPlayer: {
+		OnEnterWorldText1: Ancients Awakened aún está en alfa temprana, así que varias características pueden estar defectuosas o ausentes. Si encuentras algún error, repórtalo al Discord de Ancients Awakened.
+		OnEnterWorldText2: Deseas enfrentarte a enemigos más dignos, las cosas ya no serán tan fáciles de ahora en adelante.
+		OnEnterWorldText3: Espero que te des cuenta de en qué te has metido.
+		InfestedRedDeathText: "{0} fue consumido por hongos."
+		EatedDeathText: "{0} fue confundido con una mosca."
+		ClappedDeathText: "{0} fue arrasado."
+	}
+}
+
+DamageClasses.SpearfishingDamage.DisplayName: Daño Cuerpo a Cuerpo

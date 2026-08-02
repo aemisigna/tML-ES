@@ -1,0 +1,254 @@
+BroodmotherBox: {
+	DisplayName: Caja de Música (Broodmother)
+	Tooltip: Toca 'Blazing Fury' de SpectralAves
+}
+
+EquinoxBox: {
+	DisplayName: Caja de Música (Gusanos Equinox)
+	Tooltip: Toca 'Celestial Cyclone' de ProduceVGM
+}
+
+InfinityZeroBox: {
+	DisplayName: Caja de Música (Infinity Zero)
+	Tooltip: Toca 'Infinitum' de MaestroVGM
+}
+
+AthenaBox: {
+	DisplayName: Caja de Música (Athena)
+	Tooltip: Toca 'Magisaint' de ENNWAY
+}
+
+AcropolisBox: {
+	DisplayName: Caja de Música (Acrópolis)
+	Tooltip: Toca 'Palace in the Sky' de ENNWAY
+}
+
+AthenaAwakenedBox: {
+	DisplayName: Caja de Música (Athena Olímpica)
+	Tooltip: Toca 'Goddess of Those Winged' de ENNWAY
+}
+
+RajahBox: {
+	DisplayName: Caja de Música (Conejo Rajá)
+	Tooltip: Toca 'JUSTICE' de SpectralAves
+}
+
+RajahAwakenedBox: {
+	DisplayName: Caja de Música (Campeón de los Inocentes)
+	Tooltip: Toca 'Supreme Justice EX' de Jteoh
+}
+
+GripsBox: {
+	DisplayName: Caja de Música (Garras del Caos)
+	Tooltip: Toca 'Twin Terror' de SpectralAves
+}
+
+ShenAwakenedBox: {
+	DisplayName: Caja de Música (Shen Doragon Despierto)
+	Tooltip: Toca 'Discordant Coda' de MaestroVGM
+}
+
+ShenBox: {
+	DisplayName: Caja de Música (Shen Doragon)
+	Tooltip: Toca 'Wings of Duality' de MaestroVGM
+}
+
+SistersBox: {
+	DisplayName: Caja de Música (Hermanas de la Discordia)
+	Tooltip: Toca 'United' de MaestroVGM
+}
+
+ChaosPreShenBox: {
+	DisplayName: Caja de Música (Dragón Dormido)
+	Tooltip: Toca 'Condemned' de MaestroVGM
+}
+
+DjinnBox: {
+	DisplayName: Caja de Música (Djinn del Desierto)
+	Tooltip: Toca 'The Dust Bowl' de Tyeski
+}
+
+AnubisBox: {
+	DisplayName: Caja de Música (Anubis)
+	Tooltip: Toca 'Strings of Judgement' de Tyeski
+}
+
+AnubisAwakenedBox: {
+	DisplayName: Caja de Música (Anubis Abandonado)
+	Tooltip: Toca 'Purgatorium' de Tyeski
+}
+
+FungusBox: {
+	DisplayName: Caja de Música (Hongo Feudal)
+	Tooltip: Toca 'Bioluminescent Beatdown' de SpectralAves
+}
+
+TruffleToadBox: {
+	DisplayName: Caja de Música (Sapo Truffle)
+	Tooltip: Toca 'TODESTOOL' de SpectralAves
+}
+
+GreedBox: {
+	DisplayName: Caja de Música (Avaricia)
+	Tooltip: Toca 'Gold Digger' de Tyeski
+}
+
+HoardBox: {
+	DisplayName: Caja de Música (Tesoro)
+	Tooltip: Toca 'Cove' de Tyeski
+}
+
+GreedAwakenedBox: {
+	DisplayName: Caja de Música (Rey Gusano Avaricia)
+	Tooltip: Toca 'Ira De Riquezas Perdidas' de Tyeski
+}
+
+InfernoNightBox: {
+	DisplayName: Caja de Música (Noche del Infierno)
+	Tooltip: Toca 'Emberstorm' de ProduceVGM
+}
+
+InfernoSurfaceBox: {
+	DisplayName: Caja de Música (Infierno)
+	Tooltip: Toca 'Scorched Earth' de ProduceVGM
+}
+
+InfernoUndergroundBox: {
+	DisplayName: Caja de Música (Infierno Subterráneo)
+	Tooltip: Toca 'Inner Mantle' de ProduceVGM
+}
+
+AkumaAwakenedBox: {
+	DisplayName: Caja de Música (Oni Akuma)
+	Tooltip: Toca 'Dawn of the Dragon' de Tyeski
+}
+
+AkumaBox: {
+	DisplayName: Caja de Música (Akuma)
+	Tooltip: Toca 'Trial By Fire' de Saucecoie
+}
+
+InfernoPagodaBox: {
+	DisplayName: Caja de Música (Pagoda del Sol Naciente)
+	Tooltip: Toca 'Scorched Tower' de Rockwizard
+}
+
+HydraBox: {
+	DisplayName: Caja de Música (Hidra)
+	Tooltip: Toca 'RAW Abyssal Wrath' de SpectralAves
+}
+
+MireDayBox: {
+	DisplayName: Caja de Música (Día del Cenagal)
+	Tooltip: Toca 'Through the Toxic Mist' de ProduceVGM
+}
+
+MireSurfaceBox: {
+	DisplayName: Caja de Música (Cenagal)
+	Tooltip: Toca 'Secluded Swamp' de ProduceVGM
+}
+
+MireUndergroundBox: {
+	DisplayName: Caja de Música (Cenagal Subterráneo)
+	Tooltip: Toca 'Creepy Crawlers' de ProduceVGM
+}
+
+YamataAwakenedBox: {
+	DisplayName: Caja de Música (Yamata No Orochi)
+	Tooltip: Toca 'Abyssal Nightmare' de Tyeski
+}
+
+YamataBox: {
+	DisplayName: Caja de Música (Yamata)
+	Tooltip: Toca 'Crescent of Madness' de Saucecoie
+}
+
+MireLakeBox: {
+	DisplayName: Caja de Música (Lago de la Luna Naciente)
+	Tooltip: Toca 'Lake of Souls' de Rockwizard
+}
+
+MonarchBox: {
+	DisplayName: Caja de Música (Monarca Hongo)
+	Tooltip: Toca 'Fungal Face-off' de SpectralAves
+}
+
+MushroomSurfaceBox: {
+	DisplayName: Caja de Música del Hongo Rojo
+	Tooltip: Toca 'Overgrowth' de SpectralAves
+}
+
+SubzeroBox: {
+	DisplayName: Caja de Música (Serpiente Subzero)
+	Tooltip: Toca 'Glacial Grace' de ProduceVGM
+}
+
+StarsBox: {
+	DisplayName: Caja de Música (Estrellas Celestiales)
+	Tooltip: Toca 'Scattered Stars' de ProduceVGM
+}
+
+TerrariumBox: {
+	DisplayName: Caja de Música (Terrarium)
+	Tooltip: Toca 'Resting Place' de ProduceVGM
+}
+
+SagittariusBox: {
+	DisplayName: Caja de Música (Sagitario)
+	Tooltip: Toca 'Event Horizon' de SpectralAves
+}
+
+VoidBox: {
+	DisplayName: Caja de Música (Vacío)
+	Tooltip: Toca 'Waste' de ProduceVGM
+}
+
+ZeroAwakenedBox: {
+	DisplayName: Caja de Música (Protocolo Cero)
+	Tooltip: Toca 'Doomsday Arrives' de Saucecoie
+}
+
+ZeroBox: {
+	DisplayName: Caja de Música (Cero)
+	Tooltip: Toca 'Clockwork Catastrophe' de SpectralAves
+}
+
+VoidPostMLBox: {
+	DisplayName: Caja de Música (Vacío - Activado)
+	Tooltip: Toca 'Inanis' de ProduceVGM
+}
+
+VoidPreIZBox: {
+	DisplayName: Caja de Música (Gigante Dormido)
+	Tooltip: Toca 'Sleeping Giant' de Cosmoptera
+}
+
+SiegeBox: {
+	DisplayName: Caja de Música (Unidades S.I.E.G.E.)
+	Tooltip: Toca 'Controlled Chaos' de ProduceVGM
+}
+
+ParthenanBox: {
+	DisplayName: Caja de Música (Parthenan)
+	Tooltip: Toca 'Maelstrom' de Tyeski
+}
+
+SunkenShipBox: {
+	DisplayName: Caja de Música (Barco Hundido)
+	Tooltip: Toca 'Rift-Torn Ruins' de Cosmoptera
+}
+
+SoulOfCthulhuBox: {
+	DisplayName: Caja de Música (Alma de Cthulhu)
+	Tooltip: Toca 'Recondite Rhapsody (Calm)' de MaestroVGM
+}
+
+SunkenShipPreSoCBox: {
+	DisplayName: Caja de Música (Maldición del Sueño)
+	Tooltip: Toca 'Sleeping Curse' de ProduceVGM
+}
+
+CthulhuBox: {
+	DisplayName: Caja de Música (Cthulhu)
+	Tooltip: Toca 'Recondite Rhapsody (Combat)' de MaestroVGM
+}

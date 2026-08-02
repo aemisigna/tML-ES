@@ -1,0 +1,113 @@
+UI: {
+	Standard: Regular OST
+	Alternate: Otherworld OST
+	StandardDesc: The regular soundtrack by SpectralAves.
+	AlternateDesc: Thhe alternate soundtrack by MaestroVGM
+}
+
+GameTips: {
+	AATip0: During the night, smoldering ash occludes most of the Inferno, decreasing visibility drastically.
+	AATip1: During the day, a dense mist settles across the Mire, decreasing visibility.
+	AATip2: Found a bug or have feedback to give? Join the Ancients Awakened Discord Server and let us know!
+	AATip3: The Truffle Toad dislikes smoke.
+}
+
+StatusMessages: {
+	Death.Clapped: "{0} got clapped."
+
+	WorldGen: {
+		Inferno: Causing an eruption
+		Mire: Cursing the swamp
+		Blight: Seeding the blight
+		Blight2: Seeding the blight...Growing tumors
+		Blight3: Seeding the blight...Digging tunnels
+		Blight4: Seeding the blight...Spreading grass
+	}
+
+	Progression: {
+		ToadDowned: The escape of the beast spreads new flora in the blue mushrooms...
+		TumorsDowned: The muscles in the blighted walls loosen...
+		MonarchDowned: Protective roots in the infested stone wither away...
+	}
+}
+
+Configs: {
+	AAConfigClient: {
+		DisplayName: AA Config Client
+
+		OtherworldSoundtrack: {
+			Label: Enable Otherworld Soundtrack
+			Tooltip:
+				'''
+				Enables the Ancients Awakened Otherworld Soundtrack, replacing default music for a unique feel.
+				'Ancients Awakened Music' must be downloaded.
+				'''
+		}
+
+		Headers.Visuals: Visuals
+
+		NoScreenShake: {
+			Label: Disable Screen Shake
+			Tooltip: Prevents instances where the camera shakes for added impact. Recommended for those with photosensitivity.
+		}
+	}
+}
+
+SpecialTooltips: {
+	Readable: Hold [Shift] to read contents
+	AdventurersNotebook:
+		'''
+		these are my final words, im going to die here
+
+		i was dragged down into this cave
+		black worms slithered down my throat, i can feel them crawling inside me
+
+		its over for me, my skin feels like its on fire, i can feel my consciousness fading
+		they're eating me from inside
+
+		this notebook will be my epitaph
+
+		please, if anyone finds this
+		STAY AWAY from the blight
+
+		STAY AWAY so you dont end up like me
+		'''
+}
+
+Emotes: {
+	FanaticEmote.Command: fanatic
+	InfernoGripEmote.Command: infernogrip
+	MireGripEmote.Command: miregrip
+	ToadEmote.Command: truffletoad
+	MonarchEmote.Command: mushmon
+}
+
+Achievements: {
+	ToadKilled: {
+		Description: Defeat Truffle Toad, an overgrown frog roaming among the glowing mushrooms.
+		FriendlyName: Princess And The Mushrooms
+	}
+
+	MonarchKilled: {
+		Description: Defeat the Mushroom Monarch, an unfortunate adventurer overcome by fungal infection.
+		FriendlyName: Antibiotic
+	}
+
+	GripsKilled: {
+		Description: Defeat the Grips of Chaos, a pair of claws embued with chaotic energies.
+		FriendlyName: Get a Grip
+	}
+}
+
+Players: {
+	AAPlayer: {
+		OnEnterWorldText1: Ancients Awakened is still in early alpha, so several features may be faulty or missing. If you encounter any errors, please report them to the Ancients Awakened discord.
+		OnEnterWorldText2: You wish to face worthier foes, things won't be so easy from now on.
+		OnEnterWorldText3: I hope you realise what you've signed up for.
+		InfestedRedDeathText: "{0} was consumed by fungus."
+		EatedDeathText: "{0} was mistaken for a fly."
+		ClappedDeathText: "{0} got clapped."
+	}
+}
+
+DamageClasses.SpearfishingDamage.DisplayName: Melee Damage

@@ -1,0 +1,266 @@
+ConflagrateScythe: {
+	DisplayName: Hoz Conflagración
+	Tooltip:
+		'''
+		Invoca un construido giratorio que despedaza enemigos
+		Hoz de Personal Conflagración EX
+		'''
+}
+
+DivineWindStone: {
+	DisplayName: Piedra Viento Divino
+	Tooltip: Invoca una centinela de runa búho
+}
+
+HurricaneStone: {
+	DisplayName: Piedra Huracán
+	Tooltip: Invoca una centinela de runa búho cargada
+}
+
+SolarStaff: {
+	DisplayName: Vara Solar
+	Tooltip:
+		'''
+		Llueve fuego y furia sobre tus enemigos
+		Inflinge Amanecer
+		'''
+}
+
+CyberBaton: {
+	DisplayName: Bastón Ciber
+	Tooltip: Invoca una garra ciber para luchar contigo
+}
+
+AleisterStaff: {
+	DisplayName: Vara Aleister
+	Tooltip: ""
+}
+
+ConflagrateStaff: {
+	DisplayName: Vara Conflagración
+	Tooltip:
+		'''
+		Invoca un construido giratorio que despedaza enemigos
+		'Pensé que el cielo era púrpura.'
+		- Ender
+		'''
+}
+
+MagicAcorn: {
+	DisplayName: Bellota Mágica
+	Tooltip:
+		'''
+		Atrae ardillas para luchar contigo por gloria.
+		'ProntoTM'
+		- Fargowilta
+		'''
+}
+
+SockStaff: {
+	DisplayName: Vara de Títere de Calcetín
+	Tooltip: Invoca un títere de calcetín para luchar contigo
+}
+
+FishnadoStaff: {
+	DisplayName: Vara Pescanado
+	Tooltip: ""
+}
+
+BlizzardDragonStaff: {
+	DisplayName: Vara Dragón Ventisca
+	Tooltip:
+		'''
+		Invoca un dragón ventisca para luchar por ti
+		Vara Hidra EX
+		'''
+}
+
+OmenStaff: {
+	DisplayName: Vara Presagio
+	Tooltip:
+		'''
+		Invoca un cuervo vicioso para luchar contigo
+		Vara Cuervo EX
+		'''
+}
+
+PerfectChaosRitual: {
+	DisplayName: Ritual Caos Perfecto
+	Tooltip: Invoca un pequeño dragón caos para luchar por ti
+}
+
+SoccOnAStick: {
+	DisplayName: Socc en un Palo
+	Tooltip:
+		'''
+		Invoca un dios algodón para luchar por ti
+		Solo un Socc puede existir.
+		Cualquier invocación después de que uno haya sido invocado resultará en un Calcetín regular
+		Vara Títere de Calcetín EX
+		'''
+}
+
+CottonCane: {
+	DisplayName: Bastón Algodón
+	Tooltip: Invoca un Soldado Helicóptero Conejo para luchar contigo
+}
+
+RajahsRage: {
+	DisplayName: Furia del Rajá
+	Tooltip: Invoca un Conejo Real para luchar contigo
+}
+
+ClawBaton: {
+	DisplayName: Bastón Garra
+	Tooltip: Invoca una garra caos para luchar contigo
+}
+
+ChaosRitual: {
+	DisplayName: Ritual Caos
+	Tooltip: Invoca un construido caos para luchar contigo
+}
+
+FlameVortexStaff: {
+	DisplayName: Vara Vórtice Llama
+	Tooltip:
+		'''
+		Conjura esferas flamígeras que aumentan tu daño de esbirro
+		Cada esfera ocupa 1 espacio de esbirro
+		Debes tener al menos 2 espacios abiertos para la primera invocación
+		'''
+}
+
+ChaosBaton: {
+	DisplayName: Bastón Caos
+	Tooltip: Invoca una garra discordiana para luchar contigo
+}
+
+DemoniteStaff: {
+	DisplayName: Vara Demonita
+	Tooltip: Invoca un Devorador para luchar contigo
+}
+
+CrimeraStaff: {
+	DisplayName: Vara Crimera
+	Tooltip: Invoca una Crimera para luchar contigo
+}
+
+SandScepter: {
+	DisplayName: Cetro Arena
+	Tooltip: Invoca un diablo de polvo para luchar contigo
+}
+
+SentryOfTheEye: {
+	DisplayName: Centinela del Ojo
+	Tooltip: Invoca una centinela ojo
+}
+
+HorusCane: {
+	DisplayName: Bastón de Horus
+	Tooltip: Invoca una centinela Ojo de Horus
+}
+
+SkullWand: {
+	DisplayName: Varita Calavera
+	Tooltip: Invoca una calavera de calabozo para luchar contigo
+}
+
+HallowStaff: {
+	DisplayName: Vara Santificada
+	Tooltip: Invoca un prisma para luchar contigo
+}
+
+TrueHallowStaff: {
+	DisplayName: Vara Santificada Verdadera
+	Tooltip: Invoca un prisma arcoíris para luchar contigo
+}
+
+DemonStaff: {
+	DisplayName: Vara Demonio
+	Tooltip: Invoca un demonio para luchar contigo
+}
+
+DevilStaff: {
+	DisplayName: Vara Diablo
+	Tooltip: Invoca un diablo para luchar contigo
+}
+
+FireStaff: {
+	DisplayName: Vara Fuego
+	Tooltip: Invoca un fénix bebé para luchar por ti
+}
+
+DragonsPike: {
+	DisplayName: Pica del Dragón
+	Tooltip: Invoca un dragón de fuego para luchar por ti
+}
+
+AncientLungStaff: {
+	DisplayName: Vara Pulmón Antiguo
+	Tooltip: Invoca un pulmón antiguo para luchar por ti
+}
+
+HydraStaff: {
+	DisplayName: Vara Hidra
+	Tooltip: Invoca una hidra de piedra para luchar por ti
+}
+
+SnakeStaff: {
+	DisplayName: Vara Serpiente
+	Tooltip:
+		'''
+		Invoca una Serpiente de Nieve para luchar por ti
+		Invoca 2 segmentos por cada espacio de esbirro
+		'''
+}
+
+TerraStaff: {
+	DisplayName: Vara Terra
+	Tooltip: Invoca un Mago Terra para luchar contigo
+}
+
+TerraGauntlet: {
+	DisplayName: Guantelete Terra
+	Tooltip: Invoca un Calamar Terra, Esfera Terra, Gateador Terra o Tejedor Terra para luchar por ti
+}
+
+SagittariusCore: {
+	DisplayName: Núcleo Sagitario
+	Tooltip: Activa sondas que orbitan sobre ti y te defienden de enemigos cercanos
+}
+
+DoomiteRadio: {
+	DisplayName: Radio Doomita
+	Tooltip: Invoca una sonda radio doomita para luchar contigo
+}
+
+DoomiteSignal: {
+	DisplayName: Señal Doomita
+	Tooltip: Invoca una sonda doomita para luchar contigo
+}
+
+VoidProbeControlUnit: {
+	DisplayName: Unidad de Control de Sonda Vacío
+	Tooltip: Invoca una Sonda Vacío para luchar por ti
+}
+
+OverloadedDoomiteRadio: {
+	DisplayName: Radio Doomita Sobrecargada
+	Tooltip: Invoca un explorador vacío para luchar contigo
+}
+
+DoomPortal: {
+	DisplayName: Portal Perdición
+	Tooltip: Invoca un Protocolo Perdición pequeño para luchar por ti
+}
+
+DapperAcorn: {
+	DisplayName: Bellota Elegante
+	Tooltip:
+		'''
+		Atrae ardillas para luchar contigo por gloria.
+		'Multijugador = meme grande'
+		- Fargowilta
+		Bellota Mágica EX
+		'''
+}

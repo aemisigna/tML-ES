@@ -1,0 +1,943 @@
+Aves: {
+	AvesWings: {
+		DisplayName: Impulsores de Bajos Duckstep
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	AvesChestplate: {
+		DisplayName: Camisa Pato DJ
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	AvesHelmet: {
+		DisplayName: Máscara Pato DJ
+		Tooltip:
+			'''
+			'¡Quek!'
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	AvesLeggings: {
+		DisplayName: Pantalones Pato DJ
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Masks: {
+	AthenaAMask: {
+		DisplayName: Máscara Atenea Olímpica
+		Tooltip: ""
+	}
+
+	InfernoGripMask: {
+		DisplayName: Máscara de Garras del Infierno del Caos
+		Tooltip: ""
+	}
+
+	DaybringerMask: {
+		DisplayName: Máscara Portadora del Amanecer
+		Tooltip: ""
+	}
+
+	NightcrawlerMask: {
+		DisplayName: Máscara Rastreador Nocturno
+		Tooltip: ""
+	}
+
+	BlueOrthrusXMask: {
+		DisplayName: Máscara Orthrus X Azul
+		Tooltip: ""
+	}
+
+	RedOrthrusXMask: {
+		DisplayName: Máscara Orthrus X Rojo
+		Tooltip: ""
+	}
+
+	RetrieverMask: {
+		DisplayName: Máscara Retriever
+		Tooltip: ""
+	}
+
+	TechnoTruffleMask: {
+		DisplayName: Máscara Trufa Tecno
+		Tooltip: ""
+	}
+
+	AthenaMask: {
+		DisplayName: Máscara Atenea
+		Tooltip: ""
+	}
+
+	RajahRabbitMask: {
+		DisplayName: Máscara Conejo Rajá
+		Tooltip: ""
+	}
+
+	MireGripMask: {
+		DisplayName: Máscara de Garras del Cenagal del Caos
+		Tooltip: ""
+	}
+
+	ShenDoragonAMask: {
+		DisplayName: Máscara Shen Doragon Despertado
+		Tooltip: ""
+	}
+
+	ShenDoragonMask: {
+		DisplayName: Máscara Shen Doragon
+		Tooltip: ""
+	}
+
+	DesertDjinnMask: {
+		DisplayName: Máscara Genio del Desierto
+		Tooltip: ""
+	}
+
+	AnubisMask: {
+		DisplayName: Máscara Anubis
+		Tooltip: ""
+	}
+
+	AnubisAMask: {
+		DisplayName: Máscara Anubis Olvidado
+		Tooltip: ""
+	}
+
+	FeudalFungusMask: {
+		DisplayName: Máscara Hongo Feudal
+		Tooltip: ""
+	}
+
+	TruffleToadMask: {
+		DisplayName: Máscara Sapo Trufa
+		Tooltip: ""
+	}
+
+	GreedMask: {
+		DisplayName: Máscara de la Avaricia
+		Tooltip: ""
+	}
+
+	GreedAMask: {
+		DisplayName: Máscara Avaricia del Rey Gusano
+		Tooltip: ""
+	}
+
+	BroodmotherMask: {
+		DisplayName: Máscara Reina Madre
+		Tooltip: ""
+	}
+
+	AkumaAMask: {
+		DisplayName: Máscara Oni Akuma
+		Tooltip: ""
+	}
+
+	AkumaMask: {
+		DisplayName: Máscara Akuma
+		Tooltip: ""
+	}
+
+	HydraMask1: {
+		DisplayName: Máscara Hidra
+		Tooltip: ""
+	}
+
+	HydraMask2: {
+		DisplayName: Máscara Hidra
+		Tooltip: ""
+	}
+
+	HydraMask3: {
+		DisplayName: Máscara Hidra
+		Tooltip: ""
+	}
+
+	YamataAMask: {
+		DisplayName: Máscara Yamata No Orochi
+		Tooltip: ""
+	}
+
+	YamataMask: {
+		DisplayName: Máscara Yamata
+		Tooltip: ""
+	}
+
+	MushroomMonarchMask: {
+		DisplayName: Máscara Monarca Champiñón
+		Tooltip: ""
+	}
+
+	SubzeroSerpentMask: {
+		DisplayName: Máscara Serpiente Subgélida
+		Tooltip: ""
+	}
+
+	SagittariusMask: {
+		DisplayName: Máscara Sagitario
+		Tooltip: ""
+	}
+
+	ZeroMask: {
+		DisplayName: Máscara Zero
+		Tooltip: ""
+	}
+
+	RajahRabbitAMask: {
+		DisplayName: Máscara Conejo Rajá Campeón
+		Tooltip: ""
+	}
+
+	AsheMask: {
+		DisplayName: Máscara Ashe
+		Tooltip: ""
+	}
+
+	HarukaMask: {
+		DisplayName: Máscara Haruka
+		Tooltip: ""
+	}
+
+	RaiderUltimaMask: {
+		DisplayName: Máscara Raider Última
+		Tooltip: ""
+	}
+
+	SoulOfCthulhuAMask: {
+		DisplayName: Máscara Calamidad Cósmica
+		Tooltip: ""
+	}
+
+	SoulOfCthulhuMask: {
+		DisplayName: Máscara Alma de Cthulhu
+		Tooltip: ""
+	}
+
+	InfinityZeroMask: {
+		DisplayName: Máscara Infinito Zero
+		Tooltip: ""
+	}
+
+	ZeroAMask: {
+		DisplayName: Máscara Protocolo Zero
+		Tooltip: ""
+	}
+
+	OrthrusXMask: {
+		DisplayName: Máscara Orthrus X
+		Tooltip: ""
+	}
+}
+
+Pets: {
+	ScorchedEgg: {
+		DisplayName: Huevo Chamuscado
+		Tooltip: ¿Qué eclosionará de este huevo?
+	}
+
+	Seashroom: {
+		DisplayName: Champiñón Marino
+		Tooltip: Huele a pescado
+	}
+
+	CyberneticEgg: {
+		DisplayName: Huevo Cibernético
+		Tooltip: ¿Qué eclosionará de este... espera, ¿no ya hicimos esto?
+	}
+
+	CerberusWhistle: {
+		DisplayName: Silbato de Hades
+		Tooltip: Invoca al perro guardián del mismo rey del inframundo
+	}
+
+	K9Collar: {
+		DisplayName: Collar K9
+		Tooltip: Invoca un compañero robótico
+	}
+
+	MoonBeeInAJar: {
+		DisplayName: Abeja Lunar en un Frasco
+		Tooltip: Invoca una Lunaminí
+	}
+
+	MudFishBall: {
+		DisplayName: Bola de Pez de Lodo
+		Tooltip: Parece que ya tiene algo dentro
+	}
+
+	RoyalStar: {
+		DisplayName: Estrella Real
+		Tooltip: Invoca un gatito muy bonito
+	}
+
+	ShinyFishBall: {
+		DisplayName: Bola de Pez Brillante
+		Tooltip: Parece que ya tiene algo dentro
+	}
+
+	PaperBomb: {
+		DisplayName: Bomba de Papel
+		Tooltip: ""
+	}
+
+	DragonSoul: {
+		DisplayName: Alma de Dragón
+		Tooltip:
+			'''
+			Invoca un Alma de Dragón
+			Se siente caliente, pero reconfortante...
+			'''
+	}
+
+	GlowingMossBall: {
+		DisplayName: Bola de Musgo Brillante
+		Tooltip:
+			'''
+			Invoca una bola de musgo luminiscente
+			No preguntes qué hace que brille, créeme
+			'''
+	}
+
+	ZeroCore: {
+		DisplayName: Núcleo Zero
+		Tooltip: Invoca una ZER0 lite detectora de criaturas
+	}
+}
+
+BigE: {
+	BigEWings: {
+		DisplayName: Elevadores Eficientes
+		Tooltip:
+			'''
+			Mantén presionado y salta para flotar durante un período extendido
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	Shiny: {
+		BigEWingsS: {
+			DisplayName: Elevadores Eficientes
+			Tooltip:
+				'''
+				Mantén presionado y salta para flotar durante un período extendido
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+	}
+
+	LittleE: {
+		DisplayName: Pequeño E
+		Tooltip: "'Es una versión pequeña de mí, {0}. Quiero que la tengas.'"
+	}
+
+	LittleES: {
+		DisplayName: Calamit E
+		Tooltip: "'Oye, ¿te gusta Calamity Mod? {0}, hermano, sabía que te caería bien, amigo. Ven aquí, dame un abrazo. Vamos, hermano.'"
+	}
+}
+
+Blazen: {
+	BlazenWings: {
+		DisplayName: Impulsor de Asalto Táctico
+		Tooltip:
+			'''
+			Mantén presionado para cohete más rápido
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	BlazenChestplate: {
+		DisplayName: Armadura de Asalto Táctico
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	BlazenHelmet: {
+		DisplayName: Casco de Asalto Táctico
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	BlazenLeggings: {
+		DisplayName: Botas de Asalto Táctico
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Charlie: {
+	CharlieWings: {
+		DisplayName: Alas de Pesadilla Sombría
+		Tooltip:
+			'''
+			Mantén presionado y salta para flotar durante un período extendido
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	CharlieChestplate: {
+		DisplayName: Capa Espectral
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	CharlieHelmet: {
+		DisplayName: Capucha Espectral
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	CharlieLeggings: {
+		DisplayName: Botas Espectrales
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Gibs: {
+	GibsWings: {
+		DisplayName: Impulsor de Propulsión de Espectro
+		Tooltip:
+			'''
+			Mantén presionado y salta para flotar durante un período extendido
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	GibsChestplate: {
+		DisplayName: Peto de Espectro
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	GibsHelmet: {
+		DisplayName: Calavera de Espectro
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	GibsLeggings: {
+		DisplayName: Grebas de Espectro
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Grox: {
+	GroxWings: {
+		DisplayName: Velas del Cielo del Pirata Furioso
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	GroxChestplate: {
+		DisplayName: Peto de Cofre del Pirata Furioso
+		Tooltip:
+			'''
+			El odio hacia los peces que no saben programar emana de este peto.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	GroxHelmet: {
+		DisplayName: Capucha del Pirata Furioso
+		Tooltip:
+			'''
+			El odio hacia los peces que no saben programar emana de esta capucha.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	GroxLeggings: {
+		DisplayName: Grebas del Pirata Furioso
+		Tooltip:
+			'''
+			El odio hacia los peces que no saben programar emana de estas botas.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Moon: {
+	MoonWings: {
+		DisplayName: Alas de Avispa Lunar
+		Tooltip:
+			'''
+			Mantén presionado y salta para flotar durante un período extendido
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	MoonChestplate: {
+		DisplayName: Túnica Lunar
+		Tooltip:
+			'''
+			La túnica de un legendario mago lunar
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	Shiny: {
+		MoonChestplateS: {
+			DisplayName: Túnica Lunar
+			Tooltip:
+				'''
+				La túnica de un legendario mago lunar
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+
+		MoonHelmetS: {
+			DisplayName: Capucha Lunar
+			Tooltip:
+				'''
+				La capucha de un legendario mago lunar
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+
+		MoonLeggingsS: {
+			DisplayName: Botas Lunares
+			Tooltip:
+				'''
+				Las botas de un legendario mago lunar
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+	}
+
+	MoonHelmet: {
+		DisplayName: Capucha Lunar
+		Tooltip:
+			'''
+			La capucha de un legendario mago lunar
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	MoonLeggings: {
+		DisplayName: Botas Lunares
+		Tooltip:
+			'''
+			Las botas de un legendario mago lunar
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Anarchy: {
+	AnarchyChestplate: {
+		DisplayName: Peto Inmaculado
+		Tooltip:
+			'''
+			'¡Perfecto para semejar a los Colaboradores de Ancients Awakened!'
+			Para constar, Anarchy hizo los gráficos él mismo.
+			'''
+	}
+
+	AnarchyHelmet: {
+		DisplayName: Casco Inmaculado
+		Tooltip:
+			'''
+			'¡Perfecto para semejar a los Colaboradores de Ancients Awakened!'
+			Para constar, Anarchy hizo los gráficos él mismo.
+			'''
+	}
+
+	AnarchyLeggings: {
+		DisplayName: Polainas Inmaculadas
+		Tooltip:
+			'''
+			'¡Perfecto para semejar a los Colaboradores de Ancients Awakened!'
+			Para constar, Anarchy hizo los gráficos él mismo.
+			'''
+	}
+}
+
+Apawn: {
+	ApawnChestplate: {
+		DisplayName: Peto de Apawn
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+
+	ApawnHelmet: {
+		DisplayName: Visera de Apawn
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+
+	ApawnLeggings: {
+		DisplayName: Grebas de Apawn
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+}
+
+Beg: {
+	BegChestplate: {
+		DisplayName: Camiseta de Caballo Extraño
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	BegHelmet: {
+		DisplayName: Máscara de Caballo Extraño
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	BegLeggings: {
+		DisplayName: Cascos de Caballo Extraño
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+CC: {
+	CCChestplate: {
+		DisplayName: Túnica Cultista del Terror
+		Tooltip:
+			'''
+			La capucha de un loco entusiasta de los lagartos
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	Shiny: {
+		CCChestplateS: {
+			DisplayName: Túnica Cultista del Terror
+			Tooltip:
+				'''
+				La capucha de un loco entusiasta de los lagartos
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+
+		CCHelmetS: {
+			DisplayName: Máscara Cultista del Terror
+			Tooltip:
+				'''
+				La máscara de un loco entusiasta de los lagartos
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+	}
+
+	CCHelmet: {
+		DisplayName: Máscara Cultista del Terror
+		Tooltip:
+			'''
+			La máscara de un loco entusiasta de los lagartos
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Cerberus: {
+	CerberusChestplate: {
+		DisplayName: Túnica del Invocador
+		Tooltip:
+			'''
+			La túnica encantada de Aleister la 'Mega Therion'
+			¡Perfecto para semejar a los Desarrolladores Despertados!
+			'''
+	}
+
+	CerberusHelmet: {
+		DisplayName: Capucha del Invocador
+		Tooltip:
+			'''
+			La capucha encantada de Aleister la 'Mega Therion'
+			¡Perfecto para semejar a los Desarrolladores Despertados!
+			'''
+	}
+
+	CerberusLeggings: {
+		DisplayName: Botas del Invocador
+		Tooltip:
+			'''
+			Las botas encantadas de Aleister la 'Mega Therion'
+			¡Perfecto para semejar a los Desarrolladores Despertados!
+			'''
+	}
+}
+
+Delly: {
+	DellyChestplate: {
+		DisplayName: Camiseta de Sombra
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	DellyHelmet: {
+		DisplayName: Peluca de Sombra
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	DellyLeggings: {
+		DisplayName: Botas de Sombra
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Fargo: {
+	FargoChestplate: {
+		DisplayName: Traje de Ardilla Elegante
+		Tooltip:
+			'''
+			Muy prontoTM
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	FargoHelmet: {
+		DisplayName: Sombrero de Ardilla Elegante
+		Tooltip:
+			'''
+			Muy prontoTM
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	FargoLeggings: {
+		DisplayName: Pantalones de Ardilla Elegante
+		Tooltip:
+			'''
+			Muy prontoTM
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Fazer: {
+	FazerChestplate: {
+		DisplayName: Suéter de Zorro Esponjoso
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	FazerHelmet: {
+		DisplayName: Peluca de Zorro Esponjoso
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	FazerLeggings: {
+		DisplayName: Pantalones de Zorro Esponjoso
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+}
+
+Hallam: {
+	HallamChestplate: {
+		DisplayName: Esmoquin Elegante de Hallam
+		Tooltip:
+			'''
+			Este esmoquin fue tejido con pura clase
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	Shiny: {
+		HallamChestplateS: {
+			DisplayName: Esmoquin Elegante de Hallam
+			Tooltip:
+				'''
+				Este esmoquin fue tejido con pura clase
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+
+		HallamHelmetS: {
+			DisplayName: Sombrero de Copa Distinguido de Hallam
+			Tooltip:
+				'''
+				No puedes evitar sentirte elegante solo por usar esto
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+
+		HallamLeggingsS: {
+			DisplayName: Pantalones Elegantes de Hallam
+			Tooltip:
+				'''
+				Estos pantalones cuestan mucho más que tú
+				'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+				'''
+		}
+	}
+
+	HallamHelmet: {
+		DisplayName: Sombrero de Copa Distinguido de Hallam
+		Tooltip:
+			'''
+			No puedes evitar sentirte elegante solo por usar esto
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	HallamLeggings: {
+		DisplayName: Pantalones Elegantes de Hallam
+		Tooltip:
+			'''
+			Estos pantalones cuestan mucho más que tú
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Maskano: {
+	MaskanoChestplate: {
+		DisplayName: Peto del Señor de las Máscaras
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	MaskanoHelmet: {
+		DisplayName: La Máscara
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	MaskanoLeggings: {
+		DisplayName: Botas del Señor de las Máscaras
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+}
+
+Mikpin: {
+	MikpinChestplate: {
+		DisplayName: Vestido Kitsune
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+
+	MikpinHelmet: {
+		DisplayName: Peluca Kitsune
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+
+	MikpinLeggings: {
+		DisplayName: Pantalones Kitsune
+		Tooltip: ¡Perfecto para semejar a los Probadores de Ancients Awakened!
+	}
+}
+
+Pluto: {
+	PlutoChestplate: {
+		DisplayName: Peto del Dios Exterior
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	Shiny: {
+		PlutoChestplateS: {
+			DisplayName: Peto del Dios Exterior
+			Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+		}
+
+		PlutoHelmetS: {
+			DisplayName: Máscara del Dios Exterior
+			Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+		}
+	}
+
+	PlutoHelmet: {
+		DisplayName: Máscara del Dios Exterior
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	PlutoLeggings: {
+		DisplayName: Grebas del Dios Exterior
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Shox: {
+	ShoxChestplate: {
+		DisplayName: Peto del Señor de la Descarga
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	ShoxHelmet: {
+		DisplayName: Visera del Señor de la Descarga
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	ShoxLeggings: {
+		DisplayName: Botas del Señor de la Descarga
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+}
+
+Tails: {
+	TailsChestplate: {
+		DisplayName: Traje Corporal de Tails
+		Tooltip:
+			'''
+			Un traje corporal hecho para parecer un cierto zorro de dos colas.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	TailsHelmet: {
+		DisplayName: Casco de Tails
+		Tooltip:
+			'''
+			Un casco hecho para parecer un cierto zorro de dos colas.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+
+	TailsLeggings: {
+		DisplayName: Polainas de Tails
+		Tooltip:
+			'''
+			Polainas hechas para parecer un cierto zorro de dos colas.
+			'¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!'
+			'''
+	}
+}
+
+Tied: {
+	TiedChestplate: {
+		DisplayName: Peto Atado
+		Tooltip: ""
+	}
+
+	TiedHelmet: {
+		DisplayName: Calavera Escalofriante
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	TiedLeggings: {
+		DisplayName: Pantalones Escalofriantes
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+Universe: {
+	UniverseChestplate: {
+		DisplayName: Túnica del Segador Maldito
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	UniverseHelmet: {
+		DisplayName: Capucha del Segador Maldito
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+
+	UniverseLeggings: {
+		DisplayName: Botas del Segador Maldito
+		Tooltip: ¡Perfecto para semejar a los Desarrolladores de Ancients Awakened!
+	}
+}
+
+VoidEye: {
+	VoidEyeChestplate: {
+		DisplayName: Peto del Ojo del Vacío
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	VoidEyeHelmet: {
+		DisplayName: Máscara del Ojo del Vacío
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+
+	VoidEyeLeggings: {
+		DisplayName: Botas del Ojo del Vacío
+		Tooltip: ¡Perfecto para semejar a los Colaboradores de Ancients Awakened!
+	}
+}
+
+HappySunSticker: {
+	DisplayName: Calcomanía del Sol Feliz
+	Tooltip: ":D"
+}
+
+Ohno: {
+	Ono: {
+		DisplayName: ono
+		Tooltip: ono
+	}
+}

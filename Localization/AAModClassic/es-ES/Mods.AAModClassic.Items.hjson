@@ -1,0 +1,1273 @@
+BossSummon: {
+	ChaosRune: {
+		DisplayName: Runa del Caos
+		Tooltip:
+			'''
+			Una tablilla maldita rebosante de energía caótica
+			Invoca la verdadera forma despierta de Shen Doragon
+			No consumible
+			'''
+	}
+
+	ChaosSigil: {
+		DisplayName: Sello del Caos
+		Tooltip:
+			'''
+			Una tablilla maldita llena de magia inestable
+			Invoca al emperador del caos
+			No consumible
+			'''
+	}
+
+	DraconianSunRune: {
+		DisplayName: Runa Solar Draconiana
+		Tooltip:
+			'''
+			Una tablilla encantada rebosante de energía caótica y ardiente
+			Invoca a Akuma Despertado
+			Solo se puede usar durante el día en el Infierno
+			No consumible
+			'''
+	}
+
+	DreadMoonRune: {
+		DisplayName: Runa de la Luna Funesta
+		Tooltip:
+			'''
+			Una tablilla encantada que irradia energía caótica y oscura
+			Invoca a Yamata no Orochi
+			Solo se puede usar de noche en el Cenagal
+			No consumible
+			'''
+	}
+
+	DreadMoonSigil: {
+		DisplayName: Sello de la Luna Funesta
+		Tooltip:
+			'''
+			Una tablilla vieja y desgastada que, según dicen, contiene la magia oscura de la luna nueva
+			Invoca a Yamata
+			Solo se puede usar de noche en el Cenagal
+			No consumible
+			'''
+	}
+
+	EquinoxWorm: {
+		DisplayName: Gusano del Equinoccio
+		Tooltip:
+			'''
+			Un gusano creado con materiales celestiales
+			Invoca a los Gusanos del Equinoccio
+			No consumible
+			'''
+	}
+
+	DoomsdayTesseract: {
+		DisplayName: Teseracto del Fin del Mundo
+		Tooltip:
+			'''
+			DESCRIPCI0N AQUÍ
+			INESTABLE. C0NTIENE C0DIG0 PARA ACTIVAR AL PORTADOR DE LA MUERTE
+			SE RECOMIENDA ANALIZAR LA CONFIGURACIÓN DEL M0D: SE TE HA ADVERTIDO
+			N0 C0NSUMIBLE
+			'''
+	}
+
+	CyberneticScrap: {
+		DisplayName: Chatarra Cibernética
+		Tooltip:
+			'''
+			Un montón de basura metálica
+			Invoca a Orthrus X
+			Solo se puede usar de noche
+			'''
+	}
+
+	CyberneticBell: {
+		DisplayName: Campana Cibernética
+		Tooltip:
+			'''
+			Una campana cuidadosamente modificada
+			Invoca a Raider Ultima
+			Solo se puede usar de noche
+			'''
+	}
+
+	CyberneticClaw: {
+		DisplayName: Garra Cibernética
+		Tooltip:
+			'''
+			Invoca al Retriever
+			Solo se puede usar de noche
+			'''
+	}
+
+	InfinityBeacon: {
+		DisplayName: Baliza del Infinito
+		Tooltip:
+			'''
+			Un dispositivo siniestro con código inestable
+			Invoca al Asesino del Infinito
+			Tienes la sensación de que sería prudente revisar la configuración del mod. Se te ha advertido.
+			No consumible
+			'''
+	}
+
+	OwlStatue: {
+		DisplayName: Estatua de Búho
+		Tooltip:
+			'''
+			Invoca a Athena
+			Solo se puede usar en la Acrópolis, en el Altar del Búho
+			'Te mira fijamente hasta el alma.'
+			'''
+		TooltipAlt1: Solo se puede usar en la Acrópolis
+		TooltipAlt2: Úsala en el Altar del Búho para invocar a Athena
+		TooltipAlt3: Úsala directamente para invocar a Athena Olímpica
+	}
+
+	GoldenCarrot: {
+		DisplayName: Zanahoria de Diez Quilates
+		Tooltip: Invoca al mismísimo Castigador Saltarín
+	}
+
+	PlatinumCarrot: {
+		DisplayName: Zanahoria de Diez Quilates
+		Tooltip: Invoca al mismísimo Castigador Saltarín
+	}
+
+	TenCaratCarrot: {
+		DisplayName: Zanahoria de Diez Quilates
+		Tooltip:
+			'''
+			La furia del Rajah Furioso emana de esta zanahoria ornamentada...
+			No consumible
+			'''
+	}
+
+	CuriousLookingClaw: {
+		DisplayName: Garra de Aspecto Curioso
+		Tooltip:
+			'''
+			Está extrañamente seca
+			Solo se puede usar de noche
+			'''
+	}
+
+	InterestingLookingClaw: {
+		DisplayName: Garra de Aspecto Interesante
+		Tooltip:
+			'''
+			Está extrañamente húmeda
+			Solo se puede usar de noche
+			'''
+	}
+
+	FlamesOfAnarchy: {
+		DisplayName: Llamas de la Anarquía
+		Tooltip:
+			'''
+			Las llamas del caos arden en esta porcelana antigua
+			Invoca a las Hermanas de la Discordia
+			No consumible
+			'''
+	}
+
+	DesertLamp: {
+		DisplayName: Lámpara del Desierto
+		Tooltip: Invoca al Djinn del Desierto
+	}
+
+	RasScepter: {
+		DisplayName: Cetro de Ra
+		Tooltip:
+			'''
+			Invoca a Anubis
+			Solo se puede usar en el desierto, en la superficie
+			'Yo... tomé esto prestado de un amigo emplumado.'
+			No consumible
+			'''
+		TooltipExtension: Haz clic derecho para invocar al Juez Abandonado, Anubis
+	}
+
+	CursedSkull: {
+		DisplayName: Calavera Maldita
+		Tooltip:
+			'''
+			Invoca a Esqueletrón
+			Solo se puede usar de noche
+			'''
+	}
+
+	ConfusingLookingMushroom: {
+		DisplayName: Hongo de Aspecto Confuso
+		Tooltip:
+			'''
+			Invoca al Hongo Feudal
+			Solo se puede usar en un bioma de Hongos
+			'''
+	}
+
+	Toadstool: {
+		DisplayName: Seta Venenosa
+		Tooltip:
+			'''
+			Invoca al Sapo Trufa
+			Solo se puede usar en un bioma de Hongos
+			'''
+	}
+
+	GoldenGrub: {
+		DisplayName: Larva Dorada
+		Tooltip:
+			'''
+			Invoca a Avaricia
+			Solo se puede usar en el Tesoro de Avaricia, en el Altar del Deseo
+			'Es realmente brillante.'
+			'''
+		TooltipAlt1: Solo se puede usar en el Tesoro de Avaricia
+		TooltipAlt2: Úsala en el Altar del Deseo para invocar a Avaricia
+		TooltipAlt3: Úsala directamente para invocar al Rey Gusano, Avaricia
+	}
+
+	AncientBell: {
+		DisplayName: Campana Antigua
+		Tooltip:
+			'''
+			Una campana de elaboración ornamentada
+			Invoca a la Progenitora en el Infierno
+			Solo se puede usar durante el día
+			'''
+	}
+
+	DraconianSunSigil: {
+		DisplayName: Sello Solar Draconiano
+		Tooltip:
+			'''
+			Una tablilla ornamentada que, según dicen, contiene el poder radiante de mil soles
+			Invoca a Akuma
+			Solo se puede usar durante el día en el Infierno
+			No consumible
+			'''
+	}
+
+	JungleOrchid: {
+		DisplayName: Orquídea de la Jungla
+		Tooltip:
+			'''
+			Invoca a Plantera
+			Solo se puede usar en la Jungla subterránea
+			'''
+	}
+
+	HydraChow: {
+		DisplayName: Comida de Hidra
+		Tooltip:
+			'''
+			Solo sostener esto te da arcadas
+			Invoca a la Hidra
+			Solo se puede usar de noche
+			'''
+	}
+
+	IntimidatingLookingMushroom: {
+		DisplayName: Hongo de Aspecto Intimidante
+		Tooltip: Invoca al Monarca de los Hongos
+	}
+
+	SubzeroCrystal: {
+		DisplayName: Cristal Subcero
+		Tooltip: Invoca a la Serpiente Subcero
+	}
+
+	Lifescanner: {
+		DisplayName: Escáner Vital
+		Tooltip:
+			'''
+			Invoca a Sagittarius
+			Solo se puede usar en el Vacío
+			'''
+	}
+
+	ERROR_NULL: {
+		DisplayName: ERR0R_NULO
+		Tooltip:
+			'''
+			ACTIVA EL CÓDIGO GR0UND ZER0 PARA LA UNIDAD ZER0 MÁS CERCANA
+			SE RECOMIENDA ANALIZAR LA CONFIGURACIÓN DEL M0D: SE TE HA ADVERTIDO
+			N0 C0NSUMIBLE
+			'''
+	}
+
+	CyberneticShroom: {
+		DisplayName: Hongo Cibernético
+		Tooltip:
+			'''
+			Invoca a la Trufa Tecnológica
+			Solo se puede usar de noche
+			'''
+	}
+
+	CursedCompass: {
+		DisplayName: Brújula Maldita
+		Tooltip:
+			'''
+			Una brújula vieja y rota. Quién sabe para qué sirve.
+			Unos susurros tenues te instan a regresar al Barco Hundido
+			No consumible
+			'''
+
+		AltText0: {
+			Ready: La aguja de la brújula gira rápidamente y desprende un aura inquietante.
+			Downed: Una brújula vieja y rota que alberga una maldición sobrenatural.
+		}
+
+		AltText1:
+			'''
+			Invoca a la Calamidad Cósmica
+			Solo se puede usar cerca del Barco Hundido
+			'''
+	}
+
+	Masshroom: {
+		DisplayName: Hongomasa
+		Tooltip: Invoca a muchos Monarcas de los Hongos
+	}
+
+	GlowingMasshroom: {
+		DisplayName: Hongomasa Brillante
+		Tooltip:
+			'''
+			Invoca a muchos Hongos Feudales
+			Solo se puede usar en biomas de Hongos Luminosos
+			'''
+	}
+}
+
+Consumables: {
+	InfernoKey: {
+		DisplayName: Llave del Infierno
+		Tooltip: Desbloquea el poder del sol abrasador
+	}
+
+	VoidKey: {
+		DisplayName: Chip Antiapocalipsis
+		Tooltip: Desbloquea los cofres del Fin del Mundo
+	}
+
+	LuckyCracker: {
+		DisplayName: Galleta de la Suerte
+		Tooltip: Dijo que podía darte suerte. ¿Confías en ella?
+	}
+
+	LuckyCalmingPotion: {
+		DisplayName: Poción de Calma Afortunada
+		Tooltip: Reduce la agresividad de los enemigos
+	}
+
+	LuckyEndurancePotion: {
+		DisplayName: Poción de Resistencia Afortunada
+		Tooltip:
+			'''
+			Reduce el daño recibido un 10%
+			Aumenta tu defensa un 10%
+			'''
+	}
+
+	LuckyIronskinPotion: {
+		DisplayName: Poción de Piel de Hierro Afortunada
+		Tooltip: Aumenta la defensa en 9
+	}
+
+	LuckyLifeforcePotion: {
+		DisplayName: Poción de Fuerza Vital Afortunada
+		Tooltip: Aumenta la vida máxima un 21%
+	}
+
+	LuckyRagePotion: {
+		DisplayName: Poción de Furia Afortunada
+		Tooltip: Aumenta la probabilidad de crítico un 11%
+	}
+
+	LuckyRegenerationPotion: {
+		DisplayName: Poción de Regeneración Afortunada
+		Tooltip: Proporciona regeneración de vida
+	}
+
+	LuckySummoningPotion: {
+		DisplayName: Poción de Invocación Afortunada
+		Tooltip: Aumenta el número máximo de súbditos y centinelas
+	}
+
+	LuckySwiftnessPotion: {
+		DisplayName: Poción de Rapidez Afortunada
+		Tooltip: Aumenta la velocidad de movimiento un 26%
+	}
+
+	LuckyThornsPotion: {
+		DisplayName: Poción de Espinas Afortunada
+		Tooltip: Los atacantes también reciben daño
+	}
+
+	LuckyWrathPotion: {
+		DisplayName: Poción de Ira Afortunada
+		Tooltip: Aumenta el daño un 11%
+	}
+
+	RoninPotion: {
+		DisplayName: Poción de Ronin
+		Tooltip: Cuando no recibes daño, obtienes 3 s de inmunidad
+	}
+
+	Carrot: {
+		DisplayName: Zanahoria
+		Tooltip: Buena para la vista
+	}
+
+	GrandHealingPotion: {
+		DisplayName: Poción de Curación Grandiosa
+		Tooltip: ""
+	}
+
+	GrandManaPotion: {
+		DisplayName: Poción de Maná Grandiosa
+		Tooltip: ""
+	}
+
+	TheBigOne: {
+		DisplayName: El Grandote
+		Tooltip: ""
+	}
+
+	OrderBottle: {
+		DisplayName: Frasco del Orden
+		Tooltip: Devuelve el orden a los biomas del Caos
+	}
+
+	OrderSolution: {
+		DisplayName: Solución del Orden
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Purifica el Caos
+			'''
+	}
+
+	CorruptionFlask: {
+		DisplayName: Frasco de las Sombras
+		Tooltip: Extiende la Corrupción
+	}
+
+	CrimsonFlask: {
+		DisplayName: Frasco de Sangre
+		Tooltip: Extiende el Carmesí
+	}
+
+	YellowSolution: {
+		DisplayName: Solución Amarilla
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Limpia el bioma de Nieve
+			'''
+	}
+
+	GlowingSporeBag: {
+		DisplayName: Bolsa de Esporas Brillantes
+		Tooltip: Extiende los Hongos
+	}
+
+	HallowFlask: {
+		DisplayName: Frasco de Cristal
+		Tooltip: Extiende el Sagrado
+	}
+
+	GildedKey: {
+		DisplayName: Llave Dorada
+		Tooltip: Probablemente desbloquee... ¿algo?
+	}
+
+	AshJar: {
+		DisplayName: Jarra de Ceniza
+		Tooltip: Extiende el Infierno
+	}
+
+	ScorchedSeeds: {
+		DisplayName: Semillas Carbonizadas
+		Tooltip: Planta hierba del Infierno
+	}
+
+	Sunpowder: {
+		DisplayName: Polvo Solar
+		Tooltip: ""
+	}
+
+	FlaskOfDragonfire: {
+		DisplayName: Frasco de Fuego de Dragón
+		Tooltip: Los ataques cuerpo a cuerpo y con látigo infligen Fuego de Dragón
+	}
+
+	KeyOfSmite: {
+		DisplayName: Llave del Castigo
+		Tooltip: Cargada de energía ígnea
+	}
+
+	OrangeSolution: {
+		DisplayName: Solución Naranja
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Extiende el Infierno
+			'''
+	}
+
+	Fungicide: {
+		DisplayName: Fungicida
+		Tooltip: Originalmente preparado por el Enjambre para combatir la amenaza de hongos en constante expansión.
+	}
+
+	JungleFlask: {
+		DisplayName: Frasco de Jungla
+		Tooltip: Convierte el Bosque en Jungla
+	}
+
+	LimeSolution: {
+		DisplayName: Solución Lima
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Convierte el Bosque en Jungla
+			'''
+	}
+
+	SwarmSolution: {
+		DisplayName: Solución del Enjambre
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Purifica los biomas de hongos
+			'''
+	}
+
+	GodlySoul: {
+		DisplayName: Alma Divina
+		Tooltip:
+			'''
+			Otorga a un arma el prefijo ''Divino'' si es posible
+			Haz clic derecho en el arma con el alma para establecer el prefijo
+			Se consume en el proceso
+			'''
+	}
+
+	LegendarySoul: {
+		DisplayName: Alma Legendaria
+		Tooltip:
+			'''
+			Otorga a un arma el prefijo ''Legendario'' si es posible
+			Haz clic derecho en el arma con el alma para establecer el prefijo
+			Se consume en el proceso
+			'''
+	}
+
+	MythicalSoul: {
+		DisplayName: Alma Mítica
+		Tooltip:
+			'''
+			Otorga a un arma el prefijo ''Mítico'' si es posible
+			Haz clic derecho en el arma con el alma para establecer el prefijo
+			Se consume en el proceso
+			'''
+	}
+
+	UnrealSoul: {
+		DisplayName: Alma Irreal
+		Tooltip:
+			'''
+			Otorga a un arma el prefijo ''Irreal'' si es posible
+			Haz clic derecho en el arma con el alma para establecer el prefijo
+			Se consume en el proceso
+			'''
+	}
+
+	DankSeeds: {
+		DisplayName: Semillas del Cenagal
+		Tooltip: Planta hierba del Cenagal
+	}
+
+	DarkwaterFlask: {
+		DisplayName: Frasco de Agua Oscura
+		Tooltip: Extiende el Cenagal
+	}
+
+	Moonpowder: {
+		DisplayName: Polvo Lunar
+		Tooltip: ""
+	}
+
+	FlaskOfHydratoxin: {
+		DisplayName: Frasco de Hidratoxina
+		Tooltip: Los ataques cuerpo a cuerpo y con látigo infligen Hidratoxina
+	}
+
+	IndigoSolution: {
+		DisplayName: Solución Índigo
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Extiende el Cenagal
+			'''
+	}
+
+	KeyOfSpite: {
+		DisplayName: Llave del Rencor
+		Tooltip: Cargada de energía abisal
+	}
+
+	MireKey: {
+		DisplayName: Llave del Cenagal
+		Tooltip: Desbloquea el poder del abismo colérico
+	}
+
+	ForestFlask: {
+		DisplayName: Frasco de Bosque
+		Tooltip: Convierte la Jungla en Bosque
+	}
+
+	DeepGreenSolution: {
+		DisplayName: Solución Verde Oscura
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Convierte la Jungla en Bosque
+			'''
+	}
+
+	BrownSolution: {
+		DisplayName: Solución Marrón
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Extiende el bioma de Hongo Rojo
+			'''
+	}
+
+	MyceliumSeeds: {
+		DisplayName: Semillas de Micelio
+		Tooltip: Planta micelio
+	}
+
+	SporeBag: {
+		DisplayName: Bolsa de Esporas
+		Tooltip: Extiende el bioma de hongos de la superficie
+	}
+
+	IceFlask: {
+		DisplayName: Frasco de Hielo
+		Tooltip: Extiende la Tundra
+	}
+
+	IcemeltFlask: {
+		DisplayName: Frasco de Deshielo
+		Tooltip: Limpia el bioma de Nieve
+	}
+
+	WhiteSolution: {
+		DisplayName: Solución Blanca
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Extiende el bioma de Nieve
+			'''
+	}
+
+	StarIdol: {
+		DisplayName: Bendición de las Estrellas
+		Tooltip:
+			'''
+			Brilla como las estrellas del cielo
+			Solo se puede usar si no hay muchas estrellas de radio en el mundo.
+			'''
+	}
+
+	PurityFlask: {
+		DisplayName: Frasco de Pureza
+		Tooltip: Extiende el Bosque
+	}
+
+	VoidFlask: {
+		DisplayName: Frasco del Vacío
+		Tooltip: Extiende el Vacío
+	}
+
+	BlackSolution: {
+		DisplayName: Solución Negra
+		Tooltip:
+			'''
+			La usa el Clentaminator
+			Extiende el Vacío
+			'''
+	}
+
+	TerraKey: {
+		DisplayName: Llave de Terra
+		Tooltip: ""
+	}
+
+	GoblinTinkererDoll: {
+		DisplayName: Muñeco del Duende Chapucero
+		Tooltip: "'Lo siento, pequeñito...'"
+	}
+}
+
+Currency: {
+	AncientCoin: {
+		DisplayName: Moneda Antigua
+		Tooltip: Una moneda roja y azul con una A grabada
+	}
+
+	BloodRune: {
+		DisplayName: Runa de Sangre
+		Tooltip: Una piedra antigua que, según dicen, contiene la sangre de un ser ancestral
+	}
+
+	ChristmasCheer: {
+		DisplayName: Alegría Navideña
+		Tooltip: Alegría pura y una frescura mentolada
+	}
+
+	GoblinSoul: {
+		DisplayName: Alma de Duende
+		Tooltip: El alma de un duende
+	}
+
+	MartianCredit: {
+		DisplayName: Crédito Marciano
+		Tooltip: Una tarjeta que tiene algún valor monetario para los marcianos
+	}
+
+	PirateBooty: {
+		DisplayName: Botín Pirata
+		Tooltip: Una moneda de oro extraordinariamente bien elaborada
+	}
+
+	HalloweenTreat: {
+		DisplayName: Dulce de Halloween
+		Tooltip: Un dulce muy sabroso. Pero no lo comas; probablemente esté maldito.
+	}
+
+	MonsterSoul: {
+		DisplayName: Alma de Monstruo
+		Tooltip: El alma de un monstruo aterrador
+	}
+}
+
+MonochromeApple: {
+	DisplayName: Manzana Monocromática
+	Tooltip: Atraerá a un amigo ecuestre
+}
+
+GRealmAdvertisement: {
+	DisplayName: Anuncio de GRealm
+	Tooltip:
+		'''
+		'¿Quieres más contenido de AA y más diversión llena de Grox? ¡Juega a GRealm!'
+		- Grox el Grande
+		'''
+}
+
+FancyTruffle: {
+	DisplayName: Trufa Elegante
+	Tooltip: Atrae a una criatura real que prospera en el agua y el combate
+}
+
+RoyalRabbit_Item: {
+	DisplayName: Conejo Real
+	Tooltip: Bajo la protección directa del Castigador Saltarín
+}
+
+ChampionHelmetMageSetEffect_CarrotBooster: {
+	DisplayName: Potenciador de Zanahoria
+	Tooltip: Etéreo, pero crujiente.
+}
+
+Dyes: {
+	DiscordianDye: {
+		DisplayName: Tinte Discordiano
+		Tooltip: Da un toque discordante a cualquier cosa a la que se aplique este tinte
+	}
+
+	DiscordianInfernoDye: {
+		DisplayName: Tinte del Infierno Discordante
+		Tooltip: Da un toque discordante a cualquier cosa a la que se aplique este tinte
+	}
+
+	BlazingDye: {
+		DisplayName: Tinte Ardiente
+		Tooltip: Da un toque ardiente a cualquier cosa a la que se aplique este tinte
+	}
+
+	BlazingFuryDye: {
+		DisplayName: Tinte de la Furia Ardiente
+		Tooltip: Da un toque ardiente a cualquier cosa a la que se aplique este tinte
+	}
+
+	AbyssalDye: {
+		DisplayName: Tinte Abisal
+		Tooltip: Da un toque abisal a cualquier cosa a la que se aplique este tinte
+	}
+
+	AbyssalWrathDye: {
+		DisplayName: Tinte de la Ira Abisal
+		Tooltip: Da un toque abisal a cualquier cosa a la que se aplique este tinte
+	}
+
+	DoomsdayDye: {
+		DisplayName: Tinte del Fin del Mundo
+		Tooltip: Añade un aspecto con fallos a cualquier cosa a la que se aplique este tinte
+	}
+}
+
+TheLifeAndEpicAdventuresOfAnubisTheWonderDog: {
+	DisplayName: La Vida y las Aventuras Épicas de Anubis, el Perro Maravilla
+	Tooltip: ""
+}
+
+Fishmother: {
+	DisplayName: Madre Pez
+	Tooltip: ""
+}
+
+Hellfisher: {
+	DisplayName: Pez Infernal
+	Tooltip: ""
+}
+
+TriHeadedKoi: {
+	DisplayName: Koi de Tres Cabezas
+	Tooltip: ""
+}
+
+LovecraftiansResearchList: {
+	DisplayName: Lista de Investigación del Lovecraftiano
+	Tooltip:
+		'''
+		¡Necesito estas cosas, por favor!
+		1. Algo de esa biosfera subterránea. Un cristal de allí podría servir...
+		2. Muestras de carne de la Corrupción. Quiero ver de qué están hechas esas cosas.
+		3. Una muestra de hueso del Carmesí. Me pregunto cómo funciona su estructura ósea.
+		4. Averigua de qué se alimentan las criaturas del Cenagal. Solo mátalas hasta que alguna deje caer su comida o algo así.
+		5. Una escama de algo del Infierno. Intento descubrir cómo es que estas cosas resisten tanto el fuego.
+		6. Muestras de esporas de la Jungla. Estos hongos son muy molestos; quizá pueda crear algo para acabar con ellos.
+		7. Alguna parte de criatura que inyecte veneno o algo parecido. Se me rompió la jeringa y esa enfermera no me deja usar ninguna de las suyas.
+		8. Una muestra de aquello de lo que están hechos el Monarca de los Hongos y el Hongo Feudal. Aunque quizá necesite ayuda para estudiarlos...
+		9. Un trozo de chatarra de esas islas flotantes al oeste de aquí. Parece un material interesante para fabricar equipo.
+		10. Una máquina de hielo estaría bastante bien.
+		11. Conejos. No para hacer pruebas; simplemente me parecen tiernos y quiero un par como mascotas.
+		12. Algo brillante del Sagrado. Me pregunto si podría usarlo para preparar más pociones...
+		'''
+}
+
+MadnessMushroom: {
+	DisplayName: Hongo de la Locura
+	Tooltip:
+		'''
+		Un hongo extremadamente raro
+		¿Quizá Mushman sepa qué hacer con él?
+		'''
+}
+
+GravitySphere: {
+	DisplayName: Esfera Gravitacional
+	Tooltip: ¡Un modelo de piedra del planeta, con una luna orbitando!
+}
+
+StarChart: {
+	DisplayName: Carta Estelar
+	Tooltip: Un mapa del sistema solar hasta este planeta.
+}
+
+WormIdol: {
+	DisplayName: Ídolo Gusano
+	Tooltip:
+		'''
+		Una estatua antigua que representa algún tipo de dios gusano.
+		Parece que nadie la ha tocado en años
+		'''
+}
+
+GS: {
+	DisplayName: G S
+	Tooltip: ""
+}
+
+SC: {
+	DisplayName: S C
+	Tooltip: ""
+}
+
+GlitchFish: {
+	DisplayName: Pez con Fallos
+	Tooltip: ""
+}
+
+Lore: {
+	Calamity: {
+		MushroomMonarchLore: {
+			DisplayName: Monarca de los Hongos
+			Tooltip: ""
+			Lore:
+				'''
+				Hasta los seres más simples tienen sus reyes.
+				Por razones que no pretendo conocer, los hongos de Terraria buscan expandir su alcance sin fin. 
+				Con líderes tan débiles como este, no sorprende que no lo hayan logrado, incluso con las ventajas que mi cruzada podría haberles proporcionado.
+				'''
+		}
+
+		FeudalFungusLore: {
+			DisplayName: Hongo Feudal
+			Tooltip: ""
+			Lore:
+				'''
+				A pesar del espantoso control que pueden ejercer, sería deshonesto decir que no encuentro fascinante su naturaleza.
+				Si mi cruzada hubiera terminado como debía y mi relación con el ingeniero no se hubiera desvanecido, le habría pedido que estudiara las propiedades mágicas del hongo.
+				'''
+		}
+
+		GripsOfChaosLore: {
+			DisplayName: Garras del Caos
+			Tooltip: ""
+			Lore:
+				'''
+				Estas extrañas manos son algo habitual entre mis exploradores.
+				Desconozco su naturaleza, pero supongo que están relacionadas con el malvado caos que se cierne sobre Terraria.
+				Una cosa sí sé con certeza: los dioses no son lo único que profana esta tierra.
+				'''
+		}
+
+		TruffleToadLore: {
+			DisplayName: Sapo Trufa
+			Tooltip: ""
+			Lore:
+				'''
+				Otra muestra de la tenacidad del hongo y de su negativa a dejar descansar a los muertos.
+				Con el tiempo, he aprendido que estas demostraciones de poder no son más que intentos desesperados de los débiles por alcanzar la fuerza.
+				'''
+		}
+
+		BroodmotherLore: {
+			DisplayName: La Progenitora
+			Tooltip: ""
+			Lore:
+				'''
+				Qué criatura tan curiosa, nacida de ese caos infernal; es una pena verla muerta.
+				Ya había conocido a su hija; es una relación extraña, pero aprendí a tratarla con respeto.
+				A partir de ahora, tendré cuidado.
+				'''
+		}
+
+		HydraLore: {
+			DisplayName: La Hidra
+			Tooltip: ""
+			Lore:
+				'''
+				El Cenagal áspero y caótico al que llama hogar fue en otro tiempo un asentamiento de gran renombre.
+				Eran mis partidarios más fervientes, y su destrucción fue una tragedia que no pude evitar.
+				Dios o no, quienquiera que sea responsable algún día conocerá mi ira.
+				'''
+		}
+
+		DesertDjinnLore: {
+			DisplayName: Djinn del Desierto
+			Tooltip: ""
+			Lore:
+				'''
+				En la Era de los Dragones, el Mar Ilmerano no era más que un desierto azotado por la arena y el hogar de una casta abandonada.
+				La mano de mi Cruzada lo restauró.
+				Ahora, los espíritus de aquella civilización olvidada despiertan de su sueño ahogado por el agua.
+				Un giro del destino bastante extraño, ¿no crees?
+				'''
+		}
+
+		SubzeroSerpentLore: {
+			DisplayName: Serpiente Subcero
+			Tooltip: ""
+			Lore:
+				'''
+				Pobre criatura.
+				Parece que se ha debilitado a medida que la esencia divina y las fuerzas caóticas invaden su hábitat.
+				Ambas son plagas que deben ser erradicadas si este mundo ha de conocer la paz algún día.
+				'''
+		}
+
+		SagittariusLore: {
+			DisplayName: Sagittarius
+			Tooltip: ""
+			Lore:
+				'''
+				Esas islas siniestras... Desde hace mucho tiempo fascinan a Draedon.
+				Muchos de mis investigadores, bajo su mando, han estudiado la anomalía que las rodea.
+				Y, aun así, han aprendido muy poco...
+				El constructo al que te enfrentaste tiene una construcción única en comparación con los demás que hemos observado.
+				Hay otros que buscan comprender la naturaleza de esta anomalía; quizá tengan un papel que desempeñar en todo esto.
+				'''
+		}
+
+		SiegeUnitsLore: {
+			DisplayName: Las Unidades de Asedio
+			Tooltip: ""
+			Lore:
+				'''
+				Qué constructos tan ridículos; sin duda son obra de los Fulgurianos.
+				Antes eran un único ser, la Elemental de Tormenta, aunque hace mucho tiempo se separaron para formar una organización más grande.
+				Sus intentos de innovar son ridículos; incluso estas máquinas defectuosas reflejan claramente que se inspiraron en los propios fracasos de Draedon.
+				Sin duda, su arrogancia será su perdición.
+				'''
+		}
+
+		OrthrusXLore: {
+			DisplayName: Orthrus X
+			Tooltip: ""
+			Lore:
+				'''
+				¿De verdad esta tosca maquinaria es la última línea de defensa de los Fulgurianos?
+				Qué patético.
+				No me cabe duda de que mis Caballeros Buscadores de Dioses podrían reducirla a poco más que chatarra sin esfuerzo.
+				'''
+		}
+
+		RaiderUltimaLore: {
+			DisplayName: Raider Ultima
+			Tooltip: ""
+			Lore:
+				'''
+				Había oído rumores sobre esta Unidad de Asedio.
+				Algunos miembros de mi infantería han sido derrotados por ella en varias ocasiones.
+				Al verte acabar con ella... Está claro que mis soldados se han ablandado durante mi ausencia.
+				'''
+		}
+
+		RetrieverLore: {
+			DisplayName: El Retriever
+			Tooltip: ""
+			Lore:
+				'''
+				Construir una unidad de recuperación con forma de mano... Es casi lamentable.
+				A pesar de su diseño deficiente, sin duda es capaz de entrar en la anomalía.
+				No me cabe duda de que la intromisión de los Fulgurianos en aquello que no comprenden solo puede acabar mal.
+				'''
+		}
+
+		AnubisLore: {
+			DisplayName: El Escriba Legendario
+			Tooltip: ""
+			Lore:
+				'''
+				Hasta hace poco, solo había oído los mitos que murmuraban mis Caballeros del Escriba Legendario.
+				Después de la Gran Incineración, me sorprendió encontrarlo ante mi corte, en carne y hueso.
+				Emitió una advertencia: alguien se alzaría para poner fin a mi reinado.
+				Parece que ve en ti el medio para destruirme.
+				Solo el tiempo dirá cómo termina esta fábula...
+				'''
+		}
+
+		AthenaLore: {
+			DisplayName: Athena
+			Tooltip: ""
+			Lore:
+				'''
+				Una cohorte bastante peculiar; antes de la Caída, los serafines solían mezclarse con los Crisadianos.
+				Ahora se han convertido en ermitaños reservados que dependen de la protección de su Reina.
+				Si esto es todo en lo que se han convertido los Antiguos, estoy profundamente decepcionado.
+				'''
+		}
+
+		GreedLore: {
+			DisplayName: Avaricia
+			Tooltip: ""
+			Lore:
+				'''
+				¿Qué es esto...? ¿Otro gusano como... él?
+				Imposible; todos fueron purgados, salvo el Devorador, porque escapó hacia un--
+				...hmm... ¿y si no era el único con esa habilidad...?
+				'''
+		}
+
+		RajahRabbitLore: {
+			DisplayName: Rajah, el Conejo
+			Tooltip: ""
+			Lore:
+				'''
+				Un noble guerrero, Rajah es un rival digno.
+				Durante mi conquista, me desafió por la misma razón por la que te buscó; acepté su invitación y lo derroté en un duelo.
+				Sobrevivió gracias a su pura determinación, me desafió una vez más y llegamos a entendernos.
+				No éramos tan distintos: vengadores de los caídos injustamente. Nuestro vínculo se hizo más fuerte y nuestras espadas chocaron muchas veces más.
+				Draedon afirmó una vez que era un espía que estudiaba mis movimientos para matarme algún día, pero se equivocaba. Nunca podría entender el respeto mutuo entre dos rivales.
+				Aunque nos hemos distanciado, lo conozco bien: esto estuvo muy lejos de mostrar todo el alcance de su poder. Agradece que haya sido misericordioso y espera que no desate toda su furia contra ti.
+				'''
+		}
+
+		ForsakenAnubisLore: {
+			DisplayName: Juez Abandonado, Anubis
+			Tooltip: ""
+			Lore:
+				'''
+				Así que Anubis decidió mostrarte un atisbo de lo que es capaz de hacer en realidad.
+				Cuando decidió enfrentarse a mí, sin duda estaba en su máximo poder.
+				Aun así, no sentí miedo. Esto no fue nada comparado con el poder que presencié al enfrentarme al Traidor Todopoderoso.
+				Tendrás que hacerte aún más fuerte si esperas estar a mi altura.
+				'''
+		}
+
+		OlympianAthenaLore: {
+			DisplayName: Athena Olímpica
+			Tooltip: ""
+			Lore:
+				'''
+				Había pensado que era posible que Athena se hubiera contenido en tu primer enfrentamiento.
+				Así que este es el verdadero poder de un Varian... El tiempo ha diezmado a los de su especie, pero aún les queda fuerza para luchar.
+				Me pregunto, si hubieran ayudado a los Dragones en su batalla final, ¿habría escrito el destino una historia diferente...?
+				'''
+		}
+
+		WormKingGreedLore: {
+			DisplayName: Rey Gusano, Avaricia
+			Tooltip: ""
+			Lore:
+				'''
+				Mi hipótesis ha quedado demostrada...
+				No cabe duda. Ese gusano dorado es, en efecto, pariente del Devorador.
+				Pero si eso es cierto, entonces...
+				¿Desde hace cuánto tiempo los de la estirpe de la Distorsión han estado influyendo en estas tierras...?
+				'''
+		}
+
+		EquinoxWormsLore: {
+			DisplayName: Los Gusanos del Equinoccio
+			Tooltip: ""
+			Lore:
+				'''
+				Nuestro mundo conoce muchos gusanos de origen cósmico, y estos dos no son la excepción.
+				Gracias a su benevolencia, nuestro mundo recibe el regalo del Día y la Noche.
+				Son todo lo contrario de los Dioses. Se dedican a nuestro bienestar.
+				Las leyendas incluso cuentan que lucharon junto a un héroe para desterrar las fuerzas del Caos.
+				Fue ese héroe quien me inspiró a empuñar mi espada y comenzar mi Cruzada.
+				'''
+		}
+
+		SistersOfDiscordLore: {
+			DisplayName: Las Hermanas de la Discordia
+			Tooltip: ""
+			Lore:
+				'''
+				Esas dos son una pareja bastante irritante.
+				No me cabe duda de que la callada lleva un tiempo espiando las operaciones de la Cruzada.
+				Del mismo modo, la maga ha atacado a mis tropas en varias ocasiones. He oído que desea enfrentarse a la Bruja de Azufre en un combate uno contra uno.
+				Dudo que sobrevivieran a un encuentro así incluso trabajando en equipo.
+				'''
+		}
+
+		AkumaLore: {
+			DisplayName: Akuma
+			Tooltip: ""
+			Lore:
+				'''
+				El Demonio Draconiano...
+				Cualquier intento de mis fuerzas por adentrarse en el Infierno era repelido rápidamente por sus llamas.
+				Él fue el responsable del Infierno, que nació de sus llamas y arrasó con la civilización que una vez llamó hogar a la región.
+				Cuidado: tu victoria aquí solo es temporal. El espíritu furioso de Akuma aún perdura.
+				Y me temo que su verdadero poder sigue dormido... Esperando ser despertado.
+				'''
+		}
+
+		YamataLore: {
+			DisplayName: Yamata
+			Tooltip: ""
+			Lore:
+				'''
+				La Pesadilla Funesta...
+				Mis fuerzas no se atrevían a entrar en el Cenagal; sus viles toxinas acababan con cualquiera que lo hiciera.
+				Fue él el responsable del Cenagal: nació de sus toxinas, que asfixiaron a la civilización que una vez llamó hogar a la región.
+				Cuidado: tu victoria aquí solo es temporal. El alma colérica de Yamata aún persiste.
+				Y me temo que su verdadero poder sigue dormido... Esperando ser despertado.
+				'''
+		}
+
+		ZeroLore: {
+			DisplayName: Zero
+			Tooltip: ""
+			Lore:
+				'''
+				El Constructo del Fin del Mundo...
+				Draedon llevaba mucho tiempo fascinado por esta unidad. Sus escudos repelieron cada uno de sus intentos de atravesarlos.
+				Parece que solo tú fuiste capaz de activarla.
+				Ten cuidado.
+				Esa señal de auxilio, si hay que creer en la investigación de Draedon sobre esa anomalía...
+				Has invitado al desastre a nuestra puerta.
+				'''
+		}
+
+		ChampionRajahRabbitLore: {
+			DisplayName: El Campeón de los Inocentes
+			Tooltip: ""
+			Lore:
+				'''
+				Pensaba que el tiempo de Rajah como Campeón de los Inocentes duraría mucho más que el mío, pero me equivocaba.
+				Ahora tú ostentas su título y él se retira, igual que yo.
+				Derrotarlo en su máximo poder no es poca cosa; quizá ya estés listo para enfrentarte incluso a mí.
+				Sal victorioso de tus próximas batallas y ese momento no tardará en llegar.
+				'''
+		}
+
+		ShenDoragonLore: {
+			DisplayName: Shen Doragon
+			Tooltip: ""
+			Lore:
+				'''
+				Pensar que Akuma y Yamata no eran más que dos mitades de un mismo ser...
+				Aun así, no puedo evitar dudar que eso fuera todo de lo que era capaz.
+				En relatos antiguos, he oído la historia de un héroe que luchó contra la Discordia Encarnada.
+				Sin embargo, ese relato no describía a un dragón, sino a un hombre... Qué curioso...
+				'''
+		}
+
+		InfinityZeroLore: {
+			DisplayName: Cero Infinito
+			Tooltip: ""
+			Lore:
+				'''
+				El conocimiento del Asesino del Infinito era lo más lejos que había llegado la investigación de Draedon sobre la anomalía.
+				Pensar que era tan poderoso y que no era más que una carcasa para una amenaza aún mayor.
+				Olvido... Me temo que ya había oído ese nombre, en antiguos textos que describían la creación de nuestro universo.
+				Cuatro Titanes de poder inconmensurable...
+				¿Podría ser esta la encarnación de la Entropía de la que hablaban...?
+				'''
+		}
+
+		SoulOfCthulhuLore: {
+			DisplayName: Alma de Cthulhu
+			Tooltip: ""
+			Lore:
+				'''
+				La caída de los dragones... ¿Podría ser que no hubiera un solo behemot aberrante, sino dos...?
+				Si hemos de creer a ese espíritu sobrenatural, así debió ser; pero ¿por qué me ocultarían la historia de este...?
+				En mis estudios del idioma de los Dragones, aprendí que 'Cthulhu' significa 'Gran Bestia'.
+				Quizá este gemelo fuera la inspiración de semejante apelativo...
+				'''
+		}
+	}
+}
+
+InfinityGauntlet: {
+	DisplayName: Guantelete del Infinito
+	Tooltip: ""
+}
+
+TimeStone: {
+	DisplayName: Piedra del Tiempo
+	Tooltip: ""
+}
+
+GoblinTinkererDoll: {
+	DisplayName: Muñeco del Duende Chapucero
+	Tooltip: ""
+}

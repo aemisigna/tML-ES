@@ -257,11 +257,11 @@ OracleNPC: {
 		eclipse3: ¡Oye punk! Prométeme que nos protegerás a mí y a mis compañeros, ¿sí?
 		eclipse4: Me alegra mucho que mis amigos no se estén volviendo locos en este día raro.
 		PartyIsUp1: ¡Mis monadas se lo están pasando genial en este día! ¡Deberías conseguirte una para pasártelo bien también!
-		PartyIsUp2: ¡Hoy es un gran día para conseguir un nuevo colega! Deberías conseguirte uno hoy, bro.
+		PartyIsUp2: ¡Hoy es un gran día para conseguir un nuevo amiguito! Deberías conseguirte uno hoy, bro.
 		ninja: ¿Alguna vez has intentado lanzarle una estrella de metal a un slime? Oí que si lo haces suficiente, te tomará cariño
 		Day1: ¡Oye punk! Tengo unas mascotas lindas y sé que quieres comprarte una
 		Day2: Estás destinado a hacer grandes cosas, bro. Haz una ahora y dale un hogar a estos bebés.
-		Day3: ¿Cómo come mi pequeña mascota TUB? Bueno... no quieres saber eso, colega.
+		Day3: ¿Cómo come mi pequeña mascota TUB? Bueno... no quieres saber eso, amigo.
 		Day4: "Ser clarividente me ayuda a encontrar mascotas necesitadas y hogares para las que tengo. ¿Cuál te llevas hoy "
 		Day44: ?
 		Day5: Te estaba esperando, punk. Justo a tiempo. Ahora hablemos de esas monadas.
@@ -281,7 +281,7 @@ OracleNPC: {
 
 	ChatButtons: Adivinación
 	ButtonClicked1: ¡Esto es lo que TUB encontró con mi adivinación!
-	ButtonClicked2: ¡Perdón colega, solo una lectura por día!
+	ButtonClicked2: ¡Perdón amigo, solo una lectura por día!
 	Bestiary: Una clarividente con pasión por coleccionar pequeñas criaturas. La acompaña una criaturita blandita que creó con sus poderes místicos.
 	Census.SpawnCondition: Equipa una mascota o mascota de luz
 }
