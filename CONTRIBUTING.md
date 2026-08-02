@@ -108,7 +108,6 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Useful NPCs | ✅ | v3.0.4
 | The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
 | Munchies | ✅ | v1.4.2
-| Munchies Calamity Addon | ✅ | v1.3.1
 | Munchies Crossmod Addon | ✅ | v2.2
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
