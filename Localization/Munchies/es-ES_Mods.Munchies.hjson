@@ -35,7 +35,7 @@ ConsumableType: {
 UI: {
 	Report: {
 		Consumables: Consumibles
-		Completed: "¡{0} Completado!"
+		Completed: ¡{0} Completado!
 	}
 }
 
