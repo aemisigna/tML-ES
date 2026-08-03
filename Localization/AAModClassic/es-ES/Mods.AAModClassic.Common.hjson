@@ -344,4 +344,6 @@ Conditions: {
 	SkeletronDefeated: Si Esqueletrón ha sido derrotado
 	GolemDefeated: Si Gólem ha sido derrotado
 	GoblinsDefeated: Si el Ejército de Duendes ha sido derrotado
+	DownedGobSummoner: Si el Duende bruja ha sido derrotado
+	DownedMoth: Si el Polillón ha sido derrotado
 }
