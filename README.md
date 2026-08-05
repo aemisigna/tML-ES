@@ -64,11 +64,12 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Secrets of the Shadows | ✅ | v0.25.1.9
 | Thorium Mod | ✅ | v1.7.2.8
 | Ragnarok | ✅ | v1.6.0.7
-| Infernal Eclipse of Ragnarok | ✅ | v0.10.7
+| Infernal Eclipse of Ragnarok | ✅ | v0.10.7.2
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
+| Calamity: Community Remix | ✅ | v1.3.12
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
