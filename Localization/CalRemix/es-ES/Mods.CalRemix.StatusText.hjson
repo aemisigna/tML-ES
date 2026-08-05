@@ -1,0 +1,31 @@
+ByeSAC: No. Saca eso de aquí.
+ByeWizard: ... y nunca va a regresar.
+CertificateSent: Tu certificado te ha sido enviado por correo.
+CertificateOwned: El certificado ya ha sido enviado.
+FuckFandom: Si estás viendo esto, probablemente estés usando el wiki de Fandom desactualizado, por favor no lo uses. Usa wiki.gg para Calamity y el mod navegador de recetas para Remix
+GrimeTheSkies: Las islas del cielo se contaminan con suciedad...
+GaleforceBegin: ¡¡El viento sopla con fuerza!!
+GaleforceEnd: El viento se calma...
+BiomassMigration: ¡¡¡Las Biomasas Flotantes están migrando!!!
+PandemicPanicBegin: ¡¡¡Los microbios van a la guerra!!!
+PandemicPanicBadEnd: Los invasores propagaron exitosamente su influencia.
+PandemicPanicNeutralEnd: Los microbios se retiran completamente...
+PandemicPanicGoodEnd: Los defensores ofrecieron exitosamente su protección.
+YharonAwakens: ¡¡¡El Dragón de la Jungla, Yharon, ha despertado!!!
+FridgeAwaken: ¡¡¡Rápido! ¡¡¡Dentro si quieres vivir!!!
+FridgeLeave: ¡¡¡De nada!!!
+GearworkRecord: ¡¡¡Estados de la IA Registrados!!!
+GearworkCooldown: ¡¡¡Habilidad en enfriamiento!!!
+GearworkApply: ¡¡¡Estados de la IA Aplicados!!!
+GearworkNA: ¡¡¡Sin IA almacenada!!!
+InfaredScan: Escaneando...
+InfaredNoData: * Visión Infrarroja: Sin datos disponibles.
+InfaredData:
+	'''
+	* Visión Infrarroja: {0}
+	* Daño de contacto: {1}
+	* Defensa: {2}
+	'''
+Roach1: VIERNES NEGRO
+Roach2: FRENESÍ DE CUCARACHAS
+UncertainAwoken: ¿{0} ha despertado?

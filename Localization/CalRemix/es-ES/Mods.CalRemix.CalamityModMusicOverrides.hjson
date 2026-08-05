@@ -1,0 +1,10 @@
+Items: {
+	AcidRainTier1MusicBox: {
+		DisplayName: Caja de Música (Lluvia Ácida - Nivel 1)
+		Tooltip:
+			'''
+			Toca "corrosion!" por RoverdriveX
+			Esta caja de música contiene una canción provisional
+			'''
+	}
+}

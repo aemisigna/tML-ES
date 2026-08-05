@@ -1,0 +1,10 @@
+Items: {
+	AcidRainTier1MusicBox: {
+		DisplayName: Music Box (Acid Rain - Tier 1)
+		Tooltip:
+			'''
+			Plays 'corrosion!' by RoverdriveX
+			This music box contains a placeholder song
+			'''
+	}
+}

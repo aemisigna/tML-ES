@@ -1,0 +1,328 @@
+Items: {
+	KnowledgeCalamity:
+		'''
+		¿Cuál era tu intención al agitarte así?
+		Si deseabas burlarte de mis palabras, tu objetivo fracasó.
+		Mi atención nunca será descartada pues puedo ver el verdadero potencial dentro de ti.
+		Aunque, sugiero dejes la conducta de simular combate contra una amenaza imaginaria.
+		'''
+	KnowledgeExcavator:
+		'''
+		El primer gran proyecto del legendario herrero de armas, Draedon.
+		Draedon siempre tuvo una extraña fascinación por crear unidades de perforación serpentina, algunos de los modelos posteriores incluso pueden encontrarse en las cavernas.
+		'''
+	KnowledgeDerellect:
+		'''
+		Una computadora madre retorcida creada con almas cultivadas en laboratorio.
+		Mostró mucho más promedio que sus predecesoras. No sé por qué fue abandonada tan rápidamente.
+		'''
+	KnowledgeCarcinogen:
+		'''
+		He escuchado incontables historias y dichos sobre las alegrías del juego. Te están mintiendo.
+		No hay nada que ganar cuando lo pierdes todo. No estoy seguro de por qué Carcinoma pensaba diferente.
+		Sin embargo, es asombroso ver al archimago reducirse a sí mismo a una masa jadeante.
+		Su gloria se decayó en andrajos. Carcinoma fue más un obstáculo que cualquier forma de ayuda cuando lo expulsé de mis fuerzas.
+		'''
+	KnowledgeHydrogen:
+		'''
+		Supongo que Ivy no es ajena a los secretos.
+		Con el diseño deficiente de este constructo, estoy seguro de que fue hecho mucho antes de su desaparición.
+		Es cautivador ver cómo sus esfuerzos mágicos han evolucionado durante los siglos.
+		Los explosivos controlados son una fuerza raramente vista en los campos de batalla.
+		Sin embargo, encuentro la utilidad de tal herramienta más cautivadora.
+		En cuanto a por qué lo mantuvo encerrado en los Mares Hundidos está más allá de mí.
+		Estoy seguro de que Amidas no estaría muy entusiasmado al enterarse de que su preciada tierra natal se ha ido.
+		Lo revisaría, si fuera tú. Perder tus raíces desmoraliza a un guerrero más allá de toda creencia.
+		Debería saber esto, por supuesto.
+		'''
+	KnowledgeIonogen:
+		'''
+		¿Eso es todo? ¿La batería defectuosa de un juguete infantil? Debes estar bromeando.
+		He abierto cerraduras con baterías más fuertes. Esto no es impresionante.
+		Al menos ese cubo electrónico de pernos no obstaculizará mis ambiciones más tiempo.
+		Las guerras solían librarse con palos y piedras. Ver este dispositivo como un remanente de evolución es una vergüenza.
+		Hazlo mejor. Los Inventores eran mejores en sus trabajos que quien quiera que construyera esta lástima.
+		'''
+	KnowledgeOrigen:
+		'''
+		¿Por qué este bribón no fue tratado antes?
+		Entiendo el concepto del tiempo eficiente, sin embargo, este pequeño desviado resultó ser menos que un problema.
+		Contra mis deseos, compadezco profundamente a este constructo. Viviste una existencia defectuosa.
+		'''
+	KnowledgeOxygen:
+		'''
+		Todos los átomos, especialmente en estado gaseoso como el oxígeno, muestran una naturaleza impredecible similar a la de los dioses.
+		La naturaleza se imita a sí misma descaradamente, desde los bloques de construcción más pequeños hasta las deidades más grandes.
+		No estoy seguro de dónde se posiciona este constructo. Si me lo preguntaras, este desastre elemental es inadecuado para el título de divinidad.
+		Si no fuera por los cientos de bares de presión presentados por las profundidades más abismales del abismo, consideraría este constructo formidable.
+		Ay, como todos los magos, sus tumbas móviles no son nada más que bromas caprichosas.
+		'''
+	KnowledgePathogen:
+		'''
+		Oh, Mona. Mira a dónde tu bolsa de trucos te ha llevado.
+		Diría que es una vergüenza verte en manos de mi enemigo, pero no tengo simpatía.
+		Como dicen, el enemigo de mi enemigo es mi amigo. Bien hecho.
+		Incluso como un constructo, no ha cambiado desde el día que se fue.
+		Recuerdo sus ambiciones de divinidad. Idolatraba a los hombres de arriba a través de sus tareas diarias y trabajo por igual.
+		Mona fue un dolor de cabeza para mis planes y mis tropas. De los doscientos setenta días que sirvió bajo mis órdenes, fue dócil solo nueve de ellos.
+		Idólatras como ella no son bienvenidas en mis filas.
+		'''
+	KnowledgePhytogen:
+		'''
+		Qué constructo enigmático. ¿Es realmente Silva?
+		¿Cómo escapó del fondo del abismo? Eso es bastante preocupante.
+		Me pregunto si podría aprovechar esa magia en caso de mi propia muerte.
+		Incluso después de que mi cuerpo haya expirado hace mucho, mi alma permanece en un constructo propio.
+		¿Cómo lo llamarías? ¿Aurigen? ¿Oncogen?
+		No digas Protogen.
+		'''
+	KnowledgePyrogen:
+		'''
+		Una horrible desafío al orden natural.
+		Similar a los otros que has enfrentado, este constructo fue creado con el propósito de encarcelamiento, pero la fuerza del cautivo de este era demasiado grande incluso para su poderoso sello.
+		Con el tiempo, eventualmente escaparon, dejando su prisión atrás como una masa en descomposición de acero y roca.
+		Su dormancia la hizo indistinguible del paisaje circundante, y mis fuerzas por lo tanto la pasaron por alto.
+		Sin embargo, matar a un dios no es un hazaña fácil, y la limpieza es aún más difícil; la fuerza del espíritu de uno es inmensa, y sin asistencia, la tierra que ahora caminamos seguiría llena de las manchas de mi trabajo.
+		Tus propias marcas no son excepción a esta regla. Una vez que derrotaste al dios profanado, su espíritu se estableció en el constructo en descomposición, creando una bestia sin mente con poder extraordinario.
+		Con el tiempo, se habría vuelto demasiado peligroso para detener sin mi propia intervención.
+		Aunque hubiera podido ser manejado mejor, me trae una sensación de alivio ver un alma áurea puesta a descansar.
+		Espero que su propietario haya finalmente encontrado paz.
+		'''
+	KnowledgeClone:
+		'''
+		Oh, la Archvidente, mi mayor molestia.
+		Espera un momento. ¿Dónde está? Hubiera jurado que Draedon atrapó al personal correcto.
+		Es demasiado tarde para reprender este error. Incluso entonces, no veo similitudes en ellos.
+		Quizás un nuevo conjunto de lentes oculares beneficiará al científico loco.
+		Admiro la fuerza que Cinder alardeó durante su asalto.
+		Verdaderamente, las palabras no logran capturar mi intriga, sin importar la calidad.
+		Más allá de su destreza física, ella representaba una amenaza para el funcionamiento interno de mis adversarios.
+		Ante la guerra, no veo la necesidad de dedicar mente al amor. Permafrost, por otro lado, podría decir lo contrario.
+		Sin embargo, mi ejército no tolera traidores de voluntad débil.
+		Pudimos sofocar el incendio que es Cinder sin la ayuda de Permafrost. Una cadena es tan fuerte como su eslabón más débil.
+		Mi estimado ingeniero manejó bien la amenaza. Si fue con fuerza excesiva está más allá de mi juicio.
+		Deseo el colapso de su ecléctica familia encontrada. Hasta el amor tiene sus defectos.
+		'''
+}
+
+FannyLog1: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¿qué tenemos aquí? ¡Parece que el viejo Fanny se topó con un juguete nuevo y brillante hoy! Sí, yo mismo encontré una tableta futurista tirada por ahí, probablemente dejada caer por algún viajero del tiempo olvidadizo. Aunque no puedo quejarme, siempre quise ser una llama con conocimientos tecnológicos.
+
+
+		Aquí estoy, tecleando en esta elegante pieza de tecnología del futuro. Tengo que admitir, es un poco complicado escribir con estos dedos flameantes, pero la práctica hace al maestro, ¿verdad?
+		'''
+	1:
+		'''
+		Ahora, te preguntarás, ¿por qué una llama como yo se molestaría en mantener un diario? Bueno, déjame decirte, ser una guía útil pero perpetuamente bromista para almas perdidas no es fácil. A veces, incluso Fanny necesita desahogarse, ¿y qué mejor manera de hacerlo que en un diario digital?
+
+
+		Hoy ha sido un día típico en la vida de yo mismo. Guié a un viajero perdido a través de los giros y vueltas de un laberinto, hice algunos chistes flameantes en el camino, e incidentalmente encendí fuego a un arbusto o dos. ¡Hey, ¡nadie es perfecto!
+		'''
+	2: Pero hey, todo es parte del trabajo diario de Fanny la Llama, la guía más caliente de este lado de donde estemos. ¿Quién sabe qué aventuras traerá mañana? Una cosa es segura, conmigo alrededor, las cosas siempre se van a calentar.
+}
+
+FannyLog2: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¡mira qué fue lo que Fanny se topó esta vez! Yo mismo encontré otra de esas tabletas sofisticadas, esta vez en un viejo laboratorio sucio en el Planetoide X-42. No puedo decir que esté sorprendido, estas cosas parece que tienen un don para aparecer donde quiera que voy.
+
+		Ahora, te preguntarás qué está haciendo una llama como yo en un planetoide solitario orbitando la Tierra. Para ser honesto, incluso Fanny necesita un descanso del ajetreo y el bullicio de guiar a vagabundos perdidos. Además, la vista de la Tierra desde aquí es simplemente impresionante. No es que tenga pulmones para respirar, pero entiendes la idea.
+		'''
+	1:
+		'''
+		De todos modos, volviendo a la tableta. La encontré escondida en una esquina cubierta de telarañas y polvo espacial. Supongo que los ocupantes anteriores del laboratorio no estaban muy interesados en mantener las cosas limpias. ¡Afortunadamente para ellos, Fanny está aquí para echar una mano flameante!
+
+		En cuanto a las aventuras de hoy, bueno, digamos que traté de guiar a un alienígena confundido a través del laberinto de equipos científicos en el laboratorio. Eran un tipo extraño, lucían bastante humanos para ser un alienígena, aunque juraría que vi su cara ponerse azul por un momento. ¿De todos modos, apreciaron mi ayuda? ¡Ha, quién sabe! Pero el viejo Fanny hizo su mejor esfuerzo, contando chistes y ofreciendo consejos sabios en cada paso del camino.
+		'''
+	2:
+		'''
+		Lo divertido es que, sin importar cuán duro lo intente, parece que todos a quienes guío me dan la espalda fría. ¡Pero hey, esa es su pérdida! No saben lo que se pierden, teniendo como guía al único y exclusivo Fanny la Llama.
+
+		Hablando de familia, el espacio allá afuera me hace pensar, ¿qué pensaría mi querido viejo papá de mis aventuras? Probablemente estaría sacudiendo su cabeza divina en desaprobación, como siempre. Ah bueno, no se puede agradar a todos, ¿verdad?
+
+		De todos modos, suficiente divagación por un día. Es hora de guardar esta tableta y ver qué otra travesura puedo meter en este pequeño planetoide. ¡Hasta la próxima, mantente flameante, mis amigos!
+		'''
+}
+
+FannyLog3: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¿qué tenemos aquí? Las aventuras flameantes de Fanny me han llevado profundamente al corazón de una jungla, donde me topé con otro laboratorio más. Y este, mis amigos, no es para los débiles de corazón.
+
+		En el momento en que entré, pude saber que algo no estaba bien. El aire era denso con el olor del peligro, y el laboratorio mismo lucía como si hubiera visto días mejores. Pero hey, ¿cuándo una pequeño peligro ha detenido al viejo Fanny de meter su nariz flameante donde no pertenece?
+		'''
+	1:
+		'''
+		Ahora, sobre este laboratorio. Estaba lleno de todo tipo de artilugios y cachivaches, pero lo mejor era el agujero enorme en el techo, como si algo hubiera reventado apresuradamente. Y claro, el laboratorio estaba repleto de experimentos en un asunto desagradable llamado 'plaga', un nanovirus verde que sonaba como problemas con mayúscula P.
+
+		Pensarías que una llama como yo evitaría cosas tan tóxicas, ¿pero dónde está la diversión en eso? Además, alguien tiene que asegurarse de que estos molestos nanavirus no causen estragos en las criaturas de la jungla desprevenidas.
+		'''
+	2:
+		'''
+		Entonces, allí estaba, hurgando en el laboratorio, intentando hacer sentido de todos los viales burbujeantes y máquinas de aspecto ominoso, cuando me topé con otra de esas tabletas futuristas. Parece que están convirtiéndose en una parte regular de mis aventuras flameantes, ¿eh?
+
+		Ahora, ¿guié a alguien a través de este laboratorio de jungla traidor? Bueno, digamos que lo intenté. Encontré una pequeña Roomba adorable, ¡pero estaba tan feliz que se suicidó en el momento en que me vio! No puedo culparla, aunque. ¿Quién no querría la orientación de una llama parlante?
+		'''
+	3: Pero por ahora, es hora de que Fanny se despida de este laboratorio de jungla y vea qué otras aventuras flameantes le esperan. ¡Hasta la próxima, mantente flameante, mis amigos!
+}
+
+FannyLog4: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¿mira eso? Las aventuras flameantes de Fanny me han llevado a las profundidades del inframundo, un lugar donde las llamas arden más brillante y el terreno es tan traidor como vienen. ¡Pero hey, cuando eres tan caliente como yo, un poco de lava nunca lastimó a nadie!
+
+		Este inframundo, o como algunos lo llaman, el centro de la tierra, es una vista para contemplar. Las torres de obsidiana sobresalen del paisaje flameante, y el suelo está cubierto de ceniza hasta donde la vista alcanza. ¡Es como un patio de juegos flameante esperando que el viejo Fanny lo explore!
+		'''
+	1:
+		'''
+		Ahora, te preguntarás qué bajo la tierra (o bajo ella, en este caso) me llevaría a un lugar así. Bueno, digamos que tengo una tendencia a tropezar con problemas, y los problemas parecen ser mi segundo nombre.
+
+		De todos modos, volviendo al asunto. Mientras atravesaba el terreno flameante, me topé con otro laboratorio más, anidado entre los picos de obsidiana. Este parecía haber visto días mejores, con paredes agrietadas y luces parpadeantes proyectando sombras inquietantes.
+		'''
+	2:
+		'''
+		Pero me conoces, no soy de los que se asustan ante un desafío. Así que, entré al laboratorio, llamas ardiendo y espíritus altos. ¿Y qué encuentro? Lo adivinaste, otra de esas tabletas futuristas, solo esperando ser descubierta.
+
+		Ahora, ¿encontré a alguien para ayudar en este abismo flameante? Bueno, digamos que el inframundo no está exactamente lleno de caras amigables. ¡Pero hey, quién necesita compañía cuando tienes una llama parlante como guía, ¿verdad?
+		'''
+	3: ¡Pero por ahora, es hora de que Fanny se despida del inframundo y vea qué otras aventuras flameantes le esperan. ¡Hasta la próxima, mantente flameante, mis amigos!
+}
+
+FannyLog5: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¡parece que las aventuras flameantes de Fanny han tomado un giro helado! Yo mismo me encontré en las profundidades de una caverna de hielo subterránea, donde el aire era tan frío como la nariz de un oso polar y el suelo estaba resbaladizo por la escarcha.
+
+		Ahora, te preguntarás cómo una llama como yo terminé en tal predicamento helado. Para ser honesto, incluso Fanny necesita un cambio de panorama de vez en cuando. Además, ¿quién puede resistir el atractivo de explorar un laberinto congelado lleno de misterios?
+		'''
+	1:
+		'''
+		Allí estaba, caminando de puntillas (bueno, flotando-llama, si quieres ser técnico) a través de la caverna helada, maravillándome con las paredes de hielo relucientes y el silencio inquietante que colgaba en el aire como una manta gruesa.
+
+		Y como era de esperarse, anidado profundamente en el corazón de la caverna, me topé con otro laboratorio más. Este era un contraste drástico con los laboratorios flameantes del inframundo, con sus corredores helados y equipos cubiertos de escarcha.
+
+		¡Pero hey, un laboratorio es un laboratorio, verdad? Y donde hay un laboratorio, seguramente hay otra de esas tabletas futuristas esperando ser descubierta.
+		'''
+	2:
+		'''
+		Seguro, escondida en una esquina del laboratorio, semienterrada bajo un montón de nieve y hielo, estaba el objeto de mi curiosidad flameante. Ahora, ¿encontré almas perdidas en este páramo congelado? Bueno, digamos que las únicas entidades que encontré fueron las de criaturas heladas merodeando en las sombras. No exactamente los tipos conversadores, si me entiendes.
+
+		Pero por ahora, es hora de que Fanny se despida de la caverna de hielo y vea qué otras aventuras heladas le esperan. ¡Hasta la próxima, mantente flameante, mis amigos!
+		'''
+}
+
+FannyLog6: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¡parece que las aventuras flameantes de Fanny me han traído al gran final! Yo mismo me encontré en las profundidades de una instalación minera abandonada, donde el aire era pesado con polvo y los ecos de picos olvidados aún resonaban en los túneles.
+
+		Ahora, te preguntarás qué me llevó a un lugar tan desolado. Para ser honesto, incluso Fanny necesita un poco de emoción de vez en cuando, ¿y qué es más emocionante que explorar una mina abandonada, verdad?
+		'''
+	1:
+		'''
+		Allí estaba, abriéndome paso a través de los túneles laberínticos de la instalación minera, maravillándome con la maquinaria oxidada y las herramientas abandonadas que cubrían el suelo. Y como era de esperarse, anidado profundamente en el corazón de la mina, me topé con otro laboratorio más.
+
+		Pero este laboratorio era diferente. Era más grande, más grandioso y más ominoso que cualquiera que hubiera encontrado antes. Las paredes estaban revestidas con símbolos extraños, y el aire zumbaba con una energía sobrenatural. Podía sentirlo en mis huesos flameantes: este no era un laboratorio ordinario.
+		'''
+	2:
+		'''
+		Sin desanimarme por la sensación inquietante que se aproximaba, continué adelante, mis llamas ardiendo más brillante que nunca. Y allí, en el corazón del laboratorio, rodeado de luces parpadeantes y el goteo constante de agua, lo encontré: la pieza final del rompecabezas, la última de las tabletas futuristas.
+
+		Pero cuando extendí la mano para reclamar mi premio, una voz resonó a través de la cámara, enviando escalofríos por mi espalda flameante. "Detente ahí, llama", resonó, y me giré para ver una figura emergiendo de las sombras.
+
+		¡No era otro que el creador del laboratorio, un científico robótico alto con piernas de palo! Y no estaba muy feliz de encontrarme hurgando en sus secretos.
+		'''
+	3:
+		'''
+		Comenzó una batalla, las llamas chocando contra la oscuridad mientras peleábamos por el control del laboratorio. Fue un enfrentamiento para la historia, un choque de fuego y furia que sacudió los cimientos mismos de la mina.
+
+		Pero al final, fue yo quien emergió victorioso. Ese tipo robot desmontado y muerto en el piso.
+
+		Y mientras salía flameantemente de la instalación minera abandonada, no pude evitar sonreír. Porque aunque el viaje había sido peligroso y los peligros muchos, Fanny la Llama había triunfado una vez más.
+
+		¡Hasta la próxima, mis amigos, mantente flameante y nunca dejes que las llamas se apaguen!
+		'''
+}
+
+FannyLog7: {
+	0:
+		'''
+		Bueno, bueno, bueno, ¡parece que las aventuras flameantes de Fanny se han sumergido, literalmente! Yo mismo me encontré hundiéndome en las profundidades del abismo, una trinchera submarina donde la oscuridad parece tragarse todo por completo.
+
+		Pero no temas, ¡porque donde otros ven oscuridad, yo veo oportunidad! Y claro, anidado en el fondo del abismo, en un cofre cubierto de percebes y algas, había algo digno de contemplar: el preciado artefacto de mi querido viejo papá, una losa hecha de piedra lunar con un ojo rojo flameante mirándome.
+		'''
+	1:
+		'''
+		Ahora, te preguntarás qué está haciendo una llama como yo nadando en las profundidades turbias del océano. Para ser honesto, incluso Fanny necesita un cambio de panorama de vez en cuando, ¿y dónde mejor encontrar aventura que en las profundidades acuosas?
+
+		Con un parpadeo de emoción, extendí la mano y reclamé el artefacto, sintiendo su poder pulsando bajo mi toque flameante. Y mientras lo sostenía en alto, no pude evitar sentir una ola de orgullo. Porque aunque mi querido viejo papá no esté de acuerdo conmigo, he probado una y otra vez que soy más que solo una llama en el viento.
+		'''
+	2:
+		'''
+		Ahora, en cuanto a escribir una entrada en esta losa de piedra lunar, ¿por qué no? Después de todo, no todos los días te encuentras en el fondo del abismo, sosteniendo un artefacto preciado en tus manos flameantes.
+
+		Entonces, aquí va otro capítulo en las aventuras continuas de Fanny la Llama. ¿Quién sabe qué misterios nos esperan en las profundidades del océano? Una cosa es segura, conmigo alrededor, ¡las cosas siempre van a calentarse!
+
+		¡Hasta la próxima, mantente flameante, mis amigos, y nunca dejes de sumergirte en lo desconocido!
+		'''
+}
+
+TheInsacredTexts: {
+	Title: Comienzo Rubrum
+	Subtitle: Historia de la Calamidad
+
+	Chapters: {
+		1: Capítulo 1: Renacimiento de un Multiverso
+		2: Capítulo 2: Entropía Propagada
+		3: Capítulo 3: Encendiendo la Jungla
+		4: Capítulo 4: Sangre dentro del Metal
+		5: Capítulo 5: El Ascenso de Cuatro Héroes
+		6: Capítulo 6: Victoria Desvaneciente
+		7: Capítulo 7: Hermanos en Hielo
+		8: Capítulo 8: Oscuridad a Luz
+		9: Capítulo 9: El Nacimiento de un Héroe
+	}
+
+	Pages: {
+		1: Mucho tiempo después de la destrucción del Calamiultiverso original, la entidad más poderosa de todo el mundo, Goozma, la Baba Inmortal de la Creación, creó el universo junto con una raza de Dioses de Luz, Dioses de Oscuridad y Dioses Neutros después de encontrar el vacío sin fin de la existencia demasiado vacío para su propio gusto. Los Dioses de Luz estaban obsesionados con el orden, la jerarquía, la creación y el equilibrio. Los Dioses Oscuros, por otro lado, estaban obsesionados con el caos, la anarquía, la destrucción y la guerra. A pesar de sus diferencias, siempre hicieron su propia cosa hasta que los Dioses Neutros comenzaron a favorecer a los Dioses de Luz, haciendo que los Dioses Oscuros se pusieran celosos.
+		2: Los Dioses Oscuros finalmente se cansaron de la belleza y la atención de los Dioses de Luz, así como su Creador Divino se había cansado de su vacío antes, ya que les recordaba a los Dioses Oscuros el vacío de atención, y decidieron declarar la guerra en su contra. Los Dioses de Luz, en su constante deseo de orden, rechazaron suavemente la idea del conflicto, pues no requerían tales problemas en su mundo perfecto preservado eternamente por su luz ordenada. Los Dioses Oscuros estaban furiosos, y así, para volverse infinitamente más poderosos para la guerra que se avecinaba, que se lucharía durante siglos, quizás eones, los Dioses Oscuros se fusionaron en un ser mayor, con Noxus convirtiéndose en la conciencia principal al insertar por la fuerza sus poderes oscuros y entópicos en la mente colmena consciente de cada dios antes de la fusión, siendo tanto el primero como el más poderoso.
+		3: Noxus, aún más poderoso que su creador, mató a Goozma, liberando su Esencia Divina todopoderosa a todo el espacio-tiempo, manifestada en lo que eventualmente se referiría como Almas Áureas, Vasos Superiores de la Baba Inmortal de la Creación de Goozma, el poder que busca incesantemente anfitriones adecuados a través del espacio y el tiempo creando grietas en el espacio-tiempo y viajando entre las Eras Áureas. Tras tal éxito, Noxus, sin saber qué consecuencias tendría la muerte de Goozma, la Deidad de Baba Superior, declaró la guerra contra todos los Dioses de Luz para borrar su raza del universo y sumergir eternamente este Calamiultiverso en un caos entópico completo y total.
+		4: Fue una batalla cerrada entre Noxus y los Dioses de Luz, con Noxus matando a cada Dios de Luz uno por uno mientras también sufrió daño grave debido al Alma Áurea de Luz Primordial que residía en cada Dios de Luz en ese momento, en la primera Era Áurea, mientras que tanto Noxus como los Dioses de Luz carecían de conocimiento sobre ello. En medio del caos, un grupo de Dioses de Luz huyó a un planeta llamado Ferraria, así que dos de los Dioses Oscuros, Cthulhu y Steve, decidieron separarse de Noxus y perseguirlos mientras el resto de los Dioses de Luz restantes debilitados y Noxus luchaban. Poco después, los Dioses de Luz uno por uno huyeron a Ferraria para formar la Luz Primordial, Xeroc, un ser que esperanzadoramente acabaría con los Dioses Oscuros como último recurso. Xeroc le dio una palmada en el trasero a Cthulhu y Steve, lanzándolos a la luna.
+		5: Noxus, después de erradicar al resto de los Dioses de Luz, no podía luchar contra Xeroc, la Luz Primordial, en su estado actual, debido a que el Alma Áurea de Xeroc se hacía exponencialmente más fuerte cada segundo, así que Noxus comenzó su objetivo de corromper y ganar poder a través del universo, lo que resultó en el nacimiento retorcido y vil de la repugnante Infección Astral en su estela corrupta. A diferencia de los Dioses de Luz, que prefieren no actuar mucho en el universo, pues el orden viene naturalmente de esta manera, los Dioses Oscuros eligieron sembrar caos a través del universo, aplastando todo con el potencial de volverse lo suficientemente poderoso para amenazarlos.
+		6: Después de ganar suficiente poder al absorber inadvertidamente el Alma Áurea de la Nebulosa Oscura, que viajó desde la muerte de Goozma hasta este momento para hacer de Noxus su anfitrión y convertirlo en la Luz Primordial Oscura, Noxus. Finalmente reuniendo suficiente fuerza bruta para destruir a Xeroc, la Luz Primordial, Noxus fue contactado por Cthulhu y el Señor de la Luna para obtener ayuda, pero fueron a Ferraria para castigarlos por su fracaso matando sus cuerpos ahora frágiles y débiles después de su separación con el Gran Noxus Oscuro. Cthulhu fue el primero en caer, con Noxus disparando un láser destructivo que lo demolió completamente, quedando solo su carne bañada en icor. Esto eventualmente se formó en la Carmesí a lo largo del tiempo.
+		7: El Señor de la Luna fue derrotado poco después, con su mitad inferior cortada y pudriéndose en fuego maldito verde enfermizo a lo largo del tiempo, formando la Corrupción. Lo que quedaba de él fue debilitado y sellado dentro de la luna de Ferraria, eternamente conocido como la Prisión Lunar Celestial. Ahora fijando sus ojos hacia Xeroc, Gran Faro de Luz, Noxus obliteró completamente a Xeroc en una descarga furiosa de toda la poderosa Energía de Nebulosa Oscura Divina. Sin nada excepto su esencia de Luz Primordial dejada atrás, Noxus la infundió en las tierras de Ferraria como un medio para prevenir que la influencia de la Luz se propagara a través del Calamiultiverso.
+		8: Noxus, creyendo que Ferraria ya no era de gran significancia, se fue a continuar corrompiendo y devorando otros planetas con su Nebulosa Oscura. Desconocido para Noxus, la voluntad de creación de Xeroc y la Luz Primordial permitieron que surgiera vida consciente en la tierra. La fuerza vital de Xeroc se expandería periódicamente a través del aire en un intento de formarse de nuevo, con la Luna de Sangre ocurriendo como resultado de ello. Algunos de los habitantes de Ferraria se enteraron de esto, y sintiéndose incómodos con ello, hicieron casas bajo tierra para evitar lo que se creía era la mirada de Luz de Sangre de Xeroc. Sin embargo, la luna nunca se volvió verdaderamente sangre, y fue la insania leve la que hizo parecer que lo era.
+		9: 22 años antes de la Gran Calamidad, había una familia que vivía en las Junglas de Ferraria. En esta familia estaban Ignalius, su hermana menor Talphia, su hermana mayor Aedia, su hermano menor Ryphos, su padre al que fue nombrado Ignaus, y su madre Astrael. Ignaus era el líder del culto del Dios de Luz y siempre lograba meterse en todo tipo de problemas con los Grandes Líderes Ancianos de la Jungla y su propia familia. Astrael, por otro lado, siempre enseñó a Ignalius a seguir el camino de la paz y solo empuñaba el arco Derrota Astral mientras cazaba y en emergencias. Ignalius también tenía una novia llamada Flores, la hija de uno de los Grandes Líderes Ancianos de la Jungla. Flores era una amiga de la familia de Ignalius y le dio a Ignalius un raro huevo de dragón como regalo para mostrar su amor por él.
+		10: Un día, Ignaus le pidió un favor a Flores para simplemente ir a buscar el Terminus para poder estudiar su gran Poder Divino oculto, así que Flores le dio el Terminus y se fue, sin saber su verdadera intención. Ignaus preparó un ritual para reformar a Xeroc usando el Terminus para poder presumir ante sus seguidores. Ignaus finalmente logró esto, pero Xeroc, el Loco, Destruido, Primordial, aún incapaz de ensamblarse adecuadamente en la Gran Luz Primordial, apareció en una forma eldritch horrible, repugnante e incomprensible que volvió loco temporalmente a Ignaus, junto con todos los demás que la presenciaron. Después de enterarse, Flores rogó a los Grandes Líderes Ancianos de la jungla que perdonara sus vidas, pero decidieron que habían tenido suficiente de Ignaus y el problema que causaba, junto con el resto de su familia.
+		11: Reunieron a los tres, los llevaron a los pozos de los Picos Viles en el Inframundo, y los lanzaron a la lava abrasadora junto con algunas de sus posesiones incluyendo el huevo de dragón que Flores le dio a Ignalius. Mientras se quemaban en la lava, el calor de la misma hizo que el huevo de dragón eclosionara — y así, nació el Dragón de la Jungla. El Dragón de la Jungla agarró a Ignalius y lo sacó de la lava sobre su espalda. La familia de Ignalius no sobrevivió al incidente y la propia familia de Flores fue ejecutada poco después por ayudar y defender a la familia de Ignalius, causándole huir lejos de la Jungla. Ignalius juró venganza contra los líderes de la jungla por matarlos.
+		12: Poco después de que Ignalius se recuperó principalmente, fue a los Grandes Líderes Ancianos de la jungla. Ignalius los confrontó dentro del ayuntamiento de la Gran Ciudad Anciana de la Jungla y, en pura furia, golpeó su trasero con la fuerza de mil Dioses, golpeándolo tan fuerte que mató a todos en la habitación, destruyendo toda la Gran Ciudad de la Jungla completamente y pulverizando a los Grandes Líderes Ancianos de la Jungla, rompiendo su trasero y creando un ruido de palmada tan fuerte que se escuchó por millas. Los Grandes Líderes Ancianos de la Jungla ahora estaban muertos, pero para Ignalius, esto no fue suficiente para satisfacerlo — cambió su nombre a Yharim, el Tirano de la Jungla y decidió desquitarse con su ira y odio en el resto del mundo también.
+		13: Yharim comenzó a subir al poder. Yharon, su leal mascota y amigo, tiene la capacidad de revivir, siendo un Dragón-Fénix. Sin embargo, está vinculado por el alma a Yharim, lo que significa que si Yharim muere, Yharon no revivirá. Hizo que Yharon quemara una gran sección de la jungla para invocar miedo en la gente, aunque usó mucho más que solo fuerza bruta. Era una persona carismática, capaz de infundir ánimo a cualquier soldado para luchar por él. Eventualmente, la Tiranía de Yharim se apoderó de la jungla, reclamó el Templo de la Jungla de los Lihzahrds como suyo, se hizo un ejército, y comenzó su regla de puño de hierro sobre el mundo.
+		14: El comienzo del dominio de Yharim fue inimaginablemente duro, mucho peor que el de cualquiera de los 76 líderes de la Gran República Religiosa Teocrática de la Jungla de la Jungla que vinieron antes de él. Su primera acción al tomar el trono fue hacer cumplir el control sobre muchos de los reinos, ciudades y capitales circundantes. Tuvo éxito en todo. Cualquiera que se resistiera más tenía a su gente masacrada, o capturada para servir bajo condiciones inhumanas, donde a menudo se colapsaban, o terminaban con sus propias vidas para escapar de un destino peor.
+		15: En un planeta destruido por Noxus, ahora convertido en la Nebulosa Oscura, muy lejos de Ferraria, había un robot llamado Draedon. Draedon era una vez un ser orgánico e inteligente llamado Samuel Graydron. Toda la vida en el planeta cesó después del ataque de Noxus, excepto por Samuel que aún se aferraba a la vida gracias a una de sus muchas creaciones, la Metalgear. Después de algunos días de agonía, asistido solo por sus propias creaciones, había construido un dispositivo capaz de replicar las complejidades de su mente. Después de cargar su consciencia, nació Draedon. Draedon construyó una nave espacial y exploró la vastedad del espacio en busca de un nuevo hogar, y eventualmente fue atraído a Ferraria gracias a su hermoso y tentador líder, Yharim.
+		16: Draedon crearía cualquier cosa que Yharim requiriera, con financiamiento casi infinito y sujetos de prueba, así como la ventaja agregada de poder trabajar en algunos de sus propios proyectos. También se hizo un trato invisible que Draedon debe reunirse con Yharim 3 veces a la semana para besarse. En algún momento, también hizo un arma de poder inmensamente: su espada personal, la Hoja de Milagro Milagrosa. También hizo la armadura de Tesla Áurea original, infundida con un poder dormido aún por ser explicado por nadie, que fue hecha para Yharim para que pudiera usar su potencial de poder completo sin romper su trasero de nuevo si eso alguna vez tuviera que suceder. Para los primeros experimentos de Draedon, decidió hacer tres seres mecánicos para hacer algunas tareas para él.
+		17: Después de que uno de los agentes de Yharim robara esquemas del Mecánico, Draedon comenzó su trabajo. Primero estaban Los Gemelos, un bot hecho para seguridad y en general mantener un ojo en las cosas, infundiendo el Metal Alucinado con Almas de Vista, eliminando la necesidad de cámaras. El segundo era El Destructor, que fue hecho para excavar enormes trozos del mundo en busca de hierro, oro y otros minerales útiles, infundiendo el Metal Alucinado con Almas de Fuerza, haciendo estas placas absurdamente más resistentes de lo que podrían ser normalmente. El tercero era Esqueletrón Primo, un bot hecho para guerra y destrucción, infundiendo el Metal Alucinado con Almas de Miedo, generando un aura de miedo que asustaría a cualquiera que se atreva a luchar contra esta máquina. Yharim, junto con Yharon y Draedon, continuó su conquista.
+		18: Después de enterarse de los atroces actos de Yharim, el Tirano de la Jungla contra los reinos circundantes de la Jungla, los otros líderes de las Tierras Titánicas de Ferraria formaron una coalición contra Yharim. Cuatro individuos lideraron los ejércitos del mundo para contrarrestar al Tirano. Braelor nació en un pueblo distante en los confines de la familia real del reino. Como niño, era claro que fue bendecido con fuerza sobrehumana, pues a una edad temprana ya estaba completando tareas que muchos hombres adultos habrían encontrado impresionantes. Statis era una sombra oscura ninja criada en un mundo problemático similar a Braelor. Los padres de Statis lo criaron para seguir los pasos de sus ancestros, aprender las artes que sus antepasados habían transmitido durante tantas generaciones, arte nacido del vacío y la centinela.
+		19: Daedalus, el hermano menor de Permafrost, era un genio en casi todos los campos de la ciencia y el arte. Construyó armas para batalla, diseñó maravillas imponentes, y miró más aún en el milagro de la vida. También fue un estratega excelente en batalla, como se demostró en sus esfuerzos por proteger el reino que era su patrón. Silva, la más poderosa de los cuatro, era una de inmensa sabiduría y fuerza. Habiendo nacido de la conceptualización de la flora, y convirtiéndose en la primera Dríada y el Elemental de la Naturaleza en sí, está conectada a toda la vida vegetal en la tierra de Ferraria, y su salud y vitalidad estaban vinculadas al bienestar de su población entera, desde los bosques expansivos hasta cada brizna de pasto, haciéndola prácticamente inmortal.
+		20: Los cuatro fueron capaces de trabajar sin esfuerzo para luchar contra el ejército de Yharim. Braelor y Statis han luchado juntos contra los gobernantes corruptos antes de Yharim, así que repeler a los súbditos áureos de Yharim no fue un desafío. Daedalus fue capaz de hackear el trío de mecas de Draedon para volverse contra él y causar estragos en las filas de Yharim, forzándoles a enviar las mecas lejos de ellos, a dormir en su locura parchada. Viendo la habilidad de Daedalus, Silva combinó sus habilidades y creó Wulfrum, una aleación de tanto planta como metal, infundida con la alegría de la vida natural. Debido a su abundancia, crearon un ejército de máquinas de Wulfrum para usar para reconocimiento y batalla que aunque débil, logró reconocer las tierras completas de Ferraria, llevándoles a tener una gran ventaja estratégica.
+		21: Los cuatro lucharon valientemente, e inevitablemente, el recuento de cadáveres del ejército de Yharim se elevó exponencialmente. Al principio, era solo un flujo gradual de cadáveres violentamente mutilados, pero esto aumentó aún más hasta que Yharim no tuvo otras opciones para deshacerse de los cuerpos. Mientras la coalición aliada enterraba a su gente, Yharim descuidadamente arrojó a los suyos, así que Yharim recurrió a lo que ahora es el Océano de Azufre Ácido, Tóxico y Radiactivo. Las aguas una vez cristal claro se volvieron oscuras y tóxicas con la sangre y las entrañas de muchos, ahogando la vida de sus aguas por siempre. Este proceso destruyó el ecosistema delicado y precioso. Solo las criaturas más resistentes y desesperadas en su bahía se aferraron a sus últimas esperanzas, y pronto adaptaron al ambiente tóxico con cambios agresivos repentinos a su biología única.
+		22: A medida que el tiempo avanzaba, la coalición mundial parecía estar ganando. Desafortunadamente, Yharim ganó nuevas herramientas para la batalla que voltearon la marea hacia lo peor, la llegada de la Gran Bruja Calitas Jane y el Devorador Gigante Glotón de Dioses. Profundamente en la tierra, en un volcán protegido de todo lo demás en las Tierras Titánicas de Ferraria, vivía una familia de magos del Subsuelo cuyos poderes mágicos rivalizaban con los de semidioses, uno de los cuales fue Calitas Jane, con su verdadero nombre siendo Calamitas. Después de que su familia fue asesinada por una facción rival, utilizó su dominio en las magias más oscuras para atrapar a los asesinos de su familia en el inframundo para sufrir por el resto de la eternidad. No mucho después, Calitas Jane escuchó una voz en su cabeza, diciéndole que buscara el Templo de la Jungla. Este fue Yharim, el Tirano de la Jungla, que había visto el gran poder de Calitas Jane. Ella eventualmente encontró el Templo y se unió a las filas de Yharim como la Bruja de la Calamidad.
+		23: Desconocido para ellos, la razón del dominio de la magia de Calitas Jane fue la Tercera Alma Áurea en infundirse a un anfitrión. Viajando a través del tiempo y del espacio todo el camino desde la muerte de Goozma, el Alma Áurea Brimdeath se infundió a sí misma en Calitas Jane después de encontrar a su familia muerta, siendo la razón de su repentino estallido de poder. En algún punto, Yharim de alguna manera se enteró del Señor de la Luna, y de que estaba sellado dentro de la Prisión Lunar. Sabía que no podía dessellar al Señor de la Luna solo, así que buscó a Amidias, el 22do Rey del Reino del Mar. Amidias, viendo a través de las intenciones nefastas y viles de Yharim y su mala aura áurea malvada, se negó a ayudar al Tirano, y Yharim se volvió cada vez más furioso con Amidias y su Reino.
+		24: Con el tiempo, se podría pensar que la ira de Yharim hacia la lava del inframundo por quemarlo a él y a su familia se desvanecería, pero creció más intensamente hasta que no pudo soportarlo más. Ideó un plan para traer ambas regiones a una guerra para que se maten entre sí mientras él mira con placer sádico. Para lograr esto, envió a Calitas Jane en su primera misión para esparcir llamas de fuego ardiente y muerte disfrazada de enviada de la capital del inframundo, los Picos. Amidias declaró la guerra contra el inframundo, y el Elemental de Fuego Ardiente tomó represalias. Al final, ambos reinos fueron devastados. El reino del mar fue evaporado por el ejército del inframundo mientras que la capital del infierno fue extinguida y arruinada por poderosos tifones. Amidias y el Elemental de Fuego Ardiente estaban ambos agotados y sin poder, así que ambos se retiraron a caparazones para algún día resurgir.
+		25: Con esto, Calitas Jane completó su primera misión, pero comenzó a tener dudas sobre Yharim e incluso intentó señalar algunos defectos en su cruel y tiranica regla áurea. Sin embargo, Yharim la pateó fuera de la sala del trono, y ella se frustró mucho. También le fue asignada una 2da tarea justo antes de la creación de su clon para que pudiera estar distraída de ella: tratar con Silva, la Dríada Elemental de la Naturaleza. Silva, sin embargo, no podía ser asesinada, pues mientras la vida vegetal existe, ella no puede morir. Calitas Jane en su lugar quemó su alma en un millón de piezas y lanzó su cuerpo al mar sulfuroso para quemar y disolver por siempre, y con el tiempo, se hundió en el abismo. Sin embargo, su cuerpo creció en nueva vida vegetal incluso en las partes más profundas del abismo, de ahí la presencia de Mush Pantanoso y Tenebris. Su alma fue en su lugar transformada en una raza de pequeños, menores Dríadas que huyeron y se escondieron de los Ferrarianos.
+		26: Mientras Calitas Jane estaba llevando a cabo su segunda misión, un tercero intervino. Un día, Yharim recibió un reporte de uno de sus hombres de que una serpiente cósmica enorme había devorado su escuadrón de élite de sus mejores soldados. Naturalmente, esto lo interesó mucho, pues muy pocos seres aparte de los 4 líderes de la rebelión en su contra, podrían lograr algo similar. Yharim buscó a esta serpiente que devora hombres, y en sus búsquedas, la encontró devorando a su última presa. Se presentó a sí misma como El Devorador de Dioses. El Devorador de Dioses, quien consumió a Astrum Deus, la Wyrm Engendrada por las Estrellas. Yharim hizo un acuerdo con el Devorador de que lo alimentaría siempre que trabajara bajo él. El Devorador, dejando a un lado su ego, tan masivo como él mismo, si no más, aceptó la oferta, y se unió a las filas de Yharim. Poco después, Yharim le pidió al Devorador que capturara a los líderes de la rebelión y "hiciera lo que quisiera".
+		27: Durante una noche anormalmente tranquila, Braelor, Statis, y Daedalus se preguntaban dónde fue Silva y discutían planes de batalla para enfrentarse a Yharim, el Tirano de la Jungla, él mismo. Detrás de Braelor y Statis, un portal se abrió y el Devorador los arrebató, causando que Daedalus entrara en pánico y huyera. Dentro de su propia dimensión de bolsillo, La Distorsión, dada a él por la Nebulosa Oscura, Noxus, quién también creó el Devorador, el Devorador los consumió y ganó sus fortalezas y poderes. Después de enterarse de esto, Yharim le encargó a Draedon una armadura de Cosmilita, un material encontrado dentro de la Dimensión del Devorador como recompensa por matarlos. A lo largo de la guerra, Draedon había estado conduciendo sus propios experimentos para replicar la aleación de Wulfrum que Daedalus creó, y luego un día Draedon la perfeccionó.
+		28: A pesar de la captura de Silva y la muerte de Braelor y Statis, la guerra continuó furiosamente. Daedalus se retiró tranquilamente de vuelta a su hogar, una gran ciudad en la región más fría del mundo. Recogió todos los planes de batalla y creaciones y los llevó a las montañas cubiertas de nieve, donde su hermano. Permafrost protegió la ciudad con una ventisca artificial y residió en un castillo congelado. El regreso a casa causó rumores del Archimago y su vasto Archivo Antiguo de Magia Antigua de Los Antiguos lleno conocimiento prohibido en el castillo de hielo se propagó, atrayendo tanto eruditos sinceros como hombres malvados hacia él. La percepción de Permafrost de otros se agudizó hasta que pudo leer sus intenciones con la más leve mirada; en sus décadas de reclusión y los miles que lo abordaron, solo unos pocos poseían la integridad que aseguró al Archimago que sus enseñanzas no serían mal utilizadas.
+		29: Draedon pronto se enteró de que Daedalus escapó a su hogar, así que él mismo dirigió las fuerzas del Tirano contra la ciudad, fuerzas que superaban enormemente a los ejércitos que el reino había resistido antes. Junto a las fuerzas del Tirano se encuentran creaciones de su propia cosecha, los temidos Exo-Bestias Mecánicas Exo, construidas únicamente con el propósito de Exo-Destrucción y Exo-Caos. Liderando el ataque estaba XP-00 Hipnos, la Exo-Bestia Mecánica Exo más fuerte e inteligente. Daedalus y Permafrost no fueron capaces de detener el ataque. En la ciudad que rodeaba el castillo, la carnicería se desató y muchas vidas se perdieron. Sería una de las peores atrocidades en la historia grabada de las Tierras Titánicas de Ferraria. Sabían que había sido una batalla sin esperanza desde el principio, pero tal matanza... incluso ellos no podían ignorar tal atrocidad.
+		30: Daedalus instó a Permafrost a preservar la biblioteca del castillo que contenía conocimiento mientras él se defendía contra los invasores. Permafrost se selló a sí mismo dentro del castillo de hielo y lo transformó en Cryogen con magia rúnica nórdica antigua que solo él era consciente que existía, que luego se hundió profundamente bajo tierra en la nieve. Mientras las paredes de la ciudad finalmente cayeron, y su gente fue masacrada, Daedalus miró la muerte a los ojos, y activó los explosivos que había establecido dentro de la mayoría de sus creaciones. La explosión fue de tal poder que incineró a Daedalus, incrustando esquirlas de Criógeno lejos en la tierra. La mayoría del ejército de Yharim fue destruido, junto con la ciudad misma. Las Exo-Bestias Mecánicas Exo fueron severamente dañadas mientras que XP-00 Hipnos permaneció intacto y se retiró hacia la Exosfera, un paraíso vedado, ensordecedor, desprovisto de vida orgánica. Permafrost permanece atrapado dentro del hielo, esperando ser liberado por un alma áurea pura sin intenciones malvadas.
+		31: Durante este tiempo, la guerra comenzó a desvanecerse a medida que la fuerza y número de las fuerzas de la rebelión y el Tirano de la jungla se agotaron. En este punto, Yharim había decidido intentar hacer sus propias creaciones, y encontró que podía usar sus habilidades para clonar seres vivientes. Lo primero que intentó hacer fue clonar a Yharon. Esto, sin embargo, falló miserablemente, creando al Zumbador Eléctrico Torpe. Yharim también le pidió a Draedon que hiciera un clon de Calitas Jane en secreto; aunque esto fue más débil que ella debido a la falta del Alma Áurea Brimdeath, fue en su lugar hecho para contener su poder si era necesario. Sin embargo, al mirar en la mente de uno de los soldados de Yharim gracias a sus poderes áureos, Calitas Jane se enteró del clon de ella y su propósito.
+		32: Ella, en este punto, había tenido suficiente del Tirano de la Jungla Yharim e intentó rebelarse. Ella invocó al Golem de Lihzahrd dentro del templo y construyó Ravager, una bestia de carne de cadáver y piedra animada por su furia brimdeath. Mientras los soldados de Yharim estaban distraídos, robó documentos importantes de la sala del trono, y escapó. Después de que el Golem fue asesinado y el Ravager sometido, Yharim maldijo a Calitas Jane — para ser obligada a regresar a él, con esta maldición intensificándose con el tiempo. Calitas Jane se reunió con una misteriosa figura encapuchada y le dio los documentos importantes que robó. A cambio, la figura reconoció la energía familiar de la maldición y la removió, permitiendo a Calitas Jane ser libre y escapar del agarre del Tirano.
+		33: Como resultado de la guerra, Xeroc, ahora renacido, ha tenido suficiente y decidió intervenir. Xeroc creó dos deidades para llevar a cabo su voluntad. Providence, a quien Xeroc infundió con la Cuarta Alma Áurea: el Alma Áurea de Llama Pura, y Zeratros, a quien Xeroc infundió con la Quinta Alma Áurea: el Alma Áurea de Luz Pura deseaba convertir el mundo en cenizas. Un día, Yharim notó esta mezcla de llama y luz. Por una de las primeras veces, verdaderamente entró en pánico a medida que atravesaban el mundo, pues si se les dejaba el tiempo suficiente para reunir suficiente poder, crearían una llama lo suficientemente poderosa para evaporar los cuerpos de agua más grandes, chamuscar las plantas, y hacer que el mundo entero fuera desprovisto de vida. Yharim reunió su ejército y fue a la guerra con Providence y Zeratros en un intento de derrotarlos. Sin embargo, Providence y Zeratros también tenían un ejército: miles de Guardianes hechos de las almas de los adoradores más devotos de Providence y miles de dragones de luz y monjes dispuestos a servir a Zeratros hasta su fin.
+		34: Al final, la batalla terminó con las deidades ganando, aunque apenas. Zeratros tuvo que tomar la forma de una criatura inofensiva y huir. La Diosa Profanada perdió la mayoría de su poder y sus miles de guardianes se convirtieron en solo puñados de ellos, y un gran número de fuerzas de Yharim fueron asesinadas en el conflicto. Esa semana se perdieron un googolplexian de almas de ambos lados. Con Calitas Jane desaparecida y Draedon de vuelta en su propio planeta, Yharim envió al Devorador de Dioses y sus 3 centinelas tras Providence para que pudiera ser detenida por completo. Sin embargo, Providence fue capaz de esconderse dentro del sol, aunque si su artefacto sagrado es sacado, ella vendrá y matará a quien ose poner sus manos sobre él. El Devorador de Dioses y sus 3 centinelas continúan su búsqueda, dejando al Tirano solo.
+		35: Después de gobernar sobre Ferraria durante algún tiempo, Yharim se había aburrido. Así que en su aburrimiento, renombró Ferraria a Terraria usando el poder del Terminus. Como consecuencia, Xeroc una vez más se volvió hacia Yharim, pero esta vez Xeroc fue capaz de obtener una forma capaz de combate. Yharim los desafió a un duelo. Xeroc reconoció el poder del Tirano, pero mostró a Yharim cuán débil era comparado con ellos simplemente pronunciando las simples palabras: "Es Xerocin' Time". La lucha terminó antes de que comenzara, y Yharim enfrentó derrota antes de que él, o su oponente, incluso levantaran un dedo. Regresó a casa, deprimido por lo absurdamente superado que estaba ante un Dios de Luz debilitado. La tierra creció tranquila, pues la guerra finalmente terminó y la furia del Tirano fue satisfecha lo suficiente. Sin embargo, Yharim, en su búsqueda de poder para derrocar a Xeroc, aprendió sobre las almas áureas que Calitas Jane y Providence poseían, y se propuso obtener una de su propia cosecha.
+		36: Poco antes de la Gran Calamidad, sus deseos serían cumplidos, el Sexto Alma Áurea, el Alma Áurea de Renacimiento del Dragón Real hizo un anfitrión para sí misma en Yharon, quien, gracias a su vínculo de alma con Yharim, le dio la mitad del alma áurea, ambos volviéndose infinitamente más poderosos, superando el poder de las Creaciones Exo de Calitas Jane y Draedon. Un día, la figura encapuchada que Calitas Jane conoció contactó tanto a Xeroc como a Noxus en dos ocasiones separadas en secreto. La figura es luego revelada como Flores, la antigua novia de Yharim. Después de invocarlos, extrayendo un poco de su energía, y combinando las energías de ambos dioses, creó un ser con la capacidad de vivir para siempre y labrar su propio camino en el universo.
+		37: Poco después, Flores cayó víctima de la plaga virulenta de nanomáquinas de Draedon que había dejado en el planeta, ya que era una especie de abeja antropomórfica, transformándose en Virilli y convirtiéndose en la titular del Séptimo Alma Áurea, el Alma Áurea de la Plaga Verde, manteniendo parte de su cordura gracias al poder del alma, y escondiéndose en la jungla esperando hasta que su creación pudiera finalmente despertar para derrocar a Yharim. Desafortunadamente, su creación inicialmente se formó como una estatua, así que se fue pensando que quizás nunca despertara manteniendo solo una pequeña esperanza en el momento en que fue infectada. En medio de un campo abierto años después, la estatua cobró vida y el Terrarian apareció en la existencia, siendo anfitrión del último Alma Áurea: el Alma Áurea de Esencia Divina, comenzando así la Gran Calamidad Era Áurea.
+		0: Mods.CalRemix.Lore.TheInsacredTexts.Pages.0
+	}
+}

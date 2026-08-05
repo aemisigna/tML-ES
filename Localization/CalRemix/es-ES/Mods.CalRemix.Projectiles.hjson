@@ -1,0 +1,339 @@
+ArmofAgony.DisplayName: Brazo de agonía
+AssortMinion.DisplayName: Gello Nucleado
+BrimstoneGenerator.DisplayName: Portal de Fuego Ardiente
+CalHeart.DisplayName: Corazón Calamitoso
+CosmicConflict.DisplayName: Conflicto de Cristal Cósmico
+CosmicElementalMinion.DisplayName: Elemental Cósmico
+CriticalSlimeCore.DisplayName: Núcleo de Baboso Crítico
+DarksunTornado.DisplayName: Tornado
+EarthElementalMinion.DisplayName: Elemental de Tierra
+MarniteOrb.DisplayName: El Orbe
+MicrobeParticle.DisplayName: Racimo Microbial
+NucleateGelloMinion.DisplayName: Gello Nucleado
+SlimeCore.DisplayName: Núcleo de Baboso
+SlimeRay.DisplayName: Rayo Baboso
+FallingPhantomHeart.DisplayName: Corazón Fantasma
+HornetShot.DisplayName: Ronda de Avispa 22
+LifeIcicle.DisplayName: Carámbano Criónico
+LifeMeteor.DisplayName: Meteoro Hidrotermal
+LifeThorn.DisplayName: Espina Merodeadora
+MicrobialClusterPet.DisplayName: Racimo Microbial
+AcesLowCard.DisplayName: Picas
+AeroBoltBolt.DisplayName: Bola de Aire
+Arbiter.DisplayName: Árbitro del Juicio
+AtlasSoldier.DisplayName: Soldado Atlas
+AxisExoBullet.DisplayName: Bala Exo
+ButterflyMinion.DisplayName: Mariposa
+ChainSawProjectile.DisplayName: Sierra de Cadena
+CoralShard.DisplayName: Astilla de Coral Muerto
+CrescentSlash.DisplayName: Corte Creciente
+DarkEnergySentry.DisplayName: Energía Oscura
+ExoPike.DisplayName: Rayo de Gravitonomía
+ExoPikePhantom.DisplayName: Rayo de Gravitonomía
+HadoSoundwave.DisplayName: Onda de Sonido Hadopelágia
+LumChunk.DisplayName: Astilla de Lumenylo
+LumenousMine.DisplayName: Mina Luminosa
+NystagmusProjectileBlue.DisplayName: Proyectil de Nistagmo Azul
+NystagmusProjectileGray.DisplayName: Proyectil de Nistagmo Gris
+NystagmusProjectileGreen.DisplayName: Proyectil de Nistagmo Verde
+NystagmusProjectileRed.DisplayName: Proyectil de Nistagmo Rojo
+PikeSpear.DisplayName: Astilla Exo
+PinkCrystallineButterfly.DisplayName: Mariposa Cristalina Rosa
+PinkSquare.DisplayName: Cuadrado
+PrismachromancyProjectile.DisplayName: Proyectil de Prismacromancia
+PurpleCrystallineButterfly.DisplayName: Mariposa Cristalina Rosa
+Reef.DisplayName: Arrecife Grandioso
+ShadowPulse.DisplayName: Pulso de Sombra
+ShadowsDescentBall.DisplayName: Bola de Sombra
+SkeeterBullet.DisplayName: Patinador Solar
+TendonTidesDisc.DisplayName: Mareas de Tendón
+TenebrisTidesDisc.DisplayName: Mareas de Tinieblas
+TetrachromancyProjectile.DisplayName: Proyectil de Tetracromancia
+ThunderBoltBolt.DisplayName: Bola de Rayo
+TitanTidesDisc.DisplayName: Mareas de Titán
+TotalityEnergy.DisplayName: Martillazo Exo
+TotalityScythe.DisplayName: Hoz Exo
+TotalityTidesDisc.DisplayName: Mareas de Totalidad
+UnsealedBlackhole.DisplayName: Singularidad Desbloqueada
+UnsealedBomb.DisplayName: Singularidad Desbloqueada
+ExcavatorLaser.DisplayName: Rayo Wulfrum
+ExcavatorShot.DisplayName: Láser Wulfrum
+Yharnado.DisplayName: Yharnado
+RockOrb.DisplayName: Orbe de Roca
+RockFire.DisplayName: Fuego de Roca
+RockBullet.DisplayName: Bala de Roca
+NucleusCrystal.DisplayName: Cristal de Núcleo
+GodSlayerPulse.DisplayName: Pulso de Matador de Dioses
+GodSlayerFireball.DisplayName: Bola de Fuego de Matador de Dioses
+EldritchSpirit.DisplayName: Espíritu Eldritch
+EldritchPulse.DisplayName: Pulso Eldritch
+DraconicPulse.DisplayName: Pulso Dracónico
+DraconicFireball.DisplayName: Bola de Fuego Dracónica
+CosmicGuardianTail.DisplayName: Cola de Guardián Cósmico
+CosmicGuardianHead.DisplayName: Cabeza de Guardián Cósmico
+CosmicGuardianBody.DisplayName: Cuerpo de Guardián Cósmico
+
+Summon: {
+	RockRay.DisplayName: Rayo de Roca
+	EldritchRay.DisplayName: Rayo Eldritch
+	SlimeRay.DisplayName: Rayo Baboso
+}
+
+ProfaneNucleus.DisplayName: Núcleo Profano
+
+Melee: {
+	GrarbleSpearProjectile.DisplayName: Proyectil de Lanza Grarble
+	ChainSpearStab.DisplayName: Puñalada de Lanza de Cadena
+	WindTurbine.DisplayName: Turbina de Viento
+	Antumbra.DisplayName: Antumbra
+	AtomSplitter.DisplayName: Divisor de Átomos
+	CrystalPiercer.DisplayName: Perforador de Cristal
+	CursedSpear.DisplayName: Lanza Maldita
+	EclipseFall.DisplayName: Caída del Eclipse
+	FreqManip.DisplayName: Manipulador de Frecuencias
+	IchorSpear.DisplayName: Lanza de Icor
+	NightsGaze.DisplayName: Mirada de la Noche
+	Paleolith.DisplayName: Paleolito
+	PalJav.DisplayName: Pal Jav
+	PhantasmalRuin.DisplayName: Ruina Fantasmal
+	ProfanedPartisan.DisplayName: Partisana Profanada
+	RealityRapture.DisplayName: Rapto de la Realidad
+	ScarletDevil.DisplayName: Diablo Escarlata
+	ScourgeDesert.DisplayName: Azote del Desierto
+	ScourgeSea.DisplayName: Azote del Mar
+	SpearDestiny.DisplayName: Lanza del Destino
+	Turbulance.DisplayName: Turbulencia
+	WaveSkipper.DisplayName: Saltador de Olas
+	Wrathwing.DisplayName: Ala de Ira
+	GuardiansWrathStab.DisplayName: Puñalada de Ira de los Guardianes
+}
+
+GrarbleObliteratorProj.DisplayName: Proyectil del Obliterador Grarble
+Claw.DisplayName: Garra Gigante
+dimusBEAM.DisplayName: Rayo de Exodimo
+ExodimusPROJ.DisplayName: Puñal de Exodio
+OgsculeBeam.DisplayName: Rayo de Ogscule
+LaserSlash.DisplayName: Corte Láser
+OnyxBullet.DisplayName: Bala de Ónice
+AspidShot.DisplayName: Disparo de Áspid
+OgsculeBeamHostile.DisplayName: Rayo de Ogscule
+PlaguedFallingSand.DisplayName: Bola de Arena Plagada
+PlagueSpit.DisplayName: Escupida de Plaga
+IchorSpark.DisplayName: Chispa de Icor
+IchorDaggerProj.DisplayName: Puñal de Icor
+HolyMackerel.DisplayName: Caballa Sagrada
+GearShield.DisplayName: Escudo de Engranaje
+FlameFrostArrow.DisplayName: Flecha de Fuego y Hielo
+DeicideFist.DisplayName: Puño Sacrílego
+CursedSpearProj.DisplayName: Lanza Maldita
+CoalBucket.DisplayName: Cubo de Carbón
+Coal.DisplayName: Carbón
+CaneOrb.DisplayName: Orbe de Bastón
+BoneBundle.DisplayName: Manojo de Huesos
+Bone.DisplayName: Hueso
+AnimatedStatue.DisplayName: Estatua Animada
+HomingAstralFireball.DisplayName: Bola de Fuego Astral Guiada
+AstralFireball.DisplayName: Bola de Fuego Astral
+BrownSpray.DisplayName: Aerosol Marrón
+PlaguedSpray.DisplayName: Aerosol Plagado
+SDOMGRay.DisplayName: Rayo de Muerte de SDOMG
+ChainSpearProj.DisplayName: Lanza de Cadena
+HeavenPiercerProj.DisplayName: Perforador del Cielo
+DemonCoreProj.DisplayName: Núcleo Demoníaco
+ShadowCloud.DisplayName: Nube de Sombra
+DriftSpark.DisplayName: Chispa Errante
+Cake.DisplayName: Pastel
+Frosting.DisplayName: Cobertura
+DeadYharim.DisplayName: Yharim Muerto
+HeavenPiercerLaser.DisplayName: Láser Helicoidal
+BananaBomb.DisplayName: Bomba de Plátano
+EvilPlagueSeeker.DisplayName: Perseguidor de Plaga Maligna
+YggThorn.DisplayName: Espina de Yggdrasil
+WulfrumLeechDaggerSwordProjectile.DisplayName: Puñal Sanguijuela de Wulfrum
+ColdheartIcicleProjectile.DisplayName: Carámbano del Corazón Frío
+SnowgraveSigil.DisplayName: Sello de Tumba de Nieve
+WreathProjectile.DisplayName: Corona
+GreenBall.DisplayName: Bolsa Verde
+GreenDust.DisplayName: Polvo
+RedBall.DisplayName: Bolsa Roja
+RedDust.DisplayName: Polvo
+CarolBell.DisplayName: Campana de Villancico
+CarolWave.DisplayName: Onda de Villancico
+MinnowsSmallShockwave.DisplayName: Onda de Choque Pequeña de Pececillos
+MinnowsLargeShockwave.DisplayName: Onda de Choque Grande de Pececillos
+MinnowsDeathAnimation.DisplayName: Animación de Muerte de Pececillos
+AcidShot.DisplayName: Disparo de Ácido
+AcidTooth.DisplayName: Diente de Ácido
+AgentPoon.DisplayName: Agente Poon
+CausticTendril.DisplayName: Tentáculo Cáustico
+CorrosiveEye.DisplayName: Ojo Corrosivo
+OnyxBlast.DisplayName: Explosión de Ónice
+OnyxFist.DisplayName: Puño de Ónice
+PlasmaflashBolt.DisplayName: Rayo de Destello Plasma
+PungentShot.DisplayName: Disparo Pungente
+RazorTooth.DisplayName: Diente de Navaja
+SaltCube.DisplayName: Cubo de Sal
+SaltWater.DisplayName: Agua Salada
+SulphurArrow.DisplayName: Flecha de Azufre
+Twepoon.DisplayName: Twepoon
+Twetwepoon.DisplayName: Twetwepoon
+AcidBomb.DisplayName: Bomba de Ácido
+AcidTeeth.DisplayName: Dientes de Ácido
+CalamityLaser.DisplayName: Láser de Calamidad
+Darkscule.DisplayName: Darkscule
+DarkVein.DisplayName: Vena Oscura
+PungentBomb.DisplayName: Bomba Pungente
+PizzaWheelHostile.DisplayName: Pizza
+RedstoneFireball.DisplayName: Bola de Fuego de Piedra Roja
+RedstonePillar.DisplayName: Pilar de Piedra Roja
+OnyxGunsawProjectile.DisplayName: Sierra de Cadena Bastante Económica
+AsbestosDrop.DisplayName: Gota de Amianto
+CigarCinder.DisplayName: Ceniza de Cigarro
+Cigar.DisplayName: Cigarro
+OnyxPrismTooth.DisplayName: Diente de Prisma de Ónice
+PinkGreySpray.DisplayName: Aerosol Rosa Gris
+GreenGreySpray.DisplayName: Aerosol Verde Gris
+BlueGreySpray.DisplayName: Aerosol Azul Gris
+PineappleFrondProj.DisplayName: Fronda
+Potpourri.DisplayName: Popurrí
+PyrogenFlare.DisplayName: Llamarada Pirogénica
+JungleDragonYharon.DisplayName: Yharon
+HydrogenMine.DisplayName: Mina
+HydrogenShell.DisplayName: Misil
+HydrogenWarhead.DisplayName: Cabeza Explosiva
+Fridge.DisplayName: Refrigerador
+IonogenLightning.DisplayName: Rayo Ionogen
+OxygenBubble.DisplayName: Burbuja
+OxygenCloud.DisplayName: Nube
+OxygenDebris.DisplayName: Escombros
+Oxshard.DisplayName: Fragmento de Oxygen
+EosinineProj.DisplayName: Eosinina
+TobaccoSeed.DisplayName: Semilla
+MaserDeathray.DisplayName: Rayo de Muerte de Máser
+BlueExoPulseLaser.DisplayName: Láser de Pulso Exo Azul
+ExothermalSickle.DisplayName: Hoz Exotérmica
+LargeTeslaSphere.DisplayName: Esfera de Tesla Grande
+RedExoPulseLaser.DisplayName: Láser de Pulso Exo Rojo
+PathogenBloodDrop.DisplayName: Sangre
+PathogenBloodThorn.DisplayName: Espina de Sangre
+PathogenCaltrop.DisplayName: Glóbulo Blanco
+PathogenCell1.DisplayName: Glóbulo Blanco Hostil
+AspidShotFriendly.DisplayName: Globo de Infección
+Creep.DisplayName: Rastrera
+WarBolt.DisplayName: Rayo de Guerra
+WarglaiveProjectile.DisplayName: Arpón de Guerra
+WarrowProjectile.DisplayName: Flecha de Guerra
+WaraxeReloadedHoldout.DisplayName: Hacha de Guerra Recargada
+FiberBabyHoldout.DisplayName: Bebé de Fibra
+AsbestosDropFriendly.DisplayName: Gota de Amianto
+CigarSmoke.DisplayName: Humo de Cigarro
+AergiaNeuronCore.DisplayName: Núcleo de Neurona Aergia
+AergiaNeuronSummon.DisplayName: Núcleo de Neurona Aergia
+BlueExoPulseLaserFriendly.DisplayName: Láser de Pulso Exo Azul
+Scrap.DisplayName: Chatarra
+OrigenPointProjectile.DisplayName: Punto
+OnyxFragment.DisplayName: Fragmento de Ónice
+PyrogenWaveFlare.DisplayName: Llamarada de Onda Pirogénica
+PyrogenOrbitalFlare.DisplayName: Llamarada Orbital Pirogénica
+PyrogenZigZagFlare.DisplayName: Llamarada en Zigzag Pirogénica
+TwistedNetheriteSoulExplosion.DisplayName: Explosión de Alma de Netherita Retorcida
+Juice.DisplayName: Jugo
+CalamityBeam.DisplayName: Rayo de Calamidad
+ExtensionCordWhip.DisplayName: Látigo de Cable de Extensión
+PlanetaryAnnihilationProj.DisplayName: Aniquilación Planetaria
+TotalAnnihilationProj.DisplayName: Aniquilación Total
+TotalAnnihilationProjOrbital.DisplayName: Aniquilación Total
+AerosprayMist.DisplayName: Niebla de Aerosol
+PineappleSentry.DisplayName: Estatua Animada
+HydrogenShellFriendly.DisplayName: Misil
+MagmaticArrow.DisplayName: Flecha Magmática
+Chainfire.DisplayName: Llama
+Chainsmog.DisplayName: Niebla de Cadena
+FriendlyCell1.DisplayName: Glóbulo Blanco Amigable
+MutantSeeker.DisplayName: Perseguidor
+TyrantBobber.DisplayName: Flotador del Tirano
+FirestormLava.DisplayName: Lava de Tormenta de Fuego
+MagmasherHammer.DisplayName: Martillo Aplastador de Magma
+MoltenTools.DisplayName: Herramientas Fundidas
+QuadLaser.DisplayName: Láser Cuádruple
+SickCell.DisplayName: Célula Enferma
+XenonSlash.DisplayName: Corte de Xenón
+BlobfishProjectile.DisplayName: Peluche de Pez Gota
+PlushieCotton.DisplayName: Algodón de Peluche
+RoseArrow.DisplayName: Flecha de Rosa
+RoseSlash.DisplayName: Corte de Rosa
+WindTurbine.DisplayName: Turbina de Viento
+Noxling.DisplayName: Pequeño Noxus
+DaggerofLibertyProj.DisplayName: Puñal de la Libertad
+LibertyExplosion.DisplayName: Explosión de Libertad
+EXOLOTL.DisplayName: EXO-AJOLOTE
+PrincessFlame.DisplayName: Llama de Princesa
+HyperionExplosion.DisplayName: Explosión de Hiperión
+SkyFire.DisplayName: Fuego del Cielo
+FracturingFistProj.DisplayName: Puño Fracturador
+FractalCrawler.DisplayName: Rastreador Fractal
+CirnogenicSentry.DisplayName: Centinela Cirnogénico
+Rox.DisplayName: Rox
+RoxProj.DisplayName: Rox
+PyrogenFlareStatic.DisplayName: Llamarada Pirogénica
+PyrogenFlareStatic2.DisplayName: Llamarada Pirogénica
+PyrogenTool.DisplayName: Herramienta Pirogénica
+ObsidianBomb.DisplayName: Bomba de Obsidiana
+ObsidianFragment.DisplayName: Fragmento de Obsidiana
+PyrogenHarpoon.DisplayName: Arpón de Pirogén
+SylvanSlash.DisplayName: Corte Silvestre
+GiftSymbioticWormI.DisplayName: Gusano Simbiótico Volátil
+GiftSymbioticWormH.DisplayName: Gusano Simbiótico Rojo
+GiftIchor.DisplayName: Salpicadura de Icor
+XerocBloodShot.DisplayName: Disparo de Sangre
+AncientFlash.DisplayName: Destello
+AncientFlashBulletProj.DisplayName: Bala
+NanomachinesSon.DisplayName: Hijo de las Nanomáquinas
+TwinkleStar.DisplayName: Estrella Titilante
+StratusStar.DisplayName: Estrella de Estrato
+OrbitingOrb.DisplayName: Orbe Orbital
+SupremeSickle.DisplayName: Hoz de Fuego Ardiente
+Ark.DisplayName: Arca
+SupremeBone.DisplayName: Hueso Bruñido
+SupremeSkull.DisplayName: No es la Calavera de Fuego Ardiente
+DarkComet.DisplayName: Cometa Oscuro
+DarkFireball.DisplayName: Bola de Fuego Oscuro
+DarkPortal.DisplayName: Portal Oscuro
+DarkWave.DisplayName: Onda Oscura
+DistortionField.DisplayName: Campo de Distorsión
+GroundStompShock.DisplayName: Onda de Choque de Pisotón
+NightmareDeathRay.DisplayName: Rayo de Muerte de Pesadilla
+NoxSpike.DisplayName: Púa de Noxus
+NoxusExplosion.DisplayName: Explosión de Noxus
+NoxusGas.DisplayName: Gas de Noxus
+NoxusSprayerGas.DisplayName: Gas de Pulverizador de Noxus
+BabyNoxus.DisplayName: Pequeño Noxus
+AlchemistArrow.DisplayName: Flecha de Alquimista
+ChlorineSlammer.DisplayName: Aplastador de Cloro
+ChlorophyteYoyoProjectile.DisplayName: Proyectil de Yoyo de Clorofita
+ClockArrowForNightsEdgeBow.DisplayName: Flecha de Reloj para Arco de Filo de Noche
+RiskOfRainArrow.DisplayName: Flecha de Riesgo de Lluvia
+TerraHawk.DisplayName: Halcón de Terra
+TheSimpstringHoldout.DisplayName: El Simpstring Sostenido
+BrimstoneBall.DisplayName: Bola de Fuego Ardiente
+ChloriumChainsawProjectile.DisplayName: Proyectil de Sierra de Cadena de Clorio
+ChloriumDrillProjectile.DisplayName: Proyectil de Taladro de Clorio
+ChlorislimeMinion.DisplayName: Minion Limo Cloro
+ChloriumPikeProjectile.DisplayName: Proyectil de Pica de Clorio
+CosmiliteCoinPileProjectile.DisplayName: Proyectil de Pila de Monedas de Cosmilita
+CosmiliteCoinProjectile.DisplayName: Proyectil de Moneda de Cosmilita
+KlepticoinPileProjectile.DisplayName: Proyectil de Pila de Monedas Klépticas
+KlepticoinProjectile.DisplayName: Proyectil de Moneda Kléptica
+RadGlowstickProjectile.DisplayName: Proyectil de Bastón Luminoso Radiactivo
+WulfrumFrogProj.DisplayName: Rana de Wulfrum
+CrimsonKaijuHand.DisplayName: Mano de Kaiju Carmesí
+AcceloRingProjectile.DisplayName: Anillo de Aceleración
+AcceloRingSpike.DisplayName: Púa de Anillo de Aceleración
+WeirdBird.DisplayName: Pájaro Extraño
+PizzaWheelProj.DisplayName: Rueda de Pizza
+PizzaWheelStealth.DisplayName: Rueda de Pizza II
+GuardiansWrathProj.DisplayName: Ira de los Guardianes
+ZalGlock.DisplayName: ZalGlock
+CursedBullet.DisplayName: Bala Maldita
+GodKillerBeam.DisplayName: Rayo de Calor
+OperatorWhipEnd.DisplayName: Tentáculo Oscuro

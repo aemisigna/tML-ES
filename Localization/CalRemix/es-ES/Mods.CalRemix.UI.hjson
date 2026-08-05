@@ -1,0 +1,40 @@
+Element: {
+	None: Sin entidades rastreadas
+	NoInfo: Sin información elemental disponible
+	Vulnerable: Vulnerable al elemento {0}
+	Resistant: Resistente al elemento {0}
+	Equilibrium: Equilibrio
+}
+
+Generator: {
+	Mode: Parte seleccionada para editar
+	Music: Alternar música de interfaz
+	Style: Cambiar entre estilos de parte
+	Visibility: Cambiar visibilidad de parte
+	Glow: Alternar áreas afectadas por color de parte
+	Color: Establecer color de parte usando HEX
+}
+
+PandemicPanic: {
+	None: Pánico Pandémico - Lado: Ninguno
+	Defender: Pánico Pandémico - Lado: Defensor
+	Invader: Pánico Pandémico - Lado: Invasor
+}
+
+Title: {
+	1: Estilo de Calamity (Remix)
+	2: Menú Definitivo al Estilo Calamity
+}
+
+SoulSlot: Alma Elemental
+SoulVanitySlot: Alma de Vanidad
+SneakerSlot: Patadas Increíbles
+FandomWarning: NO USES LA WIKI DE FANDOM
+TrueStory: Basado en una historia verdadera
+MediumWorldWarning: "[c/ffff00:MUNDOS MEDIANOS SON ALGO SOPORTADOS POR CALAMITY]"
+LargeWorldGreening: "[c/00F000:MUNDOS GRANDES SON SOPORTADOS POR CALAMITY]"
+
+WorldGen: {
+	Dullies: Generando muñones
+	ItGetsDeeper: Pero espera, se pone más profundo
+}

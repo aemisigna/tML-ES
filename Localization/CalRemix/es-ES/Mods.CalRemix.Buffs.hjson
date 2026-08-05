@@ -1,0 +1,434 @@
+AstralEffigyBuff: {
+	DisplayName: Efigie Astral
+	Description: La infección astral te fortalece
+}
+
+AtlasSoldierBuff: {
+	DisplayName: Soldado Atlas
+	Description: El soldado atlas te protegerá
+}
+
+CosmicConflictBuff: {
+	DisplayName: Constructo de Conflicto Cósmico
+	Description: El constructo de conflicto cósmico te protegerá
+}
+
+CosmicElementalBuff: {
+	DisplayName: Elemental Cósmico
+	Description: El elemental cósmico te protegerá
+}
+
+EarthElementalBuff: {
+	DisplayName: Elemental de Tierra
+	Description: El elemental de tierra te protegerá
+}
+
+HallowEffigyBuff: {
+	DisplayName: Efigie de Tierra Sagrada
+	Description: La tierra sagrada te fortalece
+}
+
+MethHigh: {
+	DisplayName: Poder Sumergido
+	Description: Te sientes eufórico y listo para cualquier cosa
+}
+
+MethLow: {
+	DisplayName: Síndrome de Abstinencia Sumergido
+	Description: Te sientes como basura
+}
+
+MicrobialClusterBuff: {
+	DisplayName: Cúmulo Microbiano
+	Description: "'¿Dónde está?'"
+}
+
+MoonfistBuff: {
+	DisplayName: Empoderamiento Lunar
+	Description: Golpéame todo lo que quieras, no puedes des-51 la receta
+}
+
+TheDreamingGhostBuff: {
+	DisplayName: El Fantasma Soñador
+	Description: ¿No son hermosos?
+}
+
+Scorinfestation: {
+	DisplayName: Infestación de Escorpión
+	Description: Consumido por magma
+}
+
+StatueBuff: {
+	DisplayName: Estatua Animada
+	Description: Perfectamente equilibrado
+}
+
+MackerelBuff: {
+	DisplayName: Caballa Sagrada
+	Description: La caballa te protegerá
+}
+
+Leaves: {
+	DisplayName: Poder de Hojas
+	Description: Las hojas son poderosas
+}
+
+Anxiety: {
+	DisplayName: Ansiedad Calamitosa
+	Description: Algo vigila cada uno de tus movimientos
+}
+
+Dysphoria: {
+	DisplayName: Disforia Calamitosa
+	Description: Sientes que algo está fuera de lugar, pero no sabes qué
+}
+
+Euphoria: {
+	DisplayName: Euforia Calamitosa
+	Description: ¡Te sientes listo para enfrentar el mundo entero!
+}
+
+GarBoost: {
+	DisplayName: Impulso de Maná de Gar
+	Description: Maná ilimitado temporal
+}
+
+Horse: {
+	DisplayName: Caballo Caótico
+	Description: ¡Volando lejos!
+}
+
+Calamitized: {
+	DisplayName: Calamitizado
+	Description: Se te cuenta como muerto para la Calamidad
+}
+
+CorrosiveEyeBuff: {
+	DisplayName: Mejora de Ojo Corrosivo
+	Description: Los ojos corrosivos orbitan a tu alrededor
+}
+
+EntropicallyFed: {
+	DisplayName: Alimentado Entrópicamente
+	Description: Nada malo... excepto tu estómago volviéndose rancio
+}
+
+ILoveLean: {
+	DisplayName: Visión Magra
+	Description: ¡¡¡AMO LO MAGRO!!!
+}
+
+Fairied: {
+	DisplayName: Encantado
+	Description: ¿Puedes volar como un hada?
+}
+
+ElementalAffinity: {
+	DisplayName: Molly Elemental
+	Description: Te sientes como el maestro de los elementos
+}
+
+BrimstoneMadness: {
+	DisplayName: Locura de Azufre
+	Description: Esos mares se ven muy abrasadores en este momento
+}
+
+Acid: {
+	DisplayName: Viaje Ácido Ligero
+	Description: No estás en ácido, todos los demás sí
+}
+
+HayFeaver: {
+	DisplayName: Fiebre del Heno
+	Description: ¡Estornudas sangre!
+}
+
+MedicallyIntelligent: {
+	DisplayName: Inteligencia Médica
+	Description: Parece que no necesitabas 10 años
+}
+
+Warath: {
+	DisplayName: Warath
+	Description: Tus sirvientes están furiosos
+}
+
+AergiaNeuronBuff: {
+	DisplayName: Neurona de Aergia
+	Description: Deberías hacer una prueba
+}
+
+Wither: {
+	DisplayName: Marchitamiento
+	Description: Marchitándose
+}
+
+ExtensionCordDebuff: {
+	DisplayName: Efecto Negativo de Cable de Extensión
+	Description: Mejor no toques agua
+}
+
+Deplatformed: {
+	DisplayName: Deplatformizado
+	Description: La fuerza fundida del constructo abruma tus plataformas
+}
+
+MoltenToolsBuff: {
+	DisplayName: Herramientas Fundidas
+	Description: ¡¡Carga!!
+}
+
+ShreadedLungs: {
+	DisplayName: Pulmones Destrozados
+	Description: ¡No, eso no es un error tipográfico!
+}
+
+SickCellBuff: {
+	DisplayName: Célula Enferma
+	Description: ¡Eso es totalmente enfermizo!
+}
+
+OnyxFistBuff: {
+	DisplayName: Puño de Ónice
+	Description: ¡Puñetazos!
+}
+
+EXOLOTLBuff: {
+	DisplayName: EXO-AJOLOTE
+	Description: ¡Excelente para distraer gatos!
+}
+
+FractalCrawlerBuff: {
+	DisplayName: Rastreador Fractal
+	Description: El rastreador fractal te protegerá
+}
+
+DestructivePresence: {
+	DisplayName: Presencia Destructiva
+	Description: Algo peligroso acecha cerca
+}
+
+StratusBeverageBuff: {
+	DisplayName: Bebida de Estrato
+	Description: Viendo estrellas
+}
+
+TaintedAmmoBuff: {
+	DisplayName: Munición Desatada
+	Description: ¡Estás goteando munición!
+}
+
+TaintedArcheryBuff: {
+	DisplayName: Arquero Imprudente
+	Description: ¡Flechas por todas partes!
+}
+
+TaintedBattleBuff: {
+	DisplayName: Escenario del Apocalipsis
+	Description: Quienes permanecen son los más ricos
+}
+
+TaintedBuilderBuff: {
+	DisplayName: Ingenioso
+	Description: ¿¿¿Cómo funciona esto físicamente???
+}
+
+TaintedCalmingBuff: {
+	DisplayName: Hordas Débiles
+	Description: Más buscan desafiarte, pero caen en pánico
+}
+
+TaintedCrateBuff: {
+	DisplayName: Simulador Gacha
+	Description: Doble o nada
+}
+
+TaintedDangersenseBuff: {
+	DisplayName: Peligro
+	Description: ¡Todo quiere matarte!
+}
+
+TaintedEnduranceBuff: {
+	DisplayName: Enemigos Destrozados
+	Description: Tus oponentes se debilitan
+}
+
+TaintedFeatherfallBuff: {
+	DisplayName: Gravedad Amigable
+	Description: ¿Por qué no podían recibir daño de caída antes?
+}
+
+TaintedFishingBuff: {
+	DisplayName: Maldición de Pesca
+	Description: Sin comida, solo peleas
+}
+
+TaintedGillsBuff: {
+	DisplayName: Hidrofobia
+	Description: Ahogarse te hace entrar en pánico
+}
+
+TaintedGravityBuff: {
+	DisplayName: Muy Distorsionado
+	Description: ¡Perdiendo control!
+}
+
+TaintedHeartBuff: {
+	DisplayName: Ataque Cardíaco
+	Description: Los corazones ahora atacan
+}
+
+TaintedHunterBuff: {
+	DisplayName: Infamia
+	Description: Todos quieren ser tu enemigo
+}
+
+TaintedInfernoBuff: {
+	DisplayName: En Llamas
+	Description: Todos se queman
+}
+
+TaintedInvisibilityBuff: {
+	DisplayName: Abandonado
+	Description: ¿A dónde se fue todo el mundo?
+}
+
+TaintedIronskinBuff: {
+	DisplayName: Magullado
+	Description: Golpeado, pero todavía decidido
+}
+
+TaintedLifeBuff: {
+	DisplayName: Sangre de Maná
+	Description: Tu salud se convierte en maná
+}
+
+TaintedLoveBuff: {
+	DisplayName: Ídolo
+	Description: Todos se desgarran el uno al otro para llegar a ti
+}
+
+TaintedLuckBuff: {
+	DisplayName: Suerte de Speedrunner
+	Description: Tasas de caída de perlas aumentadas
+}
+
+TaintedMagicPowerBuff: {
+	DisplayName: Telequinesia
+	Description: Lanza enemigos alrededor con magia
+}
+
+TaintedManaBuff: {
+	DisplayName: Aceleración de Maná
+	Description: ¡¡Golpea las estrellas fuera de ellos!!
+}
+
+TaintedMiningBuff: {
+	DisplayName: Fuerza de Minería
+	Description: Tu pico se siente más pesado...
+}
+
+TaintedNightOwlBuff: {
+	DisplayName: Brumoso
+	Description: Cae la oscuridad
+}
+
+TaintedObsidianSkinBuff: {
+	DisplayName: Lava Letal
+	Description: ¡Mejor no lo toques!
+}
+
+TaintedRageBuff: {
+	DisplayName: Poder Enfocado
+	Description: Sin más suerte, solo violencia
+}
+
+TaintedRegenerationBuff: {
+	DisplayName: Vampírico
+	Description: Drena los
+}
+
+TaintedShineBuff: {
+	DisplayName: Negro Absoluto
+	Description: Verdadero rastreo
+}
+
+TaintedSonarBuff: {
+	DisplayName: Pez Inquieto
+	Description: Tus líneas de pesca se sacuden rápidamente
+}
+
+TaintedSpelunkerBuff: {
+	DisplayName: Imán de Tesoro
+	Description: El metal se filtra de las paredes
+}
+
+TaintedStinkBuff: {
+	DisplayName: Repugnante
+	Description: Incluso los enemigos sin nariz piensan que hueles horrible
+}
+
+TaintedSummoningBuff: {
+	DisplayName: Sirvientes Efímeros
+	Description: Crecen tan rápido...
+}
+
+TaintedSwiftnessBuff: {
+	DisplayName: Sigilo
+	Description: Ten cuidado
+}
+
+TaintedThornsBuff: {
+	DisplayName: Enemigos Protegidos
+	Description: ¡Quizás uno me golpee!
+}
+
+TaintedTitanBuff: {
+	DisplayName: Sin Fuerza
+	Description: Tus armas no tienen impacto
+}
+
+TaintedWarmthBuff: {
+	DisplayName: Enfriamiento
+	Description: Daño reducido de fuentes cálidas
+}
+
+TaintedWaterWalkingBuff: {
+	DisplayName: Caminata Aérea
+	Description: Cristal mágico
+}
+
+TaintedWrathBuff: {
+	DisplayName: Pacifista
+	Description: Tan inofensivo como una mosca
+}
+
+Chlorislime: {
+	DisplayName: Babosa Chloris
+	Description: La babosa Chloris te protegerá
+}
+
+NoxusFumes: {
+	DisplayName: Vapores de Noxus
+	Description: Alucinaciones cósmicas te rodean...
+}
+
+BabyNoxusBuff: {
+	DisplayName: Noxus
+	Description: Ahora es una persona pequeña
+}
+
+WeirdBirdBuff: {
+	DisplayName: Mejora de Pájaro Extraño
+	Description: Algún pájaro extraño te ha identificado como su madre
+}
+
+Springlocked: {
+	DisplayName: Cerrado con Resorte
+	Description: Los cierres de resorte trituran rápidamente tus huesos
+}
+
+WarlockBuff: {
+	DisplayName: Mejora de Brujo
+	Description: Es algo acogedor aquí adentro
+}

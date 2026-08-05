@@ -144,6 +144,18 @@ Configs: {
 			Tooltip: Activa/Desactiva la traducción de Ancients Awakened: Classic.
 		}
 
+		CalRemixLocalization: {
+			Label: Calamity: Community Remix
+			Tooltip:
+				'''
+				Activa/Desactiva la traducción de Calamity: Community Remix.
+				[c/ff388e:Nota:] Se RECOMIENDA no desactivar la traducción de:
+				- Calamity Mod
+				- Calamity Mod Music
+				...si tienes esta opción activada, ya que Calamity: Community Remix modifica contenido de ambos.
+				'''
+		}
+
 		CalamityModMusicLocalization: {
 			Label: Calamity Mod Music
 			Tooltip: Activa/Desactiva la traducción de Calamity Mod Music.

@@ -1,0 +1,51 @@
+AstralEffigyPlaced.MapEntry: Efigie Astral
+CosmichidPlant.MapEntry: Planta Cosmichid
+DerellectTrophyPlaced.MapEntry: Trofeo de Derellect
+HallowEffigyPlaced.MapEntry: Efigie Sagrada
+LifeOreTile.MapEntry: Mineral de Vida
+MiracleFruitPlaced.MapEntry: Fruta Milagrosa
+CosmiliteSlagPlaced.MapEntry: Escoria de Cosmilita
+MeldGunkPlaced.MapEntry: Lodo de Fusión
+GrimesandPlaced.MapEntry: Arena Sucia
+Anomaly109Placed.MapEntry: Anomalía109
+ArsenicOrePlaced.MapEntry: Mineral de Arsénico
+BanishedPlatingPlaced.MapEntry: Revestimiento Desterrado
+BaronBrinePlaced.MapEntry: Salmuera del Barón
+BaronsandPlaced.MapEntry: Arena del Barón
+BrinerackPlaced.MapEntry: Rejilla de Salmuera
+TanzaniteGlassPlaced.MapEntry: Vidrio de Tanzanita
+MovieSignPlaced.MapEntry: Letrero de Película
+IonCubePlaced.MapEntry: Cubo Iónico
+HypnosTrophyPlaced.MapEntry: Trofeo de Hipnos
+CarcinogenTrophyPlaced.MapEntry: Trofeo de Carcinogen
+HydrogenTrophyPlaced.MapEntry: Trofeo de Hydrogen
+IonogenTrophyPlaced.MapEntry: Trofeo de Ionogen
+OrigenTrophyPlaced.MapEntry: Trofeo de Origen
+OxygenTrophyPlaced.MapEntry: Trofeo de Oxygen
+PathogenTrophyPlaced.MapEntry: Trofeo de Pathogen
+PhytogenTrophyPlaced.MapEntry: Trofeo de Phytogen
+AltaroftheAblessedPlaced.MapEntry: Altar de los Ablecidos
+PyrogenTrophyPlaced.MapEntry: Trofeo de Pyrogen
+StonecutterPlaced.MapEntry: Cortador de Piedra
+LabRoachBannerPlaced.MapEntry: Estandarte de Cucaracha de Laboratorio
+AncientConsole.MapEntry: Consola Antigua
+TorrefiedTephraPlaced.MapEntry: Tefra Calcinada
+OldIonogenTrophyPlaced.MapEntry: Trofeo Antiguo de Ionogen
+ChloriumOrePlaced.MapEntry: Mineral de Clorita
+LegendPortrait.MapEntry: Retrato Legendario
+LegendMemorial.MapEntry: Memorial Legendario
+LegendPromo.MapEntry: Promocional Legendario
+GaggleStatuePlaced.MapEntry: Estatua de Bandada
+AndesitePlaced.MapEntry: Andesita
+DioritePlaced.MapEntry: Diorita
+GranitePlaced.MapEntry: Granito
+FarmixerPlaced.MapEntry: Granjamezclador
+BarPlanterTile.MapEntry: Maceta de Barra
+AlloyBarPlant.MapEntry: Planta de Barra de Aleación
+EssentialEssenceBarPlant.MapEntry: Planta de Barra de Esencia Esencial
+YharimBarPlant.MapEntry: Planta de Barra de Yharim
+
+FrigidChestPlaced: {
+	MapEntry0: Frigid Chest
+	MapEntry1: Locked Frigid Chest
+}

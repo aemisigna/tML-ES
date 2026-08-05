@@ -1,0 +1,315 @@
+DebuffStone: {
+	DisplayName: Piedra de {0}
+	Tooltip:
+		'''
+		Inmunidad a {0}
+		Los ataques infligen {0}
+		'''
+}
+
+BouncyRogue: {
+	DisplayName: "{0} Elástico"
+	Tooltip:
+		'''
+		{0}
+		¡Ahora con elasticidad extra!
+		'''
+}
+
+StickyRogue: {
+	DisplayName: "{0} Pegajoso"
+	Tooltip:
+		'''
+		{0}
+		¡Ahora con pegajosidad extra!
+		'''
+}
+
+Currency: {
+	Cosmilite: Cosmilita
+	Klepticoin: Monedera Kléptica
+	CosmiliteInterface: cosmilita
+	KlepticoinInterface: monedera kléptica
+}
+
+UI: {
+	Cooldowns.BananaClown: Enfriamiento de Consumo del Payaso
+	ExampleResource: Mods.CalRemix.UI.ExampleResource
+
+	DifficultyModes: {
+		NoDifficulty: {
+			Name: Mods.CalRemix.UI.DifficultyModes.NoDifficulty.Name
+			Info: Mods.CalRemix.UI.DifficultyModes.NoDifficulty.Info
+		}
+
+		TitanicDifficulty: {
+			Name: Mods.CalRemix.UI.DifficultyModes.TitanicDifficulty.Name
+			Info: Mods.CalRemix.UI.DifficultyModes.TitanicDifficulty.Info
+		}
+	}
+
+	Anomaly.Condition: Mods.CalRemix.UI.Anomaly.Condition
+}
+
+Biomes: {
+	LifeBiome: {
+		DisplayName: Corazón de Vida
+		TownNPCDialogueName: el Bioma de Vida
+	}
+
+	PlagueBiome: {
+		DisplayName: Jungla Plagada
+		TownNPCDialogueName: el Bioma de Peste
+	}
+
+	ExosphereBiome: {
+		DisplayName: La Exosfera
+		TownNPCDialogueName: el Bioma de Exosfera
+	}
+
+	FannyBiome: {
+		DisplayName: Bioma Fanny
+		TownNPCDialogueName: el Bioma Fanny
+	}
+
+	AsbestosBiome: {
+		DisplayName: Cuevas de Asbesto
+		TownNPCDialogueName: el Bioma de Asbesto
+	}
+
+	GaleforceDayBiome: {
+		DisplayName: Día de Fuerza Galáctica
+		TownNPCDialogueName: el Día de Fuerza Galáctica
+	}
+
+	PandemicPanicBiome: {
+		DisplayName: Pánico Pandémico
+		TownNPCDialogueName: el Pánico Pandémico
+	}
+
+	BaronStraitBiome: {
+		DisplayName: Estrecho del Barón
+		TownNPCDialogueName: el Estrecho del Barón
+	}
+
+	FrozenStrongholdBiome: {
+		DisplayName: Fortaleza Congelada
+		TownNPCDialogueName: la Fortaleza Congelada
+	}
+
+	ProfanedDesertBiome: {
+		DisplayName: Desierto Profanado
+		TownNPCDialogueName: el Bioma del Desierto Profanado
+	}
+}
+
+Enchantments: {
+	Fallacious: {
+		Name: Falaz
+		Description: Aumenta considerablemente el daño de golpes críticos pero reduce la probabilidad de golpe crítico. Los golpes críticos también te dañan.
+	}
+
+	Defiant: {
+		Name: Desafiante
+		Description: Aumenta la reducción de daño pero recibir cualquier golpe disminuye el daño.
+	}
+}
+
+Keybinds: {
+	Baroclaw.DisplayName: Garra de Barón
+	"Polypebral Dash.DisplayName": Destello Polipebral
+	"Quick Stealth.DisplayName": Sigilo Rápido
+	"Ionic Lightning.DisplayName": Relámpago Iónico
+	"Infrared Sights.DisplayName": Miras Infrarrojas
+}
+
+Configs: {
+	DisplayName: Configuración de Calamity Community Remix
+
+	CalRemixConfig: {
+		Headers: {
+			CalRemixHeader: Calamity Community Remix
+			VisualEffectsHeader: Efectos Visuales
+			MainMenuHeader: Menú Principal
+		}
+
+		FannyToggle: {
+			Header: Fanny
+			Label: Alternar Fanny
+			Tooltip: Activa/desactiva Fanny.
+		}
+
+		DisplayName: Configuración de Cal Remix
+
+		randomMenu: {
+			Label: Aleatorizar Variante
+			Tooltip: ""
+		}
+
+		forcedMenu: {
+			Label: Forzar Carga de Menú
+			Tooltip: ""
+		}
+
+		useSecondMenu: {
+			Label: Usar Segundo Tema
+			Tooltip: ""
+		}
+
+		photosensitivty: {
+			Label: Características de Fotosensibilidad
+			Tooltip: Activa características de fotosensibilidad. Desactiva si es muy agresivo para los ojos.
+		}
+
+		ScreenShatterEffects: {
+			Label: Efectos de Rotura de Pantalla
+			Tooltip: Activa efectos de rotura de pantalla. Desactiva si es muy agresivo para los ojos.
+		}
+
+		VisualOverlayIntensity: {
+			Label: Intensidad de Superposición Visual
+			Tooltip: Cambia la intensidad de las superposiciones visuales como desenfoque y aberración cromática.
+		}
+
+		photosensitivity: {
+			Label: Fotosensibilidad
+			Tooltip: ""
+		}
+	}
+}
+
+InfoDisplays: {
+	ElementDisplay.DisplayName: Pantalla de Elementos
+	MoodTracker.DisplayName: Rastreador de Estado
+	NetWorthDisplay.DisplayName: Pantalla de Valor Neto
+	DeliciousMeatDisplay.DisplayName: Pantalla de Carne Deliciosa
+}
+
+Emotes.HypnosEmote.Command: emotehypnos
+
+BossChecklistIntegration: {
+	PandemicPanic.EntryName: Pánico Pandémico
+	GaleforceDay.EntryName: Día de Fuerza Galáctica
+}
+
+InfernumIntegration: {
+	Origen:
+		'''
+		Fortaleza Congelada
+		Origen
+		'''
+	Carcinogen:
+		'''
+		Tumba de la Tos
+		Carcinogen
+		'''
+	Ionogen:
+		'''
+		Amenaza Microplástica
+		Ionogen
+		'''
+	Phytogen:
+		'''
+		Tentempié Nutritivo
+		Phytogen
+		'''
+	Hydrogen:
+		'''
+		Bomba de Tiempo
+		Hydrogen
+		'''
+	Pathogen:
+		'''
+		Enfermedad Encarnada
+		Pathogen
+		'''
+	Pyrogen:
+		'''
+		Arsenal Abrasador
+		Pyrogen
+		'''
+	Oxygen:
+		'''
+		Mármol Turbulento
+		Oxygen
+		'''
+	Calamity: La Calamidad
+	Polyphemalus:
+		'''
+		Ojos Unidos
+		Polifemalo
+		'''
+	Derellect:
+		'''
+		Mente Material
+		El Derellecto
+		'''
+	Hypnos:
+		'''
+		Mente de Malicia
+		XP-00 Hipnos
+		'''
+	Acidsighter:
+		'''
+		Ojo Maldito
+		Visor de Ácido
+		'''
+	WulfrumExcavator:
+		'''
+		Helminto Andrajoso
+		Excavadora Wulfrum
+		'''
+	Noxus:
+		'''
+		Avatar del Vacío
+		El Dios Entrópico, Noxus
+		'''
+}
+
+NotAvailable: Nada
+
+DamageClasses: {
+	StormbowDamageClass.DisplayName: daño de arco de tormenta
+	FarmingDamageClass.DisplayName: rendimiento agrícola
+}
+
+RecipeGroups: {
+	Any: Cualquier {0}
+	GreaterEvil: Carne de Mal Mayor
+	EvilBar: Barra de Mal
+	T4Bar: Barra de Nivel 4
+	HMT1Bar: Barra de Nivel 1 Modo Difícil
+	AnyButterfly: Mariposa Normal
+	AnyExoMechMusicBox: Caja de Música Exo Mech Remix
+	AnyCritter: Criatura Pequeña
+}
+
+Condition: {
+	Locked: Receta Bloqueada. {0}
+	Elderberry: Comercia con el Tintorero después de Providencia.
+	MiracleFruit: Encuentra en Planetoides de Jungla post-Golem.
+	Dragonfruit: Abre una Caja Azul mientras una Wyvern está viva después de Yharon
+	BloodOrange: Lanza una Manzana en agua durante una Luna de Sangre post-mecánicos.
+	CometShard: Haz que una Nova choque con Mineral Astral.
+	EtherealCore: Inserta una Vena Sangrienta en el Faro Astral.
+	PhantomHeart: Aparece en la Mazmorra post-Polterghast.
+	DesertMedallion: Cae de los Cnidrios después de derrotar al Excavador Wulfrum.
+	CryoKey: Cae de los Áspides Primordiales en el bioma de nieve por la noche.
+	EyeofDesolation: Cae de Clamitas en las Grietas de Fuego Infernal.
+	ElementalBar: Pesca Gares Laterales desde el espacio del Modo Buscador de Dioses.
+	FearmongerGreathelm: Obtén haciendo que un enemigo camine sobre Arena Sucia.
+	FearmongerPlateMail: Obtén haciendo que un enemigo camine sobre Arena Sucia.
+	FearmongerGreaves: Obtén haciendo que un enemigo camine sobre Arena Sucia.
+	Seafood: Haz otro Marisco.
+	ProfanedShard: Cae de los Entes de Yggdrasil en el Halo e Infierno.
+	GalacticaSingularity: Mods.CalRemix.Condition.GalacticaSingularity
+}
+
+WorldGen.BlessedWithGoldOrPlatinumMessage: ¡Tu mundo ha sido bendecido con Oro y/o Platino!
+
+Stones: {
+	FolvsStone: {
+		DisplayName: Piedra de Folvs
+		Tooltip: ""
+	}
+}

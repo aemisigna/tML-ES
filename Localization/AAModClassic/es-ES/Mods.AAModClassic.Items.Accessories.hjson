@@ -3,8 +3,8 @@ AleisterBook: {
 	Tooltip:
 		'''
 		Un libro legendario del Mega Therión.
-		Aumento del 10% al daño de esbirros
-		+2 espacios de esbirro
+		Aumento del 10% al daño de súbditos
+		+2 espacios de súbdito
 		Quizás podrías hacerlo más fuerte..?
 		Hay una nota escrita en la portada:
 		Necesito almas más poderosas, *****,*********,**********
@@ -16,8 +16,8 @@ TheBookOfTheLaw: {
 	Tooltip:
 		'''
 		Un libro legendario del Mega Therión.
-		Aumento del 30% al daño de esbirros
-		+2 espacios de esbirro
+		Aumento del 30% al daño de súbditos
+		+2 espacios de súbdito
 		Incluye los efectos de todas las piezas utilizadas para hacerlo.
 
 		'''

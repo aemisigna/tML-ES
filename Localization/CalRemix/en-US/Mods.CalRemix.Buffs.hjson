@@ -1,0 +1,434 @@
+AstralEffigyBuff: {
+	DisplayName: Astral Effigy
+	Description: The astral infection empowers you
+}
+
+AtlasSoldierBuff: {
+	DisplayName: Atlas Soldier
+	Description: The atlas soldier will protect you
+}
+
+CosmicConflictBuff: {
+	DisplayName: Cosmic Conflict Construct
+	Description: The cosmic conflict construct will protect you
+}
+
+CosmicElementalBuff: {
+	DisplayName: Cosmic Elemental
+	Description: The cosmic elemental will protect you
+}
+
+EarthElementalBuff: {
+	DisplayName: Earth Elemental
+	Description: The earth elemental will protect you
+}
+
+HallowEffigyBuff: {
+	DisplayName: Hallow Effigy
+	Description: The hallow empowers you
+}
+
+MethHigh: {
+	DisplayName: Sunken Power
+	Description: You feel euphoric and ready for anything
+}
+
+MethLow: {
+	DisplayName: Sunken Withdrawal
+	Description: You feel like garbage
+}
+
+MicrobialClusterBuff: {
+	DisplayName: Microbial Cluster
+	Description: "'Where is it?'"
+}
+
+MoonfistBuff: {
+	DisplayName: Moon Empowerment
+	Description: Hit me all you want, you can't un51 the recipe
+}
+
+TheDreamingGhostBuff: {
+	DisplayName: The Dreaming Ghost
+	Description: Aren't they beautiful?
+}
+
+Scorinfestation: {
+	DisplayName: Scorinfestation
+	Description: Consumed by magma
+}
+
+StatueBuff: {
+	DisplayName: Animated Statue
+	Description: Perfectly balanced
+}
+
+MackerelBuff: {
+	DisplayName: Holy Mackerel
+	Description: The mackerel will protect you
+}
+
+Leaves: {
+	DisplayName: Leaves Power
+	Description: The leaves are powerful
+}
+
+Anxiety: {
+	DisplayName: Calamitous Anxiety
+	Description: Something is watching your every move
+}
+
+Dysphoria: {
+	DisplayName: Calamitous Dysphoria
+	Description: You feel like something is out of place, but don't know what it is
+}
+
+Euphoria: {
+	DisplayName: Calamitous Euphoria
+	Description: You feel ready to face the entire world!
+}
+
+GarBoost: {
+	DisplayName: Gar Mana Boost
+	Description: Temporary unlimited mana
+}
+
+Horse: {
+	DisplayName: Chaotic Horse
+	Description: Flying away!
+}
+
+Calamitized: {
+	DisplayName: Calamitized
+	Description: You are counted as being dead to the Calamity
+}
+
+CorrosiveEyeBuff: {
+	DisplayName: Corrosive Eye Buff
+	Description: The corrosive eyes are orbiting you
+}
+
+EntropicallyFed: {
+	DisplayName: Entropically Fed
+	Description: Nothing bad... except your stomach turning stale
+}
+
+ILoveLean: {
+	DisplayName: Lean Vision
+	Description: I LOVE LEAN!!!
+}
+
+Fairied: {
+	DisplayName: Fairied
+	Description: You can fly like a fairy?
+}
+
+ElementalAffinity: {
+	DisplayName: Elemental Molly
+	Description: You feel like the master of the elements
+}
+
+BrimstoneMadness: {
+	DisplayName: Brimstone Madness
+	Description: Those seas look very scorchable right now
+}
+
+Acid: {
+	DisplayName: Light Acid Trip
+	Description: You're not on acid, everyone else is
+}
+
+HayFeaver: {
+	DisplayName: Hay Fever
+	Description: You're sneezing out blood!
+}
+
+MedicallyIntelligent: {
+	DisplayName: Medically Intelligent
+	Description: Looks like you didn't need 10 years
+}
+
+Warath: {
+	DisplayName: Warath
+	Description: Your minions are angry
+}
+
+AergiaNeuronBuff: {
+	DisplayName: Aergia Neuron
+	Description: You should take a test
+}
+
+Wither: {
+	DisplayName: Wither
+	Description: Withering away
+}
+
+ExtensionCordDebuff: {
+	DisplayName: Extension Cord Debuff
+	Description: Better not touch water
+}
+
+Deplatformed: {
+	DisplayName: Deplatformed
+	Description: The construct's molten force is overpowering your platforms
+}
+
+MoltenToolsBuff: {
+	DisplayName: Molten Tools
+	Description: Charge!!!
+}
+
+ShreadedLungs: {
+	DisplayName: Shreaded Lungs
+	Description: No that isn't a typo!
+}
+
+SickCellBuff: {
+	DisplayName: Sick Cell
+	Description: That's totally sick!
+}
+
+OnyxFistBuff: {
+	DisplayName: Onyx Fist
+	Description: Fisticuffs!
+}
+
+EXOLOTLBuff: {
+	DisplayName: EXO-LOTL
+	Description: Great for distracting cats!
+}
+
+FractalCrawlerBuff: {
+	DisplayName: Fractal Crawler
+	Description: The fractal crawler will protect you
+}
+
+DestructivePresence: {
+	DisplayName: Destructive Presence
+	Description: Something dangerous lurks nearby
+}
+
+StratusBeverageBuff: {
+	DisplayName: Stratus Beverage
+	Description: Seeing stars
+}
+
+TaintedAmmoBuff: {
+	DisplayName: Ammo Unleashed
+	Description: You are leaking ammo!
+}
+
+TaintedArcheryBuff: {
+	DisplayName: Reckless Archer
+	Description: Arrows everywhere!
+}
+
+TaintedBattleBuff: {
+	DisplayName: Apocalypse Scenario
+	Description: Those who remain are the richest
+}
+
+TaintedBuilderBuff: {
+	DisplayName: Resourceful
+	Description: How does this physically work???
+}
+
+TaintedCalmingBuff: {
+	DisplayName: Weak Hordes
+	Description: More seek to challenge you, but fall in fear
+}
+
+TaintedCrateBuff: {
+	DisplayName: Gacha Sim
+	Description: Double or nothing
+}
+
+TaintedDangersenseBuff: {
+	DisplayName: Danger
+	Description: Everything is out to kill you!
+}
+
+TaintedEnduranceBuff: {
+	DisplayName: Shattered Enemies
+	Description: Your foes grow weaker
+}
+
+TaintedFeatherfallBuff: {
+	DisplayName: Friendly Gravity
+	Description: Why couldn't they take fall damage before?
+}
+
+TaintedFishingBuff: {
+	DisplayName: Fishing Curse
+	Description: No food, only fights
+}
+
+TaintedGillsBuff: {
+	DisplayName: Hydrophobia
+	Description: Drowning makes you panic
+}
+
+TaintedGravityBuff: {
+	DisplayName: Very Distorted
+	Description: Losing control!
+}
+
+TaintedHeartBuff: {
+	DisplayName: Heart Attack
+	Description: Hearts now attack
+}
+
+TaintedHunterBuff: {
+	DisplayName: Infamy
+	Description: Everyone wants to be your enemy
+}
+
+TaintedInfernoBuff: {
+	DisplayName: Ablaze
+	Description: Everybody burns
+}
+
+TaintedInvisibilityBuff: {
+	DisplayName: Abandoned
+	Description: Where did everyone go?
+}
+
+TaintedIronskinBuff: {
+	DisplayName: Battered
+	Description: Beaten up, but still determined
+}
+
+TaintedLifeBuff: {
+	DisplayName: Mana Blood
+	Description: Your health is being converted into mana
+}
+
+TaintedLoveBuff: {
+	DisplayName: Idol
+	Description: Everyone is tearing each other apart to get to you
+}
+
+TaintedLuckBuff: {
+	DisplayName: Speedrunner Luck
+	Description: Pearl drop rates increased
+}
+
+TaintedMagicPowerBuff: {
+	DisplayName: Telekinesis
+	Description: Toss enemies around with magic
+}
+
+TaintedManaBuff: {
+	DisplayName: Mana Acceleration
+	Description: Beat the stars out of them!
+}
+
+TaintedMiningBuff: {
+	DisplayName: Mining Strength
+	Description: Your pickaxe feels heavier...
+}
+
+TaintedNightOwlBuff: {
+	DisplayName: Hazy
+	Description: Darkness falls
+}
+
+TaintedObsidianSkinBuff: {
+	DisplayName: Lethal Lava
+	Description: Better not touch it!
+}
+
+TaintedRageBuff: {
+	DisplayName: Focused Power
+	Description: No more luck, only violence
+}
+
+TaintedRegenerationBuff: {
+	DisplayName: Vampiric
+	Description: Drain them
+}
+
+TaintedShineBuff: {
+	DisplayName: Pitch Black
+	Description: True homing
+}
+
+TaintedSonarBuff: {
+	DisplayName: Restless Fish
+	Description: Your fishing lines shake rapidly
+}
+
+TaintedSpelunkerBuff: {
+	DisplayName: Treasure Magnet
+	Description: Metal leaks out of the walls
+}
+
+TaintedStinkBuff: {
+	DisplayName: Disgusting
+	Description: Even noseless enemies think you smell awful
+}
+
+TaintedSummoningBuff: {
+	DisplayName: Mayfly Minions
+	Description: They grow up so fast...
+}
+
+TaintedSwiftnessBuff: {
+	DisplayName: Sneaking
+	Description: Be careful
+}
+
+TaintedThornsBuff: {
+	DisplayName: Shielded Enemies
+	Description: Maybe one will hit!
+}
+
+TaintedTitanBuff: {
+	DisplayName: Forceless
+	Description: Your weapons have no impact
+}
+
+TaintedWarmthBuff: {
+	DisplayName: Cooling
+	Description: Reduced damage from warm sources
+}
+
+TaintedWaterWalkingBuff: {
+	DisplayName: Air Walking
+	Description: Magic glass
+}
+
+TaintedWrathBuff: {
+	DisplayName: Pacifist
+	Description: As harmless as a fly
+}
+
+Chlorislime: {
+	DisplayName: Chlorislime
+	Description: The chlorislime will protect you
+}
+
+NoxusFumes: {
+	DisplayName: Noxus Fumes
+	Description: Cosmic hallucinations surround you...
+}
+
+BabyNoxusBuff: {
+	DisplayName: Noxus
+	Description: He's a smol lad now
+}
+
+WeirdBirdBuff: {
+	DisplayName: Weird Bird Buff
+	Description: Some weird bird has identified you as its mother
+}
+
+Springlocked: {
+	DisplayName: Springlocked
+	Description: The springlocks rapidly crunch your bones
+}
+
+WarlockBuff: {
+	DisplayName: Warlock Buff
+	Description: It's kinda comfy in here
+}

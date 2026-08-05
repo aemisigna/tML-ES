@@ -1,0 +1,100 @@
+TheCalamity: {
+	1: Pondré a prueba tus habilidades de evasión. Buena suerte.
+	2: Tus habilidades son competentes, pero ¿cómo te irá contra los que vienen después de mí?
+	3: Tus oponentes frecuentemente tendrán patrones predecibles; ve más allá y golpea.
+	4: Sigue evitando cualquier cosa que parezca peligrosa.
+	5: Has pasado la prueba. Bien hecho.
+	6: Derrótame y llévate tu recompensa.
+	GFB1: ... ¿de verdad? ¿Vas a intentar ESTO? Está bien, entonces... veamos si puedes manejar un desafío injusto.
+	GFB2: No está mal, pero ya deberías saber que esto no será tan fácil.
+	GFB3: Este mundo es frecuentemente injusto, y deberías estar preparado para cualquier cosa que te lancen.
+	GFB4: ¿Cuánto puedes aguantar...?
+	GFB5: Tu persistencia es admirable. ¿Quizás tengas lo que se necesita?
+	GFB6: Queda un poco más. No lo arruines ahora.
+	GFB7: ... está bien, claramente eres lo suficientemente bueno. Puedes irte.
+	GFB8: No esperes que las cosas sean más fáciles de aquí en adelante.
+}
+
+CyberDraedon: {
+	1: Brecha orgánica detectada. Preparando exterminio.
+	2: Amenaza contenida. Regresando a operación normal.
+	3: Muy interesante, un sujeto de investigación digno.
+	4: Desactivando inhibidores de láser.
+}
+
+HypnosDraedon: {
+	1: Muy peculiar. Tus alteraciones al Rompecodigos lo han llevado a señalizar a un oponente que no tenía intención de que encontraras.
+	2: Tus batallas previas han despertado mi interés, y ahora tu creatividad también.
+	3: Enfrentarás una de mis creaciones más antiguas. No la subestimes.
+	4: Aquí vamos.
+	5: Los vínculos que conectan sus asistentes a sí misma son ineficientes en el mejor de los casos.
+	6: Un vestigio de mi inexperiencia. No dejes que esto contamine tu juicio de mis creaciones posteriores.
+	7: Fascinante. Su amígdala parece estar administrando adrenalina a sus componentes mecánicos.
+	8: No contabilicé esto en mis cálculos. Tu situación actual parece bastante terrible.
+	9: No puedo decir que no esperaba que esto sucediera.
+	10: Hypnos carece de sinergia con mis otras creaciones. La libre voluntad de sus componentes orgánicos sofoca su potencial como máquina de guerra eficiente.
+	11: He determinado todo lo necesario sobre esta creación y sus capacidades.
+	12: Recoge lo que desees de ella. La necesitarás más que yo para lo que vendrá.
+	13: Y por favor. Desaloja ese coágulo de sangre de mi dispositivo la próxima vez que lo uses.
+}
+
+Crabulon: {
+	AprilFools: ¡Compra Carne Deliciosa! ¡Muy Deliciosa! ¡20% de Descuento! ¡Compra Hoy!
+	1: Hola, ¿viniste a hacer un pedido de mi famosa Carne Deliciosa, hecha con Pecerrino Escarcha y Trufas Azules (¡ahora 70% más azules)?
+	Hit: ¿No? Por favor sé cuidadoso con esa arma, se ve algo peligrosa. Honestamente, pareces bastante... malhumorado. ¿Entiendes?
+	2: Debes estar bromeando. Eres solo otro de esos fanáticos desesperados de Carne Deliciosa que no se molestan en pagar por nuestro arduo trabajo. Qué vergüenza.
+	3: Me recuerdas a ese gigante cerdo volador pez hongo. Si pudiera, te destrozaría fácilmente mientras estás cegado por tu depresión o lo que sea.
+	Death: Aaaaaaaahhh
+}
+
+SlimeGodCore: {
+	1: Hola, hemos sospechado que estás cometiendo blasfemia contra los Gelatinosos
+	2: ¡Absurdo! No puedo permitirte destrozar el último puff
+	3: No serás perdonado por tus pecados. Volveré, y más golpeado que nunca...
+	Infernum: NO SERÁS PERDONADO.
+}
+
+ProfanedGuardianCommander: {
+	Death: Comandante de los Guardianes: MI FORTALEZA MENTAL SE DESVANECE...
+	1: Comandante de los Guardianes: ¡ARDERÁS POR LA VOLUNTAD DE LAS LLAMAS PROFANADAS!
+	1D: Defensor de los Guardianes: Prepárate a encontrar tu fin, tonto.
+	1H: Sanador de los Guardianes: ¡Ten cuidado... somos guardianes muy resistentes!
+	Enraged: Comandante de los Guardianes: Eso es malo. Estamos Furiosos
+	EnragedD: Defensor de los Guardianes: Eso es malo. Estamos Furiosos
+	EnragedH: Sanador de los Guardianes: Eso es malo. Estamos Furiosos
+	Meat: Comandante de los Guardianes: ¡¡QUEMA LA CARNE DELICIOSA!! ¡¡TODA!!
+	MeatD: Defensor de los Guardianes: Tú... esta vez no te irás con el dinero del premio.
+	MeatH: Sanador de los Guardianes: ¡¡Guardianes únanse!! Tenemos un enemigo más digno para destruir.
+}
+
+ProfanedGuardianDefender: {
+	Death: Defensor de los Guardianes: Nada... puede vencer a mi hermano mayor...
+	DeathC: Comandante de los Guardianes: MUY PRONTO, SENTIRÁS MI IRA PROFANADA... JA-JA-JA...
+}
+
+ProfanedGuardianHealer: {
+	Death: Sanador de los Guardianes: ¡Auch!
+	DeathD: Defensor de los Guardianes: ¿Cómo? ¿¡Cómo pudiste!?
+	DeathC: Comandante de los Guardianes: ¡¡SUFICIENTE!! PUEDE QUE HAYAS DERROTADO A UNO DE NOSOTROS, ¡¡PERO NOSOTROS DOS SOMOS MUCHO MÁS RESISTENTES!!
+}
+
+Yharon: {
+	1: ¡Hola! ¿Viniste por un duelo? Seré gentil contigo ya que eres tan pequeño y débil.
+	2: ¡Guau, eres bastante fuerte! ¡Te subestimé!
+	3: ¡Bien hecho! ¡Puedes aguantar mis ataques mientras lanzas ataques poderosos!
+	4: Se acabó perder tiempo. Impresionante, ¡pero no es suficiente para detenerme!
+	5: Eres muy resistente, espero que pueda ganar esto...
+	6: ¡No me retendré! Puede que seas difícil de vencer, pero yo lo soy más!
+	7: ¡¡DETENTE!! ¡¡DETENTE!! ¡¡NO!!
+	End: No puedo creerlo, eres incluso más fuerte que yo. ¡Buen trabajo!
+}
+
+PrimordialWyrmHead: {
+	1: Eres un tonto al pensar que puedes invadir nuestras tierras, mortal.
+	2: ¿Eh? Entonces eres más fuerte de lo que pensé... esto será divertido. ¿Viniste a tomar ese pequeño artefacto que hemos guardado por toda la eternidad?
+	3: Pronto, dejarás de existir. Qué ingenuo, pensar que posees ni una fracción de mi poder.
+	4: Durante millones de años, he gobernado este mar, sin ser derrotado. Tu existencia sin sentido no cambiará eso.
+	5: ¿Crees que POSIBLEMENTE puedas derrotarme? Soy Jared, el ser primordial, el dios abismal, ¿y piensas que podrías tener alguna oportunidad?
+	6: ¡Tus acciones son inútiles! Viniste a masacrarnos y tomar nuestros tesoros, pero no lo permitiremos. Nunca nos derrotarás verdaderamente. Incluso si me mataras, docenas más de los jóvenes wyrms del mar ocuparían mi lugar. ¿Quieres esto? ¿Quieres que este mundo estalle en caos?
+	7: Este es solo el comienzo de la calamidad. Tus enemigos están ascendiendo más allá de tu control... ¿o era esa toda tu intención?
+}

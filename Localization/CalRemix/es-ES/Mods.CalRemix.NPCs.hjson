@@ -1,0 +1,584 @@
+AuricSlime.DisplayName: Babosa de Auric
+
+Astigmageddon: {
+	DisplayName: Astigmageddon
+
+	BossChecklistIntegration: {
+		EntryName: Polyphemalus
+		SpawnInfo: Usa un [i:CalRemix/FusedEye] durante la noche
+	}
+}
+
+Cataractacomb.DisplayName: Cataractacomb
+Conjunctivirus.DisplayName: Conjunctivirus
+DerellectBoss.DisplayName: El Derellect
+DerellectPlug.DisplayName: Enchufe Derellect
+Exotrexia.DisplayName: Exotrexia
+Polyphemalus.DisplayName: Polyphemalus
+SignalDrone.DisplayName: Dron de Señal
+WulfwyrmBody.DisplayName: Excavadora Wulfrum
+WulfwyrmTail.DisplayName: Excavadora Wulfrum
+
+WulfwyrmHead: {
+	DisplayName: Excavadora Wulfrum
+
+	BossChecklistIntegration: {
+		EntryName: Excavadora Wulfrum
+		SpawnInfo: Coloca un [i:CalamityMod/EnergyCore] en un [i:831] vacío y ciérralo.
+		DespawnMessage: "[c/99ffc7:La vieja excavadora ha cosechado exitosamente a todos los jugadores.]"
+	}
+}
+
+LifeSlime: {
+	DisplayName: Babosa de Vida
+
+	BossChecklistIntegration: {
+		EntryName: Babosa de Vida
+		SpawnInfo: Aparece cerca de grandes acumulaciones de Mineral de Vida.
+	}
+}
+
+CyberDraedon: {
+	DisplayName: Draedon Cibernético
+
+	BossChecklistIntegration: {
+		EntryName: Draedon Cibernético
+		SpawnInfo: Inserta un [i:CalamityMod/BloodyVein] en un [i:CalamityMod/LabHologramProjectorItem].
+	}
+
+	Dialogue1: Brecha orgánica detectada. Preparando exterminación.
+	Dialogue2: Amenaza contenida. Retornando a operación normal.
+	Dialogue3: Muy interesante - un sujeto de investigación digno.
+	Dialogue4: Deshabilitando inhibidores láser.
+}
+
+Clamitas: {
+	DisplayName: Clamitas
+
+	BossChecklistIntegration: {
+		EntryName: Clamitas
+		SpawnInfo: Raramente aparece en la Grieta de Azufre
+		DespawnMessage: "[c/99ffc7:El molusco carbonizado se desvanece en una nube de humo.]"
+	}
+}
+
+PlagueEmperor: {
+	DisplayName: Emperador de la Plaga
+
+	BossChecklistIntegration: {
+		EntryName: Emperador de la Plaga
+		SpawnInfo: Raramente aparece en la Selva Plagada
+	}
+}
+
+YggdrasilEnt: {
+	DisplayName: Ent de Yggdrasil
+
+	BossChecklistIntegration: {
+		EntryName: Ent de Yggdrasil
+		SpawnInfo: Raramente aparece en el Halo y el Inframundo
+		DespawnMessage: "[c/99ffc7:El ent se desvaneció.]"
+	}
+}
+
+KingMinnowsPrime: {
+	DisplayName: Rey Minnows Prime
+
+	BossChecklistIntegration: {
+		EntryName: Rey Minnows Prime
+		SpawnInfo: Raramente aparece después de matar a Minnows Prime en la Mazmorra
+		DespawnMessage: "[c/99ffc7:El pez consideró a todos inútiles.]"
+	}
+}
+
+LaRuga: {
+	DisplayName: La Ruga
+
+	BossChecklistIntegration: {
+		EntryName: La Ruga
+		SpawnInfo: Muy raramente aparece en la 4ª capa del Abismo
+	}
+}
+
+OnyxKinsman: {
+	DisplayName: Pariente de Ónice
+
+	BossChecklistIntegration: {
+		EntryName: Pariente de Ónice
+		SpawnInfo: Interactuando con un taladro [i:CalamityMod/OnyxExcavatorKey] colocado después de que el Elemental de Tierra sea derrotado y el jugador sosteniendo [i:CalamityMod/EyeoftheStorm], [i:CalamityMod/WifeinaBottle], [i:CalamityMod/WifeinaBottlewithBoobs], [i:CalamityMod/RoseStone], [i:CalamityMod/PearlofEnthrallment], o [i:CalamityMod/InfectedRemote]
+		DespawnMessage: "[c/99ffc7:El Pariente de Ónice retornó al laboratorio.]"
+	}
+}
+
+YEENA: {
+	DisplayName: General
+
+	TownNPCMood: {
+		Content: No tengo quejas. Estoy lo suficientemente cómoda.
+		NoHome: Estoy acostumbrada a dormir en el campo. Eso no significa que me guste.
+		FarFromHome: Mi base de operaciones está por allá, y yo estoy aquí. ¡Soy un blanco fácil!
+		DislikeCrowded: Hay demasiado desorden a mi alrededor. Es difícil concentrarse.
+		HateCrowded: ¿¡Cuántos civiles hay aquí!? ¡Esto va más allá de un simple problema!
+		LikeNPC_Princess: No es la primera vez que tengo que proteger a la realeza. Daría mi vida para mantener a {NPCName} segura.
+		Princess_LovesNPC: ¡Las historias de guerra de {NPCNAME} siempre son tan entretenidas!
+		LoveSpace: Perfecto. No hay nadie alrededor para distraerme mientras estoy planeando.
+		LoveBiome: ¡Qué lugar perfecto para entrenar soldados! ¡Este Desierto es fantástico!
+		LikeBiome: La Nieve no es lo mejor para la moral, pero me recuerda a casa. Me estoy poniendo sentimental.
+		DislikeBiome: No estoy en mi elemento cerca del Océano. Eso es más cosa de un Almirante.
+		HateBiome: ¡Estarías violando todo tipo de convenciones al hacer que alguien viva en {BiomeName}!
+		LikeNPC: Me siento extrañamente nostálgica al ver a {NPCName}. No puedo entender bien por qué.
+		LoveNPC: ¡{NPCName} y yo somos como almas gemelas! Tiene mi simpatía.
+		HateNPC: ¿¡UN PIRATA!? ¿¡Por qué no has encarcelado a {NPCName} aún!?
+		DislikeNPC: ¡{NPCName} es un problema! ¡Los explosivos no toman partido!
+	}
+
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+PrimalAspid.DisplayName: Aspid Primordial
+OgsculianBurrower.DisplayName: Excavador Ogsculiano
+GreenDemon.DisplayName: Demonio Verde
+CosmicSlime.DisplayName: Babosa de Cosmilita
+PlaguedFirefly.DisplayName: Luciérnaga Plagada
+Miasmius.DisplayName: Miasmius
+PlaguedSpidrone.DisplayName: Dron Araña Plagado
+Barocrab.DisplayName: Cangrejo Baro
+MinnowsPrime.DisplayName: Minnows Prime
+BananaClown.DisplayName: Payaso Plátano
+CrocodileHerring.DisplayName: Arenque Cocodrilo
+GulletWorm.DisplayName: Gusano Garganta
+FloatingBiomass.DisplayName: Biomasa Flotante
+
+ZER0: {
+	DisplayName: Albatros
+
+	TownNPCMood: {
+		Content: Estoy satisfecho.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy muy lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta estar tan hacinado.
+		HateCrowded: Odio estar tan hacinado.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+
+	Census.SpawnCondition: Derrota al Señor de la Luna
+}
+
+Tenryu.DisplayName: Rey de las Constelaciones, Tenryu
+EvilPlagueBee.DisplayName: Abeja de la Plaga
+
+FBIGUY: {
+	TownNPCMood: {
+		FarFromHome: Estoy muy lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta estar tan hacinado.
+		HateCrowded: Odio estar tan hacinado.
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+		Content: Estoy satisfecho.
+		NoHome: Odio no tener un hogar.
+	}
+
+	DisplayName: Agente
+	Census.SpawnCondition: Condiciones desconocidas
+}
+
+Acideye: {
+	DisplayName: Mirador de Ácido
+	Bestiary: Un ojo grande mutado por el Mar Sulfuroso. Derrotar esto puede permitir que sus presas salgan del escondite.
+	BossChecklistIntegration.SpawnInfo: Usa [i:CalRemix/PoisonedSclera] en el mar sulfuroso durante la noche
+}
+
+MutatedEye.DisplayName: Ojo Mutado
+
+TheCalamity: {
+	DisplayName: La Calamidad
+	Bestiary: Una entidad hecha de luz no vista que tomó forma por la ira y los agravios de muchos. Aprendió autocontrol como seguidor.
+	Quote1: Voy a probar tus habilidades de esquiva. Buena suerte.
+	Quote2: Tus habilidades son competentes, pero ¿cómo te irá contra los que vienen después de mí?
+	Quote3: Tus enemigos a menudo tendrán patrones predecibles; ve más allá de ellos y ataca.
+	Quote4: Sigue evitando cualquier cosa que parezca peligrosa.
+	Quote5: Has pasado la prueba. Bien hecho.
+	Quote6: Derribame y toma tu recompensa.
+	Quote1GFB: ¿... en serio? ¿¡Estás intentando ESTO!? Está bien, entonces... veamos si puedes manejar un desafío injusto.
+	Quote2GFB: No está mal, pero ya deberías saber que esto no será tan fácil.
+	Quote3GFB: Este mundo a menudo es injusto, y deberías estar preparado para cualquier cosa que te lance.
+	Quote4GFB: ¿Cuánto eres capaz de aguantar...?
+	Quote5GFB: Tu persistencia es admirable. ¿Quizás tienes lo que se necesita?
+	Quote6GFB: Un poco más para terminar. No lo arruines ahora.
+	Quote7GFB: ... está bien, claramente eres lo suficientemente bueno. Puedes irte.
+	Quote8GFB: No esperes que las cosas se hagan más fáciles de aquí en adelante.
+	Laser1: ¡No te peguen de nuevo!
+	Laser2: ¡{0} golpes restantes!
+	BossChecklistIntegration.SpawnInfo: Usa el [i:CalRemix/Slumbering]
+}
+
+Ogslime: {
+	DisplayName: Ogslime
+	Census.SpawnCondition: Mata un Ojo Errante mientras usas armadura de Corazón de Titán
+}
+
+EvilAnimatronic.DisplayName: Animatrónico Maligno
+Rodenttmod.DisplayName: Rodent.tmod
+TallMan.DisplayName: Hombre Alto
+Corruption.DisplayName: Corrupción
+Glitch.DisplayName: Fallo
+CuboidCurse.DisplayName: Maldición Cúbica
+
+CrimsonKaiju: {
+	DisplayName: Kaiju Carmesí
+
+	BossChecklistIntegration: {
+		EntryName: Kaiju Carmesí
+		SpawnInfo: Aparece durante el Eclipse Solar Post-Devorador de Dioses.
+		DespawnMessage: "[c/ff0000:El Kaiju Carmesí desaparece para acechar a su próxima víctima.]"
+	}
+}
+
+Carcinogen: {
+	DisplayName: Carcinogen
+
+	BossChecklistIntegration: {
+		EntryName: Carcinogen
+		SpawnInfo: Rompe un [i:93] o [i:479] mientras estés en las Cavernas de Asbesto.
+		DespawnMessage: "[c/b4d47d:La construcción de asbesto se fusiona de nuevo en las paredes de las Cavernas de Asbesto.]"
+	}
+}
+
+Wolfmole.DisplayName: Topo Lobo Legendario
+MoldMan.DisplayName: Hombre de Moho
+CarcinogenShield.DisplayName: Escudo de Carcinogen
+
+Pyrogen: {
+	DisplayName: Pyrogen
+
+	BossChecklistIntegration: {
+		EntryName: Pyrogen
+		SpawnInfo: Usa [i:CalRemix/MoltenMatter] elaborado en la Consola Antigua de la Grieta de Azufre.
+		DespawnMessage: "[c/fc5603:El horno de chatarra se enfría.]"
+	}
+}
+
+PyrogenShield.DisplayName: Escudo de Pyrogen
+
+Phytogen: {
+	DisplayName: Phytogen
+
+	BossChecklistIntegration: {
+		EntryName: Phytogen
+		SpawnInfo: Ten más de 6 enemigos de Plaga cerca de ti a la vez o sacudiendo árboles de Selva subterránea.
+		DespawnMessage: "[c/5adb76:La gran piña vuelve a limpiar la Plaga.]"
+	}
+}
+
+PhytogenShield.DisplayName: Escudo de Phytogen
+PineappleFrond.DisplayName: Fronda
+Lizard.DisplayName: Lagarto
+GlisteningSpirit.DisplayName: Espíritu Reluciente
+GildedSpirit.DisplayName: Espíritu Dorado
+
+Ionogen: {
+	DisplayName: Ionogen
+
+	BossChecklistIntegration: {
+		EntryName: Ionogen
+		SpawnInfo: Completa la cadena de misiones del Oráculo de Plástico
+		DespawnMessage: "[c/6369cf:Poder absorbido.]"
+	}
+}
+
+IonogenShield.DisplayName: Escudo de Ionogen
+
+Hydrogen: {
+	DisplayName: Hydrogen
+
+	BossChecklistIntegration: {
+		EntryName: Hydrogen
+		SpawnInfo: Lanza un explosivo mientras descansa dentro de la geoda central del Mar Sumergido.
+		DespawnMessage: "[c/8c183f:La mina oceánica se enfría de nuevo.]"
+	}
+}
+
+HydrogenShield.DisplayName: Escudo de Hydrogen
+
+Oxygen: {
+	DisplayName: Oxygen
+
+	BossChecklistIntegration: {
+		EntryName: Oxygen
+		SpawnInfo: Golpea una pelota de golf al espacio. El jefe debe llevarse al fondo del Abismo para ser derrotado.
+		DespawnMessage: "[c/9cf5ff:La bola de vidrio se eleva de vuelta al espacio.]"
+	}
+}
+
+OxygenShield.DisplayName: Escudo de Oxygen
+Fushigi.DisplayName: Fushigi
+Eosinine.DisplayName: Eosinine
+Malignant.DisplayName: Maligno
+Platelet.DisplayName: Plaqueta
+RedBloodCell.DisplayName: Glóbulo Rojo
+WhiteBloodCell.DisplayName: Glóbulo Blanco
+Ecolium.DisplayName: Ecolium
+Basilius.DisplayName: Basilius
+BasiliusBody.DisplayName: Basilius
+Tobasaia.DisplayName: Tobasaia
+
+Dendritiator: {
+	DisplayName: Dendritador
+
+	BossChecklistIntegration: {
+		EntryName: Dendritador
+		SpawnInfo: Aparece durante el evento Pánico Pandémico.
+		DespawnMessage: "[c/87fffd:La célula colosal ha eliminado la impureza de todos.]"
+	}
+}
+
+DentritiatorArm.DisplayName: Brazo Dendritador
+
+MaserPhage: {
+	DisplayName: Fagófago Láser
+
+	BossChecklistIntegration: {
+		EntryName: Fagófago Láser
+		SpawnInfo: Aparece durante el evento Pánico Pandémico.
+		DespawnMessage: "[c/e04931:El bacteriófago colosal ha propagado su infección.]"
+	}
+}
+
+DendtritiatorArm.DisplayName: Brazo Dendritador
+
+Pathogen: {
+	DisplayName: Pathogen
+
+	BossChecklistIntegration: {
+		EntryName: Pathogen
+		SpawnInfo: Usa un [i:CalamityMod/BloodyVein] en un fregadero.
+		DespawnMessage: "[c/b01e4c:El virus continúa destruyendo células inmunológicas.]"
+	}
+}
+
+PathogenShield.DisplayName: Escudo de Pathogen
+AergiaNeuron.DisplayName: Neurona de Aergia
+
+Hypnos: {
+	DisplayName: XP-00 Hipnos
+
+	BossChecklistIntegration: {
+		EntryName: XP-00 Hipnos
+		SpawnInfo: Haz clic derecho en el Descodificador con [i:CalamityMod/BloodyVein]
+	}
+}
+
+HypnosPlug.DisplayName: Enchufe de Hipnos
+RemixDraedon.DisplayName: Draedon Remix
+Losbaf.DisplayName: Losbaf
+Origen.DisplayName: Origen
+
+OrigenCore: {
+	DisplayName: Origen
+
+	BossChecklistIntegration: {
+		EntryName: Origen
+		SpawnInfo: Abre el [i:CalRemix/OrigenDoor] en el bioma de nieve.
+		DespawnMessage: "[c/6b7f80:El copo de nieve retorna a su origen.]"
+	}
+}
+
+BALLER: {
+	TownNPCMood: {
+		Content: Todo está fluyendo perfectamente. Me siento bastante satisfecho.
+		NoHome: Sin un hogar, soy solo una ráfaga de viento sin un lugar donde establecerme.
+		FarFromHome: Estar lejos de mis lugares habituales es perturbador. Echo de menos los cielos abiertos.
+		DislikeCrowded: Hay demasiadas personas alrededor. Necesito más espacio para respirar.
+		HateCrowded: Esta multitud es asfixiante. Anhelo algo de aire fresco y espacio.
+		LoveSpace: Los espacios abiertos son ideales. Permiten que el viento se mueva libremente e invigorarme.
+		LikeNPC: "{NPCName} entiende la importancia del aire fresco. Nos llevamos maravillosamente."
+		DislikeNPC: Las travesuras cubiertas de tierra de {NPCName} son la antítesis de lo que aprecio. Prefiero evitarlo.
+		LikeBiome: "{BiomeName} es donde me siento más como en casa. El aire fresco y abierto es vigorizante."
+		DislikeBiome: "{BiomeName} es sofocante y opresivo."
+		LikeNPC_Princess: "{NPCName} trae una bocanada de aire fresco a cualquier habitación. Siempre disfruto su compañía."
+		Princess_LovesNPC: ¡{NPCName} es sorprendente con el viento! Creo que es muy genial y divertido estar cerca de ella.
+	}
+
+	DisplayName: Archibruja
+	Census.SpawnCondition: Derrota a Oxygen
+}
+
+UNCANNY: {
+	TownNPCMood: {
+		Princess_LovesNPC: ¡{NPCName} puede parecer rudo, pero siempre es amable conmigo! ¡Me gusta mucho!
+		LikeNPC_Princess: "{NPCName} es un rayo de luz solar en este mundo oscuro. Es un deleite."
+		DislikeNPC: ¿{NPCName}? Siempre está regañando. Prefiero mantenerme alejado.
+		LikeNPC: "{NPCName} tiene una mente afilada y ojo para la calidad. Eso lo respeto."
+		LikeBiome: La oscuridad y el misterio de {BiomeName} me se me ajustan perfectamente. Se siente como hogar.
+		DislikeBiome: "{BiomeName} es demasiado abierto y ruidoso. Prefiero la tranquilidad de mi cueva."
+		HateCrowded: ¡Este lugar está lleno! Necesito espacio para respirar y pensar.
+		DislikeCrowded: Hay demasiadas personas alrededor. Prefiero el silencio de la soledad.
+		LoveSpace: Mucho espacio para estirarme y disfrutar de un buen cigarrillo.
+		FarFromHome: Lejos de mi cueva, anhelo la comodidad de sus sombras familiares.
+		NoHome: ¿Un jugador sin hogar? Solo otra tirada de dados.
+		Content: Rodeado de humo y azar, la vida es exactamente como me gusta.
+	}
+
+	DisplayName: Archimago
+	Census.SpawnCondition: Derrota a Carcinogen
+}
+
+IRON: {
+	TownNPCMood: {
+		Content: ¡Todo está electrizantemente perfecto en este momento!
+		NoHome: Sin un hogar que llamar mío, solo una chispa errante en el vacío.
+		FarFromHome: Estar lejos de mi base es un arrastrar. Echo de menos el zumbido familiar de mi equipo.
+		DislikeCrowded: Hay tanta gente alrededor, es sofocante. Necesito más espacio para respirar.
+		HateCrowded: Apenas puedo moverme con tanta gente. ¡El espacio es una mercancía rara aquí!
+		LoveSpace: Los espacios abiertos son lo mío. Mucho espacio para dejar que mi energía fluya.
+		LikeNPC: ¡{NPCName} y yo nos llevamos muy bien. ¡Tienen una tecnología impresionante!
+		DislikeNPC: "{NPCName} es una espina en mi lado. Sus travesuras no son más que problemas."
+		LikeBiome: "{BiomeName} es mi tipo de lugar. La energía volcánica es emocionante."
+		DislikeBiome: "{BiomeName} es demasiado denso y enredado. No es mi lugar favorito para estar."
+		LikeNPC_Princess: ¡{NPCName} es una chispa brillante en mi día. ¡Siempre es un placer estar cerca!
+		Princess_LovesNPC: ¡{NPCName} es muy divertido! ¡Realmente me gusta lo energético y amable que es!
+	}
+
+	DisplayName: Archimagiano
+	Census.SpawnCondition: Derrota a Ionogen
+}
+
+KABLOOEY: {
+	TownNPCMood: {
+		Content: Estoy tranquilo. Todo está bajo control, sin explosiones hoy.
+		NoHome: Sin un hogar, soy un viajero solitario, siempre al borde.
+		FarFromHome: Estar lejos de mi dominio me pesa. Anhelo lo familiar.
+		DislikeCrowded: Hay demasiadas personas aquí. Prefiero un lugar más tranquilo y apartado.
+		HateCrowded: Esta multitud es abrumadora. Necesito irme antes de perder la calma.
+		LoveSpace: Disfruto tener amplio espacio. Me permite respirar y pensar claramente.
+		LikeNPC: "{NPCName} tiene un talento para navegar el caos. Aprecio su ingenio."
+		DislikeNPC: La presencia de {NPCName} se siente demasiado serena y desapegada. Es difícil relacionarse.
+		LikeBiome: "{BiomeName} ocupa un lugar especial para mí. Incluso en su ruina, es un recordatorio de un tiempo diferente."
+		DislikeBiome: "{BiomeName} es un lugar duro e implacable. Prefiero mantenerme alejado."
+		LikeNPC_Princess: "{NPCName} es un faro de luz en un mundo que puede ser tan oscuro. Valoro su presencia."
+		Princess_LovesNPC: ¡{NPCName} es un poco aterrador a veces, pero sé que tiene un buen corazón! ¡Me gusta!
+	}
+
+	DisplayName: Archivinador
+	Census.SpawnCondition: Derrota a Hydrogen
+}
+
+SIIVA: {
+	TownNPCMood: {
+		Content: Todo está floreciendo tal como debe. Estoy satisfecho con cómo están las cosas.
+		NoHome: Sin un hogar, me siento como una hoja llevada por el viento, sin rumbo y perdido.
+		FarFromHome: Estar lejos de mi hogar en la selva me hace anhelar el verdor exuberante y la vida vibrante.
+		DislikeCrowded: Hay demasiadas personas aquí. Echo de menos la tranquilidad del bosque.
+		HateCrowded: La cantidad de personas es abrumadora. Anhelo la soledad pacífica de mi selva.
+		LoveSpace: Los espacios abiertos permiten que la naturaleza prospere. Es donde me siento más en paz.
+		LikeNPC: "{NPCName} es como un pariente lejano para mí. Su conexión con la naturaleza es inspiradora."
+		DislikeNPC: "{NPCName} es una plaga para la naturaleza. No puedo soportar sus tendencias destructivas."
+		LikeBiome: "{BiomeName} es mi santuario. Es donde me siento más vivo y en casa."
+		DislikeBiome: "{BiomeName} es demasiado frío y árido. No es donde me siento cómodo."
+		LikeNPC_Princess: "{NPCName} encarna la pureza y la alegría de la vida. Valoro su presencia."
+		Princess_LovesNPC: ¡{NPCName} es maravillosa! Está tan en sintonía con la naturaleza.
+	}
+
+	DisplayName: Archidruida
+	Census.SpawnCondition: Derrota a Phytogen
+}
+
+WALTER: {
+	TownNPCMood: {
+		Content: Todo va excelentemente. Los ingredientes son perfectos.
+		NoHome: Sin un hogar adecuado, siempre estoy en movimiento, buscando mi próximo refugio alquímico.
+		FarFromHome: Estar lejos de mi laboratorio hace difícil perfeccionar mis fórmulas.
+		DislikeCrowded: Hay demasiadas personas alrededor. Prefiero trabajar en soledad donde mis pensamientos fluyan libremente.
+		HateCrowded: Esta multitud es una pesadilla. ¡Necesito silencio para concentrarme en mis experimentos alquímicos!
+		LoveSpace: Los espacios abiertos me dan la libertad de recopilar y experimentar con mis ingredientes.
+		LikeNPC: "{NPCName} es un maestro de pociones e un aliado invaluable en mi trabajo."
+		DislikeNPC: "{NPCName} es una amenaza para mis secretos alquímicos. Prefiero evitarlos."
+		LikeBiome: "{BiomeName} es perfecto para mi alquimia. La variedad de hongos es simplemente inspiradora."
+		DislikeBiome: "{BiomeName} es demasiado vasto y carece de ingredientes útiles."
+		LikeNPC_Princess: "{NPCName} es un espíritu joven encantador. Su presencia es una distracción bienvenida de mis búsquedas alquímicas."
+		Princess_LovesNPC: ¡{NPCName} es tan genial! Me encantan sus pociones mágicas y las cosas misteriosas que hace.
+	}
+
+	DisplayName: Archialquimista
+	Census.SpawnCondition: Derrota a Pathogen
+}
+
+EDGY: {
+	TownNPCMood: {
+		Content: Todo está bajo control, como debe ser. Estoy perfectamente tranquilo.
+		NoHome: Aunque aprecio mi libertad, disfrutaría de un hogar en el que no estuviera atrapado.
+		FarFromHome: Estar lejos de mi dominio se siente antinatural. Echo de menos la intensidad.
+		DislikeCrowded: No puedo concentrarme en mis propios pensamientos con tantas voces alrededor.
+		HateCrowded: Me cuesta mucho no quemar a toda esta gente hasta convertirla en cenizas.
+		LoveSpace: Tener espacio para mí me permite que las llamas prosperen, sin restricciones y libres.
+		LikeNPC: "{NPCName} me ha estado enseñando a controlar mis magias más efectivamente. No esperaría tal calidez de alguien tan frío."
+		DislikeNPC: "{NPCName} no es más que una molestia. ¿Golf? Pertenecen en las profundidades."
+		LikeBiome: "{BiomeName} es el lugar perfecto para mí. Su caos hermoso proporciona el entorno perfecto para que mis llamas se propaguen."
+		DislikeBiome: Este {BiomeName} trae recuerdos de atrocidades que nunca cometí. Es difícil de soportar.
+		LikeNPC_Princess: "{NPCName} trae una calidez suave. Incluso yo encuentro su presencia calmante."
+		Princess_LovesNPC: ¡{NPCName} es increíble! Es tan fuerte pero tan tranquila, como una llama en la que puedes confiar.
+		BestiaryGirl_HatesNPC: ¡{NPCName} no deja de pedirme respuestas a sus 'preguntas ardientes', y la desprecio por ello!
+		Stylist_HatesNPC: "{NPCName} ha estado tratando de provocarme para que me baje la capucha. Prefiero que se respete mi privacidad."
+		LoveNPC: La presencia de {NPCName} es extrañamente reconfortante, como si entendiera exactamente lo que siento.
+		HateNPC: Odio a {NPCName}.
+	}
+
+	DisplayName: Archividente
+	Census.SpawnCondition: Libéralo de una construcción... dos veces
+}
+
+AcidEye: {
+	DisplayName: Mirador de Ácido
+	BossChecklistIntegration.SpawnInfo: Usa [i:CalRemix/PoisonedSclera] en el mar sulfuroso durante la noche
+}
+
+HypnosDraedon.DisplayName: Draedon
+Sandrat.DisplayName: Rata Arenisca Menor
+MushroomElemental.DisplayName: Elemental de Hongos
+ChampEye.DisplayName: Ojo Campeón
+EternalChampEye.DisplayName: Ojo Campeón Eterno
+EnchantedSkull.DisplayName: Calavera Encantada
+EnchantedTome.DisplayName: Tomo Encantado
+FrozenMummy.DisplayName: Momia Congelada
+Fleshmullet.DisplayName: Caballa de Carne
+LabRoach.DisplayName: Cucaracha de Laboratorio
+FleshmulletEye.DisplayName: Ojo de Caballa de Carne
+Dragon.DisplayName: Dragón
+MBP.DisplayName: Algo como una Mente Colmena
+Xeroc.DisplayName: Avatar de Xeroc
+TreeMimic.DisplayName: Árbol
+BoarCat.DisplayName: Gato Jabalí
+FrostHog.DisplayName: Jabalí de Escarcha
+SealedOne.DisplayName: El Sellado
+SupremeSkeletron.DisplayName: Doncella Eucarística
+SupremeSkeletronHand.DisplayName: Paratopo Eucarístico
+GiantSkeleton.DisplayName: Esqueleto Gigante
+Mammoth.DisplayName: Mamut Lanudo
+
+EntropicGod: {
+	DisplayName: El Dios Entrópico, Noxus
+
+	BossChecklistIntegration: {
+		EntryName: El Dios Entrópico, Noxus
+		SpawnInfo: Usa el [i:CalamityMod/Genesis].
+		DespawnMessage: "[c/61375d:El avatar retorna al vacío]"
+	}
+}
+
+NoxusEgg.DisplayName: Engendro Sin Dios, Noxus
+NoxusEggCutscene.DisplayName: ???
+SludgeWalker.DisplayName: Caminante de Lodo
+EvilEye.DisplayName: Ojo Malvado
+Baroncrab.DisplayName: Cangrejo Barón
+Dendritus.DisplayName: Dendrito
+ChlorinePaladin.DisplayName: Paladín de Cloro
+SplitChlorinePaladin.DisplayName: Paladín de Cloro Dividido
+SupremeTwin.DisplayName: Gemelo Supremo
+FunnyButterfly.DisplayName: Mariposa Divertida
+WulfrumFrog.DisplayName: Rana Wulfrum
+GoldenAnimatronic.DisplayName: Animatrónico Dorado
+WaterloggedEffigy.DisplayName: Efigie Saturada de Agua
+Vigor.DisplayName: Vigor

@@ -1,0 +1,58 @@
+BossChecklistIntegration: {
+	HiveMind.SpawnInfo: Suelta un [i:86] en Arena Sucia encontrada en islas flotantes después de romper un orbe de sombra o usa un [i:CalamityMod/Teratoma] en la Corrupción.
+	Perforators.SpawnInfo: Suelta un [i:1329] en Arena Sucia encontrada en islas flotantes después de romper un corazón escarlata o usa [i:CalamityMod/BloodyWormFood] en la Escarlata.
+	PlaguebringerGoliath.SpawnInfo: Usa un [i:CalamityMod/Abombination] en la Jungla Plagada.
+	AquaticScourge.SpawnInfo: Usa 22 [i:4608] en el agua del Mar Sulfuroso.
+	AcidRainT1.SpawnInfo: Usa un [i:CalamityMod/CausticTear] o espera a que ocurra un aguacero ácido naturalmente después de que el Visor de Ácido sea derrotado.
+}
+
+GameTips.DrunkPrincessTip: Ninguna cantidad de Vodka puede atraer a nadie.
+
+Items: {
+	Armor: {
+		PostMoonLord: {
+			GemTechHeadgear: {
+				AbilityBrief:
+					'''
+					Un total de seis fragmentos de gemas exquisitamente elaboradas, cada una siendo una encarnación de una de las muchas y distintas clases dentro del reino de las artes mágicas y combativas, junto con una gema base singularmente única y
+					multifacética, orbitan elegante y sin esfuerzo alrededor tuyo en un despliegue cautivador y hipnotizante de destreza arcana y misticismo. Estas gemas distan mucho de ser meras decoraciones ornamentales; están
+					imbuidas con habilidades y poderes potentes y formidables, cada uno específico a sus respectivas clases. Sin embargo, ten cuidado, pues existe un riesgo peligroso asociado con estas gemas preciosas. Si, en
+					el calor de la batalla, sufres una cantidad significativa y grave de daño—específicamente, más de 100 daño de un solo golpe devastador—enfrentarás la desafortunada consecuencia de perder una de estas
+					gemas invaluables. La gema particular que se perderá corresponde directa e inequívocamente a la clase de la habilidad, destreza o arma más reciente que hayas empleado antes del impacto. En el caso de
+					que la gema de clase específica que debería perderse ya haya sido sacrificada en un encuentro o accidente anterior, la gema base altamente valiosa y versátil será sacrificada en su lugar. Ante la desafortunada
+					pérdida de una gema, no simplemente desaparece en el éter, disipándose en la nada, sino que se rompe dramática y violentamente de su órbita alrededor tuyo, y con una determinación implacable y agresiva,
+					se dirige hacia el enemigo más cercano o jefe temible, siempre que uno esté dentro del rango. Este mecanismo de búsqueda asegura que la gema busque y ataque la amenaza más cercana con precisión infalible.
+					Cuando esta gema golpea su objetivo designado, inflige un golpe catastrófico y devastador, causando un daño base de 40,000 asombroso y formidable, dejando un impacto duradero en el enemigo. Una vez que una gema
+					se pierde, no desaparece para siempre en el vacío sino que entra en un estado temporal de dormancia, un período de ausencia, reapareciendo y volviendo a orbitar alrededor tuyo después de una duración
+					precisa y calculada de 30 segundos. Cada gema lleva su propio conjunto único de mejoras y habilidades, adaptadas para aumentar y reforzar las capacidades de su respectiva clase. Por ejemplo, [i:Ruby] la gema roja vibrante y
+					ardiente otorga 130 sigilo máximo adicional, refuerza significativamente las estadísticas y atributos relacionados con pícaro, y asegura que el sigilo solo se agote mediante el uso de armas específicas de pícaro,
+					mejorando así la eficacia y potencia de las acciones de pícaro. [i:Topaz] La gema amarilla radiante y luminosa, por otro lado, sirve para mejorar las capacidades de combate cuerpo a cuerpo, proporcionando estadísticas de combate cuerpo a cuerpo aumentadas
+					y haciendo que los ataques cuerpo a cuerpo liberen fragmentos dañinos y perjudiciales al golpear sus objetivos. Este efecto viene con un período de enfriamiento, un breve intervalo antes de que pueda activarse nuevamente.
+					Notablemente, este enfriamiento es significativamente más corto para ataques cuerpo a cuerpo puro, favoreciendo así el combate cuerpo a cuerpo directo e inmaculado. [i:Emerald] La gema verde verdante y vibrante está diseñada para
+					aumentar las capacidades de combate a distancia. Proporciona estadísticas de combate a distancia aumentadas y activa flechetas que vuelan rápidamente que se ciernen sobre y dañan enemigos cuando son golpeados por proyectiles a distancia. Este efecto
+					asegura que los enemigos sean continuamente hostigados y dañados por proyectiles adicionales, mejorando la efectividad general de los ataques a distancia. [i:Sapphire] La gema azul serena y tranquila
+					es una bendición para invocadores, otorgando cuatro máscaras máximas adicionales, expandiendo así el arsenal del invocador, aumentando el daño de máscaras, y mitigando la penalización típicamente asociada con objetos de invocador
+					cuando se empuña un arma no invocador. Esta gema así mejora la versatilidad y adaptabilidad de los invocadores en combate. [i:Amethyst] La gema violeta mística y enigmática está adaptada para mejorar el dominio mágico.
+					Proporciona 100 maná máximo extra, impulsando las estadísticas y atributos relacionados con magia, y permite regeneración rápida de maná cuando se sostiene un arma no mágica. Este efecto asegura que los magos puedan reponer rápidamente
+					sus reservas de maná, manteniendo su capacidad de lanzar hechizos poderosos. Finalmente, [i:Diamond] la gema base rosa delicada y multifacética ofrece un conjunto comprensivo de beneficios, incluyendo
+					75 defensa adicional, reducción de daño mejorada, velocidad de movimiento aumentada, velocidad de salto mejorada, y un bonificación de 2 regeneración de vida. Esta gema sirve como fundación, proporcionando mejoras generales que benefician al
+					portador en varios aspectos del combate y la supervivencia. En el evento extraordinario y raro de que las seis gemas estén presentes, activas y orbitando simultáneamente alrededor tuyo, se activa un efecto especial y potente. Golpear
+					un objetivo con cualquier arma te otorgará 2 regeneración de vida adicional por una duración de 8 segundos. Este efecto beneficioso se amplifica aún más a 3 regeneración de vida si, durante esta ventana de 8 segundos, utilizas
+					un arma de una clase diferente, por un período de 2.5 segundos. Este efecto sinérgico fomenta la versatilidad y adaptabilidad en combate, recompensando a aquellos que cambian hábilmente entre diferentes clases de armas.
+					'''
+				GeneralGemInfo: ""
+				RedGemInfo: ""
+				YellowGemInfo: ""
+				GreenGemInfo: ""
+				BlueGemInfo: ""
+				PurpleGemInfo: ""
+				PinkGemInfo: ""
+				GemBonusInfo: ""
+				AbilityDescription: ""
+			}
+		}
+	}
+
+	Weapons.Melee.ArkoftheCosmos.Tooltip: Blande una gran hoja de tijera que genera estrellas rastreadores en un patrón circular
+	Nightwither.DisplayName: Quemada por la Luna
+}

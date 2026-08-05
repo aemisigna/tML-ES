@@ -124,8 +124,8 @@ FlameVortexStaff: {
 	DisplayName: Vara Vórtice Llama
 	Tooltip:
 		'''
-		Conjura esferas flamígeras que aumentan tu daño de esbirro
-		Cada esfera ocupa 1 espacio de esbirro
+		Conjura esferas flamígeras que aumentan tu daño de súbdito
+		Cada esfera ocupa 1 espacio de súbdito
 		Debes tener al menos 2 espacios abiertos para la primera invocación
 		'''
 }
@@ -210,7 +210,7 @@ SnakeStaff: {
 	Tooltip:
 		'''
 		Invoca una Serpiente de Nieve para luchar por ti
-		Invoca 2 segmentos por cada espacio de esbirro
+		Invoca 2 segmentos por cada espacio de súbdito
 		'''
 }
 
