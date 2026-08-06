@@ -84,7 +84,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Spirit Classic | ✅ | v1.5.0.44
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
-| Calamity: Community Remix | ✅ | v1.3.12
+| Calamity: Community Remix | ✅ | v1.3.13
 | Deterministic Chaos | ✅ | v1.14.95
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
@@ -99,7 +99,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity Simple Whip Addon | ✅ | v1.15.12
 | Calamity: War Machine Invasion | ✅ | v0.1.6.1
 | Enchanted Moons | ✅ | v2.0.2.2
-| Thorium Helheim | ✅ | v1.6.1
+| Thorium Helheim | ✅ | v1.6.3
 | Consolaria | ✅ | v2.2.3
 | Unofficial Calamity Bard & Healer | ✅ | v0.13.7
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.2
