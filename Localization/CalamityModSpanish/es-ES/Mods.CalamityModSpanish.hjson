@@ -156,6 +156,11 @@ Configs: {
 				'''
 		}
 
+		DeterministicChaosLocalization: {
+			Label: Deterministic Chaos
+			Tooltip: Activa/Desactiva la traducción de Deterministic Chaos.
+		}
+
 		CalamityModMusicLocalization: {
 			Label: Calamity Mod Music
 			Tooltip: Activa/Desactiva la traducción de Calamity Mod Music.
@@ -305,6 +310,11 @@ Configs: {
 				- Quality of Terraria
 				...si tienes esta opción activada, ya que Munchies Crossmod Addon modifica contenido de todos ellos.
 				'''
+		}
+
+		CalamityFlamethrowersLocalization: {
+			Label: Calamity Flamethrowers
+			Tooltip: Activa/Desactiva la traducción de Calamity Flamethrowers.
 		}
 
 		ShowStartUpCollabMessage: {

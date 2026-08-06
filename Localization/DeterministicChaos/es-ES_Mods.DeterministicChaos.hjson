@@ -1,0 +1,2850 @@
+NPCs: {
+	TitanBody.DisplayName: Titán
+	TitanHand.DisplayName: Titán
+	TitanFinger.DisplayName: Titán
+	TitanStar.DisplayName: Titán
+	TitanEye.DisplayName: Titán
+	TitanPupil.DisplayName: Titán
+	TitanBlob.DisplayName: Titán
+	TitanSpawn.DisplayName: Titán
+	TitanWormHead.DisplayName: Titán
+	TitanWormBody.DisplayName: Titán
+	TitanWormTail.DisplayName: Titán
+	TitanWing.DisplayName: Titán
+	RoaringKnight.DisplayName: Caballero Rugiente
+	RoaringKnightSphere.DisplayName: Esfera del Caballero Rugiente
+	FakeEyeOfCthulhu.DisplayName: Falso Ojo de Cthulhu
+	RoaringKnightCutscene.DisplayName: Cinemática del Caballero Rugiente
+	ERAM.DisplayName: E.R.A.M
+	PixelFriend.DisplayName: FRIEND
+	DarkWorldEye.DisplayName: Ojo del Mundo Oscuro
+	DarkWorldSlime.DisplayName: Slime del Mundo Oscuro
+	Jevil.DisplayName: Jevil
+	OmegaFlowey.DisplayName: Omega Flowey
+
+	Gerson: {
+		DisplayName: Gerson
+
+		TownNPCMood: {
+			Content: Estoy satisfecho.
+			NoHome: Odio no tener un hogar.
+			FarFromHome: Estoy demasiado lejos de casa.
+			LoveSpace: Me encanta tener tanto espacio.
+			DislikeCrowded: No me gusta estar tan apretado.
+			HateCrowded: Odio estar tan apretado.
+			LoveBiome: Me encanta {BiomeName}.
+			LikeBiome: Me gusta {BiomeName}.
+			DislikeBiome: No me gusta {BiomeName}.
+			LoveNPC: Me encanta {NPCName}.
+			LikeNPC: Me gusta {NPCName}.
+			DislikeNPC: No me gusta {NPCName}.
+			LikeNPC_Princess: Me gusta {NPCName}.
+			Princess_LovesNPC: Me gusta {NPCName}.
+		}
+	}
+
+	MetalSlime.DisplayName: Slime metálico
+	HauntedHelmet.DisplayName: Casco embrujado
+	DarkEye.DisplayName: Ojo oscuro
+	ArmoredZombie.DisplayName: Zombi blindado
+	OmegaFloweyCutscene.DisplayName: Cinemática de Omega Flowey
+	HumanSoulCutscene.DisplayName: Cinemática del Alma Humana
+	Chara.DisplayName: Chara
+}
+
+Bestiary.Gerson: Una tortuga antigua que ya completó su viaje. Ofrece orientación a quienes buscan comprender su naturaleza interior.
+
+BossChecklistIntegration: {
+	Jevil: {
+		EntryName: Jevil
+		SpawnInfo: Usa una Llave del Diablo, fabricada con una Llave dorada y una Llave de las sombras en un Altar demoníaco.
+	}
+
+	ERAM: {
+		EntryName: E.R.A.M
+		SpawnInfo: Usa un Control de videojuegos, vendido por Gerson en el Modo difícil.
+	}
+
+	RoaringKnight: {
+		EntryName: Caballero Rugiente
+		SpawnInfo: El mejor momento para cazar a tu enemigo es mientras él está cazando...
+	}
+
+	Titan: {
+		// EntryName: Titan
+		// SpawnInfo: After defeating Plantera, right-click a Dark Shard inside the Dark World while standing near the fountain.
+	}
+
+	OmegaFlowey: {
+		EntryName: Omega Flowey
+		SpawnInfo: Usa las seis Almas Humanas.
+	}
+}
+
+Configs: {
+	BossVisualConfig: {
+		DisplayName: Configuración visual de los jefes
+
+		BossArenaBackground: {
+			Label: Fondo de la arena del jefe
+			Tooltip: La imagen de la arena propiamente dicha.
+		}
+
+		BossArenaExteriorVisuals: {
+			Label: Visuales exteriores de la arena del jefe
+			Tooltip: Los efectos visuales fuera de la arena.
+		}
+	}
+}
+
+Dialogue: {
+	Gerson: {
+		NoTrait1: ¡Gya ja ja! Veo que aún no has descubierto tu Rasgo de Alma. ¿Quieres elegirlo? ¿O acaso buscas ponerte a prueba?
+		NoTrait2: Cada alma tiene un rasgo que la define. Me pregunto cuál será el tuyo.
+		NoTrait3: El alma es algo curioso. Déjame ayudarte a encontrar la tuya.
+		HasTrait1: Ah, veo que tu alma brilla con fuerza. Pero recuerda que siempre puedes cambiar de camino si la curiosidad te llama.
+		HasTrait2: ¡Tu Rasgo de Alma te sirve bien! ¿O quizá quieres probar otro?
+		General1: Mi historia ha llegado a su fin. ¡Ahora es tu turno!
+		General2: ¿Quieres que te ayude a luchar? ¡Nah, sería demasiado fácil para ti!
+		ChooseTrait: Rasgos de Alma
+		ViewTrait: Ver rasgo
+		TraitInfo: Tu alma irradia {0}. Regresa si alguna vez quieres probar otro.
+		Traits: Rasgos
+		Help: Ayuda
+		Dialogue: Diálogo
+		SelectTrait: Seleccionar rasgo
+		Back: Atrás
+		Next: Siguiente
+		Close: Cerrar
+		HelpPreSkeletron1: ¡Soy demasiado viejo para pelear a tu lado, pero tengo algunas cosas que podrían ayudar!
+		HelpPreSkeletron2: ¡Puedo ayudarte a desbloquear el potencial de tu ALMA! Te proporcionaré equipo básico, pero el resto depende de ti.
+		HelpPreSkeletron3: ¡Cuando la mazmorra quede libre de toda esa horrible basura maldita, también puedo conseguirte armas!
+		HelpPreHardmode1: ¡Buen trabajo despejando la Mazmorra! Tengo algunas armas guardadas. Te servirán mientras te preparas para el próximo capítulo.
+		HelpPreHardmode2: Si alguna vez quieres probar un Rasgo de Alma distinto, habla conmigo y lo resolveremos.
+		HelpPostHardmode1: Ya estás en el siguiente capítulo. ¡Sabía que lo lograrías! Si estás aquí para cambiar tu Rasgo de Alma, todavía puedo ayudarte.
+		HelpPostHardmode2: Mientras estabas ahí abajo peleando contra ese rectángulo de carne, alguien pasó por aquí y me dio este Control de videojuegos, o algo así. Parece que quería que lo tuvieras.
+		HelpPostHardmode3: No sé mucho de videojuegos, pero tendría cuidado. Parece que hay más de lo que se ve a simple vista.
+		HelpPostERAM1: ¡Parece que derrotaste el juego! La tecnología está muy avanzada en estos días...
+	}
+}
+
+Buffs: {
+	SoulTraitInvestmentBuff1: {
+		DisplayName: Inversión menor de Alma
+		Description: +1 punto de inversión de Rasgo de Alma
+	}
+
+	SoulTraitInvestmentBuff2: {
+		DisplayName: Inversión inferior de Alma
+		Description: +2 puntos de inversión de Rasgo de Alma
+	}
+
+	SoulTraitInvestmentBuff3: {
+		DisplayName: Inversión de Alma
+		Description: +3 puntos de inversión de Rasgo de Alma
+	}
+
+	SoulTraitInvestmentBuff4: {
+		DisplayName: Inversión superior de Alma
+		Description: +4 puntos de inversión de Rasgo de Alma
+	}
+
+	SoulTraitInvestmentBuff5: {
+		DisplayName: Inversión mayor de Alma
+		Description: +5 puntos de inversión de Rasgo de Alma
+	}
+
+	JusticeMarkBuff: {
+		DisplayName: Marca de Justicia
+		Description: Tu próximo golpe asestará un golpe crítico garantizado.
+	}
+
+	KindnessDefenseBuff: {
+		DisplayName: Escudo de Bondad
+		Description: +6 de defensa por proteger a tus aliados.
+	}
+
+	KindnessMarkBuff: {
+		DisplayName: Marca de Bondad
+		Description: +25% de daño en honor de un aliado caído.
+	}
+
+	BraveryMarkBuff: {
+		DisplayName: Marca de Valentía
+		Description: Aumenta la velocidad de ataque según la proximidad del enemigo.
+	}
+
+	BraveryDamageBuff: {
+		DisplayName: Furia de Valentía
+		Description: +12% de daño después de recibir daño.
+	}
+
+	FirstKnifeMaliceDebuff: {
+		DisplayName: Malicia
+		Description: La Malicia se está acumulando.
+	}
+
+	PatienceMarkBuff: {
+		DisplayName: Marca de Paciencia
+		Description: La resistencia al daño se acumula con el tiempo y se reinicia al recibir daño.
+	}
+
+	IntegrityMarkBuff: {
+		DisplayName: Marca de Integridad
+		Description: Tu próximo golpe añade Defensa a la penetración de armadura.
+	}
+
+	IntegrityDamageBuff: {
+		DisplayName: Acumulaciones de Integridad
+		Description: +5% de daño por acumulación después de recibir daño.
+	}
+
+	PerseveranceMarkBuff: {
+		DisplayName: Marca de Perseverancia
+		Description: Tu próxima poción de curación o maná también restaura el otro recurso.
+	}
+
+	PerseveranceDamageBuff: {
+		DisplayName: Acumulaciones de Perseverancia
+		Description: Ya no se usa.
+	}
+
+	DeterminationMarkBuff: {
+		DisplayName: Marca de Determinación
+		Description: Al morir, revivirás en tu posición guardada con 50 de vida.
+	}
+
+	DeterminationCooldownBuff: {
+		DisplayName: Enfriamiento de Determinación
+		Description: No puede activar la Marca de Determinación.
+	}
+
+	EyeDebuff: {
+		DisplayName: Perjuicio del Ojo
+		Description: Algo te está observando.
+	}
+
+	RoaringGunBuff: {
+		DisplayName: Mejora del arma rugiente
+		Description: ¡Cadencia de fuego aumentada!
+	}
+
+	RoaringSummonBuff: {
+		DisplayName: Mejora de invocación rugiente
+		Description: Algo te está siguiendo...
+	}
+
+	DeterminationSummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Determinación lucha por ti.
+	}
+
+	IntegritySummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Integridad lucha por ti.
+	}
+
+	PatienceSummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Paciencia lucha por ti.
+	}
+
+	PerseveranceSummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Perseverancia lucha por ti.
+	}
+
+	KindnessSummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Bondad lucha por ti.
+	}
+
+	JusticeSummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Justicia lucha por ti.
+	}
+
+	BraverySummonBuff: {
+		DisplayName: Silueta imbuida
+		Description: Un clon umbrío imbuido con Valentía lucha por ti.
+	}
+
+	HollowGunTagDebuff: {
+		DisplayName: Marca de Justicia
+		Description: Marcado para recibir daño de invocación.
+	}
+
+	VirtueBuff: {
+		DisplayName: Virtud
+		Description: +15% de daño de arma, velocidad de ataque y probabilidad de golpe crítico.
+	}
+
+	VirtueLamentBuff: {
+		DisplayName: Lamento de la Virtud
+		Description: +15% de daño de arma, velocidad de ataque y probabilidad de golpe crítico. Escala hasta duplicar su eficacia con la duración máxima.
+	}
+
+	GnomonAllyBuff: {
+		DisplayName: Oleada de poder
+		Description: +20% de velocidad de movimiento, control y daño de arma.
+	}
+
+	GnomonTagDebuff: {
+		DisplayName: Marca de Gnomon
+		Description: Las invocaciones infligen daño adicional a este enemigo.
+	}
+
+	RoaringLensBuff: {
+		Description: Mods.DeterministicChaos.Buffs.RoaringLensBuff.Description
+		DisplayName: Mejora de la lente rugiente
+	}
+
+	TitanStarBuff: {
+		DisplayName: Estrella de Titán
+		Description: Una estrella radiante ilumina tu camino.
+	}
+
+	StagnationSicknessBuff: {
+		DisplayName: Enfermedad de estancamiento
+		Description: Tu cuerpo falla, lo que aumenta el daño recibido un 25%.
+	}
+
+	TitansBane: {
+		DisplayName: Azote de Titanes
+		Description: Pierdes vida lentamente en proporción a tu vida actual.
+	}
+
+	TitansBaneImbue: {
+		DisplayName: Frasco de Azote de Titanes
+		Description: Los ataques cuerpo a cuerpo infligen Azote de Titanes a los enemigos.
+	}
+
+	LeylineTagBuff: {
+		DisplayName: Mejora de marca de la Línea Ley
+		Description: Mods.DeterministicChaos.Buffs.LeylineTagBuff.Description
+	}
+
+	AppendageBuff: {
+		DisplayName: Apéndice
+		Description: Las manos de Titán luchan por ti.
+	}
+
+	SharkToothBleed: {
+		DisplayName: Hemorragia de diente de tiburón
+		Description: Van a sangrar.
+	}
+
+	WhipTagDebuff: {
+		DisplayName: Marca de látigo
+		Description: Las invocaciones infligen daño adicional de marca
+	}
+
+	WhipTagDebuffFlat: {
+		DisplayName: Marca de látigo
+		Description: Las invocaciones infligen daño adicional de marca
+	}
+}
+
+Projectiles: {
+	Projectile_Seeking.DisplayName: Cuchillo rugiente
+	Projectile_Star.DisplayName: Estrella rugiente
+	SlashAttack.DisplayName: Ataque de tajo
+	SlashIndicator.DisplayName: Indicador de tajo
+	SliceIndicator.DisplayName: Indicador de corte
+	ToothProjectile.DisplayName: Proyectil de diente
+	SeekingKnife.DisplayName: Cuchillo buscador
+	LatticeKnife.DisplayName: Cuchillo de rejilla
+	ConeVisualEffect.DisplayName: Efecto visual de cono
+	ShockwaveLine.DisplayName: Línea de onda de choque
+	Shockwave.DisplayName: Onda de choque
+	KnightLaugh.DisplayName: Risa del Caballero
+	FireSphere.DisplayName: Esfera de fuego
+	FireTrail.DisplayName: Estela de fuego
+	PixelBomb.DisplayName: Bomba de píxeles
+	PixelWave.DisplayName: Onda de píxeles
+	RoaringMiniStar.DisplayName: Miniestrella rugiente
+	RoaringYoyoProjectile.DisplayName: Proyectil de yoyó rugiente
+	DarkShardProjectile.DisplayName: Proyectil de fragmento de oscuridad
+	DarkShardSeeker.DisplayName: Buscador de fragmento de oscuridad
+	DarkShardHealingKnife.DisplayName: Cuchillo de Bondad
+	RoaringArrowProjectile.DisplayName: Proyectil de flecha rugiente
+	RoaringBulletProjectile.DisplayName: Proyectil de bala rugiente
+	RoaringTomeStarProjectile.DisplayName: Estrella del tomo rugiente
+	RoaringTomeBigProjectile.DisplayName: Orbe del tomo rugiente
+	RoaringSwordSwing.DisplayName: Espada rugiente
+	RoaringSwordLunge.DisplayName: Embestida rugiente
+	RoaringSwordSlash.DisplayName: Tajo rugiente
+	RoaringSwordHomingSlash.DisplayName: Tajo teledirigido de espada rugiente
+	RoaringSwordChainLunge.DisplayName: Embestida encadenada de espada rugiente
+	RoaringSwordChainSlash.DisplayName: Tajo encadenado de espada rugiente
+	RoaringSwordLungeCharge.DisplayName: Carga de embestida de espada rugiente
+	RoaringWhipProjectile.DisplayName: Látigo rugiente
+	RoaringSummonProjectile.DisplayName: Clon sombrío
+	RoaringSummonWhipAttack.DisplayName: Látigo sombrío
+	RoaringWhipSlash.DisplayName: Tajo de látigo
+	RoaringWhipSlashAttack.DisplayName: Ataque de tajo de látigo
+	GenericKindnessBolt.DisplayName: Rayo de Bondad
+	RogueSeekingKnife.DisplayName: Cuchillo buscador
+	RogueSlashAttack.DisplayName: Ataque de tajo de pícaro
+	BaseballBatSwing.DisplayName: Golpe de bate de béisbol
+	RustyKnifeSwing.DisplayName: Cuchillo oxidado
+	RealKnifeSwing.DisplayName: Cuchillo real
+	DeterminationSlash.DisplayName: Tajo de Determinación
+	FryingPanSwing.DisplayName: Sartén
+	EggProjectile.DisplayName: Huevo
+	KindnessPickup.DisplayName: Bondad
+	JusticeBeam.DisplayName: Rayo de Justicia
+	TornNotebookLetter.DisplayName: Carta
+	AbstractLetter.DisplayName: Carta
+	BalletShoesProjectile.DisplayName: Embestida de ballet
+	AerodynamicBootsProjectile.DisplayName: Embestida aerodinámica
+	SpeedLine.DisplayName: Línea de velocidad
+	CookingPotCone.DisplayName: Explosión de perol
+	CookingPotSwing.DisplayName: Perol
+	ToyKnifeProjectile.DisplayName: Cuchillo de juguete
+	ToyerKnifeProjectile.DisplayName: Cuchillo de juguete mejorado
+	ToughGloveProjectile.DisplayName: Puñetazo resistente
+	ToughGauntletProjectile.DisplayName: Guantelete resistente
+	IncandescentHeavyProjectile.DisplayName: Golpe pesado incandescente
+	TitanMultiplierOrb.DisplayName: Orbe multiplicador de Titán
+	TitanLaserBeam.DisplayName: Rayo láser de Titán
+	TitanLaserIndicator.DisplayName: Indicador del láser de Titán
+	TitanFingerProjectile.DisplayName: Proyectil del dedo de Titán
+	DarkEyeLaser.DisplayName: Láser del Ojo oscuro
+	TitanBallAttack.DisplayName: Ataque de bola de Titán
+	TitanBallWhite.DisplayName: Bola blanca de Titán
+	StarShardParticle.DisplayName: Partícula de fragmento estelar
+	SpadeProjectile.DisplayName: Pica
+	HeartProjectile.DisplayName: Corazón
+	ClubProjectile.DisplayName: Trébol
+	DiamondProjectile.DisplayName: Diamante
+	ClubBomb.DisplayName: Bomba de trébol
+	HeartBomb.DisplayName: Bomba de corazón
+	SpadeBomb.DisplayName: Bomba de pica
+	DiamondBomb.DisplayName: Bomba de diamante
+	HorseProjectile.DisplayName: Caballo
+	ScytheProjectileTracking.DisplayName: Guadaña
+	ScytheProjectileFalling.DisplayName: Guadaña
+	GiantScytheProjectile.DisplayName: Proyectil de guadaña gigante
+	DevilsknifeProjectile.DisplayName: Proyectil de Cuchilladiablo
+	FriendlyClubProjectile.DisplayName: Proyectil de trébol amistoso
+	FriendlyDiamondProjectile.DisplayName: Proyectil de diamante amistoso
+	FriendlyHeartProjectile.DisplayName: Proyectil de corazón amistoso
+	FriendlySpadeProjectile.DisplayName: Proyectil de pica amistoso
+	AceOfSpadesBullet.DisplayName: Bala de as de picas
+	QueenOfDiamondsProjectile.DisplayName: Proyectil de Reina de diamantes
+	KingOfHeartsHeart.DisplayName: Corazón del Rey de corazones
+	KingOfHeartsProjectile.DisplayName: Proyectil del Rey de corazones
+	JackOfClubsProjectile.DisplayName: Proyectil de Sota de tréboles
+	KnightEye.DisplayName: Ojo del Caballero
+	KnightSphere.DisplayName: Esfera del Caballero
+	TitanFinalLaserBolt.DisplayName: Proyectil láser
+	ForthcomingWrathProjectile.DisplayName: Ira inminente
+	LodestoneForkSpam.DisplayName: Fragmento de magnetita
+	LodestoneForkStealth.DisplayName: Magnetizador de magnetita
+	CascadeProjectile.DisplayName: Proyectil de Cascada
+	TitansArrowProjectile.DisplayName: Flecha de Titán
+	BoltExplosion.DisplayName: Explosión de proyectil
+	ShatteredGlassBeamArc.DisplayName: Arco de rayo de vidrio roto
+	ShatteredGlassProjectile.DisplayName: Proyectil de vidrio roto
+	ShatteredGlassShard.DisplayName: Fragmento de vidrio roto
+	DefaultBeam.DisplayName: Rayo predeterminado
+	LeylineProjectile.DisplayName: Proyectil de Línea Ley
+	AppendageHandProjectile.DisplayName: Mano de Titán
+	AppendageLaser.DisplayName: Láser de Titán
+	TitanStarProjectile.DisplayName: Proyectil de estrella de Titán
+	ClubEarthquakeProjectile.DisplayName: Proyectil de terremoto de trébol
+	ClubEarthquakeHitbox.DisplayName: Área de impacto del terremoto de trébol
+	SteadfastV1DashProjectile.DisplayName: Embestida firme
+	TrueKnifeSwing.DisplayName: Cuchillo verdadero
+	TrueKnifeMegaSlash.DisplayName: Tajo de Determinación
+	DeterminationArrowProjectile.DisplayName: Flecha oscura
+	IntegrityArrowProjectile.DisplayName: Flecha oscura
+	PatienceArrowProjectile.DisplayName: Flecha oscura
+	PerseveranceArrowProjectile.DisplayName: Flecha oscura
+	KindnessArrowProjectile.DisplayName: Flecha oscura
+	JusticeArrowProjectile.DisplayName: Flecha oscura
+	BraveryArrowProjectile.DisplayName: Flecha oscura
+	JusticeArrowExplosion.DisplayName: Explosión de Justicia
+	DeterminationBulletProjectile.DisplayName: Bala oscura
+	IntegrityBulletProjectile.DisplayName: Bala oscura
+	PatienceBulletProjectile.DisplayName: Bala oscura
+	PerseveranceBulletProjectile.DisplayName: Bala oscura
+	KindnessBulletProjectile.DisplayName: Bala oscura
+	JusticeBulletProjectile.DisplayName: Bala oscura
+	BraveryBulletProjectile.DisplayName: Bala oscura
+	DeterminationDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	IntegrityDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	PatienceDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	PerseveranceDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	KindnessDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	JusticeDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	BraveryDarkShardProjectile.DisplayName: Fragmento de oscuridad
+	DeterminationSummonProjectile.DisplayName: Clon sombrío
+	IntegritySummonProjectile.DisplayName: Clon sombrío
+	PatienceSummonProjectile.DisplayName: Clon sombrío
+	PerseveranceSummonProjectile.DisplayName: Clon sombrío
+	KindnessSummonProjectile.DisplayName: Clon sombrío
+	JusticeSummonProjectile.DisplayName: Clon sombrío
+	BraverySummonProjectile.DisplayName: Clon sombrío
+	SixShooterBeam.DisplayName: Rayo de revólver de seis tiros
+	CastIronGoliathSwing.DisplayName: Golpe de Goliat de hierro fundido
+	PatienceLamentProjectile.DisplayName: Proyectil del Lamento de Paciencia
+	VineHand.DisplayName: Mano de enredadera
+	FingerGun.DisplayName: Pistola de dedos
+	FingerProjectile.DisplayName: Proyectil de dedo
+	FloweyNuke.DisplayName: Bomba nuclear de Flowey
+	FloweyPellet.DisplayName: Perdigón de Flowey
+	FloweyPelletIndicator.DisplayName: Indicador del perdigón de Flowey
+	FlyProjectile.DisplayName: Proyectil de mosca
+	Flytrap.DisplayName: Atrapamoscas
+	Mouthball.DisplayName: Bola bucal
+	MouthballController.DisplayName: Controlador de bola bucal
+	FloweyStar.DisplayName: Estrella distorsionada
+	VineImpaleHand.DisplayName: Mano de empalamiento de enredadera
+	VineImpaleIndicator.DisplayName: Indicador de empalamiento de enredadera
+	FinaleSoul.DisplayName: Alma final
+	FloweyMouthBeam.DisplayName: Rayo bucal
+	FloweyMouthBeamIndicator.DisplayName: Indicador del rayo bucal
+	FloweyPatience.DisplayName: Paciencia
+	FloweyPatienceController.DisplayName: Controlador de Paciencia
+	FloweyPatienceHeal.DisplayName: Curación de Paciencia
+	FloweyBravery.DisplayName: Valentía
+	FloweyBraveryController.DisplayName: Controlador de Valentía
+	FloweyBraveryHeal.DisplayName: Curación de Valentía
+	FloweyIntegrity.DisplayName: Integridad
+	FloweyIntegrityController.DisplayName: Controlador de Integridad
+	FloweyIntegrityHeal.DisplayName: Curación de Integridad
+	FloweyIntegrityStar.DisplayName: Estrella de Integridad
+	FloweyJusticeAim.DisplayName: Apuntado de Justicia
+	FloweyJusticeBullet.DisplayName: Bala de Justicia
+	FloweyJusticeController.DisplayName: Controlador de Justicia
+	FloweyJusticeGun.DisplayName: Pistola de Justicia
+	FloweyJusticeHeal.DisplayName: Curación de Justicia
+	FloweyKindnessController.DisplayName: Controlador de Bondad
+	FloweyKindnessEgg.DisplayName: Huevo de Bondad
+	FloweyKindnessHeal.DisplayName: Curación de Bondad
+	FloweyKindnessPan.DisplayName: Sartén de Bondad
+	FloweyPerseverance.DisplayName: Perseverancia
+	FloweyPerseveranceController.DisplayName: Controlador de Perseverancia de Flowey
+	FloweyPerseveranceHeal.DisplayName: Curación de Perseverancia de Flowey
+	CharaKnifeSlash.DisplayName: Tajo de cuchillo
+	CharaTrueKnifeMegaSlash.DisplayName: Cuchillo verdadero
+	CharaSaveStar.DisplayName: Estrella de Guardado
+	CharaSliceIndicator.DisplayName: Ataque de tajo
+	CharaSnipeKnife.DisplayName: Ataque de tajo
+	CharaKnifeSpike.DisplayName: Fragmento de cuchillo
+	PerseveranceEchoStrike.DisplayName: Golpe de eco de Perseverancia
+	CharaDashLineHazard.DisplayName: Peligro lineal de embestida de Chara
+	CharaDashShockwave.DisplayName: Onda de choque de embestida de Chara
+	SplitScreen.DisplayName: Pantalla dividida
+	FirstKnifeBottom.DisplayName: Primer cuchillo
+	FirstKnifeMiddle.DisplayName: Primer cuchillo
+	FirstKnifeTop.DisplayName: Primer cuchillo
+	MaliceShard.DisplayName: Fragmento de Malicia
+	FirstKnifeMaliceSlash.DisplayName: Tajo de Malicia
+	PhotoshopSwordLeafProjectile.DisplayName: Hoja
+	PhotoshopSwordSwingProjectile.DisplayName: Espada de hierba
+	PhotoshopGunHeldProjectile.DisplayName: Minitiburón
+	PhotoshopGunHeldProjectileOpen.DisplayName: Mordida de minitiburón
+	PhotoshopGunProjectile.DisplayName: Diente de tiburón
+	PhotoshopMissileExplosionProjectile.DisplayName: Misil
+	PhotoshopMissileHeldProjectile.DisplayName: Proyectil mágico
+	PhotoshopMissileProjectile.DisplayName: Misil
+	PhotoshopWhipProjectile.DisplayName: Latigazo espinal
+	PhotoshopWhipHead.DisplayName: Cabeza del Latigazo espinal
+	PhotoshopBallExplosionProjectile.DisplayName: Bola de dientes
+	PhotoshopBallProjectile.DisplayName: Bola de dientes
+	PhotoshopToothProjectile.DisplayName: Diente
+}
+
+Items: {
+	SoulEssenceT1: {
+		DisplayName: Esencia menor de Alma
+		Tooltip: Aumenta tu inversión de Rasgo de Alma en 1 durante 4 minutos.
+	}
+
+	SoulEssenceT2: {
+		DisplayName: Esencia inferior de Alma
+		Tooltip: Aumenta tu inversión de Rasgo de Alma en 2 durante 4 minutos.
+	}
+
+	SoulEssenceT3: {
+		DisplayName: Esencia de Alma
+		Tooltip: Aumenta tu inversión de Rasgo de Alma en 3 durante 4 minutos.
+	}
+
+	SoulEssenceT4: {
+		DisplayName: Esencia superior de Alma
+		Tooltip: Aumenta tu inversión de Rasgo de Alma en 4 durante 4 minutos.
+	}
+
+	SoulEssenceT5: {
+		DisplayName: Esencia mayor de Alma
+		Tooltip: Aumenta tu inversión de Rasgo de Alma en 5 durante 4 minutos.
+	}
+
+	SuspiciousEye: {
+		DisplayName: ¿Ojo sospechoso...?
+		Tooltip: Este ojo parece un poco más sospechoso de lo normal.
+	}
+
+	SixHumanSouls: {
+		DisplayName: Seis Almas Humanas
+		Tooltip: Otorga permanentemente +20 de inversión de Alma, 50 de vida y 5 de defensa.
+	}
+
+	PhotoshopSword: {
+		DisplayName: '''"Espada de hierba"'''
+		Tooltip: Envenena a los enemigos al golpear directamente.
+	}
+
+	PhotoshopGun: {
+		DisplayName: '''"Minitiburón"'''
+		Tooltip:
+			'''
+			Reemplaza las balas de mosquete por dientes de tiburón que aplican una hemorragia rápida.
+			Usa el fuego alternativo para dar una mordida a corta distancia que otorga penetración de armadura contra el enemigo golpeado.
+			"Este es de un tamaño bastante considerable, la verdad."
+			'''
+	}
+
+	PhotoshopMissile: {
+		DisplayName: '''"Proyectil mágico"'''
+		Tooltip:
+			'''
+			Dispara un misil buscador que sigue al cursor.
+			"Esto no tiene mucha magia..."
+			'''
+	}
+
+	PhotoshopWhip: {
+		DisplayName: '''"Latigazo espinal"'''
+		Tooltip:
+			'''
+			{0} / {1}% de daño de marca de invocación
+			Dispara un cráneo en la punta que aplica daño de marca plano.
+			Los golpes con el cuerpo del látigo aplican una bonificación porcentual de daño de marca.
+			"Esto llega hasta doce."
+			'''
+	}
+
+	PhotoshopBall: {
+		DisplayName: '''"Bola de dientes"'''
+		Tooltip: Lanza una bola de carne que explota en dientes. Los golpes furtivos disparan más dientes y dejan una explosión persistente.
+		TooltipCalamity:
+			'''
+			Lanza una bola de carne que explota en dientes.
+			Los golpes furtivos disparan más dientes y dejan una explosión persistente.
+			'''
+	}
+
+	PhotoshopLicense: {
+		DisplayName: Licencia de Photoshop
+		Tooltip:
+			'''
+			Aumenta el realismo de Terraria 10 veces.
+			Aplica corrección de color profesional, formato panorámico cinematográfico, destellos de lente y una cantidad costosa de iluminación dramática.
+			'''
+	}
+
+	FirstKnife: {
+		DisplayName: Primer cuchillo
+		Tooltip:
+			'''
+			Libera cinco cuchillos que se dividen, vuelven a reunirse y estallan en Fragmentos de Malicia buscadores.
+			Los Fragmentos de Malicia aplican Malicia, acumulándose hasta 20 veces en cada enemigo.
+			Los golpes furtivos liberan más cuchillos y convierten cada convergencia en un tajo rojo que escala con la Malicia.
+			'''
+		TooltipCalamity:
+			'''
+			Libera cinco cuchillos de pícaro que se dividen, vuelven a reunirse y estallan en Fragmentos de Malicia buscadores.
+			Los Fragmentos de Malicia aplican Malicia, acumulándose hasta 20 veces en cada enemigo.
+			Los golpes furtivos liberan más cuchillos y convierten cada convergencia en un tajo rojo que escala con la Malicia.
+			'''
+	}
+
+	DevilsKey: {
+		DisplayName: Llave del Diablo
+		Tooltip:
+			'''
+			Una llave hecha de luz y oscuridad.
+			Invoca a Jevil.
+			'''
+	}
+
+	RodOfStagnation: {
+		DisplayName: Vara del estancamiento
+		Tooltip:
+			'''
+			Te teletransporta al cursor
+			Aplica Enfermedad de estancamiento durante 4 segundos
+			+15% de daño recibido mientras estás enfermo
+			'''
+	}
+
+	ShadowMantle: {
+		DisplayName: Manto sombrío
+		Tooltip:
+			'''
+			Reduce un 66% el daño de los ataques basados en oscuridad o estrellas.
+			Aumenta la duración del vuelo un 50%.
+			+5% de daño.
+			'''
+	}
+
+	ERAMSummon: {
+		DisplayName: Control de videojuegos
+		Tooltip: Un control de videojuegos rosa y amarillo. ¿Quieres jugar una partida?
+	}
+
+	CloudyGlasses: {
+		DisplayName: Gafas nubladas
+		Tooltip:
+			'''
+			[c/FF00FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/FF00FF:+3 puntos de inversión de Perseverancia.]
+			[c/FF00FF:Aumenta los marcos de invulnerabilidad en 0.3 segundos al recibir un golpe.]
+			'''
+	}
+
+	PrismaticGlasses: {
+		DisplayName: Gafas prismáticas
+		Tooltip:
+			'''
+			[c/FF00FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF00FF:Aumenta los marcos de invulnerabilidad en 0.3 segundos al recibir un golpe.]
+			[c/FF00FF:Aumenta la regeneración de maná mientras eres invulnerable.]
+			Restaura maná al recibir daño
+			Aumenta el alcance de recolección de las estrellas de maná
+			'''
+	}
+
+	TornNotebook: {
+		DisplayName: Cuaderno roto
+		Tooltip:
+			'''
+			[c/FF00FF:Las palabras tienen poder.]
+			[c/FF00FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/FF00FF:+3 puntos de inversión de Perseverancia.]
+			[c/FF00FF:Dispara las letras guardadas en tu libro. Cada letra cuesta 20 de maná.]
+			[c/FF00FF:Gastar maná en letras retrasa brevemente la regeneración de maná.]
+			[c/FF00FF:Mientras estás en sigilo de pícaro: las letras cuestan la mitad de maná.]
+			[c/FF00FF:Haz clic derecho para escribir en el libro. Algunas palabras tienen efectos especiales.]
+			'''
+	}
+
+	CowboyHat: {
+		DisplayName: Sombrero de vaquero
+		Tooltip:
+			'''
+			[c/FFFF00:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF00:+3 puntos de inversión de Justicia.]
+			[c/FFFF00:Los golpes críticos aumentan la velocidad de ataque global un 10% durante 0.2 segundos.]
+			'''
+	}
+
+	SheriffHat: {
+		DisplayName: Sombrero de sheriff
+		Tooltip:
+			'''
+			[c/FFFF00:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF00:Los golpes críticos aumentan la velocidad de ataque global un 10% durante 0.2 segundos.]
+			[c/FFFF00:¡Los golpes hipercríticos otorgan un 20% adicional de velocidad de ataque durante 0.6 segundos!]
+			Permite al usuario realizar un triple salto
+			Aumenta la altura de salto
+			Anula el daño por caída
+			'''
+	}
+
+	FadedRibbon: {
+		DisplayName: Cinta descolorida
+		Tooltip:
+			'''
+			[c/00FFFF:Requiere el Rasgo de Alma PACIENCIA.]
+			[c/00FFFF:+3 puntos de inversión de Paciencia.]
+			[c/00FFFF:Mientras tienes la vida al máximo, recibes un 30% menos de daño.]
+			'''
+	}
+
+	HeartLocket: {
+		DisplayName: Medallón de corazón
+		Tooltip:
+			'''
+			[c/FF0000:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF0000:+3 puntos de inversión de Determinación.]
+			[c/FF0000:Obtén bonificaciones crecientes a todas las estadísticas a medida que tu vida disminuye.]
+			'''
+	}
+
+	TrueHeartLocket: {
+		DisplayName: Verdadero medallón de corazón
+		Tooltip:
+			'''
+			[c/FF0000:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF0000:Obtén bonificaciones mucho mayores a todas las estadísticas a medida que tu vida disminuye.]
+			[c/FF0000:Hasta +25% de daño, +25% de velocidad de ataque, +15 de defensa y +15% de velocidad de movimiento.]
+			Aumenta la duración de la invencibilidad después de recibir daño
+			'''
+	}
+
+	ManlyBandana: {
+		DisplayName: Bandana varonil
+		Tooltip:
+			'''
+			[c/FFA500:Requiere el Rasgo de Alma VALENTÍA.]
+			[c/FFA500:+3 puntos de inversión de Valentía.]
+			[c/FFA500:Obtén más daño según tu velocidad actual, hasta un 10%.]
+			'''
+	}
+
+	BurningBandana: {
+		DisplayName: Bandana ardiente
+		Tooltip:
+			'''
+			[c/FFA500:Requiere el Rasgo de Alma VALENTÍA.]
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFA500:Obtén más daño según tu velocidad actual, hasta un 20%.]
+			Otorga la capacidad de correr muy rápido
+			Otorga la capacidad de caminar sobre agua y lava
+			Otorga inmunidad a los bloques de fuego y 7 segundos de inmunidad a la lava
+			'''
+	}
+
+	OldTuTu: {
+		DisplayName: Tutú viejo
+		Tooltip:
+			'''
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+3 puntos de inversión de Integridad.]
+			[c/0000FF:Pulsa la tecla de EMBESTIDA para realizar una maniobra evasiva que invierte tu velocidad a media velocidad.]
+			'''
+	}
+
+	SturdySkirt: {
+		DisplayName: Falda resistente
+		Tooltip:
+			'''
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Pulsa la tecla de EMBESTIDA para realizar una maniobra evasiva que invierte tu velocidad a media velocidad.]
+			[c/0000FF:El daño recibido se convierte en daño de veneno por tick durante 2 segundos.]
+			+6 de defensa
+			'''
+	}
+
+	StainedApron: {
+		DisplayName: Delantal manchado
+		Tooltip:
+			'''
+			[c/32CD32:Requiere el Rasgo de Alma BONDAD.]
+			[c/32CD32:+3 puntos de inversión de Bondad.]
+			[c/32CD32:Toda la curación realizada a compañeros de equipo y NPCs de pueblo cercanos también se te aplica.]
+			'''
+	}
+
+	CaringApron: {
+		DisplayName: Delantal cariñoso
+		Tooltip:
+			'''
+			[c/32CD32:Requiere el Rasgo de Alma BONDAD.]
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/32CD32:Toda la curación realizada a compañeros de equipo y NPCs de pueblo cercanos también se te aplica.]
+			[c/32CD32:La curación reflejada reduce la Enfermedad de poción en una cuarta parte de la curación, en segundos (máx. 1 s).]
+			Es menos probable que los enemigos te elijan como objetivo
+			+5% de daño
+			'''
+	}
+
+	CuteBow: {
+		DisplayName: Lazo tierno
+		Tooltip:
+			'''
+			[c/00FFFF:Requiere el Rasgo de Alma PACIENCIA.]
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/00FFFF:Mientras tienes la vida al máximo, recibes un 50% menos de daño.]
+			[c/00FFFF:Aumenta significativamente la regeneración de vida cerca de la vida máxima.]
+			'''
+	}
+
+	DarkFragment: {
+		DisplayName: Fragmento oscuro
+		Tooltip: Un fragmento de oscuridad condensada que palpita con poder latente.
+	}
+
+	EmptyEmblem: {
+		DisplayName: Emblema vacío
+		Tooltip:
+			'''
+			Un emblema desprovisto de propósito, pero rebosante de potencial.
+			+25 de vida máxima
+			+2 de defensa
+			'''
+	}
+
+	DeterminationEmblem: {
+		DisplayName: Emblema de Determinación
+		Tooltip:
+			'''
+			[c/FF3C3C:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF3C3C:+5 puntos de inversión de Determinación]
+			[c/FF3C3C:+25 de vida máxima, +2 de defensa, +6% de daño global.]
+			[c/FF3C3C:El enfriamiento de la Marca de Determinación se reduce 30 segundos.]
+			'''
+	}
+
+	IntegrityEmblem: {
+		DisplayName: Emblema de Integridad
+		Tooltip:
+			'''
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+5 puntos de inversión de Integridad.]
+			[c/0000FF:+25 de vida máxima, +10 de defensa.]
+			[c/0000FF:La Marca de Integridad dura 3 golpes en vez de 1.]
+			'''
+	}
+
+	PatienceEmblem: {
+		DisplayName: Emblema de Paciencia
+		Tooltip:
+			'''
+			[c/50FFFF:Requiere el Rasgo de Alma PACIENCIA.]
+			[c/50FFFF:+5 puntos de inversión de Paciencia]
+			[c/50FFFF:+25 de vida máxima, +2 de defensa.]
+			[c/50FFFF:Aumenta la generación de sigilo de pícaro un 15%.]
+			[c/50FFFF:La Marca de Paciencia alcanza la resistencia máxima 10 segundos más rápido.]
+			'''
+	}
+
+	PerseveranceEmblem: {
+		DisplayName: Emblema de Perseverancia
+		Tooltip:
+			'''
+			[c/FF50FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/FF50FF:+5 puntos de inversión de Perseverancia]
+			[c/FF50FF:+25 de vida máxima, +2 de defensa y +50 de maná máximo.]
+			[c/FF50FF:La Marca de Perseverancia ahora está activa permanentemente.]
+			'''
+	}
+
+	KindnessEmblem: {
+		DisplayName: Emblema de Bondad
+		Tooltip:
+			'''
+			[c/50E650:Requiere el Rasgo de Alma BONDAD.]
+			[c/50E650:+5 puntos de inversión de Bondad]
+			[c/50E650:+25 de vida máxima, +2 de defensa.]
+			[c/50E650:La eficacia de la curación aumenta un 25%.]
+			[c/50E650:La duración de la Marca de Bondad aumenta 10 segundos.]
+			'''
+	}
+
+	JusticeEmblem: {
+		DisplayName: Emblema de Justicia
+		Tooltip:
+			'''
+			[c/FFFF50:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF50:+5 puntos de inversión de Justicia]
+			[c/FFFF50:+25 de vida máxima, +2 de defensa.]
+			[c/FFFF50:Obtén un salto doble adicional de Justicia.]
+			[c/FFFF50:La Marca de Justicia ahora garantiza un hipercrítico en lugar de un golpe crítico normal.]
+			'''
+	}
+
+	BraveryEmblem: {
+		DisplayName: Emblema de Valentía
+		Tooltip:
+			'''
+			[c/FFBE3C:Requiere el Rasgo de Alma VALENTÍA.]
+			[c/FFBE3C:+5 puntos de inversión de Valentía]
+			[c/FFBE3C:+50 de vida máxima, +2 de defensa.]
+			[c/FFBE3C:Las Marcas de Valentía también otorgan +20% de daño de arma, que escala con la proximidad.]
+			'''
+	}
+
+	DeterminationArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un proyectil que desafía el tiempo y el espacio.
+			Hace una breve pausa antes de avanzar a gran velocidad.
+			[c/FF3C3C:+5% de daño.]
+			'''
+	}
+
+	IntegrityArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/0000FF:Imbuido con Integridad.]
+			Un proyectil que desafía el tiempo y el espacio.
+			[c/0000FF:Hace una breve pausa antes de avanzar a velocidad reducida. Proyectil más grande.]
+			'''
+	}
+
+	PatienceArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un proyectil que desafía el tiempo y el espacio.
+			[c/50FFFF:Pausa más larga antes de avanzar a gran velocidad. 15% más de daño.]
+			'''
+	}
+
+	PerseveranceArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un proyectil que desafía el tiempo y el espacio.
+			Hace una breve pausa antes de avanzar a gran velocidad.
+			[c/FF50FF:Después de golpear a un objetivo, lo atraviesa durante un instante y luego vuelve a apuntar para infligir un 25% de daño.]
+			'''
+	}
+
+	KindnessArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/50E650:Imbuido con Bondad.]
+			Un proyectil que desafía el tiempo y el espacio.
+			[c/50E650:Hace una breve pausa antes de avanzar. Atraviesa a los enemigos y cura a los aliados un 4% de su daño.]
+			'''
+	}
+
+	JusticeArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/FFFF50:Imbuido con Justicia.]
+			Un proyectil que desafía el tiempo y el espacio.
+			Hace una breve pausa antes de avanzar a gran velocidad.
+			[c/FFFF50:Los golpes críticos provocan pequeñas explosiones.]
+			'''
+	}
+
+	BraveryArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un proyectil que desafía el tiempo y el espacio.
+			[c/FFBE3C:La duración de la pausa disminuye a medida que baja tu vida; después, avanza a gran velocidad.]
+			'''
+	}
+
+	DeterminationBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			Cuando 6 balas se adhieren en 2 segundos, explotan.
+			[c/FF3C3C:+8% de daño de bala.]
+			'''
+	}
+
+	IntegrityBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/0000FF:Imbuido con Integridad.]
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			[c/0000FF:Las balas no explotan. Reduce la armadura del enemigo según el número de balas adheridas, hasta 10.]
+			'''
+	}
+
+	PatienceBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			[c/50FFFF:Cuando se adhieren 12 balas en 5 segundos, explotan e infligen un 20% más de daño.]
+			'''
+	}
+
+	PerseveranceBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			Cuando 6 balas se adhieren en 2 segundos, explotan.
+			[c/FF50FF:Consume 25 de maná para disparar una bala adicional detrás de la primera que inflige la mitad de daño.]
+			'''
+	}
+
+	KindnessBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/50E650:Imbuido con Bondad.]
+			Un proyectil que ansía la violencia.
+			[c/50E650:Sigue a los aliados y los cura un 10% del daño en lugar de atacar.]
+			'''
+	}
+
+	JusticeBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/FFFF50:Imbuido con Justicia.]
+			[c/FFFF50:Un proyectil que ansía la violencia. 30% menos de daño base.]
+			Se adhiere a los enemigos al golpear.
+			[c/FFFF50:Cuando 6 balas se adhieren en 2 segundos, explotan con golpes críticos garantizados y tienen una probabilidad de dar un hipercrítico que inflige 3x de daño.]
+			'''
+	}
+
+	BraveryBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			Cuando 6 balas se adhieren en 2 segundos, explotan.
+			[c/FFBE3C:Hasta un 25% más de daño a corta distancia, que disminuye con la distancia.]
+			'''
+	}
+
+	DarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para canalizar tu voluntad en la hoja e invocar una Fuente Oscura.
+			'''
+	}
+
+	DeterminationDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/FF3C3C:+7% de probabilidad de golpe crítico.]
+			'''
+	}
+
+	IntegrityDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/0000FF:Proyectiles más grandes y dañinos, pero más afectados por la gravedad.]
+			'''
+	}
+
+	PatienceDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/50FFFF:20% menos de daño base. 50% más de daño de golpe furtivo.]
+			'''
+	}
+
+	PerseveranceDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/FF50FF:Consume 250 de maná para realizar un golpe furtivo sin tener el medidor de sigilo al máximo.]
+			'''
+	}
+
+	KindnessDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Un cuchillo imbuido de intención oscura.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/50E650:Golpear a un objetivo crea un cuchillo buscador en un aliado cercano aleatorio, incluyéndote a ti.]
+			[c/50E650:Recibir el impacto de este cuchillo cura un 5% del daño base.]
+			'''
+	}
+
+	JusticeDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/FFFF50:Los golpes críticos del golpe furtivo devuelven 10 de medidor de sigilo.]
+			'''
+	}
+
+	BraveryDarkShard: {
+		DisplayName: Fragmento de oscuridad
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un cuchillo imbuido de intención oscura.
+			Cuando el cuchillo golpea a un objetivo, crea un Cuchillo buscador cerca del objetivo.
+			Haz clic derecho para invocar una Fuente Oscura.
+			[c/FFBE3C:Golpe furtivo eliminado. Cada golpe genera dos Cuchillos buscadores.]
+			'''
+	}
+
+	DeterminationBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			[c/FF3C3C:+8% de daño total.]
+			'''
+	}
+
+	IntegrityBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Un arco siniestro, roto en batalla.
+			[c/0000FF:Dispara solo 2 flechas por disparo con el doble de cadencia de fuego.]
+			'''
+	}
+
+	PatienceBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			[c/50FFFF:20% menos de cadencia de fuego, pero ya no consume munición.]
+			'''
+	}
+
+	PerseveranceBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			[c/FF50FF:Consume 100 de maná por ráfaga para disparar 4 flechas adicionales.]
+			'''
+	}
+
+	KindnessBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			[c/50E650:Mientras disparas, genera flechas detrás de ti y de los aliados cercanos, apuntadas al enemigo más próximo.]
+			'''
+	}
+
+	JusticeBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			[c/FFFF50:Cada salto doble usado antes de disparar añade 2 flechas más a la ráfaga.]
+			'''
+	}
+
+	BraveryBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un arco siniestro, roto en batalla.
+			[c/FFBE3C:Todas las flechas convergen en un único punto frente a ti.]
+			'''
+	}
+
+	DeterminationSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/FF3C3C:+8% de daño de los clones.]
+			'''
+	}
+
+	IntegritySummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/0000FF:Genera 2 clones por espacio de súbdito en lugar de 1.]
+			'''
+	}
+
+	PatienceSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/50FFFF:Obtén pasivamente más medidor de sigilo según la cantidad de clones.]
+			'''
+	}
+
+	PerseveranceSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/FF50FF:Los clones infligen daño mágico en lugar de daño de invocación.]
+			'''
+	}
+
+	KindnessSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Tu sombra hecha forma.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/50E650:Cada clon orbita alrededor de un aliado cercano y le lanza una recolección de curación cada segundo.]
+			'''
+	}
+
+	JusticeSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			[c/FFFF50:Los clones disparan un rayo de Justicia a los objetivos cercanos en lugar de atacar con un látigo.]
+			'''
+	}
+
+	BraverySummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de los objetivos dañados.
+			Los clones imitan tus ataques con un golpe de látigo con un enfriamiento de 1 segundo.
+			[c/FFBE3C:Los clones infligen daño de impacto cuerpo a cuerpo y ocasionalmente se lanzan hacia los enemigos.]
+			'''
+	}
+
+	DeterminationGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			[c/FF3C3C:+10% de probabilidad de golpe crítico.]
+			'''
+	}
+
+	IntegrityGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			[c/0000FF:Cada acumulación aumenta la defensa en 0.25, hasta +5 de defensa adicional.]
+			'''
+	}
+
+	PatienceGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			[c/50FFFF:El máximo de acumulaciones aumenta a 30, con una cadencia de fuego máxima mayor.]
+			'''
+	}
+
+	PerseveranceGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			[c/FF50FF:El arma inflige daño a distancia y mágico.]
+			'''
+	}
+
+	KindnessGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			[c/50E650:Curar a cualquier aliado añade dos acumulaciones.]
+			'''
+	}
+
+	JusticeGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			[c/FFFF50:Los golpes críticos o hipercríticos añaden una acumulación adicional.]
+			'''
+	}
+
+	BraveryGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un arma de fuego vacía de espíritu y significado.
+			Máximo 10 acumulaciones.
+			[c/FFBE3C:Las acumulaciones ya no aumentan la cadencia de fuego. Cada acumulación añade otro perdigón al disparo.]
+			'''
+	}
+
+	DeterminationWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/FF3C3C:+10% de daño.]
+			'''
+	}
+
+	IntegrityWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/0000FF:Otorga un 25% de reducción de daño mientras cargas el clic derecho.]
+			'''
+	}
+
+	PatienceWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/50FFFF:El máximo de marcas aumenta a 7. El daño máximo aumenta un 20%.]
+			'''
+	}
+
+	PerseveranceWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/FF50FF:El arma inflige daño cuerpo a cuerpo y mágico.]
+			[c/FF50FF:Mantén pulsado después de cargar por completo para consumir maná y aumentar el daño de la embestida.]
+			'''
+	}
+
+	KindnessWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/50E650:Las embestidas encadenadas pueden apuntar a aliados y curarlos un 10% del daño del arma.]
+			'''
+	}
+
+	JusticeWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/FFFF50:Las embestidas siempre dan un hipercrítico que inflige 3x de daño.]
+			'''
+	}
+
+	BraveryWillbreaker: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con el máximo de marcas, las embestidas infligen un daño devastador y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida.
+			[c/FFBE3C:Los enemigos que te dañen reciben automáticamente el máximo de marcas.]
+			'''
+	}
+
+	DeterminationGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/FF3C3C:+10% de alcance y daño de látigo.]
+			'''
+	}
+
+	IntegrityGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/0000FF:Los golpes otorgan un 5% de reducción de daño mientras el objetivo golpeado siga vivo.]
+			'''
+	}
+
+	PatienceGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/50FFFF:-50% de daño de látigo, pero los enemigos golpeados reciben +15 de daño adicional de las invocaciones.]
+			'''
+	}
+
+	PerseveranceGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/FF50FF:Consume 25 de maná al usarlo para obtener +25% de velocidad de ataque durante 3 segundos.]
+			'''
+	}
+
+	KindnessGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/50E650:Los aliados tocados por el látigo obtienen +20% de velocidad de movimiento, control y daño.]
+			[c/50E650:La duración de la mejora escala con la reforja Persistente.]
+			'''
+	}
+
+	JusticeGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/FFFF50:Cuando una invocación asesta un golpe crítico, tu próximo ataque con látigo dará un hipercrítico.]
+			'''
+	}
+
+	BraveryGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			[c/FFBE3C:-30% de alcance de látigo, +40% de velocidad de ataque.]
+			'''
+	}
+
+	DeterminationClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/FF3C3C:+8% de probabilidad de golpe crítico.]
+			'''
+	}
+
+	IntegrityClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/0000FF:Los aliados cerca del Orbe poderoso obtienen un 10% de reducción de daño.]
+			'''
+	}
+
+	PatienceClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/50FFFF:La explosión del Orbe poderoso otorga sigilo de Paciencia según el daño infligido.]
+			'''
+	}
+
+	PerseveranceClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/FF50FF:50% más de cadencia de fuego. Las estrellas son más pequeñas y contribuyen un 30% menos al tamaño y daño del orbe.]
+			'''
+	}
+
+	KindnessClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/50E650:El orbe sigue a un aliado cercano. Absorber estrellas lo cura 2 de vida.]
+			[c/50E650:El orbe atraviesa el terreno, pero aún puede dañar a los enemigos.]
+			'''
+	}
+
+	JusticeClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/FFFF50:El Orbe poderoso siempre da golpes críticos. La probabilidad de golpe crítico se convierte en probabilidad de hipercrítico.]
+			[c/FFFF50:Tiene una penalización de daño base del 35%.]
+			'''
+	}
+
+	BraveryClarity: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			[c/FFBE3C:El Orbe poderoso siempre te sigue y atraviesa el terreno.]
+			'''
+	}
+
+	DeterminationStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF3C3C:Imbuido con Determinación.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/FF3C3C:+8% de daño de arma.]
+			'''
+	}
+
+	IntegrityStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Imbuido con Integridad.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/0000FF:Las estrellas infligen un 20% más de daño.]
+			'''
+	}
+
+	PatienceStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/50FFFF:Imbuido con Paciencia.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/50FFFF:Las estrellas aparecen con menos frecuencia, pero duran mucho más y siguen lentamente a los enemigos después de unos segundos.]
+			'''
+	}
+
+	PerseveranceStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF50FF:Imbuido con Perseverancia.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos. [c/FF50FF:Consume 100 de maná para evitar el enfriamiento.]
+			[c/FF50FF:Las estrellas duran mucho más.]
+			'''
+	}
+
+	KindnessStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/50E650:Imbuido con Bondad.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/50E650:Las estrellas ya no aparecen. En su lugar, el yoyó deja una recolección de curación cada 0.5 segundos.]
+			'''
+	}
+
+	JusticeStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF50:Imbuido con Justicia.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/FFFF50:Las estrellas ya no aparecen. En su lugar, el yoyó dispara Láseres de Justicia contra enemigos cercanos aleatorios, con hipercrítico garantizado.]
+			'''
+	}
+
+	BraveryStatic: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFBE3C:Imbuido con Valentía.]
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			[c/FFBE3C:Las estrellas duran mucho más y siempre se desplazan lentamente hacia el jugador después de aparecer.]
+			'''
+	}
+
+	KnightTrophy: {
+		DisplayName: Trofeo del Caballero Rugiente
+		Tooltip: ""
+	}
+
+	KnightRelic: {
+		DisplayName: Reliquia del Caballero Rugiente
+		Tooltip: ""
+	}
+
+	JevilTrophy: {
+		DisplayName: Trofeo de Jevil
+		Tooltip: ""
+	}
+
+	JevilRelic: {
+		DisplayName: Reliquia de Jevil
+		Tooltip: ""
+	}
+
+	TitanTrophy: {
+		DisplayName: Trofeo de Titán
+		Tooltip: ""
+	}
+
+	TitanRelic: {
+		DisplayName: Reliquia de Titán
+		Tooltip: ""
+	}
+
+	FloweyTrophy: {
+		DisplayName: Trofeo de Omega Flowey
+		Tooltip: ""
+	}
+
+	FloweyRelic: {
+		DisplayName: Reliquia de Omega Flowey
+		Tooltip: ""
+	}
+
+	RoaringYoyo: {
+		DisplayName: Estática
+		Tooltip:
+			'''
+			Una forma infantil para una sustancia volátil.
+			Emite proyectiles estelares en un patrón giratorio alrededor del yoyó.
+			Haz clic derecho para atraer todas las estrellas de vuelta al yoyó. Enfriamiento de 2 segundos.
+			'''
+	}
+
+	RoaringRing: {
+		DisplayName: Anillo rugiente
+		Tooltip:
+			'''
+			Un anillo que contiene la energía oscura del Caballero.
+			+6% de daño
+			+8% de velocidad de movimiento
+			Deja imágenes residuales de tus movimientos a tu paso.
+			Las imágenes residuales funcionan incluso en el espacio de apariencia.
+			'''
+	}
+
+	RoaringShield: {
+		DisplayName: Escudo rugiente
+		Tooltip:
+			'''
+			Un escudo forjado a partir de los restos astillados del Caballero.
+			+4% de reducción de daño
+			Embiste para transformarte en una esfera rodante y recorrer una gran distancia.
+			Inflige daño por contacto y otorga una breve invulnerabilidad durante la embestida.
+			'''
+	}
+
+	RoaringLens: {
+		DisplayName: Lente rugiente
+		Tooltip:
+			'''
+			Una lente fracturada que contiene el ojo vigilante del Caballero.
+			Puede equiparse como accesorio.
+			+4% de daño
+			+8% de probabilidad de golpe crítico
+			Invoca una esfera y un ojo que iluminan tus alrededores.
+			El ojo sigue a los enemigos cercanos y proyecta un rayo hacia el más próximo.
+			'''
+	}
+
+	RoaringBow: {
+		DisplayName: Inmutable
+		Tooltip:
+			'''
+			Un arco siniestro, roto en batalla.
+			Dispara seis flechas formando una V.
+			'''
+	}
+
+	RoaringArrow: {
+		DisplayName: Flecha oscura
+		Tooltip:
+			'''
+			Un proyectil que desafía el tiempo y el espacio.
+			Hace una breve pausa antes de avanzar a gran velocidad.
+			'''
+	}
+
+	RoaringGun: {
+		DisplayName: Disonancia
+		Tooltip:
+			'''
+			Un arma de fuego vacía de espíritu y significado.
+			La cadencia de fuego aumenta al golpear y disminuye al fallar.
+			Máximo 20 acumulaciones.
+			'''
+	}
+
+	RoaringSword: {
+		DisplayName: Rompevoluntades
+		Tooltip:
+			'''
+			'Con esta hoja, imparto el final.'
+			Marca a los enemigos con un Ojo del Juicio al golpear.
+			Con 5 marcas, las embestidas infligen el triple de daño y siempre asestan golpes críticos.
+			Mantén pulsado el clic derecho para cargar una embestida. Suéltalo para lanzarte hacia delante y atacar a los enemigos.
+			Las embestidas seguirán encadenándose contra enemigos marcados hasta que el ataque falle.
+			'''
+	}
+
+	RoaringBullet: {
+		DisplayName: Bala oscura
+		Tooltip:
+			'''
+			Un proyectil que ansía la violencia.
+			Se adhiere a los enemigos al golpear.
+			Cuando 6 balas se adhieren en 2 segundos, explotan.
+			'''
+	}
+
+	RoaringTome: {
+		DisplayName: Claridad
+		Tooltip:
+			'''
+			Un libro sin conocimientos que extraer, pero con consecuencias.
+			Dispara proyectiles estelares perforantes que no cuestan maná.
+			Haz clic derecho para liberar un orbe lento y poderoso que absorbe estrellas a cambio de todo tu maná.
+			El orbe aumenta de tamaño, velocidad y daño con cada estrella absorbida.
+			'''
+	}
+
+	RoaringBreastplate: {
+		DisplayName: Coraza rugiente
+		Tooltip:
+			'''
+			Ruge como las olas rompiendo contra el mar.
+			El usuario no recibe retroceso.
+			+30 de vida máxima
+			+40 de maná máximo
+			+4% de reducción de daño
+			'''
+	}
+
+	RoaringLeggings: {
+		DisplayName: Grebas rugientes
+		Tooltip:
+			'''
+			Un camino elegido. Un futuro desolado.
+			+10% de velocidad de movimiento
+			+10% de aceleración
+			+1 de impulso de velocidad de salto
+			'''
+	}
+
+	TitansBreastplate: {
+		DisplayName: Coraza de Titán
+		Tooltip:
+			'''
+			Su corazón todavía late.
+			El usuario no recibe retroceso
+			+6% de daño
+			Los efectos negativos expiran un 30% más rápido
+			'''
+	}
+
+	TitansLeggings: {
+		DisplayName: Grebas de Titán
+		Tooltip:
+			'''
+			Camina entre Titanes.
+			+6% de probabilidad de golpe crítico
+			Aumenta la velocidad de caída
+			'''
+	}
+
+	TitansRanger: {
+		DisplayName: Máscara de Titán
+		Tooltip:
+			'''
+			Toda armadura tiene grietas.
+			+8% de probabilidad de golpe crítico a distancia
+			'''
+	}
+
+	TitansMelee: {
+		DisplayName: Casco de Titán
+		Tooltip:
+			'''
+			Solo mediante la fuerza bruta.
+			+8% de probabilidad de golpe crítico cuerpo a cuerpo
+			'''
+	}
+
+	TitansRogue: {
+		DisplayName: Capucha de Titán
+		Tooltip:
+			'''
+			Oculto a plena vista.
+			+8% de probabilidad de golpe crítico de pícaro
+			'''
+	}
+
+	TitansMagic: {
+		DisplayName: Sombrero de Titán
+		Tooltip:
+			'''
+			El poder eclipsa al conocimiento.
+			+8% de probabilidad de golpe crítico mágico
+			'''
+	}
+
+	TitansSummon: {
+		DisplayName: Tocado de Titán
+		Tooltip:
+			'''
+			Un ejército incontenible.
+			+8% de probabilidad de golpe crítico mágico
+			+1 de súbdito máximo
+			'''
+	}
+
+	RoaringHelmet: {
+		DisplayName: Casco rugiente
+		Tooltip:
+			'''
+			Tu ira corta más profundo que las sombras.
+			+10% de velocidad de ataque cuerpo a cuerpo.
+			'''
+	}
+
+	RoaringMask: {
+		DisplayName: Máscara rugiente
+		Tooltip:
+			'''
+			Una máscara que agudiza la mirada de un cazador.
+			+12% de probabilidad de golpe crítico a distancia
+			'''
+	}
+
+	RoaringHood: {
+		DisplayName: Capucha rugiente
+		Tooltip:
+			'''
+			Una capucha para ocultar tus intenciones más oscuras.
+			+12% de daño mágico
+			+15 de bonificación de regeneración de maná
+			'''
+	}
+
+	RoaringHeadpiece: {
+		DisplayName: Tocado rugiente
+		Tooltip:
+			'''
+			Las sombras están bajo tu mando.
+			+12% de velocidad de látigo
+			+8% de daño de látigo
+			'''
+	}
+
+	RoaringCowl: {
+		DisplayName: Cofia rugiente
+		Tooltip:
+			'''
+			Abraza la oscuridad y conviértete en las sombras.
+			+8% de probabilidad de golpe crítico
+			+10% de velocidad de movimiento
+			'''
+	}
+
+	RoaringWhip: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			Somete a tus enemigos a tu voluntad.
+			Tus invocaciones se centran en los enemigos golpeados.
+			Los golpes de látigo invocan un ataque de tajo giratorio centrado en el objetivo golpeado.
+			Los clones umbríos también obtienen esta habilidad al usar este látigo.
+			'''
+	}
+
+	RoaringSummon: {
+		DisplayName: Silueta
+		Tooltip:
+			'''
+			Tu sombra hecha forma.
+			Invoca un clon Umbrío que imita tus movimientos alrededor de objetivos marcados por el látigo.
+			Varios clones forman patrones estratégicos alrededor de los enemigos.
+			Los clones imitarán todos los ataques de látigo del jugador.
+			'''
+	}
+
+	TitanForgeItem: {
+		Tooltip: ""
+		DisplayName: Forja de Titán
+	}
+
+	SoulStationItem: {
+		DisplayName: Estación de Alma
+		Tooltip: Una estación de trabajo para imbuir armas y recuerdos vinculados al alma con Chispas de Alma.
+	}
+
+	BaseballBat: {
+		DisplayName: Bate de béisbol
+		Tooltip: ¡Alza el bate para el combate ardiente!
+	}
+
+	RustyKnife: {
+		DisplayName: Cuchillo oxidado
+		Tooltip:
+			'''
+			[c/FF0000:Una hoja desgastada que resuena con DETERMINACIÓN.]
+			[c/FF0000:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF0000:+3 puntos de inversión de Determinación]
+			[c/FF0000:Los ataques cuerpo a cuerpo restauran 20 de maná.]
+			[c/FF0000:Haz clic derecho para consumir 200 de maná y comenzar un ataque cronometrado.]
+			[c/FF0000:Alinea el marcador con el centro para infligir hasta 10x de daño con el tajo a distancia.]
+			'''
+	}
+
+	FryingPan: {
+		DisplayName: Sartén
+		Tooltip:
+			'''
+			[c/32CD32:Una sartén bien sazonada que resuena con BONDAD.]
+			[c/32CD32:Requiere el Rasgo de Alma BONDAD.]
+			[c/32CD32:+3 puntos de inversión de Bondad]
+			[c/32CD32:Convierte la munición en huevos que generan recolecciones de curación al golpear.]
+			'''
+	}
+
+	CookingPot: {
+		DisplayName: Perol
+		Tooltip:
+			'''
+			[c/32CD32:"Un perol encantado rebosante de BONDAD."]
+			[c/32CD32:Requiere el Rasgo de Alma BONDAD.]
+			[c/32CD32:+6 puntos de inversión de Bondad]
+			[c/32CD32:Dispara un cono de energía verde. Cada enemigo solo puede recibir un golpe por explosión.]
+			[c/32CD32:Los enemigos golpeados generan recolecciones de curación.]
+			[c/32CD32:Mientras seleccionas un objeto compatible, haz clic derecho en el Perol para añadirlo:]
+			[c/32CD32: - Frasco: Aplica su efecto negativo a los enemigos golpeados.]
+			[c/32CD32: - Comida: Cura a los aliados alcanzados por el cono.]
+			[c/32CD32: - Alcohol: Otorga una mejora a los aliados golpeados durante 1 segundo.]
+			'''
+	}
+
+	CastIronGoliath: {
+		DisplayName: Goliat de hierro fundido
+		Tooltip:
+			'''
+			[c/32CD32:Un perol colosal forjado para la BONDAD.] 
+			[c/32CD32:Requiere el Rasgo de Alma BONDAD.]
+			[c/32CD32:+10 puntos de inversión de Bondad]
+			[c/32CD32:Dispara un cono de energía verde. Cada enemigo solo puede recibir un golpe por explosión.]
+			[c/32CD32:Los enemigos golpeados generan recolecciones de curación.]
+			[c/32CD32:La comida almacenada dentro cura a los aliados más vida.]
+			[c/32CD32:Mientras seleccionas un objeto compatible, haz clic derecho en el Goliat de hierro fundido para añadirlo al perol:]
+			[c/32CD32: - Frasco: Aplica su efecto negativo a los enemigos golpeados.]
+			[c/32CD32: - Comida: Cura más vida a los aliados alcanzados por el cono.]
+			[c/32CD32: - Alcohol: Otorga una mejora a los aliados golpeados durante 1 segundo.]
+			[c/32CD32: - Poción de mejora: Otorga su mejora a los aliados durante 3 segundos.]
+			'''
+	}
+
+	HollowGun: {
+		DisplayName: Pistola hueca
+		Tooltip:
+			'''
+			[c/FFFF00:Una pistola vacía. Te corresponde llenarla de propósito.]
+			[c/FFFF00:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF00:+3 puntos de inversión de Justicia]
+			[c/FFFF00:Al usar cualquier salto doble, marca al enemigo cercano con más vida.]
+			[c/FFFF00:Tu próximo disparo lanza un rayo de Justicia teledirigido que asesta un golpe crítico. Tus invocaciones se centrarán en los enemigos golpeados.]
+			'''
+	}
+
+	BalletShoes: {
+		DisplayName: Zapatos de ballet
+		Tooltip:
+			'''
+			[c/0000FF:Baila por el campo de batalla con gracia.]
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+3 puntos de inversión de Integridad.]
+			[c/0000FF:Lánzate hacia el cursor.]
+			[c/0000FF:Golpear a los enemigos centra tus invocaciones en ellos.]
+			[c/0000FF:Parar o golpear a enemigos otorga una acumulación de Gracia que aumenta el daño (máx. 3).]
+			[c/0000FF:Las acumulaciones de Gracia se consumen al recibir daño para reducirlo a la mitad.]
+			'''
+	}
+
+	AerodynamicBoots: {
+		DisplayName: Botas aerodinámicas
+		Tooltip:
+			'''
+			[c/0000FF:"La fuerza está en la sencillez."]
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+6 puntos de inversión de Integridad]
+			[c/0000FF:Lánzate hacia el cursor.]
+			[c/0000FF:Golpear a los enemigos centra tus invocaciones en ellos.]
+			[c/0000FF:Parar o golpear otorga una acumulación de Gracia (máx. 5).]
+			[c/0000FF:Más acumulaciones aumentan la maniobrabilidad aérea y el daño de embestida.]
+			[c/0000FF:Las acumulaciones de Gracia se consumen al recibir daño para reducirlo a la mitad.]
+			'''
+	}
+
+	SteadfastV1: {
+		DisplayName: Inquebrantable V1
+		Tooltip:
+			'''
+			[c/0000FF:"Botas prototipo que permiten moverse libremente."]
+			[c/0000FF:Requiere el Rasgo de Alma INTEGRIDAD.]
+			[c/0000FF:+8 puntos de inversión de Integridad.]
+			[c/0000FF:Mientras lo sostienes, obtén un 25% de reducción de daño pasiva.]
+			[c/0000FF:Embiste hacia el cursor. Hasta 5 embestidas aéreas antes de aterrizar.]
+			[c/0000FF:Golpear a un enemigo reinicia tu contador de embestidas aéreas y centra tus invocaciones en él.]
+			[c/0000FF:Embistir contra proyectiles enemigos los para y refleja.]
+			[c/0000FF:Embistir contra enemigos los para y otorga una breve invulnerabilidad.]
+			'''
+	}
+
+	ToyKnife: {
+		DisplayName: Cuchillo de juguete
+		Tooltip:
+			'''
+			[c/00FFFF:Una hoja de plástico sin filo. No resulta muy amenazante.]
+			[c/00FFFF:Requiere el Rasgo de Alma PACIENCIA para usarla.]
+			[c/00FFFF:+3 puntos de inversión de Paciencia.]
+			[c/00FFFF:Los golpes otorgan 20 de maná.]
+			[c/00FFFF:Golpear con el maná al máximo otorga temporalmente capacidad adicional de sigilo y maná.]
+			'''
+	}
+
+	ToyerKnife: {
+		DisplayName: Cuchillo de juguete mejorado
+		Tooltip:
+			'''
+			[c/00FFFF:"Ten paciencia. Pronto tendrás un arma de verdad".]
+			[c/00FFFF:Requiere el Rasgo de Alma PACIENCIA para usarla.]
+			[c/00FFFF:+6 puntos de inversión de Paciencia]
+			[c/00FFFF:Los golpes otorgan 20 de maná.]
+			[c/00FFFF:Golpear con el maná al máximo otorga temporalmente capacidad adicional de sigilo y maná.]
+			[c/00FFFF:Mientras lo sostienes, otorga "Virtud".]
+			[c/00FFFF:Virtud se acumula durante un máximo de 10 segundos y se agota al cambiar de arma.]
+			'''
+	}
+
+	PatienceLament: {
+		DisplayName: Lamento de Paciencia
+		Tooltip:
+			'''
+			[c/50DCFF:Una hoja templada por una PACIENCIA de largos sufrimientos.]
+			[c/50DCFF:Requiere el Rasgo de Alma PACIENCIA para usarla.]
+			[c/50DCFF:+10 puntos de inversión de Paciencia]
+			[c/50DCFF:Los golpes otorgan 20 de maná.]
+			[c/50DCFF:Golpear con el maná al máximo otorga temporalmente capacidad adicional de sigilo y maná.]
+			[c/50DCFF:Mientras la sostienes, otorga "Lamento de la Virtud".]
+			[c/50DCFF:El Lamento de la Virtud se acumula durante un máximo de 10 segundos y se agota al cambiar de arma.]
+			[c/50DCFF:Otorga +15% de daño, +15% de velocidad de ataque y +15 de probabilidad de golpe crítico; escala hasta duplicar su eficacia con la duración máxima (+30% / +30% / +30).]
+			'''
+	}
+
+	PatienceLamentProjectile.DisplayName: Lamento de Paciencia
+
+	ToughGlove: {
+		DisplayName: Guante resistente
+		Tooltip:
+			'''
+			[c/FFA500:Un guante de boxeo desgastado. ¡Aun así pega fuerte!]
+			[c/FFA500:Requiere el Rasgo de Alma VALENTÍA para usarlo.]
+			[c/FFA500:+3 puntos de inversión de Valentía.]
+			[c/FFA500:Dispara proyectiles de puño en llamas. Mejora la movilidad mientras está equipado.]
+			[c/FFA500:Usa Clic izquierdo y Clic derecho para crear combos.]
+			[c/FFA500:Los guantes pequeños aplican Fuego. Los guantes grandes hacen explotar a los objetivos en llamas.]
+			'''
+	}
+
+	ToughGauntlet: {
+		DisplayName: Guantelete resistente
+		Tooltip:
+			'''
+			[c/FFA500:Un guantelete brutal forjado en VALENTÍA.]
+			[c/FFA500:Requiere el Rasgo de Alma VALENTÍA para usarlo.]
+			[c/FFA500:+6 puntos de inversión de Valentía]
+			[c/FFA500:Dispara proyectiles de puño en llamas. Combos y movimiento más rápidos mientras está equipado.]
+			[c/FFA500:Usa Clic izquierdo y Clic derecho para crear combos.]
+			[c/FFA500:Los puños pequeños infligen Fuego infernal. Los grandes detonan el Fuego infernal en explosiones enormes.]
+			'''
+	}
+
+	Incandescent: {
+		DisplayName: Incandescente
+		Tooltip:
+			'''
+			[c/FFA500:Quema todo rastro de miedo.]
+			[c/FFA500:Requiere el Rasgo de Alma VALENTÍA para usarlo.]
+			[c/FFA500:+10 puntos de inversión de Valentía.]
+			[c/FFA500:El clic izquierdo desata puñetazos rápidos que infligen Fuego infernal y En llamas.]
+			[c/FFA500:Los golpes consecutivos acumulan el medidor de combo hasta 10x, lo que aumenta enormemente el daño del ataque pesado.]
+			[c/FFA500:Mantener pulsado y soltar el clic derecho carga un devastador ataque pesado perforante que te lanza hacia delante.]
+			[c/FFA500:Golpear a enemigos en llamas con el ataque pesado provoca enormes explosiones de fuego.]
+			'''
+	}
+
+	MetalSlimeBanner: {
+		Tooltip: ""
+		DisplayName: Estandarte de Slime metálico
+	}
+
+	DarkEyeBanner: {
+		Tooltip: ""
+		DisplayName: Estandarte de Ojo oscuro
+	}
+
+	ArmoredZombieBanner: {
+		Tooltip: ""
+		DisplayName: Estandarte de Zombi blindado
+	}
+
+	SparkOfPerseverance: {
+		Tooltip: ""
+		DisplayName: Chispa de Perseverancia
+	}
+
+	SparkOfPatience: {
+		Tooltip: ""
+		DisplayName: Chispa de Paciencia
+	}
+
+	SparkOfKindness: {
+		Tooltip: ""
+		DisplayName: Chispa de Bondad
+	}
+
+	SparkOfJustice: {
+		Tooltip: ""
+		DisplayName: Chispa de Justicia
+	}
+
+	SparkOfIntegrity: {
+		Tooltip: ""
+		DisplayName: Chispa de Integridad
+	}
+
+	SparkOfDetermination: {
+		Tooltip: ""
+		DisplayName: Chispa de Determinación
+	}
+
+	PrismaticSpark: {
+		Tooltip: Una Chispa de Alma radiante refinada con la sangre de Titán.
+		DisplayName: Chispa prismática
+	}
+
+	SparkOfBravery: {
+		Tooltip: ""
+		DisplayName: Chispa de Valentía
+	}
+
+	SoulCatalyst: {
+		DisplayName: Catalizador de Alma
+		Tooltip: Una estrella marchita con el poder de manifestar recuerdos en reliquias olvidadas hace mucho tiempo.
+	}
+
+	JusticeDecree: {
+		DisplayName: Decreto de Justicia
+		Tooltip:
+			'''
+			[c/FFFF00:Un decreto forjado en fuego justiciero.]
+			[c/FFFF00:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF00:+6 puntos de inversión de Justicia]
+			[c/FFFF00:Al usar cualquier salto doble, coloca hasta 6 marcas en enemigos cercanos.]
+			[c/FFFF00:Cada disparo se dirige a la siguiente marca con un rayo de Justicia teledirigido. Tus invocaciones se centrarán en los enemigos golpeados.]
+			[c/FFFF00:Todos los golpes contra enemigos marcados son críticos garantizados, y la probabilidad de golpe crítico se convierte en probabilidad de -Hipercrítico-.]
+			[c/FFFF00:Los hipercríticos infligen 3x de daño en lugar de 2x.]
+			'''
+	}
+
+	SixShooter: {
+		DisplayName: Revólver de seis tiros
+		Tooltip:
+			'''
+			[c/FFFF00:Seis recámaras. Sin apelaciones.]
+			[c/FFFF00:Requiere el Rasgo de Alma JUSTICIA.]
+			[c/FFFF00:+8 puntos de inversión de Justicia]
+			[c/FFFF00:Dispara rayos de Justicia que siempre asestan golpes críticos.]
+			[c/FFFF00:La probabilidad de golpe crítico se convierte en probabilidad de -Hipercrítico-.]
+			[c/FFFF00:Puede disparar hasta 6 veces antes de necesitar recargar.]
+			[c/FFFF00:Haz clic derecho para disparar rayos en abanico muy imprecisos al doble de velocidad.]
+			[c/FFFF00:El salto doble recarga automáticamente el cilindro.]
+			'''
+	}
+
+	RealKnife: {
+		DisplayName: Cuchillo real
+		Tooltip:
+			'''
+			[c/FF0000:Una hoja forjada a partir de DETERMINACIÓN.]
+			[c/FF0000:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF0000:+6 puntos de inversión de Determinación]
+			[c/FF0000:Los ataques cuerpo a cuerpo restauran 20 de maná.]
+			[c/FF0000:Haz clic derecho para consumir 200 de maná y comenzar un ataque cronometrado.]
+			[c/FF0000:Alinea el marcador con el centro para infligir hasta 15x de daño con el tajo a distancia.]
+			'''
+	}
+
+	TrueKnife: {
+		DisplayName: Cuchillo verdadero
+		Tooltip:
+			'''
+			[c/FF0000:Por fin.]
+			[c/FF0000:Requiere el Rasgo de Alma DETERMINACIÓN.]
+			[c/FF0000:+8 puntos de inversión de Determinación]
+			[c/FF0000:Los ataques cuerpo a cuerpo restauran 20 de maná y liberan proyectiles de Determinación.]
+			[c/FF0000:Haz clic derecho para comenzar un ataque cronometrado.]
+			[c/FF0000:Alinea el marcador con el centro para infligir hasta 15x de daño con un enorme tajo cuerpo a cuerpo.]
+			'''
+	}
+
+	SpecialistsNotebook: {
+		DisplayName: Cuaderno del especialista
+		Tooltip:
+			'''
+			[c/FF00FF:Las palabras tienen poder, refinadas y enfocadas.]
+			[c/FF00FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/FF00FF:+6 puntos de inversión de Perseverancia]
+			[c/FF00FF:Dispara las letras guardadas en tu libro. Cada letra cuesta 12 de maná.]
+			[c/FF00FF:Gastar maná en letras retrasa brevemente la regeneración de maná.]
+			[c/FF00FF:Mientras estás en sigilo de pícaro: las letras cuestan la mitad de maná.]
+			[c/FF00FF:Haz clic derecho para escribir en el libro. Algunas palabras tienen efectos especiales.]
+			[c/FF00FF:Palabras nuevas: SPLIT, PARTITION, BURST, BURROW.]
+			'''
+	}
+
+	TheAbstract: {
+		DisplayName: El Resumen
+		Tooltip:
+			'''
+			[c/A050FF:Todo artículo que valga la pena tiene un resumen.]
+			[c/A050FF:Requiere el Rasgo de Alma PERSEVERANCIA.]
+			[c/A050FF:+8 puntos de inversión de Perseverancia]
+			[c/A050FF:Dispara las letras guardadas en tu libro. Cada letra cuesta 5 de maná.]
+			[c/A050FF:Gastar maná en letras retrasa brevemente la regeneración de maná.]
+			[c/A050FF:Mientras estás en sigilo de pícaro: las letras cuestan la mitad de maná.]
+			[c/A050FF:Haz clic derecho para escribir en el libro. Algunas palabras tienen efectos especiales.]
+			[c/A050FF:Palabras nuevas: HEAL, AURA, RAIN.]
+			'''
+	}
+
+	JevilBossBag: {
+		DisplayName: Bolsa del tesoro (Jevil)
+		Tooltip: ""
+	}
+
+	KnightBossBag: {
+		DisplayName: Bolsa del tesoro (Caballero Rugiente)
+		Tooltip: ""
+	}
+
+	TitanBossBag: {
+		DisplayName: Bolsa del tesoro (Titán)
+		Tooltip: ""
+	}
+
+	FloweyBossBag: {
+		DisplayName: Bolsa del tesoro (Flowey)
+		Tooltip: ""
+	}
+
+	ForthcomingWrath: {
+		DisplayName: Ira inminente
+		Tooltip:
+			'''
+			Una guja que corta el aire en rápida sucesión.
+			Cada golpe despliega tres hojas en un cono amplio.
+			Cada 9 golpes carga un Golpe inminente que inflige Azote de Titanes durante 10 segundos.
+			'''
+	}
+
+	LodestoneFork: {
+		DisplayName: Horquilla de magnetita
+		Tooltip:
+			'''
+			Dispara fragmentos magnéticos que atraviesan bloques y perforan enemigos.
+			Los fragmentos duran 5 segundos; cada enemigo golpeado tiene un enfriamiento de perforación de 1 segundo.
+			Los golpes furtivos despliegan un magnetizador de magnetita
+			El magnetizador se adhiere a bloques, enemigos o jugadores aliados.
+			Los fragmentos cercanos son atraídos hacia él en un campo electromagnético crepitante.
+			'''
+	}
+
+	TitansBaneFlask: {
+		DisplayName: Frasco de Azote de Titanes
+		Tooltip:
+			'''
+			Imbuye los ataques cuerpo a cuerpo con Azote de Titanes.
+			Compatible con el Perol.
+			'''
+	}
+
+	Titansblood: {
+		DisplayName: Sangre de Titanes
+		Tooltip: "'La sangre vital de un Titán, todavía caliente.'"
+	}
+
+	Devilsknife: {
+		DisplayName: Cuchilladiablo
+		Tooltip:
+			'''
+			"¡Soy un comodín!"
+			Lanza una guadaña giratoria que regresa a ti.
+			Los golpes generan un proyectil aleatorio de palo contra los enemigos
+			Los golpes furtivos lanzan cuatro guadañas arqueadas
+			'''
+	}
+
+	Soulflicker: {
+		DisplayName: Destello de Alma
+		Tooltip:
+			'''
+			"Aún queda dentro una brasa tenue."
+			Aumenta permanentemente la inversión de Alma en 3
+			Solo se puede consumir una vez
+			'''
+	}
+
+	AceOfSpades: {
+		DisplayName: As de picas
+		Tooltip:
+			'''
+			"¿Es un 1 o un 11?"
+			Convierte las balas de mosquete en proyectiles perforantes de pica
+			Las picas pueden atravesar hasta tres enemigos
+			'''
+	}
+
+	QueenOfDiamonds: {
+		DisplayName: Reina de diamantes
+		Tooltip:
+			'''
+			"Te vencerá si puede."
+			Los golpes de látigo ordenan a tus súbditos atacar
+			Cada súbdito dispara un diamante al objetivo golpeado
+			Hasta 5 diamantes por golpe
+			'''
+	}
+
+	KingOfHearts: {
+		DisplayName: Rey de corazones
+		Tooltip:
+			'''
+			"¡Que les corten la cabeza!"
+			Mantén pulsado para invocar hasta 10 corazones en órbita
+			Cada corazón cuesta 25 de maná
+			Suelta para enviar el enjambre de corazones hacia el cursor
+			'''
+	}
+
+	DeckOfCards: {
+		DisplayName: Mazo de cartas
+		Tooltip:
+			'''
+			+0.5 de suerte
+			+4% de probabilidad de golpe crítico
+			Golpear a los enemigos crea una carta sobre tu cabeza
+			Con 5 cartas, desata un ataque de palo basado en tu mano de póquer
+			La estadística de 'Suerte' mejora las probabilidades de obtener mejores manos
+			Solo puedes obtener cartas una vez por segundo
+			'''
+	}
+
+	OopsAllCrits: {
+		DisplayName: Ups, todo son críticos
+		Tooltip:
+			'''
+			+0.15 de suerte
+			+45% de probabilidad de golpe crítico
+			-22% de daño total
+			'''
+	}
+
+	JackOfClubs: {
+		DisplayName: Sota de tréboles
+		Tooltip:
+			'''
+			"Lárgate."
+			Golpea el suelo para crear una onda de choque de tréboles
+			Los golpes directos lanzan a los enemigos por los aires
+			Su enorme peso te arrastra con él
+			'''
+	}
+
+	Cascade: {
+		DisplayName: Cascada
+		Tooltip:
+			'''
+			Una ballesta de poder destructivo inmenso.
+			Convierte todas las flechas en un proyectil de alta velocidad que se adhiere a cualquier superficie o enemigo.
+			El proyectil atrae a los enemigos cercanos hacia él y después detona, infligiendo un daño enorme.
+			Mientras está adherido, invoca desde lejos 8 copias de las flechas cargadas.
+			Consume 3 flechas por disparo.
+			'''
+	}
+
+	ShatteredGlass: {
+		DisplayName: Vidrio roto
+		Tooltip:
+			'''
+			Dispara un rayo azul oscuro de luz fracturada.
+			Los golpes crean fragmentos de vidrio alrededor de los enemigos durante un breve periodo.
+			Los golpes posteriores rebotan entre los fragmentos e infligen daño adicional.
+			'''
+	}
+
+	Leyline: {
+		DisplayName: Línea Ley
+		Tooltip:
+			'''
+			Un látigo que se comporta como un gancho de agarre viviente.
+			Se engancha a los enemigos o al cursor y te atrae gradualmente.
+			Los enemigos que tocan la atadura reciben daño repetidamente.
+			Suelta mientras estás enganchado a un enemigo para infligir hasta 10x de daño.
+			Este daño de liberación alcanza su máximo después de estar adherido durante 2 segundos.
+			'''
+	}
+
+	TitansArrow: {
+		DisplayName: Flecha de Titán
+		Tooltip:
+			'''
+			Se adhiere al primer objetivo o superficie que golpea.
+			Inflige un 20% de daño al impactar y después explota para infligir el 80% restante tras 1 segundo.
+			'''
+	}
+
+	Appendage: {
+		DisplayName: Apéndice
+		Tooltip:
+			'''
+			El agarre de Titán, ahora bajo tu mando.
+			Invoca dos manos de Titán que te flanquean.
+			Las manos disparan periódicamente devastadores láseres contra los enemigos cercanos.
+			Los objetivos marcados por el látigo tienen prioridad.
+			Ocupa dos espacios de súbdito. Solo se puede invocar un par.
+			'''
+	}
+
+	TitanicEmblem: {
+		DisplayName: Emblema titánico
+		Tooltip:
+			'''
+			El peso de un Titán detrás de cada golpe.
+			+112% de tamaño de arma cuerpo a cuerpo verdadera.
+			+10% de daño de arma cuerpo a cuerpo verdadera.
+			+66% de retroceso de arma cuerpo a cuerpo verdadera.
+			-25% de velocidad de ataque de arma cuerpo a cuerpo verdadera.
+			'''
+	}
+
+	TitanStar: {
+		DisplayName: Estrella de Titán
+		Tooltip: Invoca una estrella radiante para iluminar tu camino.
+	}
+}
+
+Tiles: {
+	DarkPortal.MapEntry: Portal Oscuro
+	TitanForge.MapEntry: Forja de Titán
+	SoulStation.MapEntry: Estación de Alma
+}
+
+SoulTraits: {
+	Justice: {
+		Name: JUSTICIA
+		Description: Un alma que busca la justicia y la verdad.
+		Bonus3: Obtén un triple salto integrado.
+		Bonus5: Aumenta la probabilidad de golpe crítico un 6%.
+		Bonus12: Aumenta el daño de los proyectiles un 10%.
+		Bonus20: Cada 5 golpes, obtén una Marca de Justicia. \nTu próximo golpe asestará un golpe crítico garantizado.
+	}
+
+	Kindness: {
+		Name: BONDAD
+		Description: Un alma que cuida y protege.
+		Bonus3: +2 de regeneración de vida para ti. Cura a los aliados cercanos y NPCs de pueblo 2 de vida cada segundo.
+		Bonus5: Cuando tú o los aliados cercanos reciban daño, aumenta tu defensa en +6 durante 3 segundos.
+		Bonus12: Los efectos de las pociones se aplican a los aliados cercanos. +20% de duración de los efectos de poción.
+		Bonus20: Cuando tú o un aliado muera, tú y cada aliado obtienen una Marca de Bondad. Aumenta el daño total un 25% durante 10 segundos.
+	}
+
+	Bravery: {
+		Name: VALENTÍA
+		Description: Un alma que avanza sin miedo.
+		Bonus3: +10% de daño global a enemigos en un radio de 10 bloques. Recibes un 5% más de daño.
+		Bonus5: +20% de velocidad de movimiento durante el combate.
+		Bonus12: Recibir daño aumenta el daño infligido un 12% durante 6 segundos.
+		Bonus20: Después de infligir daño, obtén una Marca de Valentía. Aumenta la velocidad de ataque global hasta un 20% según la proximidad del enemigo.
+	}
+
+	Patience: {
+		Name: PACIENCIA
+		Description: Un alma que espera el momento perfecto.
+		Bonus3: Es menos probable que los enemigos te elijan como objetivo.
+		Bonus5: Obtén el doble de velocidad de regeneración de vida mientras no te mueves.
+		Bonus12: Obtén acceso al sigilo de pícaro. Si ya tienes sigilo de pícaro, aumenta el medidor máximo en 30.
+		Bonus20: Obtén permanentemente una Marca de Paciencia. Se acumula hasta un 50% de resistencia al daño durante 30 segundos y se reinicia al recibir daño.
+	}
+
+	Integrity: {
+		Name: INTEGRIDAD
+		Description: Un alma que se mantiene fiel a sí misma.
+		Bonus3: +20% de defensa. -10% de daño total infligido.
+		Bonus5: Recibir daño aumenta el daño infligido un 5%. Dura 5 segundos y se acumula hasta 5 veces.
+		Bonus12: Elimina todos los efectos negativos de las bonificaciones de inversión anteriores.
+		Bonus20: Después de recibir daño, obtén una Marca de Integridad. Tu próximo golpe añadirá tu Defensa como daño adicional fijo.
+	}
+
+	Perseverance: {
+		Name: PERSEVERANCIA
+		Description: Un alma que persevera ante las dificultades.
+		Bonus3: Las recolecciones de curación también restauran 20 de maná. Las recolecciones de maná también restauran 10 de vida.
+		Bonus5: +1% de daño por cada mejora y efecto negativo activo en ti.
+		Bonus12: Obtén hasta +50 de vida máxima según tu maná actual y +50 de maná máximo según tu vida actual.
+		Bonus20: Usar una poción de curación o maná otorga una Marca de Perseverancia. Tu próxima poción de curación o maná también restaura el otro recurso por la mitad de la cantidad obtenida.
+	}
+
+	Determination: {
+		Name: DETERMINACIÓN
+		Description: Un alma que se niega a rendirse.
+		Bonus3: Reduce el tiempo de reaparición en 5 segundos.
+		Bonus5: +6% de daño global
+		Bonus12: Aumenta los marcos de invulnerabilidad al recibir daño.
+		Bonus20: Con un 50% de vida, obtén una Marca de Determinación y guarda tu posición. Al morir, revive con 50 de vida y regresa a esa posición. Enfriamiento de 2 minutos.
+	}
+
+	UI: {
+		NoTrait: Sin Rasgo de Alma
+		VisitGerson: Visita a Gerson para obtener un Rasgo de Alma
+		InvestmentPoints: Puntos de inversión: {0}/20
+		Breakdown: (Armadura: {0} | Arma: {1} | Poción: {2})
+		Active: "[Activo]"
+		Points: "[{0} puntos]"
+	}
+
+	TitanForgeItem: {
+		DisplayName: Forja de Titán
+		Tooltip: Una mesa de trabajo forjada con energía oscura, usada para fabricar objetos poderosos. Puede encontrarse ocasionalmente en un Mundo Oscuro.
+	}
+}
+
+DamageClasses: {
+	MeleeMagicDamageClass.DisplayName: daño cuerpo a cuerpo (mágico)
+	RangedMeleeDamageClass.DisplayName: daño a distancia (cuerpo a cuerpo)
+	RangedSummonDamageClass.DisplayName: daño a distancia (invocación)
+	MagicRogueDamageClass.DisplayName: daño mágico (pícaro)
+	SummonerMeleeDamageClass.DisplayName: daño de invocación (cuerpo a cuerpo)
+	RangedMagicDamageClass.DisplayName: daño a distancia (mágico)
+}
+
+Conditions: {
+	HasJustice: Requiere el Rasgo de Alma JUSTICIA
+	HasKindness: Requiere el Rasgo de Alma BONDAD
+	HasBravery: Requiere el Rasgo de Alma VALENTÍA
+	HasPatience: Requiere el Rasgo de Alma PACIENCIA
+	HasIntegrity: Requiere el Rasgo de Alma INTEGRIDAD
+	HasPerseverance: Requiere el Rasgo de Alma PERSEVERANCIA
+	HasDetermination: Requiere el Rasgo de Alma DETERMINACIÓN
+}
+
+Prefixes: {
+	SoulfulPrefix.DisplayName: Con alma
+	EmpatheticPrefix.DisplayName: Empático
+	LingeringPrefix.DisplayName: Persistente
+}

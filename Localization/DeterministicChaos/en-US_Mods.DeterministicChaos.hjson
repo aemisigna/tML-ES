@@ -1,0 +1,2850 @@
+NPCs: {
+	TitanBody.DisplayName: Titan
+	TitanHand.DisplayName: Titan
+	TitanFinger.DisplayName: Titan
+	TitanStar.DisplayName: Titan
+	TitanEye.DisplayName: Titan
+	TitanPupil.DisplayName: Titan
+	TitanBlob.DisplayName: Titan
+	TitanSpawn.DisplayName: Titan
+	TitanWormHead.DisplayName: Titan
+	TitanWormBody.DisplayName: Titan
+	TitanWormTail.DisplayName: Titan
+	TitanWing.DisplayName: Titan
+	RoaringKnight.DisplayName: Roaring Knight
+	RoaringKnightSphere.DisplayName: Roaring Knight Sphere
+	FakeEyeOfCthulhu.DisplayName: Fake Eye Of Cthulhu
+	RoaringKnightCutscene.DisplayName: Roaring Knight Cutscene
+	ERAM.DisplayName: E.R.A.M
+	PixelFriend.DisplayName: Pixel Friend
+	DarkWorldEye.DisplayName: Dark World Eye
+	DarkWorldSlime.DisplayName: Dark World Slime
+	Jevil.DisplayName: Jevil
+	OmegaFlowey.DisplayName: Omega Flowey
+
+	Gerson: {
+		DisplayName: Turtle
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	MetalSlime.DisplayName: Metal Slime
+	HauntedHelmet.DisplayName: Haunted Helmet
+	DarkEye.DisplayName: Dark Eye
+	ArmoredZombie.DisplayName: Armored Zombie
+	OmegaFloweyCutscene.DisplayName: Omega Flowey Cutscene
+	HumanSoulCutscene.DisplayName: Human Soul Cutscene
+	Chara.DisplayName: Chara
+}
+
+Bestiary.Gerson: An ancient tortoise who has already completed his journey. He offers guidance to those seeking to understand their inner nature.
+
+BossChecklistIntegration: {
+	Jevil: {
+		EntryName: Jevil
+		SpawnInfo: Use a Devil's Key, crafted from a Golden Key and Shadow Key at a Demon Altar.
+	}
+
+	ERAM: {
+		EntryName: E.R.A.M
+		SpawnInfo: Use a Game Controller, sold by Gerson in Hardmode.
+	}
+
+	RoaringKnight: {
+		EntryName: Roaring Knight
+		SpawnInfo: The best time to hunt your foe is while it's hunting...
+	}
+
+	Titan: {
+		EntryName: Titan
+		SpawnInfo: After defeating Plantera, right-click a Dark Shard inside the Dark World while standing near the fountain.
+	}
+
+	OmegaFlowey: {
+		EntryName: Omega Flowey
+		SpawnInfo: Use the Six Human Souls.
+	}
+}
+
+Configs: {
+	BossVisualConfig: {
+		DisplayName: Boss Visual Settings
+
+		BossArenaBackground: {
+			Label: Boss Arena Background
+			Tooltip: The image in the actual arena.
+		}
+
+		BossArenaExteriorVisuals: {
+			Label: Boss Arena Exterior Visuals
+			Tooltip: The VFX outside the arena.
+		}
+	}
+}
+
+Dialogue: {
+	Gerson: {
+		NoTrait1: Gya ha ha! I see you have not yet discovered your soul trait. Care to choose? Or perhaps you're looking to challenge yourself?
+		NoTrait2: Every soul has a trait that defines them. What might yours be, I wonder?
+		NoTrait3: The soul is a curious thing. Let me help you find yours.
+		HasTrait1: Ah, I see your soul shines bright. But remember, you can always change your path if curiosity strikes.
+		HasTrait2: Your soul trait serves you well! Or perhaps you wish to try another?
+		General1: My story has come to it's end. Now, it's your turn!
+		General2: You want me to help you fight? Nah, that would be too easy for you!
+		ChooseTrait: Soul Traits
+		ViewTrait: View Trait
+		TraitInfo: Your soul radiates with {0}. Come back if you ever want to try another.
+		Traits: Traits
+		Help: Help
+		Dialogue: Dialogue
+		SelectTrait: Select Trait
+		Back: Back
+		Next: Next
+		Close: Close
+		HelpPreSkeletron1: I'm too old to be fightin' along side ya, but I've got a few things that could help!
+		HelpPreSkeletron2: I can help unlock the potential of your SOUL! I'll provide some basic equipment, but the rest is on you!
+		HelpPreSkeletron3: Once the dungeon's cleared of all that nasty curse junk, I can get you some weapons, too!
+		HelpPreHardmode1: Nice job clearing out the Dungeon! I've got some weapons stocked up. They'll serve you well as you prepare for the next chapter.
+		HelpPreHardmode2: If you ever want to try a different SOUL trait, come talk to me and we'll sort it out.
+		HelpPostHardmode1: You're onto the next chapter. I knew you had it in you! If you're here to change your soul trait, I can still help with that.
+		HelpPostHardmode2: While you were down there fighting that meat rectangle, someone stopped by and gave me this Game Controller-a thingy. Seems like they wanted you to have it.
+		HelpPostHardmode3: Now, I don't know much about games, but I'd be careful. Seems like there's more to it than meets the eye.
+		HelpPostERAM1: Looks like ya beat the game! Technology is so advanced these days...
+	}
+}
+
+Buffs: {
+	SoulTraitInvestmentBuff1: {
+		DisplayName: Minor Soul Investment
+		Description: +1 Soul Trait investment point
+	}
+
+	SoulTraitInvestmentBuff2: {
+		DisplayName: Lesser Soul Investment
+		Description: +2 Soul Trait investment points
+	}
+
+	SoulTraitInvestmentBuff3: {
+		DisplayName: Soul Investment
+		Description: +3 Soul Trait investment points
+	}
+
+	SoulTraitInvestmentBuff4: {
+		DisplayName: Greater Soul Investment
+		Description: +4 Soul Trait investment points
+	}
+
+	SoulTraitInvestmentBuff5: {
+		DisplayName: Major Soul Investment
+		Description: +5 Soul Trait investment points
+	}
+
+	JusticeMarkBuff: {
+		DisplayName: Justice Mark
+		Description: Your next hit is guaranteed to critically strike.
+	}
+
+	KindnessDefenseBuff: {
+		DisplayName: Kindness Shield
+		Description: +6 defense from protecting allies.
+	}
+
+	KindnessMarkBuff: {
+		DisplayName: Kindness Mark
+		Description: +25% damage in honor of a fallen ally.
+	}
+
+	BraveryMarkBuff: {
+		DisplayName: Bravery Mark
+		Description: Increased attack speed based on enemy proximity.
+	}
+
+	BraveryDamageBuff: {
+		DisplayName: Bravery Fury
+		Description: +12% damage after taking damage.
+	}
+
+	FirstKnifeMaliceDebuff: {
+		DisplayName: Malice
+		Description: Malice is building.
+	}
+
+	PatienceMarkBuff: {
+		DisplayName: Patience Mark
+		Description: Damage resistance builds over time and resets when you take damage.
+	}
+
+	IntegrityMarkBuff: {
+		DisplayName: Integrity Mark
+		Description: Your next hit adds Defense to armor penetration.
+	}
+
+	IntegrityDamageBuff: {
+		DisplayName: Integrity Stacks
+		Description: +5% damage per stack after taking damage.
+	}
+
+	PerseveranceMarkBuff: {
+		DisplayName: Perseverance Mark
+		Description: Your next healing or mana potion also restores the other resource.
+	}
+
+	PerseveranceDamageBuff: {
+		DisplayName: Perseverance Stacks
+		Description: No longer in use.
+	}
+
+	DeterminationMarkBuff: {
+		DisplayName: Determination Mark
+		Description: You will revive at your saved position with 50 health upon death.
+	}
+
+	DeterminationCooldownBuff: {
+		DisplayName: Determination Cooldown
+		Description: Cannot activate Determination Mark.
+	}
+
+	EyeDebuff: {
+		DisplayName: Eye Debuff
+		Description: Something is watching of you.
+	}
+
+	RoaringGunBuff: {
+		DisplayName: Roaring Gun Buff
+		Description: Increased Rate of Fire!
+	}
+
+	RoaringSummonBuff: {
+		DisplayName: Roaring Summon Buff
+		Description: Something is following you...
+	}
+
+	DeterminationSummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Determination fights for you.
+	}
+
+	IntegritySummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Integrity fights for you.
+	}
+
+	PatienceSummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Patience fights for you.
+	}
+
+	PerseveranceSummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Perseverance fights for you.
+	}
+
+	KindnessSummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Kindness fights for you.
+	}
+
+	JusticeSummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Justice fights for you.
+	}
+
+	BraverySummonBuff: {
+		DisplayName: Imbued Silhouette
+		Description: An umbral clone imbued with Bravery fights for you.
+	}
+
+	HollowGunTagDebuff: {
+		DisplayName: Justice Tag
+		Description: Marked for summon damage.
+	}
+
+	VirtueBuff: {
+		DisplayName: Virtue
+		Description: +15% weapon damage, attack speed, and critical strike chance.
+	}
+
+	VirtueLamentBuff: {
+		DisplayName: Virtue's Lament
+		Description: +15% weapon damage, attack speed, and critical strike chance. Scales up to double effectiveness at max duration.
+	}
+
+	GnomonAllyBuff: {
+		DisplayName: Surge of Power
+		Description: +20% movement speed, control, and weapon damage.
+	}
+
+	GnomonTagDebuff: {
+		DisplayName: Gnomon Tag
+		Description: Summons deal bonus damage to this enemy.
+	}
+
+	RoaringLensBuff: {
+		Description: Mods.DeterministicChaos.Buffs.RoaringLensBuff.Description
+		DisplayName: Roaring Lens Buff
+	}
+
+	TitanStarBuff: {
+		DisplayName: Titan Star
+		Description: A radiant star lights your path.
+	}
+
+	StagnationSicknessBuff: {
+		DisplayName: Stagnation Sickness
+		Description: Your body glitches out, increasing damage taken by 25%
+	}
+
+	TitansBane: {
+		DisplayName: Titansbane
+		Description: Slowly losing health proportional to current HP.
+	}
+
+	TitansBaneImbue: {
+		DisplayName: Flask of Titansbane
+		Description: Melee attacks inflict Titansbane on enemies.
+	}
+
+	LeylineTagBuff: {
+		DisplayName: Leyline Tag Buff
+		Description: Mods.DeterministicChaos.Buffs.LeylineTagBuff.Description
+	}
+
+	AppendageBuff: {
+		DisplayName: Appendage
+		Description: The Titan's hands fight for you.
+	}
+
+	SharkToothBleed: {
+		DisplayName: Shark Tooth Bleed
+		Description: They're gonna bleed.
+	}
+
+	WhipTagDebuff: {
+		DisplayName: Whip Tag
+		Description: Summons deal extra tag damage.
+	}
+
+	WhipTagDebuffFlat: {
+		DisplayName: Whip Tag
+		Description: Summons deal extra tag damage.
+	}
+}
+
+Projectiles: {
+	Projectile_Seeking.DisplayName: Roaring Knife
+	Projectile_Star.DisplayName: Roaring Star
+	SlashAttack.DisplayName: Slash Attack
+	SlashIndicator.DisplayName: Slash Indicator
+	SliceIndicator.DisplayName: Slice Indicator
+	ToothProjectile.DisplayName: Tooth Projectile
+	SeekingKnife.DisplayName: Seeking Knife
+	LatticeKnife.DisplayName: Lattice Knife
+	ConeVisualEffect.DisplayName: Cone Visual Effect
+	ShockwaveLine.DisplayName: Shockwave Line
+	Shockwave.DisplayName: Shockwave
+	KnightLaugh.DisplayName: Knight Laugh
+	FireSphere.DisplayName: Fire Sphere
+	FireTrail.DisplayName: Fire Trail
+	PixelBomb.DisplayName: Pixel Bomb
+	PixelWave.DisplayName: Pixel Wave
+	RoaringMiniStar.DisplayName: Roaring Mini Star
+	RoaringYoyoProjectile.DisplayName: Roaring Yoyo Projectile
+	DarkShardProjectile.DisplayName: Dark Shard Projectile
+	DarkShardSeeker.DisplayName: Dark Shard Seeker
+	DarkShardHealingKnife.DisplayName: Kindness Knife
+	RoaringArrowProjectile.DisplayName: Roaring Arrow Projectile
+	RoaringBulletProjectile.DisplayName: Roaring Bullet Projectile
+	RoaringTomeStarProjectile.DisplayName: Roaring Tome Star
+	RoaringTomeBigProjectile.DisplayName: Roaring Tome Orb
+	RoaringSwordSwing.DisplayName: Roaring Sword
+	RoaringSwordLunge.DisplayName: Roaring Lunge
+	RoaringSwordSlash.DisplayName: Roaring Slash
+	RoaringSwordHomingSlash.DisplayName: Roaring Sword Homing Slash
+	RoaringSwordChainLunge.DisplayName: Roaring Sword Chain Lunge
+	RoaringSwordChainSlash.DisplayName: Roaring Sword Chain Slash
+	RoaringSwordLungeCharge.DisplayName: Roaring Sword Lunge Charge
+	RoaringWhipProjectile.DisplayName: Roaring Whip
+	RoaringSummonProjectile.DisplayName: Shadow Clone
+	RoaringSummonWhipAttack.DisplayName: Shadow Whip
+	RoaringWhipSlash.DisplayName: Whip Slash
+	RoaringWhipSlashAttack.DisplayName: Whip Slash Attack
+	GenericKindnessBolt.DisplayName: Kindness Bolt
+	RogueSeekingKnife.DisplayName: Seeking Knife
+	RogueSlashAttack.DisplayName: Rogue Slash Attack
+	BaseballBatSwing.DisplayName: Baseball Bat Swing
+	RustyKnifeSwing.DisplayName: Rusty Knife
+	RealKnifeSwing.DisplayName: Real Knife
+	DeterminationSlash.DisplayName: Determination Slash
+	FryingPanSwing.DisplayName: Frying Pan
+	EggProjectile.DisplayName: Egg
+	KindnessPickup.DisplayName: Kindness
+	JusticeBeam.DisplayName: Justice Beam
+	TornNotebookLetter.DisplayName: Letter
+	AbstractLetter.DisplayName: Letter
+	BalletShoesProjectile.DisplayName: Ballet Dash
+	AerodynamicBootsProjectile.DisplayName: Aerodynamic Dash
+	SpeedLine.DisplayName: Speed Line
+	CookingPotCone.DisplayName: Cooking Pot Blast
+	CookingPotSwing.DisplayName: Cooking Pot
+	ToyKnifeProjectile.DisplayName: Toy Knife
+	ToyerKnifeProjectile.DisplayName: Toyer Knife
+	ToughGloveProjectile.DisplayName: Tough Punch
+	ToughGauntletProjectile.DisplayName: Tough Gauntlet
+	IncandescentHeavyProjectile.DisplayName: Incandescent Heavy
+	TitanMultiplierOrb.DisplayName: Titan Multiplier Orb
+	TitanLaserBeam.DisplayName: Titan Laser Beam
+	TitanLaserIndicator.DisplayName: Titan Laser Indicator
+	TitanFingerProjectile.DisplayName: Titan Finger Projectile
+	DarkEyeLaser.DisplayName: Dark Eye Laser
+	TitanBallAttack.DisplayName: Titan Ball Attack
+	TitanBallWhite.DisplayName: Titan Ball White
+	StarShardParticle.DisplayName: Star Shard Particle
+	SpadeProjectile.DisplayName: Spade
+	HeartProjectile.DisplayName: Heart
+	ClubProjectile.DisplayName: Club
+	DiamondProjectile.DisplayName: Diamond
+	ClubBomb.DisplayName: Club Bomb
+	HeartBomb.DisplayName: Heart Bomb
+	SpadeBomb.DisplayName: Spade Bomb
+	DiamondBomb.DisplayName: Diamond Bomb
+	HorseProjectile.DisplayName: Horse
+	ScytheProjectileTracking.DisplayName: Scythe
+	ScytheProjectileFalling.DisplayName: Scythe
+	GiantScytheProjectile.DisplayName: Giant Scythe Projectile
+	DevilsknifeProjectile.DisplayName: Devilsknife Projectile
+	FriendlyClubProjectile.DisplayName: Friendly Club Projectile
+	FriendlyDiamondProjectile.DisplayName: Friendly Diamond Projectile
+	FriendlyHeartProjectile.DisplayName: Friendly Heart Projectile
+	FriendlySpadeProjectile.DisplayName: Friendly Spade Projectile
+	AceOfSpadesBullet.DisplayName: Ace Of Spades Bullet
+	QueenOfDiamondsProjectile.DisplayName: Queen Of Diamonds Projectile
+	KingOfHeartsHeart.DisplayName: King Of Hearts Heart
+	KingOfHeartsProjectile.DisplayName: King Of Hearts Projectile
+	JackOfClubsProjectile.DisplayName: Jack Of Clubs Projectile
+	KnightEye.DisplayName: Knight Eye
+	KnightSphere.DisplayName: Knight Sphere
+	TitanFinalLaserBolt.DisplayName: Laser Bolt
+	ForthcomingWrathProjectile.DisplayName: Forthcoming Wrath
+	LodestoneForkSpam.DisplayName: Lodestone Chunk
+	LodestoneForkStealth.DisplayName: Lodestone Magnetizer
+	CascadeProjectile.DisplayName: Cascade Bolt
+	TitansArrowProjectile.DisplayName: Titan's Arrow
+	BoltExplosion.DisplayName: Bolt Explosion
+	ShatteredGlassBeamArc.DisplayName: Shattered Glass Beam Arc
+	ShatteredGlassProjectile.DisplayName: Shattered Glass Projectile
+	ShatteredGlassShard.DisplayName: Shattered Glass Shard
+	DefaultBeam.DisplayName: Default Beam
+	LeylineProjectile.DisplayName: Leyline Projectile
+	AppendageHandProjectile.DisplayName: Titan Hand
+	AppendageLaser.DisplayName: Titan Laser
+	TitanStarProjectile.DisplayName: Titan Star Projectile
+	ClubEarthquakeProjectile.DisplayName: Club Earthquake Projectile
+	ClubEarthquakeHitbox.DisplayName: Club Earthquake Hitbox
+	SteadfastV1DashProjectile.DisplayName: Steadfast Dash
+	TrueKnifeSwing.DisplayName: True Knife
+	TrueKnifeMegaSlash.DisplayName: Determination Slash
+	DeterminationArrowProjectile.DisplayName: Dark Arrow
+	IntegrityArrowProjectile.DisplayName: Dark Arrow
+	PatienceArrowProjectile.DisplayName: Dark Arrow
+	PerseveranceArrowProjectile.DisplayName: Dark Arrow
+	KindnessArrowProjectile.DisplayName: Dark Arrow
+	JusticeArrowProjectile.DisplayName: Dark Arrow
+	BraveryArrowProjectile.DisplayName: Dark Arrow
+	JusticeArrowExplosion.DisplayName: Justice Explosion
+	DeterminationBulletProjectile.DisplayName: Dark Bullet
+	IntegrityBulletProjectile.DisplayName: Dark Bullet
+	PatienceBulletProjectile.DisplayName: Dark Bullet
+	PerseveranceBulletProjectile.DisplayName: Dark Bullet
+	KindnessBulletProjectile.DisplayName: Dark Bullet
+	JusticeBulletProjectile.DisplayName: Dark Bullet
+	BraveryBulletProjectile.DisplayName: Dark Bullet
+	DeterminationDarkShardProjectile.DisplayName: Dark Shard
+	IntegrityDarkShardProjectile.DisplayName: Dark Shard
+	PatienceDarkShardProjectile.DisplayName: Dark Shard
+	PerseveranceDarkShardProjectile.DisplayName: Dark Shard
+	KindnessDarkShardProjectile.DisplayName: Dark Shard
+	JusticeDarkShardProjectile.DisplayName: Dark Shard
+	BraveryDarkShardProjectile.DisplayName: Dark Shard
+	DeterminationSummonProjectile.DisplayName: Shadow Clone
+	IntegritySummonProjectile.DisplayName: Shadow Clone
+	PatienceSummonProjectile.DisplayName: Shadow Clone
+	PerseveranceSummonProjectile.DisplayName: Shadow Clone
+	KindnessSummonProjectile.DisplayName: Shadow Clone
+	JusticeSummonProjectile.DisplayName: Shadow Clone
+	BraverySummonProjectile.DisplayName: Shadow Clone
+	SixShooterBeam.DisplayName: Six Shooter Beam
+	CastIronGoliathSwing.DisplayName: Cast Iron Goliath Swing
+	PatienceLamentProjectile.DisplayName: Patience Lament Projectile
+	VineHand.DisplayName: Vine Hand
+	FingerGun.DisplayName: Finger Gun
+	FingerProjectile.DisplayName: Finger Projectile
+	FloweyNuke.DisplayName: Flowey Nuke
+	FloweyPellet.DisplayName: Flowey Pellet
+	FloweyPelletIndicator.DisplayName: Flowey Pellet Indicator
+	FlyProjectile.DisplayName: Fly Projectile
+	Flytrap.DisplayName: Flytrap
+	Mouthball.DisplayName: Mouthball
+	MouthballController.DisplayName: Mouthball Controller
+	FloweyStar.DisplayName: Warped Star
+	VineImpaleHand.DisplayName: Vine Impale Hand
+	VineImpaleIndicator.DisplayName: Vine Impale Indicator
+	FinaleSoul.DisplayName: Finale Soul
+	FloweyMouthBeam.DisplayName: Mouth Beam
+	FloweyMouthBeamIndicator.DisplayName: Mouth Beam Indicator
+	FloweyPatience.DisplayName: Patience
+	FloweyPatienceController.DisplayName: Patience Controller
+	FloweyPatienceHeal.DisplayName: Patience Heal
+	FloweyBravery.DisplayName: Bravery
+	FloweyBraveryController.DisplayName: Bravery Controller
+	FloweyBraveryHeal.DisplayName: Bravery Heal
+	FloweyIntegrity.DisplayName: Integrity
+	FloweyIntegrityController.DisplayName: Integrity Controller
+	FloweyIntegrityHeal.DisplayName: Integrity Heal
+	FloweyIntegrityStar.DisplayName: Integrity Star
+	FloweyJusticeAim.DisplayName: Justice Aim
+	FloweyJusticeBullet.DisplayName: Justice Bullet
+	FloweyJusticeController.DisplayName: Justice Controller
+	FloweyJusticeGun.DisplayName: Justice Gun
+	FloweyJusticeHeal.DisplayName: Justice Heal
+	FloweyKindnessController.DisplayName: Kindness Controller
+	FloweyKindnessEgg.DisplayName: Kindness Egg
+	FloweyKindnessHeal.DisplayName: Kindness Heal
+	FloweyKindnessPan.DisplayName: Kindness Pan
+	FloweyPerseverance.DisplayName: Perseverance
+	FloweyPerseveranceController.DisplayName: Flowey Perseverance Controller
+	FloweyPerseveranceHeal.DisplayName: Flowey Perseverance Heal
+	CharaKnifeSlash.DisplayName: Knife Slash
+	CharaTrueKnifeMegaSlash.DisplayName: True Knife
+	CharaSaveStar.DisplayName: Save Star
+	CharaSliceIndicator.DisplayName: Slash Attack
+	CharaSnipeKnife.DisplayName: Slash Attack
+	CharaKnifeSpike.DisplayName: Knife Shard
+	PerseveranceEchoStrike.DisplayName: Perseverance Echo Strike
+	CharaDashLineHazard.DisplayName: Chara Dash Line Hazard
+	CharaDashShockwave.DisplayName: Chara Dash Shockwave
+	SplitScreen.DisplayName: Split Screen
+	FirstKnifeBottom.DisplayName: First Knife
+	FirstKnifeMiddle.DisplayName: First Knife
+	FirstKnifeTop.DisplayName: First Knife
+	MaliceShard.DisplayName: Malice Shard
+	FirstKnifeMaliceSlash.DisplayName: Malice Slash
+	PhotoshopSwordLeafProjectile.DisplayName: Leaf
+	PhotoshopSwordSwingProjectile.DisplayName: Blade of Grass
+	PhotoshopGunHeldProjectile.DisplayName: Minishark
+	PhotoshopGunHeldProjectileOpen.DisplayName: Minishark Bite
+	PhotoshopGunProjectile.DisplayName: Shark Tooth
+	PhotoshopMissileExplosionProjectile.DisplayName: Missile
+	PhotoshopMissileHeldProjectile.DisplayName: Magic Missile
+	PhotoshopMissileProjectile.DisplayName: Missile
+	PhotoshopWhipProjectile.DisplayName: Spinal Tap
+	PhotoshopWhipHead.DisplayName: Spinal Tap Head
+	PhotoshopBallExplosionProjectile.DisplayName: Tooth Ball
+	PhotoshopBallProjectile.DisplayName: Tooth Ball
+	PhotoshopToothProjectile.DisplayName: Tooth
+}
+
+Items: {
+	SoulEssenceT1: {
+		DisplayName: Minor Soul Essence
+		Tooltip: Increases your soul trait investment by 1 for 4 minutes.
+	}
+
+	SoulEssenceT2: {
+		DisplayName: Lesser Soul Essence
+		Tooltip: Increases your soul trait investment by 2 for 4 minutes.
+	}
+
+	SoulEssenceT3: {
+		DisplayName: Soul Essence
+		Tooltip: Increases your soul trait investment by 3 for 4 minutes.
+	}
+
+	SoulEssenceT4: {
+		DisplayName: Greater Soul Essence
+		Tooltip: Increases your soul trait investment by 4 for 4 minutes.
+	}
+
+	SoulEssenceT5: {
+		DisplayName: Major Soul Essence
+		Tooltip: Increases your soul trait investment by 5 for 4 minutes.
+	}
+
+	SuspiciousEye: {
+		DisplayName: Suspicious... Looking Eye?
+		Tooltip: This eye looks a bit more suspicious than usual.
+	}
+
+	SixHumanSouls: {
+		DisplayName: Six Human Souls
+		Tooltip: Grants permanent +20 Soul Investment, 50 health, and 5 defense.
+	}
+
+	PhotoshopSword: {
+		DisplayName: '''"Blade of Grass"'''
+		Tooltip: Poisons enemies on direct hit.
+	}
+
+	PhotoshopGun: {
+		DisplayName: '''"Minishark"'''
+		Tooltip:
+			'''
+			Replaces musket balls with shark teeth that apply a rapid bleed.
+			Alt-fire to perform a close-range bite that gives armor penetration against the hit enemy.
+			"This one's of pretty considerable size, actually."
+			'''
+	}
+
+	PhotoshopMissile: {
+		DisplayName: '''"Magic Missile"'''
+		Tooltip:
+			'''
+			Fires a seeking missile that tracks your mouse.
+			"There's not much magic to this..."
+			'''
+	}
+
+	PhotoshopWhip: {
+		DisplayName: '''"Spinal Tap"'''
+		Tooltip:
+			'''
+			{0} / {1}% Summon Tag Damage
+			Fires a skull at the end of the tip that applies flat tag damage.
+			Hits with the whip proper apply a percentage tag damage bonus.
+			"This goes to twelve."
+			'''
+	}
+
+	PhotoshopBall: {
+		DisplayName: '''"Tooth Ball"'''
+		Tooltip: Throws a ball of flesh which explodes into teeth. Stealth strikes fire more teeth and leave a lingering explosion.
+		TooltipCalamity:
+			'''
+			Throws a ball of flesh which explodes into teeth.
+			Stealth strikes fire more teeth and leave a lingering explosion.
+			'''
+	}
+
+	PhotoshopLicense: {
+		DisplayName: Photoshop License
+		Tooltip:
+			'''
+			Increases Terraria realism by 10x.
+			Applies professional-grade color grading, cinematic letterboxing, lens flares, and an expensive amount of dramatic lighting.
+			'''
+	}
+
+	FirstKnife: {
+		DisplayName: First Knife
+		Tooltip:
+			'''
+			Releases five splitting knives that reconverge and erupt into seeking Malice Shards.
+			Malice Shards apply Malice, stacking up to 20 times on each enemy.
+			Stealth strikes release more knives and convert each convergence into a Malice-scaling red slash.
+			'''
+		TooltipCalamity:
+			'''
+			Releases five splitting rogue knives that reconverge and erupt into seeking Malice Shards.
+			Malice Shards apply Malice, stacking up to 20 times on each enemy.
+			Stealth strikes release more knives and convert each convergence into a Malice-scaling red slash.
+			'''
+	}
+
+	DevilsKey: {
+		DisplayName: Devil's Key
+		Tooltip:
+			'''
+			A key made from light and dark.
+			Summons Jevil.
+			'''
+	}
+
+	RodOfStagnation: {
+		DisplayName: Rod of Stagnation
+		Tooltip:
+			'''
+			Teleports you to the cursor
+			Applies Stagnation Sickness for 4 seconds
+			While sickened: +15% damage taken
+			'''
+	}
+
+	ShadowMantle: {
+		DisplayName: Shadow Mantle
+		Tooltip:
+			'''
+			Reduces damage from Dark/Star based attacks by 66%.
+			Increased flight duration by 50%.
+			5% increased damage.
+			'''
+	}
+
+	ERAMSummon: {
+		DisplayName: Game Controller
+		Tooltip: A pink and yellow game controller. Want to play a round?
+	}
+
+	CloudyGlasses: {
+		DisplayName: Cloudy Glasses
+		Tooltip:
+			'''
+			[c/FF00FF:Requires PERSEVERANCE soul trait.]
+			[c/FF00FF:+3 Perseverance investment points.]
+			[c/FF00FF:Increases invulnerability frames by 0.3 seconds when hit.]
+			'''
+	}
+
+	PrismaticGlasses: {
+		DisplayName: Prismatic Glasses
+		Tooltip:
+			'''
+			[c/FF00FF:Requires PERSEVERANCE soul trait.]
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF00FF:Increases invulnerability frames by 0.3 seconds when hit.]
+			[c/FF00FF:Increases mana regeneration while immune.]
+			Restores mana when damaged
+			Increases pickup range for mana stars
+			'''
+	}
+
+	TornNotebook: {
+		DisplayName: Torn Notebook
+		Tooltip:
+			'''
+			[c/FF00FF:Words have power.]
+			[c/FF00FF:Requires PERSEVERANCE soul trait.]
+			[c/FF00FF:+3 Perseverance investment points.]
+			[c/FF00FF:Fires letters stored in your book. Each letter costs 20 mana.]
+			[c/FF00FF:Spending letter mana briefly delays mana regeneration.]
+			[c/FF00FF:While in Rogue Stealth: Letters cost half mana.]
+			[c/FF00FF:Right-click to write in the book. Certain words have special effects.]
+			'''
+	}
+
+	CowboyHat: {
+		DisplayName: Cowboy Hat
+		Tooltip:
+			'''
+			[c/FFFF00:Requires JUSTICE soul trait.]
+			[c/FFFF00:+3 Justice investment points.]
+			[c/FFFF00:Critical hits increase global attack speed by 10% for 0.2 seconds.]
+			'''
+	}
+
+	SheriffHat: {
+		DisplayName: Sheriff Hat
+		Tooltip:
+			'''
+			[c/FFFF00:Requires JUSTICE soul trait.]
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF00:Critical hits increase global attack speed by 10% for 0.2 seconds.]
+			[c/FFFF00:Hypercritical Hits grant an additional 20% attack speed for 0.6 seconds!]
+			Allows the holder to triple jump
+			Increases jump height
+			Negates fall damage
+			'''
+	}
+
+	FadedRibbon: {
+		DisplayName: Faded Ribbon
+		Tooltip:
+			'''
+			[c/00FFFF:Requires PATIENCE soul trait.]
+			[c/00FFFF:+3 Patience investment points.]
+			[c/00FFFF:While at max health, take 30% decreased damage.]
+			'''
+	}
+
+	HeartLocket: {
+		DisplayName: Heart Locket
+		Tooltip:
+			'''
+			[c/FF0000:Requires DETERMINATION soul trait.]
+			[c/FF0000:+3 Determination investment points.]
+			[c/FF0000:Gain increasing bonuses to all stats as your health gets lower.]
+			'''
+	}
+
+	TrueHeartLocket: {
+		DisplayName: True Heart Locket
+		Tooltip:
+			'''
+			[c/FF0000:Requires DETERMINATION soul trait.]
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF0000:Gain greatly increased bonuses to all stats as your health gets lower.]
+			[c/FF0000:Up to +25% damage, +25% attack speed, +15 defense, +15% movement speed.]
+			Increases length of invincibility after taking damage
+			'''
+	}
+
+	ManlyBandana: {
+		DisplayName: Manly Bandana
+		Tooltip:
+			'''
+			[c/FFA500:Requires BRAVERY soul trait.]
+			[c/FFA500:+3 Bravery investment points.]
+			[c/FFA500:Gain increased damage based on your current velocity, up to 10%.]
+			'''
+	}
+
+	BurningBandana: {
+		DisplayName: Burning Bandana
+		Tooltip:
+			'''
+			[c/FFA500:Requires BRAVERY soul trait.]
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFA500:Gain increased damage based on your current velocity, up to 20%.]
+			Provides the ability to run super fast
+			Provides the ability to walk on water and lava
+			Provides immunity to fire blocks and 7 seconds of lava immunity
+			'''
+	}
+
+	OldTuTu: {
+		DisplayName: Old TuTu
+		Tooltip:
+			'''
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+3 Integrity investment points.]
+			[c/0000FF:Press the DASH key to perform an evasive maneuver that inverts your velocity at half speed.]
+			'''
+	}
+
+	SturdySkirt: {
+		DisplayName: Sturdy Skirt
+		Tooltip:
+			'''
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Press the DASH key to perform an evasive maneuver that inverts your velocity at half speed.]
+			[c/0000FF:Damage taken is converted into tick poison damage over 2 seconds.]
+			+6 defense
+			'''
+	}
+
+	StainedApron: {
+		DisplayName: Stained Apron
+		Tooltip:
+			'''
+			[c/32CD32:Requires KINDNESS soul trait.]
+			[c/32CD32:+3 Kindness investment points.]
+			[c/32CD32:All healing done to nearby teammates and town NPCs is applied to you as well.]
+			'''
+	}
+
+	CaringApron: {
+		DisplayName: Caring Apron
+		Tooltip:
+			'''
+			[c/32CD32:Requires KINDNESS soul trait.]
+			[c/32CD32:+6 Kindness investment points.]
+			[c/32CD32:All healing done to nearby teammates and town NPCs is applied to you as well.]
+			[c/32CD32:Mirrored healing reduces potion sickness by 1/4th the heal in seconds (max 1s).]
+			Enemies are less likely to target you
+			5% increased damage
+			'''
+	}
+
+	CuteBow: {
+		DisplayName: Cute Bow
+		Tooltip:
+			'''
+			[c/00FFFF:Requires PATIENCE soul trait.]
+			[c/00FFFF:+6 Patience investment points.]
+			[c/00FFFF:While at max health, take 50% decreased damage.]
+			[c/00FFFF:Significantly increased life regeneration when near full health.]
+			'''
+	}
+
+	DarkFragment: {
+		DisplayName: Dark Fragment
+		Tooltip: A shard of condensed darkness, pulsing with latent power.
+	}
+
+	EmptyEmblem: {
+		DisplayName: Empty Emblem
+		Tooltip:
+			'''
+			An emblem devoid of purpose, yet brimming with potential.
+			+25 max life
+			+2 defense
+			'''
+	}
+
+	DeterminationEmblem: {
+		DisplayName: Determination Emblem
+		Tooltip:
+			'''
+			[c/FF3C3C:Requires DETERMINATION soul trait.]
+			[c/FF3C3C:+5 Determination investment points.]
+			[c/FF3C3C:+25 max life, +2 defense, +6% global damage.]
+			[c/FF3C3C:Determination Mark cooldown decreased by 30 seconds.]
+			'''
+	}
+
+	IntegrityEmblem: {
+		DisplayName: Integrity Emblem
+		Tooltip:
+			'''
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+5 Integrity investment points.]
+			[c/0000FF:+25 max life, +10 defense.]
+			[c/0000FF:Integrity Mark now lasts for 3 hits instead of 1.]
+			'''
+	}
+
+	PatienceEmblem: {
+		DisplayName: Patience Emblem
+		Tooltip:
+			'''
+			[c/50FFFF:Requires PATIENCE soul trait.]
+			[c/50FFFF:+5 Patience investment points.]
+			[c/50FFFF:+25 max life, +2 defense.]
+			[c/50FFFF:Increased rogue stealth generation by 15%.]
+			[c/50FFFF:Patience Mark reaches full resistance 10 seconds faster.]
+			'''
+	}
+
+	PerseveranceEmblem: {
+		DisplayName: Perseverance Emblem
+		Tooltip:
+			'''
+			[c/FF50FF:Requires PERSEVERANCE soul trait.]
+			[c/FF50FF:+5 Perseverance investment points.]
+			[c/FF50FF:+25 max life, +2 defense, +50 max mana.]
+			[c/FF50FF:Perseverance Mark is now permanently active.]
+			'''
+	}
+
+	KindnessEmblem: {
+		DisplayName: Kindness Emblem
+		Tooltip:
+			'''
+			[c/50E650:Requires KINDNESS soul trait.]
+			[c/50E650:+5 Kindness investment points.]
+			[c/50E650:+25 max life, +2 defense.]
+			[c/50E650:Healing effectiveness increased by 25%.]
+			[c/50E650:Kindness Mark duration increased by 10 seconds.]
+			'''
+	}
+
+	JusticeEmblem: {
+		DisplayName: Justice Emblem
+		Tooltip:
+			'''
+			[c/FFFF50:Requires JUSTICE soul trait.]
+			[c/FFFF50:+5 Justice investment points.]
+			[c/FFFF50:+25 max life, +2 defense.]
+			[c/FFFF50:Gain an extra Justice double jump.]
+			[c/FFFF50:Justice Mark now guarantees a Hypercrit instead of a normal critical hit.]
+			'''
+	}
+
+	BraveryEmblem: {
+		DisplayName: Bravery Emblem
+		Tooltip:
+			'''
+			[c/FFBE3C:Requires BRAVERY soul trait.]
+			[c/FFBE3C:+5 Bravery investment points.]
+			[c/FFBE3C:+50 max life, +2 defense.]
+			[c/FFBE3C:Bravery Marks also grant +20% increased weapon damage that scales with proximity.]
+			'''
+	}
+
+	DeterminationArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/FF3C3C:Imbued with Determination.]
+			A projectile that defies time and space.
+			Pauses briefly before dashing forward at high speed.
+			[c/FF3C3C:5% increased damage.]
+			'''
+	}
+
+	IntegrityArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/0000FF:Imbued with Integrity.]
+			A projectile that defies time and space.
+			[c/0000FF:Pauses briefly before dashing forward at reduced speed. Larger projectile.]
+			'''
+	}
+
+	PatienceArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/50FFFF:Imbued with Patience.]
+			A projectile that defies time and space.
+			[c/50FFFF:Extended pause before dashing forward at high speed. 15% increased damage.]
+			'''
+	}
+
+	PerseveranceArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/FF50FF:Imbued with Perseverance.]
+			A projectile that defies time and space.
+			Pauses briefly before dashing forward at high speed.
+			[c/FF50FF:After hitting a target, pierces through for a moment then re-aims for 25% damage.]
+			'''
+	}
+
+	KindnessArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/50E650:Imbued with Kindness.]
+			A projectile that defies time and space.
+			[c/50E650:Pauses briefly before dashing forward. Pierces enemies and heals allies for 4% of its damage.]
+			'''
+	}
+
+	JusticeArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/FFFF50:Imbued with Justice.]
+			A projectile that defies time and space.
+			Pauses briefly before dashing forward at high speed.
+			[c/FFFF50:Critical strikes cause small explosions.]
+			'''
+	}
+
+	BraveryArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			[c/FFBE3C:Imbued with Bravery.]
+			A projectile that defies time and space.
+			[c/FFBE3C:Pause duration decreases as your health gets lower, then dashes forward at high speed.]
+			'''
+	}
+
+	DeterminationBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/FF3C3C:Imbued with Determination.]
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			When 6 bullets attach within 2 seconds, they explode.
+			[c/FF3C3C:8% increased bullet damage.]
+			'''
+	}
+
+	IntegrityBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/0000FF:Imbued with Integrity.]
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			[c/0000FF:Bullets do not explode. Decreases enemy armor by the number of bullets stuck, up to 10.]
+			'''
+	}
+
+	PatienceBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/50FFFF:Imbued with Patience.]
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			[c/50FFFF:When 12 bullets attach within 5 seconds, they explode for 20% increased damage.]
+			'''
+	}
+
+	PerseveranceBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/FF50FF:Imbued with Perseverance.]
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			When 6 bullets attach within 2 seconds, they explode.
+			[c/FF50FF:Consumes 25 mana to fire an additional bullet behind the first for half damage.]
+			'''
+	}
+
+	KindnessBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/50E650:Imbued with Kindness.]
+			A shell that hungers for violence.
+			[c/50E650:Tracks toward and heals allies for 10% of damage instead of attacking.]
+			'''
+	}
+
+	JusticeBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/FFFF50:Imbued with Justice.]
+			[c/FFFF50:A shell that hungers for violence. 30% reduced base damage.]
+			Attaches to enemies on hit.
+			[c/FFFF50:When 6 bullets attach within 2 seconds, they explode as guaranteed crits with a chance to Hypercrit for 3x damage.]
+			'''
+	}
+
+	BraveryBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			[c/FFBE3C:Imbued with Bravery.]
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			When 6 bullets attach within 2 seconds, they explode.
+			[c/FFBE3C:Up to 25% increased damage at close range, decreasing with distance.]
+			'''
+	}
+
+	DarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to channel your will into the blade, and summon forth a Dark Fountain.
+			'''
+	}
+
+	DeterminationDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/FF3C3C:+7% critical strike chance.]
+			'''
+	}
+
+	IntegrityDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/0000FF:Larger and higher damaging projectiles, but affected by gravity more.]
+			'''
+	}
+
+	PatienceDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/50FFFF:20% less base damage. 50% increased Stealth Strike damage.]
+			'''
+	}
+
+	PerseveranceDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/FF50FF:Consumes 250 mana to perform a Stealth Strike without max stealth meter.]
+			'''
+	}
+
+	KindnessDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			A knife imbued with dark intent.
+			Right click to summon forth a Dark Fountain.
+			[c/50E650:Hitting a target creates a seeking knife on a random nearby ally, yourself included.]
+			[c/50E650:Being hit by this knife heals for 5% base damage.]
+			'''
+	}
+
+	JusticeDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/FFFF50:Critical hits with the Stealth Strike refund 10 stealth meter.]
+			'''
+	}
+
+	BraveryDarkShard: {
+		DisplayName: Dark Shard
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			A knife imbued with dark intent.
+			When the knife hits a target, it creates a Seeking Knife near the target.
+			Right click to summon forth a Dark Fountain.
+			[c/FFBE3C:Removed Stealth Strike. Each hit spawns two Seeking Knives.]
+			'''
+	}
+
+	DeterminationBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			[c/FF3C3C:+8% total damage.]
+			'''
+	}
+
+	IntegrityBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			A wicked bow, broken from battle.
+			[c/0000FF:Fires only 2 arrows per shot with doubled fire rate.]
+			'''
+	}
+
+	PatienceBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			[c/50FFFF:20% reduced fire rate, but no longer consumes ammo.]
+			'''
+	}
+
+	PerseveranceBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			[c/FF50FF:Consume 100 mana per volley to fire 4 additional arrows.]
+			'''
+	}
+
+	KindnessBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			[c/50E650:While firing, spawns arrows behind you and nearby allies aimed at the nearest enemy.]
+			'''
+	}
+
+	JusticeBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			[c/FFFF50:Each double jump used before firing adds 2 more arrows to the volley.]
+			'''
+	}
+
+	BraveryBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			A wicked bow, broken from battle.
+			[c/FFBE3C:All arrows converge to a single point in front of you.]
+			'''
+	}
+
+	DeterminationSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/FF3C3C:+8% clone damage.]
+			'''
+	}
+
+	IntegritySummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/0000FF:Spawns 2 clones per minion slot instead of 1.]
+			'''
+	}
+
+	PatienceSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/50FFFF:Passively gain more Stealth meter based on how many clones there are.]
+			'''
+	}
+
+	PerseveranceSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/FF50FF:Clones deal Magic damage instead of Summon damage.]
+			'''
+	}
+
+	KindnessSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			Your shadow given form.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/50E650:Each clone orbits a nearby ally and throws a healing pickup to them every second.]
+			'''
+	}
+
+	JusticeSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			[c/FFFF50:Clones fire a Justice beam at nearby targets instead of a whip attack.]
+			'''
+	}
+
+	BraverySummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around damaged targets.
+			Clones mirror your attacks with a whip swing on a 1 second cooldown.
+			[c/FFBE3C:Clones deal Melee impact damage and occasionally dash toward enemies.]
+			'''
+	}
+
+	DeterminationGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			[c/FF3C3C:+10% critical strike chance.]
+			'''
+	}
+
+	IntegrityGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			[c/0000FF:Each stack increases defense by 0.25, up to +5 extra defense.]
+			'''
+	}
+
+	PatienceGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			[c/50FFFF:Max stacks increased to 30 with a higher maximum fire rate.]
+			'''
+	}
+
+	PerseveranceGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			[c/FF50FF:Weapon deals Ranged and Magic damage.]
+			'''
+	}
+
+	KindnessGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			[c/50E650:Healing any ally adds two stacks.]
+			'''
+	}
+
+	JusticeGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			[c/FFFF50:Critical or Hypercritical hits add an additional stack.]
+			'''
+	}
+
+	BraveryGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			A firearm that's hollow of spirit and meaning.
+			Max 10 stacks.
+			[c/FFBE3C:Stacks no longer increase fire rate. Each stack adds another pellet to the shot.]
+			'''
+	}
+
+	DeterminationWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/FF3C3C:+10% damage.]
+			'''
+	}
+
+	IntegrityWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/0000FF:Grants 25% damage reduction while charging the right click.]
+			'''
+	}
+
+	PatienceWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			Hold down right click to charge up a lunge.
+			[c/50FFFF:Maximum marks increased to 7. Max damage increased by 20%.]
+			'''
+	}
+
+	PerseveranceWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/FF50FF:Weapon deals Melee and Magic damage.]
+			[c/FF50FF:Hold past full charge to drain mana, increasing lunge damage.]
+			'''
+	}
+
+	KindnessWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/50E650:Chain lunges can target allies, healing them for 10% of weapon damage.]
+			'''
+	}
+
+	JusticeWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/FFFF50:Lunge attacks always Hypercrit at 3x damage.]
+			'''
+	}
+
+	BraveryWillbreaker: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At max marks, lunge attacks deal devastating damage and always crit.
+			Hold down right click to charge up a lunge.
+			[c/FFBE3C:Enemies that damage you automatically receive maximum marks.]
+			'''
+	}
+
+	DeterminationGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/FF3C3C:+10% whip range and damage.]
+			'''
+	}
+
+	IntegrityGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/0000FF:Hits grant 5% damage reduction while the struck target is alive.]
+			'''
+	}
+
+	PatienceGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/50FFFF:-50% whip damage, but struck enemies take +15 bonus damage from summons.]
+			'''
+	}
+
+	PerseveranceGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/FF50FF:Consumes 25 mana on use to gain +25% attack speed for 3 seconds.]
+			'''
+	}
+
+	KindnessGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/50E650:Allies touched by the whip gain 20% movement speed, control, and damage.]
+			[c/50E650:Buff duration scales with the Lingering reforge.]
+			'''
+	}
+
+	JusticeGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/FFFF50:When a summon lands a critical hit, your next whip attack will Hypercrit.]
+			'''
+	}
+
+	BraveryGnomon: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			[c/FFBE3C:-30% whip range, +40% attack speed.]
+			'''
+	}
+
+	DeterminationClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/FF3C3C:+8% critical strike chance.]
+			'''
+	}
+
+	IntegrityClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/0000FF:Allies near the Powerful Orb gain 10% damage reduction.]
+			'''
+	}
+
+	PatienceClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/50FFFF:The Powerful Orb's explosion grants Patience stealth based on damage dealt.]
+			'''
+	}
+
+	PerseveranceClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/FF50FF:50% increased fire rate. Stars are smaller and contribute 30% less to orb size and damage.]
+			'''
+	}
+
+	KindnessClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/50E650:The orb tracks to a nearby ally. Absorbing stars heals them for 2 HP.]
+			[c/50E650:The orb passes through terrain but can still damage enemies.]
+			'''
+	}
+
+	JusticeClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/FFFF50:The Powerful Orb always crits. Crit chance is converted into Hypercrit chance.]
+			[c/FFFF50:Has a base 35% damage penalty.]
+			'''
+	}
+
+	BraveryClarity: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			[c/FFBE3C:The Powerful Orb always follows you and passes through terrain.]
+			'''
+	}
+
+	DeterminationStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/FF0000:+6 Determination investment points.]
+			[c/FF3C3C:Imbued with Determination.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/FF3C3C:+8% weapon damage.]
+			'''
+	}
+
+	IntegrityStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Imbued with Integrity.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/0000FF:Stars deal 20% increased damage.]
+			'''
+	}
+
+	PatienceStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/00FFFF:+6 Patience investment points.]
+			[c/50FFFF:Imbued with Patience.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/50FFFF:Stars spawn less frequently but last much longer, slowly tracking enemies after a few seconds.]
+			'''
+	}
+
+	PerseveranceStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF50FF:Imbued with Perseverance.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown. [c/FF50FF:Consume 100 mana to avoid the cooldown.]
+			[c/FF50FF:Stars last much longer.]
+			'''
+	}
+
+	KindnessStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/32CD32:+6 Kindness investment points.]
+			[c/50E650:Imbued with Kindness.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/50E650:Stars no longer spawn. Instead, the yoyo drops a healing pickup every 0.5 seconds.]
+			'''
+	}
+
+	JusticeStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/FFFF00:+6 Justice investment points.]
+			[c/FFFF50:Imbued with Justice.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/FFFF50:Stars no longer spawn. Instead, the yoyo fires Justice Lasers at random nearby enemies, guaranteed to Hypercrit.]
+			'''
+	}
+
+	BraveryStatic: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFBE3C:Imbued with Bravery.]
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			[c/FFBE3C:Stars last much longer and always slowly drift toward the player after spawning.]
+			'''
+	}
+
+	KnightTrophy: {
+		DisplayName: Roaring Knight Trophy
+		Tooltip: ""
+	}
+
+	KnightRelic: {
+		DisplayName: Roaring Knight Relic
+		Tooltip: ""
+	}
+
+	JevilTrophy: {
+		DisplayName: Jevil Trophy
+		Tooltip: ""
+	}
+
+	JevilRelic: {
+		DisplayName: Jevil Relic
+		Tooltip: ""
+	}
+
+	TitanTrophy: {
+		DisplayName: Titan Trophy
+		Tooltip: ""
+	}
+
+	TitanRelic: {
+		DisplayName: Titan Relic
+		Tooltip: ""
+	}
+
+	FloweyTrophy: {
+		DisplayName: Omega Flowey Trophy
+		Tooltip: ""
+	}
+
+	FloweyRelic: {
+		DisplayName: Omega Flowey Relic
+		Tooltip: ""
+	}
+
+	RoaringYoyo: {
+		DisplayName: Static
+		Tooltip:
+			'''
+			A childish form for a volatile substance.
+			Emits Star projectiles in a rotating pattern around the yoyo.
+			Right Click to pull all stars back towards the Yoyo. 2 second cooldown.
+			'''
+	}
+
+	RoaringRing: {
+		DisplayName: Roaring Ring
+		Tooltip:
+			'''
+			A ring bearing the knight's dark energy.
+			6% increased damage
+			8% increased movement speed
+			Leaves afterimages of movement in your wake.
+			Afterimages work even in the vanity slot.
+			'''
+	}
+
+	RoaringShield: {
+		DisplayName: Roaring Shield
+		Tooltip:
+			'''
+			A shield forged from the knight's splintered remains.
+			4% damage reduction
+			Dash to transform into a rolling sphere and dash a far distance.
+			Deals contact damage and grants brief immunity during the dash.
+			'''
+	}
+
+	RoaringLens: {
+		DisplayName: Roaring Lens
+		Tooltip:
+			'''
+			A fractured lens containing the knight's watchful eye.
+			Can be equipped as an accessory.
+			4% increased damage
+			8% increased critical strike chance
+			Summons a sphere and eye that illuminate your surroundings.
+			The eye tracks nearby enemies and shines a beam at the closest one.
+			'''
+	}
+
+	RoaringBow: {
+		DisplayName: Immutable
+		Tooltip:
+			'''
+			A wicked bow, broken from battle.
+			Fires six arrows in a V shaped pattern.
+			'''
+	}
+
+	RoaringArrow: {
+		DisplayName: Dark Arrow
+		Tooltip:
+			'''
+			A projectile that defies time and space.
+			Pauses briefly before dashing forward at high speed.
+			'''
+	}
+
+	RoaringGun: {
+		DisplayName: Dissonance
+		Tooltip:
+			'''
+			A firearm that's hollow of spirit and meaning.
+			Fire rate increases on hit, decreases on miss.
+			Max 20 stacks.
+			'''
+	}
+
+	RoaringSword: {
+		DisplayName: Willbreaker
+		Tooltip:
+			'''
+			'With this blade, I deliver finality.'
+			Marks enemies with an Eye of Judgment on hit.
+			At 5 marks, lunge attacks deal triple damage and always crit.
+			Hold down right click to charge up a lunge. Release to lunge forward and attack enemies.
+			Lunges will continue to chain onto Marked enemies until the attack misses.
+			'''
+	}
+
+	RoaringBullet: {
+		DisplayName: Dark Bullet
+		Tooltip:
+			'''
+			A shell that hungers for violence.
+			Attaches to enemies on hit.
+			When 6 bullets attach within 2 seconds, they explode.
+			'''
+	}
+
+	RoaringTome: {
+		DisplayName: Clarity
+		Tooltip:
+			'''
+			A book with no knowledge to gleam, but consequence.
+			Fires piercing star projectiles that cost no mana.
+			Right click to release a slow, powerful orb that absorbs stars, at the cost of all your mana.
+			The orb grows in size, speed, and damage with each absorbed star.
+			'''
+	}
+
+	RoaringBreastplate: {
+		DisplayName: Roaring Breastplate
+		Tooltip:
+			'''
+			Roar like the waves crashing against the sea.
+			The user takes no knockback.
+			+30 max life
+			+40 max mana
+			4% damage reduction
+			'''
+	}
+
+	RoaringLeggings: {
+		DisplayName: Roaring Leggings
+		Tooltip:
+			'''
+			A chosen path. A desolate future.
+			+10% movement speed
+			+10% acceleration rate
+			+1 jump speed boost
+			'''
+	}
+
+	TitansBreastplate: {
+		DisplayName: Titan's Breastplate
+		Tooltip:
+			'''
+			Its heart still beats.
+			The user takes no knockback
+			6% increased damage
+			Debuffs expire 30% faster
+			'''
+	}
+
+	TitansLeggings: {
+		DisplayName: Titan's Leggings
+		Tooltip:
+			'''
+			Walk among Titans.
+			6% increased critical strike chance
+			Increased fall speed
+			'''
+	}
+
+	TitansRanger: {
+		DisplayName: Titan's Mask
+		Tooltip:
+			'''
+			All armor has cracks.
+			8% increased ranged critical strike chance
+			'''
+	}
+
+	TitansMelee: {
+		DisplayName: Titan's Helmet
+		Tooltip:
+			'''
+			Through sheer force alone.
+			8% increased melee critical strike chance
+			'''
+	}
+
+	TitansRogue: {
+		DisplayName: Titan's Hood
+		Tooltip:
+			'''
+			Hidden in plain sight.
+			8% increased rogue critical strike chance
+			'''
+	}
+
+	TitansMagic: {
+		DisplayName: Titan's Hat
+		Tooltip:
+			'''
+			Power dwarfs knowledge.
+			8% increased magic critical strike chance
+			'''
+	}
+
+	TitansSummon: {
+		DisplayName: Titan's Headgear
+		Tooltip:
+			'''
+			An insurmountable army.
+			8% increased magic critical strike chance
+			+1 max minion
+			'''
+	}
+
+	RoaringHelmet: {
+		DisplayName: Roaring Helmet
+		Tooltip:
+			'''
+			Your wrath cuts deeper than the shadows.
+			+10% melee attack speed.
+			'''
+	}
+
+	RoaringMask: {
+		DisplayName: Roaring Mask
+		Tooltip:
+			'''
+			A mask that sharpens a hunter's gaze.
+			+12% ranged critical strike chance
+			'''
+	}
+
+	RoaringHood: {
+		DisplayName: Roaring Hood
+		Tooltip:
+			'''
+			A hood to hide your darkest intentions.
+			+12% magic damage
+			+15 mana regeneration bonus
+			'''
+	}
+
+	RoaringHeadpiece: {
+		DisplayName: Roaring Headpiece
+		Tooltip:
+			'''
+			The shadows are yours to command.
+			+12% whip speed
+			+8% whip damage
+			'''
+	}
+
+	RoaringCowl: {
+		DisplayName: Roaring Cowl
+		Tooltip:
+			'''
+			Embrace the darkness, and become the shadows.
+			+8% critical strike chance
+			+10% movement speed
+			'''
+	}
+
+	RoaringWhip: {
+		DisplayName: Gnomon
+		Tooltip:
+			'''
+			Bend your foes to your will.
+			Your summons focus struck enemies.
+			Whip hits summon a rotating slash attack centered around the target struck.
+			Umbral clones also gain this ability while using this whip.
+			'''
+	}
+
+	RoaringSummon: {
+		DisplayName: Silhouette
+		Tooltip:
+			'''
+			Your shadow given form.
+			Summons an Umbral clone that mirrors your movement around whip-marked targets.
+			Multiple clones form strategic patterns around enemies.
+			Clones will mirror all player whip attacks.
+			'''
+	}
+
+	TitanForgeItem: {
+		Tooltip: ""
+		DisplayName: Titan Forge
+	}
+
+	SoulStationItem: {
+		DisplayName: Soul Station
+		Tooltip: A workstation for imbuing weapons and soulbound keepsakes with Soul Sparks.
+	}
+
+	BaseballBat: {
+		DisplayName: Baseball Bat
+		Tooltip: Raise up your bat for the burning fight!
+	}
+
+	RustyKnife: {
+		DisplayName: Rusty Knife
+		Tooltip:
+			'''
+			[c/FF0000:A worn blade that resonates with DETERMINATION.]
+			[c/FF0000:Requires the DETERMINATION Trait to use.]
+			[c/FF0000:+3 Determination Investment]
+			[c/FF0000:Melee attacks restore 20 Mana.]
+			[c/FF0000:Right click to consume 200 mana and begin a Timed Attack.]
+			[c/FF0000:Time the marker to the center for up to 10x damage on the ranged slash.]
+			'''
+	}
+
+	FryingPan: {
+		DisplayName: Frying Pan
+		Tooltip:
+			'''
+			[c/32CD32:A well-seasoned pan that resonates with KINDNESS.]
+			[c/32CD32:Requires the KINDNESS Trait to use.]
+			[c/32CD32:+3 Kindness Investment]
+			[c/32CD32:Converts ammo into eggs that spawn healing pickups on hit.]
+			'''
+	}
+
+	CookingPot: {
+		DisplayName: Cooking Pot
+		Tooltip:
+			'''
+			[c/32CD32:"A charmed pot brimming with KINDNESS."]
+			[c/32CD32:Requires the KINDNESS Trait to use.]
+			[c/32CD32:+6 Kindness Investment]
+			[c/32CD32:Fires a cone of green energy. Each enemy can only be hit once per blast.]
+			[c/32CD32:Enemies hit spawn healing pickups.]
+			[c/32CD32:While selecting a compatable item, right click the Cooking Pot to add it to the pot:]
+			[c/32CD32: - Flask: Applies its debuff to enemies hit.]
+			[c/32CD32: - Food: Heals allies caught in the cone.]
+			[c/32CD32: - Alcohol: Buffs allies hit for 1 second.]
+			'''
+	}
+
+	CastIronGoliath: {
+		DisplayName: Cast Iron Goliath
+		Tooltip:
+			'''
+			[c/32CD32:A colossal pot forged for KINDNESS.] 
+			[c/32CD32:Requires the KINDNESS Trait to use.]
+			[c/32CD32:+10 Kindness Investment]
+			[c/32CD32:Fires a cone of green energy. Each enemy can only be hit once per blast.]
+			[c/32CD32:Enemies hit spawn healing pickups.]
+			[c/32CD32:Food stored inside heals allies for more HP.]
+			[c/32CD32:While selecting a compatible item, right click the Cast Iron Goliath to add it to the pot:]
+			[c/32CD32: - Flask: Applies its debuff to enemies hit.]
+			[c/32CD32: - Food: Heals allies caught in the cone for more HP.]
+			[c/32CD32: - Alcohol: Buffs allies hit for 1 second.]
+			[c/32CD32: - Buff Potion: Grants allies its buff for 3 seconds.]
+			'''
+	}
+
+	HollowGun: {
+		DisplayName: Hollow Gun
+		Tooltip:
+			'''
+			[c/FFFF00:An empty gun. Yours to fill with purpose.]
+			[c/FFFF00:Requires the JUSTICE Trait to use.]
+			[c/FFFF00:+3 Justice Investment]
+			[c/FFFF00:When using any Double Jump, marks the highest health enemy nearby.]
+			[c/FFFF00:Your next shot fires an auto-homing Justice beam that critically hits. Your summons will focus struck enemies.]
+			'''
+	}
+
+	BalletShoes: {
+		DisplayName: Ballet Shoes
+		Tooltip:
+			'''
+			[c/0000FF:Dance through the battlefield with grace.]
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+3 Integrity investment points.]
+			[c/0000FF:Launch yourself toward your cursor.]
+			[c/0000FF:Hitting enemies focuses your summons on them.]
+			[c/0000FF:Parrying or hitting enemies grants a Grace Stack which increases damage (max 3).]
+			[c/0000FF:Grace Stacks are consumed when taking damage to halve it.]
+			'''
+	}
+
+	AerodynamicBoots: {
+		DisplayName: Aerodynamic Boots
+		Tooltip:
+			'''
+			[c/0000FF:"There is strength in simplicity."]
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+6 Integrity investment points.]
+			[c/0000FF:Launch yourself toward your cursor.]
+			[c/0000FF:Hitting enemies focuses your summons on them.]
+			[c/0000FF:Parrying or hitting grants a Grace Stack (max 5).]
+			[c/0000FF:More stacks increase air maneuverability and dash damage.]
+			[c/0000FF:Grace Stacks are consumed when taking damage to halve it.]
+			'''
+	}
+
+	SteadfastV1: {
+		DisplayName: Steadfast V1
+		Tooltip:
+			'''
+			[c/0000FF:"Prototype boots that allow for free movement."]
+			[c/0000FF:Requires INTEGRITY soul trait.]
+			[c/0000FF:+8 Integrity investment points.]
+			[c/0000FF:While held, gain 25% passive damage reduction.]
+			[c/0000FF:Dash toward your cursor. Up to 5 air dashes before landing.]
+			[c/0000FF:Hitting an enemy resets your air dash counter and focuses your summons on them.]
+			[c/0000FF:Dashing into enemy projectiles parries and reflects them.]
+			[c/0000FF:Dashing into enemies parries them and grants brief invulnerability.]
+			'''
+	}
+
+	ToyKnife: {
+		DisplayName: Toy Knife
+		Tooltip:
+			'''
+			[c/00FFFF:A dull plastic blade. Not very threatening.]
+			[c/00FFFF:Requires PATIENCE trait to use.]
+			[c/00FFFF:+3 Patience investment points.]
+			[c/00FFFF:Hits grant 20 mana.]
+			[c/00FFFF:Hitting while at full mana grants temporary bonus capacity to stealth and mana.]
+			'''
+	}
+
+	ToyerKnife: {
+		DisplayName: Toyer Knife
+		Tooltip:
+			'''
+			[c/00FFFF:"Be patient. You'll get a real weapon soon enough".]
+			[c/00FFFF:Requires PATIENCE trait to use.]
+			[c/00FFFF:+6 Patience investment points.]
+			[c/00FFFF:Hits grant 20 mana.]
+			[c/00FFFF:Hitting while at full mana grants temporary bonus capacity to stealth and mana.]
+			[c/00FFFF:While held, grants "Virtue".]
+			[c/00FFFF:Virtue builds up to 10 seconds and drains when you swap weapons.]
+			'''
+	}
+
+	PatienceLament: {
+		DisplayName: Patience Lament
+		Tooltip:
+			'''
+			[c/50DCFF:A blade tempered by long-suffering PATIENCE.]
+			[c/50DCFF:Requires PATIENCE trait to use.]
+			[c/50DCFF:+10 Patience investment points.]
+			[c/50DCFF:Hits grant 20 mana.]
+			[c/50DCFF:Hitting while at full mana grants temporary bonus capacity to stealth and mana.]
+			[c/50DCFF:While held, grants "Virtue's Lament".]
+			[c/50DCFF:Virtue's Lament builds up to 10 seconds and drains when you swap weapons.]
+			[c/50DCFF:Grants +15% damage, +15% attack speed and +15 crit chance, scaling up to double effectiveness at max duration (+30% / +30% / +30).]
+			'''
+	}
+
+	PatienceLamentProjectile.DisplayName: Patience Lament
+
+	ToughGlove: {
+		DisplayName: Tough Glove
+		Tooltip:
+			'''
+			[c/FFA500:A worn boxing glove. Still packs a punch!]
+			[c/FFA500:Requires BRAVERY trait to use.]
+			[c/FFA500:+3 Bravery investment points.]
+			[c/FFA500:Fires flaming fist projectiles. Better movement capabilities while equipped.]
+			[c/FFA500:Use Fire and Alt Fire to create combos.]
+			[c/FFA500:Small gloves apply Fire. Large gloves explode burning targets.]
+			'''
+	}
+
+	ToughGauntlet: {
+		DisplayName: Tough Gauntlet
+		Tooltip:
+			'''
+			[c/FFA500:A brutal gauntlet forged in BRAVERY.]
+			[c/FFA500:Requires BRAVERY trait to use.]
+			[c/FFA500:+6 Bravery investment points.]
+			[c/FFA500:Fires flaming fist projectiles. Faster combos and movement while equipped.]
+			[c/FFA500:Use Fire and Alt Fire to create combos.]
+			[c/FFA500:Small fists inflict Hellfire. Large fists detonate Hellfire in massive explosions.]
+			'''
+	}
+
+	Incandescent: {
+		DisplayName: Incandescent
+		Tooltip:
+			'''
+			[c/FFA500:Burn away any remaining fear.]
+			[c/FFA500:Requires BRAVERY trait to use.]
+			[c/FFA500:+10 Bravery investment points.]
+			[c/FFA500:Left click unleashes rapid fire punches that inflict Hellfire and On Fire.]
+			[c/FFA500:Consecutive hits build Combo meter up to 10x, massively boosting heavy attack damage.]
+			[c/FFA500:Holding and releasing Right click winds up a devastating heavy piercing attack that launches you forward.]
+			[c/FFA500:Hitting burning enemies with the heavy attack causes massive fire explosions.]
+			'''
+	}
+
+	MetalSlimeBanner: {
+		Tooltip: ""
+		DisplayName: Metal Slime Banner
+	}
+
+	DarkEyeBanner: {
+		Tooltip: ""
+		DisplayName: Dark Eye Banner
+	}
+
+	ArmoredZombieBanner: {
+		Tooltip: ""
+		DisplayName: Armored Zombie Banner
+	}
+
+	SparkOfPerseverance: {
+		Tooltip: ""
+		DisplayName: Spark Of Perseverance
+	}
+
+	SparkOfPatience: {
+		Tooltip: ""
+		DisplayName: Spark Of Patience
+	}
+
+	SparkOfKindness: {
+		Tooltip: ""
+		DisplayName: Spark Of Kindness
+	}
+
+	SparkOfJustice: {
+		Tooltip: ""
+		DisplayName: Spark Of Justice
+	}
+
+	SparkOfIntegrity: {
+		Tooltip: ""
+		DisplayName: Spark Of Integrity
+	}
+
+	SparkOfDetermination: {
+		Tooltip: ""
+		DisplayName: Spark Of Determination
+	}
+
+	PrismaticSpark: {
+		Tooltip: A radiant Soul Spark refined with Titan's blood.
+		DisplayName: Prismatic Spark
+	}
+
+	SparkOfBravery: {
+		Tooltip: ""
+		DisplayName: Spark Of Bravery
+	}
+
+	SoulCatalyst: {
+		DisplayName: Soul Catalyst
+		Tooltip: A blighted star with the power to manifest memories within long forgotten mementos.
+	}
+
+	JusticeDecree: {
+		DisplayName: Justice Decree
+		Tooltip:
+			'''
+			[c/FFFF00:A decree forged in righteous fire.]
+			[c/FFFF00:Requires the JUSTICE Trait to use.]
+			[c/FFFF00:+6 Justice Investment]
+			[c/FFFF00:When using any Double Jump, places up to 6 marks across nearby enemies.]
+			[c/FFFF00:Each shot fires at the next mark with an auto-homing Justice beam. Your summons will focus struck enemies.]
+			[c/FFFF00:All hits on targetted enemies are guaranteed critical strikes, and crit chance is converted into -Hypercrit- chance.]
+			[c/FFFF00:Hypercrits deal 3x damage instead of 2x.]
+			'''
+	}
+
+	SixShooter: {
+		DisplayName: Six Shooter
+		Tooltip:
+			'''
+			[c/FFFF00:Six chambers. No appeals.]
+			[c/FFFF00:Requires the JUSTICE Trait to use.]
+			[c/FFFF00:+8 Justice Investment]
+			[c/FFFF00:Fires Justice beams that always critically hit.]
+			[c/FFFF00:Crit chance is converted into -Hypercrit- chance.]
+			[c/FFFF00:Can fire up to 6 times before requiring a reload.]
+			[c/FFFF00:Right-click to fan fire wildly inaccurate beams at twice the speed.]
+			[c/FFFF00:Double Jumping automatically reloads the cylinder.]
+			'''
+	}
+
+	RealKnife: {
+		DisplayName: Real Knife
+		Tooltip:
+			'''
+			[c/FF0000:A blade forged from DETERMINATION.]
+			[c/FF0000:Requires the DETERMINATION Trait to use.]
+			[c/FF0000:+6 Determination Investment]
+			[c/FF0000:Melee attacks restore 20 Mana.]
+			[c/FF0000:Right click to consume 200 mana and begin a Timed Attack.]
+			[c/FF0000:Time the marker to the center for up to 15x damage on the ranged slash.]
+			'''
+	}
+
+	TrueKnife: {
+		DisplayName: True Knife
+		Tooltip:
+			'''
+			[c/FF0000:Finally.]
+			[c/FF0000:Requires the DETERMINATION Trait to use.]
+			[c/FF0000:+8 Determination Investment]
+			[c/FF0000:Melee attacks restore 20 Mana and release Determination projectiles.]
+			[c/FF0000:Right click to begin a Timed Attack.]
+			[c/FF0000:Time the marker to the center for up to 15x damage on a massive melee slash.]
+			'''
+	}
+
+	SpecialistsNotebook: {
+		DisplayName: Specialist's Notebook
+		Tooltip:
+			'''
+			[c/FF00FF:Words have power, refined and focused.]
+			[c/FF00FF:Requires PERSEVERANCE soul trait.]
+			[c/FF00FF:+6 Perseverance investment points.]
+			[c/FF00FF:Fires letters stored in your book. Each letter costs 12 mana.]
+			[c/FF00FF:Spending letter mana briefly delays mana regeneration.]
+			[c/FF00FF:While in Rogue Stealth: Letters cost half mana.]
+			[c/FF00FF:Right-click to write in the book. Certain words have special effects.]
+			[c/FF00FF:New words: SPLIT, PARTITION, BURST, BURROW.]
+			'''
+	}
+
+	TheAbstract: {
+		DisplayName: The Abstract
+		Tooltip:
+			'''
+			[c/A050FF:Every worthwhile paper has an Abstract.]
+			[c/A050FF:Requires PERSEVERANCE soul trait.]
+			[c/A050FF:+8 Perseverance investment points.]
+			[c/A050FF:Fires letters stored in your book. Each letter costs 5 mana.]
+			[c/A050FF:Spending letter mana briefly delays mana regeneration.]
+			[c/A050FF:While in Rogue Stealth: Letters cost half mana.]
+			[c/A050FF:Right-click to write in the book. Certain words have special effects.]
+			[c/A050FF:New words: HEAL, AURA, RAIN.]
+			'''
+	}
+
+	JevilBossBag: {
+		DisplayName: Jevil Boss Bag
+		Tooltip: ""
+	}
+
+	KnightBossBag: {
+		DisplayName: Knight Boss Bag
+		Tooltip: ""
+	}
+
+	TitanBossBag: {
+		DisplayName: Titan Boss Bag
+		Tooltip: ""
+	}
+
+	FloweyBossBag: {
+		DisplayName: Flowey Boss Bag
+		Tooltip: ""
+	}
+
+	ForthcomingWrath: {
+		DisplayName: Forthcoming Wrath
+		Tooltip:
+			'''
+			A glaive that cleaves through the air in rapid succession.
+			Each strike fans out three blades in a sweeping cone.
+			Every 9 hits charges a Forthcoming Strike that inflicts Titansbane for 10 seconds.
+			'''
+	}
+
+	LodestoneFork: {
+		DisplayName: Lodestone Fork
+		Tooltip:
+			'''
+			Fires magnetic chunks that phase through tiles and pierce enemies.
+			Chunks last 5 seconds; each enemy hit has a 1-second pierce cooldown.
+			Stealth Strikes deploy a lodestone magnetizer
+			The magnetizer sticks to tiles, enemies, or friendly players.
+			Nearby chunks are pulled toward it in a crackling electromagnetic field.
+			'''
+	}
+
+	TitansBaneFlask: {
+		DisplayName: Flask of Titansbane
+		Tooltip:
+			'''
+			Infuses melee attacks with Titansbane.
+			Compatible with the Cooking Pot.
+			'''
+	}
+
+	Titansblood: {
+		DisplayName: Titansblood
+		Tooltip: "'The lifeblood of a Titan, still warm.'"
+	}
+
+	Devilsknife: {
+		DisplayName: Devilsknife
+		Tooltip:
+			'''
+			"I'm a Jack of all Trades!"
+			Throws a spinning scythe that returns to you.
+			Hits spawn a random suit projectile on enemies
+			Stealth strikes throw four arcing scythes
+			'''
+	}
+
+	Soulflicker: {
+		DisplayName: Soulflicker
+		Tooltip:
+			'''
+			"A faint ember of still lingers within."
+			Permanently increases soul investment by 3
+			Can only be consumed once
+			'''
+	}
+
+	AceOfSpades: {
+		DisplayName: Ace of Spades
+		Tooltip:
+			'''
+			"Is it a 1, or an 11?"
+			Converts Musket Balls into piercing Spade projectiles
+			Spades can pierce up to three enemies
+			'''
+	}
+
+	QueenOfDiamonds: {
+		DisplayName: Queen of Diamonds
+		Tooltip:
+			'''
+			"She'll beat you if she's able."
+			Whip hits command your minions to attack
+			Each minion fires a diamond at the struck target
+			Up to 5 diamonds per hit
+			'''
+	}
+
+	KingOfHearts: {
+		DisplayName: King of Hearts
+		Tooltip:
+			'''
+			"Off with their heads!"
+			Hold to summon orbiting hearts, up to 10
+			Hearts cost 25 mana each
+			Release to send the heart swarm toward the cursor
+			'''
+	}
+
+	DeckOfCards: {
+		DisplayName: Deck of Cards
+		Tooltip:
+			'''
+			+0.5 luck
+			+4% critical strike chance
+			Hitting enemies creates a card over your head
+			At 5 cards, unleash a suit attack based on your poker hand
+			The 'Luck' stat improves chances at better hands
+			Cards can only be gained once per second
+			'''
+	}
+
+	OopsAllCrits: {
+		DisplayName: Oops All Crits
+		Tooltip:
+			'''
+			+0.15 luck
+			+45% critical strike chance
+			-22% total damage
+			'''
+	}
+
+	JackOfClubs: {
+		DisplayName: Jack of Clubs
+		Tooltip:
+			'''
+			"Hit the road."
+			Slam the ground to create a shockwave of clubs
+			Direct hits launch enemies into the air
+			Its immense weight carries you along with it
+			'''
+	}
+
+	Cascade: {
+		DisplayName: Cascade
+		Tooltip:
+			'''
+			A crossbow of immense destructive power.
+			Converts all arrows into a high-velocity bolt that sticks to any surface or enemy.
+			The bolt pulls nearby enemies toward it, then detonates for massive damage.
+			While attached, it calls in 8 copies of the loaded arrows from afar.
+			Consumes 3 arrows per shot.
+			'''
+	}
+
+	ShatteredGlass: {
+		DisplayName: Shattered Glass
+		Tooltip:
+			'''
+			Fires a deep blue beam of fractured light.
+			Hits create glass shards around enemies for a short time.
+			Further hits ricochet between the shards for extra damage.
+			'''
+	}
+
+	Leyline: {
+		DisplayName: Leyline
+		Tooltip:
+			'''
+			A whip that behaves like a living grapple.
+			Hooks to enemies or the cursor and reels you in over time.
+			Enemies touching the tether take repeated damage.
+			Release while latched onto an enemy to deal up to 10x damage.
+			This release damage maxes out after 2 seconds attached.
+			'''
+	}
+
+	TitansArrow: {
+		DisplayName: Titan's Arrow
+		Tooltip:
+			'''
+			Sticks to the first target or surface it hits.
+			Deals 20% damage on impact, then explodes for the remaining 80% after 1 second.
+			'''
+	}
+
+	Appendage: {
+		DisplayName: Appendage
+		Tooltip:
+			'''
+			The Titan's grasp, now yours to command.
+			Summons two Titan hands that flank you.
+			The hands periodically fire devastating lasers at nearby enemies.
+			Whip-tagged targets are prioritized.
+			Takes up two minion slots. Only one pair may be summoned.
+			'''
+	}
+
+	TitanicEmblem: {
+		DisplayName: Titanic Emblem
+		Tooltip:
+			'''
+			The weight of a Titan behind every swing.
+			112% increased true melee weapon size.
+			10% increased true melee weapon damage.
+			66% increased true melee weapon knockback.
+			25% decreased true melee weapon attack speed.
+			'''
+	}
+
+	TitanStar: {
+		DisplayName: Titan Star
+		Tooltip: Summons a radiant star to light your way.
+	}
+}
+
+Tiles: {
+	DarkPortal.MapEntry: Dark Portal
+	TitanForge.MapEntry: Titan Forge
+	SoulStation.MapEntry: Soul Station
+}
+
+SoulTraits: {
+	Justice: {
+		Name: JUSTICE
+		Description: A soul that seeks fairness and truth.
+		Bonus3: Gain a built-in triple jump.
+		Bonus5: Increased critical strike chance by 6%.
+		Bonus12: Increased projectile damage by 10%.
+		Bonus20: Every 5 hits, gain a Justice Mark. \nYour next hit is guaranteed to critically strike.
+	}
+
+	Kindness: {
+		Name: KINDNESS
+		Description: A soul that nurtures and protects.
+		Bonus3: +2 life regeneration to you. Heals nearby allies and town NPCs for 2 HP every second.
+		Bonus5: When you or nearby allies take damage, increase your defense by +6 for 3 seconds.
+		Bonus12: Potion effects are applied to nearby allies. +20% potion effect duration.
+		Bonus20: When you or an ally dies, you and each ally gain a Kindness Mark. Increases total damage by 25% for 10 seconds.
+	}
+
+	Bravery: {
+		Name: BRAVERY
+		Description: A soul that charges forward without fear.
+		Bonus3: +10% global damage to enemies within 10 tiles. Take 5% increased damage.
+		Bonus5: +20% move speed while in combat.
+		Bonus12: Taking damage increases damage dealt by 12% for 6 seconds.
+		Bonus20: After dealing damage, gain a Bravery Mark. Increases global attack speed up to 20% based on enemy proximity.
+	}
+
+	Patience: {
+		Name: PATIENCE
+		Description: A soul that waits for the perfect moment.
+		Bonus3: Enemies are less likely to target you.
+		Bonus5: Gain double life regen speed while not moving.
+		Bonus12: Gain access to Rogue Stealth. If you already have Rogue Stealth, increases maximum meter by 30.
+		Bonus20: Permanently gain a Patience Mark. It builds up to 50% damage resistance over 30 seconds, resetting when you take damage.
+	}
+
+	Integrity: {
+		Name: INTEGRITY
+		Description: A soul that stays true to one's self.
+		Bonus3: +20% increased defense. -10% total damage dealt.
+		Bonus5: Taking damage increases your damage dealt by 5%. Lasts 5 seconds, stacks up to 5 times.
+		Bonus12: Removes all negative effects from previous investment bonuses.
+		Bonus20: After taking damage, gain an Integrity Mark. Your next hit will add your Defense as flat bonus damage.
+	}
+
+	Perseverance: {
+		Name: PERSEVERANCE
+		Description: A soul that endures through hardship.
+		Bonus3: Healing pickups additionally restore 20 mana. Mana pickups additionally restore 10 health.
+		Bonus5: +1% damage for each buff and debuff active on you.
+		Bonus12: Gain up to +50 max health based on current mana, and +50 max mana based on current health.
+		Bonus20: Using a healing or mana potion grants a Perseverance Mark. Your next healing or mana potion also restores the other resource by half the amount gained.
+	}
+
+	Determination: {
+		Name: DETERMINATION
+		Description: A soul that refuses to give up.
+		Bonus3: Reduced respawn time by 5 seconds.
+		Bonus5: 6% increased global damage.
+		Bonus12: Increased immunity frames when taking damage.
+		Bonus20: At 50% health, gain a Determination Mark and store your position. On death, revive with 50 health and return to that position. 2 minute cooldown.
+	}
+
+	UI: {
+		NoTrait: No Soul Trait
+		VisitGerson: Visit Gerson to obtain a Soul Trait
+		InvestmentPoints: Investment Points: {0}/20
+		Breakdown: (Armor: {0} | Weapon: {1} | Potion: {2})
+		Active: "[Active]"
+		Points: "[{0} pts]"
+	}
+
+	TitanForgeItem: {
+		DisplayName: Titan Forge
+		Tooltip: A workbench forged from dark energy, used to craft powerful items. Can occasionaly be found in a Dark World.
+	}
+}
+
+DamageClasses: {
+	MeleeMagicDamageClass.DisplayName: Melee (Magic) damage
+	RangedMeleeDamageClass.DisplayName: Ranged (Melee) damage
+	RangedSummonDamageClass.DisplayName: Ranged (Summoner) damage
+	MagicRogueDamageClass.DisplayName: Magic (Rogue) damage
+	SummonerMeleeDamageClass.DisplayName: Summoner (Melee) damage
+	RangedMagicDamageClass.DisplayName: Ranged (Magic) damage
+}
+
+Conditions: {
+	HasJustice: Requires JUSTICE soul trait
+	HasKindness: Requires KINDNESS soul trait
+	HasBravery: Requires BRAVERY soul trait
+	HasPatience: Requires PATIENCE soul trait
+	HasIntegrity: Requires INTEGRITY soul trait
+	HasPerseverance: Requires PERSEVERANCE soul trait
+	HasDetermination: Requires DETERMINATION soul trait
+}
+
+Prefixes: {
+	SoulfulPrefix.DisplayName: Soulful
+	EmpatheticPrefix.DisplayName: Empathetic
+	LingeringPrefix.DisplayName: Lingering
+}

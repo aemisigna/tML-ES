@@ -1,0 +1,198 @@
+Projectiles: {
+	Zap.DisplayName: Zap
+	VoidFlame.DisplayName: Llama del Vacío
+	ToxicFlame.DisplayName: Llama Tóxica
+	StormFlame.DisplayName: Llama de Tormenta
+	Shrapnel.DisplayName: Metralla
+	RavagerFlame.DisplayName: Llama del Devastador
+	PhantomFlame.DisplayName: Llama Fantasma
+	Nothing.DisplayName: Nada
+	LeviTooth.DisplayName: Diente de Levi
+	LeviGunk.DisplayName: Baba de Levi
+	LeviFlame.DisplayName: Llama de Levi
+	KunaiFlame.DisplayName: Llama de Kunai
+	IchorFlame.DisplayName: Llama de Icor
+	GhostFlame.DisplayName: Llama Fantasmal
+	FungalFlame.DisplayName: Llama Fúngica
+	FrostFlame.DisplayName: Llama de Escarcha
+	ExoBallFlame.DisplayName: Llama de Bola Exo
+	DonutFlame.DisplayName: Llama de Dona
+	DeusFlame.DisplayName: Llama de Deus
+	DeusBall.DisplayName: Bola de Deus
+	DesertFlame.DisplayName: Llama del Desierto
+	DarkFireSplit.DisplayName: División de Fuego Oscuro
+	DarkFire.DisplayName: Fuego Oscuro
+	BrimmyFlame.DisplayName: Llama de Azufre
+	BirbFlame.DisplayName: Llama de Pajarito
+	AureusFlame.DisplayName: Llama de Aureus
+	AureusBomb.DisplayName: Bomba de Aureus
+	AquaFlame.DisplayName: Llama Acuática
+}
+
+Items: {
+	TubaBreathBlaster: {
+		Tooltip:
+			'''
+			Probabilidad del 50% de no consumir gel
+			Escupe una tormenta de dientes y baba junto con llamas asquerosas
+			Sí, probablemente no habría sido buena idea hacer tacos de pescado con esa bestia
+			'''
+		DisplayName: Lanzallamas de Aliento de Atún
+	}
+
+	ToadstoolTorcher: {
+		Tooltip: Dispara potentes chorros de llamas fúngicas
+		DisplayName: Incinerador de Hongos
+	}
+
+	TheTorch: {
+		Tooltip:
+			'''
+			Probabilidad del 95% de no consumir gel
+			Dispara un chorro masivo de llamas de azufre
+			Debe usarse en el aire, ya que la tierra debajo lo restringe
+			Permaneció dormida durante mil años, y ahora golpea con la furia de mil soles
+			'''
+		DisplayName: La Antorcha
+	}
+
+	SerpentsBreath: {
+		Tooltip:
+			'''
+			Probabilidad del 55% de no consumir gel
+			Dispara tres chorros de llamas a la vez
+			Ataca con la ira de haber sido olvidada
+			'''
+		DisplayName: Aliento de la Serpiente
+	}
+
+	RookofVengeance: {
+		Tooltip:
+			'''
+			Probabilidad del 45% de no consumir gel
+			Puede disparar metralla en lugar de llamas debido a su estado desgastado
+			'''
+		DisplayName: Torre de la Venganza
+	}
+
+	Repentance: {
+		Tooltip:
+			'''
+			Probabilidad del 60% de no consumir gel
+			Golpea a los enemigos con llamas oscuras que invocan más llamas desde abajo
+			La impureza y los deseos malignos llenan esta arma de odio...
+			'''
+		DisplayName: Arrepentimiento
+	}
+
+	RemnantofFate: {
+		Tooltip:
+			'''
+			Probabilidad del 66% de no consumir gel
+			Alterna entre chorros de Polterplasma y Ectoplasma
+			Las llamas de Polterplasma infligen varios efectos negativos
+			Las llamas alcanzan más distancia en la dirección opuesta
+			algo nuevo algo azul
+			'''
+		DisplayName: Remanente del Destino
+	}
+
+	Plasmalegion: {
+		Tooltip:
+			'''
+			Probabilidad del 80% de no consumir gel
+			Dispara bolas de llamas exo que expulsan más llamas exo
+			El primo raro del Fotoeviscerador
+			'''
+		DisplayName: Plasmalegión
+	}
+
+	OceanScalder: {
+		Tooltip:
+			'''
+			Probabilidad del 20% de no consumir gel
+			Dispara una ráfaga de corto alcance de poderosas llamas ácidas
+			Aunque puede escaldar el agua, no se compara con las llamas de la Bruja de Azufre
+			Igual está caliente.
+			'''
+		DisplayName: Abrasador Oceánico
+	}
+
+	Ichorthrower: {
+		Tooltip:
+			'''
+			Probabilidad del 10% de no consumir gel
+			Rocía rápidamente llamas impregnadas de Icor
+			Favorito de los granjeros para eliminar plagas hambrientas
+			'''
+		DisplayName: Lanzaícor
+	}
+
+	EffulgentZapper: {
+		Tooltip:
+			'''
+			Probabilidad del 75% de no consumir gel
+			Ocasionalmente libera pajaritos explosivos que hacen estallar todo lo que se mueve! ... ¡Incluso a ti!
+			¡A volar, pájaros!
+			'''
+		DisplayName: Infierno Estático
+	}
+
+	DesertScorcher: {
+		Tooltip:
+			'''
+			Probabilidad del 15% de no consumir gel
+			Dispara una ráfaga de corto alcance de llamas que arden como el desierto
+			'''
+		DisplayName: Abrasador del Desierto
+	}
+
+	CosmicFirestorm: {
+		Tooltip:
+			'''
+			Probabilidad del 80% de no consumir gel
+			Alterna entre 3 llamas diferentes
+			'''
+		DisplayName: Tormenta de Fuego Cósmica
+	}
+
+	ConstellationDamnation: {
+		Tooltip:
+			'''
+			Probabilidad del 55% de no consumir gel
+			Dispara una ráfaga de llamas rebotantes
+			¡Condenación estelar!
+			'''
+		DisplayName: Lluvia de Meteoros
+	}
+
+	CambrianCrisper: {
+		Tooltip:
+			'''
+			Probabilidad del 95% de no consumir gel
+			Dispara 20 chorros de llamas ácidas de corto alcance
+			¡¡¡Vieja!!!
+			'''
+		DisplayName: Chamuscadora Cámbrica
+	}
+
+	BreathofGlacies: {
+		Tooltip:
+			'''
+			Probabilidad del 35% de no consumir gel
+			Dispara rápidamente una ráfaga de llamas frías de gran alcance
+			Qué importa si es científicamente inexacto
+			'''
+		DisplayName: Aliento de Glacies
+	}
+
+	AuroraFlare: {
+		Tooltip:
+			'''
+			Probabilidad del 40% de no consumir gel
+			Ocasionalmente lanza un cristal afilado y mortal
+			Más pequeño de lo que era cuando estaba vivo, por alguna razón...
+			'''
+		DisplayName: Destello de Aurora
+	}
+}
