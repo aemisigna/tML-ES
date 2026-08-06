@@ -449,6 +449,7 @@ Projectiles: {
 	BlackHole.DisplayName: Agujero Negro
 	BubbleBomb.DisplayName: Gran Bomba de Burbuja
 	BubbleColumn.DisplayName: Columna de Burbujas
+	BubbleColumnOptimized.DisplayName: Columna de Burbujas
 	BuriedArrowE.DisplayName: Flecha
 	ChampionBomber.DisplayName: Estallido Mágico
 	ChampionBomberF.DisplayName: Estallido Mágico
@@ -1508,6 +1509,11 @@ Configs: {
 				'''
 		}
 
+		masterDropRate: {
+			Label: Probabilidad de Caída de Objetos de Modo Maestro en %
+			Tooltip: NOTA: Esto se sobreescribe en modo eternidad si la opción "solo modo eternidad" está activada, para igualar las probabilidades de caída de otros objetos de jefes de eternidad
+		}
+
 		masterDropsAreNonExclusive: {
 			Label: Los objetos de maestro caen como objetos de experto
 			Tooltip:
@@ -1557,6 +1563,11 @@ Configs: {
 			Tooltip: Los Jefes de Thorium aparecen en el Boss Rush de Calamity, ordenados según el tier apropiado de progresión
 		}
 
+		auricBar: {
+			Label: La Barra Áurica usa materiales de Thorium
+			Tooltip: Las barras áuricas requieren las tres esencias primordiales para craftearse
+		}
+
 		defenseDamage: {
 			Label: Soporte de Daño a la Defensa
 			Tooltip: Permite que algunos ataques de jefes de Thorium inflijan daño a la defensa si el mod Calamity está activado
@@ -1594,6 +1605,17 @@ Configs: {
 		jelly: {
 			Label: "[i:ThoriumMod/QueenJellyfishMask]Reina Medusa"
 			Tooltip: Rework de la Reina Medusa
+		}
+
+		qjLagReduction: {
+			Label: "[i:ThoriumMod/QueenJellyfishMask]Modo de Reducción de Lag de la Columna de Burbujas"
+			Tooltip:
+				'''
+				Existe para quienes sufren problemas de rendimiento con el ataque de columna de burbujas de la Reina Medusa
+				0 - Desactivado (si tu dispositivo no sufre de lag, deja esto en esta opción)
+				1 - Solo un jugador
+				2 - Siempre activado (ADVERTENCIA: ¡esta optimización podría no funcionar correctamente en multijugador!)
+				'''
 		}
 
 		bat: {
@@ -1675,6 +1697,11 @@ Configs: {
 				PROBLEMA CONOCIDO: No funciona correctamente cuando el orden de carga de mods está desordenado
 				También casi no funciona en ciertas armaduras y armas de bardo
 				'''
+		}
+
+		oldContract: {
+			Label: Comportamiento Antiguo del Contrato del Verdugo/Sellado
+			Tooltip: Habilita la funcionalidad antigua del contrato del verdugo/sellado
 		}
 
 		ThoriumArmor: {
@@ -2094,6 +2121,11 @@ Configs: {
 		IncandescentAlacrity: {
 			Label: "[i:ThoriumMod/IncandescentAlacrity]Alacridad Incandescente"
 			Tooltip: No reworkea este objeto en absoluto, solo permite que funcione con {$ItemName.EmpressFlightBooster}
+		}
+
+		WrithingSheath: {
+			Label: "[i:ThoriumMod/WrithingSheath]Vaina Retorcida"
+			Tooltip: ""
 		}
 	}
 }
