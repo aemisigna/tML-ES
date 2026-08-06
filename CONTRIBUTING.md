@@ -85,6 +85,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
 | Calamity: Community Remix | ✅ | v1.3.12
+| Deterministic Chaos | ✅ | v1.14.95
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
@@ -110,6 +111,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
 | Munchies | ✅ | v1.4.2
 | Munchies Crossmod Addon | ✅ | v2.2
+| Calamity Flamethrowers | ✅ | v3.4
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
