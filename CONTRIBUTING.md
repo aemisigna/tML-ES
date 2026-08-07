@@ -82,6 +82,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7.2
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
+| Spirit Reforged | ✅ | v0.2.1.2
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
 | Calamity: Community Remix | ✅ | v1.3.13
@@ -112,6 +113,8 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Munchies | ✅ | v1.4.2
 | Munchies Crossmod Addon | ✅ | v2.2
 | Calamity Flamethrowers | ✅ | v3.4
+| Ancients Awakened Music | ✅ | v0.1.1
+| Spirit Music Mod | ✅ | v1.0.0.13
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 
