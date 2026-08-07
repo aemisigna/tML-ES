@@ -1,0 +1,57 @@
+ReforgedClientConfig: {
+	DisplayName: Reforged Client Config
+
+	ReflectionDetail: {
+		Label: Reflection Detail
+		Tooltip:
+			'''
+			Determines the detail of all reflections
+			Higher values mean more detail and a greater resulting performance cost
+			'''
+	}
+
+	AmbientSounds: {
+		Label: Ambient Sounds
+		Tooltip: Plays ambient sounds in specific biomes
+	}
+
+	ScreenshakeStrength: {
+		Label: Screenshake Strength
+		Tooltip: Controls how strong all of Reforged's screenshake is.
+	}
+
+	DisableWater: {
+		Label: Disable Water Visuals
+		Tooltip: Disables the Reforged water visuals.
+	}
+
+	DebugEcotones: {
+		Label: Ecotone Debugging (with WorldGen Previewer)
+		Tooltip:
+			'''
+			REQUIRES WorldGen Previewer.
+			Allows developers and players using the Ecotone system to debug issues with and understand ecotones with a helpful overlay.
+			'''
+	}
+
+	Headers.Developer: Developer Tools
+}
+
+ReforgedServerConfig: {
+	DisplayName: Reforged Server Config
+
+	VentCritters: {
+		Label: Vent Critters
+		Tooltip:
+			'''
+			Enables the spawning of numerous critters around Hydrothermal Vents
+			These critters do not interfere with regular enemy spawnrates
+			However, they do contribute to the maximum NPC limit
+			'''
+	}
+
+	MaxFloatingItemCount: {
+		Label: Floating Item Cap
+		Tooltip: Determines how many floating items can be active in the world at one time.
+	}
+}

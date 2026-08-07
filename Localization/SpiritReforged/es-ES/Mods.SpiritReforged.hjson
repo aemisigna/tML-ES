@@ -1,0 +1,108 @@
+Biomes: {
+	SavannaBiome: {
+		DisplayName: Sabana
+		TownNPCDialogueName: la Sabana
+	}
+
+	SaltBiome: {
+		DisplayName: Salinas
+		TownNPCDialogueName: las Salinas
+	}
+
+	ZigguratBiome: {
+		DisplayName: Ziggurat
+		TownNPCDialogueName: el Ziggurat
+	}
+}
+
+SlotContexts.Backpack: Mochila
+
+Conditions: {
+	InSavanna: En la Sabana
+	PeevedTumbler: Cuando brilla
+	Discovered: Descubrimiento
+	Submerged: Sumergido
+	InSaltFlats: En las Salinas
+	IsPrickly: Cuando es espinoso
+	InZiggurat: En el Ziggurat
+}
+
+Misc: {
+	Pins: {
+		Move: Mover Pin
+		Obtained: Ya posees este Pin
+		UseItem: Haz clic derecho para añadir este Pin a tu colección
+	}
+
+	NoStock: Agotado
+	GraveText: <wavy>El texto es viejo y descolorido; no puedes leer bien lo que dice.
+	MenuButton: Usar estilo de menú
+	UnchangedMap: El mapa no tiene cambios.
+	ShareMap: El mapa ha sido compartido.
+	ShareAndUpdateMap: El mapa ha sido compartido y actualizado.
+}
+
+DamageSources: {
+	Impaling: {
+		0: "{0} ha sido empalado."
+		1: "{0} fue atravesado."
+	}
+}
+
+GameTips: {
+	# Release
+	ReforgedTip0: Siempre lleva comida contigo. ¡Nunca sabes cuándo podría serte útil!
+	ReforgedTip1: Raramente, las mariposas se esconden en arboledas subterráneas.
+	ReforgedTip2: ¡Los Pins son útiles! Revisa tu inventario de Pins en la parte inferior izquierda de tu mapa.
+	ReforgedTip3: Los animales de la Sabana no pueden ser atrapados con redes de insectos.
+	ReforgedTip4: Mochilas. Ahora tienes más espacio.
+	ReforgedTip5: El vacío tenebroso del océano ofrece muchas bendiciones.
+	ReforgedTip6: El Pasto Estelar ofrece un agradable respiro en la oscuridad de la noche.
+	ReforgedTip7: La Planta Nube siempre crece bajo las nubes.
+	ReforgedTip8: La parte superior de los árboles de Acacia se puede pisar si necesitas altura.
+	ReforgedTip9: ¡Los artículos flotan aleatoriamente en el océano; revisa de vez en cuando!
+	# Caves & Clubs
+	ReforgedTip10: ¡Muchas macetas se distribuyen en las cuevas bajo tus pies! Mantén los ojos abiertos.
+	ReforgedTip11: Los Garrotes ofrecen daño fuerte y enfocado a un solo objetivo.
+	# Sunscorched
+	ReforgedTip12: Las leyendas hablan de una ofrenda de gemas en lo alto de un antiguo altar...
+	ReforgedTip13: ¡Ten cuidado al explorar el antiguo Ziggurat! Las sorpresas se esconden en cada esquina.
+	ReforgedTip14: Los oasis que se encuentran bajo las arenas del desierto pueden ofrecer una calma bienvenida.
+	ReforgedTip15: ¡El ámbar esconde secretos! Tal vez encuentres algunas recompensas en su interior...
+	ReforgedTip16: ¡Ten cuidado al caminar por las ruinas del desierto! Algunos pisos pueden ser menos sólidos de lo que crees.
+}
+
+Emotes: {
+	CartographerEmote.Command: cartographer
+	HikerEmote.Command: hiker
+}
+
+InfoDisplays: {
+	LedgerInfoDisplay: {
+		DisplayName: Libro Mayor
+		Description: Mostrando información de precios
+	}
+
+	ScryingLensInfoDisplay: {
+		DisplayName: Visión del Fulgor
+		Description: Mostrando información de fulgor
+	}
+}
+
+Ecotones: {
+	SaltFlatsEcotone: Salinas
+	SavannaEcotone: Sabana
+}
+
+EcotoneEdges: {
+	Forest: Bosque
+	Desert: Desierto
+	Ocean: Océano
+	Snow: Nieve
+	Jungle: Selva
+	Corruption: Corrupción
+	Crimson: Carmesí
+	Hallow: Santidad
+	Savanna: "{$Ecotones.SavannaEcotone}"
+	SaltFlats: "{$Ecotones.SaltFlatsEcotone}"
+}

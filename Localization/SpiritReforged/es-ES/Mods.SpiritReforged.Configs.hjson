@@ -1,0 +1,57 @@
+ReforgedClientConfig: {
+	DisplayName: Configuración de Cliente Reforged
+
+	ReflectionDetail: {
+		Label: Detalle de Reflexión
+		Tooltip:
+			'''
+			Determina el nivel de detalle de todos los reflejos
+			Los valores más altos significan más detalle y un mayor costo de rendimiento
+			'''
+	}
+
+	AmbientSounds: {
+		Label: Sonidos Ambientales
+		Tooltip: Reproduce sonidos ambientales en biomas específicos
+	}
+
+	ScreenshakeStrength: {
+		Label: Intensidad de Temblor de Pantalla
+		Tooltip: Controla qué tan fuerte es el temblor de pantalla de Reforged.
+	}
+
+	DisableWater: {
+		Label: Desactivar Efectos Visuales de Agua
+		Tooltip: Desactiva los efectos visuales de agua de Reforged.
+	}
+
+	DebugEcotones: {
+		Label: Depuración de Ecotonas (con WorldGen Previewer)
+		Tooltip:
+			'''
+			REQUIERE WorldGen Previewer.
+			Permite a desarrolladores y jugadores que usan el sistema de Ecotonas depurar problemas y comprender las ecotonas con una superposición útil.
+			'''
+	}
+
+	Headers.Developer: Herramientas del Desarrollador
+}
+
+ReforgedServerConfig: {
+	DisplayName: Configuración de Servidor Reforged
+
+	VentCritters: {
+		Label: Critters de Ventilación
+		Tooltip:
+			'''
+			Activa la generación de numerosas criaturas alrededor de las Ventilaciones Hidrotermales
+			Estas criaturas no interfieren con las tasas de generación de enemigos regulares
+			Sin embargo, sí contribuyen al límite máximo de PNJs
+			'''
+	}
+
+	MaxFloatingItemCount: {
+		Label: Límite de Objetos Tirados
+		Tooltip: Determina cuántos objetos tirados en el suelo pueden estar activos en el mundo a la vez.
+	}
+}

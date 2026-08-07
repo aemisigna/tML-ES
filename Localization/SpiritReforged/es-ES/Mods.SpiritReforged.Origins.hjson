@@ -1,0 +1,53 @@
+Diver: {
+	DisplayName: Buzo
+	Flavor: Después de un desafortunado viaje, el Buzo está listo para comenzar en una tierra nueva, ansioso por ver nuevas aguas.
+	Description: Comienza con la vanidad completa de Buzo, aletas y un Colgante del Océano.
+}
+
+Botanist: {
+	DisplayName: Botánico
+	Flavor: Un herbolario, si quieres. Muy hábil en la recolección y uso de hierbas.
+	Description: Comienza con el conjunto completo de Botánico, una hoz y un par de bolsas de hierbas, en un Espantapájaros.
+}
+
+Recluse: {
+	DisplayName: Ermitaño
+	Flavor: Para ellos, es más fácil esconderse profundamente bajo tierra donde nadie los moleste. ¡La pesca es mejor aquí abajo!
+	Description: Comienza con un Sombrero de Pesca, una Caña de Pesca de Fibra de Vidrio, algo de carnada y algunos baúles en una cabaña de pesca subterránea.
+}
+
+Hunter: {
+	DisplayName: Cazador
+	Flavor: La caza salvaje es su juego. Como los animales en la Sabana, la caza es todo.
+	Description: Comienza con un Rifle de Cazador, algo de munición y vanidad de Safari en una Sabana.
+}
+
+Hiker: {
+	DisplayName: Caminante
+	Flavor: La exploración alimenta el disfrute, y tienen los suministros para colmo.
+	Description: Comienza con 60 Antorchas, 30 Palos Brillantes, 150 Cuerdas en la cima de la colina más alta.
+}
+
+Caveman: {
+	DisplayName: Cavernícola
+	Flavor: La vida simple resulta productiva. Una palabra lo resume: Ug.
+	Description: Comienza con una Túnica de Cuero, un Garrote de Madera... en cualquier lugar alto bajo tierra.
+}
+
+Disentombed: {
+	DisplayName: Desenterrado
+	Flavor: Han pasado tres mil años... mi reinado volverá. Volveré.
+	Description: Comienza con la vanidad de momia en el Ziggurat.
+}
+
+Worshipper: {
+	DisplayName: Adorador
+	Flavor: Maldito a rezar al sol pero nunca verlo. Mantiene la esperanza de todas formas.
+	Description: Comienza con el conjunto de armadura Bailarín del Sol y un Cetro de Viento en un Oasis subterráneo.
+}
+
+Purifier: {
+	DisplayName: Purificador
+	Flavor: Maldición del mal aborrecible; arde con el aguijón de mi pureza.
+	Description: Comienza con un Bastón Bo y una Máscara de Mahakala en las Salinas (si es posible).
+}

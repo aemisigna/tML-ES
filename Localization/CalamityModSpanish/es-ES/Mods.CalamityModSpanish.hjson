@@ -134,6 +134,11 @@ Configs: {
 			Tooltip: Activa/Desactiva la traducción de Spirit Mod.
 		}
 
+		SpiritReforgedLocalization: {
+			Label: Spirit Reforged
+			Tooltip: Activa/Desactiva la traducción de Spirit Reforged.
+		}
+
 		AncientsAwakenedLocalization: {
 			Label: Ancients Awakened
 			Tooltip: Activa/Desactiva la traducción de Ancients Awakened.
@@ -310,6 +315,16 @@ Configs: {
 				- Quality of Terraria
 				...si tienes esta opción activada, ya que Munchies Crossmod Addon modifica contenido de todos ellos.
 				'''
+		}
+
+		SpiritMusicLocalization: {
+			Label: Spirit Music Mod
+			Tooltip: Activa/Desactiva la traducción de Spirit Music Mod.
+		}
+
+		AAModMusicLocalization: {
+			Label: Ancients Awakened Music
+			Tooltip: Activa/Desactiva la traducción de Ancients Awakened Music.
 		}
 
 		CalamityFlamethrowersLocalization: {

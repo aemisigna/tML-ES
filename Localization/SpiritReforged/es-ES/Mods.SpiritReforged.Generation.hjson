@@ -1,0 +1,69 @@
+Discoveries: Añadiendo descubrimientos
+Stargrass: Creciendo Pasto Estelar
+HerosMemorial: Recordando a un héroe
+Butterfly: Ocultando santuarios de mariposas
+FishingCoves: Añadiendo lugares de pesca
+PopulateOcean: Poblando el océano
+Gravel: Colocando grava
+SavannaTerrain: Creando mesetas
+SavannaObjects: Poblando la Sabana
+SaltFlats: Añadiendo sal
+Ecotones: Mapeando Ecotonas
+Caves: Decorando cuevas
+DesertExtras: Ocultando secretos en las arenas
+NeonMosses: Musgos brillantes
+Pottery: Guardando macetas
+Scarecrow: Asustando pájaros
+
+Mapping: {
+	Exit: Presiona "Escape" para salir del mapeo antes (si está pausado)
+	Tilde: Mantén presionado "Tilde" (~) para ocultar la superposición
+	Help:
+		'''
+		Las Ecotonas se mapean en la superficie del mundo múltiples veces
+		Tienen tres "definiciones" asociadas: borde izquierdo, propio y borde derecho
+		Estas serían algo como Bosque < Desierto < Bosque
+		    Borde izquierdo es un Bosque
+		    El bioma actual es un Desierto
+		    Borde derecho es un Bosque
+		Su rectángulo rojo es los límites de sus mínimos/máximos
+		El rectángulo azul es el tamaño de inicio a fin, es decir, el inicio y fin de la superficie mapeada
+		El tamaño mostrado encima de la Ecotona es el tamaño del rectángulo rojo, junto con la altura del azul
+		'''
+	Toggle: Haz clic para {0} la selección manual de Ecotonas durante la generación del mundo.
+	Enable: activar
+	Disable: desactivar
+	Select: Haz clic en áreas para forzar que {0} genere allí.
+	Continue: Haz clic en este texto para continuar
+	OrEscape: (o presiona la tecla Escape)
+	Step: Mapeando {0}
+	Invalid: (Inválido - {0})
+}
+
+Signs: {
+	Underground: {
+		Common: {
+			0: <wavy>Las macetas guardan el secreto...
+			1: <wavy>El texto está demasiado descolorido para leer.
+			2: <colorful:255,80,80>El cartel está cubierto de garabatos ininteligibles de un líquido dudoso.
+			3: <wavy>......as Mercancías
+			4: <wavy>El viejo cartel casi se ha deshecho en polvo.
+			5: <wavy>Un esqueleto dibujado de forma tosca hace un gesto.
+			6: <wavy>Si estás leyendo esto, ya estoy muerto.
+			7: ¡Si estás leyendo esto, me va muy bien!
+			8: <wavy>Cuidado: Gusanos
+			9: El cartel sigue hablando sobre algo que no puedes entender bien. No vale la pena seguir leyendo.
+			10: Las escrituras enanas están garabateadas por todo el cartel. No puedes leer nada de ello.
+		}
+
+		Rare: {
+			0: <wavy>Recoge mis páginas...
+			1: Parece que no hay bolas de baba por aquí. -el Pintor de Carteles
+			2:
+				'''
+				<wavy>0
+				días desde el incidente en la cueva
+				'''
+		}
+	}
+}

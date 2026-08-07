@@ -1,0 +1,149 @@
+EmpoweredSwim: {
+	DisplayName: Nado Potenciado
+	Description: Te sientes mucho más rápido en el agua
+}
+
+MantarayBuff: {
+	DisplayName: Raya Rescatadora
+	Description: ¡Rápido como las mareas!
+}
+
+JellyfishMinion_Buff: {
+	DisplayName: Medusa
+	Description: ¡Una medusa linda y elástica lucha por ti!
+}
+
+JellyfishPet_Buff: {
+	DisplayName: Medusa Amigable
+	Description: ¡A esta medusa enérgica le encanta seguirte!
+}
+
+DoubleJumpPotionBuff: {
+	DisplayName: Salto de Céfiro
+	Description: Otorga temporalmente un salto adicional
+}
+
+FlightPotionBuff: {
+	DisplayName: Vuelo
+	Description: Aumenta la duración del vuelo en un 25%
+}
+
+BottleMountBuff: {
+	DisplayName: Balsa
+	Description: Enviando una SOS
+}
+
+FairyMinion_Buff: {
+	DisplayName: Hadas
+	Description: ¡Oye! ¡Escucha!
+}
+
+Impaled: {
+	DisplayName: Empalado
+	Description: Fuiste empalado por una pica. ¡Ay!
+}
+
+KoiTotemBuff: {
+	DisplayName: Tótem de Carpa Koi
+	Description: Habilidad de pesca aumentada
+}
+
+ButterflyMinion_Buff: {
+	DisplayName: Mariposa Etérea
+	Description: La mariposa etérea lucha por ti
+}
+
+ToucanMinion_Buff: {
+	DisplayName: Tucán
+	Description: El tucán lucha por ti
+}
+
+QuenchPotion_Buff: {
+	DisplayName: Saciado
+	Description: Otras pociones duran un 25% más
+}
+
+TumblerPet_Buff: {
+	DisplayName: Rodador Ambivalente
+	Description: Un amigable rodillo de tumba te está siguiendo
+}
+
+Frozen: {
+	DisplayName: Congelado
+	Description: Velocidad de movimiento de enemigos reducida
+}
+
+GildedScarabBuff: {
+	DisplayName: Escudo de Escarabajo
+	Description: Defensa aumentada por {0}
+}
+
+PoolNoodleBubbleBuff: {
+	DisplayName: Mejora de Burbuja de Tallarín de Piscina
+	Description: ¡Encontraste el Códice Secreto de Espíritu Lore! ¡Mantente atento a nuestro superjefe Acero Oscuro, la Estrella Caída!
+}
+
+ExplorerSpeed: {
+	DisplayName: Velocidad de Explorador
+	Description: Tu velocidad se ha mejorado enormemente
+}
+
+RemedyPotionBuff: {
+	DisplayName: Remedio
+	Description: Inmunidad a algunos efectos perjudiciales
+}
+
+OpenWounds: {
+	DisplayName: Heridas Abiertas
+	Description: Susceptible al sangrado
+}
+
+ExplorerPot: {
+	DisplayName: Emoción del Explorador
+	Description: ¡Ansías más!
+}
+
+ExplorerMine: {
+	DisplayName: Vigor del Explorador
+	Description: ¡Sigue cavando!
+}
+
+JinxMark: {
+	DisplayName: Marca de Mala Suerte
+	Description: Marcado por el Arco de Mala Suerte
+}
+
+FlaskOfFrost_Buff: {
+	DisplayName: Imbuir Arma: Congelación
+	Description: Los ataques de Cuerpo a Cuerpo y Látigo congelan a los enemigos
+}
+
+Slowed: {
+	DisplayName: Ralentizado
+	Description: Tu movimiento se está volviendo lento
+}
+
+ToucaneMinion_Buff: {
+	DisplayName: Tucán
+	Description: ¿El tucán lucha por ti?
+}
+
+TinyDragonPet_Buff: {
+	DisplayName: Dragón Pequeño
+	Description: Un pequeño dragón te está siguiendo
+}
+
+EnlilBuff: {
+	DisplayName: Ayuda de Enlil
+	Description: Movilidad vertical aumentada
+}
+
+ScarabLightPetBuff: {
+	DisplayName: Bebé Escarabajo
+	Description: "'Está planeando...'"
+}
+
+ScarabMountBuff: {
+	DisplayName: Montura de Bicho Bola
+	Description: "'¡Aguanta!'"
+}

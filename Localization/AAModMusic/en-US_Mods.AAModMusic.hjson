@@ -1,0 +1,159 @@
+Tiles: {
+	ChaosMenuBox.MapEntry: Chaos Menu Box
+	GripsBox.MapEntry: Grips Box
+	InfernoCavernsBox.MapEntry: Inferno Caverns Box
+	InfernoDayBox.MapEntry: Inferno Day Box
+	InfernoNightBox.MapEntry: Inferno Night Box
+	MireCavernsBox.MapEntry: Mire Caverns Box
+	MireDayBox.MapEntry: Mire Day Box
+	MireNightBox.MapEntry: Mire Night Box
+	OtherChaosMenuBox.MapEntry: Other Chaos Menu Box
+	OtherGripsBox.MapEntry: Other Grips Box
+	OtherInfernoCavernsBox.MapEntry: Other Inferno Caverns Box
+	OtherInfernoDayBox.MapEntry: Other Inferno Day Box
+	OtherInfernoNightBox.MapEntry: Other Inferno Night Box
+	OtherMireCavernsBox.MapEntry: Other Mire Caverns Box
+	OtherMireDayBox.MapEntry: Other Mire Day Box
+	OtherMireNightBox.MapEntry: Other Mire Night Box
+	ToadBox.MapEntry: Toad Box
+	OtherMushblightBox.MapEntry: Other Mushblight Box
+	MonarchBox.MapEntry: Monarch Box
+	OtherMonarchBox.MapEntry: Other Monarch Box
+	OtherToadBox.MapEntry: Other Toad Box
+	MushblightBox.MapEntry: Mushblight Box
+	LifeMenuBox.MapEntry: Life Menu Box
+	OtherLifeMenuBox.MapEntry: Other Life Menu Box
+}
+
+Items: {
+	ChaosMenuBox: {
+		DisplayName: Music Box (Chaos Menu)
+		Tooltip: ProVGM - The Ancient Chaos
+	}
+
+	GripsBox: {
+		DisplayName: Music Box (Grips of Chaos)
+		Tooltip: SpectralAves - Double Trouble
+	}
+
+	InfernoCavernsBox: {
+		DisplayName: Music Box (Underground Inferno)
+		Tooltip: SpectralAves - Parching Passages
+	}
+
+	InfernoDayBox: {
+		DisplayName: Music Box (Inferno Day)
+		Tooltip: SpectralAves - Scorched & Raging Chaos
+	}
+
+	InfernoNightBox: {
+		DisplayName: Music Box (Inferno Night)
+		Tooltip: SpectralAves - Fleeting & Smoldering
+	}
+
+	MireCavernsBox: {
+		DisplayName: Music Box (Underground Mire)
+		Tooltip: SpectralAves - Begrimed Burrows
+	}
+
+	MireDayBox: {
+		DisplayName: Music Box (Mire Day)
+		Tooltip: SpectralAves - Silent & Shrouding
+	}
+
+	MireNightBox: {
+		DisplayName: Music Box (Mire Night)
+		Tooltip: SpectralAves - Soaked & Poisoned Chaos
+	}
+
+	OtherChaosMenuBox: {
+		DisplayName: Otherworldly Music Box (Chaos Menu)
+		Tooltip: MaestroVGM - Discordance Sonata
+	}
+
+	OtherGripsBox: {
+		DisplayName: Otherworldly Music Box (Grips of Chaos)
+		Tooltip: MaestroVGM - Pyrocaustic
+	}
+
+	OtherInfernoCavernsBox: {
+		DisplayName: Otherworldly Music Box (Underground Inferno)
+		Tooltip: MaestroVGM - Searing Depths
+	}
+
+	OtherInfernoDayBox: {
+		DisplayName: Otherworldly Music Box (Inferno Day)
+		Tooltip: MaestroVGM - Dragon's Domain
+	}
+
+	OtherInfernoNightBox: {
+		DisplayName: Otherworldly Music Box (Inferno Night)
+		Tooltip: MaestroVGM - Ashfall
+	}
+
+	OtherMireCavernsBox: {
+		DisplayName: Otherworldly Music Box (Underground Mire)
+		Tooltip: MaestroVGM - Drowning Depths
+	}
+
+	OtherMireDayBox: {
+		DisplayName: Otherworldly Music Box (Mire Day)
+		Tooltip: MaestroVGM - Veil of Mist
+	}
+
+	OtherMireNightBox: {
+		DisplayName: Otherworldly Music Box (Mire Night)
+		Tooltip: MaestroVGM - Nocturnal
+	}
+
+	ToadBox: {
+		DisplayName: Music Box (Truffle Toad)
+		Tooltip: SpectralAves - TODESTOOL: Regrown
+	}
+
+	OtherMushblightBox: {
+		DisplayName: Otherworldly Music Box (Mushroom Blight)
+		Tooltip: MaestroVGM - Assimilation
+	}
+
+	MonarchBox: {
+		DisplayName: Music Box (Mushroom Monarch)
+		Tooltip: SpectralAves - Fetid Face-off
+	}
+
+	OtherMonarchBox: {
+		DisplayName: Otherworldly Music Box (Mushroom Monarch)
+		Tooltip: MaestroVGM - Metastasis
+	}
+
+	OtherToadBox: {
+		DisplayName: Otherworldly Music Box (Truffle Toad)
+		Tooltip: MaestroVGM - Symbiosis
+	}
+
+	MushblightBox: {
+		DisplayName: Music Box (Mushroom Blight)
+		Tooltip: SpectralAves - Deep-Rooted Rot
+	}
+
+	LifeMenuBox: {
+		DisplayName: Music Box (Life Menu)
+		Tooltip: SpectralAves - The Ancient Sickness
+	}
+
+	OtherLifeMenuBox: {
+		DisplayName: Otherworldly Music Box (Life Menu)
+		Tooltip: MaestroVGM - Origin
+	}
+}
+
+Configs: {
+	AAMConfigClient: {
+		DisplayName: AA Music Config Client
+
+		OtherworldSoundtrack: {
+			Label: Otherworld Soundtrack
+			Tooltip: ""
+		}
+	}
+}

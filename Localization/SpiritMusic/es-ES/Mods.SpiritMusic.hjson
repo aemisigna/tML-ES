@@ -1,0 +1,172 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: Configuración de Música
+
+		Blizzard: {
+			Label: Ventisca
+			Tooltip: Activa/Desactiva la música de la Ventisca ("Shivering Storms").
+		}
+
+		CorruptNight: {
+			Label: Noche Corrupta
+			Tooltip: Activa/Desactiva la música de la Noche Corrupta ("Nightmare Fuel").
+		}
+
+		CrimsonNight: {
+			Label: Noche Carmesí
+			Tooltip: Activa/Desactiva la música de la Noche Carmesí ("Shivering Storms").
+		}
+
+		SnowNight: {
+			Label: Noche de Nieve
+			Tooltip: Activa/Desactiva la música de la Noche de Nieve ("Icy Storms").
+		}
+
+		HallowNight: {
+			Label: Noche Santa
+			Tooltip: Activa/Desactiva la música de la Noche Santa ("Wonderous Landscape").
+		}
+
+		DesertNight: {
+			Label: Noche del Desierto
+			Tooltip: Activa/Desactiva la música de la Noche del Desierto ("Kempt Dunes").
+		}
+
+		FrostLegion: {
+			Label: Legión de Escarcha
+			Tooltip: Activa/Desactiva la música de la Legión de Escarcha ("Tougher Chill").
+		}
+
+		Granite: {
+			Label: Granito
+			Tooltip: Activa/Desactiva la música del bioma de Granito ("Resounding Stones").
+		}
+
+		Marble: {
+			Label: Mármol
+			Tooltip: Activa/Desactiva la música del bioma de Mármol ("Regal Tunnel").
+		}
+
+		Meteor: {
+			Label: Meteorito
+			Tooltip: Activa/Desactiva la música del bioma de Meteorito ("Space Rocks!").
+		}
+
+		Spider: {
+			Label: Araña
+			Tooltip: Activa/Desactiva la música de la Cueva de Arañas ("Xyresic Horrors").
+		}
+
+		SkeletronPrime: {
+			Label: Skeletron Prime
+			Tooltip: Activa/Desactiva la música de Skeletron Prime ("Thermite Assault").
+		}
+
+		LavaLayer: {
+			Label: Capa de Lava
+			Tooltip: Activa/Desactiva la música de la Capa de Lava ("Magmatic Depths").
+		}
+
+		NeonMoss: {
+			Label: Musgo Neón
+			Tooltip: Activa/Desactiva la música del bioma de Musgo Neón ("Radiant Grotto").
+		}
+
+		TownUnderground: {
+			Label: Pueblo Subterráneo
+			Tooltip: Activa/Desactiva la música del Pueblo Subterráneo ("Subsurface Settlement").
+		}
+
+		VictoryDay: {
+			Label: Día de Victoria
+			Tooltip: Activa/Desactiva la música del Día de Victoria ("Adventurer's Triumph").
+		}
+	}
+}
+
+Items: {
+	BlizzardBoxItem: {
+		DisplayName: Caja de música (Ventisca)
+		Tooltip: ""
+	}
+
+	CorruptNightBoxItem: {
+		DisplayName: Caja de música (Noche Corrupta)
+		Tooltip: ""
+	}
+
+	CrimsonNightBoxItem: {
+		DisplayName: Caja de música (Noche Carmesí)
+		Tooltip: ""
+	}
+
+	DesertNightBoxItem: {
+		DisplayName: Caja de música (Noche del Desierto)
+		Tooltip: ""
+	}
+
+	FrostLegionBoxItem: {
+		DisplayName: Caja de música (Legión de Escarcha)
+		Tooltip: ""
+	}
+
+	GraniteBoxItem: {
+		DisplayName: Caja de música (Granito)
+		Tooltip: ""
+	}
+
+	HallowNightBoxItem: {
+		DisplayName: Caja de música (Noche Santa)
+		Tooltip: ""
+	}
+
+	MarbleBoxItem: {
+		DisplayName: Caja de música (Mármol)
+		Tooltip: ""
+	}
+
+	MeteorBoxItem: {
+		DisplayName: Caja de música (Meteorito)
+		Tooltip: ""
+	}
+
+	SkeletronPrimeBoxItem: {
+		DisplayName: Caja de música (Skeletron Prime)
+		Tooltip: ""
+	}
+
+	SnowNightBoxItem: {
+		DisplayName: Caja de música (Noche de Nieve)
+		Tooltip: ""
+	}
+
+	SpiderCaveBoxItem: {
+		DisplayName: Caja de música (Cueva de Arañas)
+		Tooltip: ""
+	}
+
+	LavaLayerBoxItem: {
+		DisplayName: Caja de música (Capa de Lava)
+		Tooltip: ""
+	}
+
+	NeonMossBoxItem: {
+		DisplayName: Caja de música (Musgo Neón)
+		Tooltip: ""
+	}
+
+	UndergroundTownBoxItem: {
+		DisplayName: Caja de música (Pueblo Subterráneo)
+		Tooltip: ""
+	}
+
+	VictoryDayBoxItem: {
+		DisplayName: Caja de música (Día de Victoria)
+		Tooltip: ""
+	}
+
+	OtherworldBlizzardBoxItem: {
+		DisplayName: Caja de música Alternativa (Ventisca)
+		Tooltip: ""
+	}
+}

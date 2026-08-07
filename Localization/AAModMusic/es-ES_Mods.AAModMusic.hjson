@@ -1,0 +1,159 @@
+Tiles: {
+	ChaosMenuBox.MapEntry: Caja de Menú del Caos
+	GripsBox.MapEntry: Caja de las Garras del Caos
+	InfernoCavernsBox.MapEntry: Caja del Infierno Subterráneo
+	InfernoDayBox.MapEntry: Caja del Infierno Diurno
+	InfernoNightBox.MapEntry: Caja del Infierno Nocturno
+	MireCavernsBox.MapEntry: Caja del Pantano Subterráneo
+	MireDayBox.MapEntry: Caja del Pantano Diurno
+	MireNightBox.MapEntry: Caja del Pantano Nocturno
+	OtherChaosMenuBox.MapEntry: Otra Caja de Menú del Caos
+	OtherGripsBox.MapEntry: Otra Caja de las Garras del Caos
+	OtherInfernoCavernsBox.MapEntry: Otra Caja del Infierno Subterráneo
+	OtherInfernoDayBox.MapEntry: Otra Caja del Infierno Diurno
+	OtherInfernoNightBox.MapEntry: Otra Caja del Infierno Nocturno
+	OtherMireCavernsBox.MapEntry: Otra Caja del Pantano Subterráneo
+	OtherMireDayBox.MapEntry: Otra Caja del Pantano Diurno
+	OtherMireNightBox.MapEntry: Otra Caja del Pantano Nocturno
+	ToadBox.MapEntry: Caja del Sapo
+	OtherMushblightBox.MapEntry: Otra Caja de la Plaga de Hongos
+	MonarchBox.MapEntry: Caja del Monarca
+	OtherMonarchBox.MapEntry: Otra Caja del Monarca
+	OtherToadBox.MapEntry: Otra Caja del Sapo
+	MushblightBox.MapEntry: Caja de la Plaga de Hongos
+	LifeMenuBox.MapEntry: Caja de Menú de la Vida
+	OtherLifeMenuBox.MapEntry: Otra Caja de Menú de la Vida
+}
+
+Items: {
+	ChaosMenuBox: {
+		DisplayName: Caja de música (Menú del Caos)
+		Tooltip: ProVGM - The Ancient Chaos
+	}
+
+	GripsBox: {
+		DisplayName: Caja de música (Garras del Caos)
+		Tooltip: SpectralAves - Double Trouble
+	}
+
+	InfernoCavernsBox: {
+		DisplayName: Caja de música (Infierno Subterráneo)
+		Tooltip: SpectralAves - Parching Passages
+	}
+
+	InfernoDayBox: {
+		DisplayName: Caja de música (Infierno Diurno)
+		Tooltip: SpectralAves - Scorched & Raging Chaos
+	}
+
+	InfernoNightBox: {
+		DisplayName: Caja de música (Infierno Nocturno)
+		Tooltip: SpectralAves - Fleeting & Smoldering
+	}
+
+	MireCavernsBox: {
+		DisplayName: Caja de música (Pantano Subterráneo)
+		Tooltip: SpectralAves - Begrimed Burrows
+	}
+
+	MireDayBox: {
+		DisplayName: Caja de música (Pantano Diurno)
+		Tooltip: SpectralAves - Silent & Shrouding
+	}
+
+	MireNightBox: {
+		DisplayName: Caja de música (Pantano Nocturno)
+		Tooltip: SpectralAves - Soaked & Poisoned Chaos
+	}
+
+	OtherChaosMenuBox: {
+		DisplayName: Caja de música Alternativa (Menú del Caos)
+		Tooltip: MaestroVGM - Discordance Sonata
+	}
+
+	OtherGripsBox: {
+		DisplayName: Caja de música Alternativa (Garras del Caos)
+		Tooltip: MaestroVGM - Pyrocaustic
+	}
+
+	OtherInfernoCavernsBox: {
+		DisplayName: Caja de música Alternativa (Infierno Subterráneo)
+		Tooltip: MaestroVGM - Searing Depths
+	}
+
+	OtherInfernoDayBox: {
+		DisplayName: Caja de música Alternativa (Infierno Diurno)
+		Tooltip: MaestroVGM - Dragon's Domain
+	}
+
+	OtherInfernoNightBox: {
+		DisplayName: Caja de música Alternativa (Infierno Nocturno)
+		Tooltip: MaestroVGM - Ashfall
+	}
+
+	OtherMireCavernsBox: {
+		DisplayName: Caja de música Alternativa (Pantano Subterráneo)
+		Tooltip: MaestroVGM - Drowning Depths
+	}
+
+	OtherMireDayBox: {
+		DisplayName: Caja de música Alternativa (Pantano Diurno)
+		Tooltip: MaestroVGM - Veil of Mist
+	}
+
+	OtherMireNightBox: {
+		DisplayName: Caja de música Alternativa (Pantano Nocturno)
+		Tooltip: MaestroVGM - Nocturnal
+	}
+
+	ToadBox: {
+		DisplayName: Caja de música (Sapo Trufa)
+		Tooltip: SpectralAves - TODESTOOL: Regrown
+	}
+
+	OtherMushblightBox: {
+		DisplayName: Caja de música Alternativa (Plaga de Hongos)
+		Tooltip: MaestroVGM - Assimilation
+	}
+
+	MonarchBox: {
+		DisplayName: Caja de música (Monarca de los Hongos)
+		Tooltip: SpectralAves - Fetid Face-off
+	}
+
+	OtherMonarchBox: {
+		DisplayName: Caja de música Alternativa (Monarca de los Hongos)
+		Tooltip: MaestroVGM - Metastasis
+	}
+
+	OtherToadBox: {
+		DisplayName: Caja de música Alternativa (Sapo Trufa)
+		Tooltip: MaestroVGM - Symbiosis
+	}
+
+	MushblightBox: {
+		DisplayName: Caja de música (Plaga de Hongos)
+		Tooltip: SpectralAves - Deep-Rooted Rot
+	}
+
+	LifeMenuBox: {
+		DisplayName: Caja de música (Menú de la Vida)
+		Tooltip: SpectralAves - The Ancient Sickness
+	}
+
+	OtherLifeMenuBox: {
+		DisplayName: Caja de música Alternativa (Menú de la Vida)
+		Tooltip: MaestroVGM - Origin
+	}
+}
+
+Configs: {
+	AAMConfigClient: {
+		DisplayName: Configuración de Cliente de Música AA
+
+		OtherworldSoundtrack: {
+			Label: Banda Sonora Alternativa
+			Tooltip: ""
+		}
+	}
+}

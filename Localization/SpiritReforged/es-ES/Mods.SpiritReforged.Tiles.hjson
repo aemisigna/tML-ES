@@ -1,0 +1,48 @@
+Records: {
+	CoinPortal:
+		'''
+		Siempre contiene un portal de monedas.
+
+		¡Un hallazgo afortunado!
+		'''
+	Common:
+		'''
+		Una maceta común que a veces contiene cosas útiles.
+
+		El valor aumenta cuando está más profundo bajo tierra.
+		'''
+	Zenith:
+		'''
+		Una maceta común que a veces contiene cosas útiles... esta es innecesariamente recargada.
+
+		El valor aumenta cuando está más profundo bajo tierra.
+		'''
+	Potion: Contiene un brebaje potente.
+	UpsideDown: `Error de fabricación`
+	Worm: Dispersa una variedad de gusanos cuando se destruye.
+	Platter: Una comida caliente lista para llevarse. ¿Quién dejaría esto atrás?
+	WickerBasket: ¡Un pícnic, solo para ti!
+	Aether: Proporciona varias mejoras útiles y brillantes.
+	Stuffed: Qué lugar extraño para encontrar a un comerciante. Solo están pidiendo que los molesten.
+	Scrying: Revela una gran porción del mapa al ser destruido.
+	Biome: Contiene una mayor variedad de botín que las macetas comunes.
+	Boulder: Rueda por el suelo cuando se perturba.
+}
+
+FablesGraves: {
+	SetNames: {
+		Savanna: Tumbas de la Sabana
+		SaltFlats: Tumbas de Sal
+	}
+}
+
+HydrothermalVent.MapEntry: Chimenea Hidrotermal
+OreCarts.MapEntry: Carrito Minero
+PotionVats.MapEntry: Depósito de Pociones
+ObsidianShroom.MapEntry: Hongo de Obsidiana
+Starflower.MapEntry: Flor de Estrella
+BonsaiTrees.MapEntry: Bonsái
+DustyTomb.MapEntry: Tumba Polvorienta
+# Neither of the moss entries are used by Reforged, but rather used for Recipe Browser for another mod's, Everware's, functionality
+OganessonMoss.MapEntry: Musgo de Oganesón
+RadonMoss.MapEntry: Musgo de Radón

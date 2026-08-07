@@ -1,0 +1,91 @@
+ModName: Spirit Music
+Salvati: Salvati
+Sbubby: Sbubby
+By: por
+BySalvati: "{$By} {$Salvati}"
+BySbubby: "{$By} {$Sbubby}"
+
+Blizzard: {
+	DisplayName: Shivering Storms (Tema de la Ventisca)
+	Author: "{$BySalvati}"
+}
+
+CorruptNight: {
+	DisplayName: Nightmare Fuel (Tema de la Noche Corrupta)
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+CrimsonNight: {
+	DisplayName: Carnage Domain (Tema de la Noche Carmesí)
+	Author: "{$BySbubby}"
+}
+
+DesertNight: {
+	DisplayName: Kempt Dunes (Tema de la Noche del Desierto)
+	Author: "{$BySalvati}"
+}
+
+FrostLegion: {
+	DisplayName: Tougher Chill (Tema de la Legión de Escarcha)
+	Author: "{$BySalvati}"
+}
+
+Granite: {
+	DisplayName: Resounding Stones (Tema del Granito)
+	Author: "{$BySalvati}"
+}
+
+HallowNight: {
+	DisplayName: Wonderous Landscape (Tema de la Noche Santa)
+	Author: "{$BySalvati}"
+}
+
+MarbleBiome: {
+	DisplayName: Regal Tunnel (Tema del Mármol)
+	Author: "{$BySalvati}"
+}
+
+Meteor: {
+	DisplayName: Space Rocks! (Tema del Meteorito)
+	Author: "{$BySalvati}"
+}
+
+SnowNight: {
+	DisplayName: Icy Stars (Tema de la Noche de Nieve)
+	Author: "{$BySalvati}"
+}
+
+SpiderCave: {
+	DisplayName: Xyresic Horrors (Tema de la Cueva de Arañas)
+	Author: "{$BySalvati}"
+}
+
+SkeletronPrime: {
+	DisplayName: Thermite Assault (Tema de Skeletron Prime)
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+LavaLayer: {
+	DisplayName: Magmatic Depths (Tema de la Capa de Lava)
+	Author: "{$BySbubby}"
+}
+
+NeonMoss: {
+	DisplayName: Radiant Grotto (Tema del Musgo Neón)
+	Author: "{$BySbubby}"
+}
+
+TownUnderground: {
+	DisplayName: Subsurface Settlement (Tema del Pueblo Subterráneo)
+	Author: "{$BySbubby}"
+}
+
+VictoryDay: {
+	DisplayName: Adventurer's Triumph (Tema del Día de Victoria)
+	Author: "{$BySalvati}"
+}
+
+OtherworldBlizzard: {
+	DisplayName: Otherworldly Blizzard (Ventisca Alternativa)
+	Author: "{$By} Soba Noodles"
+}

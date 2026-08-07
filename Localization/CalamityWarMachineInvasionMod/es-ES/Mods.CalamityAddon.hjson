@@ -19,8 +19,8 @@ Items: {
 		DisplayName: Cohete de Wulfrum
 		Tooltip:
 			'''
-			No destruye bloques
-			[c/83B87E:'Con autoapuntado']
+			No destruye bloques.
+			[c/83B87E:'¡Con autoapuntado!']
 			'''
 	}
 
@@ -44,6 +44,16 @@ Items: {
 		Tooltip: ""
 	}
 
+	WulfrumMothershipInfernalRelic: {
+		DisplayName: Reliquia Infernal de Nave Nodriza de Wulfrum
+		Tooltip: ""
+	}
+
+	WulfrumJumperInfernalRelic: {
+		DisplayName: Reliquia Infernal de Saltador de Wulfrum
+		Tooltip: ""
+	}
+
 	WulfrumHeart: {
 		Tooltip:
 			'''
@@ -63,7 +73,7 @@ Items: {
 			DisplayName: Historia (Nave Nodriza de Wulfrum)
 			Tooltip:
 				'''
-				Durante la guerra, estas majestuosas máquinas estaban en óptimas condiciones,
+				Durante la guerra, estas majestuosas máquinas eran invencibles,
 				Ostentando armadura pesada y gran maniobrabilidad, pero el tiempo no perdona a nadie...
 				Aunque estas Naves Nodriza de Wulfrum llevan mucho tiempo oxidándose,
 				Siguen siendo un enemigo formidable hasta el día de hoy, aún protegidas por creaciones menores de wulfrum.
@@ -86,9 +96,9 @@ Items: {
 		DisplayName: Libro de Wulfrum
 		Tooltip:
 			'''
-			Crea máquinas de wulfrum a partir de maná
-			[c/83B87E:'Diseñar y comandar construcciones de Wulfrum.]
-			[c/83B87E:¡La cúspide de la ingeniería mecánica!']
+			Dispara máquinas de wulfrum que explotan, infligiendo daño en un área pequeña.
+			[c/83B87E:'Crear y comandar construcciones de Wulfrum.']
+			[c/83B87E:'¡La cúspide de la ingeniería mecánica!']
 			'''
 	}
 
@@ -96,7 +106,7 @@ Items: {
 		DisplayName: Bastón de Wulfrum
 		Tooltip:
 			'''
-			Invoca una torreta protectora
+			Invoca una pequeña torreta para protegerte.
 			[c/83B87E:'¡Tan poderosa y adorable!']
 			'''
 	}
@@ -109,11 +119,10 @@ Items: {
 	WulfrumBarrel: {
 		Tooltip:
 			'''
-			Aumenta el daño del jugador en %
-			El daño aumenta 5% cada 15 segundos
-			Bonificación máxima de daño - 20%
-			Si el jugador recibe daño, la bonificación se reinicia a 0%
-			[c/83B87E:¡Wulfrum, ya que es el mejor del mundo!]
+			Aumenta el daño hasta en un 20%
+			La mejora aumenta 5% cada 15 segundos
+			El daño adicional desaparece por completo al recibir daño.
+			[c/83B87E:'No sé cómo funciona... ¡Pero funciona!']
 			'''
 		DisplayName: Barril de Wulfrum
 	}
@@ -127,8 +136,8 @@ Items: {
 		Tooltip:
 			'''
 			Invoca la Invasión de Wulfrum
-			Colócala en el señuelo de Wulfrum
-			[c/83B87E:Batería interesante...]
+			Colócala en un señuelo de Wulfrum
+			[c/83B87E:'Una batería interesante...']
 			'''
 		DisplayName: Batería Inestable
 	}
@@ -138,9 +147,9 @@ Items: {
 			WulfrumJavelin: {
 				Tooltip:
 					'''
-					Las jabalinas tienen daño en área
-					En un golpe sigiloso, la jabalina vuela recta y más rápido
-					[c/83B87E:¡Siéntete como un espartano de Wulfrum!]
+					Explota, infligiendo daño en un área pequeña.
+					Los golpes sigilosos ignoran la gravedad y son mucho más rápidos.
+					[c/83B87E:'¡Siéntete como un espartano de Wulfrum!']
 					'''
 				DisplayName: Jabalina de Wulfrum
 			}
@@ -150,14 +159,12 @@ Items: {
 	WDAS: {
 		Tooltip:
 			'''
-			[c/83B87E:Modo de ataque:]
-			Aparecen fragmentos de Wulfrum alrededor del jugador
-			Los fragmentos aparecen cada 1.5 segundos
-			Pueden aparecer un máximo de 4 fragmentos
-			Al ver a un enemigo, se mueven hacia él e infligen daño
-			[c/42F5F1:Modo de defenza:]
-			Aumenta la defensa del jugsador en 5
-			[c/83B87E:Decodificando: sistema defensivo-atakante de Wulfrum.]
+			[c/83B87E:Modo ofensivo:]
+			Aparece un fragmento de Wulfrum alrededor del jugador cada 1.5 segundos, hasta un máximo de 4.
+			Al ver a un enemigo, se dirige hacia él y explota, infligiendo daño
+			[c/42F5F1:Modo defensivo:]
+			Aumenta la defensa en 5 y la resistencia en 10%
+			[c/83B87E:'Decodificando: sistema defensivo-atacante de Wulfrum.']
 			'''
 		DisplayName: W.D.A.S.
 		KeybindInfo: Presiona {0} para cambiar el modo del accesorio
@@ -178,7 +185,8 @@ Items: {
 		Tooltip:
 			'''
 			Invoca un prototipo de wulfrum
-			El prototipo se mueve rápido y puede embestir
+			El prototipo se mueve rápido y permite al jugador embestir
+			Doble toque en una dirección
 			'''
 	}
 
@@ -190,11 +198,6 @@ Items: {
 	MechanismWarfareMusicBox: {
 		Tooltip: Por - Digidonix
 		DisplayName: Guerra de Mecanismos (Caja de música)
-	}
-
-	UnstableCore: {
-		DisplayName: Núcleo Inestable
-		Tooltip: ""
 	}
 }
 
@@ -208,33 +211,31 @@ NPCs: {
 
 	WulfrumWormHead: {
 		DisplayName: Excavador de Wulfrum
-		Bestiary: Estos excavadores de Wulfrum se usaban para perforar rápidamente la roca, pero cuando comenzó la guerra, su alta armadura y velocidad los convirtieron en oponentes formidables.
+		Bestiary: Estos excavadores de Wulfrum se usaban para perforar rápidamente la roca, pero cuando comenzó la guerra, su alta armadura y velocidad los convirtieron en armas increíbles.
 	}
 
 	WulfrumWormTail.DisplayName: Excavador de Wulfrum
 
 	WulfrumMothership: {
 		DisplayName: Nave Nodriza de Wulfrum
-		Bestiary: Una nave nodriza masiva que coordina las acciones de las máquinas de Wulfrum. Armada con misiles teledirigidos y una minifábrica, también puede cargar a otras máquinas de Wulfrum.
+		Bestiary: Una nave nodriza masiva que coordina las acciones de las máquinas de Wulfrum. Armada con misiles teledirigidos y una minifábrica, carga a otras máquinas de Wulfrum.
 		SpawnInfo: Usa un [i:CalamityAddon/WulfrumHeart] durante el día en la superficie.
-		DespawnMessage: La Nave Nodriza de Wulfrum se ha retirado...
+		DespawnMessage: La Nave Nodriza de Wulfrum se retira...
 	}
 
 	WulfrumShield.DisplayName: Nave Nodriza de Wulfrum
 
 	WulfrumBomber: {
 		DisplayName: Bombardero de Wulfrum
-		Bestiary: Inicialmente, los bombarderos de Wulfrum fueron diseñados para transportar diversas cargas pesadas por aire, pero cuando comenzó la guerra, fueron fácilmente convertidos para cargar y soltar pequeñas bombas. Cuando estos aparecían, el enemigo huía.
+		Bestiary: Inicialmente, los bombarderos de Wulfrum fueron diseñados para transportar diversas cargas pesadas por aire, pero cuando comenzó la guerra, fueron fácilmente convertidos para cargar y soltar pequeñas bombas. El enemigo huía aterrorizado al ver cualquier señal de ellos.
 	}
 
 	WulfrumJumperP1.DisplayName: Saltador de Wulfrum
 
 	WulfrumJumperP2: {
 		DisplayName: Saltador de Wulfrum
-		Bestiary: Estas máquinas fueron diseñadas especialmente para emboscar al ejército de Yharim en terreno montañoso. Sus lanzamisles destruyen el grueso de las tropas, y otras máquinas de wulfrum acaban fácilmente con los enemigos restantehs.
+		Bestiary: Estas máquinas fueron diseñadas especialmente para emboscar al ejército de Yharim en terreno montañoso. Sus lanzamisiles destruían el grueso de las tropas, y otras máquinas de wulfrum acababan fácilmente con los enemigos restantes.
 	}
-
-	WulfrumJumper.DisplayName: Jumper de Wulfrum
 }
 
 Projectiles: {
@@ -247,37 +248,29 @@ Projectiles: {
 	WulfrumJavelinProj.DisplayName: Jabalina de Wulfrum
 	WDASShard.DisplayName: Fragmento de Wulfrum
 	WulfrumShockwave.DisplayName: Saltador de Wulfrum
-	WulfrumMinisEnemy.DisplayName: Enemigo de Wulfrum
 }
 
 Buffs: {
 	WulfrumTurretBuff: {
 		DisplayName: Torreta de Wulfrum
-		Description: Estás protegido por una torreta de wulfrum
+		Description: La torreta de Wulfrum te protegerá
 	}
 
 	WulfrumPrototypeBuff: {
-		Description: Prototipo de minitanque
+		Description: ¿Puedes creer que a esto le llamaban tanque?
 		DisplayName: Prototipo de Wulfrum
 	}
 }
 
-Mods: {
-	CalamityAddon: {
-		Events: {
-			WulfrumRush: {
-				InvasionName: Invasión de Wulfrum
-				SpawnInfo: Haz clic derecho en un [i:CalamityMod/WulfrumLureItem] con la [i:CalamityAddon/UnstableBattery] en tu inventario.
-			}
-		}
-	}
-}
-
+UI.WulfrumBarrel.DisplayName: Poder energético de Wulfrum
 Keybinds.WDASKeybind.DisplayName: Cambio de modo W.D.A.S.
 
 Events: {
 	WulfrumRush: {
 		InvasionName: Invasión de Wulfrum
 		SpawnInfo: Haz clic derecho en un [i:CalamityMod/WulfrumLureItem] con la [i:CalamityAddon/UnstableBattery] en tu inventario.
+		StartMessage: Sientes la chatarra moviéndose a tu alrededor...
+		AbortMessage: Las máquinas de Wulfrum te han derrotado...
+		EndMessage: ¡La Invasión de Wulfrum ha sido repelida!
 	}
 }

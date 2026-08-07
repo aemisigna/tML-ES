@@ -1,0 +1,40 @@
+Cascade:
+	'''
+	Infligir daño a enemigos acumula un escudo de burbuja,
+	que en tamaño máximo otorga fuerte resistencia al daño contra el próximo ataque,
+	dañando y repeliendo enemigos cercanos
+	'''
+Driftwood:
+	'''
+	Permite que el usuario flote en el agua
+	Poder de pesca aumentado
+	'''
+Drywood: Velocidad de movimiento aumentada en la superficie
+Botanist:
+	'''
+	Ganas recompensas aumentadas de hierbas de todo tipo
+	Tienes un ojo poderoso para detectar hierbas
+	'''
+Marksman:
+	'''
+	Usar la Armadura de Tirador acumula concentración
+	Mientras concentrado, tu próximo ataque es un golpe crítico e inflige más daño
+	La concentración se interrumpe al recibir daño, pero se carga más rápido mientras te mantienes quieto
+	'''
+Wayfarer:
+	'''
+	Enemigos derrotados sueltan más monedas
+	Romper macetas otorga una mejora de velocidad de movimiento
+	Minar mineral otorga una mejora de velocidad de minería
+	'''
+Granite:
+	'''
+	Pulsa doble {0} para pisar el terreno
+	Golpear el suelo libera una onda expansiva que escala con la altura
+	'''
+Sundancer:
+	'''
+	Una imagen residual te sigue con medio segundo de retraso
+	Después de gastar 30 maná, tu próximo ataque mágico cuesta 0 maná y es duplicado por tu imagen residual
+	'''
+Bedouin: Pulsa doble una dirección para envolverte en un tornado y lanzarte hacia ella, esquivando ataques

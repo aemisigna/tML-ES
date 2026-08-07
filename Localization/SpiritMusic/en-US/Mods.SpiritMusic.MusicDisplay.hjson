@@ -1,0 +1,91 @@
+ModName: Spirit Music
+Salvati: Salvati
+Sbubby: Sbubby
+By: by
+BySalvati: "{$By} {$Salvati}"
+BySbubby: "{$By} {$Sbubby}"
+
+Blizzard: {
+	DisplayName: Shivering Storms (Blizzard Theme)
+	Author: "{$BySalvati}"
+}
+
+CorruptNight: {
+	DisplayName: Nightmare Fuel (Corruption Night Theme)
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+CrimsonNight: {
+	DisplayName: Carnage Domain (Crimson Night Theme)
+	Author: "{$BySbubby}"
+}
+
+DesertNight: {
+	DisplayName: Kempt Dunes (Desert Night Theme)
+	Author: "{$BySalvati}"
+}
+
+FrostLegion: {
+	DisplayName: Tougher Chill (Frost Legion Theme)
+	Author: "{$BySalvati}"
+}
+
+Granite: {
+	DisplayName: Resounding Stones (Granite Theme)
+	Author: "{$BySalvati}"
+}
+
+HallowNight: {
+	DisplayName: Wonderous Landscape (Hallow Night Theme)
+	Author: "{$BySalvati}"
+}
+
+MarbleBiome: {
+	DisplayName: Regal Tunnel (Marble Theme)
+	Author: "{$BySalvati}"
+}
+
+Meteor: {
+	DisplayName: Space Rocks! (Meteorite Theme)
+	Author: "{$BySalvati}"
+}
+
+SnowNight: {
+	DisplayName: Icy Stars (Snow Night Theme)
+	Author: "{$BySalvati}"
+}
+
+SpiderCave: {
+	DisplayName: Xyresic Horrors (Spider Cave Theme)
+	Author: "{$BySalvati}"
+}
+
+SkeletronPrime: {
+	DisplayName: Thermite Assault (Skeletron Prime Theme)
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+LavaLayer: {
+	DisplayName: Magmatic Depths (Lava Layer Theme)
+	Author: "{$BySbubby}"
+}
+
+NeonMoss: {
+	DisplayName: Radiant Grotto (Neon Moss Theme)
+	Author: "{$BySbubby}"
+}
+
+TownUnderground: {
+	DisplayName: Subsurface Settlement (Underground Town Theme)
+	Author: "{$BySbubby}"
+}
+
+VictoryDay: {
+	DisplayName: Adventurer's Triumph (Victory Day Theme)
+	Author: "{$BySalvati}"
+}
+
+OtherworldBlizzard: {
+	DisplayName: Otherworldly Blizzard
+	Author: "{$By} Soba Noodles"
+}
