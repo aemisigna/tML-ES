@@ -683,6 +683,19 @@ LeadTomahawk: {
 		'''
 }
 
+LemonNade: {
+	DisplayName: Limo'nada
+	Tooltip:
+		'''
+		Desactiva la generación normal de sigilo
+		Mantén <left> para quitar el seguro y generar sigilo, y suelta para lanzar
+		Cuanto más tiempo se mantiene, más corto es el fusible una vez lanzada la 'nada
+		Explotará en tu mano si el fusible se mantiene demasiado tiempo
+		Los golpes furtivos explotan en semillas de limón explosivas
+		'¡Quémalos vivos!'
+		'''
+}
+
 LeonidProgenitor: {
 	DisplayName: Progenitor Leónida
 	Tooltip:
@@ -890,6 +903,15 @@ ProfanedPartisan: {
 		'''
 }
 
+Pumpkaboom: {
+	DisplayName: Calabazaboom
+	Tooltip:
+		'''
+		Lanza una calabaza que se adhiere a los enemigos y explota tras un retraso
+		Los golpes furtivos lanzan calabazas más grandes que atraen a los enemigos antes de liberar una explosión mayor
+		'''
+}
+
 RadiantStar: {
 	DisplayName: Estrella Radiante
 	Tooltip:
@@ -1066,17 +1088,6 @@ SkyfinBombers: {
 		Lanza un misil skyfin que se dirige a los enemigos que están debajo
 		Los golpes furtivos se dirigen rápidamente independientemente de la posición del enemigo
 		'¡Bombarderos pez entrantes!'
-		'''
-}
-
-SlickCane: {
-	DisplayName: Bastón Resbaladizo
-	Tooltip:
-		'''
-		Golpea con un bastón que roba dinero a los enemigos
-		Los golpes furtivos dan una probabilidad de 1 en 20 de que los enemigos suelten 1-2 monedas de oro al ser golpeados
-		Los golpes furtivos aumentan el daño en proporción al dinero en el inventario, hasta 1 Platino
-		'La economía en su máxima expresión'
 		'''
 }
 
@@ -1262,7 +1273,7 @@ TimeBolt: {
 		'''
 		Lanza un cuchillo temporal que causa [cbuff:CalamityMod/TimeDistortion] alrededor de los enemigos
 		Los golpes furtivos pueden golpear a más enemigos y crear un campo temporal más grande
-		'No debe haber límites para el empeño humano'
+		'Toda doncella necesita un cuchillo, y todo cuchillo necesita una tabla de cortar'
 		'''
 }
 
@@ -1359,6 +1370,17 @@ Vega: {
 		'''
 }
 
+WalkingCane: {
+	DisplayName: Bastón de Paseo
+	Tooltip:
+		'''
+		Golpea con un bastón de paseo puntiagudo
+		Los golpes furtivos drenan la cordura de los enemigos, provocando la invocación de manos sombrías al ser atacados
+		Mientras se sostiene, aumenta la velocidad de movimiento en {0}%
+		'¿Me está paseando a mí, o soy yo quien lo paseo?'
+		'''
+}
+
 WaveSkipper: {
 	DisplayName: Saltador de Olas
 	Tooltip:
@@ -1406,27 +1428,5 @@ WulfrumKnife: {
 		Los golpes furtivos hacen que el cuchillo vuele más lejos y golpee varias veces a la vez
 		<right> para magnetizar todos los cuchillos clavados de vuelta a ti, restaurando sigilo
 		Los cuchillos que regresan también permiten temporalmente usar golpes furtivos sin armadura de pícaro
-		'''
-}
-
-Pumpkaboom: {
-	DisplayName: Calabazaboom
-	Tooltip:
-		'''
-		Lanza una calabaza que se adhiere a los enemigos y explota tras un retraso
-		Los golpes furtivos lanzan calabazas más grandes que atraen a los enemigos antes de liberar una explosión mayor
-		'''
-}
-
-LemonNade: {
-	DisplayName: Limo'nada
-	Tooltip:
-		'''
-		Desactiva la generación normal de sigilo
-		Mantén <left> para quitar el seguro y generar sigilo, y suelta para lanzar
-		Cuanto más tiempo se mantiene, más corto es el fusible una vez lanzada la 'nada
-		Explotará en tu mano si el fusible se mantiene demasiado tiempo
-		Los golpes furtivos explotan en semillas de limón explosivas
-		'¡Quémalos vivos!'
 		'''
 }

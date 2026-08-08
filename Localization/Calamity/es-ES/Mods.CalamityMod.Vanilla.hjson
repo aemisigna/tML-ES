@@ -128,11 +128,7 @@ EditedTooltip: {
 	*/
 	Campfires: La regeneración de vida aumenta en 0.5 PV/s al estar cerca de una hoguera
 	HeartLantern: Otorga +1 PV/s de regeneración de vida cuando está colocada cerca
-	BottledHoney:
-		'''
-		Otorga +1 PV/s de regeneración de vida por un corto tiempo
-		Otorga +1 PV/s adicional de regeneración de vida mientras se está bajo un efecto negativo dañino
-		'''
+	BottledHoney: Otorga la mejora [cbuffplr:Honey] durante 15 segundos
 	ShinyStone: Otorga +2 PV/s de regeneración de vida y acelera la regeneración de vida natural cuando no te mueves
 	BandofRegeneration: Otorga +1 PV/s de regeneración de vida
 	CharmofMyths: Otorga +1 PV/s de regeneración de vida y reduce el tiempo de reutilización de las pociones de curación en un 25%
@@ -183,13 +179,13 @@ EditedTooltip: {
 		'''
 	FrogLeg: Aumenta la velocidad de salto en un {0}% y permite el salto automático
 	// Soaring Insignia
-	EmpressFlightBooster1: Aumenta el tiempo de vuelo de alas en un 33%
+	EmpressFlightBooster1: Otorga 2.5 segundos adicionales de tiempo de vuelo
 	EmpressFlightBooster2: Aumenta la velocidad de movimiento en un 7.5%, la velocidad de salto en un 10% y la aceleración en 1.25x
 	GravityGlobe:
 		'''
-		Proporciona un 32% más de velocidad de salto y mayor velocidad de caída
+		Proporciona un 40% más de velocidad de salto y mayor velocidad de caída
 		Proporciona un salto de impulso gravitacional, que se recarga cada vez que la gravedad se invierte
-		Mejora ligeramente la velocidad de movimiento aéreo sin alas
+		Mejora la velocidad de movimiento aéreo sin alas
 		Pulsa {$Key.UP} para cambiar la gravedad
 		Pulsa {$Key.DOWN} para caer más rápido
 		'''
@@ -198,6 +194,12 @@ EditedTooltip: {
 		25% más de daño del efecto negativo de Calor
 		Todos los ataques prenden fuego a los enemigos
 		'Nunca más tengas los pies fríos'
+		'''
+	VolatileGelatin:
+		'''
+		Cada 5 gelatinas volátiles que impactan, aparece un Slime Volátil alado, hasta un máximo de 6
+		Cada Slime Volátil otorga un 5% más de velocidad de salto y 0.3 segundos de tiempo de vuelo
+		Quedarte sin tiempo de vuelo elimina las alas del Slime Volátil y lo desprende de ti
 		'''
 	/*
 	Armor
@@ -400,7 +402,7 @@ TavernkeepChat.FullMoon: ¿Te apetece un poco de licor de luna?
 TaxCollectorChat: {
 	DoGDefeated: ¿Devorador de qué, dijiste? ¡Devorador de Fondos, si su nómina sirve de indicativo!
 	PreBrimmy: ¿Así que esos gamberros en Azafure creen que pueden vivir gratis en mis tierras? Te lo digo así: haz mi trabajo allí y quizás te dé una bonificación.
-	HasSlickCane: ¡Dios mío! ¡Ese bastón tiene estilo!
+	HasWalkingCane: ¡Dios mío! ¡Ese bastón tiene estilo!
 	Has100Plat: ¡BAH! ¡Parece que nunca podré volver a disputar las deudas del pueblo!
 	Has500Plat: ¿De dónde y cómo consigues todo ese dinero?! ¡Lárgate, ya no me necesitas!
 }
@@ -523,7 +525,7 @@ TownNPCMood: {
 	PartyGirl: {
 		Monument: ¡Uf, vamos a tener una fea estatua de la codicia por aquí? Eso como que mata totalmente el ambiente de fiesta por aquí.
 		GiftPositive: ¿REGALOS DE FIESTA? ¿PARA MÍ? Oh espera y verás, ¡voy a organizar la FIESTA MÁS GRANDE que este pueblo haya visto jamás, por siempre y para siempre!
-		GiftNegative: ¡Sabía que eras un problema cuando entraste en esa caja de aspecto sospechoso! ¡Ahora es demasiado tarde para disculparse!
+		GiftNegative: ¡Sabía que eras un problema cuando entraste con esa caja de aspecto sospechoso! ¡Ahora es demasiado tarde para disculparse!
 	}
 
 	Pirate: {

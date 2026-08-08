@@ -140,7 +140,7 @@ ShadowPotion: {
 
 SoaringPotion: {
 	DisplayName: Poción de Vuelo
-	Tooltip: Aumenta en un {0}% el tiempo de vuelo y la velocidad de vuelo horizontal
+	Tooltip: Aumenta el tiempo de vuelo en un {0}%
 }
 
 SulphurskinPotion: {
@@ -164,7 +164,7 @@ TheConcoction: {
 	Tooltip:
 		'''
 		Recupera 9999 de vida
-		Se puede usar incluso si tienes Enfermedad de poción si se presiona Curación rápida repetidamente
+		Se puede usar incluso si tienes [cbuffplr:PotionSickness] si se presiona Curación rápida repetidamente
 		'''
 	SalesPitch:
 		'''

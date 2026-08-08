@@ -12,7 +12,7 @@ BloodfireArrow: {
 	Tooltip:
 		'''
 		Flechas de alta velocidad con la punta empapada de sangre
-		Disparar estas flechas drenan tu salud y aumentan el daño de la flecha un 30%
+		Disparar estas flechas drenan tu salud y aumentan el daño de la flecha un 20%
 		Acelera tu regeneración de vida natural y te cura al golpear
 		'''
 }
@@ -59,7 +59,11 @@ DryadsTear: {
 
 ElysianArrow: {
 	DisplayName: Flecha Elísea
-	Tooltip: Al impactar, invoca luz purificadora desde arriba y desde abajo en el enemigo más cercano
+	Tooltip:
+		'''
+		Al impactar, invoca luz purificadora desde arriba y desde abajo en el enemigo más cercano
+		La luz purificadora ignora 15 puntos de defensa del enemigo
+		'''
 }
 
 FlashRound: {
@@ -85,7 +89,7 @@ HailstormBullet: {
 	Tooltip:
 		'''
 		Una vez disparadas, las balas se desaceleran rápidamente
-		Los golpes críticos causan una congelación súbita, infligiendo daño adicional y congelando a los enemigos que no sean jefes
+		Los golpes críticos causan una congelación súbita, infligiendo daño adicional según tu probabilidad de crítico y congelando a los enemigos
 		'''
 }
 

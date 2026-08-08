@@ -249,11 +249,7 @@ BloodflareHeadRogue: {
 		{$Common.RogueStealth}
 		{$BloodflareHeadRogue.SetBonusEffect@1}
 		'''
-	SetBonusEffect:
-		'''
-		Otorga {0} de defensa cuando tienes más del {1}% de vida
-		{$BloodflareBodyArmor.CommonSetBonus}
-		'''
+	SetBonusEffect: "{$BloodflareBodyArmor.CommonSetBonus}"
 }
 
 BloodflareHeadSummon: {
@@ -285,13 +281,17 @@ DemonshadeBreastplate: {
 		{$CommonItemTooltip.PercentIncreasedDamageCritChance@1}
 		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@2}
 		{$CommonItemTooltip.PercentChanceToSaveAmmo@3}
-		Quedarte quieto absorbe sombras para otorgarte regeneración de vida exponencialmente acelerada
+		Quedarte quieto otorga una regeneración de vida exponencialmente acelerada
 		'''
 }
 
 DemonshadeGreaves: {
 	DisplayName: Grebas Demoniosombra
-	Tooltip: Velocidad sombría
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed} y {1}% de aceleración aumentada
+		[c/aaaaaa:Shift-<right> en tu inventario para alternar el aumento de aceleración]
+		'''
 }
 
 DemonshadeHelm: {
@@ -705,7 +705,6 @@ TarragonHeadRogue: {
 		'''
 		Tras cada {0} críticos de pícaro ganarás {1} segundos de inmunidad al daño
 		Este efecto tiene un tiempo de espera de {2} segundos
-		Mientras estés bajo los efectos de un efecto negativo, ganas un {3}% de daño de pícaro aumentado
 		{$TarragonBreastplate.CommonSetBonus}
 		'''
 }

@@ -6,7 +6,7 @@ CalamityClientConfig: {
 		Graphics: Cambios Gráficos
 		UI: Cambios de Interfaz
 		MeterPositions: Posiciones de los Medidores
-		MusicToggles: Alternancias de Música
+		AudioToggles: Alternancias de Audio
 	}
 
 	AbyssLayer3Alt: {
@@ -38,6 +38,15 @@ CalamityClientConfig: {
 			'''
 			Activa el renderizado de estelas para NPCs, proyectiles y otros elementos de Calamity.
 			Desactívalo para mejorar el rendimiento.
+			'''
+	}
+
+	BoCSpriteChange: {
+		Label: "[i:BrainOfConfusion] Eliminar Imágenes Potencialmente Perturbadoras"
+		Tooltip:
+			'''
+			Reemplaza algunos sprites de jefes para eliminar imágenes que podrían resultar perturbadoras o desencadenar fobias.
+			Muy recomendado si te incomoda el horror corporal o tienes tripofobia.
 			'''
 	}
 
@@ -98,15 +107,6 @@ CalamityClientConfig: {
 			'''
 			Desactiva el volteo de pantalla de la vainilla al cambiar la gravedad, volteando al jugador en su lugar.
 			Actívalo si el volteo de pantalla te distrae o te provoca mareos.
-			'''
-	}
-
-	EnableVanillaTextureEdits: {
-		Label: "[i:Paintbrush] Activar Ediciones de Texturas Vainilla"
-		Tooltip:
-			'''
-			Activa ligeras ediciones a las texturas de jefes de la vainilla para mejorar los indicadores de ataques.
-			Desactívalo para compatibilidad con paquetes de texturas.
 			'''
 	}
 
@@ -187,6 +187,15 @@ CalamityClientConfig: {
 			'''
 	}
 
+	MisophoniaSupport: {
+		Label: "[i:Megaphone] Desactivar Audio Potencialmente Perturbador"
+		Tooltip:
+			'''
+			Desactiva o modifica múltiples efectos de sonido repetitivos y potencialmente angustiantes.
+			Muy recomendado para quienes padecen misofonía.
+			'''
+	}
+
 	ParticleLimit: {
 		Label: "[i:FragmentStardust] Límite Máximo de Partículas"
 		Tooltip:
@@ -205,15 +214,6 @@ CalamityClientConfig: {
 			Reduce o desactiva el brillo y/o el destello de ciertos efectos visuales.
 			También desactiva todos los efectos de vibración de pantalla.
 			Muy recomendado si eres fotosensible.
-			'''
-	}
-
-	BoCSpriteChange: {
-		Label: "[i:BrainOfConfusion] Eliminar Imágenes Potencialmente Perturbadoras"
-		Tooltip:
-			'''
-			Reemplaza algunos sprites de jefes para eliminar imágenes que podrían resultar perturbadoras o desencadenar fobias.
-			Muy recomendado si te incomoda el horror corporal o tienes tripofobia.
 			'''
 	}
 

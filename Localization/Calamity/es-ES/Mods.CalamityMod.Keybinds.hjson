@@ -1,19 +1,17 @@
-ActivateAccessoryParry.DisplayName: Activar parry de accesorio
 AdrenalineMode.DisplayName: Modo Adrenalina
-AmmoCycle.DisplayName: Tecla de ciclo de munición
-AngelicAllianceBlessing.DisplayName: Bendición de la Alianza Angélica
 ArmorSetBonus.DisplayName: Bono de conjunto de armadura
-AscendantInsigniaHotKey.DisplayName: Vuelo de la Insignia Ascendente
-BoosterDash.DisplayName: Impulso de propulsor
 DashDoubleTapOverride.DisplayName: Anular doble toque de impulso
 ExoChairSlowDown.DisplayName: Ralentizar Exosilla
 GodSlayerDash.DisplayName: Impulso Dimensional
-GravistarSabatonHotkey.DisplayName: Caída de los Pisoteadores Interestelares
 NormalityRelocator.DisplayName: Reubicador de Normalidad
 RageMode.DisplayName: Modo Rabia
-SpectralVeilTeleport.DisplayName: Teletransporte del Velo Espectral
-TransformerHotKey.DisplayName: Tecla del Transformador
 GravitySwapOverride.DisplayName: Anular cambio de gravedad
 ExpandDebuffInfo.DisplayName: Ver información de efectos negativos
-ThePointerLock.DisplayName: Bloqueo del puntero
-SpringStoolJumpHotKey.DisplayName: Tecla de salto con taburete de resortes
+HeldItem.DisplayName: Habilidad del Objeto Sostenido
+Accessory1.DisplayName: Habilidad de Accesorio 1
+Accessory2.DisplayName: Habilidad de Accesorio 2
+Accessory3.DisplayName: Habilidad de Accesorio 3
+Accessory4.DisplayName: Habilidad de Accesorio 4
+Accessory5.DisplayName: Habilidad de Accesorio 5
+Accessory6.DisplayName: Habilidad de Accesorio 6
+Accessory7.DisplayName: Habilidad de Accesorio 7

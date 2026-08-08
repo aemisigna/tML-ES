@@ -25,8 +25,6 @@ StealthInfoText:
 	'''
 // Difficulty UI
 DifficultyStatusText: "{0} está {1}."
-InfernumActive: activo
-InfernumNotActive: desactivado
 ModeAppend: Modo {0}
 Active: Activo
 NotActive: No activo
@@ -131,6 +129,7 @@ Cooldowns: {
 	MasterChefShieldDurability: Nivel del Escudo MJOLNIR
 	MasterChefShieldRecharge: Recarga del Escudo MJOLNIR
 	NebulousCore: Enfriamiento del Núcleo Nebuloso
+	OblivionCooldown: Enfriamiento de Oblivion
 	OldDukeScalesFatigue: Resistencia
 	OmegaBlueActive: Locura Abisal
 	OmegaBlueCooldown: Enfriamiento de Locura Abisal

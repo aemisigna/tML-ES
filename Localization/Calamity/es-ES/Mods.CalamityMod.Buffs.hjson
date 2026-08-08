@@ -918,6 +918,17 @@ Encased: {
 	Description: La defensa aumenta en {0} y la reducción de daño en {1}%, pero...
 }
 
+FulfilledContract: {
+	DisplayName: Contrato Cumplido
+	Description: Una recompensa ganada con sangre y lágrimas
+	ItemTooltipPlayer:
+		'''
+		25% menos de tiempo de reutilización de la Poción de Curación
+		75% más de poder de regeneración natural
+		Todos los ataques infligen Laceración
+		'''
+}
+
 GraxBoost: {
 	DisplayName: Impulso Grax
 	Description: Tus defensas y músculos son fuertes
@@ -1027,7 +1038,7 @@ ReaverRage: {
 		Ira de la tierra
 		La defensa aumenta en {0} y el daño en {1}%
 		'''
-	ItemTooltipPlayer: Aumenta tu defensa en 10 y el daño en un 10%
+	ItemTooltipPlayer: Aumenta tu defensa en 5 y el daño en un 10%
 }
 
 SandsWindBuff: {
@@ -1274,9 +1285,9 @@ BabyBloodCrawlerBuff: {
 	Description: La bebé arañasangre te protegerá
 }
 
-BabySlimeGodBuff: {
-	DisplayName: Bebé Dios Slime
-	Description: El Dios Slime te protegerá
+BabyPaladinBuff: {
+	DisplayName: Paladín Bebé
+	Description: El paladín marchito te protegerá
 }
 
 BabyStormlionBuff: {
@@ -1292,6 +1303,11 @@ BelladonnaSpiritBuff: {
 BlackHawkBuff: {
 	DisplayName: Halcón Negro
 	Description: El caza te protegerá
+}
+
+BlightedSlime: {
+	DisplayName: Slime Marchito
+	Description: El slime marchito te protegerá
 }
 
 BrimseekerBuff: {
@@ -1334,11 +1350,6 @@ CloudElemental: {
 	Description: El Elemental de Nube te protegerá
 }
 
-Corroslime: {
-	DisplayName: Corroslime
-	Description: El corroslime te protegerá
-}
-
 CorvidHarbringerBuff: {
 	DisplayName: Cuervo
 	Description: El poderoso cuervo te protegerá
@@ -1357,11 +1368,6 @@ CosmicViperEngineBuff: {
 CosmilampBuff: {
 	DisplayName: Cosmilamp
 	Description: La cosmilamp te protegerá
-}
-
-Crimslime: {
-	DisplayName: Crimslime
-	Description: El crimslime te protegerá
 }
 
 DaedalusCrystalBuff: {
@@ -1771,7 +1777,7 @@ Daybroken: {
 Shadowflame: {
 	DisplayName: Llamaumbra
 	ItemTooltipPlayer: Calor - 15 DPS
-	ItemTooltipEnemy: Calor - 30 DPS
+	ItemTooltipEnemy: Calor - 20 DPS
 }
 
 ForbiddenStealthSummonTagBuff: {
@@ -1803,14 +1809,16 @@ SmashedEvil: {
 	Description: Mayor daño, velocidad de movimiento y regeneración
 	ItemTooltipEnemy:
 		'''
-		Todos los tipos - 20 DPS
+		Todos los tipos - 80 DPS
+		Ignora las debilidades y resistencias del enemigo
 		+5 de daño recibido
 		'''
 	ItemTooltipPlayer:
 		'''
-		La regeneración vuelve a plena potencia un 200% más rápido
-		10% más de daño
-		20% más de velocidad de movimiento
+		La regeneración natural es mucho más fuerte y se restablece mucho más rápido
+		20% más de daño
+		Mayor aceleración y desaceleración
+		Velocidad máxima aumentada en 5 mph
 		'''
 }
 

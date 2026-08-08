@@ -23,7 +23,7 @@ AstralInfectionBiome: {
 
 AstralIce: {
 	DisplayName: Hielo Astral
-	TownNPCDialogueName: Nieve Astral
+	TownNPCDialogueName: Hielo Astral
 }
 
 AbyssLayer1Biome: {
@@ -72,18 +72,13 @@ SunkenSeaBiome: {
 }
 
 AstralUnderground: {
-	DisplayName: Astral Subterráneo
+	DisplayName: Infección Astral Subterránea
 	TownNPCDialogueName: Infección Astral Subterránea
 }
 
 AstralCaveDesert: {
 	DisplayName: Desierto de Cueva Astral
 	TownNPCDialogueName: el Desierto de Cueva Astral
-}
-
-FloralParadiseBiome: {
-	DisplayName: Paraíso Floral
-	TownNPCDialogueName: el Paraíso Floral
 }
 
 BasaltGullyBiome: {

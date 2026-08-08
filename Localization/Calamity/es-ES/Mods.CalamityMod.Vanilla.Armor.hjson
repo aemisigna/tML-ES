@@ -16,7 +16,7 @@ SetBonus: {
 			Aumenta en un {0}% la velocidad máxima y aceleración
 			Obtienes un aumento de daño y probabilidad de ataque crítico en relación a tu velocidad de movimiento actual, hasta un {0}%
 			'''
-		Melee: Aumenta un 10% el daño cuerpo a cuerpo
+		Melee: Aumenta un 10% la velocidad cuerpo a cuerpo
 	}
 
 	Copper: Aumenta todo el daño en {0}
@@ -48,11 +48,7 @@ SetBonus: {
 		Aumenta un {0}% el daño, el cual escala en función de la distancia a la que se encuentre el objetivo
 		A menor distancia otorga daño cuerpo a cuerpo, mientras que a mayor distancia otorga daño a distancia
 		'''
-	Gladiator:
-		'''
-		+60 de sigilo máximo
-		Aumenta un 5% el daño de pícaro y en un 10% la velocidad de los proyectiles
-		'''
+	Gladiator: +{0} de sigilo máximo
 	Gold:
 		'''
 		Todos los enemigos tienen un {0}% de probabilidad de soltar 1 moneda de oro adicional

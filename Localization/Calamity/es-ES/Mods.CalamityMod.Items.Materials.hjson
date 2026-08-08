@@ -58,11 +58,6 @@ Bloodstone: {
 	Tooltip: ""
 }
 
-BloodstoneCore: {
-	DisplayName: Núcleo de Piedra de Sangre
-	Tooltip: ""
-}
-
 CoreofCalamity: {
 	DisplayName: Núcleo de la Calamidad
 	Tooltip: ""
@@ -218,7 +213,7 @@ PlagueCellCanister: {
 }
 
 PlasmaDriveCore: {
-	DisplayName: Núcleo Prototipo de Motor de Plasma
+	DisplayName: Prototipo de Motor de Plasma
 	Tooltip: A pesar del tiempo que pasó almacenado, su horno aún arde con fuerza
 }
 

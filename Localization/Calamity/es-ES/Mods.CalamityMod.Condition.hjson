@@ -38,11 +38,11 @@ Drops: {
 	DownedClamHM: Tras derrotar a la Almeja Gigante en Modo Difícil
 	DownedGSS: Tras derrotar al Gran Tiburón de Arena
 	DownedBetsy: Tras derrotar a Betsy
+	DownedDreadnautilus: Tras derrotar al Dreadnautilus
 	DownedT1AR: Tras completar el primer nivel de la Lluvia Ácida
 	DownedT2AR: Tras completar el segundo nivel de la Lluvia Ácida
 	FirstKill: Solo cae en la primera muerte
 	MechBoss: Cae en la primera muerte del último Jefe Mecánico
-	ProvidenceEnraged: Cae si Providencia fue enfurecida
 	ProvidenceChallenge:
 		'''
 		Cae si Providencia fue derrotada solo con el [i:CalamityMod/ProfanedSoulArtifact] Artefacto del Alma Profanada
@@ -52,7 +52,6 @@ Drops: {
 
 // Other conditions
 HasFlareGun: Al sostener una mejora de Pistola de Bengalas
-LacewingBestiary: Cuando al menos el 40% del Bestiario ha sido completado
 CrescentMoons: Durante una luna creciente
 GibbousMoons: Durante una luna gibosa
 HasRogueArmor: Al llevar armadura de pícaro

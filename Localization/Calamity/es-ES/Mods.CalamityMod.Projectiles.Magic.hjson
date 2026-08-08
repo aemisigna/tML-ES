@@ -43,7 +43,9 @@ BloodRay.DisplayName: Rayo de Sangre
 BlueBubble.DisplayName: Burbuja
 BlushieStaffProj.DisplayName: Báculo de Blushie
 BrimroseBeam.DisplayName: Rayo de Rosa de Azufre
-BrimstoneHellfireballFriendly.DisplayName: Bola de Fuego Infernal
+CalamitousDartFriendly.DisplayName: Dardo Calamitoso Amigable
+CalamitousExplosionFriendly.DisplayName: Explosión Calamitosa Amigable
+CalamitousFireballFriendly.DisplayName: Bola de Fuego Calamitosa Amigable
 CauldronProj.DisplayName: Smauldron
 CauldronProjSmall.DisplayName: Smaullerdron
 ChronoIcicleLarge.DisplayName: Carámbano Crono
@@ -77,6 +79,8 @@ ExoVortex2.DisplayName: Vórtice Absorbente
 FatesRevealFlame.DisplayName: Revelación del Destino
 FireImplosion.DisplayName: Contracorriente Arremolinada
 FlareBoltProjectile.DisplayName: Proyectil de Bengala
+FleshTotemMinion.DisplayName: Súbdito de Tótem de Carne
+FleshTotemSoul.DisplayName: Alma de Tótem de Carne
 ForbiddenAxeBlade.DisplayName: Hoja de la Ruina
 ForbiddenSunburst.DisplayName: Rayo de Sol
 ForbiddenSunProjectile.DisplayName: Sol Prohibido
@@ -96,7 +100,6 @@ HadalUrnLamprey.DisplayName: Lamprea de Mar
 HadalUrnStarfish.DisplayName: Estrella de Mar de las Marianas
 HadalUrnStarfishShard.DisplayName: Fragmento de Estrella de Mar
 HeliumFlashBlast.DisplayName: Destello de Helio
-HellfireExplosionFriendly.DisplayName: Explosión
 HellwingBat.DisplayName: Ala del Infierno Cinérea
 HolyFlame.DisplayName: Llama Bendita
 HolyLaser.DisplayName: Láser Bendito
@@ -149,6 +152,7 @@ MelterNote2.DisplayName: Canción de Fundidor
 MeteorStar.DisplayName: Estrella de Meteoro
 MeteorStarExplosion.DisplayName: Explosión
 MiasmaGas.DisplayName: Gas Miasma
+MoonSigil.DisplayName: Sigilo Lunar
 NanoPurgeLaser.DisplayName: Rayo Nano
 NebulaCloud.DisplayName: Nube de Nebulosa
 NebulaCloudCore.DisplayName: Núcleo de Nube de Nebulosa
@@ -186,7 +190,6 @@ PrinceFlameSmall.DisplayName: Fuego Bendito
 RainbowComet.DisplayName: Cometa
 RainbowRocket.DisplayName: Cohete Arcoíris
 RancorArm.DisplayName: Brazo Vengativo
-RancorFog.DisplayName: La Niebla Se Acerca
 RancorLargeCinder.DisplayName: Ceniza de Lava
 RancorLaserbeam.DisplayName: El Rayo Enojado
 RancorMagicCircle.DisplayName: Círculo Mágico
@@ -228,6 +231,7 @@ SoulPiercerBeam.DisplayName: Perforaalmas
 SoulPiercerBolt.DisplayName: Perforaalmas
 SparkInfernal.DisplayName: Chispa
 SparklingLaser.DisplayName: Láser Chispeante
+SpectralFeather.DisplayName: Pluma Espectral
 SpiritCongregation.DisplayName: Monstruo Espiritual
 SpiritDust.DisplayName: Polvo Espiritual
 Starblast.DisplayName: Estrella
@@ -288,7 +292,3 @@ WyvernFeatherPurple.DisplayName: Pluma
 WyvernProjectile.DisplayName: Guiverno
 YharimsCrystalBeam.DisplayName: Rayo de Yharim
 YharimsCrystalPrism.DisplayName: Christal de Yermes
-FleshTotemMinion.DisplayName: Súbdito de Tótem de Carne
-FleshTotemSoul.DisplayName: Alma de Tótem de Carne
-SpectralFeather.DisplayName: Pluma Espectral
-MoonSigil.DisplayName: Sigilo Lunar

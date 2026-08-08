@@ -226,11 +226,11 @@ ProfanedCore: {
 	DisplayName: Núcleo Profanado
 	Tooltip:
 		'''
-		Invoca a Providencia si se usa en la Bendición o el Inframundo
-		Úsalo de nuevo mientras Providencia tenga mucha vida para desatar Su furia perfecta
+		Invoca a Providencia si se usa en la Bendición o el Inframundo[ENRAGE]
 		{$Common.NotConsumable}
 		'El corazón de Sus Guardianes; Su maliciosa ira arderá sobre quien ahora lo empuñe.'
 		'''
+	EnrageText: "[c/64c8fa:¡La naturaleza de este mundo desatará Su furia perfecta, ten cuidado!]"
 }
 
 ProfanedShard: {

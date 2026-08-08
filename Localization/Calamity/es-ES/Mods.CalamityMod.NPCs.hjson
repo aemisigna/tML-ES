@@ -284,6 +284,7 @@ SupremeCalamitas.DisplayName: la Bruja Suprema, Calamitas
 SupremePermafrost: Archimago Supremo, Permafrost
 SupremeCataclysm.DisplayName: Cataclismo
 SupremeCatastrophe.DisplayName: Catástrofe
+VolatileSlime.DisplayName: Slime Volátil
 Yharon.DisplayName: Yharon, Dragón del Renacimiento
 YharonPhase2: Yharon, Fénix Resplandeciente
 AndroombaFriendly.DisplayName: Androomba Amigo
@@ -336,7 +337,7 @@ Bandit: {
 	Census.SpawnCondition: Ten una {$ItemName.PlatinumCoin} [i:PlatinumCoin] en tu inventario tras derrotar al Esqueletrón
 
 	Name: {
-		Laura: Laura
+		Taylor: Taylor
 		Mie: Mie
 		Bonnie: Bonnie
 		Sarah: Sarah
@@ -373,7 +374,7 @@ Bandit: {
 		BrimstoneWitch: Oye, oye, ¿de verdad {0} se ha mudado aquí con nosotros? ¿¿¿Por qué???
 		Merchant: No se lo digas a {0}, pero tomé algunas de sus cosas y las reemplacé con Estatuas de ángel.
 		NurseArmsDealer: No le digas a {0} que fui yo la responsable de las lesiones de {1}.
-		NamedLaura: Lo bueno de los mapas es que puedo rastrear cualquier cosa que haya caído.
+		NamedTaylor: Lo bueno de los mapas es que puedo rastrear cualquier cosa que haya caído.
 		NamedPenelope: Imagina lo rápido que podrías lanzar si tuvieras más manos.
 		NamedValerie: También acepto comida como moneda de cambio.
 		NamedRowan: Normalmente solo pienso en los animales como comida o práctica de tiro, pero los dragones son una excepción.
@@ -598,6 +599,7 @@ TownPiggy: {
 		Techno: Techno
 		JohnPork: John Pork
 		Piglet: Piglet
+		Poogie: Poogie
 	}
 
 	Chat: {

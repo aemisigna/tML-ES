@@ -306,7 +306,7 @@ LunicCorpsHelmet: {
 	DisplayName: Yelmo del Cuerpo Lúnico
 	Tooltip:
 		'''
-		Aumenta un {0}% el daño de armas que no sean arcos
+		Aumenta un {0}% el daño a distancia de armas que no sean arcos
 		Mejora la visión y muestra la ubicación de los enemigos
 		'''
 	SetBonus:

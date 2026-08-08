@@ -159,6 +159,8 @@ Knife.DisplayName: Cuchillo
 KylieBoomerang.DisplayName: Kylie
 LanceofDestiny.DisplayName: Lanza Sagrada
 LeadTomahawkProj.DisplayName: Tomahawk de Plomo
+LemonNadeHoldout.DisplayName: Limo'granada
+LemonNadeProjectile.DisplayName: Limongranada
 LeonidCometBig.DisplayName: Cometa Leónida
 LeonidCometSmall.DisplayName: Cometa Leónida
 LeonidProgenitorBombshell.DisplayName: Bomba Leónida
@@ -189,6 +191,7 @@ NanoblackLightspeedCarve: {
 	Standard: Tajo a la Velocidad de la Luz
 }
 
+NanoblackLightspeedCarveSlashVisual.DisplayName: Visuales de Tajo a la Velocidad de la Luz Nanonégrico
 NanoblackMain.DisplayName: Segador Nanonégrico
 NanoblackPiercingStrike.DisplayName: Golpe de Energía de Punto Cero
 NanoblackStrike.DisplayName: Golpe de Energía de Punto Cero
@@ -196,6 +199,7 @@ NanoblackTesselation.DisplayName: Teselación Nanonégrica
 NastyChollaBol.DisplayName: Cholla Desagradable
 NastyChollaNeedle.DisplayName: Aguja de Cactus
 OrichalcumSpikedGemstoneProjectile.DisplayName: Gema de Orialco
+PaleoShatterExplosion.DisplayName: Explosión Fragmentadora Paleo
 PalladiumJavelinProjectile.DisplayName: Jabalina de Paladio
 PartisanExplosion.DisplayName: Explosión Profanada
 PenumbraBomb.DisplayName: Bomba de Penumbra
@@ -275,11 +279,12 @@ SludgeSplotchProj2.DisplayName: Mancha de Lodo
 SmallCoral.DisplayName: Coral Pequeño
 SnapClamProj.DisplayName: Almeja Mordedora
 SnapClamStealth.DisplayName: Almeja Mordedora
+SpadefishHoldout.DisplayName: Pez Trompo
+SpadefishThrown.DisplayName: Pez Pica
 SpearofDestinyProjectile.DisplayName: Lanza del Destino
 SpearofDestinyStealth.DisplayName: Lanza Sagrada Potenciada
 SpearofDestinyStealthExplosion.DisplayName: Ráfaga Fuerte
 SpearofPaleolithProj.DisplayName: Lanza del Paleolito
-PaleoShatterExplosion.DisplayName: Explosión Fragmentadora Paleo
 SpentFuelContainerProjectile.DisplayName: Contenedor de Combustible Gastado
 SphereBladed.DisplayName: Esfera con Cuchillas
 SphereBlue.DisplayName: Esfera Propulsora Azul
@@ -343,8 +348,3 @@ WrathwingCinder.DisplayName: Erupción de Alaira
 WrathwingFireball.DisplayName: Bola de Fuego de Alaira
 WrathwingSpear.DisplayName: Alaira
 WulfrumKnifeProj.DisplayName: Cuchillo de Wulfrum
-NanoblackLightspeedCarveSlashVisual.DisplayName: Visuales de Tajo a la Velocidad de la Luz Nanonégrico
-LemonNadeHoldout.DisplayName: Limongranada
-LemonNadeProjectile.DisplayName: Limongranada
-SpadefishHoldout.DisplayName: Pez Trompo
-SpadefishThrown.DisplayName: Pez Pica

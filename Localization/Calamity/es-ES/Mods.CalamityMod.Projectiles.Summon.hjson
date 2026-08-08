@@ -35,11 +35,10 @@ BlackDragonHead.DisplayName: Dragón Celestial Negro
 BlackDragonTail.DisplayName: Dragón Celestial Negro
 BlackHawkBullet.DisplayName: Bala de Halcón Negro
 BlackHawkSummon.DisplayName: Halcón Negro
+BlightedSlimeMinion.DisplayName: Slime Marchito
 BloodBreath.DisplayName: Fuego de Dragón de Sangre
 BloodRain.DisplayName: Lluvia de Sangre
 BloodSpit.DisplayName: Escupitajo de Sangre
-BoneMatter.DisplayName: Materia Ósea
-BoneMatter2.DisplayName: Materia Ósea
 BrimseekerAuraBall.DisplayName: Buscador
 BrimstoneDartMinion.DisplayName: Dardo de Fuegazufre
 BrimstoneDartSummon.DisplayName: Dardo de Azufre
@@ -47,7 +46,7 @@ BrimstoneElementalMinion.DisplayName: Elemental de Azufre
 BrimstoneExplosionMinion.DisplayName: Explosión
 BrimstoneFireballMinion.DisplayName: Bola de Fuego de Azufre
 BrimstoneFireSummon.DisplayName: Fuego de Azufre
-BrimstoneLaserSummon.DisplayName: Láser de Azufre
+BrimstoneLaserSummon.DisplayName: Mini Bola de Fuego de Vigil
 BrittleStarMinion.DisplayName: Ofiuroideo
 CalamarisLamentMinion.DisplayName: Calamar
 CalamarisLamentProjectile.DisplayName: Tinta de Calamar
@@ -64,8 +63,6 @@ CinderBlossom.DisplayName: Flor de Ceniza
 CloudElementalMinion.DisplayName: Elemental de Nube
 CnidarianJellyfishOnTheString.DisplayName: Cnidario
 CnidarianSpark.DisplayName: Chispa de Cnidario
-CorroslimeMinion.DisplayName: Corroslime
-CorruptionSlimeGodMinion.DisplayName: Dios Slime
 CosmicBlast.DisplayName: Explosión Cósmica
 CosmicBlastBig.DisplayName: Explosión Cósmica
 CosmicEnergySpiral.DisplayName: Energía Cósmica
@@ -76,8 +73,6 @@ CosmicViperSplittingRocket.DisplayName: Cohete Fragmentador
 CosmicViperSummon.DisplayName: Víbora Cósmica
 CosmilampBeam.DisplayName: Rayo Cósmico
 CosmilampMinion.DisplayName: Cosmilámpara
-CrimslimeMinion.DisplayName: Crimslime
-CrimsonSlimeGodMinion.DisplayName: Dios Slime
 DaedalusCrystal.DisplayName: Cristal de Dédalo
 DaedalusCrystalShot.DisplayName: Disparo de Cristal
 DaedalusGolem.DisplayName: Gólem de Dédalo
@@ -284,6 +279,7 @@ SquirrelSquireAcorn.DisplayName: Bellota de Ardilla
 SquirrelSquireMinion.DisplayName: Escudero Ardilla
 Starforge.DisplayName: Forjaestelar
 StarforgeBlast.DisplayName: Explosión de Forjaestelar
+StatigelBlightedSlime.DisplayName: Paladín Marchito
 StellarTorusBeam.DisplayName: Rayo de Toro Estelar
 StellarTorusSummon.DisplayName: Invocación de Toro Estelar
 StormjawBaby.DisplayName: Bebé Fauce de Tormenta

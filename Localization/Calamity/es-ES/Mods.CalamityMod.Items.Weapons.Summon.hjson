@@ -85,6 +85,11 @@ BlackHawkRemote: {
 		'''
 }
 
+BlightedSlimeStaff: {
+	DisplayName: Bastón de Slime Marchito
+	Tooltip: Invoca un slime marchito para que luche por ti
+}
+
 BorealisBomber: {
 	DisplayName: Bombardero Borealis
 	Tooltip:
@@ -147,10 +152,10 @@ CausticStaff: {
 		'''
 	HoldShiftTooltip:
 		'''
-		Siempre inflige [cbuff:OnFire3]
+		Siempre inflige [cbuff:OnFire3] y [cbuff:Venom]
 		Inflige [cbuff:CursedInferno] con 2 dragones invocados
-		Inflige [cbuff:Venom] con 3 dragones invocados
-		Inflige [cbuff:Ichor] y [cbuff:CalamityMod/MarkedforDeath] con 4 dragones invocados
+		Inflige [cbuff:Ichor] con 3 dragones invocados
+		Inflige [cbuff:CalamityMod/MarkedforDeath] con 4 dragones invocados
 		'''
 }
 
@@ -191,11 +196,6 @@ Cnidarian: {
 		'''
 }
 
-CorroslimeStaff: {
-	DisplayName: Bastón del Corroslime
-	Tooltip: Invoca un corro-slime para que luche por ti
-}
-
 CorvidHarbringerStaff: {
 	DisplayName: Bastón del Heraldo Córvido
 	Tooltip:
@@ -231,11 +231,6 @@ CosmicViperEngine: {
 Cosmilamp: {
 	DisplayName: Cosmilamp
 	Tooltip: Invoca una linterna cósmica sobre tu cabeza para que luche por ti
-}
-
-CrimslimeStaff: {
-	DisplayName: Bastón del Crimslime
-	Tooltip: Invoca un crim-slime para que luche por ti
 }
 
 CryogenicStaff: {
@@ -496,7 +491,7 @@ IgneousExaltation: {
 		Invoca una hoja ígnea que orbita a tu alrededor
 		Cuando tus espacios de súbdito estén llenos, <left> de nuevo para lanzar todas las hojas hacia el cursor
 		Esta habilidad tiene un tiempo de recarga de dos segundos mientras sostienes este objeto
-		Shift-<right> en este objeto en tu inventario para cambiar la dirección de rotación
+		Pulsa [KEY] mientras sostienes este objeto para cambiar la dirección de rotación
 		'''
 }
 
@@ -736,11 +731,7 @@ SquirrelSquireStaff: {
 
 StaffOfNecrosteocytes: {
 	DisplayName: Bastón de los Necroosteocitos
-	Tooltip:
-		'''
-		Invoca pequeños esqueletos para que luchen por ti
-		Los esqueletos dejan células óseas a su paso
-		'''
+	Tooltip: Invoca pequeños esqueletos para que luchen por ti
 }
 
 StarspawnHelixStaff: {
@@ -856,7 +847,7 @@ ViridVanguard: {
 		Todas las armas infligen [cbuff:CalamityMod/SagePoison], que se vuelve más poderoso cuantas más armas sean invocadas
 		Cuando todos los espacios de súbdito estén llenos, <left> de nuevo para lanzar una ráfaga de tajos dirigidos a tu cursor
 		Esta habilidad tiene un tiempo de recarga de cinco segundos mientras sostienes este objeto
-		Shift-<right> en este objeto en tu inventario para cambiar la dirección de rotación
+		Pulsa [KEY] mientras sostienes este objeto para cambiar la dirección de rotación
 		'''
 }
 
@@ -864,7 +855,8 @@ VoidConcentrationStaff: {
 	DisplayName: Bastón de Concentración del Vacío
 	Tooltip:
 		'''
-		Te rodea de energía oscura, lo que hace que todos los ataques causen 15% menos de daño
+		Invoca una oscuridad infinita que te rodea con energías oscuras en órbita
+		Mientras las energías oscuras orbitan a tu alrededor, recibes 15% menos de daño de todos los ataques
 		<right> para condensar la energía en un objetivo, enfocando a tus súbditos en él y creando rayos teledirigidos
 		Cuando el enemigo enfocado recibe daño de cualquier fuente, será golpeado por energías oscuras adicionales
 		Estas energías oscuras son el doble de fuertes cuando el golpe proviene de un súbdito o centinela
@@ -880,8 +872,10 @@ VoidEaterMarionette: {
 		Las invocaciones repetidas aumentan la longitud y el poder del Devorador
 		El Devorador ataca con [ceffect/dog:Devorador de Divinidad], [ceffect/dog:Incinerador de Fe] y [ceffect/dog:Vorágine Ultracósmica]
 		Puede jugar a buscar objetos caídos
-		Shift-<right> en este objeto en tu inventario cuando el Devorador haya aparecido para priorizar la búsqueda
+		Pulsa [KEY] mientras sostienes este objeto cuando el Devorador haya aparecido para priorizar la búsqueda
 		'''
+	FetchStart: ¡Búscalo!
+	FetchEnd: ¡Atrápalo!
 }
 
 WarloksMoonFist: {

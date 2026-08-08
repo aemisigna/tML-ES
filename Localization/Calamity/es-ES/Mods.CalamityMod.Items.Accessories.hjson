@@ -226,9 +226,10 @@ AscendantInsignia: {
 	DisplayName: Insignia Ascendente
 	Tooltip:
 		'''
-		Aumenta el tiempo de vuelo de las alas un {0}%, la velocidad de movimiento y de salto un {1}%, y la aceleración {2}x
-		Pulsar [KEY] te otorga el poder de ascensión, proporcionando tiempo de vuelo infinito durante {3} segundos
-		La ascensión tiene una recarga de {4} segundos
+		Proporciona {0} segundos adicionales de tiempo de vuelo
+		Aumenta la velocidad de movimiento un {1}%, la velocidad de salto un {2}%, y la aceleración {3}x
+		Pulsar [KEY] restaura completamente el tiempo de vuelo y evita que disminuya durante {4} segundos
+		Esta habilidad tiene una recarga de {5} segundos
 		'''
 }
 
@@ -249,15 +250,6 @@ AsgardsValor: {
 		{$Common.KnockbackImmunity}
 		Permite realizar un impulso de embestida
 		Este impulso puede atravesar enemigos sin recibir daño
-		'''
-}
-
-FadedIdolatry: {
-	DisplayName: Idolatría Desvanecida
-	Tooltip:
-		'''
-		Los Dracónidos Ardientes [i:CalamityMod/YharonsKindleStaff] invocados cuestan un espacio de súbdito menos
-		[c/ffe100:'Una vez que todo se haya reducido a polvo, ¿qué quedará del mundo que creaste?']
 		'''
 }
 
@@ -298,20 +290,6 @@ BlackGlassBand: {
 		Este efecto tiene una recarga de 5 segundos, pero se reduce a la mitad si el destello mata a un enemigo
 		Los efectos visuales y de audio se reducen si la visibilidad está desactivada
 		[c/655DC5:'Una banda reluciente con un potencial ilimitado']
-		'''
-}
-
-BlazingCore: {
-	DisplayName: Núcleo Ardiente
-	Tooltip:
-		'''
-		{$Common.KnockbackImmunity}
-		El núcleo abrasador de la Diosa Profanada
-		Pulsar [KEY] activará un parry, envolviéndote en cristal profanado luminoso
-		Recibir un golpe poco después de ser envuelto romperá el cristal
-		Al romperse, estrellas sagradas salen en espiral y el daño recibido se niega
-		Tras romperse, este efecto de reducción de daño entra en recarga
-		El daño parado mientras está en recarga invoca estrellas sanadoras adicionales y no será reducido
 		'''
 }
 
@@ -441,7 +419,7 @@ CorrosiveSpine: {
 	Tooltip:
 		'''
 		5% de velocidad de movimiento aumentada
-		25% de daño de los efectos negativos de Enfermedad y Agua aumentado
+		50% de daño de los efectos negativos de Enfermedad y Agua aumentado
 		Todos los ataques infligen [cbuff:CalamityMod/Irradiated] y reduce la severidad de las aguas sulfurosas
 		Explotas en nubes radiactivas al recibir golpes
 		'''
@@ -471,6 +449,15 @@ CrownJewel: {
 		'''
 		+{0} PV/s de regeneración de vida
 		Reduce el daño a lo largo del tiempo recibido en {1} PV/s
+		'''
+}
+
+CrushingEgo: {
+	DisplayName: Ego Aplastante
+	Tooltip:
+		'''
+		Multiplica todo el daño por 1,3x, pero a costa de recibir un 20% más de daño
+		[c/ff00ff:'Ponte la máscara de la arrogancia y baila en soledad. Cuando el baile termine, serás el último en pie.']
 		'''
 }
 
@@ -593,12 +580,17 @@ DiamondOfTheDeep: {
 		'''
 }
 
-CrushingEgo: {
-	DisplayName: Ego Aplastante
+DivineProvidence: {
+	DisplayName: Providencia Divina
 	Tooltip:
 		'''
-		Multiplica todo el daño por 1,3x, pero a costa de recibir un 20% más de daño
-		[c/ff00ff:'Ponte la máscara de la arrogancia y baila en soledad. Cuando el baile termine, serás el último en pie.']
+		{$Common.KnockbackImmunity}
+		Pulsar [KEY] activará un parry, envolviéndote en cristal profanado luminoso
+		Recibir un golpe poco después de ser envuelto romperá el cristal
+		Al romperse, estrellas sagradas salen en espiral y el daño recibido se niega
+		Tras romperse, este efecto de reducción de daño entra en recarga
+		El daño parado mientras está en recarga invoca estrellas sanadoras adicionales y no será reducido
+		[c/FF8C00:El núcleo abrasador de la Diosa Profanada]
 		'''
 }
 
@@ -663,20 +655,6 @@ EclipseMirror: {
 	FlavorTooltip: "'Su reflejo no muestra más que oscuridad'"
 }
 
-FragmentsOfAnotherWorld: {
-	DisplayName: Fragmentos de Otro Mundo
-	Tooltip:
-		'''
-		Otorga inmunidad a [cbuffplr:CalamityMod/WhisperingDeath]
-		{0}% de velocidad cuerpo a cuerpo aumentada
-		{1}x de daño a distancia especializado
-		{2}% de uso de maná reducido
-		+{3} máximo de centinelas
-		{4}% de velocidad de ataque de pícaro aumentada
-		[c/ff0000:'No hables de tus deseos a las sombras, ellas escuchan.']
-		'''
-}
-
 ElectriciansGlove: {
 	DisplayName: Guante del Electricista
 	Tooltip:
@@ -701,7 +679,11 @@ ElementalGauntlet: {
 
 ElementalinaBottle: {
 	DisplayName: Elemental en una Botella
-	Tooltip: Invoca un elemental de arena para luchar por ti
+	Tooltip:
+		'''
+		Invoca un elemental de arena para luchar por ti
+		El elemental tiene opacidad reducida si la visibilidad está desactivada
+		'''
 }
 
 ElysianAegis: {
@@ -758,7 +740,20 @@ EvasionScarf: {
 
 EyeoftheStorm: {
 	DisplayName: Ojo de la Tormenta
-	Tooltip: Invoca un Elemental de Nube para luchar por ti
+	Tooltip:
+		'''
+		Invoca un Elemental de Nube para luchar por ti
+		El elemental tiene opacidad reducida si la visibilidad está desactivada
+		'''
+}
+
+FadedIdolatry: {
+	DisplayName: Idolatría Desvanecida
+	Tooltip:
+		'''
+		Los Dracónidos Ardientes [i:CalamityMod/YharonsKindleStaff] invocados cuestan un espacio de súbdito menos
+		[c/ffe100:'Una vez que todo se haya reducido a polvo, ¿qué quedará del mundo que creaste?']
+		'''
 }
 
 FeatherCrown: {
@@ -804,7 +799,7 @@ FishStocks: {
 		+25% de velocidad de minería
 		+50 de poder de pesca
 		+0,55 de suerte
-		1,5x de monedas al matar
+		1,5x de caída de monedas
 		'''
 	SalesPitch:
 		'''
@@ -835,8 +830,22 @@ FleshTotem: {
 		Invoca un ídolo sobre tu cabeza que almacena maná mientras lo usas, hasta 600 de maná
 		El ídolo pulsa ocasionalmente, restaurando 25 de maná
 		Los pulsos aparecen más frecuentemente cuanto más maná esté almacenado
-		Al recibir un golpe, el ídolo libera todo el maná almacenado en forma de almas vengativas que persiguen a tus enemigos
+		Al recibir un golpe, el ídolo libera la mitad de todo el maná almacenado en forma de almas vengativas que persiguen a tus enemigos
 		El ídolo es transparente y silencioso si la visibilidad está desactivada
+		'''
+}
+
+FragmentsOfAnotherWorld: {
+	DisplayName: Fragmentos de Otro Mundo
+	Tooltip:
+		'''
+		Otorga inmunidad a [cbuffplr:CalamityMod/WhisperingDeath]
+		{0}% de velocidad cuerpo a cuerpo aumentada
+		{1}x de daño a distancia especializado
+		{2}% de uso de maná reducido
+		+{3} máximo de centinelas
+		{4}% de velocidad de ataque de pícaro aumentada
+		[c/ff0000:'No hables de tus deseos a las sombras, ellas escuchan.']
 		'''
 }
 
@@ -860,6 +869,24 @@ FrostFlare: {
 		'''
 }
 
+FrozenCube: {
+	DisplayName: Cubo Congelado
+	Tooltip:
+		'''
+		Un bloque de hielo congelado con algo dentro
+		Invoca un Elumphant que se sienta en tu cabeza para protegerte
+		El Elumphant alterna entre disparar aire frío que inflige [cbuff:CalamityMod/WindChilled] y embestir con la cabeza a los enemigos
+		Los cabezazos del Elumphant solo atacan a enemigos afectados por [cbuff:CalamityMod/WindChilled]
+		Reduce tu defensa un 33%, pero usa esa defensa para potenciar al Elumphant y tu daño de efectos negativos de frío
+		[DAMAGELINE]
+		[c/7497ED:'Lo que quiero saber es, ¿dónde está el mamut?']
+		'''
+	SalesPitch: "{$Common.SalesmanShrinePitch}"
+	EquippedDebuff: Impulso actual de efectos negativos de frío: +{0}%
+	EquippedElumphant: Poder actual del Elumphant: {0}%
+	Unequipped: Equipa este accesorio para ver sus estadísticas
+}
+
 FungalClump: {
 	DisplayName: Masa Fúngica
 	Tooltip:
@@ -874,7 +901,7 @@ FungalSymbiote: {
 	Tooltip:
 		'''
 		Haces crecer setas en el césped bajo tus pies
-		Consumir setas otorga [cbuffplr:CalamityMod/Mushy], que proporciona 5 de defensa y +1 PV/s de regeneración de vida
+		Consumir setas otorga [cbuffplr:CalamityMod/Mushy], que proporciona 3 de defensa y +1 PV/s de regeneración de vida
 		10% de daño aumentado mientras tienes [cbuffplr:CalamityMod/Mushy]
 		'''
 	SalesPitch: "{$Common.SalesmanShrinePitch}"
@@ -965,7 +992,7 @@ HallowedRune: {
 
 HarpyRing: {
 	DisplayName: Anillo de Arpía
-	Tooltip: 10% de velocidad de movimiento y 20% de tiempo de vuelo aumentados
+	Tooltip: 20% de velocidad de movimiento y tiempo de vuelo aumentados
 }
 
 HeartofDarkness: {
@@ -983,6 +1010,7 @@ HeartoftheElements: {
 	Tooltip:
 		'''
 		Invoca a todos los elementales para protegerte
+		Los elementales tienen opacidad reducida si la visibilidad está desactivada
 		'El corazón del mundo'
 		'''
 }
@@ -1207,10 +1235,10 @@ NebulousCore: {
 	DisplayName: Núcleo Nebuloso
 	Tooltip:
 		'''
-		10% de daño aumentado
+		{0}% de daño aumentado
 		Invoca estrellas de nebulosa flotantes para protegerte
-		Recibir un golpe fatal te revive con 100 PV
-		Este efecto tiene una recarga de 90 segundos
+		Recibir un golpe fatal te revive con {1} PV
+		Este efecto tiene una recarga de {2} segundos
 		'''
 }
 
@@ -1245,6 +1273,16 @@ Nucleogenesis: {
 		Los súbditos infligen una variedad de efectos negativos
 		Los súbditos generan chispas dañinas al golpear enemigos
 		No se acumula con versiones inferiores
+		'''
+}
+
+OasisElementalinaBottle: {
+	DisplayName: Elemental de Oasis en una Botella
+	Tooltip:
+		'''
+		Invoca un elemental de oasis para asistirte
+		El elemental dispara orbes sanadores que restauran 10 de salud mientras estás dañado
+		El elemental tiene opacidad reducida si la visibilidad está desactivada
 		'''
 }
 
@@ -1319,7 +1357,8 @@ PearlofEnthrallment: {
 	Tooltip:
 		'''
 		Invoca un elemental de agua para luchar por ti
-		El elemental permanece sobre ti, disparando lanzas de agua, niebla de hielo y llaves de sol a los enemigos cercanos
+		El elemental permanece sobre ti, disparando lanzas de agua, niebla de hielo y claves de sol a los enemigos cercanos
+		El elemental tiene opacidad reducida si la visibilidad está desactivada
 		'''
 }
 
@@ -1481,15 +1520,6 @@ RampartofDeities: {
 	ToggleEffect: ", aumenta la velocidad de movimiento,"
 }
 
-OasisElementalinaBottle: {
-	DisplayName: Elemental de Oasis en una Botella
-	Tooltip:
-		'''
-		Invoca un elemental de oasis para asistirte
-		El elemental dispara orbes sanadores que restauran 10 de salud mientras estás dañado
-		'''
-}
-
 ReaperToothNecklace: {
 	DisplayName: Collar de Dientes del Segador
 	Tooltip:
@@ -1519,7 +1549,11 @@ RogueEmblem: {
 
 RoseStone: {
 	DisplayName: Piedra Rosa
-	Tooltip: Invoca un Elemental de Azufre para luchar por ti
+	Tooltip:
+		'''
+		Invoca un Elemental de Azufre para luchar por ti
+		El elemental tiene opacidad reducida si la visibilidad está desactivada
+		'''
 }
 
 RottenBrain: {
@@ -1996,6 +2030,21 @@ TheFirstShadowflame: {
 		'''
 }
 
+ThePact: {
+	DisplayName: El Pacto
+	Tooltip:
+		'''
+		Aumenta tu salud máxima en {0}x
+		Hace que el {1}% de los golpes que recibes te causen un golpe crítico
+		Estos críticos infligen {2}x de daño e infligen [cbuffplr:CalamityMod/FulfilledContract]
+		'''
+	SalesPitch:
+		'''
+		'El dinero es una cosa caprichosa, amigo. Un resbalón, y lo próximo que sabes es que te la estás pasando en grande... ¡en un basurero!'
+		'Apostar con la vida misma, ahí es donde realmente está la cosa. Solo escribe mi nombre en tu testamento, ¿quieres?'
+		'''
+}
+
 ThePointer: {
 	DisplayName: El Puntero
 	Tooltip:
@@ -2158,7 +2207,7 @@ WarbanneroftheRighteous: {
 	Tooltip:
 		'''
 		Multiplica todo el daño según la cercanía a los enemigos
-		El impulso máximo de daño es el 15% y el mínimo es el -15%
+		El impulso máximo de daño es 1,15x y el mínimo es 0,85x
 		Emite un aura ardiente que quema y repele a los enemigos cercanos con [cbuff:CalamityMod/HolyFlames]
 		Los enemigos reciben daño creciente cuanto más cerca estén de ti y más tiempo permanezcan cerca
 		Los efectos son transparentes y silenciosos si la visibilidad está desactivada
@@ -2221,6 +2270,11 @@ GhostBracelet: {
 	Tooltip: Vaya.... Me mira con sus ojos vacíos llenos de curiosidad
 }
 
+GlimmeringRibbon: {
+	DisplayName: Cinta Centelleante
+	Tooltip: "'Nacemos sin color. Son las personas que conocemos quienes nos dan color.'"
+}
+
 HapuFruit: {
 	DisplayName: Fruta Ha-pu
 	Tooltip: "'Una fruta que calma los nervios (puede tener efectos secundarios no deseados)'"
@@ -2252,12 +2306,7 @@ Popo: {
 
 SharkyPlush: {
 	DisplayName: Peluche de Tiburoncín
-	Tooltip: "[c/696969:'Cuidado, por la fuerza sin forma...']"
-}
-
-GlimmeringRibbon: {
-	DisplayName: Cinta Centelleante
-	Tooltip: "'Nacemos sin color. Son las personas que conocemos quienes nos dan color.'"
+	Tooltip: "[c/696969:'Como los amantes y los héroes, y la parte inquieta de todos...']"
 }
 
 TheComb: {
@@ -2296,22 +2345,4 @@ XyksBlessingOrange: {
 		'''
 	ArmorDisabled: "[c/D44748:DESACTIVADA]"
 	ArmorEnabled: "[c/58D447:ACTIVADA]"
-}
-
-FrozenCube: {
-	DisplayName: Cubo Congelado
-	Tooltip:
-		'''
-		Un bloque de hielo congelado con algo dentro
-		Invoca un Elumphant que se sienta en tu cabeza para protegerte
-		El Elumphant alterna entre disparar aire frío que inflige [cbuff:CalamityMod/WindChilled] y embestir con la cabeza a los enemigos
-		Los cabezazos del Elumphant solo atacan a enemigos afectados por [cbuff:CalamityMod/WindChilled]
-		Reduce tu defensa un 33%, pero usa esa defensa para potenciar al Elumphant y tu daño de efectos negativos de frío
-		[DAMAGELINE]
-		[c/7497ED:'Lo que quiero saber es, ¿dónde está el mamut?']
-		'''
-	SalesPitch: "{$Common.SalesmanShrinePitch}"
-	EquippedDebuff: Impulso actual de efectos negativos de frío: +{0}%
-	EquippedElumphant: Poder actual del Elumphant: +{0}%
-	Unequipped: Equipa este accesorio para ver sus estadísticas
 }

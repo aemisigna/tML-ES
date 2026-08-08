@@ -105,6 +105,7 @@ EmpyreanKnife.DisplayName: Cuchillo Empíreo
 EntropicFlechette.DisplayName: Flechilla Entrópica
 EonBolt.DisplayName: Proyectil de Eón
 EssenceScythe.DisplayName: Guadaña de Esencia
+EvilSmasherProjectile.DisplayName: Aplastador Maligno
 ExaltedOathbladeThrownBlade.DisplayName: Hoja Arrojada de la Espada del Juramento Exaltada
 MawOfInfinityHoldout.DisplayName: Fauces del Infinito
 MawOfInfinityJaws.DisplayName: Devorador de Divinidad
@@ -186,6 +187,8 @@ NeptuneOrb.DisplayName: Tridente de Neptuno
 NeptunesBountyProjectile.DisplayName: Recompensa de Neptuno
 NeptunesBountySplitProjectile.DisplayName: Chorro de Recompensa de Neptuno
 OathswordFlame.DisplayName: Llama de la Espada del Juramento
+OblivionFire.DisplayName: Fuego del Olvido
+OblivionBolt.DisplayName: Rayo del Olvido
 Orbacle.DisplayName: Orbe Áurico
 OrderbringerBeam.DisplayName: Rayo del Portador del Orden
 OrderbringerWaveProj.DisplayName: Onda Portadora del Orden
@@ -311,4 +314,3 @@ WulfrumScrew.DisplayName: Tornillo de Wulfrum
 WulfrumScrewdriverProj.DisplayName: Destornillador de Wulfrum
 YinYoDark.DisplayName: Fragmento Oscuro
 YinYoLight.DisplayName: Fragmento de Luz
-EvilSmasherProjectile.DisplayName: Aplastador Maligno

@@ -86,7 +86,8 @@ ArkoftheCosmos: {
 		También puedes hacer parry a proyectiles para que inflijan 120 menos de daño durante un breve período
 		El parry potenciará los próximos 16 golpes de la espada
 		'''
-	BlastInfo: Pulsa <right> dos veces con cargas disponibles para provocar una Gran Ruptura en el espacio-tiempo y consumir todas las cargas
+	BlastInfo: <right> con cargas disponibles para provocar una Gran Ruptura en el espacio-tiempo y consumir todas las cargas
+	BlastInfoKeybind: Pulsa [KEY] con cargas disponibles para provocar una Gran Ruptura en el espacio-tiempo y consumir todas las cargas
 }
 
 ArkoftheElements: {
@@ -918,8 +919,12 @@ Oblivion: {
 	DisplayName: Oblivion
 	Tooltip:
 		'''
-		{$Common.YoyoStatsInfinite}
-		Dispara dardos de azufre cuando hay enemigos cerca
+		{$Common.YoyoStats}
+		Un yoyo altamente inestable que libera lentamente ráfagas infernales de azufre teledirigidas
+		Golpear enemigos con el yoyo carga su poder, aumentando en gran medida la velocidad de disparo de las ráfagas
+		Al alcanzar la carga máxima, el yoyo estalla en dardos de azufre y reinicia su duración de vuelo
+		Golpear a un enemigo con la carga máxima sobrecargará el yoyo, haciendo que libere todo el poder acumulado y se destroce
+		Destrozar el yoyo inflige un daño inmenso, pero lo deja inutilizable durante varios segundos
 		'''
 }
 
@@ -1240,7 +1245,7 @@ StygianShield: {
 	DisplayName: Escudo Estigio
 	Tooltip:
 		'''
-		Mantén <left> para cargar un impulso omnidireccional que aplasta a los enemigos
+		Mantén <left> para cargar un impulso omnidireccional que otorga inmunidad al daño y puede aplastar a los enemigos
 		<right> para lanzar un broquel que rebota hacia un enemigo cercano al colisionar
 		Otorga inmunidad al retroceso y {0} de defensa mientras se sostiene
 		Sin embargo, los impulsos se desactivan hasta que dejes de sostener esta arma durante {1} segundos

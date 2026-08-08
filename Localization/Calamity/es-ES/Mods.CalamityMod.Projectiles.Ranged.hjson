@@ -1,3 +1,4 @@
+AbyssalFire.DisplayName: Fuego Abisal
 AcidRocket.DisplayName: Cohete de Ácido
 AdamAcceleratorBeam.DisplayName: Rayo de Partículas de Adamantita
 AMR2.DisplayName: AMR
@@ -19,7 +20,9 @@ AuralisBullet.DisplayName: Bala de Auralis
 AuricBullet.DisplayName: Bala Áurica
 AuroraFire.DisplayName: Fuego de Aurora
 BallistaGreatArrow.DisplayName: Gran Flecha de Balista
+BallistaShard.DisplayName: Fragmento de Balista
 BarinadeArrow.DisplayName: Flecha de Aleta
+BlahajBlast.DisplayName: Explosión Blahaj
 BlightFlames.DisplayName: Llamas de Plaga
 BlissfulBombardierSplitProjectile.DisplayName: Minicohete Profanado
 BloodBoilerFire.DisplayName: Fuego de Sangre
@@ -130,6 +133,7 @@ MagnomalyExplosion.DisplayName: Explosión
 MagnomalyRocket.DisplayName: Arma Nuclear
 MarksmanShot.DisplayName: Disparo de Tirador
 MechanicalBarracuda.DisplayName: Barracuda
+MegalodonRocket.DisplayName: Cohete de Megalodón
 MegalodonShot.DisplayName: Disparo de Megalodón
 MeowCreature.DisplayName: la criatura :3
 MeowFire.DisplayName: Fuego de Ronroneo
@@ -148,6 +152,9 @@ NovaShot.DisplayName: Proyectil Nova
 NukeOfBliss.DisplayName: Arma Nuclear Profanada
 NullFlash.DisplayName: Destello Nulo
 NullShot.DisplayName: Nulo
+OmniSniperShot.DisplayName: Disparo de Francotirador Omni
+OmniGrenade.DisplayName: Granada Omni
+OmniShotgunShot.DisplayName: Disparo de Escopeta Omni
 OntologicalDespoilerBeam.DisplayName: Rayo de Aniquilación Nula
 OntoligicalDespoilerBurst.DisplayName: Explosión de Disrupción
 OntologicalDespoilerGrenade.DisplayName: Esfera de Disrupción
@@ -259,14 +266,8 @@ VanquisherArrowMain.DisplayName: Flecha Vencedora
 VanquisherArrowProj.DisplayName: Proyectil de Flecha Vencedora
 VeriumBoltProj.DisplayName: Flecha de Verio
 VernalBolt.DisplayName: Proyectil Primaveral
+VoidBlast.DisplayName: Explosión del Vacío
 WaterSpout.DisplayName: Chorro
 WildfireBloomFire.DisplayName: Fuego Salvaje
 WildfireBloomFlare.DisplayName: Bengala Salvaje
 WulfrumScrapBullet.DisplayName: Chatarra de Alta Velocidad
-AbyssalFire.DisplayName: Fuego Abisal
-BlahajBlast.DisplayName: Explosión Blahaj
-MegalodonRocket.DisplayName: Cohete de Megalodón
-VoidBlast.DisplayName: Explosión del Vacío
-OmniSniperShot.DisplayName: Disparo de Francotirador Omni
-OmniGrenade.DisplayName: Granada Omni
-OmniShotgunShot.DisplayName: Disparo de Escopeta Omni

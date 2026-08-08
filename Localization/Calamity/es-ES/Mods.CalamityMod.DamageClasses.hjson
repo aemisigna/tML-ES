@@ -5,3 +5,4 @@ StealthDamageClass.DisplayName: daño de sigilo
 TrueMeleeDamageClass.DisplayName: daño cuerpo a cuerpo verdadero
 TrueMeleeNoSpeedDamageClass.DisplayName: daño cuerpo a cuerpo verdadero
 VoidTagDmgType.DisplayName: daño del vacío
+AllClassDamageClass.DisplayName: daño de todas las clases

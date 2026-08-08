@@ -49,14 +49,11 @@ RelicOfDeliverance: {
 	DisplayName: Reliquia de la Redención
 	Tooltip:
 		'''
-		Usar <left> te monta en la lanza; mantener <left> la acelera, desacelerándote
-		Suéltala para lanzarte a gran velocidad, reducida a la mitad mientras haya un jefe vivo
-		Perder demasiada velocidad al cargar interrumpirá la carga, reiniciando tu velocidad
-		El impulso te permite embestir enemigos y atravesar bloques
-		Estar dentro de bloques demasiado tiempo te transportará de vuelta al punto de entrada
+		Mantén <left> para montar y cargar la lanza; al soltar el botón, te lanzarás hacia tu cursor
+		La velocidad del impulso depende de la cantidad de carga, y se reduce mientras haya un jefe vivo
+		El impulso puede embestir a los enemigos y atravesar bloques
 		Pulsa <right> para desmontar
 		Sostener la lanza reduce enormemente el daño de todas las invocaciones
-		{$Common.AverageDamageInfo}
 		[c/FF8C00:La venganza me impulsaba; no tenía otro pensamiento que la exacción.]
 		[c/FF8C00:El dragón me lo arrebató todo, dejando mis pedazos rotos esparcidos por el suelo.]
 		[c/FF8C00:Pero cuando dancé a Su lado, supe que aún había algo por lo que valía la pena luchar.]

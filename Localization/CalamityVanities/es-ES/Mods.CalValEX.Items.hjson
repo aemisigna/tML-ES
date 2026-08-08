@@ -1645,17 +1645,6 @@ BubbleGum: {
 	Tooltip: Invoca a una entidad divina
 }
 
-CalamitousSoulArtifact: {
-	DisplayName: Artefacto del Alma Calamitosa
-	Tooltip:
-		'''
-		Entropía
-		Invoca a un necrópodo benevolente
-		[c/C61B40:Tras décadas arrastrándose en agonía eterna]
-		[c/C61B40:el cementerio móvil por fin encuentra un verdadero amigo.]
-		'''
-}
-
 CanofWyrms: {
 	DisplayName: Lata de Gusanos
 	Tooltip:
@@ -2095,13 +2084,13 @@ RottenHotdog: {
 		'''
 }
 
-RottingCalamitousArtifact: {
-	DisplayName: Artefacto Calamitoso en Descomposición
-	Tooltip:
+RottingResentment: {
+	// DisplayName: Rotting Resentment
+	/* Tooltip:
 		'''
-		Invoca a un Sepulcrito mascota
-		'La tumba se alza'
-		'''
+		Summons a pet Sepulchling
+		'The grave rises'
+		''' */
 }
 
 RoverSpindle: {
@@ -2201,6 +2190,17 @@ TopazGeode: {
 		Invoca a un Reptador de Topacio
 		'Potencialmente contiene un reptador'
 		'''
+}
+
+SentimentalResentment: {
+	// DisplayName: SentimentalResentment
+	/* Tooltip:
+		'''
+		Entropy
+		Summons a benevolent necropede
+		[c/C61B40:After crawling for decades in everlasting agony]
+		[c/C61B40:the mobile graveyard finally finds a true friend.]
+		''' */
 }
 
 ShadowCloth: {

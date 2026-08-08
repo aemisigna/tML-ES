@@ -17,8 +17,8 @@ AggressiveVoucher: {
 	DisplayName: Vale Agresivo
 	Tooltip:
 		'''
-		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
-		Este efecto solo se aplica al reforjar accesorios
+		Marca este objeto como favorito en tu inventario para cambiar el resultado de tu próxima reforja de accesorio
+		Esto siempre te dará la reforja objetivo o una reforja única
 		Reforja objetivo: {0}
 		Reforjas seleccionables: {1}
 		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
@@ -162,8 +162,8 @@ CombatVoucher: {
 	DisplayName: Vale de Combate
 	Tooltip:
 		'''
-		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
-		Este efecto solo se aplica al reforjar armas
+		Marca este objeto como favorito en tu inventario para cambiar el resultado de tu próxima reforja de arma
+		Esto siempre te dará la mejor reforja según tu clase o una reforja única
 		'''
 	SalesPitch:
 		'''
@@ -240,8 +240,8 @@ HurriedVoucher: {
 	DisplayName: Vale Apresurado
 	Tooltip:
 		'''
-		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
-		Este efecto solo se aplica al reforjar accesorios
+		Marca este objeto como favorito en tu inventario para cambiar el resultado de tu próxima reforja de accesorio
+		Esto siempre te dará la reforja objetivo o una reforja única
 		Reforja objetivo: {0}
 		Reforjas seleccionables: {1}
 		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
@@ -320,8 +320,8 @@ OddVoucher: {
 	DisplayName: Vale Extraño
 	Tooltip:
 		'''
-		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
-		Este efecto solo se aplica al reforjar accesorios
+		Marca este objeto como favorito en tu inventario para cambiar el resultado de tu próxima reforja de accesorio
+		Esto siempre te dará la reforja objetivo o una reforja única
 		Reforja objetivo: {0}
 		Reforjas seleccionables: {1}
 		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
@@ -454,8 +454,8 @@ UnbreakableVoucher: {
 	DisplayName: Vale Irrompible
 	Tooltip:
 		'''
-		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
-		Este efecto solo se aplica al reforjar accesorios
+		Marca este objeto como favorito en tu inventario para cambiar el resultado de tu próxima reforja de accesorio
+		Esto siempre te dará la reforja objetivo o una reforja única
 		Reforja objetivo: {0}
 		Reforjas seleccionables: {1}
 		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]

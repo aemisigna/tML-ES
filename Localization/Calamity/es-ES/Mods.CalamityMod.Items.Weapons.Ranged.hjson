@@ -65,6 +65,11 @@ AntiMaterielRifle: {
 		'''
 }
 
+AquashardShotgun: {
+	DisplayName: Escopeta de Fragmentos Aqua
+	Tooltip: Convierte balas de mosquete en fragmentos aqua que se dividen al impactar a un enemigo
+}
+
 Arbalest: {
 	DisplayName: Arbalesta
 	Tooltip:
@@ -73,11 +78,6 @@ Arbalest: {
 		Las flechas comienzan pequeñas y crecen con el disparo continuo
 		El daño, dispersión y retroceso de las flechas escalan con su tamaño
 		'''
-}
-
-AquashardShotgun: {
-	DisplayName: Escopeta de Fragmentos Aqua
-	Tooltip: Convierte balas de mosquete en fragmentos aqua que se dividen al impactar a un enemigo
 }
 
 Archerfish: {
@@ -547,6 +547,7 @@ HalleysInferno: {
 		Dispara una ráfaga de chorros de fuego lunar intensamente concentrados
 		<right> para disparar rápidamente Destellos Estelares que infligen [cbuff:CalamityMod/Voidfrost]
 		Genera Destellos Estelares al golpear enemigos, según tu precisión
+		Pulsa [KEY] para alternar el modo de mira de largo alcance
 		Usa gel como munición
 		'Halley llegó antes de lo esperado'
 		'''
@@ -819,6 +820,23 @@ NullificationPistol: {
 		'''
 }
 
+OmniGun: {
+	DisplayName: La Omniarma
+	Tooltip:
+		'''
+		Un arma multipropósito con varios modos que se usan en secuencia
+		El primer disparo es una bala de francotirador que gana daño con el tiempo y siempre golpea críticamente
+		El segundo disparo es una ráfaga de 10 balas estándar
+		El tercer disparo es una devastadora dispersión a quemarropa
+		El cuarto disparo es una granada peligrosa pero poderosa que destruye todo, incluido tú
+		'''
+	SalesPitch:
+		'''
+		'¿Por qué cargar cuatro pistolas diferentes cuando puedes cargar solo una? ¡Eso es lo que yo solía preguntarme!'
+		'¡Con esta belleza, hasta el más torpe puede volverse invencible, y al precio correcto puede ser tuya!'
+		'''
+}
+
 OntologicalDespoiler: {
 	DisplayName: Depredador Ontológico
 	Tooltip:
@@ -849,23 +867,6 @@ Onyxia: {
 		'''
 		Dispara una tormenta de balas y fragmentos de ónice
 		{$CommonItemTooltip.PercentChanceToSaveAmmo}
-		'''
-}
-
-OmniGun: {
-	DisplayName: La Omniarma
-	Tooltip:
-		'''
-		Un arma multipropósito con varios modos que se usan en secuencia
-		El primer disparo es una bala de francotirador que gana daño con el tiempo y siempre golpea críticamente
-		El segundo disparo es una ráfaga de 10 balas estándar
-		El tercer disparo es una devastadora dispersión a quemarropa
-		El cuarto disparo es una granada peligrosa pero poderosa que destruye todo, incluido tú
-		'''
-	SalesPitch:
-		'''
-		'¿Por qué cargar cuatro pistolas diferentes cuando puedes cargar solo una? ¡Eso es lo que yo solía preguntarme!'
-		'¡Con esta belleza, hasta el más torpe puede volverse invencible, y al precio correcto puede ser tuya!'
 		'''
 }
 

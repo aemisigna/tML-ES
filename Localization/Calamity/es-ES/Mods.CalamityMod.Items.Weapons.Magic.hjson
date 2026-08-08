@@ -23,11 +23,6 @@ AethersWhisper: {
 	Tooltip: Dispara rayos del vacío que ganan daño a medida que viajan y se dividen al golpear bloques
 }
 
-AlulaAustralis: {
-	DisplayName: Alula Australis
-	Tooltip: Dispara una hermosa aurora que propaga la [cbuff:CalamityMod/AstralInfectionDebuff] y es seguida por una lluvia de estrellas
-}
-
 AlphaDraconis: {
 	DisplayName: Alpha Draconis
 	Tooltip:
@@ -39,6 +34,11 @@ AlphaDraconis: {
 		Draco inflige [cbuff:CalamityMod/Voidfrost]
 		'Una imitación de la locura'
 		'''
+}
+
+AlulaAustralis: {
+	DisplayName: Alula Australis
+	Tooltip: Dispara una hermosa aurora que propaga la [cbuff:CalamityMod/AstralInfectionDebuff] y es seguida por una lluvia de estrellas
 }
 
 AnahitasArpeggio: {
@@ -493,7 +493,7 @@ LashesofChaos: {
 	DisplayName: Latigazos del Caos
 	Tooltip:
 		'''
-		Alterna entre bolas de fuego infernal explosivas y ráfagas infernales perforantes
+		Alterna entre ráfagas de fuego infernal explosivas y dardos de azufre perforantes
 		'Mira arder el mundo...'
 		'''
 }
@@ -919,6 +919,11 @@ TheSwarmer: {
 TheWand: {
 	DisplayName: La Varita
 	Tooltip: La varita definitiva
+	SalesPitch:
+		'''
+		'Oye, amigo. Sé que hemos tenido nuestras diferencias, pero has sido un verdadero compañero para mí. ¡Esta es una oferta especial, solo para ti!'
+		'Al parecer este palo viene de la Guarida del Dragón, y me han dicho que hasta las ramitas más pequeñas de allí tienen un poder insondable. ¡Esto es literalmente una ganga!'
+		'''
 }
 
 ThornBlossom: {

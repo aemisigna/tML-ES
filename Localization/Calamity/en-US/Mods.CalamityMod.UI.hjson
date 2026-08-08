@@ -25,8 +25,6 @@ StealthInfoText:
 	'''
 // Difficulty UI
 DifficultyStatusText: "{0} is {1}."
-InfernumActive: Infernum está activo
-InfernumNotActive: Infernum no está activo
 ModeAppend: "{0} Mode"
 Active: Active
 NotActive: Not active
@@ -131,6 +129,7 @@ Cooldowns: {
 	MasterChefShieldDurability: MJOLNIR Shield Level
 	MasterChefShieldRecharge: MJOLNIR Shield Recharge
 	NebulousCore: Nebulous Core Cooldown
+	OblivionCooldown: Oblivion Cooldown
 	OldDukeScalesFatigue: Stamina
 	OmegaBlueActive: Abyssal Madness
 	OmegaBlueCooldown: Abyssal Madness Cooldown
