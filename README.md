@@ -49,28 +49,28 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 
 | Mod | Estado | Versión |
 |-----|--------|---------|
-| Calamity Mod | ✅ | v2.2.1
-| Infernum Mode | ✅ | v2.0.1.34
+| Calamity Mod | ✅ | v2.2.2
+| Infernum Mode | ✅ | v2.0.1.35
 | Calamity: Wrath of the Gods | ✅ | v1.2.31
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
-| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
+| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.27
 | Calamity Overhaul | ✅ | v0.9025
-| Catalyst Mod | ✅ | v1.1.7
+| Catalyst Mod | ✅ | v1.1.8
 | Calamity: Wrath of the Machines | ✅ | v1.0.5
 | The Stars Above | ✅ | v2.1.8.4
-| Calamity's Vanities | ✅ | v11.4.1
+| Calamity's Vanities | ✅ | v11.4.2
 | Calamity: Hunt of the Old God | ✅ | v1.2.3
 | Secrets of the Shadows | ✅ | v0.25.1.9
 | Thorium Mod | ✅ | v1.7.2.8
-| Ragnarok | ✅ | v1.6.0.7
-| Infernal Eclipse of Ragnarok | ✅ | v0.10.7.2
+| Ragnarok | ✅ | v1.6.0.8
+| Infernal Eclipse of Ragnarok | ✅ | v0.10.7.3
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
 | Spirit Reforged | ✅ | v0.2.1.2
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
-| Calamity: Community Remix | ✅ | v1.3.13
+| Calamity: Community Remix | ✅ | v1.3.14
 | Deterministic Chaos | ✅ | v1.14.95
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
@@ -97,9 +97,9 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
 | Munchies | ✅ | v1.4.2
 | Munchies Crossmod Addon | ✅ | v2.2
-| Calamity Flamethrowers | ✅ | v3.4
+| Calamity Flamethrowers | ✅ | v3.4.1
 | Ancients Awakened Music | ✅ | v0.1.1
-| Spirit Music Mod | ✅ | v1.0.0.13
+| Spirit Music Mod | ✅ | v1.0.0.14
 ---
 
 ## Comunidad
