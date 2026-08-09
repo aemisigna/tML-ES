@@ -2121,7 +2121,7 @@ Items: {
 	}
 
 	Destinary: {
-		DisplayName: Destinary
+		DisplayName: Destinatario
 		Tooltip:
 			'''
 			Lanza discos exo cortantes hacia el cursor que regresan al jugador
