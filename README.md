@@ -87,7 +87,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Enchanted Moons | ✅ | v2.0.2.2
 | Thorium Helheim | ✅ | v1.6.3
 | Consolaria | ✅ | v2.2.3
-| Unofficial Calamity Bard & Healer | ✅ | v0.13.7
+| Unofficial Calamity Bard & Healer | ✅ | v0.13.8
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.2
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
 | Infernal Arsenal Mod | ✅ | v1.6.0.3
