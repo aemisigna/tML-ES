@@ -22,9 +22,9 @@ Jharim: {
 		LikeNPC_Princess: Jharim considera a {NPCName} una aliada digna de la nación de Jharim.
 		Princess_LovesNPC: "{NPCName} es un tipo muy gracioso."
 		HateCrowded: Odio lo abarrotado que estoy.
-		// Monument: ARGHHH THAT MONUMENT IS UGLY! I DEMAND YOU TO DESTROY IT!
-		// GiftPositive: A present!? For me!? Nobody ever gives me gifts! Thank you!!!
-		// GiftNegative: This gift is not worthy of the great Jharim! I sentence you to The Pit.
+		Monument: ¡ARGHHH ESE MONUMENTO ES FEO! ¡EXIJO QUE LO DESTRUYAS!
+		GiftPositive: ¿¡Un regalo!? ¿¡Para mí!? ¡Nadie nunca me da regalos! ¡¡¡Gracias!!!
+		GiftNegative: ¡Este regalo no es digno del gran Jharim! Te sentencio al Pozo.
 	}
 
 	Chat: {
@@ -153,9 +153,9 @@ JellyPriestNPC: {
 		Princess_LovesNPC: "{NPCName} parece ocupar un rol similar al mío, vendiendo decoraciones bonitas. ¡Espero que no me vea como competencia!"
 		LoveNPC: Me encanta {NPCName}.
 		HateNPC: Odio a {NPCName}.
-		// Monument: That monument... I can't look at it, it's the worst statue I've ever seen.
-		// GiftPositive: I was just looking for some new materials to work with, thank you for the gift!
-		// GiftNegative: Are you trying to sabotage my work? Give your pipe bomb to someone else!
+		Monument: Ese monumento... no puedo mirarlo, es la peor estatua que he visto en mi vida.
+		GiftPositive: Estaba buscando nuevos materiales con los que trabajar, ¡gracias por el regalo!
+		GiftNegative: ¿Estás intentando sabotear mi trabajo? ¡Dale tu bomba de tubería a otra persona!
 	}
 
 	Chat: {
@@ -238,9 +238,9 @@ OracleNPC: {
 		LoveBiome: Me encanta el {BiomeName}.
 		LoveNPC: Me encanta {NPCName}.
 		HateNPC: Odio a {NPCName}.
-		// Monument: Not a fan of that monument over there, it's scaring TUB.
-		// GiftPositive: Some treats for my pets? Thank you, they will love it!
-		// GiftNegative: Ohagi full of nails!? Shame on you for trying to hurt my pets!
+		Monument: No soy fan de ese monumento de allá, está asustando a TUB.
+		GiftPositive: ¿Golosinas para mis mascotas? ¡Gracias, les van a encantar!
+		GiftNegative: ¿¡Ohagi lleno de clavos!? ¡Qué vergüenza intentar herir a mis mascotas!
 	}
 
 	Chat: {

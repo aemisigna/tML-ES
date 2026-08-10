@@ -2085,12 +2085,12 @@ RottenHotdog: {
 }
 
 RottingResentment: {
-	// DisplayName: Rotting Resentment
-	/* Tooltip:
+	DisplayName: Resentimiento Podrido
+	Tooltip:
 		'''
-		Summons a pet Sepulchling
-		'The grave rises'
-		''' */
+		Invoca a un Sepulcrito Podrido mascota
+		'La tumba se alza'
+		'''
 }
 
 RoverSpindle: {
@@ -2193,14 +2193,14 @@ TopazGeode: {
 }
 
 SentimentalResentment: {
-	// DisplayName: SentimentalResentment
-	/* Tooltip:
+	DisplayName: Resentimiento Sentimental
+	Tooltip:
 		'''
-		Entropy
-		Summons a benevolent necropede
-		[c/C61B40:After crawling for decades in everlasting agony]
-		[c/C61B40:the mobile graveyard finally finds a true friend.]
-		''' */
+		Entropía
+		Invoca a un necrópodo benevolente
+		[c/C61B40:Tras arrastrarse durante décadas en agonía eterna]
+		[c/C61B40:el cementerio móvil finalmente encuentra un verdadero amigo.]
+		'''
 }
 
 ShadowCloth: {

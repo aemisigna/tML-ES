@@ -71,8 +71,8 @@ BossChecklistIntegration: {
 	}
 
 	Titan: {
-		// EntryName: Titan
-		// SpawnInfo: After defeating Plantera, right-click a Dark Shard inside the Dark World while standing near the fountain.
+		EntryName: Titán
+		SpawnInfo: Tras derrotar a Plantera, haz clic derecho en un Fragmento de oscuridad dentro del Mundo Oscuro estando cerca de la fuente.
 	}
 
 	OmegaFlowey: {

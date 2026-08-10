@@ -13,7 +13,7 @@ LaserArm.DisplayName: Brazo láser
 PlasmaArm.DisplayName: Brazo de plasma
 TeslaArm.DisplayName: Brazo Tesla
 MawTeeth.DisplayName: Dientes de las Fauces
-// PhantomHook.DisplayName: Phantom Hook
+PhantomHook.DisplayName: Gancho Fantasma
 ProfanedHook.DisplayName: Gancho Profanado
 RavaClaw.DisplayName: Garra Rava
 ScavaClaw.DisplayName: Garra Scava
