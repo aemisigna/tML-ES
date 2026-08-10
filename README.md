@@ -49,7 +49,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 
 | Mod | Estado | Versión |
 |-----|--------|---------|
-| Calamity Mod | ✅ | v2.2.2
+| Calamity Mod | ✅ | v2.2.4
 | Infernum Mode | ✅ | v2.0.1.35
 | Calamity: Wrath of the Gods | ✅ | v1.2.31
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
