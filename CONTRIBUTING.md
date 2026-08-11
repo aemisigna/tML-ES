@@ -69,7 +69,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Calamity: Wrath of the Gods | ✅ | v1.2.31
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
-| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.27
+| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.28
 | Calamity Overhaul | ✅ | v0.9025
 | Catalyst Mod | ✅ | v1.1.8
 | Calamity: Wrath of the Machines | ✅ | v1.0.5
@@ -82,7 +82,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7.3
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
-| Spirit Reforged | ✅ | v0.2.1.2
+| Spirit Reforged | ✅ | v0.2.1.3
 | Ancients Awakened | ✅ | v0.1.5.1
 | Ancients Awakened: Classic | ✅ | v1.0.19
 | Calamity: Community Remix | ✅ | v1.3.14
