@@ -27,6 +27,7 @@ UI: {
 	Create: Guardar como preconfiguración personalizada
 	CantSave: (No puedes guardar una preconfiguración por defecto)
 	Load: Cargar una preconfiguración personalizada
+	LoadFolder: Cargar una carpeta de preconfiguraciones
 	HoverDescription: Abre para configurar aspectos específicos de la generación de Spirit Reforged.
 	FailedToLoad: La preconfiguración no es para esta página. Página esperada: {0}
 	ConfigNotice:
@@ -35,7 +36,8 @@ UI: {
 		El valor mostrado es el rango real utilizado en el juego al tirar aleatoriamente.
 		'''
 	LoadError: Se ha producido un error al cargar una preconfiguración ({0}). Reporta esto al Discord (y revisa client.log):
-	Duplicate: (Preconfiguración duplicada no añadida)
+	Duplicate: (Preconfiguración(es) duplicada(s) no añadida(s) - {0})
+	From: de
 }
 
 Pages: {

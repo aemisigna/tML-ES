@@ -3153,3 +3153,8 @@ SaltGraveMarkerItem: {
 	DisplayName: Marcador de Tumba de Sal
 	Tooltip: ""
 }
+
+NotSunItemIcon: {
+	DisplayName: Ícono de Objeto No-Sol
+	Tooltip: ""
+}
