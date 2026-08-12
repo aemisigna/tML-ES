@@ -610,6 +610,7 @@ Projectiles: {
 	VoidEyeF.DisplayName: Will of Coznix
 	ZephyrFeather.DisplayName: Zephyr's Feather
 	ZephyrsRuin.DisplayName: Zephyr's Ruin
+	BuccaneerBlunderBuss.DisplayName: Buccaneer Blunder Buss
 }
 
 Items: {
@@ -1719,6 +1720,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		BuccaneerBlunderBuss: {
+			Label: "[i:ThoriumMod/BuccaneerBlunderBuss]Buccaneer's Blunderbuss"
+			Tooltip: ""
+		}
+
 		HitScanner: {
 			Label: "[i:ThoriumMod/HitScanner]Hit Scanner"
 			Tooltip: ""
@@ -2139,5 +2145,10 @@ Achievements: {
 	MyBatsAreKindaChamberless: {
 		FriendlyName: My Bats Are Kinda Chamberless...
 		Description: Defeat Viscount without letting a single Bitey Baby siphon life from you
+	}
+
+	PreservationEfforts: {
+		FriendlyName: Preservation Efforts
+		Description: Defeat Grand Thunderbird without harming any Storm Hatchlings
 	}
 }

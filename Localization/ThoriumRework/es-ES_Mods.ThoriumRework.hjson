@@ -610,6 +610,7 @@ Projectiles: {
 	VoidEyeF.DisplayName: Voluntad de Coznix
 	ZephyrFeather.DisplayName: Pluma de Céfiro
 	ZephyrsRuin.DisplayName: Ruina de Céfiro
+	BuccaneerBlunderBuss.DisplayName: Trabuco del Bucanero
 }
 
 Items: {
@@ -1719,6 +1720,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		BuccaneerBlunderBuss: {
+			Label: "[i:ThoriumMod/BuccaneerBlunderBuss]Trabuco del Bucanero"
+			Tooltip: ""
+		}
+
 		HitScanner: {
 			Label: "[i:ThoriumMod/HitScanner]Escáner de Impacto"
 			Tooltip: ""
@@ -2139,5 +2145,10 @@ Achievements: {
 	MyBatsAreKindaChamberless: {
 		FriendlyName: Mis Murciélagos No Tienen Munición...
 		Description: Derrota al Vizconde sin dejar que un solo Bebé Mordedor te drene vida
+	}
+
+	PreservationEfforts: {
+		FriendlyName: Efectos de Preservación
+		Description: Derrota al Gran Pájaro del Trueno sin dañar a ninguna Cría de Tormenta
 	}
 }
