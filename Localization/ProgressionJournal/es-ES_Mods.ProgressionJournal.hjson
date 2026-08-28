@@ -25,6 +25,8 @@ UI: {
 	WikiRecommendationsBlock: Recomendaciones
 	WikiRecommendationsTooltip: Esta sección se genera sola desde "{0}". Puede ser subjetiva, errónea o incluir objetos de etapas previas.
 	NewEquipmentBlock: Equipo nuevo
+	AnyMechanicalBossEquipmentBlock: Equipo compartido de jefes mecánicos
+	AnyMechanicalBossEquipmentTooltip: Se desbloquea después de derrotar al primer jefe mecánico.
 	NoNewEquipment: No hay objetos nuevos en esta etapa.
 	ProfileManagerTooltip: Elegir perfil de progresión
 	ProfileManagerTitle: Perfiles de progresión

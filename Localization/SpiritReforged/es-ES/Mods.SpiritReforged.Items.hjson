@@ -2867,7 +2867,7 @@ EnlilStatueItem: {
 
 SerratedClaws: {
 	DisplayName: Garras Dentadas
-	Tooltip: ""
+	Tooltip: Puede picar Meteorito
 }
 
 FlagRingItem: {

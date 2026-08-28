@@ -346,4 +346,25 @@ Conditions: {
 	GoblinsDefeated: Si el Ejército de Duendes ha sido derrotado
 	DownedGobSummoner: Si el Duende bruja ha sido derrotado
 	DownedMoth: Si el Polillón ha sido derrotado
+	DownedBroodmother: Después de derrotar a la Madre Nidada
+	DownedHydra: Después de derrotar a la Hidra
+	DownedAnyLateAncient: Cualquier Antiguo Tardío ha sido derrotado
+	DownedAnySuperancient: Cualquier Superantiguo ha sido derrotado
+
+	LovecraftianQuest: {
+		Purity: Si se ha completado la misión de Pureza del Lovecraftiano
+		Inferno: Si se ha completado la misión del Infierno del Lovecraftiano
+		Mire: Si se ha completado la misión del Cenagal del Lovecraftiano
+		Corruption: Si se ha completado la misión de Corrupción del Lovecraftiano
+		Crimson: Si se ha completado la misión del Carmesí del Lovecraftiano
+		Hallow: Si se ha completado la misión de la Bendición del Lovecraftiano
+		Void: Si se ha completado la misión del Vacío del Lovecraftiano
+		AntiMushroom: Si se ha completado la misión antihongos del Lovecraftiano
+		RedMushroom: Si se ha completado la misión del Hongo Rojo del Lovecraftiano
+		GlowingMushroom: Si se ha completado la misión del Champiñón Brillante del Lovecraftiano
+		Jungle: Si se ha completado la misión de la Jungla del Lovecraftiano
+		Ice: Si se ha completado la misión del Hielo del Lovecraftiano
+		AntiIce: Si se ha completado la misión antihielo del Lovecraftiano
+		Forest: Si se ha completado la misión del Bosque del Lovecraftiano
+	}
 }

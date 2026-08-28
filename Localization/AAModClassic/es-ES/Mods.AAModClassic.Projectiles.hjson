@@ -747,7 +747,7 @@ DoomStaff_DoomBoom.DisplayName: Boom de Perdición
 DoomStaff_Proj.DisplayName: Perdición
 Executioner_Holdout.DisplayName: Verdugo
 Incapacitator_Proj.DisplayName: Incapacitador
-VoidProbeControlUnit_MiniProbe.DisplayName: Sonda Miniatura
+VoidProbeControlUnit_MiniProbe.DisplayName: Minisonda
 Voidsaber_Holdout.DisplayName: Sable del Vacío
 Sagittarius_Electrobomb.DisplayName: Bomba Electro
 Sagittarius_Electrosphere.DisplayName: Esfera Electro
@@ -908,3 +908,4 @@ TheGripsOfChaos_HookMire.DisplayName: Garras del Caos
 DragonsGrip_Hook.DisplayName: Garras de Dragón
 HydraBite_Hook.DisplayName: Mordida de Hidra
 BiomiteCore_RainbowBack.DisplayName: Arcoíris
+PortaProbe_MiniProbe.DisplayName: Minisonda

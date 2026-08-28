@@ -550,7 +550,7 @@ Scarabeus: {
 	DisplayName: Escarabeo
 	Title: Ídolo Cresterudo
 	Entry: Con su porte regio y matiz iridiscente, este escarabajo gigante fue una vez adorado por los antiguos habitantes del Ziggurat. Permanece hasta hoy, esperando tributo.
-	SpawnInfo: Usa cualquier gema en el [i:SpiritReforged/ScarabAltarItem] Altar Antiguo en el Ziggurat.
+	SpawnInfo: Usa cualquier gema en el [i:SpiritReforged/ScarabAltarItem] Altar Antiguo en el Ziggurat durante el día.
 }
 
 TinyGrub: {

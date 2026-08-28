@@ -1271,3 +1271,8 @@ GoblinTinkererDoll: {
 	DisplayName: Muñeco del Duende Chapucero
 	Tooltip: ""
 }
+
+PortaProbe: {
+	DisplayName: Porta-Sonda
+	Tooltip: ¡Lleva contigo un pequeño robot buscador de vida!
+}
