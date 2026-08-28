@@ -82,22 +82,22 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Infernal Eclipse of Ragnarok | ✅ | v0.10.7.3
 | Split | ✅ | v1.0.11
 | Spirit Classic | ✅ | v1.5.0.44
-| Spirit Reforged | ✅ | v0.2.1.3
+| Spirit Reforged | ✅ | v0.2.1.5
 | Ancients Awakened | ✅ | v0.1.5.1
-| Ancients Awakened: Classic | ✅ | v1.0.19
+| Ancients Awakened: Classic | ✅ | v1.0.21
 | Calamity: Community Remix | ✅ | v1.3.14
 | Deterministic Chaos | ✅ | v1.14.95
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
-| Progression Journal | ✅ | v2.2.0
+| Progression Journal | ✅ | v2.2.2
 | Quality of Terraria | ✅ | v1.8.2
 | LuiAFK Reborn | ✅ | v1.2.5
 | Revengeance+ | ✅ | v0.6.1
 | Thrower Unification | ✅ | v0.3.15.4
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
-| Calamity Simple Whip Addon | ✅ | v1.15.12
+| Calamity Simple Whip Addon | ✅ | v1.15.14
 | Calamity: War Machine Invasion | ✅ | v0.1.6.1
 | Enchanted Moons | ✅ | v2.0.2.2
 | Thorium Helheim | ✅ | v1.6.4
