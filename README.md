@@ -55,7 +55,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Fargo's Mutant Mod | ✅ | v3.3.6.7
 | Fargo's Souls Mod | ✅ | v1.7.3.9
 | Fargo's Souls DLC - Calamity | ✅ | v1.2.0.28
-| Calamity Overhaul | ✅ | v0.9025
+| Calamity Overhaul | ✅ | v0.9209
 | Catalyst Mod | ✅ | v1.1.8
 | Calamity: Wrath of the Machines | ✅ | v1.0.5
 | The Stars Above | ✅ | v2.1.8.4
@@ -63,40 +63,40 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity: Hunt of the Old God | ✅ | v1.2.3
 | Secrets of the Shadows | ✅ | v0.25.1.9
 | Thorium Mod | ✅ | v1.7.2.8
-| Ragnarok | ✅ | v1.6.0.8
-| Infernal Eclipse of Ragnarok | ✅ | v0.10.7.3
-| Split | ✅ | v1.0.11
-| Spirit Classic | ✅ | v1.5.0.44
-| Spirit Reforged | ✅ | v0.2.1.5
+| Ragnarok | ✅ | v1.6.0.10
+| Infernal Eclipse of Ragnarok | ✅ | v0.10.8
+| Split | ✅ | v1.0.12
+| Spirit Classic | ✅ | v1.5.0.48
+| Spirit Reforged | ✅ | v0.2.2.9
 | Ancients Awakened | ✅ | v0.1.5.1
-| Ancients Awakened: Classic | ✅ | v1.0.21
+| Ancients Awakened: Classic | ✅ | v1.0.27
 | Calamity: Community Remix | ✅ | v1.3.14
 | Deterministic Chaos | ✅ | v1.14.95
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
-| Progression Journal | ✅ | v2.2.2
+| Progression Journal | ✅ | v2.2.4
 | Quality of Terraria | ✅ | v1.8.2
 | LuiAFK Reborn | ✅ | v1.2.5
 | Revengeance+ | ✅ | v0.6.1
-| Thrower Unification | ✅ | v0.3.15.4
+| Thrower Unification | ✅ | v0.3.15.6
 | Infernum SOTS Sanctuary WorldGen Adjuster | ✅ | v1.1
 | Unofficial Calamity Whips | ✅ | v1.2.2
-| Calamity Simple Whip Addon | ✅ | v1.15.14
-| Calamity: War Machine Invasion | ✅ | v0.1.6.1
+| Calamity Simple Whip Addon | ✅ | v1.20.3
+| Calamity: War Machine Invasion | ✅ | v0.1.6.2
 | Enchanted Moons | ✅ | v2.0.2.2
-| Thorium Helheim | ✅ | v1.6.4
+| Thorium Helheim | ✅ | v1.6.6
 | Consolaria | ✅ | v2.2.3
-| Unofficial Calamity Bard & Healer | ✅ | v0.13.8
+| Unofficial Calamity Bard & Healer | ✅ | v1.13.10
 | Unofficial SOTS Bard, Thrower and Healer | ✅ | v0.3.2
 | Calamity Ranger Expansion | ✅ | v1.2.2.0
-| Infernal Arsenal Mod | ✅ | v1.6.0.3
+| Infernal Arsenal Mod | ✅ | v1.6.0.4
 | Weather Totems | ✅ | v1.0.3
 | Fisherman NPC | ✅ | v0.2.10
 | Useful NPCs | ✅ | v3.0.4
 | The Amulet Of Many Minions: Combat Pets! | ✅ | v0.16.3
 | Munchies | ✅ | v1.4.2
-| Munchies Crossmod Addon | ✅ | v2.2
+| Munchies Crossmod Addon | ✅ | v2.4
 | Calamity Flamethrowers | ✅ | v3.4.1
 | Ancients Awakened Music | ✅ | v0.1.1
 | Spirit Music Mod | ✅ | v1.0.0.14
