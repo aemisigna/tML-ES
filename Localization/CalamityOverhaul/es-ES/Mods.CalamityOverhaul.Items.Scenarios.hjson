@@ -1,0 +1,181 @@
+ScapegoatDoll: {
+	DisplayName: Muñeca chivo expiatorio
+	Tooltip:
+		'''
+		Mientras está en tu inventario, bloquea una muerte en tu lugar
+		La muñeca se rompe y se pierde después de recibir el golpe
+		'''
+	ShatterText: La muñeca chivo expiatorio se rompió
+}
+
+ConstructionBlueprintQET: {
+	DisplayName: Plano de construcción (torre de entrelazamiento cuántico)
+	Tooltip:
+		'''
+		Úsalo para aprender a fabricar el [i:CalamityOverhaul/CQETConstructor] autoconstructor
+		"Tus manos forjarán la piedra angular y la torre que conectan dos mundos"
+		'''
+	L1: ¡Has aprendido a fabricar el autoconstructor (torre de entrelazamiento cuántico)!
+	L2: ¡Ya habías aprendido este plano!
+}
+
+CQETConstructor: {
+	DisplayName: Autoconstructor (torre de entrelazamiento cuántico)
+	Tooltip:
+		'''
+		Colócalo para construir una torre de entrelazamiento cuántico
+		Requiere una gran cantidad de [i:CalamityOverhaul/StarflowPlatedBlock] bloques revestidos de flujo estelar
+		'''
+	UseConstructionBlueprint: Aprende el plano de construcción (torre de entrelazamiento cuántico)
+}
+
+DeploySignaltower: {
+	DisplayName: Torre de entrelazamiento cuántico
+	Tooltip:
+		'''
+		Dispositivo de comunicación esencial que actúa como faro en el subespacio
+		"Un niño salvaje alza una antorcha en el bosque y grita: aquí estoy"
+		'''
+}
+
+PQCD: {
+	DisplayName: Comunicador cuántico portátil
+	Tooltip:
+		'''
+		Úsalo para contactar con Draedon y abrir la interfaz holográfica de compras del Arsenal de Draedon
+		"En teoría puede emitir una orden de exterminio, pero parece que la autorización es insuficiente"
+		'''
+	NeedSignalTowersText: ¡Enlace de entrelazamiento cuántico incompleto! Requiere desplegar las {0} torres de señal.
+	SignalTowerProgressText: Progreso de despliegue de torres de señal: {0}/{1}
+}
+
+Oceanfragments: {
+	DisplayName: Fragmentos oceánicos
+	Tooltip: Un amuleto misterioso. Al Viejo Duque podría interesarle.
+}
+
+OceanRaiders: {
+	WorkingText: Trabajando...
+	NoWaterText: ¡Debe colocarse sobre agua para funcionar!
+	NoEnergyText: ¡Energía insuficiente!
+	DisplayName: Devorador oceánico
+	Tooltip:
+		'''
+		Consume electricidad para extraer recursos de masas de agua
+		Clic derecho para abrir el almacén interno
+		'''
+}
+
+OldDuchest: {
+	StorageText: Cofre de gran capacidad
+	DisplayName: Cofre viejo
+	Tooltip:
+		'''
+		Un cofre de capacidad inmensa
+		"El antiguo cofre de El Viejo Duque; si está cerca, quizá arroje algo dentro."
+		'''
+}
+
+MermanRod: {
+	Text1: ¡Ya hay un punto de pesca de los hombres pez colocado en el mundo!
+	DisplayName: Punto de pesca de los hombres pez
+	Tooltip:
+		'''
+		Aumenta el poder de pesca en 20 al pescar cerca
+		El Viejo Duque trasladará aquí su campamento
+		'''
+}
+
+Mewtwo: {
+	DisplayName: Chip de superensueño
+	Tooltip: Úsalo para entrar en el Superensueño
+}
+
+GaolCellKey: {
+	DisplayName: Llave de la celda profunda
+	Tooltip:
+		'''
+		Construye la celda profunda en el sitio y coloca un cráneo dormido en el altar (objeto de prueba)
+		Acércate al altar para despertarlo; durante la pelea ambas puertas quedan selladas por barras de energía rosa pálido
+		Derrota al Espectro de la prisión profunda para apagar la celda definitivamente; un espectro que escape vuelve a dormirse después de unos segundos
+		«Un giro de la llave y las paredes recuerdan su forma»
+		'''
+	BuiltHint: La celda se ha levantado. El cráneo dormido del altar espera a que te acerques.
+}
+
+RustedGaolIrons: {
+	DisplayName: Grilletes oxidados de la prisión
+	Tooltip:
+		'''
+		3 de defensa e inmunidad al retroceso
+		Aumenta brevemente la velocidad de movimiento después de recibir daño
+		«El número de celda dentro del grillete se ha borrado»
+		'''
+}
+
+UndrownedShackleCharm: {
+	DisplayName: Banda de grilletes hundidos
+	Tooltip:
+		'''
+		El agua ya no te ralentiza; otorga la capacidad de nadar
+		Aumenta enormemente el tiempo de respiración bajo el agua
+		«El ancla se hundió. El hombre siguió respirando»
+		'''
+}
+
+GaolAnchorWeapon: {
+	DisplayName: Ancla de la prisión
+	Tooltip:
+		'''
+		Lanza un gran ancla; mientras está clavada en una pared, su cadena se convierte en una línea dañina
+		«Las herramientas de ejecución no se jubilan»
+		'''
+}
+
+SumpPearl: {
+	DisplayName: Perla del sumidero
+	Tooltip:
+		'''
+		Una perla mate cuajada a partir del agua de la prisión en los huesos de un convicto
+		El mercado de los muertos acepta estas perlas
+		'''
+}
+
+FloodGalleryKey: {
+	DisplayName: Llave de la galería inundada
+	Tooltip:
+		'''
+		Construye la galería inundada en el sitio y coloca al convicto anclado (objeto de prueba)
+		«La escala de profundidad de la pared es su gráfico de latidos»
+		'''
+	Placed: La galería inundada se ha levantado aquí. Para despertarlo, párate en el estrado de válvulas de la izquierda y mantén tu posición.
+}
+
+ProofSealCharm: {
+	DisplayName: Sello de pruebas
+	Tooltip:
+		'''
+		Los proyectiles trampa infligen un 25% menos de daño y tienen un 15% de probabilidad de fallar
+		«Los bienes sellados atraviesan todos los mecanismos sin molestias»
+		'''
+	Misfire: Fallo de disparo
+}
+
+OverseerLogger: {
+	DisplayName: Registro del supervisor
+	Tooltip:
+		'''
+		Otorga sentido del peligro; las trampas y mecanismos cercanos quedan al descubierto
+		«Conserva la lista de turnos de cada puerto de dardos»
+		'''
+}
+
+ProofingHallKey: {
+	DisplayName: Llave de la sala de pruebas
+	Tooltip:
+		'''
+		Construye la sala de pruebas en el sitio y cuelga el armazón cubierto de polvo (objeto de prueba)
+		«La campana de inspección aún suena»
+		'''
+	Placed: La sala de pruebas se ha levantado aquí. Para comenzar la inspección, párate en el estrado de registro de la izquierda y quédate quieto hasta que la campana del turno termine de contar.
+}

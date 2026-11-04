@@ -1,0 +1,99 @@
+GodSmithExecutionEndow: {
+	EndowName: Línea del Verdugo
+	EndowDesc: Golpear a un enemigo con menos de un {0}% de vida libera un tajo del verdugo que inflige un {1}% de ese golpe
+}
+
+GodSmithOverkillEndow: {
+	EndowName: Cascada de Exceso
+	EndowDesc: Las muertes envían un virote carmesí a un enemigo cercano, con un {0}% del exceso de daño y un {1}% del golpe
+}
+
+GodSmithCritMarkEndow: {
+	EndowName: Sigilo Crítico
+	EndowDesc: Los golpes graban un sigilo; con {0} acumulaciones, detona como un golpe crítico garantizado que inflige un {1}% de ese golpe
+}
+
+GodSmithEchoSlashEndow: {
+	EndowName: Eco de Hoja
+	EndowDesc: Los golpes resuenan hacia fuera como un anillo de viento cortante que inflige un {0}% de ese golpe a otros enemigos cercanos
+}
+
+GodSmithShockwaveEndow: {
+	EndowName: Onda Contundente
+	EndowDesc: Cada 1.5 s, un golpe libera una onda de choque que aleja a los enemigos cercanos e inflige un {0}% de ese golpe
+}
+
+GodSmithComboEndow: {
+	EndowName: Oleada de Combo
+	EndowDesc: Los golpes consecutivos acumulan impulso; el golpe número {0} estalla e inflige un {1}% de ese golpe en un área
+}
+
+GodSmithAfterimageEndow: {
+	EndowName: Golpe de Imagen
+	EndowDesc: Cada {0}.º uso, una imagen pálida se lanza hacia el cursor e inflige un {1}% del daño del arma
+}
+
+GodSmithBallisticEndow: {
+	EndowName: Bala Trazadora Perforadora
+	EndowDesc: Cada {0}.º disparo añade una bala trazadora perforadora que inflige un {1}% del daño del arma
+}
+
+GodSmithRicochetEndow: {
+	EndowName: Rebote Salvaje
+	EndowDesc: Los golpes de proyectil hacen rebotar una chispa de cobre hacia otro enemigo, infligiendo un {0}% de ese golpe
+}
+
+GodSmithPhantomVolleyEndow: {
+	EndowName: Andanada Fantasmal
+	EndowDesc: Cada {0}.º disparo conjura {1} virotes fantasmales que infligen un {2}% del daño del arma cada uno
+}
+
+GodSmithManaRefluxEndow: {
+	EndowName: Reflujo de Maná
+	EndowDesc: Los golpes tienen un {0}% de probabilidad de atraer hacia ti una brizna de maná y restaurar {1} de maná
+}
+
+GodSmithOverloadEndow: {
+	EndowName: Sobrecarga Arcana
+	EndowDesc: Mientras tengas más de un {0}% de maná, los golpes se sobrecargan con arcos violetas que infligen un {1}% de ese golpe
+}
+
+GodSmithMythicEchoEndow: {
+	EndowName: Llamada Estelar Mítica
+	EndowDesc: Lanzar un hechizo llama a un espíritu estelar a tu lado; lanza rayos estelares a los enemigos cercanos que infligen un {0}% del daño del arma
+}
+
+GodSmithDesperationEndow: {
+	EndowName: Explosión Desesperada
+	EndowDesc: Esta arma maltrecha se enfurece: los golpes tienen un {0}% de probabilidad de estallar e infligir un {1}% de ese golpe en un área
+}
+
+GodSmithHiddenEdgeEndow: {
+	EndowName: Filo Oculto
+	EndowDesc: Un arma torpe oculta su verdadero filo: cada {0}.º uso libera un tajo blanco que inflige un {1}% del daño del arma
+}
+
+GodSmithLuckyStarEndow: {
+	EndowName: Lluvia Estelar Afortunada
+	EndowDesc: Los golpes críticos hacen caer una estrella afortunada que inflige un {0}% de ese golpe
+}
+
+GodSmithMenaceEndow: {
+	EndowName: Intención Asesina
+	EndowDesc: Los golpes acumulan intención asesina; el golpe número {0} desgarra al enemigo e inflige un {1}% de ese golpe
+}
+
+GodSmithSwiftFootEndow: {
+	EndowName: Paso de Vendaval
+	EndowDesc: Recorrer unos {0} bloques carga un vendaval; tu siguiente golpe libera una hoja de viento perforadora que inflige un {1}% de ese golpe
+}
+
+GodSmithViolentSurgeEndow: {
+	EndowName: Oleada Violenta
+	EndowDesc: Los golpes cuerpo a cuerpo acumulan furia; con {0} acumulaciones, estalla un anillo de hojas carmesí que inflige un {1}% de ese golpe
+}
+
+GodSmithArcaneWardEndow: {
+	EndowName: Égida Arcana
+	EndowDesc: Al recibir un golpe, las runas absorben tu maná: cada punto de maná bloquea {0} de daño, hasta un {1}% del golpe
+}

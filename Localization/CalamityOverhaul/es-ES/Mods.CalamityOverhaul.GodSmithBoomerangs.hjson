@@ -1,0 +1,69 @@
+GsWoodenBoomerang.Desc: La madera viva recuerda el lanzamiento: después de su primer impacto rebota hacia otro enemigo cercano
+GsEnchantedBoomerang.Desc:
+	'''
+	Se desacelera al salir, reúne luz estelar mientras flota y acelera al regresar
+	En el punto máximo de flotación lanza tres chispas estelares teledirigidas que infligen un 30% de daño cada una
+	'''
+GsFruitcakeChakram.Desc:
+	'''
+	Los golpes de ida cubren al objetivo con glaseado de azúcar, hasta tres capas
+	Golpear a un objetivo glaseado durante el regreso detona todas las capas, con un 25% de daño adicional por capa
+	'''
+GsBloodyMachete.Desc:
+	'''
+	Los golpes infligen Sangrado y graban una cuenta; tres cuentas en un objetivo liberan la sangre
+	El golpe de sangría inflige un 40% de daño adicional y te cura 2 de vida
+	'''
+GsIceBoomerang.Desc:
+	'''
+	Los golpes infligen Quemadura por Escarcha y desprenden dos fragmentos de hielo perforadores que infligen un 25% de daño cada uno
+	Mientras flota, se cubre de escarcha y queda envuelto en niebla helada
+	'''
+GsShroomerang.Desc:
+	'''
+	En el punto máximo de flotación libera una nube de esporas persistente que sigue abrasando a los enemigos dentro
+	La trayectoria de vuelo deja caer esporas luminosas
+	'''
+GsThornChakram.Desc: Los golpes envenenan al objetivo y hacen estallar tres púas de espina hacia fuera, cada una con un 22% de daño
+GsCombatWrench.Desc:
+	'''
+	Cada tercer golpe al mismo objetivo es un impacto de virote: 80% de daño adicional
+	Los impactos de virote contra constructos de acero obtienen otro 25%
+	'''
+GsFlamarang.Desc:
+	'''
+	Cada golpe incendia al objetivo
+	En el punto máximo de flotación estalla en un anillo de llamas; la trayectoria de regreso deja caer brasas humeantes
+	'''
+GsTrimarang.Desc: Puede haber hasta tres en el aire; cada búmeran adicional en vuelo otorga a todos un 8% de daño
+GsFlyingKnife.Desc:
+	'''
+	Mantén el botón de ataque para dirigir el cuchillo siguiendo tu cursor
+	Suéltalo para que gire en el sitio y corte a su alrededor, y luego trace una línea recta de regreso
+	'''
+GsBananarang.Desc: Lanza hasta diez; cada golpe madura el plátano, con un 6% de daño adicional por etapa, hasta cinco etapas
+GsLightDisc.Desc:
+	'''
+	Al golpear a un enemigo, se refracta hacia el siguiente enemigo más cercano, hasta tres veces
+	Cada refracción pierde un 10% de daño
+	'''
+GsPossessedHatchet.Desc:
+	'''
+	Un lanzamiento con preparación: el hacha poseída acelera hacia su presa y luego se aferra a ella,
+	girando alrededor de la víctima; cada tajo graba una marca de alma y el quinto estalla con un 150% de daño
+	'''
+GsPaladinsHammer.Desc:
+	'''
+	Un lanzamiento por encima de la cabeza con ambas manos; el martillo describe un arco pesado en el aire
+	Al final de su vuelo se eleva y luego cae para infligir un 65% de daño de área y liberar una onda de choque
+	'''
+GsSergeantUnitedShield.Desc:
+	'''
+	Al salir rebota entre enemigos hasta cuatro veces, con más retroceso en cada rebote
+	Atrápalo para levantar la guardia durante un instante y bloquear una instancia de daño
+	'''
+GsAnchor.Desc:
+	'''
+	Vuela en un arco pesado y luego cae en línea recta tras alcanzar el punto máximo
+	El impacto sacude el suelo e inflige un 60% de daño de área; el ancla se clava y luego vuelve por su cadena
+	'''

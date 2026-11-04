@@ -1,5 +1,25 @@
 BloodAltarTP: {
 	ApproachingText: La mirada carmesí está descendiendo...
-	InsufficientOfferingText: No tienes suficientes gotas de sangre para rendir homenaje al rey carmesí...
+	InsufficientOfferingText: No tienes suficientes Lágrimas Sangrientas para rendir homenaje al Rey Carmesí...
 	SacrificeDeathReason: "{0} cayó en un frenesí interminable de sangre y carne"
 }
+
+OldNetDataNodeTile.MapEntry: Nodo de Datos
+OldNetLogoutTerminalTile.MapEntry: Terminal de Cierre de Sesión
+OldNetEncryptedNodeTile.MapEntry: Nodo Cifrado
+OldNetEventNodeTile.MapEntry: Nodo de Evento
+OldNetSealGateTile.MapEntry: Puerta de Sellado
+OldNetRelayTile.MapEntry: Estación de Retransmisión
+OldNetAccessTerminalTile.MapEntry: Terminal de Acceso de OldNet
+OldNetEchoNodeTile.MapEntry: Nodo de Eco
+OldNetCacheTile.MapEntry: Caché de Inmersión Profunda
+OldNetTripwireTile.MapEntry: Emisor de Cable Trampa
+OldNetSentryMineTile.MapEntry: Mina Centinela
+OldNetBulkheadTile.MapEntry: Mamparo del Pozo
+OldNetBreakerTile.MapEntry: Interruptor de Emergencia
+OldNetRelicTile.MapEntry: Reliquia de OldNet
+OldNetLedgerDockTile.MapEntry: Muelle de Expansión del Libro Mayor
+OldNetColdNodeTile.MapEntry: Nodo de Almacenamiento en Frío
+OldNetEscrowTile.MapEntry: Terminal de Contrato de Depósito
+OldNetCipherVaultTile.MapEntry: Matriz de Bóveda Cifrada
+GaolRoomSealTile.MapEntry: Sello de Celda de la Prisión

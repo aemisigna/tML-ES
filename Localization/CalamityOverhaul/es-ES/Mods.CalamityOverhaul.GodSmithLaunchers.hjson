@@ -1,0 +1,49 @@
+GsElectrosphereLauncher: {
+	Desc: Reforjado: dos o más de tus esferas se enlazan con arcos Tesla (hasta 3, con la mitad del daño de la esfera)
+	TipOverload: ¡Sobrecarga!
+}
+
+GsGrenadeLauncher: {
+	Desc: Reforjado: las granadas se pegan a paredes y enemigos (+25% de daño al pegarse a la carne); hasta 6 colocadas, la más antigua estalla para dejar sitio
+	TipDetonate: ¡Hazlas estallar todas!
+}
+
+GsJackOLanternLauncher: {
+	Desc: Reforjado: cada explosión deja un campo de velas que quema a quien permanezca dentro
+	TipGrin: ¡Sonrían al unísono!
+}
+
+GsNailGun: {
+	Desc: Reforjado: los clavos se incrustan en la carne (hasta 5 por víctima), y cada uno hace que la víctima reciba +3% de daño de todas las fuentes
+	TipExtract: ¡Arráncalos!
+}
+
+GsProximityMineLauncher: {
+	Desc: Reforjado: las minas te muestran su radio de activación; las minas inactivas durante 60s devuelven un cohete y se eliminan solas
+	TipChain: ¡Efecto dominó!
+	TipRecycle: Mina recuperada
+}
+
+GsRocketLauncher: {
+	Desc: Reforjado: los disparos te empujan hacia atrás, y los impactos directos golpean más fuerte
+	TipDetonate: ¡Explosión aérea!
+}
+
+GsSnowmanCannon: {
+	Desc: Reforjado: los golpes marcan a las víctimas con un copo de nieve (+8% de esta arma)
+	ModeHoming: Portador: enjambre teledirigido
+	ModeOrbital: Portador: órbita de ventisca
+}
+
+GsStarCannon.Desc:
+	'''
+	Reforjado: las estrellas rebotan una vez en los bloques en lugar de estallar, y crecen más grandes y rápidas
+	Un disparo de rebote: una estrella que ya ha rebotado inflige un 45% más de daño
+	'''
+
+GsStynger: {
+	Desc: Reforjado: detona al impactar, con un empujón en el disparo. Los virotes y la metralla del Stynger se mantienen como antes
+	ModeImpact: Fusible: impacto
+	ModeRange: Fusible: explosión de alcance
+	ModeRicochet: Fusible: rebote
+}

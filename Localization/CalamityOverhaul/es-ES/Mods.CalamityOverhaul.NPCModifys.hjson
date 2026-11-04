@@ -5,8 +5,8 @@ ModifyCrabulon: {
 	RideHoverText: Clic derecho para montar
 	ChangeSaddleText: Clic izquierdo para cambiar la silla de montar
 	DismountText: Clic derecho para desmontar
-	DontDismountText: Montar no está disponible temporalmente en multijugador
-	RecallText: Llamar de vuelta
+	DontDismountText: ¡La función de montura no está disponible temporalmente en el modo multijugador!
+	RecallText: Hacer volver
 	SaddleText: Silla
 	ReleaseText: Soltar
 	ReleasedText: "{0} ha sido soltado"
@@ -31,7 +31,7 @@ ModifyTruffle: {
 		Una vez tuve una granja de hongos; mis hijos me ayudaban mucho.
 		Hasta que un día noté que la mitad crecía en el estómago de alguien.
 		'''
-	Chat2: Sombrero rojo, pie blanco — cómetelo y acuéstate.
+	Chat2: Sombrero rojo, tallo blanco… cómetelo y quédate tendido para siempre.
 	Chat3: Puedes venderme hongos, pero no recibirás absolutamente nada a cambio.
 	Chat4: Aquí todo el mundo quiere comerme.
 	Chat5:
@@ -67,7 +67,7 @@ ModifyWITCH: {
 	Homeless0: Disculpa, no tengo nada que ofrecer. Quizá intentes reforjar algo y vuelvas a verme…
 	Homeless1: ¿Hay lugar para mí aquí? Quiero decir… si no, acamparé aquí cerca.
 	Homeless2: ¿Sabes cómo vivía la gente en la era pasada? Sin casas, solo en árboles huecos. ¿Podrías al menos encontrarme un hueco en un árbol?
-	Homeless3: ¿No hay casa libre? ¿Esperas que pague arriendo?
+	Homeless3: ¿No hay casa libre? ¿Esperas que pague alquiler?
 	L0: No puedo pagar alquiler. Quizá podría ofrecer a tu ciudad una ceremonia de exorcismo para compensar parte del costo.
 	L1: Nunca creí en las almas. Intentar revivir a los muertos solo trae mayores desgracias.
 	L2:

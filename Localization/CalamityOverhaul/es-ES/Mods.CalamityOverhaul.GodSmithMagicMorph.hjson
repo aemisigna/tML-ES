@@ -1,0 +1,14 @@
+GsSpiritFlame.Desc: Reforjado: las llamas espirituales dejan una estela de fuego de alma pálido; la mitad de sus golpes se divide en una brizna cazadora
+GsSpiritFlameRingProj.DisplayName: Anillo de Llama Espiritual
+GsSpiritFlameWispProj.DisplayName: Brizna Cazadora
+GsPoisonStaff.Desc: Reforjado: los colmillos dejan una estela de niebla venenosa y se dividen en colmillos finos con su segunda mordida
+GsVenomStaff.Desc: Reforjado: los colmillos dejan una estela de niebla venenosa y liberan un colmillo pesado con su segunda mordida
+GsShadowFlameHexDoll.Desc: Reforjada: los tentáculos de llama sombría clavan una marca de maleficio en todo lo que tocan; los enemigos marcados reciben más daño de esta muñeca
+GsLeafBlower.Desc:
+	'''
+	Reforjado: las hojas giran dejando una estela verde afilada como una navaja
+	Mantén clic derecho para cargar el Modo Tormenta: durante seis segundos, cada hoja vuela más rápido, corta más profundamente y gira con más fuerza
+	'''
+GsMorphFangSerpentProj.DisplayName: Beso de Serpiente
+GsMorphFangAcidPoolProj.DisplayName: Charco de Ácido
+GsShadowFlameHexSigilProj.DisplayName: Sigilo del Gran Maleficio

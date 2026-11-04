@@ -1,0 +1,103 @@
+System: {
+	UnlockBroadcast: La Muerte asiente. «{0}» ha entrado en la Rueda del Tránsito
+	KindleLabel: Avivar
+	SnuffLabel: Apagar
+	BurningCounter: Ardiendo {0}/{1}
+	SlotFullNotice: Todos los asientos de lámpara están ocupados. Apaga una llama antes de avivar otra
+	LockedHint: Derrótalo mientras Asura reina y su llama de alma ocupará su lugar
+	HudName: Linterna Guía de Almas
+	HudOpenHint: Haz clic para abrir la Rueda del Tránsito
+	WheelTitle: Rueda del Tránsito
+	CenterHint: Elige una cuenta de alma para ver su bendición
+	CloseHint: Esc o clic derecho pliega la Rueda
+}
+
+KingSlimeBlessing: {
+	DisplayName: Corona de Gel Real
+	Description: Cubierto de gel, reduce el daño de contacto de los enemigos en un 12%
+}
+
+EyeOfCthulhuBlessing: {
+	DisplayName: Pupila Abisal
+	Description: Aumenta la probabilidad de ataque crítico en un 5% y en otro 3% durante la noche
+}
+
+EaterOfWorldsBlessing: {
+	DisplayName: Anillo de Podredumbre
+	Description: Los ataques infligen Erosión, lo que reduce la defensa del objetivo en 10 durante 5 segundos
+}
+
+BrainOfCthulhuBlessing: {
+	DisplayName: Empatía del Dolor
+	Description: Durante 5 segundos tras recibir daño, aumenta un 12% tu daño
+}
+
+QueenBeeBlessing: {
+	DisplayName: Reparación de la Colmena
+	Description: Los objetos de curación restauran un 15% más de vida
+}
+
+SkeletronBlessing: {
+	DisplayName: Vigilia Ósea
+	Description: Cada 45 segundos, los huesos montan guardia y reducen a la mitad el siguiente golpe que recibas
+}
+
+DeerclopsBlessing: {
+	DisplayName: Zancada Invernal
+	Description: No resbalas sobre el hielo, aumenta la velocidad de movimiento en un 8% y eres inmune a Enfriado
+}
+
+WallOfFleshBlessing: {
+	DisplayName: Pacto de Carne
+	Description: Tras recibir daño, el 20% se restaura lentamente durante 8 segundos
+}
+
+QueenSlimeBlessing: {
+	DisplayName: Penacho Cristalino
+	Description: Inmunidad al daño por caída, aumenta la altura de salto
+}
+
+TwinsBlessing: {
+	DisplayName: Concierto de Pupilas Gemelas
+	Description: Los golpes consecutivos al mismo objetivo aumentan el daño un 2% cada uno, hasta 5 acumulaciones
+}
+
+DestroyerBlessing: {
+	DisplayName: Circuito de Sonda
+	Description: Las muertes restauran 3 de maná y los disparos tienen 1 de 12 de probabilidad de no consumir munición
+}
+
+SkeletronPrimeBlessing: {
+	DisplayName: Chasis Sobrecargado
+	Description: Aumenta la velocidad de uso de objetos en un 5%
+}
+
+PlanteraBlessing: {
+	DisplayName: Renovación Espinosa
+	Description: Aumenta la regeneración de vida y la aumenta aún más durante 3 segundos tras recibir daño
+}
+
+GolemBlessing: {
+	DisplayName: Corazón de Piedra
+	Description: Aumenta la defensa en 8 y ya no puedes sufrir retroceso
+}
+
+DukeFishronBlessing: {
+	DisplayName: Marea Furiosa
+	Description: Con menos de la mitad de vida, aumenta la velocidad de movimiento en un 12% y el daño en un 8%
+}
+
+EmpressBlessing: {
+	DisplayName: Veredicto Diurno
+	Description: Aumenta el daño de los golpes críticos en un 18% durante el día
+}
+
+LunaticCultistBlessing: {
+	DisplayName: Égida Lunar
+	Description: Cada 40 segundos se forma un escudo lunar que bloquea por completo un proyectil enemigo
+}
+
+MoonLordBlessing: {
+	DisplayName: Resonancia del Núcleo Estelar
+	Description: Aumenta todo el daño infligido en un 8%
+}

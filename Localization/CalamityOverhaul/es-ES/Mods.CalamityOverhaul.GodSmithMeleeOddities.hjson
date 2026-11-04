@@ -1,0 +1,68 @@
+# GodSmith MeleeOddities (P5) weapon descriptions
+# Keys composed by the framework: Mods.CalamityOverhaul.GodSmithMeleeOddities.{SchemeClass}.Desc
+
+GsVampireKnives.Desc:
+	'''
+	Reforjados: lanzan de 4 a 8 cuchillos que curan un 7.5% del daño infligido;
+	la sangre robada se condensa en hasta 3 perlas de sangre orbitales, cada una añade un cuchillo al siguiente lanzamiento;
+	con 3 perlas, el siguiente lanzamiento es una andanada carmesí con el doble de robo de vida
+	'''
+GsScourgeoftheCorruptor.Desc:
+	'''
+	Reforjado: la jabalina estalla en una cría de pequeños devoradores al impactar;
+	también clava una llaga supurante en todo lo que golpea: los devoradores se lanzan sobre la llaga
+	y, tras tres pasadas, la llaga se rompe con llamas malditas
+	'''
+GsSolarEruption.Desc:
+	'''
+	Reforjada: libera una hoja encadenada que traza bucles, atraviesa paredes y detona luz solar al impactar;
+	acierta 8 golpes para cargar una corona: el siguiente azote enciende toda su trayectoria en una cadena de explosiones
+	'''
+GsDayBreak.Desc:
+	'''
+	Reforjado: las lanzas se clavan y arden, hasta 8 por objetivo;
+	clavar 4 lanzas en un objetivo hace que detonen en una cruz de luz diurna
+	'''
+GsSickle.Desc:
+	'''
+	Reforjada: sigue cosechando heno de la hierba.
+	Los tajos acumulan Cosecha y cada acumulación aumenta un poco la velocidad de giro;
+	con 5 acumulaciones, el siguiente tajo se convierte en un barrido de cosecha más amplio
+	'''
+GsIceSickle.Desc:
+	'''
+	Reforjada: la hoz lanzada se congela formando un prisma de hielo donde se detiene;
+	quiebra el prisma con un tajo para liberar un abanico de carámbanos hacia delante
+	'''
+GsDeathSickle.Desc:
+	'''
+	Reforjada: la guadaña que atraviesa paredes sube de rango por cada enemigo nuevo que siega;
+	con tres rangos, hace erupcionar un anillo de fuego de alma donde se detiene
+	'''
+GsTerragrim.Desc:
+	'''
+	Reforjada: mantén para convertirte en una tormenta de hojas mientras acumulas Crecimiento;
+	suelta para liberar una oleada de hojas según el Crecimiento; con el poder al máximo adopta la forma de la Espada Terra
+	'''
+GsArkhalis.Desc:
+	'''
+	Reforjada: la ráfaga atraviesa 20 de armadura;
+	los golpes sostenidos al mismo objetivo acumulan Perspicacia y cada acumulación añade 2 de penetración de armadura,
+	y con 8 acumulaciones la ráfaga se convierte en una estocada de ejecución perforadora
+	'''
+GsMonkStaffT1.Desc:
+	'''
+	Reforjado: el golpe contra el suelo sigue infligiendo el triple de daño en un área y aún puedes girar o acortar el giro;
+	los enemigos golpeados quedan somnolientos y ralentizados, y un tercer golpe al mismo objetivo lo duerme:
+	ese golpe causa más daño y ralentiza durante más tiempo
+	'''
+GsMonkStaffT2.Desc:
+	'''
+	Reforjado: cada estocada acertada invoca un espectro que atraviesa a un enemigo cercano;
+	luego el espectro rodea a su víctima para darle un mordisco adicional
+	'''
+GsMonkStaffT3.Desc:
+	'''
+	Reforjado: los golpes con clic izquierdo acumulan Aliento de Dragón e iluminan la perla del bastón;
+	con 5 acumulaciones, la esfera de dragón del clic derecho asciende y hace caer rayos a lo largo de su trayectoria
+	'''

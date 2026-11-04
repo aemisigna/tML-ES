@@ -1,0 +1,146 @@
+# GodSmith mode - Broadswords family (P1) weapon descriptions
+# Keys are composed by the framework: Mods.CalamityOverhaul.GodSmithBroadswords.{SchemeClassName}.Desc
+
+# ===== Progression swords (package lead) =====
+GsLightsBane.Desc:
+	'''
+	Reforjada: cada tajo abre una cicatriz sombría en el aire;
+	el tercer golpe hunde la hoja en las sombras, luego la hace brotar hacia delante y su cicatriz persiste para corroer
+	'''
+# ===== Wood tier =====
+GsWoodenSword.Desc:
+	'''
+	Reforjada: la madera verde vuelve a su sitio; acertar un golpe prepara la hoja,
+	por lo que el siguiente tajo en una bocanada se eleva el doble de rápido e inflige un 10% más de daño
+	'''
+GsBorealWoodSword.Desc:
+	'''
+	Reforjada: los golpes repetidos cubren al mismo objetivo de savia boreal;
+	la tercera capa estalla en niebla helada y envuelve al objetivo en Quemadura por Escarcha
+	'''
+GsPalmWoodSword.Desc:
+	'''
+	Reforjada: barridos costeros amplios; el tercer tajo lanza un abanico de tres olas de arena
+	que chocan rápidamente contra el suelo y golpean una vez cada una
+	'''
+GsRichMahoganySword.Desc:
+	'''
+	Reforjada: un combo de látigo de enredadera de cuatro tiempos; el cuarto tajo extiende una enredadera fantasmal
+	para obtener mucho más alcance y envenena todo lo que enreda
+	'''
+GsEbonwoodSword.Desc:
+	'''
+	Reforjada: cada tajo deja una nube persistente de esporas corruptas en el punto medio
+	de su trayectoria, que inflige un pulso de daño ligero a todo lo que queda dentro
+	'''
+GsShadewoodSword.Desc:
+	'''
+	Reforjada: el tercer golpe abre una herida sangrante; los golpes contra objetivos sangrantes
+	infligen un 18% más de daño y aceleran tu siguiente tajo
+	'''
+GsAshWoodSword.Desc: Reforjada: dos cortes rápidos seguidos de un golpe abrasador lento que incendia a los enemigos durante 3 segundos
+GsCactusSword.Desc:
+	'''
+	Reforjada: cortes desérticos compactos; cuando conecta el tercer tajo, dos agujas de cactus
+	estallan hacia atrás desde la herida y golpean una vez cada una
+	'''
+# ===== Ore tier =====
+GsCopperBroadsword.Desc: Reforjada: un combo ágil de dos tiempos; los golpes conducen electricidad a través de enemigos empapados e infligen daño adicional con una descarga estática
+GsTinBroadsword.Desc: Reforjada: un combo de cuatro tiempos que sube por la escala; el cuarto golpe resonante impacta con más fuerza en un destello blanco
+GsLeadBroadsword.Desc: Reforjada: golpes lentos y brutales con mucho retroceso; el remate cae desde arriba como un impacto que sacude el polvo del suelo
+GsSilverBroadsword.Desc:
+	'''
+	Reforjada: el filo exterior de la espada es el filo lunar, y los enemigos golpeados por él reciben un 40% más de daño con un tañido de plata
+	Mantén la distancia para que solo golpee la punta; de noche el filo lunar cubre la mitad de la hoja
+	'''
+GsTungstenBroadsword.Desc: Reforjada: marca al mismo objetivo tres veces y cada corte posterior ignora parte de su armadura
+GsGoldBroadsword.Desc: Reforjada: imágenes doradas y golpes de chispas monetarias; el remate golpea con más riqueza mientras haya oro en tu bolsa
+GsPlatinumBroadsword.Desc: Reforjada: tres tajos de peso completo; el remate golpea con una doble onda de choque y un retroceso aplastante
+# ===== Environment / drop swords =====
+GsBoneSword.Desc: Reforjada: el tercer golpe lanza un hueso giratorio que traza un arco por el aire y se astilla contra todo lo que golpea
+GsMandibleBlade.Desc: Reforjada: cada giro muerde con dos arcos de mandíbula que se cierran como pinzas; la tercera mordida aprieta para infligir daño adicional
+GsPurpleClubberfish.Desc: Reforjada: una bofetada acuática amplia con muchísimo retroceso que empapa todo lo que golpea; abofetear a un enemigo en llamas apaga el fuego para infligir daño adicional
+GsZombieArm.Desc: Reforjada: se agita con el ritmo torpe de los no muertos, sin repetir dos golpes iguales; las salpicaduras podridas pueden confundir brevemente a todo lo que golpeen
+GsStylishScissors.Desc: Reforjada: corta con rapidez en golpes de dos tiempos; cada sexto corte al mismo objetivo es un corte final que inflige el doble de daño
+GsBladedGlove.Desc: Reforjada: una ráfaga de garras de cinco tiempos a quemarropa; el quinto golpe rasga con una marca de triple garra que inflige daño adicional
+GsKatana.Desc: Reforjada: la hoja desaparece dentro de su propio arco de golpe y reaparece congelada en el extremo; el tercer golpe es un desenvainado iai que estalla en un único destello blanco
+GsIceBlade.Desc: Reforjada: cada tajo condensa un fragmento de hielo giratorio que desciende en arco durante el vuelo; el remate libera un abanico doble de fragmentos
+GsFalconBlade.Desc: Reforjada: el combo de tres cortes más rápido de su nivel; el tercer golpe es una picada de halcón más pesada y de mayor alcance
+GsTentacleSpike.Desc: Reforjada: los golpes embadurnan a las víctimas con slime adherente y, al hundirse en la carne, roba una pizca de vida
+GsCandyCaneSword.Desc: Reforjada: cada quinto golpe al mismo objetivo quiebra la cobertura de caramelo e inflige un 50% de daño adicional en una explosión de fragmentos de azúcar rojos y blancos
+GsDyeTradersScimitar.Desc: Reforjada: cada barrido tiñe su arco con un color nuevo del arcoíris; el tercer golpe emite los siete a la vez y salpica al objetivo con tinte
+# ===== Progression swords =====
+GsBloodButcherer.Desc:
+	'''
+	Reforjada: los golpes pesados acumulan Exanguinación en la víctima; el remate de despiece detona
+	cada acumulación en una explosión de sangre y una explosión completa de tres acumulaciones te devuelve vida
+	'''
+GsEnchantedSword.Desc:
+	'''
+	Reforjada: cada tajo lanza una hoja de luz sagrada;
+	la onda del remate se ensancha y atraviesa a tres enemigos
+	'''
+GsStarfury.Desc: Reforjada: cada tajo hace caer una estrella desde el cénit; el tercer golpe fija tres puntos predestinados y hace caer tres estrellas juntas
+GsBeeKeeper.Desc:
+	'''
+	Reforjada: cada golpe libera abejas de la colmena desde el filo encerado; el cuarto giro reúne
+	tres sombras de abeja alrededor de la hoja y las libera a la vez, mientras la cera pegajosa gotea de las heridas
+	'''
+# ===== Mandated A-tier trio =====
+GsMuramasa.Desc:
+	'''
+	Reforjada: una secuencia de iaijutsu de cinco tiempos; tres cortes relámpago,
+	una carga larga envainada y luego un desenvainado de arco completo que estalla desde la quietud
+	'''
+GsBladeofGrass.Desc:
+	'''
+	Reforjada: una hoja viviente de la jungla; cada tajo dispersa niebla de esporas urticantes a lo largo de su arco,
+	las nervaduras de las hojas despiertan al alzarla y el tercer golpe libera enredaderas que atan al objetivo
+	'''
+GsFieryGreatsword.Desc:
+	'''
+	Reforjada: una losa de piedra infernal cuyo peso nunca se oculta; el metal fundido gotea del filo
+	durante todo el giro y el tercer golpe es un impacto desde arriba que deja un cráter ardiente
+	'''
+GsAdamantiteSword.Desc: Reforjada: tajos lentos y aplastantes de adamantita; el remate cae desde arriba, rompe la armadura y sacude el suelo
+GsBeamSword.Desc: Reforjada: cada tajo proyecta una onda de rayo; los golpes del rayo cargan la hoja y, con tres cargas, el siguiente rayo estalla en una lanza aniquiladora enorme, más ancha, brillante y perforadora
+GsBladetongue.Desc: Reforjada: una hoja carmesí viviente; golpear a los enemigos escupe dos corrientes arqueadas de icor que reducen la defensa y el beso del tiempo final deja un géiser de icor persistente en el lugar
+GsBluePhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsBluePhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsBreakerBlade.Desc: Reforjada: un ritmo destructor de dos tiempos; inflige x2.5 de daño a enemigos con más de un 90% de vida y acertar ese golpe inicial quiebra su guardia con una onda de choque que rompe armaduras
+GsChlorophyteClaymore.Desc: Reforjada: una gran hoja de dos tiempos; cada giro lanza un núcleo verdoso que emite pulsos de espinas durante el vuelo y el núcleo del remate desde arriba echa raíces en el suelo donde impacta, ralentizando y apuñalando todo lo que permanezca
+GsChlorophyteSaber.Desc: Reforjada: un sable veloz de tres tiempos; cada tajo siembra un sudario de esporas persistente en el borde del arco y los golpes de hoja contra objetivos cubiertos infligen daño adicional y acumulan veneno
+GsChristmasTreeSword.Desc: Reforjada: cada tajo lanza un adorno festivo distinto: una bola explosiva, una estrella dorada perforadora y luego una caja de regalo que se quiebra en fragmentos y levanta un arbolito de luces parpadeantes que rocía polvo estelar urticante
+GsCobaltSword.Desc: Reforjada: mantén el combo sin interrupciones y el filo de cobalto girará cada vez más rápido; el cuarto golpe deja un arco eco azul que corta de nuevo
+GsCutlass.Desc: Reforjada: una danza de saqueo de cuatro tiempos con tempo creciente; acierta golpes para acumular Garbo y, con suficiente bravuconería, el cuarto tiempo se convierte en un tajo giratorio de doble arco que golpea dos veces a su alrededor
+GsDD2SquireBetsySword.Desc: Reforjada: cada tajo libera una onda de rugido sónico de dragón; los golpes alimentan el Alma del Dragón y, con 4 almas, la onda del remate asciende en dos dragones serpenteantes
+GsDD2SquireDemonSword.Desc: Reforjada: levanta el escudo con clic derecho como siempre; un bloqueo perfecto devuelve cinco veces la fuerza en el siguiente golpe y marca la hoja con Fuego Infernal: los siguientes tres tajos lanzan ondas ardientes que incendian a los enemigos
+GsFetidBaghnakhs.Desc: Reforjada: una ráfaga de garras de cuatro tiempos a quemarropa; cada golpe graba una marca supurante en el objetivo y la cuarta marca estalla en pus, envenenando todo lo que salpica
+GsFrostbrand.Desc: Reforjada: aliento invernal; cada tajo exhala un virote de escarcha que se detiene y acelera en vuelo, los golpes infligen Quemadura por Escarcha y el tiempo final divide el virote en tres fragmentos de hielo
+GsGreenPhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsGreenPhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsHamBat.Desc: Reforjada: el poder de la saciedad; los golpes se vuelven más grasientos y poderosos según tu nivel de Bien Alimentado (+5%/+10%/+15% de daño) y el tiempo final salpica trozos de carne con una explosión de aroma sabroso
+GsInfluxWaver.Desc: Reforjada: acero de fase marciano; cada tajo proyecta una onda de fase que parpadea al otro lado de la víctima y golpea dos veces más, los golpes de parpadeo marcan al objetivo con una marca de fase y el tercer tajo de sobremarcha invoca una hoja de fase adicional en cada enemigo marcado, hasta tres
+GsKeybrand.Desc: Reforjada: los golpes infligen hasta el doble de daño a medida que baja la vida del objetivo; por debajo del 30% de vida la hoja ilumina runas doradas de llave y ejecutar a una presa así estalla en luz de desbloqueo
+GsMeowmere.Desc: Reforjada: una hoja felina cubierta de caramelo y escarcha que toca una sonata de maullidos de cuatro tiempos; cada tajo lanza una cabeza de gato rebotante con una cinta arcoíris, los golpes recogen notas musicales y con siete notas el remate hace caer un meteoro felino del cielo
+GsMythrilSword.Desc: Reforjada: cada tajo marca al objetivo con un sello de mithril y el tercer sello resuena como una onda de choque resonante
+GsOrangePhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsOrangePhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsOrichalcumSword.Desc: Reforjada: cada giro dispersa pétalos flotantes a lo largo del arco, que revolotean y luego se lanzan contra las presas cercanas; el remate libera una floración completa
+GsPalladiumSword.Desc: Reforjada: los golpes almacenan vitalidad en el borde tibio de paladio; el remate la extrae como motas de vida que vuelan de regreso y te reparan, hasta seis por combo
+GsPearlwoodSword.Desc: Reforjada: un combo juguetón de madera perlada que lanza perlas explosivas con cada tajo; el tercer golpe invoca una breve lluvia de perlas desde arriba
+GsPiercingStarlight.Desc: Reforjada: cada uso es una cadencia de tres estocadas de luz estelar; la estocada final dispara un virote estelar perforador y tres cadencias impecables seguidas hacen que el virote estalle en un destello estelar al golpear
+GsPsychoKnife.Desc: Reforjada: un destello de acero ennegrecido de dos tiempos; el primer golpe desde un sigilo profundo es una puñalada por la espalda con mucho daño adicional y las muertes te devuelven a la mitad del sigilo en vez de dejarte completamente expuesto
+GsPurplePhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsPurplePhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsRedPhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsRedPhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsSeedler.Desc: Reforjada: cada tajo lanza una vaina de semillas giratoria que rebota y estalla en un abanico de espinas buscadoras; la vaina del remate estalla en enredaderas y levanta un parche de zarzas persistente que sigue apuñalando
+GsSlapHand.Desc: Reforjada: una bofetada divina de tres tiempos; cada golpe estampa una huella de palma gigante con un retroceso absurdo a lo largo del giro y el remate junta ambas palmas con un aplauso que libera una pequeña onda de choque
+GsStarWrath.Desc: Reforjada: cada tajo hace caer tres estrellas con cola de cometa desde el cielo nocturno; los golpes acertados acumulan la Marea Estelar y, con la marea al máximo, el tajo final libera una cascada de estrellas que caen, coronada por una estrella enorme que estalla en un anillo
+GsTheHorsemansBlade.Desc: Reforjada: golpear a un enemigo invoca una calabaza de Halloween ardiente para perseguirlo; los golpes repetidos a una víctima acumulan marcas de Cacería y, con las marcas al máximo, el tajo final invoca una caballería de cuatro calabazas ardientes que pisotean la línea
+GsTitaniumSword.Desc: Reforjada: cada tajo deja una sombra de titanio suspendida en el aire que repite el mismo corte medio compás después
+GsWhitePhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsWhitePhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar
+GsYellowPhaseblade.Desc: Reforjada: un filo de plasma que se carga al cortar; cada golpe extiende la hoja y, con la carga al máximo, el siguiente tajo final lanza un arco de plasma
+GsYellowPhasesaber.Desc: Reforjada: un sable de plasma perfeccionado; los golpes sobrecargan la hoja para aumentar su alcance, cada tajo final proyecta un arco corto de energía y una carga completa libera un arco sobrecargado que estalla al impactar

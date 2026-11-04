@@ -1,21 +1,25 @@
-QuestLog_Key.DisplayName: Diario de misiones: alternar interfaz principal
-QuestManager_Key.DisplayName: Encargos: alternar panel de gestión
-Legend_UIControl.DisplayName: Arma legendaria: alternar interfaz
-Legend_Domain.DisplayName: Despliegue de dominio
-Legend_Teleport.DisplayName: Teletransporte de dominio
+QuestLog_Key.DisplayName: Libro de Misiones: alternar (incl. encargos)
+Legend_UIControl.DisplayName: Arma de Leyenda: alternar HUD
+Legend_Domain.DisplayName: Expansión de Dominio
+RadialWheel_Key.DisplayName: Ruedas Radiales: mantén para abrir
+Legend_Teleport.DisplayName: Teletransporte de Dominio
 Legend_Restart.DisplayName: Autorreinicio
-HackTime_Toggle.DisplayName: Tiempo de hackeo
+HackTime_Toggle.DisplayName: Tiempo de Hackeo
 CyberBanish_Key.DisplayName: Ciberespacio: desterrar
 CyberFreeze_Key.DisplayName: Ciberespacio: congelar
 CyberwareSkill_Key.DisplayName: Ciberimplante: activar habilidad actual
-CyberwareRadial_Key.DisplayName: Ciberimplante: abrir menú radial
-VoidTimeShift_Key.DisplayName: Invasión temporal del Vacío
 Halibut_Clone.DisplayName: Halibut: invasión del yo pasado
 Halibut_Superposition.DisplayName: Halibut: superposición
-Halibut_SkillWheel.DisplayName: Halibut: mantener pulsado para abrir la rueda de habilidades
-Murasama_TriggerKey.DisplayName: Murasama: tecla de disparo
-Murasama_DownKey.DisplayName: Murasama: golpe descendente
-WeponSkill_Q.DisplayName: Arma: habilidad izquierda
-WeponSkill_R.DisplayName: Arma: habilidad derecha
+Onikiri_FlashStep.DisplayName: Onikiri: paso relámpago Kamui
+Onikiri_Execute.DisplayName: Onikiri: ejecutar
+Onikiri_SakuraFlight.DisplayName: Onikiri: vuelo de Sakura
+Onikiri_DomainFlip.DisplayName: Onikiri: voltear Dominio (Omote/Ura)
+Kikasa_Sink.DisplayName: Kikasa: hundir objeto en el lago
+Kikasa_DomainMutate.DisplayName: Kikasa: voltear el lago
+Kikasa_TideControl.DisplayName: Kikasa: controlar la marea
 Accessory_Skills.DisplayName: Habilidad de accesorio
-CWRKeySystem.Notbound: "[Sin tecla asignada]"
+
+CWRKeySystem: {
+	Notbound: "[Tecla sin asignar]"
+	RightClickFallback: Clic derecho
+}

@@ -35,6 +35,21 @@ ReforgedClientConfig: {
 	}
 
 	Headers.Developer: Herramientas del Desarrollador
+
+	GlyphProjectileVisualEffects: {
+		Label: Efectos de Proyectiles con Glifos
+		Tooltip: Determina si los proyectiles con glifos deben crear efectos visuales
+	}
+
+	GlyphItemVisualEffects: {
+		Label: Efectos de Objetos con Glifos
+		Tooltip: Determina si los objetos con glifos deben tener shaders y efectos visuales al soltarse en el mundo
+	}
+
+	BannerJingle: {
+		Label: Melodía de Estandarte
+		Tooltip: Activa la melodía del estandarte, que suena cuando aparece el primer estandarte de un tipo de PNJ.
+	}
 }
 
 ReforgedServerConfig: {
@@ -53,5 +68,18 @@ ReforgedServerConfig: {
 	MaxFloatingItemCount: {
 		Label: Límite de Objetos Tirados
 		Tooltip: Determina cuántos objetos tirados en el suelo pueden estar activos en el mundo a la vez.
+	}
+
+	AutoloadHeldProjectiles: {
+		Label: Carga Automática de Proyectiles Sostenidos
+		Tooltip:
+			'''
+			Activa un sistema que detecta automáticamente los 'proyectiles sostenidos' durante la carga.
+			Esto puede aumentar considerablemente los tiempos de carga o provocar errores de carga si se activa junto con otros mods,
+			pero puede solucionar algunos problemas con ciertas mecánicas (como los glifos) dentro del juego.
+			Lo ideal es que otros mods usen el conjunto de proyectiles con nombre HeldProjectile (bool) para una compatibilidad estable.
+
+			Esto NO tiene ningún efecto sobre los proyectiles del juego base o de Reforged, que ya están configurados.
+			'''
 	}
 }

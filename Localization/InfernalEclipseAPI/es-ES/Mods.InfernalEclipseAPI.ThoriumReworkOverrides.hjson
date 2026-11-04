@@ -38,7 +38,7 @@ ItemDescriptions: {
 		25% de alcance de látigo aumentado
 		Aumenta en 1 tu número máximo de súbditos
 		'''
-	MagmaSeersMask: 20% de velocidad de látigo aumentada
+	MagmaSeersMask: "[s:InfernalEclipseAPI/IEoRIcon] 20% de velocidad de látigo aumentada"
 	MasterMarksmansScouter: ""
 	AssassinsGuard: ""
 }

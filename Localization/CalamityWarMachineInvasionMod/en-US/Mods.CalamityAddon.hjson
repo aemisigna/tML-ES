@@ -1,11 +1,13 @@
+# This file will automatically update with entries for new content after a build and reload.
+
 Items: {
 	WulfrumSword: {
 		DisplayName: Wulfrum Sword
 		Tooltip:
 			'''
-			Charges up as you hit enemies
-			With enough charge, press <right> to perform a dash
-			[c/83B87E:'A giant wulfrum sword?! And a chargeable one!?']
+			Builds up charge upon enemy hits
+			Building up enough charge allows you to press <right> to perform a dash
+			[c/83B87E:'A giant wulfrum sword?! And it's a chargeable one!?']
 			[c/83B87E:'Give me two!']
 			'''
 	}
@@ -19,8 +21,8 @@ Items: {
 		DisplayName: Wulfrum Rocket
 		Tooltip:
 			'''
-			Does not destroy tiles.
-			[c/83B87E:'With auto-aim!']
+			Don't destroy blocks
+			[c/83B87E:'With auto-aim']
 			'''
 	}
 
@@ -44,21 +46,11 @@ Items: {
 		Tooltip: ""
 	}
 
-	WulfrumMothershipInfernalRelic: {
-		DisplayName: Infernal Wulfrum Mothership Relic
-		Tooltip: ""
-	}
-
-	WulfrumJumperInfernalRelic: {
-		DisplayName: Infernal Wulfrum Jumper Relic
-		Tooltip: ""
-	}
-
 	WulfrumHeart: {
 		Tooltip:
 			'''
-			Summons the Wulfrum Mothership
-			Not consumable
+			Summons Wulfrum Mothership
+			No consumable
 			'''
 		DisplayName: Wulfrum Heart
 	}
@@ -73,22 +65,11 @@ Items: {
 			DisplayName: Lore (Wulfrum Mothership)
 			Tooltip:
 				'''
-				During the war, these majestic machines were undefeatable,
+				During the war, these majestic machines were in peak condition, 
 				Boasting heavy armor and high maneuverability, but time spares no one... 
 				Even though these Wulfrum Motherships have long since rusted over, 
 				They remain a formidable foe to this day, still protected by lesser wulfrum creations.
 				'''
-		}
-
-		LoreWulfrumInvasion: {
-			Tooltip:
-				'''
-				After you destroyed their mothership, it stands to reason
-				that the Wulfrum machines were enraged and sought revenge;
-				but since you are reading this, it seems you repelled their attack.
-				However, there are still plenty of Wulfrum machines left—you will likely encounter them again...
-				'''
-			DisplayName: Lore Wulfrum Invasion
 		}
 	}
 
@@ -96,9 +77,9 @@ Items: {
 		DisplayName: Wulfrum Book
 		Tooltip:
 			'''
-			Fires wulfrum machines that explode, dealing damage in a small area.
-			[c/83B87E:'Making and commanding Wulfrum constructs.']
-			[c/83B87E:'Peak mechanical engineering!']
+			Crafts wulfrum machines from mana
+			[c/83B87E:'Engineering and commanding Wulfrum constructs.]
+			[c/83B87E:Peak mechanical engineering!']
 			'''
 	}
 
@@ -106,98 +87,14 @@ Items: {
 		DisplayName: Wulfrum Staff
 		Tooltip:
 			'''
-			Summons a small turret to protect you.
+			Summons a protective turret
 			[c/83B87E:'So powerful and cute!']
 			'''
 	}
 
-	WulfrumBomberBanner: {
+	LoreWulfrumMothership: {
+		DisplayName: Lore Wulfrum Mothership
 		Tooltip: ""
-		DisplayName: Wulfrum Bomber Banner
-	}
-
-	WulfrumBarrel: {
-		Tooltip:
-			'''
-			Buffs damage by up to 20%
-			The buff is increased by 5% every 15 seconds
-			The bonus damage dissapears completely after taking damage.
-			[c/83B87E:'Idk how it works... But it works!']
-			'''
-		DisplayName: Wulfrum Barrel
-	}
-
-	WulfrumMothershipTrophy: {
-		Tooltip: ""
-		DisplayName: Wulfrum Mothership Trophy
-	}
-
-	UnstableBattery: {
-		Tooltip:
-			'''
-			Summons the Wulfrum Invasion
-			Put this in a Wulfrum lure
-			[c/83B87E:'An interesting battery...']
-			'''
-		DisplayName: Unstable Battery
-	}
-
-	Weapons: {
-		Rogue: {
-			WulfrumJavelin: {
-				Tooltip:
-					'''
-					Explodes, dealing damage in a small area.
-					Stealth strikes ignore gravity and are much faster.
-					[c/83B87E:'Feel like a Wulfrum spartan!']
-					'''
-				DisplayName: Wulfrum Javelin
-			}
-		}
-	}
-
-	WDAS: {
-		Tooltip:
-			'''
-			[c/83B87E:Offensive mode:]
-			Spawns a wulfrum shard around the player every 1.5 seconds, up to a maximum of 4.
-			Upon seeing an enemy, homes in on them and explodes, dealing damage
-			[c/42F5F1:Defensive mode:]
-			Increases defense by 5 and endurance by 10%
-			[c/83B87E:'Decoding: Wulfrum deffensive-attaking system.']
-			'''
-		DisplayName: W.D.A.S.
-		KeybindInfo: Press {0} to change accessory mode
-	}
-
-	WulfrumJumperTrophy: {
-		Tooltip: ""
-		DisplayName: Wulfrum Jumper Trophy
-	}
-
-	WulfrumJumperRelic: {
-		Tooltip: ""
-		DisplayName: Wulfrum Jumper Relic
-	}
-
-	WulfrumPrototypeItem: {
-		DisplayName: Wulfrum plan
-		Tooltip:
-			'''
-			Summons a wulfrum prototype
-			The Prototype moves fast and allows the player to dash
-			Double tap a direction
-			'''
-	}
-
-	WulfrumInvasionMusicBox: {
-		DisplayName: Wulfrum Invasion (Music Box)
-		Tooltip: By - Spozmotosm
-	}
-
-	MechanismWarfareMusicBox: {
-		Tooltip: By - Digidonix
-		DisplayName: Mechanism Warfare (Music Box)
 	}
 }
 
@@ -211,31 +108,19 @@ NPCs: {
 
 	WulfrumWormHead: {
 		DisplayName: Wulfrum Digger
-		Bestiary: These Wulfrum diggers were used to quickly tunnel through rock, but when the war began, their high armor and speed made them into amazing weapons.
+		Bestiary: These Wulfrum diggers were used to quickly tunnel through rock, but when the war began, their high armor and speed made them formidable opponents.
 	}
 
 	WulfrumWormTail.DisplayName: Wulfrum Digger
 
 	WulfrumMothership: {
 		DisplayName: Wulfrum Mothership
-		Bestiary: A massive mothership that coordinates the actions of Wulfrum machines. Armed with homing missiles and a mini-factory, charges other Wulfrum machines.
+		Bestiary: A massive mothership that coordinates the actions of Wulfrum machines. Armed with homing missiles and a shield generator, it can also charge other Wulfrum machines.
 		SpawnInfo: Use a [i:CalamityAddon/WulfrumHeart] during the day on the surface.
-		DespawnMessage: The Wulfrum Mothership retreats...
+		DespawnMessage: The Wulfrum Mothership has retreated...
 	}
 
 	WulfrumShield.DisplayName: Wulfrum Mothership
-
-	WulfrumBomber: {
-		DisplayName: Wulfrum Bomber
-		Bestiary: Initially, the Wulfrum bombers were designed to transport various heavy cargoes by air, but when the war began, they were easily converted to carry and drop small bombs. The enemy fled in fear when they saw any sign of them.
-	}
-
-	WulfrumJumperP1.DisplayName: Wulfrum Jumper
-
-	WulfrumJumperP2: {
-		DisplayName: Wulfrum Jumper
-		Bestiary: These machines were designed specially to ambush Yharim's army in mountainous terrain. Their missle launchers destroyed the bulk of the troops, and other wulfrum machines easily caught up whith the remaining enemies.
-	}
 }
 
 Projectiles: {
@@ -243,34 +128,12 @@ Projectiles: {
 	WulfrumLRocketProj.DisplayName: Wulfrum Rocket
 	WulfrumMachineProj.DisplayName: Wulfrum Machine
 	WulfrumTurret.DisplayName: Wulfrum Turret
-	WulfrumMinis.DisplayName: Wulfrum Mine
-	WulfrumBigis.DisplayName: Wulfrum Mine
-	WulfrumJavelinProj.DisplayName: Wulfrum Javelin
-	WDASShard.DisplayName: Wulfrum Shard
-	WulfrumShockwave.DisplayName: Wulfrum Jumper
+	WulfrumMinis.DisplayName: Wulfrum Minis
 }
 
 Buffs: {
 	WulfrumTurretBuff: {
 		DisplayName: Wulfrum turret
-		Description: The Wulfrum turret will protect you
-	}
-
-	WulfrumPrototypeBuff: {
-		Description: Can you believe this was called a tank?
-		DisplayName: Wulfrum Prototype
-	}
-}
-
-UI.WulfrumBarrel.DisplayName: Wulfrum energy power
-Keybinds.WDASKeybind.DisplayName: W.D.A.S. mode change
-
-Events: {
-	WulfrumRush: {
-		InvasionName: Wulfrum Invasion
-		SpawnInfo: Right Click a [i:CalamityMod/WulfrumLureItem] with the [i:CalamityAddon/UnstableBattery] in your inventory.
-		StartMessage: You feel the scrap moving around you...
-		AbortMessage: The Wulfrum machines have defeated you...
-		EndMessage: The Wulfrum Invasion has been repelled!
+		Description: You are protected by wulfrum turret
 	}
 }

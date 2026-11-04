@@ -90,8 +90,8 @@ CascadeLeggings: {
 	Tooltip: Movimiento en agua aumentado 15%
 }
 
-JellyfishStaff: {
-	DisplayName: Báculo de Medusa
+JellyfishJamJar: {
+	DisplayName: Tarro de Mermelada de Medusa
 	Tooltip: Invoca una pequeña medusa para luchar por ti
 }
 
@@ -2867,7 +2867,7 @@ EnlilStatueItem: {
 
 SerratedClaws: {
 	DisplayName: Garras Dentadas
-	Tooltip: Puede picar Meteorito
+	Tooltip: "{$ItemTooltip.TungstenPickaxe}"
 }
 
 FlagRingItem: {
@@ -3156,5 +3156,377 @@ SaltGraveMarkerItem: {
 
 NotSunItemIcon: {
 	DisplayName: Ícono de Objeto No-Sol
+	Tooltip: ""
+}
+
+ChromaticWax: {
+	DisplayName: Cera Cromática
+	Tooltip: Se puede intercambiar por glifos mágicos
+	Gain: El arma encantada obtendrá: [c/{0}:{1}]
+	Target: Solo se puede aplicar a armas
+	RightClick: Sostén este glifo y haz clic derecho en el objeto que quieras encantar
+}
+
+BlazeGlyph: {
+	DisplayName: Glifo de Llamas
+	Tooltip:
+		'''
+		Infligir daño te prende fuego
+		Hasta un 40% más de daño y un 20% más de probabilidad de ataque crítico según la vida perdida
+		'''
+	Effect: En Llamas
+	Death: "{0} fue consumido por la Rabia..."
+
+	# Russian-only localization - feel free to leave unset. If your language needs gendering support, let the team know.
+	# The Effect key above is the masculine/default form
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+RadiantGlyph: {
+	DisplayName: Glifo Radiante
+	Tooltip: Acumula energía radiante mientras no infliges daño y potencia tu próximo ataque
+	Effect: Radiante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+StormGlyph: {
+	DisplayName: Glifo de Tormenta
+	Tooltip:
+		'''
+		Solo se puede aplicar a armas que disparan proyectiles
+		Aumenta la velocidad de los proyectiles
+		Los proyectiles crean ocasionalmente poderosas ráfagas de viento
+		'''
+	Effect: Ondeante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+MoonlightGlyph: {
+	DisplayName: Glifo de Luz Lunar
+	Tooltip:
+		'''
+		Convierte un 20% del daño del objeto en daño mágico
+		Aumenta el daño cuanto menos maná tengas
+		Dañar a los enemigos roba maná
+		'''
+	Effect: Deslumbrante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+RotGlyph: {
+	DisplayName: Glifo de Podredumbre
+	Tooltip:
+		'''
+		Los ataques infligen una Marchitez contagiosa
+		Los enemigos que sufran esta Marchitez pueden infligírtela
+		'''
+	Effect: Marchito
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+ShockGlyph: {
+	DisplayName: Glifo de Descarga
+	Tooltip: Los golpes críticos causan un 10% más de daño y electrocutan a los enemigos cercanos
+	Effect: Electrizante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+BeeGlyph: {
+	DisplayName: Glifo de Abeja
+	Tooltip:
+		'''
+		Convierte un 20% del daño del objeto en daño de invocación
+		Al golpear a los enemigos, los marcas
+		Los enemigos marcados liberan abejas cuando reciben golpes de tus súbditos
+		'''
+	Effect: Zumbante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+SanguineGlyph: {
+	DisplayName: Glifo Sanguíneo
+	Tooltip:
+		'''
+		Reduce el daño recibido en un 20%
+		Los ataques obtienen robo de vida, que aumenta cuanto menor sea tu vida
+		Robar vida otorga acumulaciones de una mejora de daño que se debilita con el tiempo
+		'''
+	Effect: Drenante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+PrefixVoucher: {
+	DisplayName: Vale de Prefijo de {0}
+	Tooltip:
+		'''
+		{0}
+		Aplica [c/{0}:{1}]
+		'''
+	AccessoryTooltip: Se puede usar en accesorios con clic derecho
+	WeaponTooltip: Se puede usar en armas con clic derecho
+}
+
+EnchantedStamp: {
+	DisplayName: Sello Encantado
+	Tooltip:
+		'''
+		Desbloquea un interruptor de habilidad a la izquierda del inventario
+		Cuando está activado, otorga ocasionalmente efectos de glifo a objetos fabricados, obtenidos como botín y reforjados
+		'''
+	Active: Encantamiento activado
+	Inactive: Encantamiento desactivado
+}
+
+CelestialStamp: {
+	DisplayName: Sello Celestial
+	Tooltip:
+		'''
+		Desbloquea un interruptor de habilidad a la izquierda del inventario
+		Cuando está activado, otorga ocasionalmente efectos de glifo a objetos fabricados, obtenidos como botín y reforjados
+		Además, permite que los objetos reciban prefijos y efectos de glifo simultáneamente
+		'''
+}
+
+RageGlyph: {
+	DisplayName: Glifo de Rabia
+	Tooltip: El daño excesivo que infliges al matar y el daño que recibes se almacenan para tu próximo ataque
+	Effect: Iracundo
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+CharmcasterHat: {
+	DisplayName: Sombrero de Charmcaster
+	Tooltip: ""
+}
+
+CharmcasterLeggings: {
+	DisplayName: Calzas de Charmcaster
+	Tooltip: ""
+}
+
+CharmcasterRobe: {
+	DisplayName: Túnica de Charmcaster
+	Tooltip: ""
+}
+
+VoidGlyph: {
+	DisplayName: Glifo del Vacío
+	Tooltip:
+		'''
+		Los ataques infligen acumulaciones de Colapso del Vacío
+		Colapso del Vacío crea una singularidad dañina tras infligir suficientes acumulaciones y reduce la defensa enemiga
+		'''
+	Effect: Nulo
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
+}
+
+GlitterPurse: {
+	DisplayName: Bolsa de Purpurina
+	Tooltip: Aumenta permanentemente la capacidad de objetos de las mochilas
+	StatusText: Tus mochilas se hacen más grandes
+}
+
+MariglowSeedPouch: {
+	DisplayName: Bolsa de Semillas de Mariglow
+	Tooltip: Esparce semillas que hacen brotar Mariglow en la arena
+}
+
+DisplayCaseItem: {
+	DisplayName: Vitrina
+	Tooltip: Pulsa <right> para colocar un accesorio en la vitrina
+}
+
+SkyPylonItem: {
+	DisplayName: Torre del Cielo
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+CandlewickItem: {
+	DisplayName: Cuerda de Mecha de Vela
+	Tooltip: Se puede escalar
+}
+
+WaxBlockItem: {
+	DisplayName: Bloque de Cera
+	Tooltip: ""
+}
+
+WaxPotItem: {
+	DisplayName: Maceta de Cera
+	Tooltip: ""
+}
+
+EnchantedMirrorItem: {
+	DisplayName: Espejo de Regreso
+	Tooltip: Pulsa <right> para teletransportarte a casa y crear un portal
+}
+
+MirrorItem: {
+	DisplayName: Espejo
+	Tooltip: ""
+}
+
+EnchantedWorkbenchItem: {
+	DisplayName: Prensa de Cera
+	Tooltip: ""
+}
+
+CandlewickCoil: {
+	DisplayName: Bobina de Cuerda de Mecha de Vela
+	Tooltip: Lánzala para crear una línea de cuerda de mecha de vela por la que se puede trepar
+}
+
+CandleBathtubItem: {
+	DisplayName: Bañera de Vela
+	Tooltip: ""
+}
+
+CandleBedItem: {
+	DisplayName: Cama de Vela
+	Tooltip: ""
+}
+
+CandleBookcaseItem: {
+	DisplayName: Estantería de Vela
+	Tooltip: ""
+}
+
+CandleCandelabraItem: {
+	DisplayName: Candelabro de Vela
+	Tooltip: ""
+}
+
+CandleCandleItem: {
+	DisplayName: Vela de Vela
+	Tooltip: ""
+}
+
+CandleChairItem: {
+	DisplayName: Silla de Vela
+	Tooltip: ""
+}
+
+CandleChandelierItem: {
+	DisplayName: Araña de Vela
+	Tooltip: ""
+}
+
+CandleChestItem: {
+	DisplayName: Cofre de Vela
+	Tooltip: ""
+}
+
+CandleDoorItem: {
+	DisplayName: Puerta de Vela
+	Tooltip: ""
+}
+
+CandleDresserItem: {
+	DisplayName: Cómoda de Vela
+	Tooltip: ""
+}
+
+CandleLampItem: {
+	DisplayName: Lámpara de Vela
+	Tooltip: ""
+}
+
+CandleLanternItem: {
+	DisplayName: Farol de Vela
+	Tooltip: ""
+}
+
+CandleSinkItem: {
+	DisplayName: Lavabo de Vela
+	Tooltip: ""
+}
+
+CandleSofaItem: {
+	DisplayName: Sofá de Vela
+	Tooltip: ""
+}
+
+CandleTableItem: {
+	DisplayName: Mesa de Vela
+	Tooltip: ""
+}
+
+CandleToiletItem: {
+	DisplayName: Inodoro de Vela
+	Tooltip: ""
+}
+
+CandleWorkBenchItem: {
+	DisplayName: Banco de Trabajo de Vela
+	Tooltip: ""
+}
+
+CandleClockItem: {
+	DisplayName: Reloj de Vela
+	Tooltip: ""
+}
+
+CandlePianoItem: {
+	DisplayName: Piano de Vela
+	Tooltip: ""
+}
+
+# You don't need to localize this, as it's only used to register a shader ID.
+ChromaticWaxShaderDummy: {
+	DisplayName: Maniquí de Sombreado de Cera Cromática
+	Tooltip: ¡Hola a todos los usuarios de mods de trucos!
+}
+
+WaxPlatformItem: {
+	DisplayName: Plataforma de Cera
 	Tooltip: ""
 }

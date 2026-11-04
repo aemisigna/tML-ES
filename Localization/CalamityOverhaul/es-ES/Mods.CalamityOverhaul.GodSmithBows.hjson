@@ -1,0 +1,217 @@
+GsWoodenBow.Desc:
+	'''
+	Reforjado: mantén para tensar y suelta para disparar. Una tensión media vuela más rápido y golpea más fuerte, una completa se convierte en una flecha de espíritu de madera y un impacto sobrecargado se divide en un abanico de flechas
+	Si mantienes demasiado tiempo la sobrecarga, la cuerda se desestabiliza: el disparo vuelve a la potencia de carga completa y causa fatiga breve
+	'''
+GsBorealWoodBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Las flechas sobrecargadas llevan escarcha, ralentizan y aturden brevemente a los enemigos menores
+	'''
+GsPalmWoodBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Las flechas sobrecargadas vuelan secas y certeras, y golpean los puntos vitales con más frecuencia
+	'''
+GsRichMahoganyBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Enredaderas de muchos tallos: los impactos sobrecargados se dividen en una flecha adicional
+	'''
+GsEbonwoodBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Las flechas sobrecargadas tienen una probabilidad de encender llamas sombrías
+	'''
+GsShadewoodBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Las flechas sobrecargadas tienen una probabilidad de abrir una herida sangrante
+	'''
+GsAshWoodBow.Desc:
+	'''
+	Reforjado: carga de tres etapas, la carga completa transmuta y la sobrecarga divide
+	Las flechas sobrecargadas incendian a los enemigos y dispersan cenizas
+	'''
+GsCopperBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	La sobrecarga libera una flecha lateral adicional gratuita
+	'''
+GsTinBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	La sobrecarga libera una flecha lateral adicional gratuita en una lluvia de chispas más densa
+	'''
+GsIronBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Flechas de presión sobrecargadas: retroceso aplastante que inmoviliza brevemente a los enemigos menores
+	'''
+GsLeadBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Las flechas de presión sobrecargadas llevan plomo: el impacto inmoviliza y envenena
+	'''
+GsSilverBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Las flechas sagradas sobrecargadas rebotan una vez hacia un enemigo cercano
+	'''
+GsTungstenBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Las flechas sobrecargadas rebotan dos veces; el golpe final estalla
+	'''
+GsGoldBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Las flechas reales sobrecargadas asestan más golpes críticos; los golpes críticos estallan en unas pocas monedas de cobre
+	'''
+GsPlatinumBow.Desc:
+	'''
+	Reforjado: carga de tres etapas; las puntas de flecha templadas con carga completa estallan en chispas y salpican a los enemigos cercanos
+	Las flechas de corona sobrecargadas siempre asestan golpes críticos y estallan en más monedas de cobre
+	'''
+GsDemonBow.Desc:
+	'''
+	Reforjado: carga de tres etapas. La carga completa transmuta la flecha en un virote impío perforador
+	Un impacto sobrecargado libera dos llamas sombrías buscadoras de almas que cazan lentamente a los enemigos cercanos
+	'''
+GsTendonBow.Desc:
+	'''
+	Reforjado: carga de tres etapas. Las flechas de coágulo con carga completa abren heridas sangrantes
+	Impacto sobrecargado de cuerda del corazón: un asta más pesada con retroceso brutal que salpica sangre y roba un poco de vida
+	'''
+GsBloodRainBow.Desc:
+	'''
+	Reforjado: las flechas siguen cayendo como lluvia de sangre. Carga de tres etapas
+	Una carga completa hace caer cuatro virotes adicionales sobre el cursor; una inundación sobrecargada hace caer ocho, y el virote principal forma un charco de sangre donde aterriza que pisotea y ralentiza a los enemigos
+	'''
+GsBeesKnees.Desc:
+	'''
+	Reforjado: las flechas de madera siguen convirtiéndose en flechas de abeja. Carga de tres etapas
+	Los impactos con carga completa liberan dos abejas adicionales; un impacto sobrecargado deja un vórtice de abejas giratorio. Puede haber como máximo doce abejas a tu servicio a la vez
+	'''
+GsHellwingBow.Desc:
+	'''
+	Reforjado: las flechas de madera siguen convirtiéndose en alas infernales que atraviesan las paredes, y la tensión es más rápida
+	Una carga completa libera tres murciélagos en V; una carga sobrecargada libera seis en espiral que se dispersan y luego convergen
+	'''
+GsMoltenFury.Desc:
+	'''
+	Reforjado: las flechas de madera siguen convirtiéndose en flechas ardientes. Carga de tres etapas
+	Los núcleos fundidos con carga completa rocían cuentas de magma al impactar; un disparo volcánico sobrecargado hace caer cinco virotes de lluvia fundida sobre la marca
+	'''
+
+GsChargeBleedBuff: {
+	DisplayName: Sangría
+	Description: Desangrándote
+}
+
+GsDaedalusStormbow.Desc:
+	'''
+	Reforjado: las flechas ahora caen del cielo y un sello plateado marca cada punto de aterrizaje antes de que impacte el virote
+	Los disparos acumulan carga de tormenta; con la carga al máximo, el siguiente disparo coloca una matriz celeste de 3x3: primero las esquinas, luego los bordes y por último el centro
+	El virote central cae con más fuerza y estalla al impactar.
+	Los virotes celestes acumulan marcas de cacería; marcar tres veces a un enemigo hace caer sobre él un virote de veredicto
+	'''
+GsTsunami.Desc:
+	'''
+	Reforjado: cada carga libera un rango de 5 flechas que avanzan en una ola ondulante, con una munición por carga
+	Los disparos acumulan carga de marea; con la carga al máximo, la siguiente carga se convierte en una gran ola: 7 flechas perforadoras en dos rangos, encabezadas por una cresta de espuma
+	Las flechas de la ola acumulan marcas de marea; marcar tres veces a un enemigo hace brotar un surtidor de agua debajo de él
+	Mientras haya un enemigo marcado, cada cuarta flecha se divide en un perseguidor de marea que muerde hacia él
+	'''
+GsFairyQueenRangedItem.Desc:
+	'''
+	Reforjado: todas las flechas se convierten en lanzas crepusculares; cada barrido del arco libera 5 lanzas en un arco que converge hacia el cursor
+	La tercera lanza de cada barrido es la lanza de la Reina y golpea con casi el doble de fuerza
+	Los disparos acumulan crepúsculo; con la carga al máximo, el siguiente disparo florece en un abanico prismático de 5 lanzas
+	Los golpes de lanza acumulan marcas; marcar tres veces a un enemigo hace que dos orbes feéricos lo rodeen y picoteen durante 2 segundos
+	'''
+GsDD2BetsyBow.Desc:
+	'''
+	Reforjado: cada carga libera 5 virotes de fuego dracónico que ascienden, se detienen y luego se lanzan en picado sobre la zona del cursor
+	Los impactos estallan en anillos de fuego dracónico; los enemigos en el aire reciben un 35% más de daño
+	Los disparos acumulan carga de ataque aéreo; con la carga al máximo, la siguiente carga hace caer una alfombra de 9 virotes a lo largo de la línea de vuelo
+	Los impactos de virote acumulan marcas de fuego; marcar tres veces a un enemigo hace caer una bomba pesada directamente sobre él
+	'''
+GsPhantasm.Desc:
+	'''
+	Reforjado: mantén para canalizar; la cadencia aumenta con el frenesí y el arco se divide en arcos fantasmales secundarios
+	En el rango 2 de frenesí, cada andanada obtiene dos flechas fantasmales laterales
+	Golpear al mismo enemigo 6 veces seguidas hace que un arquero fantasmal flote a tu espalda y libere virotes de alma junto a ti
+	Las flechas principales acumulan marcas de alma; marcar tres veces a un enemigo hace que el arquero lo clave con 4 virotes de alma teledirigidos
+	'''
+GsPearlwoodBow.Desc:
+	'''
+	Reforjado: cada 5 disparos carga una andanada de arcoíris, con 5 flechas que barren una a una y una munición por andanada
+	Acierta 3 flechas de arco al mismo enemigo para hacer estallar una explosión de prisma de perla
+	'''
+GsCobaltRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera 3 virotes uno tras otro que aceleran en vuelo, con una munición por andanada
+	Los golpes de la andanada marcan a la presa y te otorgan una breve ráfaga de Rapidez
+	'''
+GsPalladiumRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera una línea de 3 virotes, con una munición por andanada
+	Matar enemigos marcados restaura 2 de vida; las ejecuciones restauran 5 más
+	'''
+GsMythrilRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera una cuña de 4 virotes, con una munición por andanada
+	El virote delantero de la andanada siempre asesta un golpe crítico contra enemigos marcados; los virotes laterales obtienen +8% de probabilidad de ataque crítico
+	'''
+GsOrichalcumRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera una cuña de 4 virotes con pétalos detrás, con una munición por andanada
+	Los golpes de la andanada estallan en una pequeña explosión de pétalos
+	'''
+GsAdamantiteRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera un escalón de 5 virotes con x1.5 de retroceso, con una munición por andanada
+	El virote delantero de la andanada impacta con una onda de choque carmesí que salpica a los enemigos cercanos
+	'''
+GsTitaniumRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera un escalón de 5 virotes, con una munición por andanada
+	Los virotes de la andanada graban la armadura: cada golpe al mismo enemigo añade +2 de penetración de armadura, hasta 5 acumulaciones
+	'''
+GsHallowedRepeater.Desc:
+	'''
+	Reforjado: cada sexto virote dispara tres veces; la carga de andanada libera una cruz de 4 virotes, con una munición por andanada
+	Ejecutar a un enemigo con todas las marcas hace caer una estrella sagrada que deja un rastro dorado
+	'''
+GsChlorophyteShotbow.Desc:
+	'''
+	Reforjado: cada sexto disparo dispara tres veces; la carga de andanada libera un cono de esporas de 6 flechas, con una munición por andanada
+	Los enemigos marcados reciben un 10% más de daño de este arco; la ejecución estalla en una nube de esporas
+	'''
+GsStakeLauncher.Desc:
+	'''
+	Reforjado: cada sexta estaca dispara tres veces; la carga de andanada libera una cuña de 3 estacas, con una munición por andanada
+	Las estacas inmovilizan y marcan a la presa; la estaca de ejecución la crucifica con x2.3 de daño y los no muertos reciben otro +25%
+	Cada crucifixión recarga 30 de carga de andanada; la luz plateada se reúne en la boca al cargar por completo
+	'''
+GsIceBow.Desc:
+	'''
+	Reforjado: la carga de andanada lanza 6 carámbanos al cielo para que caigan sobre el cursor, con una munición por andanada
+	Los impactos de carámbano acumulan marca de escarcha; con 3 acumulaciones, el siguiente carámbano se quiebra en una explosión helada
+	'''
+GsMarrow.Desc:
+	'''
+	Reforjado: la carga de andanada libera una cruz de 5 flechas óseas con +1 de penetración, con una munición por andanada
+	Ejecutar a un enemigo con todas las marcas lo encierra con 4 flechas óseas convergentes
+	'''
+GsShadowflameBow.Desc:
+	'''
+	Reforjado: la carga de andanada libera 3 flechas de llama sombría que se cruzan en el cursor, con una munición por andanada
+	Los enemigos marcados golpeados por cualquier flecha atraen una brizna de llama sombría teledirigida; la ejecución estalla en sombras
+	'''
+GsPulseBow.Desc:
+	'''
+	Reforjado: cada rebote en una pared otorga ahora +10% de daño (hasta 5); la carga de andanada libera 3 trayectorias de pulso paralelas, con una munición por andanada
+	Los enemigos marcados desvían hacia sí los pulsos que pasan; la ejecución encadena una oleada a 2 enemigos cercanos
+	'''

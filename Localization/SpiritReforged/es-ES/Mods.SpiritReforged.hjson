@@ -25,6 +25,8 @@ Conditions: {
 	InSaltFlats: En las Salinas
 	IsPrickly: Cuando es espinoso
 	InZiggurat: En el Ziggurat
+	InSpace: En el espacio
+	NotSnow: No está en la Nieve
 }
 
 Misc: {
@@ -32,6 +34,14 @@ Misc: {
 		Move: Mover Pin
 		Obtained: Ya posees este Pin
 		UseItem: Haz clic derecho para añadir este Pin a tu colección
+	}
+
+	Enchantment: {
+		PlaceToEnchant: Coloca aquí un objeto para encantar
+		Enchant: Encantar
+		Cost: "{0} [c/{1}:Cera Cromática]"
+		Clear: Eliminar encantamiento
+		Random: Aleatorizar encantamiento
 	}
 
 	NoStock: Agotado
@@ -52,29 +62,34 @@ DamageSources: {
 GameTips: {
 	# Release
 	ReforgedTip0: Siempre lleva comida contigo. ¡Nunca sabes cuándo podría serte útil!
-	ReforgedTip1: Raramente, las mariposas se esconden en arboledas subterráneas.
-	ReforgedTip2: ¡Los Pins son útiles! Revisa tu inventario de Pins en la parte inferior izquierda de tu mapa.
+	ReforgedTip1: Raramente, se pueden encontrar mariposas escondidas en arboledas subterráneas.
+	ReforgedTip2: ¡Los Pins son útiles! Revisa tu pinventario en la parte inferior izquierda de tu mapa.
 	ReforgedTip3: Los animales de la Sabana no pueden ser atrapados con redes de insectos.
 	ReforgedTip4: Mochilas. Ahora tienes más espacio.
-	ReforgedTip5: El vacío tenebroso del océano ofrece muchas bendiciones.
+	ReforgedTip5: Las profundidades del océano esconden muchas cosas interesantes.
 	ReforgedTip6: El Pasto Estelar ofrece un agradable respiro en la oscuridad de la noche.
-	ReforgedTip7: La Planta Nube siempre crece bajo las nubes.
-	ReforgedTip8: La parte superior de los árboles de Acacia se puede pisar si necesitas altura.
-	ReforgedTip9: ¡Los artículos flotan aleatoriamente en el océano; revisa de vez en cuando!
+	ReforgedTip7: La Planta Nube siempre crece bajo las nubes. ¡No olvides mirar hacia arriba!
+	ReforgedTip8: Puedes subirte a los árboles de Acacia si necesitas altura.
+	ReforgedTip9: A veces el océano arrastra cosas hasta la orilla; ¡revisa de vez en cuando!
 	# Caves & Clubs
 	ReforgedTip10: ¡Muchas macetas se distribuyen en las cuevas bajo tus pies! Mantén los ojos abiertos.
 	ReforgedTip11: Los Garrotes ofrecen daño fuerte y enfocado a un solo objetivo.
 	# Sunscorched
 	ReforgedTip12: Las leyendas hablan de una ofrenda de gemas en lo alto de un antiguo altar...
 	ReforgedTip13: ¡Ten cuidado al explorar el antiguo Ziggurat! Las sorpresas se esconden en cada esquina.
-	ReforgedTip14: Los oasis que se encuentran bajo las arenas del desierto pueden ofrecer una calma bienvenida.
-	ReforgedTip15: ¡El ámbar esconde secretos! Tal vez encuentres algunas recompensas en su interior...
-	ReforgedTip16: ¡Ten cuidado al caminar por las ruinas del desierto! Algunos pisos pueden ser menos sólidos de lo que crees.
+	ReforgedTip14: Los oasis hundidos pueden ofrecer un respiro muy necesario del caos del desierto subterráneo.
+	ReforgedTip15: ¡El ámbar esconde secretos! Tal vez encuentres algo en su interior...
+	ReforgedTip16: ¡Ten cuidado al caminar por las ruinas en el desierto! Algunos pisos pueden ser menos sólidos de lo que crees.
+	# Spellbound
+	ReforgedTip17: ¡Los glifos otorgan efectos poderosos a tus armas que transforman la forma en que las usas!
+	ReforgedTip18: La Cera Cromática se puede encontrar en macetas, cajas y como botín al derrotar a ciertos enemigos.
+	ReforgedTip19: El Encantador puede imbuir tu arma con una variedad de glifos únicos. ¡Pruébalos todos!
 }
 
 Emotes: {
 	CartographerEmote.Command: cartographer
 	HikerEmote.Command: hiker
+	EnchanterEmote.Command: enchanteremote
 }
 
 InfoDisplays: {
@@ -106,3 +121,7 @@ EcotoneEdges: {
 	Savanna: "{$Ecotones.SavannaEcotone}"
 	SaltFlats: "{$Ecotones.SaltFlatsEcotone}"
 }
+
+DamageClasses.HybridDamageClass.DisplayName: Clase de Daño Híbrido
+BackpackPickupEnabled: Recogida directa: Activada
+BackpackPickupDisabled: Recogida directa: Desactivada

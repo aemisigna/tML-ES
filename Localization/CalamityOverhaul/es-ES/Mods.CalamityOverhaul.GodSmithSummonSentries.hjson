@@ -1,0 +1,98 @@
+GsHoundiusShootius.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan el ojo; clic derecho cuando esté lleno para sobrecargarlo y convertirlo en fuego rápido de pupilas gemelas
+	Sus víctimas quedan expuestas brevemente; los centinelas vinculados les infligen un 10% más de daño
+	Las muertes vinculadas contra enemigos expuestos alimentan el ojo con carga gratuita; los centinelas redesplegados conservan un cuarto de la carga
+	'''
+GsQueenSpiderStaff.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la colmena; clic derecho cuando esté llena para sobrecargarla y convertirla en un enjambre completo
+	Los huevos dejan suelo cubierto de telarañas donde aterrizan; vincular un aura de relámpagos magnetiza a las arañas
+	'''
+GsFrostHydraStaff.Desc:
+	'''
+	Doctrina de Despliegue: cada 3 de carga hace crecer una cabeza fantasmal (hasta 2) que repite cada disparo
+	Clic derecho cuando esté llena para sobrecargarla y convertirla en un aliento helado; los centinelas vinculados le infligen Quemadura por Escarcha
+	'''
+GsFlameburstT1.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para una andanada de saturación
+	Los disparos sobrecargados vuelan en grupos de tres y abrasan un anillo de fuego al impactar; vincular una balista amplía la explosión
+	'''
+GsFlameburstT2.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para una andanada de saturación
+	Los disparos sobrecargados vuelan en grupos de tres y abrasan un anillo de fuego más amplio; vincular una balista amplía la explosión
+	'''
+GsFlameburstT3.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para una andanada de saturación
+	La sobrecarga añade una lluvia de morteros a los disparos triples y los anillos de fuego; vincular una balista amplía la explosión
+	'''
+GsBallistaT1.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para fuego de repetidor de asedio
+	Dos balistas vinculadas clavan una púa de fuego cruzado en cualquier objetivo al que ambas golpeen en unos instantes
+	'''
+GsBallistaT2.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para fuego de repetidor de asedio
+	Dos balistas vinculadas clavan una púa de fuego cruzado en cualquier objetivo al que ambas golpeen en unos instantes
+	'''
+GsBallistaT3.Desc:
+	'''
+	Doctrina de Despliegue: los golpes cargan la torre; clic derecho cuando esté llena para fuego de repetidor de asedio
+	Los virotes sobrecargados se convierten en enormes astas de asedio; las balistas emparejadas clavan púas de fuego cruzado
+	'''
+GsExplosiveTrapT1.Desc:
+	'''
+	Doctrina de Despliegue: las trampas colocadas cerca forman una red de campo minado y cada explosión detona en cadena las vecinas
+	Cinco explosiones sobrecargan automáticamente la trampa con explosivo de alta potencia; clic derecho para activar una comprobación de cadena
+	'''
+GsExplosiveTrapT2.Desc:
+	'''
+	Doctrina de Despliegue: las trampas colocadas cerca forman una red de campo minado y cada explosión detona en cadena las vecinas
+	Cinco explosiones sobrecargan automáticamente la trampa con explosivo de alta potencia; clic derecho para activar una comprobación de cadena
+	'''
+GsExplosiveTrapT3.Desc:
+	'''
+	Doctrina de Despliegue: las trampas colocadas cerca forman una red de campo minado y cada explosión detona en cadena las vecinas
+	Las explosiones sobrecargadas lanzan metralla hacia el cielo; cinco explosiones sobrecargan automáticamente y el clic derecho activa una comprobación de cadena
+	'''
+GsLightningAuraT1.Desc:
+	'''
+	Doctrina de Despliegue: dos auras superpuestas forman una zona de resonancia que inflige la mitad adicional de daño
+	Los pulsos cargan el aura; clic derecho cuando esté llena para sobrecargarla y ampliar un campo estático que electrocuta
+	'''
+GsLightningAuraT2.Desc:
+	'''
+	Doctrina de Despliegue: dos auras superpuestas forman una zona de resonancia que inflige la mitad adicional de daño
+	Los pulsos cargan el aura; clic derecho cuando esté llena para sobrecargarla y ampliar un campo estático que electrocuta
+	'''
+GsLightningAuraT3.Desc:
+	'''
+	Doctrina de Despliegue: superpone auras para crear resonancia; la sobrecarga añade un campo estático más amplio y marcas eléctricas
+	Mientras está sobrecargada, el aura lanza rayos encadenados que atraviesan a cuatro enemigos cada segundo
+	'''
+GsRainbowCrystalStaff.Desc:
+	'''
+	Doctrina de Despliegue: vinculada a cualquier centinela, cada explosión refracta un rayo de prisma hacia otro enemigo cercano
+	Los golpes cargan el cristal; clic derecho cuando esté lleno para desplegar un velo de aurora sobre él
+	'''
+GsLunarPortalStaff.Desc:
+	'''
+	Doctrina de Despliegue: el portal es un centro de vínculos y cada centinela vinculado a él golpea con más fuerza
+	Los golpes lo cargan; clic derecho cuando esté lleno para una andanada de fase lunar: lanzas laterales y una puerta trasera
+	'''
+
+GsOverdriveProj: {
+	DisplayName: Campo de Sobremarcha
+	ChargeReady: Sobremarcha lista
+	NotReady: Ningún centinela cargado
+}
+
+GsSentryBurstProj.DisplayName: Explosión de Centinela
+GsSentryZoneProj.DisplayName: Campo de Centinela
+GsSentryBoltProj.DisplayName: Virote de Centinela
+GsSentryChainBlastProj.DisplayName: Carga Encadenada
+GsSentryChainLightningProj.DisplayName: Relámpago Encadenado

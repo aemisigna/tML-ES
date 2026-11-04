@@ -37,7 +37,7 @@ Caveman: {
 Disentombed: {
 	DisplayName: Desenterrado
 	Flavor: Han pasado tres mil años... mi reinado volverá. Volveré.
-	Description: Comienza con la vanidad de momia en el Ziggurat.
+	Description: Comienza con la vanidad de momia y 3 Antorchas del Desierto clavadas en el Ziggurat.
 }
 
 Worshipper: {
@@ -50,4 +50,10 @@ Purifier: {
 	DisplayName: Purificador
 	Flavor: Maldición del mal aborrecible; arde con el aguijón de mi pureza.
 	Description: Comienza con un Bastón Bo y una Máscara de Mahakala en las Salinas (si es posible).
+}
+
+Enchanter: {
+	DisplayName: Encantador
+	Flavor: ¡Hurra! ¿Necesitas un poco más de brillo? ¡Comencemos con una chispa!
+	Description: Comienza con 60 Polvo Destello, 3 Cera Cromática y el conjunto de vanidad de Charmcaster, junto al PNJ Encantador.
 }

@@ -1,0 +1,121 @@
+GsShuriken.Desc:
+	'''
+	Reforjado: 15% de probabilidad de no consumir munición; los golpes críticos devuelven uno y los fallos clavados en las paredes se pueden recoger
+	Con 5 acumulaciones de combo, cada lanzamiento se divide en una estrella gemela gratuita
+	'''
+GsThrowingKnife.Desc:
+	'''
+	Reforjado: los golpes críticos devuelven uno y los cuchillos clavados en las paredes suelen sobrevivir para recuperarse
+	Cada golpe afila el siguiente cuchillo durante 0.8 s, +12% hasta 3 acumulaciones
+	'''
+GsPoisonedKnife.Desc:
+	'''
+	Reforjado: los golpes críticos devuelven uno y los cuchillos clavados en las paredes se pueden recuperar
+	Los golpes acumulan veneno y prolongan el efecto; con 6 acumulaciones el objetivo se corroe y tus cuchillos penetran 5 de armadura más durante 8 s
+	'''
+GsBoneDagger.Desc:
+	'''
+	Reforjado: los golpes críticos devuelven uno y los cuchillos perdidos se pueden recuperar
+	Incrusta 4 dagas en el mismo enemigo y todas se quiebran con un 60% de daño cada una, dejando siempre un objeto de recuperación
+	'''
+GsStarAnise.Desc:
+	'''
+	Reforjado: los golpes críticos siempre devuelven uno y los cuchillos perdidos se pueden recuperar
+	Rebota hasta dos veces hacia un enemigo cercano y pierde un 15% de daño por salto
+	'''
+GsBone.Desc:
+	'''
+	Reforjado: el hueso vuelve en arco a tu mano e inflige daño en ambas direcciones; atrápalo para recuperarlo directamente
+	Los fallos se pueden recoger; los golpes críticos desprenden dos fragmentos con la mitad de daño
+	'''
+GsJavelin.Desc:
+	'''
+	Reforjado: los golpes críticos devuelven uno y las jabalinas clavadas en las paredes normalmente se pueden recuperar
+	Lanzar mientras corres añade un 25% de daño y un 30% de velocidad; los golpes consecutivos al mismo objetivo acumulan +12% hasta 3 acumulaciones
+	'''
+GsBoneJavelin.Desc:
+	'''
+	Reforjado: los golpes críticos devuelven uno
+	Con 3 jabalinas incrustadas en un enemigo, tus jabalinas golpean un 15% más fuerte; cada jabalina incrustada tiene un 60% de probabilidad de dejar un objeto de recuperación al morir
+	'''
+GsSpikyBall.Desc:
+	'''
+	Reforjado: las bolas que expiran en el campo regresan directamente a tu inventario
+	Un enemigo que pise 3 o más de tus bolas activa una explosión de púas encadenada, con un 50% de daño por bola
+	'''
+GsGrenade.Desc: Reforjada: golpear a 3 enemigos o más en una misma explosión devuelve una granada; las mechas arden un 20% más rápido dentro de tu ventana de combo
+GsStickyGrenade.Desc:
+	'''
+	Reforjada: las explosiones marcan a los enemigos durante 3 s; los enemigos marcados reciben un 30% más de tu siguiente explosión y esta siempre es crítica
+	Golpear a 3 enemigos o más devuelve una granada
+	'''
+GsBouncyGrenade.Desc:
+	'''
+	Reforjada: cada rebote carga la explosión un 12%, hasta 3 acumulaciones
+	Una granada que rebote 3 veces se devuelve a sí misma cuando su explosión encuentra a un enemigo
+	'''
+GsBeenade.Desc:
+	'''
+	Reforjado: las explosiones liberan 2 abejas adicionales; los enemigos picados reciben un 25% más de daño de tus abejas durante 4 s
+	Golpear a 3 enemigos o más con una explosión devuelve una granada
+	'''
+GsHappyGrenade.Desc:
+	'''
+	Reforjado: la explosión de confeti hace que los enemigos que no sean jefes deambulen confundidos durante 1 s
+	Los golpes críticos devuelven una granada; la fiesta nunca tiene que terminar
+	'''
+GsMolotovCocktail.Desc:
+	'''
+	Reforjado: 25% de probabilidad de no consumir munición; el charco de fuego se extiende un 40% más y arde un 50% más tiempo
+	Rompe otra botella en el mismo lugar durante 5 s para levantar una barrera de fuego que arde un 30% más caliente
+	'''
+GsFrostDaggerfish.Desc:
+	'''
+	Reforjado: atraviesa a un enemigo adicional y los golpes críticos devuelven uno
+	Los golpes acumulan hipotermia; 3 acumulaciones estallan con +50% de daño e infligen Quemadura por Escarcha; golpear a un enemigo escarchado siempre devuelve el pez como objeto recogible
+	'''
+GsSnowball.Desc:
+	'''
+	Reforjado: 30% de probabilidad de no consumir munición; cada lanzamiento consecutivo vuela un 4% más rápido, hasta 8 acumulaciones
+	Cada octavo lanzamiento compacta una gran bola de nieve: x2.5 de daño y una explosión helada de 90 px
+	'''
+GsRottenEgg.Desc:
+	'''
+	Reforjado: el huevo estalla en una nube maloliente de 4 s; los enemigos dentro reciben un 8% más de daño de todas las fuentes
+	Los golpes críticos devuelven un huevo. Sigue siendo un huevo podrido
+	'''
+GsPaperAirplaneA.Desc:
+	'''
+	Reforjado: el avión se inclina suavemente hacia tu cursor; después de golpear, vuelve en un bucle para otra pasada
+	Los golpes críticos devuelven uno y los fallos se pueden recuperar
+	'''
+GsPaperAirplaneB.Desc:
+	'''
+	Reforjado: el avión blanco se inclina hacia tu cursor y vuelve en un bucle después de golpear; +4% de probabilidad de ataque crítico
+	Los golpes críticos devuelven uno y los fallos se pueden recuperar
+	'''
+GsHolyWater.Desc:
+	'''
+	Reforjado: sigue santificando la tierra y la explosión también levanta un campo radiante de 3 s
+	Los enemigos dentro reciben un 10% más de daño de todas las fuentes, los aliados dentro recuperan 1 de vida por segundo; cubrir a 3 enemigos devuelve un frasco
+	'''
+GsUnholyWater.Desc:
+	'''
+	Reforjado: sigue corrompiendo la tierra y la explosión también levanta un miasma de 3 s
+	Los enemigos dentro arden con llama sombría y avanzan como si atravesaran alquitrán
+	'''
+GsBloodWater.Desc:
+	'''
+	Reforjado: sigue extendiendo el Carmesí y la explosión también levanta una bruma de sangre de 3 s
+	Mientras estás dentro, tus golpes roban 1 de vida, hasta 3 por segundo
+	'''
+GsAleTosser.Desc:
+	'''
+	Reforjado: 30% de probabilidad de no consumir cerveza
+	Los golpes acumulan Borracho, +8% de daño cada uno hasta 5 acumulaciones; cada sexto lanzamiento es una explosión de barril que aturde a los enemigos que no sean jefes
+	'''
+GsShadowflameKnife.Desc:
+	'''
+	Reforjado: los golpes alimentan un combo que acelera tu brazo, hasta un 25% más rápido con 9 acumulaciones
+	Con el combo al máximo, la hoja entra en Filo de Llama: la llama sombría arde durante 4 s completos y cada cuarto cuchillo se divide en un clon sombrío
+	'''

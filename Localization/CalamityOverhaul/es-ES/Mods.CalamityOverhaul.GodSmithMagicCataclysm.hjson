@@ -1,0 +1,30 @@
+GsBatScepter.Desc: Reforjado: cada octava mordida de murciélago desprende un murciélago fantasma que se lanza en picado sobre otro enemigo cercano
+GsRazorpine.Desc: Reforjado: los golpes de aguja untan resina; 5 manchas en un mismo enemigo trazan un anillo de 4 agujas que se cierra sobre él
+GsBlizzardStaff.Desc: Reforjado: cada quinto carámbano es una semilla de escarcha que estalla en una pequeña explosión helada al desaparecer
+GsStaffofEarth.Desc: Reforjado: la roca golpea con más fuerza por cada enemigo que aplasta, y un pilar de piedra de media altura brota donde se hace pedazos
+GsBetsysWrath.Desc: Reforjado: cada cuarto golpe maldito estalla en fuego de maleficio
+GsNightglow.Desc: Reforjado: cada quinto golpe de rayo hace caer una lanza de aurora desde encima del objetivo
+GsStellarTune.Desc: Reforjado: los golpes consecutivos ascienden por una escala musical; la octava nota estalla como un acorde estelar
+GsResonanceScepter.Desc: Reforjado: la onda real hace resonar un pulso de onda estacionaria en cada tercer enemigo que atraviesa
+GsNebulaArcanum.Desc: Reforjado: el propio orbe del arcano ahora se hincha en pleno vuelo y atrae lentamente a los enemigos menores hacia su núcleo
+GsNebulaBlaze.Desc: Reforjado: los rayos de erupción de nebulosa ahora siempre encienden una micronova donde impactan
+GsLunarFlare.Desc: Reforjado: cada cuarto lanzamiento hace caer del cielo una pálida cuarta bengala
+GsBatSwarmDirector.DisplayName: Diluvio de Murciélagos
+GsPineStormDirector.DisplayName: Tormenta de Agujas
+GsWhiteoutDirector.DisplayName: Ventisca Blanca
+GsOrogenyDirector.DisplayName: Orogenia
+GsEarthPillarProj.DisplayName: Pilar de Orogenia
+GsDragonWrathDirector.DisplayName: Ira del Dragón
+GsAuroraCurtainDirector.DisplayName: Cortina de Aurora
+GsAuroraLanceProj.DisplayName: Lanza de Aurora
+GsStellarFinaleDirector.DisplayName: Final Estelar
+GsResonanceCollapseDirector.DisplayName: Colapso Armónico
+GsNebulaSpiralDirector.DisplayName: Espiral de Nebulosa
+GsNovaDetonationDirector.DisplayName: Detonación de Nova
+GsSpectreStaff.Desc: Reforjado: cada cuarto del medidor acumulado desprende un alma eco que caza a otro enemigo cercano
+GsLunarEclipseDirector.DisplayName: Eclipse Lunar
+GsMoonPillarProj.DisplayName: Rayo Lunar Fantasmal
+GsSpectreStaffTideDirector.DisplayName: Marea de Almas
+GsInfernoFork.Desc: Reforjado: las bolas de fuego giran en espiral dejando escoria de fragua
+GsInfernoForkWildfireDirector.DisplayName: Fuego Salvaje
+GsCataclysmRiderBurstProj.DisplayName: Réplica de Cataclismo

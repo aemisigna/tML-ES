@@ -1,0 +1,26 @@
+GsChainGun.Desc:
+	'''
+	Reforjada: mantén presionado para acelerar, alcanzando la cadencia más rápida del mundo, hasta que los cañones brillen al rojo vivo tras 8 s de disparo continuo y te obliguen a reducir la velocidad hasta que sueltes
+	Disparar ralentiza tu movimiento mientras suprimes
+	'''
+GsDartPistol.Desc:
+	'''
+	Reforjada: ráfagas rápidas de dos dardos, el segundo al 70%
+	Los efectos de la munición de dardos se conservan por completo
+	'''
+GsDartRifle.Desc:
+	'''
+	Reforjada: mantén presionado para cargar, la línea de puntería aparece gradualmente, y se libera al soltar: una carga completa de 1 s otorga x2 de velocidad a los dardos, +2 de penetración y +50% de daño
+	Los efectos de la munición de dardos se conservan por completo
+	'''
+GsPiranhaGun.Desc: Reforjada: la mordida clásica sostenida
+GsToxikarp.Desc:
+	'''
+	Reforjada: el disparo rápido clásico de burbujas
+	No usa munición, como siempre
+	'''
+GsCoinGun.Desc:
+	'''
+	Reforjada: Cobre dispara ráfagas de 3 monedas, Plata atraviesa un objetivo adicional, Oro golpea con un 10% más de fuerza y Platino estalla en luz dorada al impactar
+	Retorno de Inversión: las muertes devuelven 1 moneda de esa denominación, hasta 3 por segundo
+	'''

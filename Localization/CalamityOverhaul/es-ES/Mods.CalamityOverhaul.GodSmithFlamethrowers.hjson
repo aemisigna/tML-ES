@@ -1,0 +1,10 @@
+GsFlamethrower.Desc:
+	'''
+	Reforjada: un cono amplio que deja el suelo ardiendo
+	Rociar sin parar agota la presión y acorta la llama; deja de hacerlo para recuperarla
+	'''
+GsElfMelter.Desc:
+	'''
+	Reforjada: una llama ancha roja y verde entremezclada con niebla de deshielo
+	Las reglas de presión siguen aplicándose: las ráfagas largas acortan la llama
+	'''

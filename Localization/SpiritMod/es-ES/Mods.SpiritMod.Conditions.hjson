@@ -1,3 +1,19 @@
+NotDay: Solo se obtiene de noche
+Day: Solo se obtiene de día
+DropFrom: "Solo se obtiene en: "
+Purity: Pureza
+Snow: Nieve
+Asteroid: Asteroides
+DefBoss: Solo se obtiene tras derrotar a {0}
+RrefixThe: ""
+AnyMech: cualquier jefe mecánico
+FromVHead: De cabezas venenosas
+FromFHead: De cabezas llameantes
+FromAHead: De cabezas ácidas
+PokeyBodyLastSegment: Solo se obtiene del último segmento
+Enchanted: Se obtiene cuando el enemigo está encantado
+Rarely: Rara vez
+Uncommonly: Con poca frecuencia de Mímicos de las Sombras
 HasMoonshot: Cualquier jugador tiene un Moonshot
 VoyagerDown: El Viajero de Starplate ha sido derrotado
 ScarabDown: Scarabeus ha sido derrotado
@@ -7,11 +23,11 @@ DuskingDown: Dusking ha sido derrotado
 InBriar: En el Zarzal
 InAsteroids: En los Asteroides
 InSpirit: En el Espíritu
-NotInSpirit: No en el Espíritu
-NotInBriar: No en el Zarzal
-StarjinxDown: El evento de Starjinx ha sido derrotado
+FirstDown: Solo en la primera derrota
 HalfCompleteBestiary: La mitad del bestiario del Espíritu está completa
 FullCompleteBestiary: Todo el bestiario del Espíritu está completo
+DurasilkSheaf: Obtén 3 Gavillas de Durasilk
+WarlockLure: Durante Una Tarea Profana
 # Quest conditions are below here
 # IsCompleted is used to shorten translation
 IsCompleted: la misión está completada

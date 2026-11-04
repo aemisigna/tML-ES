@@ -1,0 +1,24 @@
+GsOpticStaff.Desc: Pacto Gemelo: los gemelos pequeños vuelan en formación de alas; bajo la orden de asalto, un láser y una embestida que golpeen a un enemigo en rápida sucesión cruzan sus miras en un destello en X que enciende llamas malditas
+GsSanguineStaff.Desc: Búsqueda Sanguínea: bajo la orden de asalto, cada mordisco de murciélago arranca un arco de sangre coagulada de la presa marcada que vuelve volando hacia ti y corta todo lo que encuentra
+GsPirateStaff.Desc: Decreto de Saqueo: cada golpe pirata guarda botín; bajo la orden de reagrupación, seis partes abren el cofre en la bandera y cinco monedas de mortero doradas llueven hacia los enemigos cercanos, marcándolos con el toque de Midas
+GsPygmyStaff.Desc: Tambores de Cacería: bajo la orden de reagrupación, un golpe de lanza levanta un tótem en la bandera; dentro de su anillo de tambor de guerra, tus súbditos golpean un 10% más fuerte y las lanzas pigmeas profundizan su veneno
+GsRavenStaff.Desc: Colapso del Presagio: bajo la orden de asalto, cuatro picotazos de dos cuervos distintos pliegan la sombra de la presa marcada en un presagio funesto que detona en llama sombría
+GsDeadlySphereStaff.Desc: Protocolo Triturador: bajo la orden de asalto, tres golpes de esfera en una bocanada remachan un anillo de sierra giratorio al enemigo marcado, triturándolo con dientes de acero chispeantes
+GsTempestStaff.Desc: Oleada de Confluencia: bajo la orden de asalto, un azote de tempestad y el mordisco de un minitiburón que golpeen a un enemigo en rápida sucesión se fusionan en una pared de marea que barre todo a su paso
+GsXenoStaff.Desc: Calibración Orbital: bajo la orden de asalto, cuatro láseres contra el enemigo marcado completan la calibración y hacen caer una lanza de aniquilación desde una órbita elevada
+GsStardustCellStaff.Desc: Marea de Mitosis: bajo la orden de asalto, cuando tres células pequeñas se aferran al enemigo marcado, el siguiente golpe de célula se divide en cinco esporas buscadoras que profundizan la corrosión celular
+GsStardustDragonStaff.Desc: Perforador de la Falla Celeste: bajo la orden de asalto, dos taladros de la cabeza del dragón contra el enemigo marcado abren una falla estelar en la herida que derrama polvo estelar descendente
+GsEmpressBlade.Desc: Final Prismático: bajo la orden de asalto, seis tajos de al menos dos hojas abren el rito de ejecución; seis hojas fantasmales se abren en abanico sobre la presa marcada y la atraviesan una por una en orden arcoíris
+GsStormTigerStaff.Desc: Desgarro de Emboscada: bajo la orden de asalto, tres golpes de tigre en una bocanada desatan el rito de ejecución; tres desgarros de garras de arena tormentosa atraviesan la presa marcada y un tigre más poderoso acecha con un tiempo de reutilización menor
+GsOpticCrossrayProj.DisplayName: Miras Cruzadas
+GsSanguineArcProj.DisplayName: Arco Sanguíneo Teledirigido
+GsPiratePlunderProj.DisplayName: Moneda de Saqueo
+GsPygmyTotemProj.DisplayName: Tótem de Cacería
+GsRavenOmenProj.DisplayName: Presagio Funesto
+GsDeadlySphereSawProj.DisplayName: Triturador Remachado
+GsTempestSurgeProj.DisplayName: Pared de Confluencia
+GsXenoOrbitalProj.DisplayName: Lanza de Aniquilación Orbital
+GsStardustCellMoteProj.DisplayName: Espora de Mitosis
+GsStardustDragonRiftProj.DisplayName: Falla Estelar
+GsEmpressFinaleProj.DisplayName: Final Prismático
+GsStormTigerRendProj.DisplayName: Desgarro de Garra de Emboscada

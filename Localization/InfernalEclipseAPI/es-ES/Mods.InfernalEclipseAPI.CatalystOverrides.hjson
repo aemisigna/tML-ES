@@ -23,7 +23,7 @@ Items: {
 		'''
 	UnrelentingTorment.Tooltip:
 		'''
-		10% de daño de conexión por invocación
+		12% de daño de conexión por invocación
 		{$Mods.CatalystMod.Tooltips.WhipTooltip}
 		Libera una cascada de garras de otro mundo para desgarrar a los enemigos
 		'''

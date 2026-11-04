@@ -1,3 +1,164 @@
+VanillaDialogue: {
+	HalloweenGeneric: {
+		1: Hola, {0}. ¡Toma unos caramelos!
+		2: Toma, tengo unos caramelos para ti.
+	}
+
+	Merchant: {
+		Halloween0: Oh, toma unos caramelos. No tienes idea de lo difícil que fue conseguirlos.
+		Halloween1: Puedo ser codicioso, pero me gusta ser festivo. ¡Aquí tienes!
+		Halloween2: Te daré este gratis. No puedo prometerte nada sobre el siguiente.
+	}
+
+	Wizard: {
+		RuneWizard: ¿Has oído sobre {N}? Sus mercancías son interesantes, yo mismo no he visto ese tipo de magia.
+		Gambler1: Con solo un pequeño hechizo de transmutación, las cajas de {N} pueden ESTALLAR en palomas. ¡Pruébalo alguna vez!
+		Gambler2: "{N} nunca nota que mi baraja es mágica, ni siquiera es real. ¡Está demasiado concentrada!"
+		Halloween0: Estoy bastante seguro de que no son caramelos encantados, ¡pero podría preparar algunos si quieres! ¿No? Vale...
+		Halloween1: Tengo unos caramelos para ti, pero podría encantarlos si quisier... ¿No? Vale.
+		Halloween2: ¿Seguro que no quieres caramelos encantados? No sería molestia si solo... ¿No? Bueno...
+	}
+
+	Pirate: {
+		Adventurer: Aye, ese tipo {N} sí que sabe de espadachines. Puede que sea una rata de tierra, pero no es de los malos, si me preguntas.
+		Rogue: Já. El viejo {N} de por allá me recuerda a tiempos pasados. Y no de los buenos, que conste.
+		Gambler: ¿Sabes?, {N} tiene lo que hace falta para ser una buena pirata algún día. Aye... tiene buen ojo pa'l oro.
+		Halloween0: Yo-ho-ho y una botella de... caramelos. ¡Toma unos cuantos!
+		Halloween1: Estos caramelos me costaron un brazo y una pierna. ¡Disfrútalos ahora o irás directo a la plancha!
+		Halloween2: Arrr, hay un viejo dicho que reza: "Haz lo que quieras, que el pirata es libre". ¡Me gusta pensar que también vale para comer caramelos!
+	}
+
+	GoblinTinkerer: {
+		RuneWizard: "{N} y yo compartimos experiencias a diario - ¡su magia es fascinante! Una maravilla con quien hablar."
+		Gambler: "{N} me recuerda a mi gente. Vendedores perezosos que te ofrecen MÁS bolas con pinchos a precios ABSURDOS..."
+		Halloween0: Intenté combinar botas cohete y caramelos, pero no salió muy bien. ¿Quieres lo que quedó?
+		Halloween1: Resulta que juntar todos los sabores de caramelo sabe bastante mal. Lo sé, yo también estoy decepcionado.
+	}
+
+	ArmsDealer: {
+		Rogue1: ¿{N}? Esa pequeña plaga. Intentó llevarse mi Minishark sin soltar el dinero.
+		Rogue2: Nunca había visto a un hombre tan molesto como ese {N}. Por suerte, tengo formas de mantenerlo alejado.
+		Adventurer: Conozco a {N}. Ese tipo no es tan malo. Especialmente desde que dejó de vender armas de fuego, je.
+		Halloween0: Dicen que existe un arma que dispara caramelos. Qué no daría yo por una. ¿Qué? Ah, sí, aquí tienes tus caramelos.
+		Halloween1: No te lo vas a creer. ¡Pedí munición y mis proveedores me enviaron caramelos! ¿Quieres uno?
+		HalloweenCandyRifle: ¿Eso es...? ¡Lo es! ¡Un Fusil de maíz de caramelo! Toma, quiero que te quedes con esto por habérmelo mostrado.
+	}
+
+	Dryad: {
+		Halloween0: ¿Tienes idea de lo que lleva ese caramelo? Toma, esto es mucho mejor para ti. Lo hice yo misma.
+		Halloween1: ¿Ya es esa época del año otra vez? El tiempo pasa volando cuando tienes mi edad... Ah, toma, llévate unos caramelos.
+		Halloween2: Ojalá tuviera semillas de caramelo para venderte. Cultivar dulces sería mucho más sostenible que ir de puerta en puerta pidiéndolos.
+	}
+
+	Guide: {
+		Halloween0: Toma. Durante Halloween puedes recoger un caramelo por noche de cada aldeano.
+		Halloween1: Los caramelos pueden usarse en cualquier época del año para obtener efectos especiales.
+		HalloweenCandyBag: Toma esta bolsa; puedes usarla para guardar tus caramelos. "¿Cómo consigo caramelos?", preguntas. Prueba hablando con los demás aldeanos.
+	}
+
+	Demolitionist: {
+		RuneWizard: ¡Jajaja! Ese tipo {N} es un caso. ¡Encanta mis mercancías gratis!
+		Rogue: "{N} es un tipo bastante astuto, pero cualquier tipo que sepa invitar una ronda se gana mi respeto!"
+		Halloween0: Estaba haciendo un cohete de azúcar y esto es lo que sobró. ¿Quieres un poco?
+		Halloween1: Ach, este caramelo puede que lleve explosivos o puede que no, no me acuerdo.
+	}
+
+	Nurse: {
+		Gambler: Ejem..."¡Cómprate un par de cajas y no necesitarás curarte!" ¿De verdad {N} me dijo que te leyera un anuncio?
+		Halloween0: Toma, jovencito. ¡Asegúrate de que no haya cuchillas ahí dentro!
+		Halloween1: Quizás no sea la opción más saludable, pero los caramelos están muy buenos. Toma unos cuantos.
+		Halloween2: Estoy casi segura de que este caramelo te hace más sano. Quizás. No me cites en esto.
+	}
+
+	Clothier: {
+		Halloween0: Mi mamá siempre decía que los caramelos eran como la vida. ¿O era una caja? ... eh, algo así. Toma, llévate uno.
+		Halloween1: Soy todo un entusiasta de los caramelos. ¿Quieres uno?
+	}
+
+	Mechanic: {
+		Halloween0: No te fijes en el fluido hidráulico del caramelo. De hecho, considéralo sabor extra.
+		Halloween1: ¡Si llevas este caramelo en el bolsillo, puede monitorear tu ritmo cardíaco, tu presión arterial y contar cuántos pasos das!
+		Halloween2: Resulta que no se puede hacer un motor impulsado por caramelos. Con pájaros va bien, ¿pero con caramelos? Demasiado, al parecer.
+	}
+
+	SantaClaus: {
+		Halloween0: Algo no va bien. Todo esto se siente mal.
+		Halloween1: ¡Jo, jo, jo! Es la época... espera, ¡no es la época! ¿Qué hago yo aquí?
+	}
+
+	Truffle: {
+		Halloween0: ¿Este caramelo es vegano? ¡Por supuesto que no, enfermo!
+		Halloween1: ¿Cómo que hay moho en este? ¡Eso es claramente hongo!
+		HalloweenNurse: "{0} quería algunos de estos para sus provisiones. Me pregunto de qué iba eso."
+	}
+
+	Steampunker: {
+		Halloween0: ¿Noche de Brujas, dices? ¡Caramba, tengo justo lo que necesitas! ¡Toma, un poco de melaza!
+		Halloween1: Supongo que quieres unos budines, ¿no? ¡Aquí tienes, cariño!
+	}
+
+	DyeTrader: {
+		Halloween0: Le puse unos tintes especiales a este dulce. ¡Te dejará la lengua de colores brillantes!
+		Halloween1: No se trata del sabor... Se trata de lo ricos que se ven los colores. Toma uno, ¿por qué no?
+	}
+
+	PartyGirl: {
+		Halloween0: ¡Me encanta esta época del año! ¡Ahora no necesito excusa para repartir caramelos gratis! ¡Toma uno!
+		Halloween1: ¿Quién dijo que se necesitaban drogas para festejar? ¡Los caramelos son muchísimo mejores!
+	}
+
+	Cyborg: {
+		Halloween0: Mi programación de calendario ha determinado que es aproximadamente Halloween; ¡disfruta tu alimento a base de sacarosa!
+		Halloween1: El azúcar siempre parece atascarme las entrañas. Toma, sostén este caramelo mientras intento arreglarlo.
+	}
+
+	Painter: {
+		Halloween0: Puede que le haya goteado un poco de pintura a este caramelo, pero seguramente no tiene plomo. Eso espero.
+		Halloween1: Oh, {0}, ¿quieres caramelos? Déjame hacerte un retrato primero, y luego te los llevas.
+	}
+
+	WitchDoctor: {
+		Halloween0: Decidí no darte cabezas de limón... o, mejor dicho, cabezas con sabor a limón. ¡Disfrútalas!
+		Halloween1: Cuídate, {0}, pues es la temporada de ghouls y espíritus. Este talismán comestible te protegerá.
+	}
+
+	Stylist: {
+		Halloween0: Normalmente los guardo para después de los cortes de pelo, pero adelante, toma uno, cariño.
+		Halloween1: ¡Tengo caramelos de sobra, cielo! Toma todos los que quieras.
+	}
+
+	TravellingMerchant: {
+		Halloween0: Tengo caramelos raros de todo {0}. Toma, llévate unos cuantos.
+		Halloween1: ¡Dicen que en tierras lejanas hay caramelos tan ácidos que te derriten la lengua! Por desgracia, solo tengo caramelos corrientes para ti.
+	}
+
+	Angler: {
+		Halloween0: ¿Qué? ¿Quieres de MIS caramelos? Creo que tengo un poco de icorregaliz por aquí...
+		Halloween1: Este salió de un pez. Toma, quédatelo, yo no lo quiero.
+		Halloween2: Oye, no le pides caramelos a un niño. Simplemente no se hace.
+	}
+
+	TaxCollector: {
+		Halloween0: ¿Halloween? ¡Bah, paparruchas! Toma tu caramelo y lárgate.
+		Halloween1: ¿Vienes a mi puerta a llevarte mis dulces? Bueno, adelante, ¡llévatelos!
+		Halloween2: Toma, quédate con esto. Es la marca más barata que encontré.
+	}
+
+	SkeletonMerchant: {
+		Halloween0: ¡Me siento feliz, es la temporada de mi gente! ¡Toma unos caramelos!
+		Halloween1: ¿Sabías que los caramelos de roca en realidad no crecen bajo tierra? ¿Ah, sí lo sabías? Hmph.
+	}
+
+	DD2Bartender: {
+		Adventurer: Ese {N} sabe cómo contar una buena historia. Ni siquiera compra tanta bebida, pero lo disfruto de todas formas.
+		Halloween0: ¡Logré encontrar caramelos con sabor a cerveza! Quizás este mundo no sea tan malo después de todo.
+		Halloween1: Limpiar una barra todo el día me ha hecho apreciar las pequeñas cosas de la vida, como los caramelos. ¿Quieres uno?
+	}
+
+	Golfer.Gambler: ¿Quién es {N} y por qué quiere venderme "[RARO] CAJAS DE BOTÍN DE GOLF"?
+	BestiaryGirl.Adventurer: O sea, {N} de verdad sabe mucho sobre animales. ¡Es súper genial!
+}
+
 CopperChestBottom.DisplayName: Cofre de Cobre
 GoldChestBottom.DisplayName: Cofre de Oro
 PlatinumChestBottom.DisplayName: Cofre de Platino
@@ -25,7 +186,11 @@ CrimsonTrapper: {
 }
 
 AsteroidDebris.DisplayName: Escombros
-GoldDebris.DisplayName: Escombros
+
+GoldDebris: {
+	DisplayName: Escombros
+	AltName: ¡Golpéame!
+}
 
 AstralAdventurer: {
 	DisplayName: Aventurero Astral
@@ -84,8 +249,6 @@ SwollenFish: {
 	DisplayName: Pez Hinchado
 	Entry: En el pasado, estos peces se inflaban para intimidar a los depredadores. Sin embargo, ahora parecen haber comido tanto que han subido en la cadena alimenticia y ya no lo necesitan.
 }
-
-BloodGazerEye.DisplayName: Observador de Sangre
 
 Bloomshroom: {
 	DisplayName: Hongoflor
@@ -159,6 +322,7 @@ Infernon: {
 	DisplayName: Infernon
 	Entry: Este demonio diabólico estuvo una vez encadenado en las profundidades del inframundo, pero finalmente se ha liberado. Cualquier mortal que se atreva a obstruir su desenfreno debe prepararse para una pelea infernal.
 	BossChecklistIntegration.SpawnInfo: Usa una [i:SpiritMod/CursedCloth] en el Inframundo en cualquier momento.
+	ExpertDialogue: Aún no has derrotado al verdadero amo del Infierno...
 }
 
 InfernonSkull.DisplayName: Cráneo de Infernus
@@ -219,6 +383,8 @@ SteamRaiderHead: {
 	BossChecklistIntegration.SpawnInfo: Usa un [i:SpiritMod/StarWormSummon] en una Baliza de Astralita, ubicada en los Asteroides, durante la noche.
 	Spawn: ¡El Viajero de Starplate ha despertado!
 	Laser: Iniciando Protocolo Láser
+	Detected: Inestabilidad detectada
+	Engaged: Objetivo fijado
 }
 
 SteamRaiderHeadDeath.DisplayName: Viajero de Starplate
@@ -418,19 +584,9 @@ Floater1: {
 	Entry: Bajo las olas del esquivo océano luminoso, yacen cientos de pequeñas medusas resplandecientes, bailando entre la marea luminiscente.
 }
 
-Pelican: {
-	DisplayName: Pelícano
-	Entry: Una gran ave marina con un pico especial para sostener a su presa. Asustarla podría hacer que el ave suelte lo que ha atrapado, pero eso sería cruel.
-}
-
 ReaverShark: {
 	DisplayName: Tiburón Saqueador
 	Entry: Esta especie particular de tiburón es notable por su potencial como herramienta. No solo es lo bastante pequeño para sostenerlo, sino que su mentón hendido y su gran cuerno frontal son excelentes para romper el hielo.
-}
-
-SandPiper: {
-	DisplayName: Correlimos
-	Entry: Un ave pequeña y valiente que patrulla las costas buscando comida descubierta por las olas.
 }
 
 Prismite: {
@@ -518,11 +674,6 @@ Dead_Scientist: {
 DeadArcher: {
 	DisplayName: Tirador de Puntería Mortal
 	Entry: A pesar de tener un solo ojo, este arquero es engañosamente hábil comparado con cualquier otro. ¡Cierra tus puertas a este forastero!
-}
-
-DesertBandit: {
-	DisplayName: Bandido Abandonado
-	Entry: Un bandido errante, buscando cualquier cosa que brille bajo el sol implacable. No muy divertido en las fiestas.
 }
 
 DiseasedSlime: {
@@ -940,9 +1091,6 @@ CogTrapperHead: {
 }
 
 CogTrapperTail.DisplayName: Bailarín Estelar
-LargeComet.DisplayName: Cometa Grande de Starjinx
-MediumComet.DisplayName: Cometa Mediano de Starjinx
-SmallComet.DisplayName: Cometa Pequeño de Starjinx
 
 StymphalianBat: {
 	DisplayName: Murciélago Estinfálico
@@ -1009,21 +1157,54 @@ SwordKakamora: {
 Adventurer: {
 	DisplayName: Aventurero
 
+	Names: {
+		1: Morgan
+		2: Adam
+		3: Aziz
+		4: Temir
+		5: Evan
+		6: Senzen
+		7: Johanovic
+		8: Adrian
+		9: Christopher
+	}
+
+	Dialogue: {
+		Basic1: He estado por todo este mundo, y tengo tantas cosas para mostrarte.
+		Basic2: Qué linda casa tienes aquí. Es un alojamiento mucho mejor que cuando esos salvajes del Zarzal me colgaron sobre un asador.
+		Basic3: ¡Cada amanecer trae consigo una nueva oportunidad para un viaje! ¿Te interesa?
+		Basic4: Somos bastante parecidos, tú y yo. Siento nuestra sed compartida de aventura.
+		Basic5: ¡Compra mis cosas y sal ahí afuera! Ve lo que el mundo tiene para ofrecer, como hice yo.
+		Basic6: Desde las profundidades de los templos hasta las alturas del espacio, échale un vistazo a mis mercancías.
+		Basic7: Tengo buen ojo para los pines, debo decir. Encuentras todas estas pequeñas baratijas en tus viajes...
+		Special1: ¡Juro que tengo más mercancía a la venta que {0}!
+		Special2: ¡Ah! ¡Es {0}! Nos hemos encontrado a menudo en nuestros viajes. Todavía no he encontrado todas esas junglas exóticas de las que habla.
+		Special3: ¡Tengo unos precios excelentes hoy! ¡La mercancía de {0} no puede competir! Literalmente no puede. Ya no vendo armas de fuego.
+		Special4: Como la luna, mi mercancía es inconsistente.
+		Special5: Todos parecen estar muy agresivos esta noche. Con los zombis tocando a nuestra puerta, creo que deberías comprar cosas y bajar bajo tierra lo más rápido posible. ¿Puedes llevarme contigo?
+		Special6: Los duendes están más organizados de lo que crees- vi a sus magos construir una torre enorme por allá. ¡Deberías ir a verla alguna vez!
+		Special7: Mi antiguo socio de negocios se dedicó a la vida de bandido hace unos años. Me pregunto si le está yendo bien. Creo que sus asociados han establecido un campamento de bandidos en algún lugar cerca de los mares.
+		Special8: Una luz azul resplandeciente está en el horizonte. Me pregunto de qué se tratará, ¿eh?
+		Halloween0: ¡No me creerías si te dijera que conseguí esto en un reino lejano hecho de CARAMELO! Te prometo que tiene un sabor exquisito.
+		Halloween1: Dicen que se pueden conseguir más caramelos de las bolsas de golosinas que llevan los monstruos. ¡Como si necesitara una excusa para acabar con unos zombis!
+		Bound: ¡Pensé que ya estaba perdido! Si no hubieras intervenido, probablemente habría terminado como comida de lo que fuera que esos monstruos estaban tratando de conjurar allá. Yo no lo tocaría si fuera tú... Mira, tienes mi agradecimiento; pero entre tú y yo, han sido unos meses muy largos, y todo lo que quiero es unas vacaciones de aventurar por un tiempo. La vida es corta, y prefiero no acortarla más. ¿Tienes un lugar donde quedarme?
+	}
+
 	TownNPCMood: {
-		Content: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.Content}"
-		NoHome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.NoHome}"
-		FarFromHome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.FarFromHome}"
-		LoveSpace: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LoveSpace}"
-		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeCrowded}"
-		HateCrowded: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.HateCrowded}"
-		LikeBiome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeBiome}"
-		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeBiome}"
-		LoveNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LoveNPC}"
-		LikeNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeNPC}"
-		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.DislikeNPC}"
-		HateNPC: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.HateNPC}"
-		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Adventurer.Mood.LikeNPC_Princess}"
-		Princess_LovesNPC: Me agrada {NPCName}.
+		Content: Relajarse en casa es casi tan agradable como una buena caminata, ¿no crees?
+		NoHome: Aunque soy un explorador, me gustaría relajarme por un tiempo. ¿Tienes algún lugar de sobra donde pueda instalarme?
+		FarFromHome: Podrías decir que estoy 'aventurando' un poco demasiado lejos de mi casa... pero en serio, no tengo un mapa.
+		LoveSpace: ¡Mucho espacio para planear mi próxima expedición, maravilloso!
+		DislikeCrowded: ¿Cómo se supone que voy a cartografiar tierras sin descubrir con toda esta gente alrededor?
+		HateCrowded: ¡Preferiría explorar un lago de lava antes que vivir aquí con toda esta gente!
+		LikeBiome: De verdad, {BiomeName} es un lugar relajante para estar. Un buen lugar para descansar.
+		DislikeBiome: Aunque me encantaría terminar lo que empecé, es demasiado pronto para que vuelva a {BiomeName}.
+		LoveNPC: Ese {NPCName} es un personaje fascinante. ¡Nada supera sus historias!
+		LikeNPC: "{NPCName} y yo nos conocemos de hace mucho. ¡Todavía recuerdo nuestro primer viaje juntos!"
+		DislikeNPC: "{NPCName} de verdad sabe cómo arruinar el ambiente. ¿Quizás una caminata lo animaría?"
+		HateNPC: Aunque {NPCName} es coleccionista de espíritu, solo le pasa su trabajo a otros. Una decepción para exploradores de todas partes.
+		LikeNPC_Princess: "{NPCName} tiene un aire propio. Un aire de aventura."
+		Princess_LovesNPC: ¡{NPCName} tiene tantas historias geniales!
 	}
 
 	Entry: Un intrépido explorador impulsado por una ambición que a menudo lo ha metido en peligro. También es un ávido tomador de notas, sus muchos relatos ahora esparcidos por toda la tierra.
@@ -1078,22 +1259,49 @@ BoundRogue: {
 Gambler: {
 	DisplayName: Apostadora
 
+	Names: {
+		1: Yumeko
+		2: Vanessa
+		3: Gray
+		4: Alexandra
+		5: Sasha
+		6: Celine
+		7: Aleksa
+	}
+
+	Dialogue: {
+		Basic1: Apostar es el deporte de la realeza. ¿Por qué no te arriesgas?
+		Basic2: Debo advertirte, mi juego no es para los débiles de corazón.
+		Basic3: Apostar es malo para ti. A menos que ganes.
+		Basic4: Ganes o pierdas, la emoción del juego vale el dinero.
+		Basic5: Tienes cara de ganador. ¡Anímate!
+		Basic6: ¡Obtén una sensación de orgullo y logro por solo unas monedas!
+		Halloween0: Mete la mano en el tazón. Nunca sabes qué sacarás.
+		Halloween1: Te cambio cualquier caramelo por un pastel al azar... ¿no? Vale.
+		Bound:
+			'''
+			Debe ser mi día de suerte para ver una cara amistosa por aquí.
+			Estos duendes no se tomaron muy bien que les ofreciera, eh, un trato amañado.
+			En fin, ¿tienes un lugar donde quedarte? Juguémoslo a cara o cruz.
+			'''
+	}
+
 	TownNPCMood: {
-		Content: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.Content}"
-		NoHome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.NoHome}"
-		FarFromHome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.FarFromHome}"
-		LoveSpace: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LoveSpace}"
-		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeCrowded}"
-		HateCrowded: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateCrowded}"
-		HateBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateBiome}"
-		LikeBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeBiome}"
-		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeBiome}"
-		LoveNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LoveNPC}"
-		LikeNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeNPC}"
-		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.DislikeNPC}"
-		HateNPC: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.HateNPC}"
-		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Gambler.Mood.LikeNPC_Princess}"
-		Princess_LovesNPC: Me agrada {NPCName}.
+		Content: Ya que ambos nos tomamos un momento aquí, ¿por qué no abrir una caja o dos?
+		NoHome: Necesito un lugar al que llamar mío - si no, ¿dónde voy a instalarme?
+		FarFromHome: El dinero es una cosa, pero no estoy para apostar con mi vida. ¿Dónde está mi hogar?
+		LoveSpace: Soy del tipo que apuesta, pero no del tipo casino - me encanta que esté tranquilo.
+		DislikeCrowded: Hay algo llamado demasiados cocineros en el casino, si entiendes lo que digo.
+		HateCrowded: ¡La gente sigue tumbando mis cajas de botín! ¿Cómo se supone que venda aquí?
+		HateBiome: NO PUEDO estar generando ingresos aquí.
+		LikeBiome: Ah, {BiomeName}. El lugar perfecto para poner mi puesto.
+		DislikeBiome: A nadie le gusta apostar con humedad. ¡Las monedas se mojan y se ponen asquerosas!
+		LoveNPC: Una vez, le vendí de más un cofre de madera a {NPCName} para ganar algo rápido. Lo abrió y había, como, trescientos patos ahí dentro. Nunca había estado tan confundida y sorprendida.
+		LikeNPC: ¿Mi cabello? Ese es el orgullo de {NPCName}. Hace un trabajo maravilloso.
+		DislikeNPC: A diferencia de {NPCName}, yo no acaparo mi riqueza.
+		HateNPC: Di lo que quieras de MÍ, pero ¿es siquiera legal lo que hace {NPCName}?
+		LikeNPC_Princess: ¿Sabes?, {NPCName} tiene agallas. Es feroz, ¡y tú también podrías serlo!
+		Princess_LovesNPC: El estilo de {NPCName} es genial. Se nota que tiene confianza en sí misma.
 	}
 
 	Entry: La Apostadora ha vivido mucho tiempo al límite, entregándose a los caprichos del destino. Aunque esto la convierte en una jugadora ferviente, también una vez la ató a lo alto de una fortaleza duende.
@@ -1108,17 +1316,6 @@ Ghost.DisplayName: Fantasma
 
 Oracle: {
 	DisplayName: Oráculo
-
-	TownNPCMood: {
-		Content: Estoy contento.
-		NoHome: Odio no tener un hogar.
-		FarFromHome: Estoy demasiado lejos de casa.
-		LoveSpace: Me encanta tener tanto espacio.
-		DislikeCrowded: No me gusta lo abarrotado que estoy.
-		HateCrowded: Odio lo abarrotado que estoy.
-		LikeNPC_Princess: Me agrada {NPCName}.
-		Princess_LovesNPC: Me agrada {NPCName}.
-	}
 
 	Dialogue: {
 		Basic1: Los cielos ciertamente han hablado de ti, {0}.
@@ -1143,6 +1340,17 @@ Oracle: {
 		Basic20: La razón por la que floto es simple - ¿por qué no habría de hacerlo, si puedo?
 	}
 
+	TownNPCMood: {
+		Content: Estoy contento.
+		NoHome: Odio no tener un hogar.
+		FarFromHome: Estoy demasiado lejos de casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta lo abarrotado que estoy.
+		HateCrowded: Odio lo abarrotado que estoy.
+		LikeNPC_Princess: Me agrada {NPCName}.
+		Princess_LovesNPC: Me agrada {NPCName}.
+	}
+
 	Bless: {
 		Button: Bendecir
 		Dialogue1: ¿Deseas un desafío? No puedo detenerte, ya que nos beneficia a ambos. ¡Espero que estés preparado!
@@ -1163,21 +1371,47 @@ Oracle: {
 Rogue: {
 	DisplayName: Bandido
 
+	Names: {
+		1: Zane
+		2: Carlos
+		3: Tycho
+		4: Damien
+		5: Shane
+		6: Daryl
+		7: Shepard
+		8: Sly
+	}
+
+	Dialogue: {
+		Basic1: ¿Aquí para ver mi mercancía? Es bastante filosa.
+		Basic2: Confía en mí- los restos de esos jefes que matas no se desperdician.
+		Basic3: ¡El mundo está lleno de oportunidades! Ahora ve a matar algunas cosas.
+		Basic4: Esta máscara está agarrando olor a humedad...
+		Basic5: ¡Miren a ese diablo guapo! Ah, es solo un espejo.
+		Basic6: ¡Aquí para satisfacer todas tus necesidades homicidas!
+		Basic7: ¡Qué buen día estamos teniendo! Ahora, ¿a quién quieres muerto?
+		Special1: Dile a {0} que deje de preguntarme de dónde saqué los amuletos. No necesita saberlo. Moriría del shock.
+		Special2: ¿Por qué {0} está tan empeñado en vender shurikens? Eso es totalmente lo mío.
+		Halloween0: ¿Quieres caramelos? ¡Toma, atrapa!
+		Halloween1: ¡Hiyah! ¡Ataque de caramelos! Oh, eres tú. Lo siento.
+		Bound: ¡Oye! Gracias por salvarme- Ahora, ¿te importaría sacarnos de este lío? ¡Me engañaron, se llevaron todo mi dinero y me dejaron aquí por muerto! Eso sí, no creas que te haré descuento en mi mercancía. ¡Es broma! No lo es.
+	}
+
 	TownNPCMood: {
-		Content: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.Content}"
-		NoHome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.NoHome}"
-		FarFromHome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.FarFromHome}"
-		LoveSpace: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LoveSpace}"
-		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeCrowded}"
-		HateCrowded: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.HateCrowded}"
-		LikeBiome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeBiome}"
-		DislikeBiome: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeBiome}"
-		LoveNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LoveNPC}"
-		LikeNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeNPC}"
-		DislikeNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.DislikeNPC}"
-		HateNPC: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.HateNPC}"
-		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.Rogue.Mood.LikeNPC_Princess}"
-		Princess_LovesNPC: Me agrada {NPCName}.
+		Content: Trescientos... cuatrocientos... ¡nada supera contar las ganancias de... un duro día de trabajo!
+		NoHome: ¿Dónde se supone que esconda lo que ro- encuentro, si no tengo una casa?
+		FarFromHome: ¿Alguien robó mi casa y se la llevó? No estoy seguro de dónde está.
+		LoveSpace: Lejos de todas las miradas curiosas, perfecto, perfecto.
+		DislikeCrowded: Demasiada gente, me están mirando de reojo.
+		HateCrowded: Con este nivel de aglomeración, no es mi culpa si ocurre un 'accidente' que reduzca el rebaño, ¿sabes?
+		LikeBiome: ¡Tanta cobertura! ¡Tantos lugares para esconderse! Un lugar maravilloso.
+		DislikeBiome: Tengo DEMASIADA competencia aquí - ¡sácame de aquí!
+		LoveNPC: No soy ingeniero, pero las cosas que hace {NPCName} son geniales. ¡Puede que hasta pague por ellas esta vez!
+		LikeNPC: "{NPCName} en realidad me ayudó a cruzar algunas zonas peligrosas un par de veces - buen tipo."
+		DislikeNPC: Oh, ¿{NPCName}? Digamos que no tiene problema en probar un par de sus explosivos.
+		HateNPC: Déjame decirte... ¿ese tipo, {NPCName}? Con un gatillo sensible, literalmente. ¡Solo me llevé un par de monedas, lo juro!
+		LikeNPC_Princess: "{NPCName} dijo que guardaría mi secreto cerca de su corazón... del cual no tengo ninguno. Fuera."
+		Princess_LovesNPC: A veces {NPCName} me consigue cosas geniales. ¡Dice que además son gratis!
 	}
 
 	Entry: Un apuesto pícaro con un pasado envuelto en misterio. No está claro si se puede confiar en él, pero de todos modos te enseñaría con gusto los trucos del oficio.
@@ -1191,20 +1425,45 @@ Rogue: {
 RuneWizard: {
 	DisplayName: Encantador
 
+	Names: {
+		1: Malachai
+		2: Nisarmah
+		3: Moneque
+		4: Tosalah
+		5: Kentremah
+		6: Salqueeh
+		7: Oarno
+		8: Cosimo
+	}
+
+	Dialogue: {
+		Basic1: ¡Potencia tus armas con mis extraños Glifos!
+		Basic2: A veces, simplemente garabateo una runa en un Glifo y veo qué pasa. No te recomiendo que lo hagas.
+		Basic3: Antes de que preguntes, no, no voy a poner un Glifo Enmielado en una abeja. Sería demasiado poderoso.
+		Basic4: ¡Olvidé la esencia de Eléboro! ¡No toques eso!
+		Basic5: Si no estás seguro de cómo toparte con Glifos, ¡mi maestro una vez me dijo que los jefes poderosos tienen muchos!
+		Basic6: Dato curioso - puedes poner runas en cualquier cosa. Simplemente son más poderosas en los Glifos.
+		Basic7: ¡Cualquier cosa puede ser encantada si posees la habilidad, el ingenio y la esencia!
+		Special1: Me pregunto qué encantamientos le han puesto a la luna - ¡está toda azul!
+		Special2: ¡El resurgimiento de los Espíritus ofrece todo un nivel de posibilidades de encantamiento!
+		Halloween0: ¡Contempla! ¡Caramelos encantados! ¡Encantadoramente deliciosos, claro está!
+		Halloween1: Observa con atención, pues canalizaré el poder de los espíritus para invocar... ¡Caramelos!
+	}
+
 	TownNPCMood: {
-		Content: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.Content}"
-		NoHome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.NoHome}"
-		FarFromHome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.FarFromHome}"
-		LoveSpace: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LoveSpace}"
-		DislikeCrowded: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.DislikeCrowded}"
-		HateCrowded: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.HateCrowded}"
-		LikeBiome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeBiome}"
-		DislikeBiome: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.DislikeBiome}"
-		LoveNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LoveNPC}"
-		LikeNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeNPC}"
-		HateNPC: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.HateNPC}"
-		LikeNPC_Princess: "{$Mods.SpiritMod.TownNPC.RuneWizard.Mood.LikeNPC_Princess}"
-		Princess_LovesNPC: Me agrada {NPCName}.
+		Content: Las runas están saliendo bien hoy.
+		NoHome: ¡No tengo espacio para mis runas!
+		FarFromHome: No sé si podrías adivinarlo, pero preferiría fuertemente estar cerca de mis queridas runas.
+		LoveSpace: La magia fluye mucho más fácil en la calma.
+		DislikeCrowded: ¡Es difícil concentrarse cuando hay tanta gente alrededor!
+		HateCrowded: Con tanta gente alrededor, solo puedo desear que existiera un Glifo de Silencio.
+		LikeBiome: ¡Nunca he estado más en sintonía con la magia rúnica! Este lugar es maravilloso.
+		DislikeBiome: Este lugar es simplemente demasiado. Muchísimo. Déjame salir.
+		LoveNPC: "{NPCName} y yo hablamos frecuentemente de nuestro trabajo - es fascinante cómo puede encantar sin ningún conocimiento de magia."
+		LikeNPC: A veces, {NPCName} me pide que encante algunas de sus mercancías... siempre les pongo un encantamiento en blanco. Se pone eufórico cada vez.
+		HateNPC: "{NPCName} no entiende el poder de las runas... todo es 'la Vara de Hielo esto' y 'la Bola de Cristal' aquello..."
+		LikeNPC_Princess: Siempre hay una magia en los ojos de {NPCName} cuando hago un truco. Son las pequeñas cosas, jaja.
+		Princess_LovesNPC: ¡{NPCName} me dio una runa brillante! ¡Yupi!
 	}
 
 	Entry: Este cansado escriba de runas ha pasado noches sin dormir estudiando la magia antigua que se encuentra en los glifos. No es muy conversador, pero con gusto potenciará tu arsenal.
@@ -1224,6 +1483,7 @@ Valkyrie: {
 Vulture_Matriarch: {
 	DisplayName: Matriarca Buitre
 	Entry: La poderosa anciana de la tribu de buitres, la Matriarca domina magias y habilidades antiguas para destruir a su presa.
+	SpawnMessage: ¡La Matriarca Buitre ha sido perturbada!
 }
 
 Wheezer: {
@@ -1244,21 +1504,21 @@ WinterbornMagic: {
 }
 
 DiverZombie: {
-	DisplayName: Zombi
+	DisplayName: "{$NPCName.Zombie}"
 	Entry: ¿Quién iba a saber que esos tanques de oxígeno necesitaban tener oxígeno de verdad dentro?
 }
 
 KelpZombie: {
-	DisplayName: Zombi
+	DisplayName: "{$NPCName.Zombie}"
 	Entry: Los peces me temen, las mujeres me temen, los hombres me temen, los niños me temen, porque soy el no-muerto.
 }
 
 SailorZombie: {
-	DisplayName: Zombi
+	DisplayName: "{$NPCName.Zombie}"
 	Entry: A pesar de su estado actual, solían manejar un crucero de lujo realmente agradable que deberías visitar alguna vez.
 }
 
-TridentZombie.DisplayName: Zombi
+TridentZombie.DisplayName: "{$NPCName.Zombie}"
 AsclepiusBoonOrb.DisplayName: Orbe de Bendición de Asclepio
 Fathomless_Chest_Gold.DisplayName: ""
 Fathomless_Chest_Mimic.DisplayName: ""

@@ -1643,3 +1643,14 @@ Projectiles: {
 	OpaqueOnyxGem.DisplayName: Gema del Ónix Opaco
 	OpaqueOnyxParticle.DisplayName: Partícula del Ónix Opaco
 }
+
+Configs: {
+	Config: {
+		HummusBalancing: {
+			Tooltip: Usa los ajustes de balance de compatibilidad de Infernal Eclipse incluso cuando Infernal Eclipse no está instalado.
+			Label: Habilitar el balance de Hummus
+		}
+
+		DisplayName: Configuración
+	}
+}

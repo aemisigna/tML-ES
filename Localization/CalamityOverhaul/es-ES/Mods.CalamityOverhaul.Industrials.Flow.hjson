@@ -1,0 +1,90 @@
+ThermalBattery: {
+	DisplayName: Batería térmica
+	Tooltip: Almacena una cantidad determinada de energía eléctrica
+}
+
+FluidPipeline: {
+	DisplayName: Tubería de fluidos
+	Tooltip:
+		'''
+		Transporta agua, lava, miel o Fulgor
+		Cada tubería transporta un solo fluido a la vez; debe vaciarse antes de cambiar a otro
+		Clic derecho para retirarla rápidamente
+		'''
+}
+
+FluidTank: {
+	DisplayName: Tanque de fluidos
+	Tooltip:
+		'''
+		Almacena hasta 32 bloques de fluido; la ventana muestra el nivel de llenado
+		Se conecta a bombas y máquinas mediante tuberías de fluidos
+		Romper el tanque libera su contenido
+		'''
+}
+
+LargeFluidTank: {
+	DisplayName: Tanque grande de fluidos
+	Tooltip:
+		'''
+		Almacena hasta 128 bloques de fluido; la ventana muestra el nivel de llenado
+		Se conecta a bombas y máquinas mediante tuberías de fluidos
+		Romper el tanque libera su contenido
+		'''
+}
+
+FluidText: {
+	WaterName: Agua
+	LavaName: Lava
+	HoneyName: Miel
+	ShimmerName: Fulgor
+	EmptyName: Vacío
+	BarFormat: "{0} {1}/{2}"
+}
+
+CapacitorMatrix: {
+	DisplayName: Matriz de condensadores
+	Tooltip:
+		'''
+		Un gran banco de energía que almacena hasta 40000 unidades.
+		Tiene un flujo de carga y descarga muy superior al de la Batería Térmica, el volante de inercia de cualquier red grande.
+		'''
+}
+
+UEPipeline: {
+	DisplayName: Tubería de energía
+	Tooltip:
+		'''
+		Se usa para transmitir energía eléctrica
+		Clic derecho para desmontar y recuperar rápidamente la tubería en la posición del cursor
+		Conecta generadores y otras fuentes de energía con baterías u otros dispositivos eléctricos
+		'''
+}
+
+LaserEnergyTrans: {
+	DisplayName: Transmisor láser de energía
+	Tooltip:
+		'''
+		Transmisión remota de electricidad
+		Tras colocarlo, haz clic derecho para activar la navegación láser,
+		y luego haz clic derecho en otras instalaciones eléctricas para enlazarlas.
+		Cuanto mayor sea la distancia de transmisión, mayor será la pérdida de energía.
+		La pérdida máxima es del 100%.
+		'''
+}
+
+CreativeUEPipeline: {
+	DisplayName: Tubería de energía creativa
+	Tooltip: ""
+}
+
+ItemPipeline: {
+	DisplayName: Tubería logística
+	Tooltip:
+		'''
+		Se usa para transportar objetos
+		Clic derecho para desmontar y recuperar la tubería objetivo (solo al sostener una tubería)
+		Clic derecho en un extremo para alternar entre modo salida y modo entrada (solo sin sostener una tubería)
+		El modo salida extrae objetos de contenedores conectados y los transfiere a contenedores enlazados al modo entrada
+		'''
+}

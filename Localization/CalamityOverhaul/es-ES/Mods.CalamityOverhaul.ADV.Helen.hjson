@@ -1,0 +1,316 @@
+FirstMet: {
+	Rolename1: ???
+	Rolename2: Halibut
+	Line0: Señor... tu técnica de pesca deja bastante que desear.
+	Line1: Puedes llamarme doctora Halibut.
+	Line2: O simplemente Halibut está bien.
+	Line3: Gracias a tu anzuelo, salí de aquellas aguas silenciosas y muertas.
+	Line4: Si no fuera por ti, probablemente habría quedado atrapada en un fallo del sistema... hasta expirar de verdad.
+	Line5: Este pez debería haber sido tu captura. Ahora es un regalo para marcar nuestro encuentro.
+	Line6: ......
+	Line7: Te preguntas por qué estoy aquí, ¿verdad?
+	Line8: Era profesora en la Universidad del Mar Sulfuroso, en el Departamento de Investigación Abisal.
+	Line9: Hace unos años organizamos un «Proyecto de Muestreo Ecológico Abisal».
+	Line10: Fui la única que regresó.
+	Line11: En el fondo del abismo nos encontramos con... una existencia incomprensible.
+	Line12: No podía ser un ser vivo ni algo que pudiera «matarse». Se parecía más a... el terror en su forma conceptual.
+	Line13: Mientras huía, encontré un ojo bajo un árbol de coral.
+	Line14: Guiada por el puro instinto de supervivencia, me lo tragué.
+	Line15: Usando el poder de aquel ojo, abrí un dominio... y rasgué una fisura en el abismo para escapar.
+	Line16: Después de eso, mi memoria se volvió borrosa... caí en un sueño profundo, hasta que me pescaste.
+	Line17: Pareces una Terrariana.
+	Line18: Si me aceptas, llévame contigo.
+	Line19: Te ayudaré a conquistar esta tierra.
+	Line20: A cambio... ayúdame a resolver este problema de «resurrección» de los ojos que llevo dentro.
+	Line21: Si no hay objeciones, empecemos por... estudiar este pez.
+}
+
+EyeOfCthulhuGift: {
+	L0: Tus movimientos fueron arrastrados a cámara lenta... Pensé que estabas posando.
+	L1: Hemos entrado en la «Fase Observada». Lo que significa... más problemas.
+	L2: Encontré esto en su... boca. Toma. Un Pez de Cthulhu. Igual que su homónimo... no sigue demasiado la lógica.
+	L3: Guárdalo, pero ten cuidado. Te hará creer que has abierto tu tercer ojo. En realidad, solo es un estimulante en el torrente sanguíneo.
+	L4: Me pregunto si ahora empezarás a guiñarle el ojo a la luna.
+}
+
+KingSlimeGift: {
+	L0: Esa masa azul... ¿una «babosa», como la llamas? Parecía más bien... una emoción solidificada.
+	L1: Quizá un intento torpe de la materia por adquirir conciencia y evolucionar.
+	L2: Aquí tienes un Pez slime. No lo aprietes. Sus sentimientos podrían explotar.
+	L3: ¿Alguna vez has intentado hacer sopa con uno de estos?
+	L4: Quiero decir... sí, podemos hacer sopa en el fondo del mar. El lecho marino incluso tiene... bueno, mares dentro del mar.
+}
+
+QueenBeeGift: {
+	L0: Por poco me llevo la cara llena de miel ahí atrás.
+	L1: Aun así, conseguí sacar un pez de un charco de miel en el suelo.
+	L2: Aquí tienes, fresco y... todavía caliente: un Pez Miel.
+	L3: Creo que quedaría perfecto en un plato agridulce.
+}
+
+SkeletronGift: {
+	L0: Eso sí que fue una cantidad considerable de calcio.
+	L1: Su estructura craneal me recordó a una construcción psíquica descontrolada.
+	L2: Deja que se enfríe el cañón de mi arma. Mientras tanto encontré un pez por aquí.
+	L3: Mira, un «Pez Esqueletrón». Dicen que el fósforo de su interior hace que los pescadores nocturnos reflexionen sobre su existencia.
+	L4: Vámonos. Nos esperan más huesos... «abstractos».
+}
+
+AquaticScourgeGift: {
+	L0: Me recuerda a los vecinos menos amistosos de mi pueblo natal. Aunque este era bastante amable. Antes era el jefe de seguridad de la Universidad del Mar Sulfuroso. Siempre saludaba.
+	L1: El Mar Sulfuroso es un lugar interesante. Todas sus criaturas hacen la misma pregunta: «¿Por qué sigo viva?»
+	L2: Un Pez Prisma. Sus escamas refractan colores que nunca has visto. Principalmente porque no deberían existir.
+	L3: Mirarlo reiniciará tu sistema visual. Como una actualización forzada, pero más dolorosa.
+	L4: Es mejor usarlo con poca luz. De lo contrario, te sentirás... colocada.
+}
+
+BrimstoneElementalGift: {
+	L0: Que se quedara ahí de pie parecía un discurso incendiario. Menos mal que conseguimos hacerla callar.
+	L1: Algunos elementales no son creados. Son simplemente... rarezas... que se filtran por las grietas del mundo.
+	L2: Un Pez Obsidiana. Producto de lava enfriada al instante. Sus escamas son más duras que los rencores que se pudren en el infierno.
+	L3: Cuidado, podría arder espontáneamente en tu mano. Hablando en términos emocionales.
+	L4: Después de todo, la ira es contagiosa.
+}
+
+CalamitasCloneGift: {
+	L0: Una sombra barata. Me recuerda a las monstruosidades genéticas que solía cocinar en mi trinchera durante la universidad. En cualquier caso, quien lo creó tiene un gusto terrible.
+	L1: Tengo un mal presentimiento. El terror verdadero sigue esperando... más abajo. Incluso se está acercando.
+	L2: Volvamos al trabajo. Un Pez de Azufre, recogido de sus brasas. Aún puedes oírlo murmurar disparates si lo acercas.
+	L3: Si empiezas a entender lo que dice... bueno, felicidades. Has dado el primer paso hacia la locura.
+	L4: Pero no te preocupes. La locura es otra forma de claridad, vista desde un ángulo diferente.
+}
+
+CrabulonGift: {
+	L0: ¿Ese ser... parecido a una seta? ¿Es sabiduría o puro instinto oculto bajo su sombrero?
+	L1: ¿Sabías que las redes miceliales pueden transmitir información? Quizá estaba pidiendo ayuda.
+	L2: Esto es un Pez Fúngico. Apenas pude atraparlo entre las esporas que soltaba.
+	L3: No te preocupes, las esporas no convertirán a un humano en hongo... probablemente.
+	L4: Pero si de repente te entran ganas de echar raíces en un lugar oscuro y húmedo, avísame.
+}
+
+CryogenGift: {
+	L0: Un alma congelada...
+	L1: En los Archivos Abisales, esta clase de temperatura baja suele usarse para «conservar» a los lunáticos.
+	L2: Un Pececillo Criogénico, descongelado de los fragmentos de hielo. Todavía mantiene la postura en la que quedó congelado.
+	L3: Dicen que comerlo enfría la sangre y vuelve tus pensamientos excepcionalmente claros.
+	L4: Come demasiados y podrías convertirte en una escultura de hielo.
+}
+
+DevourerOfGodsGift: {
+	L0: El Devorador de Dioses... una serpiente cósmica que se alimenta de deidades. Su apetito es tan infinito como su ambición.
+	L1: Ya sabes lo que dicen: cuando miras al abismo, el abismo te devuelve la mirada. Pero esta cosa no solo mira. Te quiere como tentempié.
+	L2: Un Tetra Neón. Salió flotando de un abismo vacío. La luz que emite no pertenece a esta dimensión.
+	L3: Mirarlo hace que tu cerebro intente comprender colores que no debería. Es una experiencia... única.
+	L4: Si empiezas a ver colores nuevos, felicidades. Si empiezas a *oler* colores, necesitas descansar.
+}
+
+GolemGift: {
+	L0: Un montón de rocas móviles. Legado de una civilización antigua... o quizá prueba de su fracaso.
+	L1: Puede que estuviera protegiendo algo. O simplemente repitiendo un programa cuyo significado se perdió hace mucho.
+	L2: Un Pez Roca, extraído de los cimientos del templo. Su densidad me hace cuestionar mi propia existencia.
+	L3: Una vez intenté hervirlo. Mi olla se rindió primero.
+	L4: ...Algunas cosas existen solo para hacernos comprender que no todos los problemas necesitan solución.
+}
+
+HiveMindGift: {
+	L0: Una conciencia colectiva hecha de corrupción... qué concepto tan repugnante.
+	L1: Su proceso mental debe ser... único. Innumerables fragmentos podridos unidos en un solo conjunto retorcido.
+	L2: Aquí tienes un Pez Corrupto. Lo saqué de aquel montón de carroña. No preguntes cómo.
+	L3: Huele a marisco dejado al sol durante tres días.
+	L4: Pero dicen que te permite... resonar con la corrupción. Eso suena mal.
+}
+
+LeviathanGift: {
+	L0: La tirana del océano... y su pequeña compañera que siempre la sigue. Algunas amistades trascienden las especies. Y la lógica.
+	L1: Creo que lo que vive en las fosas más profundas no es miedo, sino soledad. Solo buscan compañía.
+	L2: Un Tropic-cuda, sacado de un vórtice submarino. Parece normal, y precisamente por eso resulta sospechoso.
+	L3: Cuanto más mundano es el exterior, más extraordinario es el pasado.
+	L4: Igual que nosotros.
+}
+
+MoonLordGift: {
+	L0: El Señor de la Luna, ¡ja! O, *antes*. Ahora solo es un montón flotante de ojos y vísceras.
+	L1: No solo salvamos el mundo; cerramos una puerta que nunca debió abrirse.
+	L2: Capturé un Pez Nube. Bajó flotando desde una grieta del cielo. Se siente ingrávido en mi mano.
+	L3: Dicen que te permite ver el futuro... pero tú ya has reescrito ese futuro.
+	L4: Acabamos de demostrar que hasta los dioses pueden sangrar.
+}
+
+PerforatorGift: {
+	L0: Un montón de gusanos carnosos perforadores... la existencia de esta criatura desafía a la biología.
+	L1: Su sangre tiene una viscosidad extraña, como una especie de metal vivo.
+	L2: Encontré esto entre los restos. Un Pez Sangriento. Todavía se retuerce.
+	L3: No te asustes por su aspecto, aunque parezca que salió arrastrándose de una pesadilla.
+	L4: Al menos no se meterá en tu oído mientras duermes... probablemente.
+}
+
+PlaguebringerGift: {
+	L0: La Portadora de la Plaga... una abeja mecánica que transporta un arma biológica. ¿Quién diseñó esto? Qué canalla, esclavizar abejas de esa manera.
+	L1: A un virus no le importa lo correcto o lo incorrecto. Solo quiere sobrevivir. Como nosotros, pero de forma más directa.
+	L2: Un Pez Joya. Infectado y recuperado milagrosamente. Su sistema inmunitario tiene más experiencia que tú.
+	L3: Dicen que comerlo aumenta la resistencia. Parece otra forma de decir «lo que no te mata te hace más fuerte».
+	L4: Pero como *nosotras* acabamos de salir de una colmena de plaga, este pequeño riesgo no debería ser nada.
+}
+
+PlanteraGift: {
+	L0: Una flor... si «flor» es la palabra para ese conglomerado de enredaderas devoradoras de hombres.
+	L1: La furia de la jungla, convertida en planta. La venganza de la naturaleza nunca es racional.
+	L2: Un Bacalao Gemelo. Tiene dos cabezas. La jungla es como un océano terrestre; aquí las cosas no necesitan motivo para desarrollar partes adicionales.
+	L3: Dicen que dos cabezas significan el doble de sabiduría, pero solo parecen discutir sobre hacia dónde nadar.
+	L4: Como la «dieta» y el «apetito». Siempre están peleando. Aunque mi apetito siempre gana.
+}
+
+ProvidenceGift: {
+	L0: La Diosa Profanada... una contradicción de fe y fuego. Bastante lamentable.
+	L1: No solo apagamos una llama sagrada, sino las brasas de toda una era.
+	L2: Un Pez Demoníaco Infernal, renacido de sus cenizas. Su temperatura está fijada permanentemente en «lo bastante caliente para no quemarte».
+	L3: Ese control preciso me hace sospechar... quizá solo quería que la comprendieran.
+	L4: Pero la línea entre comprensión y guerra está a un solo ataque de distancia.
+}
+
+SlimeGodGift: {
+	L0: Tres slimes... ¿o una divinidad fragmentada? Esta existencia dualista es... interesante.
+	L1: Corrupción y Carmesí. El conflicto eterno de este mundo. Y acabamos de demostrar que ese conflicto puede «resolverse».
+	L2: Un Pez Manteca Variopinto. Lo saqué de la masa. No preguntes por el nombre.
+	L3: Su color cambia según el humor del observador. O quizá imita tu caos interior.
+	L4: Míralo demasiado tiempo y empezarás a preguntarte de qué lado estás realmente.
+}
+
+SupremeCalamitasGift: {
+	L0: La Bruja de Azufre... una vengadora. La usuaria de magia más poderosa del último siglo.
+	L1: Lo que acabamos de hacer... ¿terminamos una leyenda o creamos una nueva?
+	L2: Un Pez Princesa, nacido de sus brasas. Tiene una gracia contradictoria, como una flor que brota entre ruinas.
+	L3: Dicen que te muestra a la persona que más deseas ser... pero esa versión suele parecerse menos a ti.
+	L4: Te acercas a la cima del poder terrariano. A partir de aquí... el descenso es largo.
+}
+
+WallOfFleshGift: {
+	L0: Un muro de carne y hueso... el creador de este mundo debió tener ideas peculiares.
+	L1: Acabas de romper algún tipo de equilibrio. ¿Lo sientes? El pulso del mundo se acelera.
+	L2: Encontré este Pez Hambriento entre los restos. Parece eternamente hambriento.
+	L3: Igual que ese muro. Siempre persiguiendo, siempre consumiendo.
+	L4: Bienvenida al «Modo Difícil»... aunque antes tampoco pensaba que fuera «fácil».
+}
+
+YharonGift: {
+	L0: El Dragón de la Jungla... no, el Dragón Incendiario. No arde con carne, sino con obsesión.
+	L1: Una lealtad tan pura que se quemaría hasta convertirse en cenizas por su amo... me recuerda a los bancos de peces que protegen los arrecifes de coral de mi hogar.
+	L2: Un Pez Tigre Escarlata. Lo acabo de capturar. Me gustan bastante sus rayas.
+	L3: Al sostenerlo, sientes una determinación abrasadora. Esa es la temperatura de un guerrero.
+	L4: Derrotaste a ese dragón, pero tengo que preguntarme... en el momento en que cayó, ¿por fin encontró... la liberación?
+}
+
+ResurrectionWarn: {
+	Line0: Espera... ¿has sentido eso?
+	Line1: El estado de «resurrección» se acerca a un umbral crítico.
+	Line2: Tengo que advertirte: esto no es un juego.
+	Line3: Si la resurrección se completa... las consecuencias serán terribles.
+	Line4: El resultado final... es ser consumida por el abismo.
+	Line5: Cada uno de estos ojos que se abre dentro de mí... acelera el proceso de resurrección.
+	Line6: Cuantos más estén abiertos, más rápido aumenta y mayor es el peligro.
+	Line7: Este es el precio de blandir el poder abisal. Si no tengo los ojos abiertos, mis propias capacidades disminuyen enormemente.
+	Line8: Tenemos que aprender a equilibrarlo, para determinar cuántos ojos es «seguro» mantener abiertos durante el combate.
+	Line9: Si queremos usar este poder sin consecuencias...
+	Line10: ...tenemos que encontrar una forma de hacer que estos ojos «fallen».
+}
+
+FishoilQuestScenario: {
+	Line0: Parece que últimamente has capturado una buena cantidad de peces comunes.
+	Line1: Dame algunos para mi investigación y podré refinarlos en una botella de aceite de pescado fresco.
+	Line2: El proceso no es difícil, solo... tedioso.
+	Line3: Este aceite de pescado tiene potencial. Es más útil de lo que crees.
+	Line4: ¿Te interesa?
+	ChoiceAccept: De acuerdo.
+	ChoiceDecline: No me interesa.
+}
+
+HelensInterference: {
+	Line0: ...Oye, ¿estás libre?
+	Line1: Hoy... eh... hace buen tiempo, ¿verdad?
+	Line2: (Halibut parece estar ocultando algo.)
+	Question1: ......
+	Choice1_1: ¿Qué estás haciendo?
+	Choice1_2: ¡Dámelo!
+	Choice1_3: (No digas nada)
+	FinalQuestion: No sigas... por favor. Esa bruja, sus encargos, las cosas que quiere... no quiero verlo. Podemos recorrer el resto del camino por nuestra cuenta, ¿no?
+	FinalChoice_Continue: Continuar el encargo
+	FinalChoice_Stop: Detener el encargo
+
+	Branch_Anger: {
+		Line1: ...¿De verdad... confías *tanto* en ella?
+		Line2: ¿No te has dado cuenta? Las cosas que te da esa bruja... ninguna es normal.
+		Line3: Me recuerda a algo... en el Abismo... yo... lo toqué... frío, aterrador, inquietante... Ugh... no quiero recordarlo.
+		Line4: Deberías haberte dado cuenta...
+	}
+
+	Branch_Inquiry: {
+		Line1: Últimamente me pongo cada vez más nerviosa.
+		Line2: Esa hoja... cuando la toqué, creí oír... a alguien *riéndose*.
+		Line3: Todas parecen... algún tipo de «conducto».
+		Line4: Al menos no puedo dejar que sigas con eso...
+	}
+
+	Branch_Silence: {
+		Line1: ...Das más miedo cuando estás en silencio.
+		Line2: ...Está bien, escondí el Tallacorazones.
+		Line3: Esa bruja... es peligrosa, apareció de la nada. Si esto es una trampa, ¿vas a entrar directamente en ella?
+		Line4: Detente... por favor. Hazlo por mí.
+	}
+
+	FinalBranch_Continue: {
+		Line1: ...Está bien. Sabía que elegirías esto.
+		Line2: ......
+		Line3: Lo devolveré. Pero espero que... cuando lo uses... tengas cuidado.
+		Line4: Y con esa bruja también...
+		Line5: Caminaré contigo... hasta el final.
+	}
+
+	FinalBranch_Stop: {
+		Line1: ...¿De verdad... estás dispuesta a detenerte?
+		Line2: ......
+		Line3: Vámonos. Que esa bruja se vaya al infierno.
+	}
+}
+
+HellGift: {
+	L0: Este maldito lugar... el infierno se vuelve cada vez más caliente.
+	L1: Tengo una idea. Podríamos excavar el lecho marino y convertir también esta parte en océano.
+	L2: Una fuente termal geotérmica... que cubra todo el continente.
+	L3: ...Solo pensarlo resulta relajante.
+	L4: Ah, cierto. He pescado un pez.
+	L5: Al principio pensé que era una guía para las fuentes infernales, pero... solo se parece a una.
+}
+
+DyeProtest: {
+	L1: Sinceramente, no me gusta mucho llevar esos colores tan brillantes.
+	L2: Quítamelo, ¿quieres? Mételo en la tina de tintes y después usa ese cubo de agua.
+}
+
+FishoilSubmitScenario: {
+	SubmitLine1: Hmm, has reunido suficientes peces.
+	SubmitLine2: Justo los necesarios para que extraiga una botella de aceite de pescado.
+	QuestionLine: ¿Vas a entregármelos?
+	ChoiceGive: Claro, tómalos.
+	ChoiceRefuse: Déjame pensarlo.
+	GiveResponse: Excelente, un momento... Aquí tienes, una botella de aceite de pescado fresco.
+	RefuseResponse: De acuerdo, búscame cuando hayas tomado una decisión.
+	QuestTitle: Recolección de aceite de pescado
+	QuestSummary: Reúne 300 peces comunes y dáselos a Halibut a cambio de una botella de aceite de pescado.
+	QuestCategory: Halibut
+	ProgressFormat: "{0}/{1}"
+	TrackerCollecting: Faltan {0} peces
+	TrackerReady: Peces reunidos. Selecciona el encargo para entregarlos.
+	StatusSuspended: Suspendido
+	StatusCompleted: Completado
+	StatusSubmittable: Listo para entregar
+	StatusCollectingFormat: Reuniendo ({0}/{1})
+	NotEnoughResponse: ¿Hmm? Parece que no tienes suficientes peces. Pesca algunos más y vuelve.
+	AlreadyCompletedResponse: Ya te he dado el aceite de pescado. Si quieres más, tendrás que esperar hasta la próxima vez.
+	SubmitButtonLabel: Entregar peces
+	AwaitingSubmitHint: Haz clic en entregar para darle los peces a Halibut
+}
+
+GeiGeiEasterEgg: {
+	L0: Aquella batalla fue realmente peligrosa.
+	L1: Pero los registros hablan de un guerrero de aquella época llamado Gei-Gei, que era mucho más aterrador.
+}

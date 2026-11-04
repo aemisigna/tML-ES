@@ -702,29 +702,9 @@ AstronautLegs: {
 	Tooltip: ""
 }
 
-BeachTowel: {
-	DisplayName: Toalla de Playa
-	Tooltip: "'Te mantiene seco, ¡pero asegúrate de no saltar al agua con ella puesta!'"
-}
-
-BikiniBottom: {
-	DisplayName: Parte Inferior de Bikini
-	Tooltip: "'¡Quién necesita armadura cuando puedes correr libre bajo el sol!'"
-}
-
-BikiniTop: {
-	DisplayName: Parte Superior de Bikini
-	Tooltip: "'Pese a lo que pueda parecer, no proporciona ningún tipo de defensa.'"
-}
-
 SwimmingTrunks: {
 	DisplayName: Bañador
 	Tooltip: "'No ofrecen mucha defensa, pero su estilo es innegable.'"
-}
-
-TintedGlasses: {
-	DisplayName: Gafas Tintadas
-	Tooltip: "'Ayudan a completar el look, así que es mejor llevarlas incluso cuando está oscuro.'"
 }
 
 BeekeeperBody: {
@@ -1736,7 +1716,7 @@ Book_ArmorGuide: {
 		'''
 		[c/95a3ab:Lo siguiente es la transcripción de un discurso informativo dado por el renombrado aventurero Aurelius Finch, Caballero Cruzado.]
 		---
-		¡Hola a todos! ¿Están listos para convertirse en grandes aventureros, tal como yo? Parece que aquí arriba se vive bien, ¡y así es! Estoy nadando en dinero de patrocinios, ¡y mi vida amorosa nunca ha estado mejor!"
+		¡Hola a todos! ¿Están listos para convertirse en grandes aventureros, tal como yo? Parece que aquí arriba se vive bien, ¡y así es! Estoy nadando en dinero de patrocinios, ¡y mi vida amorosa nunca ha estado mejor!
 		Pero las cosas no siempre fueron así. Yo era como todos ustedes, alguna vez- pobre de solemnidad y sin nada más que la ropa puesta. Me costó todo lo que tenía para sobrevivir. ¡Pero si compran mi práctica serie de guías, serán como yo en un abrir y cerrar de ojos! No puedo esperar a verlos ascender de rango, novatos.
 		[c/80deed:Guía para Principiantes sobre Armaduras]
 		Así que apenas están empezando, y es hora de dejar su marca en el mundo. ¿Pero qué ponerse? La armadura es la herramienta más importante en el arsenal de un aventurero. Por suerte para ustedes, he encontrado muchas opciones distintas para principiantes que son fáciles de forjar y efectivas.
@@ -1745,15 +1725,6 @@ Book_ArmorGuide: {
 		Esos son algunos conjuntos de armadura baratos y efectivos que los mantendrán luchando por mucho tiempo. ¡Buena suerte, aventureros!
 		---
 		Uf. Menos mal que eso terminó. Estos incautos no durarán ni un día ahí fuera, pero se creen cualquier cosa que les diga. El dinero más fácil que he ganado en mi vida. Oye, ¿por qué sigues escribiendo est-
-		'''
-}
-
-Book_Blossmoon: {
-	DisplayName: Notas sobre las Florilunas
-	Tooltip:
-		'''
-		por Calvin Reyes, investigador
-		Contiene notas sobre las adorables Florilunas
 		'''
 }
 
@@ -1777,16 +1748,6 @@ Book_Briar: {
 		El Zarzal subterráneo muestra señales de haber sido habitado por alguna civilización ya extinta. Se pueden observar casas en ruinas de ladrillo y madera junto con armas, herramientas y baratijas primitivas. Muchos misterios permanecen sobre estas ruinas y el Zarzal en general. ¿De dónde vino? ¿Por qué es tan hostil? ¿Y dónde está la gente que vivió aquí alguna vez?
 		---
 		Nota: Parece que falta una página de notas y diagramas del libro. Probablemente la perdí de vuelta en las profundidades del Zarzal. Aunque no vale la pena un viaje de regreso.
-		'''
-}
-
-Book_BriarArt: {
-	DisplayName: Flora del Zarzal
-	Tooltip:
-		'''
-		por el investigador de campo Laywatts
-		Parece ser una página arrancada de un libro sobre el Zarzal
-		Contiene un diagrama intrincado de la ecología del Zarzal
 		'''
 }
 
@@ -1829,24 +1790,6 @@ Book_Lava: {
 		'''
 }
 
-Book_LuminousArt: {
-	DisplayName: ¡El Océano Brillante!
-	Tooltip:
-		'''
-		Por un explorador desconocido
-		Parece ser el boceto de un extraño suceso en regiones costeras
-		'''
-}
-
-Book_Lumoth: {
-	DisplayName: Notas sobre las Lumipolillas
-	Tooltip:
-		'''
-		por Calvin Reyes, investigador
-		Explica los mecanismos detrás de las brillantes Lumipolillas
-		'''
-}
-
 Book_MJW: {
 	DisplayName: Bitácora del Mago Medusa Lunar
 	Tooltip: por el explorador Trev Irwin
@@ -1873,26 +1816,6 @@ Book_Slime: {
 		Primero, es importante hacer balance de lo que sabemos. Los slimes son, científicamente hablando, grandes masas de baba. Son altamente inflamables, no poseen órganos internos, y sin embargo parecen bastante inteligentes.
 		Su composición no coincide con ningún otro material que mis colegas magos y yo hayamos visto jamás. Entonces, ¿de dónde vienen? ¿Podría un mago rival estar invocándolos? ¿Y con qué fin siniestro?! ¿Son un castigo de los mismísimos dioses? ¿Estamos atrapados para siempre en este purgatorio rebotante y viscoso?
 		Y lo más importante- ¿son comestibles? Debemos seguir buscando respuestas.
-		'''
-}
-
-Book_Soulbloom: {
-	DisplayName: Notas sobre la Flor del Alma
-	Tooltip:
-		'''
-		por Lena Ashwood, alquimista
-		Detalla la anatomía y los usos de una hierba extremadamente rara
-		'¿Dónde habrá encontrado esto?'
-		'''
-}
-
-Book_SpiritArt: {
-	DisplayName: Flora del Bioma del Espíritu
-	Tooltip:
-		'''
-		por el investigador de campo Laywatts
-		Parece ser una página de notas sobre el desconocido Bioma del Espíritu
-		'Hay mucho por aprender de este lugar misterioso'
 		'''
 }
 
@@ -1929,6 +1852,71 @@ Book_Yeremy: {
 		'''
 }
 
+# Do not localize image paths unless you have your own localized png files
+
+Book_Blossmoon: {
+	DisplayName: Notas sobre las Florilunas
+	Tooltip:
+		'''
+		por Calvin Reyes, investigador
+		Contiene notas sobre las adorables Florilunas
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/BlossmoonPage
+}
+
+Book_BriarArt: {
+	DisplayName: Flora del Zarzal
+	Tooltip:
+		'''
+		por el investigador de campo Laywatts
+		Parece ser una página arrancada de un libro sobre el Zarzal
+		Contiene un diagrama intrincado de la ecología del Zarzal
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/TheBriar
+}
+
+Book_Soulbloom: {
+	DisplayName: Notas sobre la Flor del Alma
+	Tooltip:
+		'''
+		por Lena Ashwood, alquimista
+		Detalla la anatomía y los usos de una hierba extremadamente rara
+		'¿Dónde habrá encontrado esto?'
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/SoulbloomPage
+}
+
+Book_SpiritArt: {
+	DisplayName: Flora del Bioma del Espíritu
+	Tooltip:
+		'''
+		por el investigador de campo Laywatts
+		Parece ser una página de notas sobre el desconocido Bioma del Espíritu
+		'Hay mucho por aprender de este lugar misterioso'
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/TheSpirit
+}
+
+Book_LuminousArt: {
+	DisplayName: ¡El Océano Brillante!
+	Tooltip:
+		'''
+		Por un explorador desconocido
+		Parece ser el boceto de un extraño suceso en regiones costeras
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/LuminousOcean
+}
+
+Book_Lumoth: {
+	DisplayName: Notas sobre las Lumipolillas
+	Tooltip:
+		'''
+		por Calvin Reyes, investigador
+		Explica los mecanismos detrás de las brillantes Lumipolillas
+		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/LumothPage
+}
+
 BismitePage: {
 	DisplayName: Notas sobre los Cristales de Bismita
 	Tooltip:
@@ -1936,6 +1924,7 @@ BismitePage: {
 		por el profesor Alex Tannis
 		Contiene información sobre un mineral tóxico hallado en las cavernas
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/BismiteMaterialPage
 }
 
 EnchantedLeafPage: {
@@ -1945,6 +1934,7 @@ EnchantedLeafPage: {
 		por el profesor Alex Tannis
 		Contiene información sobre hojas místicas halladas en el Zarzal
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/EnchantedLeafMaterialPage
 }
 
 FrigidFragmentPage: {
@@ -1954,6 +1944,7 @@ FrigidFragmentPage: {
 		por el profesor Alex Tannis
 		Contiene información sobre un cristal helado hallado en la tundra congelada
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/FrigidFragmentMaterialPage
 }
 
 GlowrootPage: {
@@ -1963,6 +1954,7 @@ GlowrootPage: {
 		por el profesor Alex Tannis
 		Contiene información sobre una extraña raíz hallada en la base de altos árboles-hongo
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/GlowrootPage
 }
 
 GranitePage: {
@@ -1972,6 +1964,7 @@ GranitePage: {
 		por el profesor Alex Tannis
 		Contiene información sobre un extraño mineral hallado en las Cavernas de Granito
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/GraniteMaterialPage
 }
 
 HeartScalePage: {
@@ -1981,6 +1974,7 @@ HeartScalePage: {
 		por el profesor Alex Tannis
 		Contiene información sobre una escama reluciente que suele hallarse cerca de los Ardorfish
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/HeartScaleMaterialPage
 }
 
 MarblePage: {
@@ -1990,6 +1984,7 @@ MarblePage: {
 		por el profesor Alex Tannis
 		Contiene información sobre un extraño mineral hallado en las Cavernas de Mármol
 		'''
+	ImagePath: CalamityModSpanish/Assets/Textures/Mods/SpiritMod/Books/UI/MaterialUI/MarbleMaterialPage
 }
 
 ArcaneGeyser: {
@@ -2001,7 +1996,7 @@ AtlasBag: {
 	DisplayName: Bolsa del Tesoro (Atlas)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2136,7 +2131,7 @@ FlyerBag: {
 	DisplayName: Bolsa del Tesoro (Avian Antiguo)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2198,7 +2193,7 @@ DuskingBag: {
 	DisplayName: Bolsa del Tesoro (Dusking)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2262,7 +2257,7 @@ EyeOfTheInferno: {
 	Tooltip:
 		'''
 		Los enemigos golpeados arden, y los golpes exitosos aumentan el poder del efecto negativo
-		También dispara una bola con púas que inflige armadura rota
+		También dispara una bola con púas
 		'''
 }
 
@@ -2327,7 +2322,7 @@ InfernonBag: {
 	DisplayName: Bolsa del Tesoro (Infernon)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2378,7 +2373,7 @@ MJWBag: {
 	DisplayName: Bolsa del tesoro (Mago Medusa Lunar)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2462,7 +2457,7 @@ BagOScarabs: {
 	DisplayName: Bolsa del Tesoro (Scarabeus)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2640,7 +2635,7 @@ SteamRaiderBag: {
 	DisplayName: Bolsa del tesoro (Viajero de Starplate)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2663,7 +2658,7 @@ ReachBossBag: {
 	DisplayName: Bolsa del tesoro (Azote del Zarzal)
 	Tooltip:
 		'''
-		Consumible
+		{$LegacyTooltip.35}
 		{$CommonItemTooltip.RightClickToOpen}
 		'''
 }
@@ -2696,7 +2691,7 @@ SunbeamStaff: {
 
 ThornBow: {
 	DisplayName: Disparo de Espina
-	Tooltip: Las flechas de madera ocasionalmente se dividen en espinas venenosas.
+	Tooltip: Las flechas de madera se dividen en espinas venenosas al golpear a los enemigos
 }
 
 Trophy5: {
@@ -2718,14 +2713,14 @@ Durian: {
 	DisplayName: Durio
 	Tooltip:
 		'''
-		Mejoras menores en todas las estadísticas
+		{$BuffDescription.WellFed}
 		'¡Qué olor tan horrible!'
 		'''
 }
 
 Guava: {
 	DisplayName: Guayaba
-	Tooltip: Mejoras menores en todas las estadísticas.
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 BriarPylonItem: {
@@ -2737,7 +2732,7 @@ EnchantedApple: {
 	DisplayName: Manzana Encantada
 	Tooltip:
 		'''
-		Mejoras menores en todas las estadísticas
+		{$BuffDescription.WellFed}
 		Aumenta la regeneración de maná
 		'''
 }
@@ -2746,7 +2741,7 @@ EnchantedStarFruit: {
 	DisplayName: Carambola Encantada
 	Tooltip:
 		'''
-		Mejoras menores en todas las estadísticas
+		{$BuffDescription.WellFed}
 		Aumenta la regeneración de maná
 		'''
 }
@@ -2763,16 +2758,6 @@ CloudstalkItem: {
 
 CloudstalkSeed: {
 	DisplayName: Semillas de Tallo de Nube
-	Tooltip: ""
-}
-
-Volleyball: {
-	DisplayName: Balón de Vóleibol
-	Tooltip: ""
-}
-
-VolleyballCourtChecker: {
-	DisplayName: Comprobador de Cancha de Voleibol
 	Tooltip: ""
 }
 
@@ -2800,7 +2785,7 @@ Glowpear: {
 	DisplayName: Pera Luminosa
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¿Parece hueca?'
 		'''
 }
@@ -2809,7 +2794,7 @@ LuminBerry: {
 	DisplayName: Baya Lumin
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'Parecen casi de cristal...'
 		'''
 }
@@ -2930,7 +2915,7 @@ CrystalFish: {
 	DisplayName: Salmón Cristalizado
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Aumenta el poder mágico
 		'''
 }
@@ -2939,7 +2924,7 @@ FishChips: {
 	DisplayName: Pescado con Papas
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Te vuelve torpe
 		'''
 }
@@ -2948,19 +2933,23 @@ HoneySalmon: {
 	DisplayName: Salmón Glaseado con Miel
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Aumenta la regeneración de vida
 		'''
 }
 
 RawFish: {
 	DisplayName: Pescado Crudo
-	Tooltip: "'Se puede comer... ¿Quizás cocinarlo primero?'"
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Se puede comer... ¿Quizás cocinarlo primero?'
+		'''
 }
 
 SteamedMussels: {
 	DisplayName: Mejillones al Vapor
-	Tooltip: Mejoras menores en todas las estadísticas.
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 FloaterItem: {
@@ -2970,30 +2959,34 @@ FloaterItem: {
 
 AcornCake: {
 	DisplayName: Pastel de Bellota
-	Tooltip: "'Si tienes mucha hambre, hazlo'"
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Si tienes mucha hambre, hazlo'
+		'''
 }
 
 Baguette: {
 	DisplayName: Baguette
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'Ya te sientes más elegante'
 		'''
 }
 
 CaesarSalad: {
 	DisplayName: Ensalada César
-	Tooltip: Mejoras menores en todas las estadísticas.
+	Tooltip: "{$BuffDescription.WellFed}"
 	CustomTooltip1:
 		'''
-		"'Quizás no uses un cuchillo para comer esta'"
+		'Quizás no uses un cuchillo para comer esta'
 		Mejora considerablemente la regeneración de vida
 		'''
 	CustomTooltip2:
 		'''
-		"'Quizás no uses un cuchillo para comer esta'"
-		Aumenta la regeneración de vida
+		'Quizás no uses un cuchillo para comer esta'
+		{$LegacyMisc.40}
 		'''
 }
 
@@ -3001,21 +2994,25 @@ Cake: {
 	DisplayName: Pastel de Zanahoria
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¡La cantidad perfecta de glaseado!'
 		'''
 }
 
 FishFingers: {
 	DisplayName: Palitos de Pescado
-	Tooltip: "'¡Va muy bien con natillas!'"
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'¡Va muy bien con natillas!'
+		'''
 }
 
 GhostPepper: {
 	DisplayName: Chile Fantasma
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¿Te atreves a correr el riesgo?'
 		'''
 }
@@ -3024,7 +3021,7 @@ GoldenCaviar: {
 	DisplayName: Caviar Dorado
 	Tooltip:
 		'''
-		Grandes mejoras a todas las características
+		{$BuffDescription.WellFed3}
 		Emite un aura de luz
 		'Tiene un brillo exquisito'
 		'''
@@ -3034,7 +3031,7 @@ Hummus: {
 	DisplayName: Hummus
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¡Cálido y sabroso!'
 		'''
 }
@@ -3052,7 +3049,7 @@ Meatballs: {
 	DisplayName: Albóndigas
 	Tooltip:
 		'''
-		Mejoras medias a todas las características
+		{$BuffDescription.WellFed2}
 		'¡Con los clásicos no se falla!'
 		'''
 }
@@ -3061,7 +3058,7 @@ Nigiri: {
 	DisplayName: Nigiri
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Permite moverse libremente en el agua
 		'El corte perfecto'
 		'''
@@ -3071,7 +3068,7 @@ PopRocks: {
 	DisplayName: Caramelos Explosivos
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Emite un aura de luz
 		'¡Te cosquillea la boca!'
 		'''
@@ -3081,7 +3078,7 @@ Popsicle: {
 	DisplayName: Paleta Helada
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Otorga inmunidad a 'En llamas'
 		'¡Cómetela antes de que se derrita!'
 		'''
@@ -3091,21 +3088,25 @@ Ramen: {
 	DisplayName: Ramen
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¡Te calentará enseguida!'
 		'''
 }
 
 RockCandy: {
 	DisplayName: Caramelo de Roca
-	Tooltip: "'¡Dulce e increíblemente duro!'"
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'¡Dulce e increíblemente duro!'
+		'''
 }
 
 Sushi: {
 	DisplayName: Sushi
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		Otorga respiración bajo el agua
 		'¡Frío y fresco!'
 		'''
@@ -3115,7 +3116,7 @@ TofuSatay: {
 	DisplayName: Satay de Tofu
 	Tooltip:
 		'''
-		Pequeñas mejoras a todas las características
+		{$BuffDescription.WellFed}
 		'¡Fresco y frito!'
 		'''
 }
@@ -3259,13 +3260,17 @@ MoonJelly: {
 		Restaura 150 de vida en 10 segundos
 		Causa Enfermedad de Poción
 		'''
-	Tooltip: ""
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 MoonJellyDonut: {
 	DisplayName: Dona de Medusa Lunar
-	CustomTooltip: Restaura 225 de vida en 15 segundos.
-	Tooltip: ""
+	CustomTooltip:
+		'''
+		Restaura 225 de vida en 15 segundos
+		Provoca Enfermedad de poción
+		'''
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 MushroomPotion: {
@@ -3292,7 +3297,7 @@ SoulPotion: {
 	Tooltip:
 		'''
 		Recibir daño puede hacer que todos los enemigos cercanos sufran 'Quemadura del Alma' por un tiempo breve
-		Aumenta el daño cuerpo a cuerpo en un 5%
+		Reduce un 5% el daño recibido
 		'''
 }
 
@@ -3487,6 +3492,7 @@ SurrenderBell: {
 		Solo se puede usar cuando la invasión ha llegado, no cuando se está aproximando
 		'Un repique celestial'
 		'''
+	Message: ¡Los invasores han cancelado su ataque!
 }
 
 TinyCrabItem: {
@@ -3632,7 +3638,7 @@ SnakeStaff: {
 
 Terravolt: {
 	DisplayName: Terravoltio
-	Tooltip: "Lanza un rayo de electricidad "
+	Tooltip: Lanza un rayo de electricidad
 }
 
 TheCouch: {
@@ -3726,6 +3732,14 @@ BeeGlyph: {
 		Los ataques liberan abejas periódicamente
 		'''
 	Effect: Enmelado
+
+	# Russian-only localization - feel free to leave unset.
+	# The Effect key above is the masculine/default form
+	Gendered: {
+		Fem: Femenino
+		Neutral: Neutro
+		Plural: Plural
+	}
 }
 
 BlazeGlyph: {
@@ -3738,6 +3752,12 @@ BlazeGlyph: {
 	Addendum: Infligir daño te prende en llamas
 	Effect: Ardiente
 	Death: "{0} fue consumido por la Furia..."
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 ChaosGlyph: {
@@ -3745,6 +3765,12 @@ ChaosGlyph: {
 	Tooltip: Tu arma cambia periódicamente entre efectos de glifo.
 	Addendum: Tu arma cambia periódicamente entre efectos de glifo
 	Effect: Inestable
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 FrostGlyph: {
@@ -3752,6 +3778,12 @@ FrostGlyph: {
 	Tooltip: Los ataques tienen la posibilidad de congelar a los enemigos brevemente.
 	Addendum: Los ataques tienen la posibilidad de congelar a los enemigos brevemente
 	Effect: Congelante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 Glyph: {
@@ -3761,6 +3793,7 @@ Glyph: {
 	Target: Solo se puede aplicar a armas
 	RightClick: Sostén este glifo y haz clic derecho en el arma que deseas encantar
 	Remove: Sostén este glifo y haz clic derecho en el objeto cuyo glifo deseas quitar
+	PriceText: "{0} {^0:glifo;glifos}"
 }
 
 NullGlyph: {
@@ -3783,6 +3816,12 @@ PhaseGlyph: {
 		Los golpes consecutivos otorgan un breve estallido de velocidad
 		'''
 	Effect: Temporal
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 RadiantGlyph: {
@@ -3790,6 +3829,12 @@ RadiantGlyph: {
 	Tooltip: Genera energía radiante cuando no causa daño, potenciando tu próximo ataque.
 	Addendum: Genera energía radiante cuando no causa daño, potenciando tu próximo ataque
 	Effect: Radiante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 RageGlyph: {
@@ -3797,6 +3842,12 @@ RageGlyph: {
 	Tooltip: El exceso de daño al matar se almacena para tu próximo ataque.
 	Addendum: El exceso de daño al matar se almacena para tu próximo ataque
 	Effect: Frenético
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 SanguineGlyph: {
@@ -3808,6 +3859,12 @@ SanguineGlyph: {
 		'''
 	Addendum: Infligir daño aumenta brevemente la regeneración de vida
 	Effect: Drenante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 StormGlyph: {
@@ -3815,6 +3872,12 @@ StormGlyph: {
 	Tooltip: Los ataques ocasionalmente liberan una fuerte ráfaga de viento.
 	Addendum: Los ataques ocasionalmente liberan una fuerte ráfaga de viento
 	Effect: Ondulante
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 UnholyGlyph: {
@@ -3822,6 +3885,12 @@ UnholyGlyph: {
 	Tooltip: Los enemigos estallan en fantasmas malditos al morir.
 	Addendum: Los enemigos estallan en fantasmas malditos al morir
 	Effect: Maldito
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 VeilGlyph: {
@@ -3829,6 +3898,12 @@ VeilGlyph: {
 	Tooltip: Infligir daño crea un velo defensivo alrededor del usuario.
 	Addendum: Infligir daño crea un velo defensivo alrededor del usuario
 	Effect: Protector
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 VoidGlyph: {
@@ -3836,11 +3911,17 @@ VoidGlyph: {
 	Tooltip: Los ataques tienen la posibilidad de infligir acumulaciones de colapso del vacío.
 	Addendum: Los ataques tienen la posibilidad de infligir acumulaciones de colapso del vacío
 	Effect: Nulo
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 CaramelApple: {
 	DisplayName: Manzana Acaramelada
-	Tooltip: Mejoras menores en todas las estadísticas.
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 JackOGourd: {
@@ -3850,22 +3931,62 @@ JackOGourd: {
 
 TreeGourd: {
 	DisplayName: Calabaza Casita de Pájaros
-	Tooltip: Mejoras menores en todas las estadísticas.
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 Candy: {
 	DisplayName: Caramelo
 	Tooltip: Aumenta ligeramente todas las estadísticas.
+
+	Names: {
+		0: "'Piedrapop'"
+		1: "'Tres Mosquetes'"
+		2: "'Lhizzlers'"
+		3: "'Gominolas de Medusa Lunar'"
+		4: "'Bolitas de Seda'"
+		5: "'Obleas Necro'"
+		6: "'Paleta de Raíz Intermitente'"
+		7: "'Slimes de Gominola'"
+		8: "'Duende Llorón'"
+		9: "'Slimes Ácidos'"
+		10: "'Estallido de Polvo Estelar'"
+		11: "'Tamales Fuego Infernal'"
+		12: "'Tortita de Raíz Intermitente'"
+		13: "'Xenowhoppers'"
+		14: "'Gem&Ms'"
+		15: "'Lingote de 100.000 de cobre'"
+		16: "'Toblerbone'"
+		17: "'Ojo de Aspecto Delicioso'"
+		18: "'Vía Sedosa'"
+		19: "'Bolas de Seda Malteadas'"
+		20: "'Cabezas de Nube'"
+		21: "'Diablillos Rojos Picantes'"
+		22: "'Runa Pop'"
+		23: "'Besos de Enfermera'"
+		24: "'Calaveritas'"
+		25: "'Rayos de Fuego'"
+		26: "'Bastón Ira de Vid'"
+		27: "'Bellota de Caramelo'"
+		28: "'Dedo de Conejo'"
+		29: "'Icorregaliz'"
+		30: "'Lunático-tac'"
+	}
 }
 
 CandyBag: {
 	DisplayName: Bolsa de Caramelos
 	Tooltip: Tiene capacidad para 99 dulces.
+	BagContents:
+		'''
+		Contiene {0} {^0:caramelo;caramelos}
+		Haz clic derecho para sacar un caramelo
+		'''
 }
 
 CandyBowl: {
 	DisplayName: Tazón de Caramelos
 	Tooltip: ""
+	Take: Toma un caramelo
 }
 
 ChocolateBar: {
@@ -3986,6 +4107,38 @@ ManaCandy: {
 MysteryCandy: {
 	DisplayName: Caramelo Misterioso
 	Tooltip: O un gran regalo... o un truco desagradable
+
+	Positive: {
+		1: Dulce y reconfortante. Sientes que recuperas fuerzas.
+		2: La subida de azúcar pega fuerte.
+		3: Mmm, el más esponjoso de los turrones. Te sientes ligero como una pluma.
+		4: Chispas de magia brotan de tus dedos. Quizás el caramelo sí estaba encantado, después de todo.
+		5: Tiene un ligero sabor metálico, pero ahora tu piel es dura como el titanio.
+		6: Es un gran momento para salir a explorar.
+		7: Puedes verlo todo.
+		8: Tus manos están perfectamente firmes ahora.
+		9: Eso estaba delicioso.
+		10: Las condiciones son perfectas para construir un poco.
+		11: Tu deseo es su orden.
+		12: Una nueva fuerza recorre tu cuerpo.
+		13: El suelo se desvanece bajo tus pies.
+		14: Sientes que vas a hacer una gran captura.
+	}
+
+	Negative: {
+		Hurt: "{0} mordió una cuchilla."
+		1: ¡Ay, había una cuchilla ahí dentro!
+		2: Tus piernas apenas te sostienen.
+		3: Estás atrapado en piedra.
+		4: Hasta la última chispa de magia abandonó tu cuerpo. Quizás el caramelo sí estaba encantado, después de todo.
+		5: Tu armadura se desmorona al más mínimo toque.
+		6: Apenas puedes pensar con claridad.
+		7: Tu cuerpo se congela en el sitio. Quizás la menta no fue buena idea...
+		8: No sientes los brazos.
+		9: Te duelen las extremidades al menor movimiento.
+		10: Te han drogado.
+		11: Te sientes mal.
+	}
 }
 
 BatBlaster: {
@@ -5482,7 +5635,7 @@ BlastStoneItem: {
 
 BriarGrassSeeds: {
 	DisplayName: Semillas de Hierba del Zarzal
-	Tooltip: Se puede colocar
+	Tooltip: "{$LegacyTooltip.33}"
 }
 
 CreepingIce: {
@@ -5641,136 +5794,6 @@ EyeOfTheSorcererItem: {
 		Obtén probabilidad de golpe crítico según la cantidad de maná que tengas
 		Con el maná al máximo, obtén un 10% adicional de golpe crítico
 		'''
-}
-
-ChandelierPile: {
-	DisplayName: Candelabro Roto
-	Tooltip: ""
-}
-
-ChestPile: {
-	DisplayName: Cofre Abandonado
-	Tooltip: ""
-}
-
-DirtPile: {
-	DisplayName: Montón de Tierra
-	Tooltip: ""
-}
-
-GranitePile: {
-	DisplayName: Escombros de Granito
-	Tooltip: ""
-}
-
-GrassStonePile: {
-	DisplayName: Escombros de Piedra con Hierba
-	Tooltip: ""
-}
-
-HellstonePile: {
-	DisplayName: Escombros de Piedra Infernal
-	Tooltip: ""
-}
-
-IcePile: {
-	DisplayName: Escombros Congelados
-	Tooltip: ""
-}
-
-LihzahrdPile: {
-	DisplayName: Escombros de Ladrillo Lihzahrd
-	Tooltip: ""
-}
-
-MahoganyCage: {
-	DisplayName: Jaula de Caoba
-	Tooltip: ""
-}
-
-MahoganyCageFull: {
-	DisplayName: Jaula de Caoba (Llena)
-	Tooltip: ""
-}
-
-MarblePile: {
-	DisplayName: Escombros de Mármol
-	Tooltip: ""
-}
-
-MossMudPile: {
-	DisplayName: Escombros de Barro Musgoso
-	Tooltip: ""
-}
-
-MossStonePile: {
-	DisplayName: Escombros de Piedra Musgosa
-	Tooltip: ""
-}
-
-MushroomPile: {
-	DisplayName: Escombros de Hongo Luminoso
-	Tooltip: ""
-}
-
-OldTent: {
-	DisplayName: Vieja Tienda de Campaña
-	Tooltip: ""
-}
-
-OldWell: {
-	DisplayName: Pozo Viejo
-	Tooltip: ""
-}
-
-OldWheelbarrow: {
-	DisplayName: Carretilla Vieja
-	Tooltip: ""
-}
-
-RustyMinecart: {
-	DisplayName: Vagoneta Oxidada
-	Tooltip: ""
-}
-
-SandPile: {
-	DisplayName: Escombros de Piedra Arenisca
-	Tooltip: ""
-}
-
-SkeletonPile: {
-	DisplayName: Montón de Esqueletos
-	Tooltip: ""
-}
-
-StonePile: {
-	DisplayName: Escombros de Piedra
-	Tooltip: ""
-}
-
-StonePileHelmet: {
-	DisplayName: Escombros con Casco
-	Tooltip: ""
-}
-
-StonePilePickaxe: {
-	DisplayName: Escombros de Minería
-	Tooltip: ""
-}
-
-StonePileSword: {
-	DisplayName: Escombros de Espada Abandonada
-	Tooltip: ""
-}
-
-WebPile: {
-	DisplayName: Escombros con Telarañas
-	Tooltip: ""
-}
-
-WoodRuinPile: {
-	DisplayName: Muebles en Ruinas
-	Tooltip: ""
 }
 
 DefenseCodex: {
@@ -5980,11 +6003,7 @@ Diamond_Bow: {
 
 Emerald_Bow: {
 	DisplayName: Arco de Esmeralda
-	Tooltip:
-		'''
-		Convierte flechas de madera en flechas de esmeralda
-		Las flechas de esmeralda ocasionalmente explotan al golpear a los enemigos
-		'''
+	Tooltip: Convierte flechas de madera en flechas de esmeralda
 }
 
 Ruby_Bow: {
@@ -6519,7 +6538,7 @@ SunkenTreasure: {
 	DisplayName: Tesoro Hundido
 	Tooltip:
 		'''
-		Haz clic derecho para abrir
+		{$CommonItemTooltip.RightClickToOpen}
 		'Quizás todavía esté lleno de valioso tesoro'
 		'''
 }
@@ -7279,18 +7298,6 @@ MarbleStaff: {
 	Tooltip: Llueve estalactitas doradas del cielo
 }
 
-CorruptDyeMaterial: {
-	DisplayName: Cristal Violeta
-	CustomTooltip: "'El cristal es hermoso y repugnante a la vista'"
-	Tooltip: ""
-}
-
-CrimsonDyeMaterial: {
-	DisplayName: Tumor Sangriento
-	CustomTooltip: "'El repugnante órgano hace extraños movimientos pulsantes'"
-	Tooltip: ""
-}
-
 IceDeityShard1: {
 	DisplayName: Reliquia Hiperbórea
 	CustomTooltip: "'Un fragmento de algo mucho más grande'"
@@ -7304,18 +7311,6 @@ IceDeityShard2: {
 
 IceDeityShard3: {
 	DisplayName: Artefacto Hiperbóreo
-	Tooltip: ""
-}
-
-MeteorDyeMaterial: {
-	DisplayName: Fragmento de Fotosfera
-	CustomTooltip: "'Las brasas dentro de la roca aún arden'"
-	Tooltip: ""
-}
-
-RoyalCrown: {
-	DisplayName: Corona Real
-	CustomTooltip: "'Increíblemente adornado a pesar de siglos de desgaste'"
 	Tooltip: ""
 }
 
@@ -7362,6 +7357,7 @@ MarkOfZeus: {
 OlympiumToken: {
 	DisplayName: Ficha de Olimpio
 	Tooltip: Puede ser de interés para un coleccionista...
+	PriceText: "{0} {^0:Ficha de Olimpio;Fichas de Olimpio}"
 }
 
 DuelistLegacy: {
@@ -8079,7 +8075,7 @@ RealityQuill: {
 	Tooltip:
 		'''
 		Crea un desgarro en la realidad, dañando a los enemigos
-			Escribe más rápido para infligir más daño
+		Escribe más rápido para infligir más daño
 		'Escribe tu propio destino'
 		'''
 }
@@ -8126,7 +8122,7 @@ ElectricGun: {
 	DisplayName: Lanzarrayos
 	Tooltip:
 		'''
-		Tus invocaciones se enfocarán en los enemigos golpeados
+		{$CommonItemTooltip.Whips}
 		Los enemigos golpeados pueden crear enlaces estáticos entre sí al ser golpeados por súbditos, infligiendo daño adicional
 		'''
 }
@@ -8380,11 +8376,6 @@ MarbleMinecartItem: {
 
 Zombie_Chest: {
 	DisplayName: Cofre
-	Tooltip: ""
-}
-
-SandPiperItem: {
-	DisplayName: Correlimos
 	Tooltip: ""
 }
 
@@ -8755,6 +8746,17 @@ DragonStatueItem: {
 SlotMachine: {
 	DisplayName: Máquina Tragamonedas
 	Tooltip: ""
+
+	Win: {
+		1: ¡Ganas una campana!
+		2: ¡Ganas una... gelatina?
+		3: ¡Ganas limones!
+		4: ¡Ganas diamantes!
+		5: ¡Ganas una... bomba!
+		6: ¡Ganas una ce... manzana!
+		7: ¡Ganas un lingote de oro!
+		8: ¡Ganas el PREMIO MAYOR!
+	}
 }
 
 ScrapItem1: {
@@ -8784,16 +8786,6 @@ ScrapItem5: {
 
 ScrapItem6: {
 	DisplayName: Chatarra Recuperada
-	Tooltip: ""
-}
-
-VolleyballCourtItem: {
-	DisplayName: Cancha de Voleibol
-	Tooltip: ""
-}
-
-VolleyballNetItem: {
-	DisplayName: Red de Voleibol
 	Tooltip: ""
 }
 

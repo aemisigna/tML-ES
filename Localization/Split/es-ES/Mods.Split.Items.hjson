@@ -3063,7 +3063,7 @@ KitCatClock: {
 }
 
 AltStrandedShipMusicBox: {
-	DisplayName: Barco Varado - Extendida
+	DisplayName: Caja Musical (Barco Varado - Extendida)
 	Tooltip: ""
 }
 
@@ -3840,10 +3840,10 @@ AstroQuiver: {
 	DisplayName: Carcaj Místico
 	Tooltip:
 		'''
-		Aumenta el daño de flechas en un 12% y aumenta enormemente su velocidad
-		20% de probabilidad de no consumir flechas
+		Aumenta el daño de flechas en un 8% y aumenta enormemente su velocidad
+		{$EnchantedArrow.Tooltip}
 		Hace que las flechas se dirijan ligeramente hacia los enemigos
-		Dispara flechas doradas adicionales al usar cualquier arco
+		20% de probabilidad de no consumir flechas
 		'''
 }
 
@@ -3954,12 +3954,7 @@ BuryTheLight: {
 
 EnchantedArrow: {
 	DisplayName: Punta de Flecha Dorada
-	Tooltip:
-		'''
-		Dispara flechas doradas adicionales al usar cualquier arco
-		Consume 20 de mana por disparo
-		No dispara si se coloca en la ranura oculta
-		'''
+	Tooltip: Aumenta la probabilidad de ataque crítico y el daño crítico de las flechas en un {0}%
 }
 
 BlazingScope: {

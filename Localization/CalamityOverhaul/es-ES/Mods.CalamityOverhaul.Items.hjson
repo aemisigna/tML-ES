@@ -1,19 +1,3 @@
-SHPCModTooltipDraw: {
-	InstalledHeader: MÓDULOS INSTALADOS
-	NoModules: NINGUNO
-	BonusHeader: BONIFICACIONES TOTALES DE MÓDULOS
-}
-
-MoldProcessingTable: {
-	DisplayName: Banco de moldes
-	Tooltip:
-		'''
-		Clic derecho para abrir el banco de moldes
-		Descomponer: funde piezas de modificación sobrantes en fragmentos
-		Reforjar: consume fragmentos para producir nuevos moldes; puedes fijar objetivos del códice
-		'''
-}
-
 ElementWhip: {
 	DisplayName: Látigo elemental
 	Tooltip:
@@ -43,18 +27,8 @@ GhostFireWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.Whips}
-		Un largo látigo tejido con la ira de las almas en pena de la mazmorra.
+		Un látigo extremadamente largo tejido con la ira de las almas en pena de la mazmorra.
 		[c/d4bc75: La pura pasión se irradia desde el infierno, animándote a descubrir quién te ha agraviado.]
-		'''
-}
-
-DivineSourceBlade: {
-	DisplayName: Cuchilla Aniquiladora de Oro
-	Tooltip:
-		'''
-		Encadena dos tajos rápidos en un corte pesado cargado
-		El corte pesado desata una colosal media luna dorada de energía de espada
-		"La vida nunca cesa"
 		'''
 }
 
@@ -63,618 +37,90 @@ FoodStallChair: {
 	Tooltip: ¡YO SOY LA SILLA QUE SE ACERCA!
 }
 
-Arbiter: {
-	DisplayName: Árbitro
-	Tooltip:
-		'''
-		Mantén clic izquierdo para cargar y alzar el hacha del juicio
-		Suelta para descargar un tajo hacia abajo, liberando una onda de fuego que se extiende por el suelo hacia ambos lados
-		Cuanto más cargues, mayor será el alcance y el poder de las llamas
-		"El juicio desciende entre llamas"
-		'''
-}
-
-Cloudwalking: {
-	DisplayName: Paseo en las Nubes
-	Tooltip:
-		'''
-		Mantén clic izquierdo para cargar y alzar el gran hacha
-		Suelta para lanzar el hacha hacia adelante, dejando nubes a su paso
-		El hacha vuelve automáticamente hacia ti
-		'''
-}
-
-AnnihilatingUniverse: {
-	DisplayName: Flecha de Aniquilación del Universo
-	Tooltip:
-		'''
-		Las flechas que impactan en los enemigos dejan una estrella brillante en el lugar.
-		Usa el botón derecho para destruir enemigos con el poder de un devorador de dioses.
-		'''
-}
-
-HeavenfallLongbow: {
-	DisplayName: Gran Arco de Caída del Cielo
-	Tooltip:
-		'''
-		Lanza flechas infinitas; la energía del arco iris del fin del mundo llegará después.
-		El botón derecho hace que una flecha del cielo caiga del cielo.
-		Pulsa [KEY] después de cargar para activar el Juicio Universal.
-		[legend]
-		'''
-	Legend:
-		'''
-
-		Hace cien mil millones de años, el fuego de la guerra no se extinguió; 
-		brilla como brasas ardientes, atravesando la eternidad para arder hasta hoy.
-		Son los vestigios del ocaso de los dioses, el resplandor residual de la antigua disolución cósmica, el eco eterno de la vida y la destrucción.
-		El Dios del Resplandor, encarnación del orden galáctico, cayó en la mayor rebelión que el universo jamás haya presenciado.
-		Su cuerpo se fragmentó como estrellas rotas, y sus pedazos se convirtieron en innumerables chispas divinas resplandecientes que se dispersaron por cada rincón de la galaxia.
-		Estas chispas dieron origen a la vida, al conocimiento y a los milagros, pero también trajeron consigo la codicia, la ruina y la profanación. 
-		Los mortales veneran sus restos y los llaman reliquias sagradas;
-		sin embargo, esas maravillas no son más que burdas imitaciones de su poder, símbolos de la arrogancia imprudente de los mortales.
-		Pero entre las infinitas ruinas y reliquias olvidadas, existe un artefacto que supera incluso los milagros divinos.
-		No solo fue testigo de la caída del Dios Supremo, sino que fue el instrumento que lo envió al abismo de la noche eterna: un legendario arco largo.
-		Ardió con la furia del cielo, lanzó la flecha mortal que destrozó el poder del Supremo y puso fin a las ambiciones de los dioses.
-		Con el fin de la guerra, este arco fue sepultado en el flujo del tiempo, perdido entre misterios y leyendas infinitas.
-		Pero ahora, los engranajes del destino vuelven a girar. La furia celestial se enciende de nuevo. 
-		El arco asesino de dioses resurgirá, en medio de la sinfonía de las estrellas, para escribir la historia una vez más con sangre y polvo de estrellas.
-
-		'''
-}
-
-InfiniteIngot: {
-	DisplayName: Lingote Infinito
-	Tooltip: El poder del universo, en tu mano.
-}
-
-TransmutationOfMatterItem: {
-	DisplayName: Consola de Fusión Omega
-	Tooltip:
-		'''
-		Colócalo y haz clic derecho para abrir la mesa de elaboración.
-		"Tu viaje de avaricia comenzará oficialmente."
-		'''
-}
-
-DarkMatterCompressorItem: {
-	DisplayName: Compresor de Materia Oscura
-	Tooltip: Reconfigurando la materia como un agujero negro.
-}
-
-InfinitePick: {
-	DisplayName: Pico de Codicia Universal
-	Tooltip:
-		'''
-		Haz clic derecho para destruir todo lo que toque.
-		Presiona [KEY] para cambiar de forma.
-		"Puedes sentirlo, cada vez que lo sostienes, la tierra de Terraria tiembla de miedo."
-		'''
-}
-
-DarkMatterBall: {
-	DisplayName: Esfera de Materia Oscura
-	Tooltip:
-		'''
-		Ha sido comprimida en un agujero negro, pero milagrosamente sigue siendo estable.
-		Haz clic derecho mientras sostienes el objeto para almacenar cosas dentro.
-		Haz clic derecho con las manos vacías para recuperar los objetos almacenados.
-		'''
-	Contents: Contenido:
-}
-
 NeutronStarIngot: {
 	DisplayName: Lingote de estrella de neutrones
 	Tooltip: El peso de todo, concentrado en la yema de los dedos.
-}
-
-InfinityCatalyst: {
-	DisplayName: Catalizador Infinito
-	Tooltip: Tu codicia está a punto de alcanzar su punto máximo.
-}
-
-DawnshatterAzure: {
-	DisplayName: Amanecer Azure
-	Tooltip:
-		'''
-		Lanza sombras de la corona solar, invocando llamas explosivas al golpear a los enemigos.
-		Mantén clic derecho para embestir con el arma alzada.
-		El fuego purifica el alma, despojando a tus enemigos por completo.
-		'''
-}
-
-DecayParticles: {
-	DisplayName: Partículas de Decaimiento
-	Tooltip:
-		'''
-		Una breve mirada a la esencia de la materia.
-		La existencia misma es un milagro.
-		'''
-}
-
-DecaySubstance: {
-	DisplayName: Materia en Decaimiento
-	Tooltip:
-		'''
-		Está en un continuo proceso de descomposición.
-		Circulando entre la destrucción y el renacimiento.
-		'''
-}
-
-DissipationSubstance: {
-	DisplayName: Materia de Disipación
-	Tooltip:
-		'''
-		La realidad ya no puede capturar su esencia.
-		Se disipa continuamente, pero es inmensa.
-		'''
-}
-
-SpectralMatter: {
-	DisplayName: Materia Espectral
-	Tooltip: Alrededor de 3,7 mil trillones de toneladas.
-}
-
-InfiniteToiletItem: {
-	OnlyZenithCondition: Solo en el mundo Zenith
-
-	InfiniteToiletItem: {
-		OnlyZenithCondition: Solo en el mundo Zenith
-		DisplayName: Retrete infinito
-		Tooltip: ""
-	}
-}
-
-StormGoddessSpear: {
-	DisplayName: Lanza de la Diosa de la Tormenta
-	Tooltip:
-		'''
-		Lanza un beso de tormenta con arcos eléctricos destructivos.
-		Al empuñarla, invoca el alma remanente de la Diosa de la Tormenta para ayudarte en combate.
-		[legend]
-		'''
-	Legend:
-		'''
-		Alina, la hoja más afilada que Terra haya conocido.
-		Su fe era inquebrantable, su combate implacable. Polvo de hierro en la lanza de plata, cabello al viento. La espada del trueno aullaba al pasar.
-		Sin embargo, incluso la hoja más afilada se quiebra y se desmorona; la fe solo encontró la indiferencia de los dioses.
-		Cuando el Supremo dictó sentencia, sus compañeros, su linaje, sus juramentos y su gloria se convirtieron en cenizas.
-		Con sus propios ojos vio cómo la llamada justicia pisoteaba todo... sangre y lágrimas... polvo... cómo en nombre del orden se ejecutaba la destrucción más vil.
-		Dioses... Alina ya no mira a los dioses.
-		Retrocedió al abismo, se destruyó a sí misma y dejó que un poder antiguo y prohibido devorara su alma.
-		La armadura de Alina se fundió en un cuerpo de hierro de las profundidades.
-		Nubes antiguas, sol ensangrentado y el pasado se entrelazaron; la mirada de sus compañeros... y de su linaje al morir... Alina... todo había terminado.
-		Ya no era la Alina de antaño, la diosa de la guerra que protegía Terra.
-		Su furia regresó como una tempestad, arrastrando a los insectos del campo de batalla; su trueno partió cielo y nubes, hendió tronos y tierra.
-		La diosa de la tormenta Alina trajo sin piedad destrucción y venganza.
-		'''
-}
-
-DragonsScaleGreatsword: {
-	DisplayName: Gran hoja de alga dracónica
-	Tooltip:
-		'''
-		Los golpes siguen un combo de tres ataques; el tercero desata un remate draconico más poderoso
-		Los golpes liberan ondas espirales de algas que explotan en nubes de algas tóxicas al impactar
-		Un ataque cuerpo a cuerpo verdadero genera muchas nubes de algas tóxicas
-		Clic derecho invoca un alma draconica esmeralda que carga hacia el cursor, esparciendo nubes tóxicas a su paso
-		'''
-}
-
-CosmicCalamity: {
-	DisplayName: Calamidad Cósmica
-	Tooltip: Ataque genera onda de choque tipo luna creciente
-}
-
-SpearOfLonginus: {
-	DisplayName: Lanza de Longinos
-	Tooltip:
-		'''
-		Mientras la empuñes, una cruz sagrada aparece bajo tus pies y se llena gradualmente de energía divina.
-		Cada vez que la barra se llena, la lanza obtiene una carga, hasta un máximo de seis campos sagrados.
-		Marca con la cruz del destino al enemigo más cercano mientras la sostienes.
-		Golpear a un enemigo marcado con un lanzamiento cargado desata la ira del peregrino.
-		[legend]
-		'''
-	Legend:
-		'''
-
-		“Dios quebrantado, por favor, permíteme redimir mis pecados.” 
-		La guerra se ha extendido por siglos, yo, como el derrotado que huyó de una gran civilización, sobrevivo en este planeta desolado en el borde del universo. 
-		Decenas de miles de años luz lejos, las máquinas de guerra aplastan las estrellas; ataques brutales y aterradores pueden eliminar en un instante años luz de cielo, convirtiéndolo en un dominio de silencio. 
-		Y esta guerra ha durado cientos de años. Ahora, mi gran civilización está al borde del colapso; me convertiré en un pecador del universo, el más irreverente de los blasfemos. 
-		Mis carnes se han descompuesto, mis huesos son arrugas de la vejez, estoy a punto de convertirme en una de las débiles máquinas que creé. 
-		Antes de eso, que el dios me otorgue perdón, absuelva mi falta de respeto hacia esa existencia suprema, para que al caer mi alma, caiga en el abismo del infierno y sufra un dolor infinito. 
-		No obstante, para el bien de mi civilización, para obtener la victoria en esta guerra que abarca siglos, debo absorber el poder fragmentado de esa suprema existencia. 
-		Para guiar su poder misterioso, no tengo otra opción que inyectar frío metal en su cuerpo quebrantado. 
-		Esto es una irreverencia inevitable; para la continuidad de la civilización, para la victoria en la guerra, debo convertirme en el más devoto de los creyentes de esa entidad suprema, el blasfemo más irreverente de todos los tiempos. 
-		'''
 }
 
 BloodAltar: {
 	DisplayName: Altar Carmesí
 	Tooltip:
 		'''
-		Haz clic derecho en el altar para invocar la luna de sangre con gotas de sangre.
-		Colecciona automáticamente las gotas de sangre que caen en el mundo y las guarda en la caja más cercana.
-		"Deja que el mundo sea observado por el carmesí profundo."
-		'''
-}
-
-BarrenBow: {
-	DisplayName: Arco Estéril
-	Tooltip: Las flechas disparadas explotan en corrientes estériles al golpear al enemigo.
-}
-
-ElementMuzzleBrake: {
-	DisplayName: Frenos de Boca Elementales
-	Tooltip:
-		'''
-		Aumenta el daño a distancia un 12%
-		Aumenta la probabilidad de crítico a distancia un 15%
-		Aumenta la velocidad de ataque a distancia un 12%
-		A los enemigos les costará más detectarte
-		'''
-}
-
-EyeOfSingularity: {
-	DisplayName: Horizonte de singularidad
-	Tooltip:
-		'''
-		Aumenta el daño a distancia un 100%
-		Aumenta la probabilidad de crítico a distancia un 100%
-		Aumenta la velocidad de ataque a distancia un 100% y ya no consume munición
-		Eleva el multiplicador de daño crítico de todas las armas a distancia al 500%
-		Tus proyectiles a distancia rasgan el espacio y, al impactar, crean microagujeros negros que atraen y despedazan a los enemigos cercanos
-		Al permanecer inmóvil, entras en estado de horizonte de sucesos:
-		  Te vuelves invisible e inmune a todo daño de contacto
-		  Al disparar, liberas ráfagas de rayos gamma adicionales que persiguen enemigos
-		Obtienes Salto cuántico: pulsa [KEY] para teletransportarte al cursor y eliminar proyectiles enemigos en el trayecto
-		Clic derecho para activar el Protocolo de colapso:
-		  Consume todo tu maná; durante los siguientes 10 segundos, todos tus ataques a distancia ignoran los fotogramas de invulnerabilidad y fuerzan golpes críticos
-		  Enfriamiento: 60 segundos
-		Si recibes un golpe mortal, te conviertes en una supernova, infliges enorme daño en área y te reconstruyes en una posición segura tras 3 segundos
-		Este efecto tiene 60 segundos de enfriamiento
-		[c/33ff33:"El dios dragón dormido se conecta a tus nervios y deconstruye la lógica basal de las almas mecánicas"]
-		[c/ffaa00:"La constelación codiciosa devora el fuego de tus armas y absorbe el último calor de las estrellas moribundas"]
-		[c/00ffff:"El dios invisible de la muerte se vuelve tu sombra y siega el destino inevitable que iguala a todos los seres"]
-		'''
-}
-
-ArcaneThroneOfEternity: {
-	DisplayName: Trono arcano de la eternidad
-	Tooltip:
-		'''
-		Aumenta el daño mágico un 100%
-		Aumenta la probabilidad de crítico mágico un 100%
-		Aumenta la velocidad de ataque mágico un 100%
-		Aumenta el maná máximo en 1000; la regeneración de maná es muy alta y nunca se interrumpe
-		Todos los proyectiles mágicos obtienen penetración infinita
-		Tus ataques mágicos desgarran el velo de la realidad y abren Grietas Arcanas en erupción continua al impactar
-		Todos los ataques mágicos infligen una maldición prohibida aleatoria:
-		  Erosión del Vacío, Estasis temporal, Fuego del alma, Colapso gravitacional o Hiperdesintegración
-		Con más del 90% de maná, entras en el estado «Omnisciencia»:
-		  Todos los proyectiles mágicos persiguen automáticamente a los enemigos y el multiplicador de daño crítico sube al 1000%
-		Obtienes Salto de la Verdad; pulsa [KEY] para rasgar el espacio y entrar en una dimensión superior:
-		  Inmunidad total al daño y movimiento libre durante un breve periodo; al salir, desatas un devastador Temblor de la Realidad
-		  Tiempo de reutilización: 30 segundos
-		Clic derecho para activar «Cálculo de la Raíz»:
-		  Durante los próximos 10 segundos, cada ataque mágico libera simultáneamente 5 hechizos espejo
-		  Tiempo de reutilización: 60 segundos
-		Si recibes un golpe mortal, el tiempo retrocede a tu estado de hace 5 segundos, restaurando vida, maná y posición
-		Este efecto tiene 60 segundos de reutilización
-		Los enemigos tienen más probabilidades de atacarte
-		[c/b84dff:"Un sabio sin nombre abre tu cráneo e inscribe verdades olvidadas más allá de las estrellas"]
-		[c/ffdd66:"El Señor del Cambio tira del urdimbre y la trama del destino, tratando la realidad como un borrador inacabado"]
-		[c/66ffff:"El cadáver sobre el trono dorado te observa; hace tiempo que olvidó qué es la muerte"]
-		'''
-}
-
-PrecisionMuzzleBrake: {
-	DisplayName: Freno de Boca de Alta Precisión
-	Tooltip:
-		'''
-		Aumenta el daño a distancia un 8%
-		Aumenta la probabilidad de crítico a distancia un 10%
-		Aumenta la velocidad de ataque a distancia un 8%
-		A los enemigos les costará más detectarte
-		'''
-}
-
-SimpleMuzzleBrake: {
-	DisplayName: Freno de Boca Simple
-	Tooltip:
-		'''
-		Aumenta el daño a distancia un 5%
-		Aumenta la probabilidad de crítico a distancia un 5%
-		Aumenta la velocidad de ataque a distancia un 5%
-		A los enemigos les costará más detectarte
+		Haz clic derecho en el altar con una Lágrima sangrienta para invocar la Luna de Sangre.
+		Recoge automáticamente las Lágrimas sangrientas y los orbes de sangre que caen en el mundo y guárdalos en el contenedor de almacenamiento más cercano.
+		"Deja que el mundo quede cubierto por el Carmesí."
 		'''
 }
 
 HalibutItem: {
-	DisplayName: Fletán
+	DisplayName: Halibut
 	Tooltip: ""
+}
+
+HalibutPilotChart: {
+	DisplayName: Carta de Navegación
+	Tooltip:
+		'''
+		Úsala para abrir la guía de Halibut desde el principio o vuelve a usarla a mitad de la guía para guardarla
+		Se queda contigo si rechazas la guía inicial; la carta no se consume y puede volver a usarse
+		'''
+	NeedFish: Halibut no está en tu bolsa, así que la carta no tiene nada que pilotar
+	HoldFish: La carta está desplegada; sostén a Halibut y comenzará la guía
+	Closed: La guía se ha guardado; vuelve a usar la carta para abrirla
+	NotNow: Ahora mismo otra cosa ocupa el escenario
+}
+
+OnikiriItem: {
+	DisplayName: Onikiri
+	Tooltip:
+		'''
+		Mantén clic izquierdo para ejecutar el combo Tajo Carmesí de cinco tiempos; los golpes acertados acumulan Postura
+		Pulsa [DASH] para gastar Vigor en un Paso Relámpago Kamui
+		La tecla Expansión de Dominio despliega o pliega el Dominio Oni; la tecla Cambiar Dominio lo voltea entre Omote y Ura
+		En Omote, mantén [SAKURA] para desplazarte como pétalos de sakura (un desplazamiento también encadena este movimiento); suelta o agota el recurso para reformarte en el sitio
+		En Ura, apunta a un enemigo y haz clic izquierdo para seccionar su cuerpo verdadero; quien empuña la hoja sufre entonces una reacción del 25% de la vida máxima
+		Durante la breve ventana tras terminar un desplazamiento o Vuelo de Sakura, haz clic izquierdo para un Golpe Zanshin
+		Con la mitad de Postura o más, pulsa [DASH] otra vez durante el desplazamiento o dentro del segundo posterior para encadenar un desplazamiento de ejecución gratuito
+		Después de un desplazamiento de ejecución, haz clic izquierdo para un Destello Aniquilador; con la Postura llena, un desplazamiento de ejecución que atraviese al objetivo libera directamente el Tajo Final
+		Con la Postura llena, pulsa [EXECUTE] para fijar automáticamente el objetivo, desplazarte y liberar el Tajo Final; sin objetivo golpea hacia el cursor
+		Un desplazamiento de ejecución no cuesta Vigor; uno que nunca se convierte no pierde nada
+		[Lang4]
+		legend_Text
+		'''
+}
+
+KikasaItem: {
+	DisplayName: Kikasa
+	Tooltip:
+		'''
+		Mientras la sostienes, Kikasa queda detrás de tu hombro y se inclina para salpicar tinta a los enemigos cercanos cuando no estás atacando
+		Mantén clic izquierdo para sostener el paraguas sobre tu cabeza y dejar caer lluvia de tinta teledirigida a un ritmo constante
+		Mantén clic derecho para cargar tinta boca abajo; suelta para verter un torrente de tinta
+		Mientras la sostienes, pulsa Expansión de Dominio para levantar el Lago de Sangre; pulsa otra vez para cerrarlo
+		Cuando el agua te llegue a los pies, sostén un objeto y pulsa Hundir en el lago para guardarlo; recupéralo en el Corazón del lago
+		Pulsa la misma tecla apuntando a un enemigo para ahogarlo; un jefe ahogado deja una sombra hundida
+		Haz clic en la campanilla de viento de abajo a la izquierda para abrir el Corazón del lago y colocar sombras en tres ranuras; lucharán por ti como súbditos
+		Mantén la tecla de la rueda para hacer salir o volver a las sombras de una en una; cuantas menos haya fuera, más fuerte golpea cada una
+		El sector de llama dorada de la rueda enciende el fuego fantasmal, que se extiende por la orilla y quema a los enemigos que toca
+		Con el agua llena, pulsa Voltear el lago (clic central por defecto) para alternar entre el Lago de Sangre y la Lluvia Fantasmal
+		Los enemigos muertos bajo la lluvia fantasmal se levantan como súbditos paraguas que luchan por ti
+		Con el agua llena y la lluvia fantasmal activa, pulsa Autorreinicio para rebobinar unos segundos todo lo cercano, rellenar tu vida y limpiar las penalizaciones
+		Con el agua llena, mantén Voltear el lago para hundirte en el Sueño fantasmal: allí los enemigos están indefensos y no puede existir ningún proyectil a distancia
+		Los objetos quedan sellados en el sueño; mantén clic izquierdo para soltar a los sabuesos y pulsa la misma tecla otra vez para despertar
+		Pulsa Teletransporte de Dominio para deslizarte por un charco hasta tu cursor; es más rápido dentro del Lago de Sangre
+		Más ranuras de súbdito aceleran el ritmo de la lluvia, añaden más gotas y aceleran la carga
+		4 ranuras: cada ritmo lanza una gota adicional a un segundo objetivo
+		7 ranuras: cada cuarto ritmo lanza todas las gotas a la vez
+		10 ranuras: las gotas pesadas dejan charcos de tinta ardiente; un torrente completo estalla en tres géiseres de tinta
+		[Lang4]
+		legend_Text
+		«Bajo el paraguas no hay lluvia, solo el sonido del agua»
+		'''
 }
 
 SHPCItem: {
 	DisplayName: SHPC
 	Tooltip: ""
-}
-
-AvalancheM60: {
-	DisplayName: Avalancha M60
-	Tooltip:
-		'''
-		Usa bolas de nieve como munición.
-		Dispara una gran cantidad de bolas de nieve; el poder aumenta a medida que disminuye la munición.
-		Cada 20 disparos, entra en un estallido de sobrecarga, causando una pequeña avalancha.
-		"Denji, vamos a jugar una guerra de bolas de nieve."
-		'''
-}
-
-CrystalDimming: {
-	DisplayName: Era de Hielo
-	Tooltip:
-		'''
-		Usa bolas de nieve como munición
-		Dispara proyectiles de cristal que levantan picos glaciares del suelo en el punto de impacto
-		Los picos crecen más alto cerca de grupos de cristales ya existentes
-		Clic derecho libera una ola glacial que levanta una cresta de hielo cada vez más alta a lo largo del terreno
-		"La tierra recuerda cada helada"
-		'''
-}
-
-DarkFrostSolstice: {
-	DisplayName: Divinidad del Invierno
-	Tooltip:
-		'''
-		Usa bolas de nieve como munición.
-		Dispara granizo y fuego polar; los ataques tienen la posibilidad de congelar a los enemigos.
-		Cada 20 disparos, entra en un estallido de sobrecarga, generando un gran pilar de hielo en la posición del mouse.
-		'''
-}
-
-SnowQuay: {
-	DisplayName: Víbora de Nieve M16
-	Tooltip:
-		'''
-		Usa bolas de nieve como munición
-		Mantén clic izquierdo para soplar una densa corriente de nieve contra los enemigos
-		Al soplar se acumula presión en la cámara de compactación
-		Suelta clic izquierdo con suficiente presión para lanzar una bola de nieve compactada
-		"La alegría del invierno empieza con una sopladora de nieve"
-		'''
-}
-
-NeutronGlaive: {
-	DisplayName: Corte de dominio negro
-	Tooltip:
-		'''
-		Agita la hoja para lanzar poderosas ondas gravitacionales, 
-		generando una explosión de estrella de neutrones al impactar
-		Haz clic derecho para cargar la espada, 
-		al soltarla puedes provocar una gran explosión de estrella de neutrones en el cursor
-		Si sueltas antes de completar la carga, la energía se desbordará
-		'''
-}
-
-NeutronBow: {
-	DisplayName: Arco de Rohi
-	Tooltip:
-		'''
-		Lanza flechas gravitatorias que generan rayos gamma al impactar
-		Haz clic derecho para cargar hasta tres niveles, 
-		al llenar la carga, lanzará tres poderosas flechas gravitatorias
-		'''
-	Lang1: Capturando la gravedad
-	Lang2: Haciendo ceder la gravedad
-	Lang3: ¡Listo!
-}
-
-NeutronGun: {
-	DisplayName: Cazador estelar
-	Tooltip:
-		'''
-		Lanza proyectiles gravitatorios que crean puntos de curvatura al impactar
-		Haz clic derecho para cambiar a modo francotirador, 
-		lanzando balas gravitatorias más poderosas que generan rayos gamma al impactar
-		Cada disparo carga el arma, al llenar la carga, 
-		un disparo en el ratón provocará una explosión de estrella de neutrones
-		"¡Dispara al sol!"
-		'''
-}
-
-NeutronWand: {
-	DisplayName: Luz de la tumba estelar
-	Tooltip:
-		'''
-		Lanza cuatro poderosas estrellas gravitatorias
-		Haz clic derecho para lanzar magia gravitacional en el ratón
-		"Se dice que en tiempos antiguos, un poderoso psíquico comprimió estrellas en un agujero negro con este bastón,
-		pero ya no hay forma de verificarlo, se ha convertido en un canto fragmentado de los nómadas interestelares"
-		'''
-}
-
-NeutronScythe: {
-	DisplayName: Heraldo del agujero negro
-	Tooltip:
-		'''
-		Una guadaña de neutrones que gira a gran velocidad, lanza rayos gamma a los enemigos cercanos y deja puntos de detonación por distorsión a lo largo de su trayectoria
-		Clic derecho: desata una Explosión de Agujero Negro, arrojando trece guadañas en un círculo completo
-		'''
-}
-
-RebelBlade: {
-	DisplayName: Espada Rebelde
-	Tooltip:
-		'''
-		Un ataque cuerpo a cuerpo verdadero generará numerosas esferas de luz demoníaca alrededor del objetivo
-		Controla el vuelo de la espada con el botón derecho y corta hacia la posición del cursor
-		'''
-}
-
-MG42: {
-	DisplayName: MG42
-	Tooltip:
-		'''
-		Tiro continuo provocará sobrecalentamiento del cañón
-		Convierte las balas de pistola en proyectiles de perforación
-		'''
-}
-
-DragonsWord: {
-	DisplayName: Palabra del Dragón
-	Tooltip:
-		'''
-		Lanza lágrimas de dragón que giran y persiguen a los enemigos después de un tiempo
-		Presiona el botón derecho para lanzar el hechizo de dragón en la posición del cursor, 
-		ordenando la muerte a los enemigos en el área
-		"Un dragón solo puede llorar una vez en su vida"
-		'''
-}
-
-SnowQuayMK2: {
-	DisplayName: Víbora de Nieve MK2
-	Tooltip:
-		'''
-		Utiliza bolas de nieve como munición
-		Refit militar con compresor criogénico que funde bolas de nieve en carámbanos de alta velocidad
-		Clic izquierdo dispara ráfagas de tres tiros; el último es un carámbano pesado que estalla en cristales al impactar
-		Clic derecho libera una dispersión de carámbanos de corto alcance por sobrepresión
-		"La Víbora de Nieve de segunda generación ya no necesita precalentamiento"
-		'''
-}
-
-JusticeUnveiled: {
-	DisplayName: Manifestación de la justicia
-	Tooltip:
-		'''
-		Los ataques a distancia acumulan cargas de «Golpe de justicia», hasta un máximo de 5
-		Pulsa [UP] para gastar 1 carga e invocar un devastador impacto sagrado
-		«Si la justicia es necesaria, iré adonde sea que me llame»
-		'''
-}
-
-WeaverGrievances: {
-	DisplayName: Rencor enredado
-	Tooltip:
-		'''
-		Desata un gran número de garras de espíritus malignos con efectos especiales en el infierno y la mazmorra
-		Clic derecho para rodar hacia el cursor; golpear a un enemigo durante la rodada otorga un fotograma de invulnerabilidad
-		Una rodada a corta distancia cuenta como una esquiva perfecta
-		[legend]
-		'''
-	Legend:
-		'''
-		La mazmorra eterna se extiende por la tierra, sus muros grabados con inscripciones y gritos de antiguos guerreros.
-		Cada piedra está impregnada de malicia persistente, como cadenas de los condenados, atándola a la oscuridad infinita del fin de los tiempos.
-		Estos guerreros fueron alguna vez las espadas de su rey, luchando por todos los reinos.
-		Sus hojas iluminaron innumerables campos de batalla; su sangre forjó el imperio imponente.
-		Su lealtad era tan duradera como las estrellas, su convicción tan inflexible como el hierro.
-		Sin embargo, cuando las guerras cesaron y los estandartes del señor demonio se desgarraron a los pies del rey,
-		en el instante en que llegó la paz, el rey decretó su envío al abismo.
-		«¡No traicionamos, pero el rey nos ha traicionado!» Los lamentos de los condenados rasgaron el vacío y perforaron el silencio de la eternidad.
-		Sus nobles espíritus no volvieron al polvo, sino que quedaron prisioneros en el abismo del vacío, testigos de la noche eterna.
-		Las lamentaciones incesantes se transformaron en una acusación silenciosa que alcanzó los confines de las estrellas.
-		Se dice que el rey, temiendo su lealtad inquebrantable y el fuego de su ira,
-		escuchó los susurros de los hechiceros del señor demonio y eligió confinar a estos guerreros en las sombras de la historia.
-		Pero la malicia, como una marea, distorsionó la realidad de la mazmorra. Su sufrimiento sacudió las barreras del tiempo y el espacio, tejiendo una profecía de venganza:
-		«¡El señor demonio regresará, el vacío se desgarrará y nuestra ira lo consumirá todo!»
-		Cuando Terra vuelva a enfrentar el borde de la aniquilación, estos muertos inquietos se alzarán de la oscuridad.
-		Sus espadas ya no lucharán por la gloria de un imperio, sino por el juicio del traidor.
-		La gloria y la lealtad hace tiempo que se extinguieron: solo quedan las llamas de la venganza, destinadas a devorarlo todo.
-		'''
-}
-
-Starship: {
-	DisplayName: Nave estelar colosal
-	Tooltip:
-		'''
-		El fuego continuo acumula calor y aumenta la cadencia de disparo con el tiempo
-		Clic derecho consume munición y carga un proyectil cometa; el siguiente disparo lo lanza con gran daño e inflige hiperdesintegración
-		Al alcanzar el calor máximo, dos escoltas vuelan a tu lado disparando rayos estelares con seguimiento; periódicamente se arrojan planetas desde detrás
-		Al soltar el gatillo se desata el final: 14 meteoros con seguimiento que ignoran la defensa y una microgalaxia caen sobre el cursor
-		'''
-}
-
-SandDagger: {
-	DisplayName: Daga de arena
-	Tooltip:
-		'''
-		Se lanza en línea recta, atraída ligeramente hacia abajo por la gravedad
-		Se incrusta al impactar; si se clava en arena, se carga antes de salir disparada hacia arriba, liberando una onda de choque telúrica y una andanada de púas de arena
-		'''
-}
-
-UnderTheSand: {
-	DisplayName: Bajo la arena
-	Tooltip:
-		'''
-		Lanza un par de oleadas de arena que caen en arco bajo la gravedad
-		Al impactar el suelo, una púa de arena vertical brota desde abajo y lanza a los enemigos al cielo
-		'''
-}
-
-WastelandFang: {
-	DisplayName: Colmillo del yermo
-	Tooltip:
-		'''
-		Rebota en los bloques y acelera al retraerse
-		Abre la boca y escupe varias esferas de arena
-		'''
-}
-
-MelodyTheSand: {
-	DisplayName: Melodía de la arena
-	Tooltip:
-		'''
-		Dispara un pequeño tornado de arena que cae al suelo bajo la gravedad
-		Una vez en tierra, patrulla de un lado a otro por la superficie, girando ante muros y precipicios
-		Arroja repetidamente a los enemigos golpeados hacia el cielo
-		'''
-}
-
-SandVortexOfTheDecayedSea: {
-	DisplayName: Vórtice de arena del mar putrefacto
-	Tooltip:
-		'''
-		Invoca un colosal vórtice del mar putrefacto en el cursor
-		El vórtice atrae y desgarra sin cesar a los enemigos cercanos, incluso deshaciendo proyectiles hostiles
-		Periódicamente arroja hacia fuera esferas del mar putrefacto con seguimiento
-		Volver a disparar renueva el vórtice existente; al colapsar naturalmente estalla en un anillo de esferas
-		«El rugido de las profundidades podridas, removido en arena»
-		'''
-}
-
-DuneStalker: {
-	DisplayName: Acechador de dunas
-	Tooltip:
-		'''
-		Dispara una cabeza de gancho unida por cadena en lugar de consumir la munición directamente
-		El gancho desgarra a los enemigos a su paso y luego se recoge automáticamente al impactar o al alcanzar su alcance máximo
-		'''
-}
-
-SeasonalKunai: {
-	DisplayName: Kunai de las estaciones
-	Tooltip:
-		'''
-		Lanza cuatro kunai principales en abanico; cada una perfora profundamente y crece durante su vuelo
-		Al impactar o expirar, cada hoja se divide en tres kunai secundarios que se abren en abanico
-		Alborada de día, Marchitez nocturna de noche
-		"Reflejo de las cuatro estaciones"
-		'''
-}
-
-WraithKunai: {
-	DisplayName: Kunai espectral
-	Tooltip:
-		'''
-		Lanza tres hojas carmesí en abanico; cada una flota brevemente antes de embestir a alta velocidad al enemigo más cercano
-		Las embestidas liberan chispas carmesí y temblores de pantalla; al final de su vuelo, las hojas detonan en ondas de choque que queman el alma
-		Incendia de día, quema el alma de noche
-		'''
 }
 
 CalSelfPortrait: {
@@ -696,20 +142,9 @@ HandmadeDoll: {
 	DisplayName: Muñeca cosida a mano
 	Tooltip:
 		'''
-		Úsala en el Inframundo para invocar a Muro carnoso
+		Úsala en el Inframundo para invocar al Muro carnoso
 		Si el Guía está vivo, será sacrificado al usarla
 		"Hecha a mano, y el Guía no lo sabe"
-		'''
-}
-
-Snowblindness: {
-	DisplayName: Ceguera por Nieve
-	Tooltip:
-		'''
-		Lanza bolas de nieve y rayos de frío extremo a alta frecuencia.
-		Cuando impacta a los enemigos, genera rayos EX de frío extremo a su alrededor.
-		"Perdido en la tormenta de nieve, esperando eternamente, mapa de dolor, adelantamiento en curvas,
-		lentes agrietadas, manchas de sangre secas, hielo rojo, castores llorando, sombras humanas en el hielo."
 		'''
 }
 
@@ -723,100 +158,6 @@ WhiplashGalactica: {
 		'''
 }
 
-FocusingGrimoire: {
-	DisplayName: Grimorio de concentración
-	Tooltip:
-		'''
-		Clic izquierdo para lanzar el anillo térmico con seguimiento
-		Clic derecho para disparar rápidamente el rayo mortal
-		"Un libro vale más que seis."
-		'''
-}
-
-CommandersStaff: {
-	DisplayName: Bastón del comandante
-	Tooltip:
-		'''
-		Envía un rayo de descomposición térmica a través del enemigo
-		"Del brazo de esa máquina. ¿Y si usas poder psiónico en lugar de diésel?"
-		'''
-}
-
-RaiderGun: {
-	DisplayName: Asaltante
-	Tooltip:
-		'''
-		Convierte balas de mosquete en proyectiles de alta velocidad
-		Clic derecho para rodar y recargar el cargador
-		El primer disparo tras la rodada se convierte en una granada del Destructor
-		«Perfecto para rescates de rehenes en interiores»
-		'''
-}
-
-HyperionBarrage: {
-	DisplayName: Torreta automática Hyperion
-	Tooltip:
-		'''
-		Dispara misiles de crucero térmicos
-		«Aprovechar al máximo todo»
-		'''
-}
-
-RaiderGunEX: {
-	DisplayName: Asaltante EX
-	Tooltip:
-		'''
-		Convierte balas de mosquete en proyectiles de alta velocidad
-		Además dispara una andanada de misiles teledirigidos del Destructor
-		Clic derecho para rodar y recargar el cargador
-		El primer disparo tras la rodada se convierte en una granada del Destructor
-		«Bombardeo en alfombra»
-		'''
-}
-
-CommandersChainsaw: {
-	DisplayName: Motosierra del comandante
-	Tooltip:
-		'''
-		Genera chispas al golpear un objetivo
-		«Añade más diésel»
-		'''
-}
-
-GeminisTribute: {
-	DisplayName: Más allá de los Gemelos
-	Tooltip:
-		'''
-		Lanza alternativamente una guadaña de Retinazer y otra de Spazmatism, cortando de ida y vuelta por una trayectoria sinusoidal
-		Clic derecho: lanza ambas guadañas en un arco cruzado; al impactar, un ojo fusionado de los Gemelos se condensa y desata pulsos bicolores por la zona
-		"Solo puede existir una personalidad dominante, y está claro que el Ojo de magmaflama ha ganado."
-		'''
-}
-
-Dicoria: {
-	DisplayName: Dicoria
-	Tooltip:
-		'''
-		Dispara dos balas y puede cargarse
-		Al completar la carga libera un rayo térmico
-		«Por cierto, ¿no nos va a dar estrabismo?»
-		'''
-}
-
-DestroyersBlade: {
-	DisplayName: Hoja del Destructor
-	Tooltip:
-		'''
-		Dispara ráfagas térmicas
-		«Contiene el inmenso núcleo energético del Destructor»
-		'''
-}
-
-Observer: {
-	DisplayName: Observador
-	Tooltip: «Sigue observándote»
-}
-
 StaffoftheDestroyer: {
 	DisplayName: Bastón del Destructor
 	Tooltip:
@@ -827,28 +168,15 @@ StaffoftheDestroyer: {
 		'''
 }
 
-CommandersClaw: {
-	DisplayName: Garra del comandante
+EyekiteStaff: {
+	DisplayName: Cometa de mirada atada
 	Tooltip:
 		'''
-		Lanza una ornamentada lanza de comandante cuya punta siempre mira hacia delante
-		Cada impacto libera chispas metálicas, ondas de choque y una breve sacudida de pantalla
-		Pueden volar varias lanzas a la vez, clavándose en el terreno o quedando brevemente incrustadas en los enemigos golpeados
+		Invoca un pequeño Ojo de Cthulhu atado a ti con un cordón de tendón rojo y blanco
+		Flota como una cometa y se esfuerza por escapar hasta que la cuerda lo devuelve
+		Cerca de los enemigos se abalanza con fuerza y luego el cordón lo hace volver como golpe final
+		Se pueden invocar varios ojos a la vez
 		'''
-}
-
-CommandersStaffEX: {
-	DisplayName: Bastón del comandante EX
-	Tooltip:
-		'''
-		Dispara múltiples rayos térmicos en abanico
-		«Adecuado para cortar metal»
-		'''
-}
-
-CommandersChainsawEX: {
-	DisplayName: Motosierra del comandante EX
-	Tooltip: «Desmenuza todo lo que se interponga en tu camino»
 }
 
 SoulofFrightEX: {
@@ -878,154 +206,9 @@ SoulofSightEX: {
 		'''
 }
 
-DestroyersBladeEX: {
-	DisplayName: Hoja del Destructor EX
-	Tooltip:
-		'''
-		Lanza una ráfaga térmica
-		«Destruir siempre es más fácil que construir»
-		'''
-}
-
-ThermalGenerator: {
-	DisplayName: Generador térmico
-	Tooltip:
-		'''
-		Introduce combustible para generar electricidad
-		Clic derecho en el bloque inserta combustible rápidamente; Mayús + clic derecho lo extrae
-		'''
-}
-
-ThermalBattery: {
-	DisplayName: Batería térmica
-	Tooltip: Almacena una cantidad determinada de energía eléctrica
-}
-
-WindGrivenGenerator: {
-	DisplayName: Generador eólico
-	Tooltip: Se mueve con el viento y genera electricidad
-	UnderstandWindGriven: Se requiere una comprensión inicial del funcionamiento de la energía eólica
-	UnderstandWindGriven2: Hay que excavar viejas máquinas eólicas en los asteroides para entender cómo se fabrican
-}
-
-WindGrivenGeneratorMK2: {
-	DisplayName: Generador eólico MK2
-	Tooltip: Se mueve con el viento y genera electricidad
-	UnderstandWindGrivenMK2: Se requiere una comprensión profunda de la energía eólica
-	UnderstandWindGrivenMK2Remind: Hay que extraer las turbinas eólicas gigantes de los asteroides para entender sus principios de fabricación
-}
-
-ThermalGeneratorMK2: {
-	DisplayName: Generador térmico MK2
-	Tooltip:
-		'''
-		Introduce combustible para generar electricidad
-		Clic derecho en el bloque inserta combustible rápidamente; Mayús + clic derecho lo extrae
-		'''
-}
-
-WGGMK2Wilderness: {
-	DisplayName: Turbinas eólicas gigantes en la naturaleza
-	Tooltip: ""
-}
-
-WGGWilderness: {
-	DisplayName: Turbinas eólicas en la naturaleza
-	Tooltip: ""
-}
-
-TeslaElectromagneticTower: {
-	DisplayName: Torre electromagnética Tesla
-	Tooltip:
-		'''
-		Requiere energía eléctrica para funcionar
-		Tras colocarla en el suelo, clic derecho para alternar entre modo ataque y modo guardia
-		En modo ataque emite arcos eléctricos a los enemigos cercanos
-		En modo guardia aplica electrificación a todos los enemigos en el radio; si un jugador está dentro
-		y sostiene un objeto recargable, la torre emitirá arcos para recargarlo a distancia
-		«Ingenieros, mantengan la distancia»
-		'''
-}
-
-EmblemOfDread: {
-	DisplayName: Emblema del temeroso a la muerte
-	Tooltip:
-		'''
-		Aumenta el daño cuerpo a cuerpo un 100%
-		Aumenta la probabilidad de crítico cuerpo a cuerpo un 100%
-		Aumenta la velocidad cuerpo a cuerpo un 100%
-		Aumenta la defensa en 100, ignorando toda reducción y pérdida de defensa
-		Reduce el daño recibido un 75% y refleja 100 veces el daño al atacante
-		Todos los ataques cuerpo a cuerpo infligen la penalización Erosión del vacío
-		Los ataques cuerpo a cuerpo verdaderos pueden borrar al instante enemigos con menos de 250 000 PV
-		Al moverte a gran velocidad dejas puntos de distorsión en tu camino que infligen daño extremo
-		Otorga la habilidad de Embestida gravitacional; pulsa [KEY] para embestir a gran distancia y liberar rayos gravitacionales masivos
-		Si recibes daño letal, recuperas la vida al instante y obtienes un escudo gravitacional (60 s de enfriamiento)
-		Los enemigos tienen más probabilidades de apuntarte a ti
-		[c/d94fff:"Un ángel santificado cubre tu mirada y susurra mentiras eternas y empalagosas"]
-		[c/ff4d4d:"Un carnicero empapado en sangre alza tus dos hojas y proclama que solo la matanza trae gloria"]
-		[c/4da6ff:"Una paloma azur picotea tu frente y se burla de tu lucha insignificante"]
-		'''
-}
-
-ElectricMinRocket: {
-	DisplayName: Minicohete eléctrico
-	Tooltip:
-		'''
-		Clic derecho para usar el cohete, o colócalo en el suelo y clic derecho para iniciar el vuelo
-		En el aire usa las flechas izquierda o derecha para ajustar la dirección
-		Mantén la flecha abajo para descender lentamente; el vuelo consume electricidad gradualmente
-		Pulsa la barra espaciadora para interrumpir el vuelo
-		«Fabricado en la Unión Soviética, robusto y fiable; casi llegó a la Luna»
-		'''
-}
-
-UEPipeline: {
-	DisplayName: Tubería de energía
-	Tooltip:
-		'''
-		Se usa para transmitir energía eléctrica
-		Clic derecho para desmontar y recuperar rápidamente la tubería en la posición del cursor
-		Conecta generadores y otras fuentes de energía con baterías u otros dispositivos eléctricos
-		'''
-}
-
-EnergySword: {
-	DisplayName: Espada de energía
-	Tooltip:
-		'''
-		Consume energía para disparar láseres que perforan varios enemigos
-		«El rendimiento no es muy alto»
-		'''
-}
-
-LaserPistol: {
-	DisplayName: Pistola láser
-	Tooltip:
-		'''
-		Consume energía para disparar láseres que perforan varios enemigos
-		«El rendimiento no es muy alto»
-		'''
-}
-
-HyperionBarrageEX: {
-	DisplayName: Torreta Hyperion EX
-	Tooltip:
-		'''
-		Dispara misiles de crucero térmicos; al impactar se dividen en seis subproyectiles que causan daño secundario
-		«Más allá de su uso previsto»
-		'''
-}
-
-MiningMachine: {
-	DisplayName: Máquina minera
-	Tooltip:
-		'''
-		Extrae minerales consumiendo energía eléctrica
-		Debe colocarse en un lugar adecuado para funcionar correctamente
-		En entornos especiales se pueden extraer minerales especiales
-		'''
-	DontWork: Debe colocarse sobre una superficie dura para realizar operaciones de minería
+CircuitBoard: {
+	DisplayName: Placa de circuitos
+	Tooltip: Componente electrónico básico de las máquinas industriales
 }
 
 HoChaMeditatorItem: {
@@ -1033,94 +216,9 @@ HoChaMeditatorItem: {
 	Tooltip: ""
 }
 
-Collector: {
-	DisplayName: Recolector
-	Tooltip:
-		'''
-		Consume electricidad para recoger objetos
-		Recoge automáticamente los objetos cercanos y los deposita en el cofre más próximo
-		No funcionará si no hay cofres cerca
-		Clic derecho con un objeto en la mano para marcarlo y que solo recoja ese tipo
-		'''
-	Text1: ¡Cantidad excesiva!
-	Text2: ¡No hay cofres cerca!
-	Text3: ¡Falta de electricidad!
-}
-
-WGGCollector: {
-	DisplayName: Chatarrero
-	Tooltip:
-		'''
-		Le apasiona reciclarlo todo, incluido a ti
-		Para él no hay diferencia esencial entre una botella de plástico y tu columna vertebral
-		'''
-}
-
-LaserEnergyTrans: {
-	DisplayName: Transmisor láser de energía
-	Tooltip:
-		'''
-		Transmisión remota de electricidad
-		Tras colocarlo, clic derecho activa la navegación láser; vuelve a hacer clic derecho en otras instalaciones eléctricas para enlazarlas
-		Cuanto mayor sea la distancia, mayor será la pérdida de energía, hasta un máximo del 100%
-		'''
-}
-
 MetalMusicBox: {
 	DisplayName: Caja de música (Motín Mecánico)
 	Tooltip: Reproduce «Fall of the Bit» de Ryusa
-}
-
-Hydroelectric: {
-	DisplayName: Central hidroeléctrica
-	Tooltip:
-		'''
-		Genera electricidad al colocarse en el agua
-		«Una aplicación de la mecánica de fluidos»
-		'''
-}
-
-HydroelectricMK2: {
-	DisplayName: Central hidroeléctrica MK2
-	Tooltip:
-		'''
-		Genera electricidad al colocarse en el agua
-		«Una aplicación de la mecánica de fluidos»
-		'''
-}
-
-CreativeUEPipeline: {
-	DisplayName: Tubería de energía divina
-	Tooltip: ""
-}
-
-ItemFilter: {
-	DisplayName: Placa de filtro de objetos
-	Tooltip:
-		'''
-		Úsala para abrir el panel de filtros
-		Clic derecho en una máquina compatible para aplicarla
-		Clic izquierdo en un cofre para copiar su contenido como reglas de filtrado
-		'''
-}
-
-SporeBubbleBlaster: {
-	DisplayName: Cañón de burbujas de esporas
-	Tooltip: Dispara un chorro de esporas
-}
-
-TomeofFungalDecay: {
-	DisplayName: Tomo de decadencia fúngica
-	Tooltip: Dispara un anillo de esporas
-}
-
-FungalRevolver: {
-	DisplayName: Revólver fúngico
-	Tooltip:
-		'''
-		Convierte las balas de mosquete en proyectiles fúngicos
-		"Después de lavarlo, ya no sirve"
-		'''
 }
 
 FungalFeed: {
@@ -1145,52 +243,13 @@ MushroomSaddle: {
 	UseCombat: Solo puede aplicarse al cangrejo esporífero
 }
 
-SporeboundRoller: {
-	DisplayName: Rodador esporífero
-	Tooltip:
-		'''
-		Tras golpear a un enemigo genera un pequeño hongo flotante
-		"Les encanta rodar sin parar"
-		'''
-}
-
-Spectrometer: {
-	DisplayName: Espectrómetro
-	Tooltip:
-		'''
-		Permite teñir objetos con color
-		Requiere electricidad para funcionar
-		'''
-}
-
-SporeburstPouch: {
-	DisplayName: Bolsa de esporas
-	Tooltip:
-		'''
-		Lanza una granada de esporas que detona al impactar o al agotarse su tiempo de vida
-		Libera una onda de choque tóxica y un enjambre de esquirlas de esporas con seguimiento; los enemigos golpeados quedan Envenenados
-		'''
-}
-
-Pallbearer: {
-	DisplayName: Portador del féretro
-	Tooltip:
-		'''
-		Mantén clic izquierdo para cargar; al soltar dispara una flecha del portador
-		Cuanto más cargues, más poderosa será la flecha
-		Clic derecho para lanzar la ballesta
-		Golpear a un enemigo potencia mucho la siguiente flecha y acelera la carga
-		"También conocido como el portador del ataúd"
-		'''
-}
-
 EncyclopediaofOceanicKnowledge: {
 	DisplayName: Enciclopedia del conocimiento oceánico
 	Tooltip:
 		'''
 		Al usarla obtienes al instante el conocimiento de todas las especies de peces
 		Desbloquea todas las habilidades relacionadas con la pesca
-		[c/FFD700:La sabiduría del océano convergerá en ti]
+		[c/FFD700: La sabiduría del océano convergerá en ti]
 		'''
 	Text1: Ya dominas todo el conocimiento
 	Text2: ¡Has adquirido [NUM] tipos de conocimiento sobre peces!
@@ -1230,119 +289,6 @@ SirenMusicalBox: {
 	DeathText: "{0} se desintegró en carne putrefacta bajo un ataque desconocido"
 }
 
-Heartcarver: {
-	DisplayName: Tallacorazones
-	Tooltip:
-		'''
-		Genera tres dagas rituales adicionales que giran alrededor del jugador.
-		Tras completar la carga, vuelan hacia el objetivo.
-		Clic derecho para una estocada a corta distancia.
-		'''
-}
-
-OniMachete: {
-	DisplayName: Machete oni
-	Tooltip:
-		'''
-		Al empuñarlo genera seis manos oni que ayudan en combate.
-		Los ataques cuerpo a cuerpo verdaderos liberan llamas fantasmales.
-		'''
-}
-
-Pandemonium: {
-	DisplayName: Pandemonio
-	Tooltip:
-		'''
-		Clic izquierdo para cargar y liberar magia trascendente
-		Clic derecho para lanzar una runa de azufre en el cursor
-		Pulsa [PandemoniumQSkill] para desatar el Juicio de azufre
-		Pulsa [PandemoniumRSkill] para ejecutar El fin de todos los demonios
-		'''
-}
-
-Proverbs: {
-	DisplayName: Proverbio
-	Tooltip:
-		'''
-		Genera una pequeña runa de azufre detrás de ti
-		Otorga inmunidad a la mayoría de efectos negativos de fuego
-		La mayoría de tus ataques infligen la maldición Marchito
-		[Content]
-		'''
-	L1:
-		'''
-		Inflige el doble de daño a la Bruja de Azufre;
-		sus ataques pueden golpearte de forma crítica
-		'''
-	L2:
-		'''
-		Si puedes leer esto, probablemente ya no estoy.
-		A lo largo de mis largos años, este anillo fue lo único que sentí verdaderamente frío.
-		Pero en algún momento absorbió el calor de un mortal... y se volvió... demasiado ardiente para soltarlo.
-		He regresado al azufre, reducido a las cenizas de una era.
-		Debería haberme ido con las manos vacías,
-		y sin embargo me volví codicioso por esa única calidez, deseando conservarla.
-		Llévalo.
-		Y cuando por fin levantes tu espada contra los dioses...
-		sabe que, aunque el mundo se congele, yo seguiré ardiendo en tus dedos.
-		'''
-}
-
-AncientStormGoddessSpear: {
-	DisplayName: Lanza de la antigua diosa de la tormenta
-	Tooltip:
-		'''
-		Una lanza capaz de lanzar besos de tormenta con arcos eléctricos destructivos.
-		"Ya pertenece al pasado, pero sigue funcionando."
-		[legend]
-		'''
-	Legend:
-		'''
-		Alina, la hoja más afilada que Terra haya conocido.
-		Su fe era inquebrantable, su combate implacable. Polvo de hierro en la lanza de plata, cabello al viento. La espada del trueno aullaba al pasar.
-		Sin embargo, incluso la hoja más afilada se quiebra y se desmorona; la fe solo encontró la indiferencia de los dioses.
-		Cuando el Supremo dictó sentencia, sus compañeros, su linaje, sus juramentos y su gloria se convirtieron en cenizas.
-		Con sus propios ojos vio cómo la llamada justicia pisoteaba todo... sangre y lágrimas... polvo... cómo en nombre del orden se ejecutaba la destrucción más vil.
-		Dioses... Alina ya no mira a los dioses.
-		Retrocedió al abismo, se destruyó a sí misma y dejó que un poder antiguo y prohibido devorara su alma.
-		La armadura de Alina se fundió en un cuerpo de hierro de las profundidades.
-		Nubes antiguas, sol ensangrentado y el pasado se entrelazaron; la mirada de sus compañeros... y de su linaje al morir... Alina... todo había terminado.
-		Ya no era la Alina de antaño, la diosa de la guerra que protegía Terra.
-		Su furia regresó como una tempestad, arrastrando a los insectos del campo de batalla; su trueno partió cielo y nubes, hendió tronos y tierra.
-		La diosa de la tormenta Alina trajo sin piedad destrucción y venganza.
-		'''
-}
-
-ConstructionBlueprintQET: {
-	DisplayName: Plano de construcción (torre de entrelazamiento cuántico)
-	Tooltip:
-		'''
-		Úsalo para aprender a fabricar el [i:CalamityOverhaul/CQETConstructor] autoconstructor
-		"Tus manos forjarán la piedra angular y la torre que conectan dos mundos"
-		'''
-	L1: ¡Has aprendido a fabricar el autoconstructor (torre de entrelazamiento cuántico)!
-	L2: ¡Ya habías aprendido este plano!
-}
-
-CQETConstructor: {
-	DisplayName: Autoconstructor (torre de entrelazamiento cuántico)
-	Tooltip:
-		'''
-		Colócalo para construir una torre de entrelazamiento cuántico
-		Requiere una gran cantidad de [i:CalamityOverhaul/StarflowPlatedBlock] bloques revestidos de flujo estelar
-		'''
-	UseConstructionBlueprint: Aprende el plano de construcción (torre de entrelazamiento cuántico)
-}
-
-DeploySignaltower: {
-	DisplayName: Torre de entrelazamiento cuántico
-	Tooltip:
-		'''
-		Dispositivo de comunicación esencial que actúa como faro en el subespacio
-		"Un niño salvaje alza una antorcha en el bosque y grita: aquí estoy"
-		'''
-}
-
 StarflowPlatedBlock: {
 	DisplayName: Bloque revestido de flujo estelar
 	Tooltip:
@@ -1352,311 +298,9 @@ StarflowPlatedBlock: {
 		'''
 }
 
-PQCD: {
-	DisplayName: Comunicador cuántico portátil
-	Tooltip:
-		'''
-		Úsalo para contactar con Draedon y abrir la interfaz holográfica de compras del Arsenal de Draedon
-		"En teoría puede emitir una orden de exterminio, pero parece que la autorización es insuficiente"
-		'''
-	NeedSignalTowersText: ¡Enlace de entrelazamiento cuántico incompleto! Requiere desplegar las {0} torres de señal.
-	SignalTowerProgressText: Progreso de despliegue de torres de señal: {0}/{1}
-}
-
-Unsunghero: {
-	DisplayName: Héroe sin corona
-	Tooltip:
-		'''
-		Aumenta el sigilo máximo en 10
-		La velocidad de regeneración de sigilo ya no reduce el daño de sigilo
-		"¿Y si nunca regresas?"
-		"Entonces no regresaré."
-		'''
-}
-
-AriaofTheCosmos: {
-	DisplayName: Aria del cosmos
-	Tooltip:
-		'''
-		Mantén clic izquierdo para cargar un cuásar poderoso que al soltar inflige daño devastador
-		Clic derecho para liberar un miniagujero negro que, al formarse, dispara una andanada de rayos gamma
-		Pulsa [AriaofTheCosmosQSkill] para invocar un guardián del anillo estelar
-		Pulsa [AriaofTheCosmosRSkill] para generar una ráfaga de rayos gamma
-		'''
-}
-
-Oceanfragments: {
-	DisplayName: Fragmentos oceánicos
-	Tooltip: Un amuleto misterioso. Al Viejo Duque podría interesarle.
-}
-
-OceanRaiders: {
-	WorkingText: Trabajando...
-	NoWaterText: ¡Debe colocarse sobre agua para funcionar!
-	NoEnergyText: ¡Energía insuficiente!
-	DisplayName: Devorador oceánico
-	Tooltip:
-		'''
-		Consume electricidad para extraer recursos de masas de agua
-		Clic derecho para abrir el almacén interno
-		'''
-}
-
-OldDuchest: {
-	StorageText: Cofre de gran capacidad
-	DisplayName: Cofre viejo
-	Tooltip:
-		'''
-		Un cofre de capacidad inmensa
-		"El antiguo cofre de El Viejo Duque; si está cerca, quizá arroje algo dentro."
-		'''
-}
-
 QuestLogBook: {
 	DisplayName: Libro de misiones
 	Tooltip: Úsalo para abrir o cerrar la interfaz de misiones
-}
-
-MermanRod: {
-	Text1: ¡Ya hay un punto de pesca de los hombres pez colocado en el mundo!
-	DisplayName: Punto de pesca de los hombres pez
-	Tooltip:
-		'''
-		Aumenta el poder de pesca en 20 al pescar cerca
-		El Viejo Duque trasladará aquí su campamento
-		'''
-}
-
-MiningMachineMk2: {
-	DontWork: Debe colocarse sobre una superficie dura para realizar trabajos de excavación
-	DisplayName: Máquina minera MK2
-	Tooltip:
-		'''
-		Extrae minerales consumiendo energía eléctrica
-		Debe colocarse en un lugar adecuado para funcionar correctamente
-		En entornos especiales se pueden extraer minerales especiales
-		'''
-}
-
-UniversalFrost: {
-	DisplayName: Escarcha universal
-	Tooltip:
-		'''
-		Usa bolas de nieve como munición
-		Clic izquierdo dispara rápidamente destellos de escarcha; cada disparo carga la cúpula glacial
-		Al llenarse, clic derecho despliega un telón auroral de escarcha sobre el cursor
-		El telón hace llover lanzas de escarcha sobre los enemigos debajo
-		«Cuando toda la creación cae en silencio, solo la aurora sigue fluyendo en el cielo»
-		'''
-}
-
-GodslayerScabbard: {
-	DisplayName: Vaina del matadioses
-	Tooltip:
-		'''
-		Acumula carga mientras sostienes un arma cuerpo a cuerpo sin atacar
-		Atacar con la carga completa otorga 2 s de invulnerabilidad
-		«Aunque la hoja permanezca en la vaina, su intención mortal es palpable.
-		Cuando llegue el momento, matar a un dios será cuestión de un instante»
-		'''
-}
-
-Lumberjack: {
-	Text1: ¡Cantidad excesiva!
-	Text2: ¡Falta de electricidad!
-	CycleModeText: Modo ciclo
-	ClearModeText: Modo limpieza
-	DisplayName: Leñador
-	Tooltip:
-		'''
-		Consume electricidad para talar madera
-		Tala automáticamente los árboles cercanos
-		Clic derecho para alternar entre modo ciclo y modo limpieza
-		El modo ciclo tala continuamente y replanta brotes
-		El modo limpieza solo tala sin replantar
-		'''
-}
-
-LifeWeaver: {
-	NoValidPositionText: ¡No hay huecos válidos para plantar cerca!
-	NoEnergyText: ¡Falta de electricidad!
-	DisplayName: Plantador de árboles
-	Tooltip: Consume electricidad para plantar árboles en los alrededores
-}
-
-WGGLumberjack: {
-	DisplayName: Leñador de la naturaleza
-	Tooltip: ""
-}
-
-WGGLifeWeaver: {
-	DisplayName: Plantador de árboles de la naturaleza
-	Tooltip: ""
-}
-
-Incinerator: {
-	DisplayName: Incinerador eléctrico
-	Tooltip:
-		'''
-		Consume electricidad para fundir objetos
-		Clic derecho para abrir el panel de control
-		Mayús + clic derecho para depositar ingredientes o retirar productos rápidamente
-		Fundir objetos produce el doble de resultado
-		'''
-}
-
-ItemPipeline: {
-	DisplayName: Tubería logística
-	Tooltip:
-		'''
-		Se usa para transportar objetos
-		Clic derecho para desmontar y recuperar la tubería objetivo (solo al sostener una tubería)
-		Clic derecho en un extremo para alternar entre modo salida y modo entrada (solo sin sostener una tubería)
-		El modo salida extrae objetos de contenedores conectados y los transfiere a contenedores enlazados al modo entrada
-		'''
-}
-
-Thrower: {
-	NoEnergyText: ¡Energía insuficiente!
-	NoItemText: ¡No hay objetos para lanzar!
-	WorkingText: Lanzando...
-	IdleText: En espera
-	DisplayName: Lanzador
-	Tooltip:
-		'''
-		Consume electricidad para lanzar objetos
-		Clic derecho para abrir el panel de control
-		'''
-}
-
-SandevistansItem: {
-	DisplayName: Sandevistan Mk.5
-	Tooltip: Ralentiza el tiempo percibido un 70% durante 5 segundos. Enfriamiento de 15 s.
-}
-
-Sandevistan: {
-	SkillName: Ralentización temporal · Sandevistan
-	SkillDesc:
-		'''
-		Al activarlo ralentiza drásticamente el tiempo percibido, permitiéndote moverte y actuar a mayor velocidad aparente.
-		La reserva se agota durante el uso y se desactiva automáticamente al vaciarse; luego se recarga de forma natural.
-		Vuelve a seleccionarlo en el radial para desactivarlo manualmente.
-		'''
-}
-
-MimicPerchedAuxBrain: {
-	DisplayName: Cerebro auxiliar mimético posado
-	Tooltip:
-		'''
-		Divide al portador en cuatro ilusiones que orbitan alrededor del cuerpo.
-		Al ser golpeado, el yo real oculto entre las ilusiones provoca caos y gana inmunidad,
-		sin recibir daño.
-		Mientras tanto, las ilusiones cargan contra el atacante y explotan,
-		con daño proporcional al ataque original del enemigo.
-		'''
-}
-
-CstmVisualEye: {
-	DisplayName: Cíberojo óptico-visual CSTM
-	Tooltip:
-		'''
-		Implante óptico cibernético en red que sincroniza el tiempo de hackeo directamente con tu red neuronal craneal.
-		Aumenta el RAM máximo en 4
-		Muestra una barra de arco RAM independiente en la esquina inferior izquierda de la pantalla
-		'''
-}
-
-PrimePlasama: {
-	DisplayName: Armadura subdérmica de plasma prototipo
-	Tooltip:
-		'''
-		Una capa de gel electroactivo tejida bajo la piel de todo el cuerpo.
-		Otorga permanentemente 25 de defensa y un 6% de reducción de daño.
-		Aumenta enormemente la resistencia al retroceso: los impactos comunes apenas te inmutan.
-		'''
-}
-
-OmniElectricFoot: {
-	DisplayName: Pie cibernético omnieléctrico
-	Tooltip:
-		'''
-		Cibernética locomotora de alto rendimiento que combina retroceso electromagnético con gel de propulsión denso.
-		Otorga un doble salto en el aire, permitiéndote impulsarte de nuevo tras despegar.
-		Mantén el cursor sobre el sector Salto cargado en el radial de cibernética para acumular carga; suelta para saltar.
-		Una carga completa puede alcanzar más del doble de la altura de un salto normal.
-		'''
-	SkillHint: Mantén Salto cargado en el radial {0} para acumular
-	SkillName: Salto cargado
-	SkillDesc:
-		'''
-		Salto explosivo con propulsión electromagnética.
-		Requiere estar en el suelo; el tiempo de permanencia en el sector es el tiempo de carga.
-		Al soltar la tecla saltas según la carga acumulada; con carga máxima la altura alcanza 2,5 veces la de un salto normal.
-		'''
-}
-
-PlowSteelClampArm: {
-	DisplayName: Brazo pinza de acero arado
-	Tooltip:
-		'''
-		Cibernética industrial con recogida magnética y pinzas de alta rigidez.
-		Amplía mucho el alcance de minería y colocación de bloques.
-		Habilita permanentemente la recogida magnética de objetos y monedas.
-		Habilidad cibernética: lanza un hilo monomolecular a alta temperatura desde la palma.
-		Clic breve → hilo corto, mantener → hilo largo; los enemigos en la trayectoria arden continuamente.
-		'''
-	SkillHint: "[c/8AC4E8:{1}] Abre el radial de cibernética para cambiar · [c/F5C56A:{0}] Lanza el hilo (clic breve = corto / mantener = largo)"
-	SkillName: Hilo monomolecular
-	SkillDesc:
-		'''
-		Lanza un hilo monomolecular a alta temperatura desde la palma; los enemigos en la trayectoria arden continuamente.
-		[c/8AC4E8:Clic breve] — Tensa un hilo corto de unos 12 bloques hacia el cursor, dura 2 s, sin anclaje.
-		[c/F5C56A:Mantener] — Tras cargar por completo, se fija a un bloque sólido cerca del cursor durante 5 s; si no hay anclaje, recurre a un hilo corto.
-		El daño escala con los multiplicadores genéricos de daño del jugador.
-		'''
-}
-
-SelfHealingSkelent: {
-	DisplayName: Endoesqueleto autorreparable
-	Tooltip:
-		'''
-		Implante biocibernético de alto nivel que sustituye el esqueleto nativo por una red de nanocristales.
-		Otorga permanentemente +2 PV/s de regeneración y +40 de vida máxima.
-		Tras 4 s fuera de combate entra en estado de nanorreparación con regeneración muy aumentada.
-		El endoesqueleto metálico anula por completo el daño por caída.
-		'''
-}
-
-SelfHackCrystal: {
-	DisplayName: Cristal de autohackeo
-	Tooltip:
-		'''
-		Cibernética de red de alto nivel en la ranura del sistema operativo.
-		Redirige la interfaz de hackeo de vuelta al portador.
-		Otorga permanentemente velocidad adicional de recuperación de RAM.
-		Habilidad cibernética: gasta RAM para eliminar al instante todos los efectos negativos
-		y obtener breve invulnerabilidad: una ventana para escapar de situaciones letales.
-		'''
-	SkillHint: Activa el autohackeo desde el radial {0} para purgar efectos negativos con RAM
-	SkillName: Protocolo de autohackeo
-	SkillDesc:
-		'''
-		Redirige la interfaz de hackeo hacia ti mismo para una limpieza de emergencia.
-		Gasta 3 RAM para eliminar al instante todos los efectos negativos y otorga ~1,5 s de invulnerabilidad.
-		Enfriamiento de 12 s; se atenúa automáticamente si no hay RAM suficiente o sigue en enfriamiento.
-		'''
-}
-
-SCCA32CRP: {
-	DisplayName: SCCA-32 CRP
-	Tooltip:
-		'''
-		Coprocesador neuromuscular avanzado.
-		Canaliza la predicción de amenazas y los reflejos musculares sin pasar por el cerebro.
-		Otorga permanentemente +8% de probabilidad de crítico y +8% de velocidad de movimiento.
-		18% de probabilidad de activar esquiva refleja al ser golpeado, anulando por completo ese impacto.
-		Tras una esquiva exitosa entra en estado de frenesí reflejo durante 3 s con bonificaciones de crítico y velocidad.
-		'''
 }
 
 RamCapacityUpgradeChip: {
@@ -1669,778 +313,11 @@ RamRecoveryUpgradeChip: {
 	Tooltip: Aumenta permanentemente la velocidad base de recuperación de RAM en 0,05 por segundo
 }
 
-Mewtwo: {
-	DisplayName: Chip de braindance
-	Tooltip: Úsalo para entrar en un braindance
-}
-
-RapidBarrelModule: {
-	DisplayName: Cañón de disparo rápido
-	Tooltip: Un resorte de retroceso ultralargo produce pulsos ardientes a costa de estabilidad y potencia por disparo
-}
-
-FocusBarrelModule: {
-	DisplayName: Cañón de concentración
-	Tooltip: Fuerza a los tres rayos con seguimiento a converger en un único golpe concentrado y catastrófico
-}
-
-PrecisionOpticModule: {
-	DisplayName: Mira de precisión
-	Tooltip:
-		'''
-		Juicio calibrado: elimina toda la dispersión; impactos consecutivos sin fallar acumulan calibración
-		Con diez cargas dispara un rayo de juicio perforante con crítico garantizado; fallar reinicia la calibración
-		'''
-}
-
-OverloadCoreModule: {
-	DisplayName: Núcleo de sobrecarga
-	Tooltip:
-		'''
-		Quita el seguro del orbe: sigue cargando tras el máximo para sobrecargarlo — hasta doble daño y mayor explosión
-		Si aguantas más allá de la línea roja, el núcleo revienta: te empuja y quema la mitad de tu maná
-		'''
-}
-
-SteadyStockModule: {
-	DisplayName: Culata estabilizadora
-	Tooltip: Una culata pesada compuesta absorbe el retroceso, cambiando algo de cadencia por daño extra por disparo
-}
-
-HarmonyGripModule: {
-	DisplayName: Empuñadura armónica
-	Tooltip:
-		'''
-		La bioconducción reduce el coste de maná; el maná derramado al golpear se condensa en brumas resonantes
-		Las brumas flotan hacia ti: recogerlas devuelve maná y acumula Armonía que aumenta la cadencia (máx. 5)
-		'''
-}
-
-ResonanceFrameModule: {
-	DisplayName: Armazón de resonancia
-	Tooltip: El armazón de armónicos apilados vierte un rayo extra, intensificando la andanada
-}
-
-AdaptiveOpticModule: {
-	DisplayName: Mira adaptativa
-	Tooltip:
-		'''
-		Control de tiro predictivo: analiza el movimiento del objetivo y proyecta un marcador holográfico de intercepción
-		Los rayos se desvían para anticipar el tiro; golpear objetivos en movimiento añade impactos adaptativos
-		'''
-}
-
-AssaultStockModule: {
-	DisplayName: Culata de asalto
-	Tooltip:
-		'''
-		La culata integra dos módulos de combate: al empuñar el arma se despliegan dos brazos artillados flotantes en tus hombros
-		Los brazos se sincronizan con tu gatillo y disparan dardos de apoyo alternándose con cada disparo
-		'''
-}
-
-BalancedGripModule: {
-	DisplayName: Empuñadura equilibrada
-	Tooltip:
-		'''
-		Protocolo de equilibrio gemelo: los rayos acumulan carga Yang, los orbes acumulan carga Yin
-		Mientras ambas cargas estén equilibradas, aumentan el daño, la cadencia y la eficiencia de maná
-		'''
-}
-
-CapacitorBankModule: {
-	DisplayName: Banco de condensadores
-	Tooltip: Una pila densa de condensadores llena la esfera en ciclos mucho más cortos, pero amortigua su energía de salida
-}
-
-CrystalGripModule: {
-	DisplayName: Empuñadura de cristal
-	Tooltip:
-		'''
-		El cristal sintético ahorra maná y mejora el crítico; los impactos críticos se refractan en materia:
-		esquirlas de cristal estallan del objetivo en arcos balísticos y se curvan hacia enemigos cercanos
-		'''
-}
-
-EfficientGripModule: {
-	DisplayName: Empuñadura eficiente
-	Tooltip: Una empuñadura ergonómica de grado industrial optimiza a la vez el consumo energético y el ritmo de disparo
-}
-
-HeavyBarrelModule: {
-	DisplayName: Cañón pesado
-	Tooltip: El estriado reforzado aplasta la dispersión y la cadencia; cada disparo se convierte en un golpe contundente
-}
-
-HighVoltageCoreModule: {
-	DisplayName: Núcleo de alto voltaje
-	Tooltip:
-		'''
-		Un condensador de alto voltaje se carga con cada impacto
-		Con carga completa, tu siguiente impacto descarga un arco perforante que atraviesa todo en su trayectoria
-		'''
-}
-
-HoloOpticModule: {
-	DisplayName: Mira holográfica
-	Tooltip:
-		'''
-		Proyector de retícula táctica: despliega periódicamente una rejilla holográfica en tu cursor durante el combate
-		Los proyectiles enemigos que la tocan se disuelven; tus rayos al cruzarla se recalibran: más daño y nueva puntería
-		'''
-}
-
-HypersonicBarrelModule: {
-	DisplayName: Cañón hipersónico
-	Tooltip:
-		'''
-		El estriado estatorreactor acelera los rayos en vuelo; romper la barrera del sonido detona un anillo de choque Mach
-		Tras la barrera, los rayos se ponen al rojo blanco: más daño, más perforación y estela de condensación
-		'''
-}
-
-KineticDamperModule: {
-	DisplayName: Culata amortiguadora cinética
-	Tooltip:
-		'''
-		Los amortiguadores hidráulicos almacenan el retroceso de tus impactos como reserva cinética; sobre media reserva eres inmune al empuje
-		Al recibir daño, toda la reserva estalla en una onda sísmica de contraataque que aparta a los enemigos
-		'''
-}
-
-LightStockModule: {
-	DisplayName: Culata ligera
-	Tooltip:
-		'''
-		El armazón ligero segmentado aumenta la cadencia y convierte cada rayo principal en una cadena de luz reptante:
-		dos eslabones siguen la trayectoria del rayo, cada uno con su propio daño
-		'''
-}
-
-MultiCellFrameModule: {
-	DisplayName: Armazón multicelda
-	Tooltip: Las celdas de refrigeración en paralelo disparan dos rayos a la vez: más cobertura, menos daño por rayo
-}
-
-PlasmaInjectorModule: {
-	DisplayName: Inyector de plasma
-	Tooltip:
-		'''
-		Inyecta plasma de alta entalpía en el orbe: su detonación deja un sol de plasma en miniatura
-		El sol abrasa todo lo cercano y azota periódicamente al enemigo más próximo con erupciones solares
-		'''
-}
-
-QuantumFrameModule: {
-	DisplayName: Armazón cuántico
-	Tooltip:
-		'''
-		Protocolo de entrelazamiento: golpear dos objetivos distintos seguidos los entrelaza cuánticamente unos segundos
-		El daño a uno se copia en parte al otro; si uno muere, el vínculo colapsa y descarga el eco acumulado en el superviviente
-		'''
-}
-
-ScattershotBarrelModule: {
-	DisplayName: Cañón de perdigones
-	Tooltip: La boca fracturada divide cada disparo en una ráfaga de rayos: cobertura enorme, daño por rayo muy reducido
-}
-
-ThermalOpticModule: {
-	DisplayName: Mira térmica
-	Tooltip: El bloqueo infrarrojo hace que los rayos se aferren al objetivo, con ganancias de precisión y crítico
-}
-
-VolatileFrameModule: {
-	DisplayName: Armazón inestable
-	Tooltip: La red de refrigeración sobrecargada exprime un rayo y crítico extra, pero el maná y la dispersión se disparan
-}
-
-NovaBarrelModule: {
-	DisplayName: Cañón nova
-	Tooltip:
-		'''
-		La boca de plasma sobrecargada detona un micropulso en cada impacto de rayo
-		El precio es más dispersión, menos potencia por disparo y mayor consumo de maná
-		'''
-}
-
-PrismOpticModule: {
-	DisplayName: Mira de prisma
-	Tooltip:
-		'''
-		Un prisma de fase al final de la ruta óptica divide cada rayo en dos astillas al expirar
-		Los rayos principales vuelan algo menos lejos a cambio de una ventana de crítico más afilada
-		'''
-}
-
-TeslaCoreModule: {
-	DisplayName: Núcleo Tesla
-	Tooltip:
-		'''
-		El arco de alto voltaje hace que los rayos impactados salten al enemigo más cercano
-		Cada nodo encadenado hereda los efectos al impactar, con mayor coste de maná
-		'''
-}
-
-RecoilStockModule: {
-	DisplayName: Culata de retroceso
-	Tooltip:
-		'''
-		Un búfer de sobrecarga convierte las detonaciones de la esfera en impulso cinético para el portador
-		El alcance del rayo se extiende a la par; el gatillo se siente algo más pesado
-		'''
-}
-
-SwarmGripModule: {
-	DisplayName: Empuñadura de enjambre
-	Tooltip:
-		'''
-		La empuñadura de malla neural libera un enjambre de microesferas con fuerte seguimiento al detonar la esfera
-		La velocidad de la esfera baja y el consumo de maná sube como compensación
-		'''
-}
-
-GravityFrameModule: {
-	DisplayName: Armazón gravitacional
-	Tooltip:
-		'''
-		Un anillo de singularidad miniatura convierte la esfera en un pozo gravitacional
-		Atrae a los enemigos cercanos mientras carga y amplía mucho el radio de explosión
-		La cámara de precisión hace que la carga se sienta algo más lenta
-		'''
-}
-
-LaserBarrelModule: {
-	DisplayName: Cañón láser de prisma
-	Tooltip: Convierte el clic izquierdo en un haz láser de prisma continuo que sigue el cursor, con enorme coste de maná y potencia limitada
-}
-
-OscillatorBarrelModule: {
-	DisplayName: Cañón láser oscilante
-	Tooltip:
-		'''
-		Un condensador de pulso integrado detona una microexplosión en la punta del haz cada 30 fotogramas
-		El daño directo baja ligeramente, pero las explosiones de área y el menor maná compensan el fuego continuo
-		'''
-}
-
-ScorchBarrelModule: {
-	DisplayName: Cañón láser abrasador
-	Tooltip:
-		'''
-		La tobera de plasma de alta entalpía incendia a los enemigos al contacto del láser
-		El daño del haz baja un poco, pero la combustión sostenida y el menor maná compensan la pérdida directa
-		'''
-}
-
-ReflectionBarrelModule: {
-	DisplayName: Cañón láser reflectante
-	Tooltip:
-		'''
-		Un prisma de diamante en el punto de impacto desvía parte de la energía en dos rayos laterales
-		El daño del haz principal aumenta, pero el consumo extremo de maná encarece el fuego sostenido
-		'''
-}
-
-EchoOpticModule: {
-	DisplayName: Mira de eco
-	Tooltip:
-		'''
-		Un elemento de resonancia al final de la ruta captura el eco energético cuando un rayo expira
-		Cada muerte de rayo genera tres subrayos con seguimiento en abanico, compensando el alcance reducido
-		'''
-}
-
-FrostOpticModule: {
-	DisplayName: Mira de escarcha
-	Tooltip:
-		'''
-		La lente criogénica inflige Quemadura de escarcha a los objetivos golpeados
-		La velocidad del rayo baja, pero el seguimiento es más estable, con perforación y crítico extra
-		'''
-}
-
-SingularityCoreModule: {
-	DisplayName: Núcleo de singularidad
-	Tooltip:
-		'''
-		Un generador de microgravedad dirige continuamente la esfera hacia el enemigo más cercano en vuelo
-		El radio de explosión se amplía mucho, pero el campo denso encarece el maná
-		'''
-}
-
-ScrambleFieldModule: {
-	DisplayName: Módulo de campo perturbador
-	Tooltip:
-		'''
-		Una bobina de alta frecuencia dispara una microonda de choque alrededor de la esfera cada 40 fotogramas mientras carga
-		La escala de la explosión aumenta a costa de una carga más lenta y mayor consumo de maná
-		'''
-}
-
-BraceStockModule: {
-	DisplayName: Culata de soporte
-	Tooltip: Un soporte estabilizador pesado elimina toda la dispersión y extiende el alcance del rayo, cambiando algo de cadencia por precisión extrema
-}
-
-LaunchStockModule: {
-	DisplayName: Culata de lanzamiento
-	Tooltip:
-		'''
-		Un mecanismo de resorte sobrecargado dispara tres rayos con seguimiento en abanico en el instante en que se lanza la esfera
-		La velocidad de la esfera aumenta y el coste de maná sube a la par
-		'''
-}
-
-SentinelGripModule: {
-	DisplayName: Empuñadura centinela
-	Tooltip:
-		'''
-		La empuñadura con sensor inteligente dispara automáticamente un rayo con seguimiento al enemigo más cercano cada 20 fotogramas mientras la esfera está en el aire
-		La velocidad de la esfera baja ligeramente y el maná sube, pero el fuego de acompañamiento compensa
-		'''
-}
-
-ConductorGripModule: {
-	DisplayName: Empuñadura conductora
-	Tooltip:
-		'''
-		El material superconductor potencia los saltos en cadena del arco a mayor distancia y con más rebotes
-		Cada impacto va acompañado de una ráfaga de partículas de arco; ligero aumento de daño y maná
-		'''
-}
-
-PhantomFrameModule: {
-	DisplayName: Armazón fantasma
-	Tooltip:
-		'''
-		Una cavidad de fase cuántica teletransporta el rayo a 80 píxeles del enemigo más cercano cada 30 fotogramas
-		Evita obstáculos por completo; ligero aumento de alcance y daño con más coste de maná
-		'''
-}
-
-RecursiveFrameModule: {
-	DisplayName: Armazón recursivo
-	Tooltip:
-		'''
-		Un chasis de bucle topológico reenvía cada rayo desde la posición del jugador en su dirección original al morir
-		El daño del rayo principal sube pero el alcance se acorta; el eco hace menos daño y no se repite
-		'''
-}
-
-ForkBarrelModule: {
-	DisplayName: Cañón bifurcado
-	Tooltip:
-		'''
-		Un prisma interno divide cada rayo en dos subrayos angulados cada 50 fotogramas
-		Ligera penalización de daño y maná
-		'''
-}
-
-NullBarrelModule: {
-	DisplayName: Cañón nulo
-	Tooltip:
-		'''
-		Una cámara de borrado de datos reduce el daño casi a cero, pero otorga perforación prácticamente infinita
-		Los impactos inyectan una toxina virulenta que corroe al objetivo con el tiempo
-		'''
-}
-
-HelixBarrelModule: {
-	DisplayName: Cañón helicoidal
-	Tooltip:
-		'''
-		La óptica de doble canal obliga a dos rayos a enrollarse en espiral alrededor de un eje común
-		Dispersión cero; ligera penalización de daño y velocidad; excelente con configuraciones de alta perforación
-		'''
-}
-
-TargetPainterOpticModule: {
-	DisplayName: Mira de designación
-	Tooltip:
-		'''
-		El sistema láser de designación marca a los objetivos golpeados con icor corrosivo, reduciendo su defensa
-		También mejora el seguimiento y la probabilidad de crítico
-		'''
-}
-
-StrobeOpticModule: {
-	DisplayName: Mira estroboscópica
-	Tooltip:
-		'''
-		El modulador de cambio de fase alterna rápidamente el rayo entre atravesar muros y estado sólido
-		30% de probabilidad de confundir a los enemigos golpeados; ligera bonificación de perforación y velocidad
-		'''
-}
-
-SniperOpticModule: {
-	DisplayName: Mira de francotirador
-	Tooltip:
-		'''
-		Los colimadores magnéticos aumentan drásticamente velocidad, alcance y daño por impacto
-		A costa de una cadencia muy reducida y seguimiento casi nulo
-		Combínala con el cañón hipersónico para golpes extremos a larga distancia
-		'''
-}
-
-StormCellModule: {
-	DisplayName: Célula de tormenta
-	Tooltip:
-		'''
-		Durante la carga libera un rayo eléctrico con seguimiento hacia el enemigo más cercano cada 25 fotogramas
-		Carga más rápida y mayor radio de explosión, pero mayor coste de maná
-		'''
-}
-
-CryoCoreModule: {
-	DisplayName: Núcleo criogénico
-	Tooltip:
-		'''
-		Una celda de energía ultracongelada congela a todos los enemigos dentro del radio de explosión de la esfera
-		Explosión algo mayor, carga algo más lenta
-		'''
-}
-
-DarkMatterCoreModule: {
-	DisplayName: Núcleo de materia oscura
-	Tooltip:
-		'''
-		Un campo de materia oscura atrae a los enemigos cercanos hacia la esfera durante su fase de vuelo
-		La esfera sigue objetivos a la vez; el radio de explosión aumenta significativamente
-		Alto coste de maná
-		'''
-}
-
-ErgonomicStockModule: {
-	DisplayName: Culata ergonómica
-	Tooltip: El diseño ergonómico de precisión reduce sustancialmente el coste de maná con ligeras mejoras de cadencia y precisión
-}
-
-ExtenderStockModule: {
-	DisplayName: Culata extensora
-	Tooltip:
-		'''
-		Un riel alargado otorga a los rayos mayor alcance y velocidad de vuelo con una pérdida mínima de daño
-		Combínala con la mira de francotirador para cobertura extrema a larga distancia
-		'''
-}
-
-StormStockModule: {
-	DisplayName: Culata de tormenta
-	Tooltip:
-		'''
-		Resortes de retroceso de alta densidad empujan la cadencia y el número de rayos al límite a costa del daño por impacto
-		Combínala con el cañón de perdigones para saturación total del campo
-		'''
-}
-
-VampireGripModule: {
-	DisplayName: Empuñadura vampírica
-	Tooltip:
-		'''
-		La empuñadura bioeléctrica convierte parte del daño del rayo en recuperación de vida
-		Los impactos láser son más frecuentes pero curan menos por tick; útil en combates prolongados
-		'''
-}
-
-ChronalGripModule: {
-	DisplayName: Empuñadura temporal
-	Tooltip:
-		'''
-		La bobina de retardo de fase ralentiza a los enemigos en cada impacto
-		Con mejor seguimiento, el fuego denso mantiene un control persistente sobre la multitud
-		'''
-}
-
-CascadeGripModule: {
-	DisplayName: Empuñadura en cascada
-	Tooltip:
-		'''
-		Cada 5 impactos genera un nodo en cascada flotante en el punto de golpe
-		El nodo permanece ~2 s y dispara 5 rayos con seguimiento que cazan enemigos cercanos
-		Reduce ligeramente el daño base
-		'''
-}
-
-MirrorFrameModule: {
-	DisplayName: Armazón espejo
-	Tooltip:
-		'''
-		Una cavidad de reflexión simétrica genera un rayo espejo de 180° por cada rayo disparado
-		Los rayos espejo hacen menos daño; la cobertura bidireccional aumenta drásticamente la densidad de impactos
-		'''
-}
-
-NullspaceFrameModule: {
-	DisplayName: Armazón del vacío
-	Tooltip:
-		'''
-		Un generador de grieta del vacío deja un eco de microexplosión a lo largo de la trayectoria del rayo cada 20 fotogramas
-		Alcance ligeramente extendido; penalización de daño mínima
-		'''
-}
-
-OverkillFrameModule: {
-	DisplayName: Armazón de exceso
-	Tooltip:
-		'''
-		El circuito de exceso apila una carga por cada muerte, hasta 15; cada carga añade un 2% de daño
-		Las cargas decaen con el tiempo: cuanto más rápido mates, más fuerte te vuelves
-		'''
-}
-
-GraviticBarrelModule: {
-	DisplayName: Cañón gravitacional
-	Tooltip:
-		'''
-		La microsingularidad integrada atrae a los enemigos cercanos hacia cada rayo en vuelo
-		La dispersión y el seguimiento se ajustan mientras el alcance crece; la velocidad de salida baja un poco
-		'''
-}
-
-PrismaticBarrelModule: {
-	DisplayName: Cañón prismático
-	Tooltip:
-		'''
-		Los prismas de dispersión arrojan estelas RGB desde cada rayo y esquirlas de color al impactar
-		Añade un rayo extra y compensación de crítico a costa de algo de daño y dispersión
-		'''
-}
-
-ConcussionBarrelModule: {
-	DisplayName: Boca de conmoción
-	Tooltip:
-		'''
-		El búfer de sobrecarga detona un pequeño anillo de conmoción en el punto de impacto cada 5 golpes acumulados
-		El daño y la dispersión por disparo mejoran, pero la velocidad de ataque paga el precio
-		'''
-}
-
-ObsidianBarrelModule: {
-	DisplayName: Cañón de obsidiana
-	Tooltip:
-		'''
-		Los impactos graban grietas de obsidiana en el objetivo; al llenar las capas estallan en vidrio volcánico cazador
-		Las detonaciones de la esfera rompen grietas cercanas antes de tiempo, ideal contra grupos bajo presión sostenida
-		'''
-}
-
-LifebloomBarrelModule: {
-	DisplayName: Cañón de flor vital
-	Tooltip:
-		'''
-		Los rayos siembran brotes vitales parásitos que drenan daño retardado y devuelven un poco de vida al portador
-		Cuando el huésped muere, el brote salta a un enemigo cercano y sigue creciendo
-		'''
-}
-
-MagmaVentBarrelModule: {
-	DisplayName: Cañón de respiradero magmático
-	Tooltip:
-		'''
-		Impactos y rayos expirados dejan respiraderos de magma de corta duración que erupcionan en columnas de calor verticales
-		En el inframundo o líquidos muy calientes el ciclo es más rápido para negar zonas
-		'''
-}
-
-CumulusBarrelModule: {
-	DisplayName: Cañón de cúmulos
-	Tooltip:
-		'''
-		Las trayectorias condensan núcleos de nube recargables que se alimentan de rayos SHPC y esferas cercanas
-		Al llenarse, cada nube descarga tres rayos cortos de lluvia eléctrica para fuego posicional
-		'''
-}
-
-MossboundBarrelModule: {
-	DisplayName: Cañón de musgo
-	Tooltip:
-		'''
-		Los rayos siembran parches de musgo húmedo que ralentizan enemigos y avanzan hacia una breve inmovilización por raíces
-		Las esferas en vuelo absorben musgo cercano para ampliar su explosión final
-		'''
-}
-
-FrostfernBarrelModule: {
-	DisplayName: Cañón de helecho helado
-	Tooltip:
-		'''
-		El primer golpe traza una vena de hielo detrás del objetivo, compartiendo escarcha con enemigos en la línea
-		Encadena multitudes mediante una geometría de helecho ramificado en lugar de congelar solo a una víctima
-		'''
-}
-
-SandstormBarrelModule: {
-	DisplayName: Cañón de tormenta de arena
-	Tooltip:
-		'''
-		El fuego sostenido arrolla un muro de arena móvil que desgasta enemigos y debilita proyectiles hostiles
-		Los rayos ganan perforación extra mientras el maná sube para mantener la tormenta
-		'''
-}
-
-CoralReefBarrelModule: {
-	DisplayName: Cañón de arrecife de coral
-	Tooltip:
-		'''
-		Los puntos de impacto generan anclas de coral que se conectan en líneas de arrecife dañinas
-		Las detonaciones de la esfera hacen que las anclas cercanas liberen oleadas circulares sincronizadas
-		'''
-}
-
-HiveBarrelModule: {
-	DisplayName: Cañón de colmena
-	Tooltip:
-		'''
-		Los impactos con clic izquierdo marcan enemigos con feromonas; las detonaciones de la esfera lanzan abejas cibernéticas contra los marcados
-		Dispersa las marcas para que el enjambre se divida y cubra el campo
-		'''
-}
-
-MoondewBarrelModule: {
-	DisplayName: Cañón de rocío lunar
-	Tooltip:
-		'''
-		Las estelas condensan prismas de rocío que refractan rayos posteriores en disparos derivados cortos
-		La noche y la luna casi llena elevan el límite de refracción y la recompensa de cada prisma
-		'''
-}
-
-CrosslinkOpticModule: {
-	DisplayName: Mira de enlace cruzado
-	Tooltip:
-		'''
-		Al impactar, una unidad de enlace neural arca un cable de datos desde el objetivo al enemigo más cercano
-		Aumentan los saltos en cadena y el radio de salto, con un ligero aumento del coste de maná
-		'''
-}
-
-ZoomOpticModule: {
-	DisplayName: Mira de zoom
-	Tooltip:
-		'''
-		Una lente magnética de largo alcance empuja los rayos más lejos y más rápido a costa de seguimiento y velocidad de ataque
-		Impactos a más de 600 píxeles activan un golpe incandescente extra que escala con la distancia
-		'''
-}
-
-PingOpticModule: {
-	DisplayName: Mira de marcado
-	Tooltip: El sistema de señalización marca a los objetivos golpeados con Marca de muerte y aporta cierta probabilidad de crítico
-}
-
-CapacitorPulseModule: {
-	DisplayName: Pulso de condensador
-	Tooltip:
-		'''
-		Las pilas densas de condensadores liberan una microdetonación de pulso aproximadamente cada medio segundo mientras carga
-		El radio de explosión y el tiempo de carga aumentan; sube el coste de maná
-		'''
-}
-
-EntropyCoreModule: {
-	DisplayName: Núcleo de entropía
-	Tooltip:
-		'''
-		La esfera absorbe «entropía» de los enemigos cercanos durante el vuelo
-		Al detonar libera una réplica de onda secundaria proporcional a la entropía acumulada: cuanto más densa la multitud, más fuerte la onda
-		'''
-}
-
-ResonanceReactorModule: {
-	DisplayName: Reactor de resonancia
-	Tooltip:
-		'''
-		Emita un anillo de resonancia aproximadamente cada 0,75 s mientras carga
-		La detonación provoca un choque de resonancia extra a los pies del jugador, cubriendo huecos cuerpo a cuerpo
-		'''
-}
-
-OverwatchStockModule: {
-	DisplayName: Culata de vigilancia
-	Tooltip:
-		'''
-		Al permanecer quieto acumulas cargas de «Vigilancia» (máx. 5) que decaen rápido al moverte
-		Cada carga otorga +2,5% de daño y +2% de crítico; la postura firme reduce ligeramente cadencia y dispersión
-		'''
-}
-
-MomentumStockModule: {
-	DisplayName: Culata de impulso
-	Tooltip:
-		'''
-		Al moverte rápido acumulas cargas de «Impulso» (máx. 6) que decaen rápido al detenerte
-		Cada carga otorga +5% de velocidad de ataque y +8% de velocidad del rayo, espejo de la culata de vigilancia
-		'''
-}
-
-BulwarkStockModule: {
-	DisplayName: Culata de bastión
-	Tooltip:
-		'''
-		Al sostener el SHPC otorga una ligera reducción de daño al jugador
-		La postura firme ralentiza ligeramente la carga y reduce el consumo de maná
-		'''
-}
-
-CombatGripModule: {
-	DisplayName: Empuñadura de combate
-	Tooltip:
-		'''
-		Matar con rayos o láser acumula «Ímpetu de combate» (máx. 5)
-		Cada carga otorga +4% de velocidad de ataque y +2% de daño; las cargas decaen sin muertes
-		'''
-}
-
-TempestGripModule: {
-	DisplayName: Empuñadura de tempestad
-	Tooltip:
-		'''
-		Tras varios impactos acumulados desata una «Ráfaga de tempestad»: múltiples arcos de datos alrededor del último impacto
-		El daño por disparo baja y el maná sube a cambio de limpieza rítmica
-		'''
-}
-
-AbsorberGripModule: {
-	DisplayName: Empuñadura absorbente
-	Tooltip:
-		'''
-		Los impactos de rayo y láser devuelven una fracción del daño infligido como maná
-		El daño por disparo baja ligeramente y el coste base de maná sube como contrapartida
-		'''
-}
-
-HarmonicFrameModule: {
-	DisplayName: Armazón armónico
-	Tooltip:
-		'''
-		Varios rayos coexistiendo arcan cables de resonancia entre sí para daño extra
-		Añade un rayo extra a costa de daño por disparo y algo de dispersión
-		'''
-}
-
-ReplicatorFrameModule: {
-	DisplayName: Armazón replicador
-	Tooltip:
-		'''
-		Al expirar, un rayo con seguimiento genera un eco breve en su lugar que sigue volando en la dirección original
-		El daño principal sube pero la duración se acorta; aumenta el coste de maná
-		'''
-}
-
-ArchiveFrameModule: {
-	DisplayName: Armazón de archivo
-	Tooltip:
-		'''
-		Acumula el daño del SHPC; cada vez que se supera el umbral, detona una explosión de archivo a los pies del jugador
-		El daño por disparo aumenta ligeramente con un pequeño sobrecoste de maná
-		'''
-}
-
 CWRItem: {
 	TemperatureText: Temperatura de combustión
 	InternalStoredEnergy: Energía almacenada
-	DeathModeItemText: Objeto de Modo Muerte
+	BrutalWorldItemText: Exclusivo del Mundo Brutal
+	BrutalRelicSeriesText: Reliquia brutal · Exclusivo del Mundo Brutal
 	LegendItemUpgradeDisable:
 		'''
 		Esta arma legendaria ha sido configurada para no poder mejorarse en el mundo actual.
@@ -2451,7 +328,8 @@ CWRItem: {
 	CWRItem: {
 		TemperatureText: Temperatura de combustión
 		InternalStoredEnergy: Energía almacenada
-		DeathModeItemText: Modo Muerte
+		BrutalWorldItemText: Exclusivo del Mundo Brutal
+		BrutalRelicSeriesText: Reliquia brutal · Exclusivo del Mundo Brutal
 		LegendItemUpgradeDisable:
 			'''
 			Esta arma legendaria ha sido configurada para no poder mejorarse en el mundo actual.
@@ -2471,115 +349,195 @@ RMagicConch: {
 	}
 }
 
-GraniteTome: {
-	DisplayName: Tomo de granito
-	Tooltip:
-		'''
-		Invoca un orbe lento y teledirigido de energía de granito
-		Se hace añicos en fragmentos de cristal buscadores al impactar
-		'''
-}
-
-GraniteFlower: {
-	DisplayName: Flor de granito
-	Tooltip:
-		'''
-		Dispara una semilla de cristal que florece en una flor de energía persistente
-		La flor pulsa varias veces, rociando pétalos de cristal a su alrededor
-		'''
-}
-
-GraniteThrowingKnife: {
-	DisplayName: Cuchillo arrojadizo de granito
-	Tooltip:
-		'''
-		Lanza un cuchillo perforante que deja una estela de energía cristalina
-		Se hace añicos en fragmentos de cristal en su último golpe o contra el terreno
-		'''
-}
-
-GraniteWalkingBoots: {
-	DisplayName: Botas andariegas de granito
-	Tooltip:
-		'''
-		Aumenta enormemente la velocidad de carrera y la aceleración
-		Crepita con chispas azules a máxima velocidad
-		'''
-}
-
-MarbleClub: {
-	DisplayName: Garrote de mármol
-	Tooltip:
-		'''
-		Un golpe lento y pesado con un retroceso aplastante
-		Puede petrificar a los enemigos, ralentizándolos brevemente
-		El primer impacto de cada golpe desata una onda de choque de mármol
-		'''
-}
-
-MarbleHuntingKnife: {
-	DisplayName: Cuchillo de caza de mármol
-	Tooltip:
-		'''
-		Ataques de tajo veloces
-		Cada tercer golpe es un remate más amplio que rocía fragmentos de mármol
-		'''
-}
-
-MarbleDisc: {
-	DisplayName: Disco de mármol
-	Tooltip:
-		'''
-		Lanza un disco giratorio que rebota entre enemigos y paredes
-		Luego regresa curvándose a tu mano; pueden volar hasta dos a la vez
-		'''
-}
-
-MarblePebble: {
-	DisplayName: Guijarro de mármol
-	Tooltip:
-		'''
-		Una piedra de honda inagotable, veloz y propensa a golpes críticos
-		Inflige mucho más daño a los enemigos con mucha vida máxima
-		Rebota una vez en el suelo
-		'''
-}
-
-MarbleShield: {
-	DisplayName: Égida de mármol
-	Tooltip:
-		'''
-		Aumenta la defensa y la resistencia al retroceso
-		Mantiene una guardia de piedra regenerable que absorbe un golpe entrante, estallando en fragmentos
-		Prepárate para un bloqueo perfecto que refleja los proyectiles
-		'''
-}
-
-MarbleBalloon: {
-	DisplayName: Globo de mármol
-	Tooltip:
-		'''
-		Pulsa Abajo en el aire para azotar el suelo, liberando una onda de choque al aterrizar
-		Anula el daño por caída
-		'''
-}
-
-MarbleinaBottle: {
-	DisplayName: Mármol en una botella
-	Tooltip: Otorga un pesado segundo salto
-}
-
-MarbleCloudBalloon: {
-	DisplayName: Globo nuboso de mármol
-	Tooltip:
-		'''
-		Otorga un pesado segundo salto
-		Pulsa Abajo en el aire para azotar el suelo, liberando una onda de choque al aterrizar
-		Anula el daño por caída
-		'''
-}
-
 TestItem: {
 	DisplayName: Item de Prueba
 	Tooltip: ""
+}
+
+OniKeikoRune: {
+	DisplayName: Runa Keiko
+	Tooltip:
+		'''
+		Úsala para reabrir la lección de Onikiri, o vuelve a usarla a mitad de la lección para cerrarla
+		Se recibe al rechazar la lección inicial; nunca se consume y puede usarse repetidamente
+		'''
+	NeedBlade: Onikiri no está en tu inventario; no se puede abrir la lección
+	Closed: La lección se ha cerrado; vuelve a usar esta runa para reabrirla
+	NotNow: No se puede abrir la lección en la escena actual; inténtalo de nuevo más tarde
+}
+
+ScrapBeacon: {
+	DisplayName: Baliza de chatarra
+	Tooltip:
+		'''
+		Invoca al Comandante de chatarra de noche
+		«La chatarra siempre responde ante su capataz»
+		'''
+}
+
+Deepclaw: {
+	DisplayName: Deepclaw
+	Tooltip:
+		'''
+		Invoca una langosta abisal para luchar por ti
+		La langosta se abalanza contra los enemigos con golpes de pinza chasqueantes
+		Cada tercer golpe de pinza se echa hacia atrás y detona un chasquido de cavitación
+		El chasquido inflige daño de área y arrastra a los enemigos hacia su centro
+		«Lo que vive abajo nunca afloja el agarre»
+		'''
+}
+
+SeaShrimpShell: {
+	DisplayName: Caparazón de camarón cristalino
+	Tooltip:
+		'''
+		Un caparazón endurecido que mudó el Camarón cristalino abisal
+		Material esencial para fabricar la serie de armas abisales
+		«Acércalo al oído y la fosa aún murmura»
+		'''
+}
+
+DeepcrystalWarhelm: {
+	DisplayName: Yelmo de guerra de cristal profundo
+	Tooltip:
+		'''
+		18% más de daño cuerpo a cuerpo y 10% de probabilidad de crítico cuerpo a cuerpo
+		18% más de velocidad cuerpo a cuerpo
+		«El peso del caparazón creció dentro de tus huesos»
+		'''
+	SetBonus:
+		'''
+		18% más de daño cuerpo a cuerpo, pero el daño recibido aumenta un 10%
+		Golpear enemigos condensa burbujas orbitales; al llegar a cinco, todas colapsan y detonan una gran explosión de cavitación en el objetivo
+		Recibir un golpe rompe tus burbujas condensadas y responde con una contradescarga de cavitación (enfriamiento corto)
+		Mientras estás mojado, las burbujas se condensan más rápido y detonan con más fuerza
+		'''
+}
+
+DeepcrystalVisor: {
+	DisplayName: Visor de cristal profundo
+	Tooltip:
+		'''
+		18% más de daño a distancia y 10% de probabilidad de crítico a distancia
+		30% de probabilidad de no consumir munición
+		«A través de la lente de cristal, la fosa brilla como el día»
+		'''
+	SetBonus:
+		'''
+		18% más de daño a distancia, pero el daño recibido aumenta un 10%
+		Golpear enemigos condensa burbujas orbitales; al llegar a cinco, todas colapsan en un chorro de agua perforador hacia el objetivo
+		Recibir un golpe rompe tus burbujas condensadas y responde con una contradescarga de cavitación (enfriamiento corto)
+		Mientras estás mojado, las burbujas se condensan más rápido y detonan con más fuerza
+		'''
+}
+
+DeepcrystalCrown: {
+	DisplayName: Corona de cristal profundo
+	Tooltip:
+		'''
+		18% más de daño mágico y 10% de probabilidad de crítico mágico
+		Reduce el coste de maná un 18%
+		«Un murmullo del mar está sellado en los cristales»
+		'''
+	SetBonus:
+		'''
+		18% más de daño mágico, pero el daño recibido aumenta un 10%
+		Golpear enemigos condensa burbujas orbitales; al llegar a cinco, todas colapsan y lanzan tres virotes de agua guiados al objetivo
+		Recibir un golpe rompe tus burbujas condensadas y responde con una contradescarga de cavitación (enfriamiento corto)
+		Mientras estás mojado, las burbujas se condensan más rápido y detonan con más fuerza
+		'''
+}
+
+DeepcrystalFeelers: {
+	DisplayName: Antenas de cristal profundo
+	Tooltip:
+		'''
+		18% más de daño de invocación
+		Aumenta los súbditos máximos en 2
+		«Las antenas saben dónde se esconde la presa antes que tú»
+		'''
+	SetBonus:
+		'''
+		18% más de daño de invocación, pero el daño recibido aumenta un 10%
+		Golpear enemigos condensa burbujas orbitales; al llegar a cinco, todas colapsan y liberan cuatro burbujas buscadoras que persiguen al objetivo
+		Recibir un golpe rompe tus burbujas condensadas y responde con una contradescarga de cavitación (enfriamiento corto)
+		Mientras estás mojado, las burbujas se condensan más rápido y detonan con más fuerza
+		'''
+}
+
+DeepcrystalBreastplate: {
+	DisplayName: Pechera de cristal profundo
+	Tooltip:
+		'''
+		10% más de daño y 6% de probabilidad de crítico
+		«Caparazón por hoja, sangre por marea»
+		'''
+}
+
+DeepcrystalGreaves: {
+	DisplayName: Grebas de cristal profundo
+	Tooltip:
+		'''
+		15% más de velocidad de movimiento, aumentada aún más mientras estás mojado
+		Muévete libremente por el agua
+		«Pisa las olas como si fueran suelo firme»
+		'''
+}
+
+SeaShrimpRelic: {
+	DisplayName: Reliquia del camarón cristalino abisal
+	Tooltip: ""
+}
+
+SeaShrimpSummonItem: {
+	DisplayName: Cebo de camarón cristalizado
+	Tooltip:
+		'''
+		Invoca al Camarón cristalino abisal al usarlo en el océano
+		«El cebo que se hunde nunca vuelve. Algo más lo hace»
+		'''
+}
+
+SeaShrimpTreasureBag: {
+	DisplayName: Bolsa del tesoro (Camarón cristalino abisal)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SeaShrimpTestItem: {
+	DisplayName: Jaula de observación de camarón
+	Tooltip: Prueba de desarrollo: invoca al Camarón cristalino abisal en cualquier lugar
+}
+
+BssBloomBud: {
+	DisplayName: Capullo florido espinoso
+	Tooltip:
+		'''
+		Invoca a la Serpiente de arena florida al usarlo en la superficie del desierto
+		«La raíz de las dunas tiene hambre cuando florece»
+		'''
+}
+
+BssTreasureBag: {
+	DisplayName: Bolsa del tesoro (Serpiente de arena florida)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+FssFesterBud: {
+	DisplayName: Capullo florido purulento
+	Tooltip:
+		'''
+		Invoca a la Serpiente de arena purulenta al usarlo en la superficie del desierto
+		«El capullo nunca murió. Aprendió a pudrirse»
+		'''
+}
+
+BloomCaller: {
+	DisplayName: Llamador de flores
+	Tooltip:
+		'''
+		Haz sonar el cuerno para llamar a un brote de flor silvestre que luche a tu lado
+		El brote lanza espinas hundidoras contra los enemigos
+		Después de cada dos lanzamientos, el tercer ataque se convierte en un golpe corporal que gira formando un anillo de pétalos
+		«El cuerno no ordena. Riega»
+		'''
 }

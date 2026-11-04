@@ -24,6 +24,12 @@ ItemDescriptions: {
 		Causar daño reduce temporalmente el daño recibido
 		Clic derecho para dar un golpe normal, el daño causado aumenta si apuñalas más de tres veces
 		'''
+	DetachedBlaster:
+		'''
+		Dispara un potente pulso de energía cuya potencia aumenta lentamente a medida que viaja
+		Clic derecho para disparar una esfera de energía sobrecargada teledirigida hacia los enemigos
+		La esfera de energía tiene un tiempo de reutilización de 5 segundos antes de que puedas volver a dispararla
+		'''
 	DreamWeaversHelmet: Aumenta la vida máxima en 60
 	DreamWeaversHood: Aumenta la vida máxima en 100
 	DreamWeaversTabard: Reduce el daño recibido en un 20%
@@ -450,6 +456,7 @@ Projectiles: {
 	BubbleBomb.DisplayName: Gran Bomba de Burbuja
 	BubbleColumn.DisplayName: Columna de Burbujas
 	BubbleColumnOptimized.DisplayName: Columna de Burbujas
+	BuccaneerBlunderBuss.DisplayName: Trabuco del Bucanero
 	BuriedArrowE.DisplayName: Flecha
 	ChampionBomber.DisplayName: Estallido Mágico
 	ChampionBomberF.DisplayName: Estallido Mágico
@@ -470,6 +477,7 @@ Projectiles: {
 	Darkness.DisplayName: Oscuridad
 	DeathRain.DisplayName: Lluvia de Muerte
 	DemonBloodSword.DisplayName: Espada de Sangre Demoníaca
+	DetachedMegaBlast.DisplayName: Oleada de Gravitón
 	DragonTooth.DisplayName: Diente de Dragón
 	DragonToothDragon.DisplayName: Diente de Dragón
 	DreadRazor.DisplayName: Navaja del Pavor
@@ -507,6 +515,13 @@ Projectiles: {
 	GraniteCharge.DisplayName: Carga de Granito
 	GraniteEnergyStormEffects.DisplayName: Energía Granítica
 	GravitonOrb.DisplayName: Orbe de Gravitón
+	HagFireball.DisplayName: Bola de Fuego Volátil de Bruja
+	HagFireCharge.DisplayName: Carga Llameante de Bruja
+	HagFlames.DisplayName: Llamas Persistentes de Bruja
+	HagGlobule.DisplayName: Gota Volátil de Bruja
+	HagMudChunk.DisplayName: Trozo de Lodo Sospechosamente Pesado de Bruja (Hay rocas dentro)
+	HagSplash.DisplayName: Salpicadura Mágica de Bruja
+	HagSong.DisplayName: Canto de Muerte de Bruja
 	HandheldRocket.DisplayName: Cohete de Mano
 	HeadHunter.DisplayName: Cazacabezas
 	HeadHunterShard.DisplayName: Cazacabezas
@@ -516,6 +531,7 @@ Projectiles: {
 	HighTide.DisplayName: Marea Alta
 	HighTideWave.DisplayName: Marea Alta
 	HitScan.DisplayName: Impacto Directo
+	HolySheath.DisplayName: Vaina Sagrada
 	IceAnomaly.DisplayName: Anomalía de Hielo
 	IceShard.DisplayName: Fragmento de Hielo
 	IllumiteBlade.DisplayName: Espada de Illumite
@@ -570,6 +586,9 @@ Projectiles: {
 	SoulRender.DisplayName: Cortaalmas
 	SoulSnatcher.DisplayName: Arrebatador de Almas
 	SoulSteal.DisplayName: "{Mods.ThoriumMod.Projectiles.Boss.SoulSteal}"
+	SpearExtraElectron.DisplayName: Punta de Lanza de Electrón
+	SpearExtraElectronWave.DisplayName: Punta de Lanza de Electrón
+	SpearExtraSpore.DisplayName: Punta de Espora
 	SpittingShroom.DisplayName: Hongo Escupidor
 	SpittingShroomSpore.DisplayName: Espora de Hongo Escupidor
 	SpittingShroomSporeBurst.DisplayName: Estallido de Esporas del Hongo Escupidor
@@ -610,10 +629,14 @@ Projectiles: {
 	VoidEyeF.DisplayName: Voluntad de Coznix
 	ZephyrFeather.DisplayName: Pluma de Céfiro
 	ZephyrsRuin.DisplayName: Ruina de Céfiro
-	BuccaneerBlunderBuss.DisplayName: Trabuco del Bucanero
 }
 
 Items: {
+	ADropRateTooLow: {
+		DisplayName: ¿Una probabilidad de caída demasiado baja?
+		Tooltip: De (No) Una Nancy Owen
+	}
+
 	BandofCratons: {
 		DisplayName: "{$Mods.ThoriumRework.Items.BandofCratonsCosmetic.DisplayName}"
 		Tooltip:
@@ -696,15 +719,6 @@ Items: {
 			'''
 	}
 
-	DuelistSheath: {
-		DisplayName: Vaina del Duelista
-		Tooltip:
-			'''
-			Las espadas dan golpes críticos con {0}% de probabilidad si se sostienen sin usar durante {1} segundos
-			Recibir daño o dar un golpe crítico aumenta la velocidad de ataque cuerpo a cuerpo y la probabilidad de golpe crítico durante {1} segundos
-			'''
-	}
-
 	ChampionWarHorn: {
 		DisplayName: Cuerno de Guerra del Campeón
 		Tooltip:
@@ -765,6 +779,15 @@ Items: {
 			'''
 	}
 
+	DuelistSheath: {
+		DisplayName: Vaina del Duelista
+		Tooltip:
+			'''
+			Las espadas dan golpes críticos con {0}% de probabilidad si se sostienen sin usar durante {1} segundos
+			Recibir daño o dar un golpe crítico aumenta la velocidad de ataque cuerpo a cuerpo y la probabilidad de golpe crítico durante {1} segundos
+			'''
+	}
+
 	DukeFish: {
 		DisplayName: Pez Duque
 		Tooltip:
@@ -783,6 +806,11 @@ Items: {
 			Ignora 15 puntos de Defensa enemiga
 			"Dale un frasco de pimientos encurtidos"
 			'''
+	}
+
+	ElectronSpearTip: {
+		DisplayName: Punta de Lanza de Electrón
+		Tooltip: Las armas de lanza liberan una onda de choque plasmática que quema gravemente a los enemigos
 	}
 
 	ExecutionersContract: {
@@ -876,6 +904,17 @@ Items: {
 			'''
 	}
 
+	HolySheath: {
+		DisplayName: Vaina Sagrada
+		Tooltip:
+			'''
+			Las espadas dan golpes críticos con {0}% de probabilidad si se sostienen sin usar durante {1} segundos
+			Asestar un golpe crítico hace caer un rayo de luz sobre el último objetivo golpeado
+			El rayo de luz inflige menos daño a los objetivos segmentados, en una cantidad variable
+			"Tus oponentes dirían el nombre de este objeto al ver lo que hace"
+			'''
+	}
+
 	ImpulseAmplifier: {
 		DisplayName: Amplificador de Impulso
 		Tooltip: Los proyectiles de instrumentos electrónicos son considerablemente más rápidos
@@ -966,7 +1005,16 @@ Items: {
 
 	MagicalHarp: {
 		DisplayName: "{$ItemName.MagicalHarp}"
-		Tooltip: ""
+		Tooltip: Libera notas rebotantes con distintas velocidades
+	}
+
+	NotSoLovelyLadies: {
+		DisplayName: Damas (No Tan) Encantadoras
+		Tooltip:
+			'''
+			"¡Solteras ardientes de tu zona te desean! (Muertas y despedazadas)"
+			De (No) Una Nancy Owen
+			'''
 	}
 
 	Oneirophobia: {
@@ -1099,6 +1147,11 @@ Items: {
 			Invoca un hongo escupidor de esporas que ataca a los enemigos
 			Se esconde cuando los enemigos se acercan, causando una explosión letal
 			'''
+	}
+
+	SporeTip: {
+		DisplayName: Punta de Espora
+		Tooltip: Las armas de lanza liberan una punta de espora flotante
 	}
 
 	StarScoutReticle: {
@@ -1259,6 +1312,17 @@ Items: {
 	VampireCapeCosmetic: {
 		DisplayName: Capa de Murciélago Vampiro
 		Tooltip: ""
+	}
+
+	WhistlersHat: {
+		DisplayName: Sombrero de Whistler
+		Tooltip: Aumenta la tasa de regeneración de inspiración en un 10%
+		SetBonus: Cada potenciación única que tengas aumenta en un 2% tu velocidad de movimiento
+	}
+
+	WhistlersTunic: {
+		DisplayName: Túnica de Whistler
+		Tooltip: Aumenta en un 5% la velocidad de interpretación sinfónica
 	}
 
 	ZephyrsRuin: {
@@ -1685,6 +1749,16 @@ Configs: {
 				4 - GFB, Infernum, Masoquista o Eternidad-Muerte
 				'''
 		}
+
+		corpsebloom: {
+			Label: Flor de Cadáver
+			Tooltip: Reworkea la Flor de Cadáver para que sea menos molesta cuando aparece al azar
+		}
+
+		hags: {
+			Label: Brujas
+			Tooltip: Reworkea las brujas para convertirlas en minijefes de verdad y hacerlas menos molestas
+		}
 	}
 
 	ItemReworksConfig: {
@@ -1722,6 +1796,11 @@ Configs: {
 
 		BuccaneerBlunderBuss: {
 			Label: "[i:ThoriumMod/BuccaneerBlunderBuss]Trabuco del Bucanero"
+			Tooltip: ""
+		}
+
+		DetachedBlaster: {
+			Label: "[i:ThoriumMod/DetachedBlaster]Bláster Separado"
 			Tooltip: ""
 		}
 
@@ -2142,9 +2221,19 @@ Achievements: {
 		Description: Derrota a los tres núcleos del Explorador Estelar en menos de seis segundos
 	}
 
+	ElectricalSafetyTraining: {
+		FriendlyName: Entrenamiento de Seguridad Eléctrica
+		Description: Derrota a la Tormenta de Energía Granítica sin entrar en contacto con ningún Conducto de Energía
+	}
+
 	MyBatsAreKindaChamberless: {
 		FriendlyName: Mis Murciélagos No Tienen Munición...
 		Description: Derrota al Vizconde sin dejar que un solo Bebé Mordedor te drene vida
+	}
+
+	OnEvenGrounds: {
+		FriendlyName: En Igualdad de Condiciones
+		Description: Derrota al Campeón Enterrado infligiendo únicamente daño cuerpo a cuerpo en la fase 1, daño a distancia en la fase 2 y daño mágico o de invocación en la fase 3
 	}
 
 	PreservationEfforts: {

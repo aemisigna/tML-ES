@@ -145,12 +145,12 @@ AncientAvian: {
 }
 
 UnderwaterMusic: {
-	DisplayName: Deep Ocean
+	DisplayName: Undersea Adventure (Tema de las Profundidades del Océano)
 	Author: "{$BySalvati}"
 }
 
 VictoryDay: {
-	DisplayName: Overworld Alt Alt (Tema del Día de la Victoria)
+	DisplayName: Adventurer's Triumph (Tema del Día de la Victoria)
 	Author: "{$BySalvati}"
 }
 

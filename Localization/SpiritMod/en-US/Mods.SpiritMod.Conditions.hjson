@@ -1,3 +1,19 @@
+NotDay: Drops only at night
+Day: Drops only during day
+DropFrom: "Drops only in the "
+Purity: Purity
+Snow: Snow
+Asteroid: Asteroid
+DefBoss: Drops only after {0} has been defeated
+RrefixThe: "the "
+AnyMech: any mechanical boss
+FromVHead: From venomous heads
+FromFHead: From flaming heads
+FromAHead: From acidic heads
+PokeyBodyLastSegment: Drops only from the last segment
+Enchanted: Drops when enemy is enchanted
+Rarely: Rarely
+Uncommonly: Uncommonly from Shadow Mimics
 HasMoonshot: Any player has a Moonshot
 VoyagerDown: Starplate Voyager is defeated
 ScarabDown: Scarabeus is defeated
@@ -7,11 +23,11 @@ DuskingDown: Dusking is defeated
 InBriar: In the Briar
 InAsteroids: In Asteroids
 InSpirit: In the Spirit
-NotInSpirit: Not in the Spirit
-NotInBriar: Not in the Briar
-StarjinxDown: Starjinx event is defeated
+FirstDown: Only on first defeat
 HalfCompleteBestiary: Half of Spirit's bestiary is complete
 FullCompleteBestiary: All of Spirit's bestiary is complete
+DurasilkSheaf: Obtain 3 Durasilk Sheafs
+WarlockLure: During Unholy Undertaking
 # Quest conditions are below here
 # IsCompleted is used to shorten translation
 IsCompleted: quest is completed

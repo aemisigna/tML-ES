@@ -1,0 +1,184 @@
+FirstMetShenyo: {
+	ShenyoName: Shenyo
+	L1: Hace mucho que nada vivo caminaba por aquí
+	L2: ¿Cómo llegaste aquí?
+	OptDead: Morí una vez. Cuando desperté, estaba aquí
+	OptRain: Agarré un paraguas y entré de golpe
+	OptDeadLocked: No has muerto
+	OptRainLocked: Tienes las manos vacías
+	A1: ...¿Has vuelto de entre los muertos?
+	A2: Algo poco común. Aunque, por tu aspecto, ya estás acostumbrado
+	B1: Entonces tu suerte no es nada mala
+	B2: Ahora es hora de irte
+	C1: El paraguas mantendrá abierto el camino. Regresa
+	C2: Ese paraguas es tuyo a partir de ahora
+}
+
+ShenyoDerivedUmbrella: {
+	L1: Ese paraguas parece una entidad paranormal derivada
+	Opt1: ¿Una entidad paranormal derivada? ¿Significa que es una parte de ti?
+	L2: Exacto. Una vez desmembré mi propia forma paranormal, y los fragmentos separados reviven por sí solos cuando pasan suficientes años
+	L3: Este paraguas que invade la realidad, por ejemplo, es un fenómeno paranormal derivado de la fuente de Kikasa
+	Opt2: Entonces ¿no eres realmente la fuente de Kikasa?
+	L4: Lo fui una vez
+	L5: Debería haber muerto hace mucho, pero mi conciencia despertó otra vez dentro de un fragmento paranormal que quedó en este mundo
+	L6: Toca este paraguas derivado y deberías poder entrar en su dominio fantasmal
+	L7: Ir o no es asunto tuyo
+	L8: Si mueres allí, te sacaré con un Reinicio
+}
+
+ShenyoDollGift: {
+	L0: Acabo de recordar algo que vale la pena darte
+	L1: Guarda esta muñeca cerca. Puede salvarte la vida una vez
+	L2: La que las cosió era una chica tonta. Hizo un montón entero para alguien que le gustaba, aunque esa persona jamás podría necesitarlas
+	L3: En aquel entonces intercambié con ella unas cuantas. Son buenos regalos para los jóvenes
+}
+
+ShenyoFesterSerpentGift: {
+	L0: Lo que se arrastra fuera de la arena se ve peor todavía que lo podrido en el agua
+	L1: Ese lodo que le chorrea tampoco es nada bueno, hediondo y pegajoso
+	L2: Enjuaga bien el paraguas cuando termines, la mugre seca es imposible de quitar
+}
+
+ShenyoBossRushGift: {
+	L0: ¿Volvieron a reunirse todos, o esa cosa vieja del abismo por fin se agitó?
+	L1: Sea lo que sea, esto nunca iba a ser fácil
+	L2: Mantente firme, deja de tambalearte frente a mí
+	L3: Una vez terminada esta pelea, la lluvia de afuera por fin debería despejarse
+}
+
+ShenyoCalamityEvilGift: {
+	L0: Todo un nido reptante que roe carne y hueso, molesto solo de mirar
+	L1: Tú, en cambio, no pareces darle mucha importancia al dolor
+	L2: Ten más cuidado de ahora en adelante, este paraguas puede detener la lluvia, pero no a esa alimaña
+}
+
+ShenyoCultistGift: {
+	L0: El murmullo incesante afuera de la puerta es ruidoso y agotador
+	L1: Fuera lo que fuera lo que intentaba invocar, no era nada bueno
+	L2: Bien que lo cortaste a tiempo, antes de que el espectáculo se saliera de control
+}
+
+ShenyoDevourerOfGodsGift: {
+	L0: Esa serpiente que se enrosca por el cielo, dicen que se ha tragado dioses
+	L1: Qué nivel puede alcanzar un dios, me da algo de curiosidad
+	L2: Quédate tú con ese caparazón duro, no hace falta que me traigas la carne para que la vea
+}
+
+ShenyoDukeFishronGift: {
+	L0: Un cerdo marino aprendiendo a agitar las olas como un hombre, bastante extraño
+	L1: El temperamento del agua no es cosa que él pueda mandar
+	L2: Devolverlo de un empujón a las profundidades fue lo mejor, así se ahorra chapotear frente a mis ojos
+}
+
+ShenyoEmpressGift: {
+	L0: Cosas tan cegadoras como esa me lastiman los ojos
+	L1: No hacía falta buscarle pelea a plena luz del día, pero tú siempre eliges el camino más problemático
+	L2: Apagaste ese resplandor a base de esfuerzo, así que te concederé algo de mérito
+}
+
+ShenyoEvilBossGift: {
+	L0Worm: Esa serpiente segmentada arrastrada del fango apesta peor que el agua estancada
+	L1Worm: Un hedor más pesado que el de un estanque muerto, y aun así lo soportas sin problema
+	L0Brain: Un cerebro debería quedarse dentro del hueso; expuesto así, debe sentir frío
+	L1Brain: Una suciedad así es un espanto con solo mirarla
+	L2: Bien hecho al terminarlo; no vuelvas empapado en ese hedor
+}
+
+ShenyoExoAndSCalGift: {
+	L0: El orgullo de la ingeniería y la obsesión de una bruja, juntos hacen buena pareja
+	L1: Ambos bandos fueron pesados y medidos, hoy no corriste en vano
+	L2: De ahora en adelante en este mundo, difícilmente habrá otro alboroto de esta magnitud
+}
+
+ShenyoEyeOfCthulhuGift: {
+	L0: Mirando toda la noche con un solo ojo gigante, sin siquiera temer asustarse a sí mismo
+	L1: Te clava la mirada sin parpadear, suficiente para erizar la piel
+	L2: Ya se cerró; mejor así, nos ahorra esa visión desagradable
+}
+
+ShenyoGolemGift: {
+	L0: Un pilar de piedra del templo que de verdad da saltos
+	L1: Al abrirlo de un golpe, no era más que un cascarón vacío después de todo
+	L2: Esa salpicadura la levantaste tú solo con tus propias manos, yo no te ayudé
+}
+
+ShenyoKingSlimeGift: {
+	L0: Un charco blando de lodo, ¿acaso merece siquiera medirse conmigo?
+	L1: Al menos rebota con bastante entusiasmo
+	L2: Cuando te encuentres con algo verdaderamente peligroso más adelante, no imites su bravuconería vacía
+}
+
+ShenyoSeaShrimpGift: {
+	L0: Ese camarón mantis escondido bajo la orilla, brillante y reluciente, golpea con fuerza suficiente para partir el agua
+	L1: Muda caparazón tras caparazón, pero su temperamento nunca se suavizó ni un poco
+	L2: El crujido sonó aterrador, pero lo enfrentaste de frente, así que tus manos saben su oficio
+}
+
+ShenyoMechsGift: {
+	L0: Cadenas de hierro, reflectores, un esqueleto de acero, todo ensamblado como una farsa
+	L1: El hedor a hierro es intenso, no me agrada, pero a ti no parece molestarte
+	L2: Desmantelado todo de una vez, sí que tienes algo de paciencia
+}
+
+ShenyoMoonLordGift: {
+	L0: Esa sombra inmensa que cruzaba el cielo por fin se hizo pedazos
+	L1: Cubierta de ojos, casi como la cortina de lluvia bajo este paraguas
+	L2: La luz de la luna esta noche se ve bastante agradable, obsérvala bien por mí
+}
+
+ShenyoOldDukeGift: {
+	L0: Esa reliquia obstinada bajo el Mar Sulfuroso, con un genio más agrio que el ácido
+	L1: Nos cruzamos unas cuantas veces en su momento, y ninguno cedió terreno
+	L2: Terminado por tu mano esta vez, considéralo como saldar una cuenta por mí
+}
+
+ShenyoPlanteraGift: {
+	L0: Despertar a una flor dormida en las profundidades siempre iba a traer problemas
+	L1: La forma en que esas enredaderas azotan y estrangulan me recuerda a cuando mi paraguas no quería cerrarse
+	L2: Las manchas de savia en tus manos son pegajosas, recuerda sacar agua y lavártelas bien
+}
+
+ShenyoPolterghastGift: {
+	L0: Esas almas hechas jirones que flotan en las profundidades del calabozo, remendadas juntas durante siglos
+	L1: Al final son parientes de lo que soy yo, no hace falta desperdiciar lástima en ellas
+	L2: Mejor que se disipen en silencio en el agua a que se queden ahí colgadas llorando para siempre
+}
+
+ShenyoQueenBeeOrDeerclopsGift: {
+	L0Bee: Por dulce que sea, el aguijón de su cola arde como el fuego
+	L1Bee: La miel es algo excelente, lástima que la protegiera con tanto celo
+	L0Deer: Esa bestia tuerta, terca incluso comparada conmigo
+	L1Deer: Una pezuña reseca y marchita, y aun así levanta semejante ventisca
+	L2: Después de tanto revolcón, no te habrás lastimado, ¿verdad?
+}
+
+ShenyoQueenSlimeGift: {
+	L0: Toda blanda y rosada, bastante entusiasta con arreglarse
+	L1: Marchando a la batalla con séquito propio, todo un espectáculo
+	L2: Por grandioso que fuera el espectáculo, no pudo resistir ni un solo aguacero
+}
+
+ShenyoSkeletronGift: {
+	L0: Vigilando la puerta durante todos esos años, los huesos ya deben haberse vuelto quebradizos hace mucho
+	L1: Si fuera yo, habría abandonado la vigilia hace muchísimo tiempo
+	L2: La puerta del calabozo está abierta, cuida tus pasos ahí dentro, no te vuelvas tonto como ese viejo sirviente
+}
+
+ShenyoSlimeGodGift: {
+	L0: Rojo y morado mezclados en un lodo, y aun así con el descaro de hablar de divinidad
+	L1: Amontonar tantas cosas desordenadas en una sola masa, supongo que eso tiene algo de profundidad
+	L2: Derretirse por completo es lo mejor, así se le ahorra al suelo quedar manchado
+}
+
+ShenyoWallOfFleshGift: {
+	L0: Ese muro de carne inmenso allá abajo, hasta a través de la lluvia lo sentí sofocantemente caliente
+	L1: Atravesarlo de lado a lado reescribió las reglas de este mundo, golpeaste con suficiente rapidez
+	L2: Espectáculos de esta magnitud, todavía habrá muchos más por delante
+}
+
+ShenyoYharonGift: {
+	L0: Un fuego ardiendo desde quién sabe cuántos años, por fin extinguido
+	L1: El fuego y la tormenta nunca se mezclan, forzarlos juntos no lleva a nada
+	L2: Unas plumas completamente empapadas nunca volverán a alzar el vuelo, tal como debe ser
+}

@@ -1,0 +1,26 @@
+// P10b armor endowments (17 hardmode sets + 5 pre-HM sets handed over from P10a); the four Ancient Hallowed combos share one line
+GsForbiddenArmor.EndowLine:
+	'''
+	Sombras Arenosas: los golpes acumulan alma de arena; con 6 acumulaciones, surge una sombra de arena (hasta 2) para acechar a tu lado
+	La sombra escupe virotes de arena giratorios contra el enemigo más cercano
+	'''
+GsSpookyWoodArmor.EndowLine:
+	'''
+	Patrulla de la Bendición: los golpes acumulan fuego de alma; con 6 acumulaciones, surge una calabaza de Halloween (hasta 2) para patrullar a tu alrededor
+	La calabaza escupe una triple llama fantasmal contra el enemigo más cercano
+	'''
+GsChlorophyteArmor.EndowLine:
+	'''
+	Enredadera Simbiótica: los golpes acumulan esporas; con 8 acumulaciones, el siguiente golpe planta una enredadera parásita en el objetivo
+	Cada golpe al huésped lanza una hoja de enredadera contra un segundo enemigo, y la enredadera estalla en esporas al marchitarse
+	'''
+GsPumpkinArmor.EndowLine:
+	'''
+	Cosecha de Calabaza: los golpes acumulan enredaderas; con 6 acumulaciones, el siguiente golpe planta una calabaza explosiva bajo el objetivo
+	La calabaza madura en 3 s (golpea de nuevo a la víctima para forzarla) y estalla en tres cortes giratorios
+	'''
+GsGladiatorArmor.EndowLine:
+	'''
+	Andanada del Triunfo: los golpes acumulan reconocimiento; con 6 acumulaciones, el siguiente golpe lanza tres jabalinas de bronce desde tu hombro
+	Las jabalinas inmovilizan al enemigo en andanadas arqueadas
+	'''

@@ -134,11 +134,6 @@ Configs: {
 			Tooltip: Activa/Desactiva la traducción de Spirit Mod.
 		}
 
-		SpiritReforgedLocalization: {
-			Label: Spirit Reforged
-			Tooltip: Activa/Desactiva la traducción de Spirit Reforged.
-		}
-
 		AncientsAwakenedLocalization: {
 			Label: Ancients Awakened
 			Tooltip: Activa/Desactiva la traducción de Ancients Awakened.
@@ -164,6 +159,16 @@ Configs: {
 		DeterministicChaosLocalization: {
 			Label: Deterministic Chaos
 			Tooltip: Activa/Desactiva la traducción de Deterministic Chaos.
+		}
+
+		SpiritReforgedLocalization: {
+			Label: Spirit Reforged
+			Tooltip: Activa/Desactiva la traducción de Spirit Reforged.
+		}
+
+		ModOfRedemptionLocalization: {
+			Label: Mod of Redemption [BETA]
+			Tooltip: Activa/Desactiva la traducción de Mod of Redemption [BETA].
 		}
 
 		CalamityModMusicLocalization: {

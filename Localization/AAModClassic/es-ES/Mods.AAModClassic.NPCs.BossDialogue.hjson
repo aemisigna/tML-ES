@@ -634,6 +634,8 @@ ShenDoragon: {
 				SacredTools: ¿¡Apagando esa calabaza abismal! ¡¡Ahora eso fue un espectáculo!
 				Catalyst: Realmente limpiaste el piso con la pila de lodo púrpura.
 				CalamityHunt: Debió haber tomado mucho para poner a esos limos de vuelta en su lugar. ¡¿Quién habría pensado que podrían poner una pelea!?
+				JetshiftPort: ¿Pero cuando ese antiguo dragón de hielo soltó su último rugido agonizante? Eso sí que fue llamativo.
+				SOTS: Verte despedazar a esa serpiente que dobla el espacio fue todo un entretenimiento.
 
 				Split: {
 					Seth: Admito, derribar a ese tipo de cabello caliente con espada fue bastante un espectáculo presenciar.
@@ -650,6 +652,7 @@ ShenDoragon: {
 
 				YouBoss: Quiero decir, ¿¡¿destrozar tu propio reflejo cobrado vida! ¡¡Eso es impresionante!
 				Radiance: No pensaba que esa hada del sol fuera muy impresionante hasta que lograste sacar su poder completo. ¡¡Eso fue un espectáculo!
+				NoxusBoss: ¿Traer ese abismo que se traga el sol hasta nuestra puerta? Para ser sincero, ¡esa cosa hasta a mí me tiene un poco inquieto!
 			}
 
 			30: {
@@ -887,6 +890,7 @@ InfinityZero: {
 					Discord: {
 						Server: {
 							CalDev: ¿¿¿¿Por qué estás peleando conmigo??? ¿¿¿¿¡¡¡No tienes una Reforma de Mar Hundido en la que trabajar o algo!!!???
+							AACord: Te prometo que a nadie en el servidor de Antiguos Despertados le importa que me hayas vencido. Ríndete ya.
 							Default: ¿¿Por qué no vuelves a {0} y encuentras a alguien para molestar allí, está bien?
 						}
 
@@ -906,6 +910,7 @@ InfinityZero: {
 					NoMod: Ve e instala otro mod o algo. Hay muchos en el navegador de mods para elegir.
 					#New Additions
 					Jetshift: ¿¿¿No puedes ir a molestar a esos dos tipos del meteoro???
+					JetshiftPort: ¿¿¿Por qué no vas a molestar a Shen??? Dicen que hay posibilidad de que se vuelva Mutado. Sí, ve a derrotar a Shen Doragon Despertado Mutado.
 					StarsAbove: Ve a molestar a Tsukiyomi, o simplemente ve a charlar con tu amigo Viajero Estelar en lugar de molestarme.
 					LunarVeil: ¿¿Conoces a Gothiva, verdad??? Ve a pelear con ella. Oí que es dura.
 					Catalyst: ¿¿Por qué no apalizas a ese cosa Astrageldon de nuevo??? Oí que si lo haces sin golpear puedes obtener una caída especial.
@@ -917,6 +922,13 @@ InfinityZero: {
 					YouBoss: ¿¡¿¡¿No puedes mantenerte ocupado! como, literalmente, con ese tipo del espejo!
 					Radiance: ¿¿¿¿No tiene esa hada del sol algunos trucos nuevos??? Ve a pelear con ella en su lugar.
 					Fables: ¿¿¿Por qué no pagas otra visita a tu amigo nautilo??? Él realmente disfruta peleando contigo.
+
+					NoxusBoss: {
+						PreNameless: ¿No tienes alguna gran prueba que completar? ¿O Solyn murió en vano?
+						PostNameless: ¿Por qué no haces mejor esa cosa de la prueba de resolución? Conseguiste esa Semilla de la voluntad, ¿no? Azathoth sin duda disfruta peleando contigo más que yo.
+					}
+
+					SOTS: ¿¿¿No puedes ir al Planetario en lugar de molestarme???
 				}
 			}
 		}

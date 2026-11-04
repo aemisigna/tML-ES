@@ -28,3 +28,25 @@ RDemonConch: {
 		«Ten cuidado.»
 		'''
 }
+
+RBloodButcherer: {
+	DisplayName: "{$ItemName.BloodButcherer}"
+	Tooltip:
+		'''
+		Combo de carnicero pesado de tres golpes; el tercer tajo barre con más amplitud y fuerza
+		Los giros lanzan chorros de sangre oscura en arco que salpican al impactar
+		Los enemigos golpeados quedan descuartizados por la sangre
+		'''
+}
+
+RTerraBlade: {
+	DisplayName: "{$ItemName.TerraBlade}"
+	Tooltip:
+		'''
+		Combo de cinco tiempos: dos tajos verticales pesados, dos barridos elípticos rápidos y luego un gran giro
+		Cada golpe libera Luz de Terra teledirigida a lo largo de la trayectoria de la hoja: 1 por tajo, 2 por barrido y 4 en el giro
+		La Luz de Terra que golpea a un enemigo invoca una de las almas forjadas en la espada, alternando entre luz y noche
+		Alma de luz: un Excalibur Verdadero espectral desciende desde arriba y atraviesa al objetivo
+		Alma de noche: un Verdadero Filo de la Noche espectral gira en el punto de impacto, golpeando repetidamente
+		'''
+}

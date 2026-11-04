@@ -3063,7 +3063,7 @@ KitCatClock: {
 }
 
 AltStrandedShipMusicBox: {
-	DisplayName: Stranded Ship - Extended
+	DisplayName: Music Box (Stranded Ship - Extended)
 	Tooltip: ""
 }
 
@@ -3840,10 +3840,10 @@ AstroQuiver: {
 	DisplayName: Mystic Pack
 	Tooltip:
 		'''
-		Increases arrow damage by 12% and greatly increases arrow speed
-		20% chance to not consume arrow
+		Increases arrow damage by 8% and greatly increases arrow speed
+		{$EnchantedArrow.Tooltip}
 		Makes arrows slightly home towards enemies
-		Shoots additional golden arrows when you use any bow
+		20% chance to not consume arrow
 		'''
 }
 
@@ -3954,12 +3954,7 @@ BuryTheLight: {
 
 EnchantedArrow: {
 	DisplayName: Golden Arrowhead
-	Tooltip:
-		'''
-		Shoots additional golden arrows when you use any bow
-		Consumes 20 mana per shot
-		Doesn't shoot if placed in the hidden slot
-		'''
+	Tooltip: Increases arrow critical strike chance and critical damage by {0}%
 }
 
 BlazingScope: {

@@ -1,0 +1,215 @@
+GodSmithFeralClaws.EffectDesc:
+	'''
+	Tempo Salvaje: encadenar golpes cuerpo a cuerpo durante 2.5 s acumula un 1% de velocidad cuerpo a cuerpo por golpe, hasta 8 acumulaciones
+	Con 6 acumulaciones o más, los golpes desprenden chispas de garra salvaje; recibir un golpe rompe el tempo
+	'''
+GodSmithTitanGlove.EffectDesc:
+	'''
+	Terremoto Titánico: cada quinto golpe cuerpo a cuerpo descarga una onda de choque alrededor del objetivo
+	Inflige un 35% / 45% / 55% de ese golpe (Titán / Poder / Mecánico) en un área con mucho retroceso
+	'''
+GodSmithFireGauntlet.EffectDesc:
+	'''
+	Terremoto Fundido: cada quinto golpe cuerpo a cuerpo hace erupcionar una onda de choque ardiente que inflige un 60% de ese golpe
+	La explosión prende fuego a los enemigos con Fuego Infernal
+	'''
+GodSmithBerserkerGlove.EffectDesc:
+	'''
+	Terremoto Frenético: cada quinto golpe cuerpo a cuerpo detona una onda de choque que inflige un 70% de ese golpe
+	Cada terremoto te enfurece: +10% de velocidad cuerpo a cuerpo durante 3 s
+	'''
+GodSmithWarriorEmblem.EffectDesc:
+	'''
+	Impulso de Guerra: los golpes cuerpo a cuerpo acumulan fervor, +1.5% de daño cuerpo a cuerpo por acumulación, hasta 6 acumulaciones (4 s)
+	Con las acumulaciones al máximo, los golpes emiten un destello dorado; recibir un golpe elimina 3 acumulaciones
+	'''
+GodSmithRangerEmblem.EffectDesc:
+	'''
+	Caza de Largo Alcance: los golpes a distancia desde más de 25 bloques otorgan Concentración durante 4 s: +8% de daño a distancia
+	Los golpes concentrados brillan con chispas trazadoras plateadas
+	'''
+GodSmithSorcererEmblem.EffectDesc:
+	'''
+	Resurgimiento Arcano: los golpes mágicos restauran 6 de maná, o 12 cuando tienes menos de un 30% de maná
+	Se activa una vez cada 0.75 s
+	'''
+GodSmithSummonerEmblem.EffectDesc:
+	'''
+	Llamada de la Legión: los golpes de súbditos y látigos reúnen a la legión, +1.5% de daño de invocación por acumulación, hasta 4 acumulaciones (6 s)
+	Al reunir la legión por completo, emite un anillo de mando dorado
+	'''
+GodSmithAvengerEmblem.EffectDesc:
+	'''
+	Marca del Vengador: recibir un golpe te marca con venganza durante 5 s: +8% de daño de todos los tipos
+	La marca emite un destello de color rojo sangre y dorado al recibir un golpe
+	'''
+GodSmithDestroyerEmblem.EffectDesc:
+	'''
+	Protocolo de Aniquilación: golpear a un enemigo con menos de un 20% de vida dispara contra él un pulso de sonda carmesí
+	El pulso inflige un 50% de ese golpe, una vez cada 0.67 s
+	'''
+GodSmithEyeoftheGolem.EffectDesc:
+	'''
+	Mirada del Gólem: asestar un golpe crítico fija la mirada durante 4 s: +6% de probabilidad de ataque crítico
+	Se activa una vez cada 1.5 s; los golpes críticos de la mirada arden con chispas solares
+	'''
+GodSmithMagicQuiver.EffectDesc:
+	'''
+	Disparo de Lumen: cada séptimo golpe a distancia conjura un virote espectral que se dirige hacia el objetivo
+	El virote inflige un 45% de ese golpe al atravesar
+	'''
+GodSmithMoltenQuiver.EffectDesc:
+	'''
+	Núcleo Fundido: los golpes a distancia prenden fuego al objetivo con Fuego Infernal, una vez cada 0.75 s
+	Cada ignición aviva tu núcleo durante 4 s: +6 de penetración de armadura a distancia
+	'''
+GodSmithStalkersQuiver.EffectDesc:
+	'''
+	Velo del Acechador: después de 4 s sin recibir daño, te deslizas dentro del velo: +8% de daño a distancia
+	Los golpes velados dejan chispas crepusculares; recibir un golpe rompe el velo
+	'''
+GodSmithNaturesGift.EffectDesc:
+	'''
+	Bendición de la Naturaleza: los golpes mágicos florecen con vida, curando 5 PV y restaurando 5 de maná
+	Se activa una vez cada 1.5 s
+	'''
+GodSmithManaFlower.EffectDesc:
+	'''
+	Oleada de Néctar: bajar de un 20% de maná restaura al instante 50 de maná en una ráfaga de pétalos
+	Se activa una vez cada 10 s
+	'''
+GodSmithArcaneFlower.EffectDesc:
+	'''
+	Sifón Arcano: los golpes mágicos absorben poder, +1% de daño mágico por acumulación, hasta 6 acumulaciones (5 s)
+	Con el sifón al máximo, tus hechizos también cuestan un 5% menos de maná
+	'''
+GodSmithMagnetFlower.EffectDesc:
+	'''
+	Arco Magnético: los golpes mágicos lanzan un arco de carga contra otro enemigo a 19 bloques o menos
+	El arco inflige un 35% de ese golpe, una vez cada 0.75 s
+	'''
+GodSmithManaCloak.EffectDesc:
+	'''
+	Estrellas Tejidas: los golpes mágicos tejen polvo estelar de maná a tu alrededor, hasta 3 cargas
+	Al recibir un golpe, todo el polvo estelar almacenado sale disparado como virotes estelares teledirigidos que infligen 60 de daño cada uno
+	'''
+GodSmithRifleScope.EffectDesc:
+	'''
+	Puntería Estable: permanecer quieto durante 1.25 s estabiliza la mira; tu siguiente golpe a distancia libera una bala trazadora perforadora
+	La trazadora inflige un 45% / 60% / 75% de ese golpe (Rifle / Francotirador / Reconocimiento) y atraviesa a 2 / 3 / 4 enemigos
+	Moverte rápidamente agota tu puntería
+	'''
+GodSmithPygmyNecklace.EffectDesc:
+	'''
+	Danza de Guerra: los golpes de súbditos mantienen la danza, +1.2% de daño de invocación por acumulación, hasta 5 acumulaciones (6 s)
+	Con el tempo al máximo, los golpes de súbditos dispersan chispas de plumas tribales
+	'''
+GodSmithNecromanticScroll.EffectDesc:
+	'''
+	Cosecha de Almas: cuando un súbdito asesta un golpe mortal, una llama de alma ligada se eleva del cadáver
+	Se dirige hacia el enemigo más cercano e inflige un 40% del golpe mortal, una vez cada 1.5 s
+	'''
+GodSmithPapyrusScarab.EffectDesc:
+	'''
+	Escarabajo Dorado: los golpes de súbditos cubren al objetivo con Midas, una vez cada 1 s
+	Mientras haya algún enemigo dorado, tus súbditos infligen un 5% más de daño
+	'''
+GodSmithHerculesBeetle.EffectDesc:
+	'''
+	Embestida de Hércules: los golpes de súbditos acumulan fuerza de lucha; con 8 cargas, el siguiente golpe de súbdito
+	libera un cuerno de escarabajo colosal que embiste a través de la línea e inflige un 90% de ese golpe con un retroceso enorme
+	'''
+GodSmithShackle.EffectDesc:
+	'''
+	Hierros Ligados al Alma: recibir un golpe te ancla durante 4 s: inmunidad al retroceso y +4 de defensa
+	Se activa una vez cada 5 s
+	'''
+GodSmithCobaltShield.EffectDesc:
+	'''
+	Eco del Baluarte: recibir un golpe hace sonar el escudo y otorga +6 / +8 / +10 de defensa (Cobalto / Obsidiana / Ankh) durante 3 s
+	El eco de Obsidiana prende fuego a los enemigos cercanos; el eco de Ankh también elimina hasta 2 efectos negativos
+	Se activa una vez cada 4 s
+	'''
+GodSmithPaladinsShield.EffectDesc:
+	'''
+	Retribución del Paladín: recibir un golpe lanza un martillo justiciero contra el enemigo más cercano
+	El martillo inflige un 150% del daño que recibiste y atraviesa a 3 enemigos, una vez cada 5 s
+	El daño absorbido por tus compañeros de equipo también cuenta
+	'''
+GodSmithHeroShield.EffectDesc:
+	'''
+	Pacto del Héroe: recibir un golpe sella un pacto durante 5 s: +8 de defensa y tus golpes cuerpo a cuerpo drenan 1 PV
+	Se activa una vez cada 4 s
+	'''
+GodSmithFrozenShield.EffectDesc:
+	'''
+	Guardia Criónica: un golpe mortal se congela en el cristal; sobrevives con un 25% de vida máxima,
+	los enemigos cercanos reciben una explosión de Quemadura por Escarcha y obtienes inmunidad breve
+	Una vez cada 90 s
+	'''
+GodSmithStarCloak.EffectDesc:
+	'''
+	Eco de Lluvia Estelar: recibir un golpe hace caer 2 estrellas del Dios Herrero adicionales a las del juego base
+	Cada una inflige 40 de daño y deja un rastro dorado, una vez cada 2 s
+	'''
+GodSmithBeeCloak.EffectDesc:
+	'''
+	Enjambre Guardián: recibir un golpe hace salir 3 abejas sorprendidas de la capa y te cubre de miel durante 5 s
+	Se activa una vez cada 3 s
+	'''
+GodSmithCrossNecklace.EffectDesc:
+	'''
+	Reparación del Mártir: recibir un golpe abre una ventana de reparación de 3 s: regeneración de +3 PV/s
+	y inmunidad al retroceso mientras dure
+	'''
+GodSmithStarVeil.EffectDesc:
+	'''
+	Cortina Estelar: recibir un golpe extiende una cortina de luz estelar durante 2.5 s: el daño recibido posteriormente se reduce en un 30%
+	Se activa una vez cada 5 s
+	'''
+GodSmithMoonCharm.EffectDesc:
+	'''
+	Caza Lunar: de noche, tus mordiscos cuerpo a cuerpo drenan 2 PV de la presa, una vez cada 0.5 s
+	Cada mordisco brilla con chispas de plata lunar
+	'''
+GodSmithMoonStone.EffectDesc:
+	'''
+	Égida Lunar: de noche, recibir un golpe te cubre de luz lunar durante 4 s: +8 de defensa
+	Se activa una vez cada 4 s
+	'''
+GodSmithNeptunesShell.EffectDesc:
+	'''
+	Oleada Mareal: sumergirte en agua levanta una guardia de marea durante 5 s: +6 de defensa, una vez cada 5 s
+	Mientras estás mojado, tus golpes salpican espuma marina
+	'''
+GodSmithCelestialStone.EffectDesc:
+	'''
+	Fases del Día y la Noche: de día, tus golpes prenden fuego a los enemigos con Fuego Infernal; de noche, los abrasan con Quemadura por Escarcha
+	Se activa una vez cada 2 s, emitiendo destellos de sol dorado o escarcha lunar
+	'''
+GodSmithCelestialShell.EffectDesc:
+	'''
+	Totalidad Celestial: de día, los golpes prenden fuego; de noche, infligen Quemadura por Escarcha, una vez cada 1.5 s
+	Sumergirte en agua levanta una guardia de marea durante 5 s: +8 de defensa, una vez cada 5 s
+	'''
+GodSmithCharmofMyths.EffectDesc:
+	'''
+	Resplandor Mítico: beber una poción de curación deja un resplandor durante 8 s: regeneración de +2 PV/s
+	El resplandor gira en verde esmeralda mientras te repara
+	'''
+GodSmithWormScarf.EffectDesc:
+	'''
+	Caparazón Simbiótico: cada golpe recibido hace crecer una placa de caparazón: -4% de daño recibido por placa, hasta 3 placas (8 s)
+	La bufanda se enrolla con más fuerza cuanto mayor es la presión que soportas
+	'''
+GodSmithBrainOfConfusion.EffectDesc:
+	'''
+	Onda de Choque Neural: recibir un golpe libera una onda psíquica: los enemigos cercanos quedan confundidos durante 3 s
+	y tu propia mente se acelera: +8% de daño durante 3 s. Se activa una vez cada 4 s
+	'''
+GodSmithShieldofCthulhu.EffectDesc:
+	'''
+	Ruptura de la Pupila: embestir a un enemigo con tu impulso rompe una onda de choque carmesí a su alrededor
+	que inflige 25 de daño con mucho retroceso, una vez cada 1.5 s
+	El impulso deja una mirada carmesí
+	'''

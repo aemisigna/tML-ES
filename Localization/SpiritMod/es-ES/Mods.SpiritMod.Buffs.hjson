@@ -5,27 +5,39 @@ AceOfDiamondsBuff: {
 
 AngelLight: {
 	DisplayName: Luz del Ángel
-	Description: Mods.SpiritMod.Buffs.AngelLight.Description
+	Description: ""
 }
 
 AngelWrath: {
 	DisplayName: Ira del Ángel
-	Description: Mods.SpiritMod.Buffs.AngelWrath.Description
+	Description: ""
 }
 
 ExplorerFight: {
 	DisplayName: Fuerza de Golpe
-	Description: ¡Le estás agarrando la onda!
+	Description:
+		'''
+		¡Le estás agarrando la onda!
+		Aumenta un {0}% el daño infligido
+		'''
 }
 
 ExplorerMine: {
 	DisplayName: Fuerza del Explorador
-	Description: ¡Sigue cavando!
+	Description:
+		'''
+		¡Sigue cavando!
+		Aumenta la velocidad de minería: {0} acumulaciones
+		'''
 }
 
 ExplorerPot: {
 	DisplayName: Vigor del Explorador
-	Description: ¡Tienes ganas de más!
+	Description:
+		'''
+		¡Tienes ganas de más!
+		Aumenta en un {0}% la velocidad de movimiento
+		'''
 }
 
 FrigidCooldown: {
@@ -50,7 +62,11 @@ AstralMapCooldown: {
 
 BeetleFortitude: {
 	DisplayName: Fortaleza de Escarabajo
-	Description: Cada golpe te fortalece...
+	Description:
+		'''
+		Cada golpe te fortalece...
+		Reduce un {0}% el daño recibido
+		'''
 }
 
 BloodInfusion: {
@@ -70,7 +86,7 @@ ChocolateBuff: {
 
 HealthBuffC: {
 	DisplayName: Caramelo Curativo
-	Description: +25 de vida.
+	Description: +25 de vida
 }
 
 LollipopBuff: {
@@ -110,7 +126,7 @@ CrimsonSkullBuff: {
 
 Death: {
 	DisplayName: Muerte
-	Description: Mods.SpiritMod.Buffs.Death.Description
+	Description: ""
 }
 
 DeathRoseCooldown: {
@@ -120,7 +136,7 @@ DeathRoseCooldown: {
 
 AcidBurn: {
 	DisplayName: Garra Tóxica
-	Description: Mods.SpiritMod.Buffs.AcidBurn.Description
+	Description: ""
 }
 
 Afflicted: {
@@ -135,12 +151,12 @@ BloodCorrupt: {
 
 CryoCrush: {
 	DisplayName: Aplastamiento Criogénico
-	Description: Mods.SpiritMod.Buffs.CryoCrush.Description
+	Description: ""
 }
 
 DoomDestiny: {
 	DisplayName: Corte Estelar
-	Description: Mods.SpiritMod.Buffs.DoomDestiny.Description
+	Description: ""
 }
 
 FesteringWounds: {
@@ -150,7 +166,7 @@ FesteringWounds: {
 
 DrainLife: {
 	DisplayName: Drenar Vida
-	Description: Tu energía vital se convierte en la suya.
+	Description: Tu energía vital se convierte en la suya
 }
 
 DynastyFanBuff: {
@@ -165,7 +181,7 @@ ElectrifiedV2: {
 
 EleutheriosBuff: {
 	DisplayName: Fuerza de Eleutherios
-	Description: Aumenta el daño en un 0%
+	Description: Aumenta un {0}% el daño
 }
 
 FateBlessing: {
@@ -183,22 +199,9 @@ BurningRage: {
 	Description: Estás recibiendo daño
 }
 
-CollapsingVoid.DisplayName: Vacío Colapsante
-DevouringVoid.DisplayName: Vacío Devorador
-
 DivineStrike: {
 	DisplayName: Golpe Divino
 	Description: Tu próximo ataque infligirá más daño
-}
-
-PhantomVeil: {
-	DisplayName: Velo Fantasma
-	Description: El próximo ataque será bloqueado
-}
-
-SanguineBleed: {
-	DisplayName: Sangrado Carmesí
-	Description: Estás perdiendo sangre rápidamente
 }
 
 SanguineRegen: {
@@ -211,16 +214,9 @@ TemporalShift: {
 	Description: Pulsa dos veces para hacer un dash y obtener un impulso de velocidad temporal
 }
 
-WanderingPlague.DisplayName: Plaga Errante
-
-WindBurst: {
-	DisplayName: Ráfaga de Viento
-	Description: El empuje se amplifica
-}
-
 GraniteArrow_Debuff: {
 	DisplayName: Efecto Negativo de Flecha de Granito
-	Description: Mods.SpiritMod.Buffs.GraniteArrow_Debuff.Description
+	Description: ""
 }
 
 GreekFire: {
@@ -228,14 +224,9 @@ GreekFire: {
 	Description: Incendiado por los mismísimos Dioses
 }
 
-HighGravityBuff: {
-	DisplayName: Alta Gravedad
-	Description: La gravedad vuelve a la normalidad
-}
-
 HolyLight: {
 	DisplayName: Luz Sagrada
-	Description: Mods.SpiritMod.Buffs.HolyLight.Description
+	Description: ""
 }
 
 IceBerryBuff: {
@@ -290,17 +281,12 @@ TideMountBuff: {
 
 NebulaFlame: {
 	DisplayName: Llama Nebular
-	Description: Mods.SpiritMod.Buffs.NebulaFlame.Description
+	Description: ""
 }
 
 OliveBranchBuff: {
 	DisplayName: Resolución Pacífica
 	Description: "'Haz las paces con tus enemigos'"
-}
-
-OnyxWind: {
-	DisplayName: Torbellino de Ónix
-	Description: Aumenta la velocidad de movimiento en un 10%
 }
 
 OracleBoonBuff: {
@@ -561,11 +547,6 @@ Stopped: {
 	Description: Estás inmovilizado en el sitio
 }
 
-Sturdy: {
-	DisplayName: Robusto
-	Description: "'Tu caparazón se ha agrietado'"
-}
-
 ElectricSummonTag: {
 	DisplayName: Marca de Invocación
 	Description: ¡Marcado!
@@ -643,7 +624,7 @@ VirulenceCooldown: {
 
 Wither: {
 	DisplayName: Marchitar
-	Description: Mods.SpiritMod.Buffs.Wither.Description
+	Description: ""
 }
 
 WitheringLeaf: {
@@ -679,11 +660,6 @@ LowGravZoneBuff: {
 LowGravZoneTimer: {
 	DisplayName: Zona de Baja Gravedad
 	Description: ¡La Zona de Baja Gravedad está activa!
-}
-
-RepulsionZoneTimer: {
-	DisplayName: Zona de Repulsión
-	Description: ¡La Zona de Repulsión está activa!
 }
 
 ShieldZoneTimer: {
@@ -726,11 +702,6 @@ RunicSiphon: {
 	Description: Reduce la resistencia al daño y pierdes vida rápidamente
 }
 
-ManajinxBuff: {
-	DisplayName: Encantamiento de Luz Estelar
-	Description: Las armas mágicas generan estrellas teledirigidas adicionales, y el uso de maná se reduce drásticamente
-}
-
 PendantBuff: {
 	DisplayName: Amigo Cochinilla
 	Description: "'¡Rocanrol!'"
@@ -744,11 +715,6 @@ MirrorCoatBuff: {
 SaddleBuff: {
 	DisplayName: Montura Ciervo de la Aurora
 	Description: Sientes el poder de las estrellas
-}
-
-CosmicRattlerPetBuff: {
-	DisplayName: Starachnid
-	Description: "'Dentro de él puedes ver las profundidades del espacio'"
 }
 
 Empowered: {
@@ -794,6 +760,7 @@ Crystallization: {
 Golden_Curse: {
 	DisplayName: Maldición Dorada
 	Description: Aumenta la velocidad de caída y el daño
+	Death: "{0} murió convertido en un lingote de oro macizo"
 }
 
 Crawlerock_Buff: {
@@ -874,11 +841,6 @@ PigronMinion_Buff: {
 FairyMinion_Buff: {
 	DisplayName: Hadas
 	Description: ¡Oye! ¡Ten cuidado!
-}
-
-Jinxprobe_Buff: {
-	DisplayName: Jinxprobe Diminuto
-	Description: El Jinxprobe luchará por ti
 }
 
 StarplateDrone_Buff: {

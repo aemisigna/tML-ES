@@ -1,0 +1,41 @@
+GsLastPrism.Desc:
+	'''
+	Reforjado: el calor es concentración; seis rayos abiertos convergen en una lanza al rojo vivo y, con el calor blanco, el impacto refracta fragmentos de prisma
+	Llenar el medidor nunca rompe el rayo, solo aumenta el mantenimiento de maná
+	Clic derecho mientras canalizas para quebrar la lanza en un abanico prismático y gastar todo el calor
+	'''
+GsLastPrismHeldProj.DisplayName: Lanza del Último Prisma
+GsLastPrismBurstProj.DisplayName: Fragmentación Prismática
+GsLastPrismShardProj.DisplayName: Fragmento de Prisma
+GsMagicalHarp.Desc:
+	'''
+	Reforjada: tocar sin interrupción crea un crescendo; en fortísimo, las notas se hinchan, corren y hacen llover música
+	Los golpes cortos consecutivos también hacen eco con daño adicional
+	'''
+GsBubbleGun.Desc:
+	'''
+	Reforjada: rociar sin parar aumenta la presión de burbujas; al hervir, las burbujas se hinchan y estallan en dos cuentas al impactar
+	Llenar el medidor atasca el cañón con un chorro de espuma
+	'''
+GsLaserMachinegun.Desc:
+	'''
+	Reforjada: el calor es giro; el cañón arrastra el frío y ruge al rojo vivo, momento en que cada sexto disparo recorre una lanza carmesí perforadora
+	Mantener el medidor en el límite rojo solo aumenta el mantenimiento de maná
+	'''
+GsRazorbladeTyphoon.Desc: Reforjada: cada lanzamiento almacena carga de tormenta; las hojas creadas con calor blanco nunca se pierden, regresan girando a tu lado y vuelven a cazar
+GsMagnetSphere.Desc:
+	'''
+	Reforjada: mientras sostienes el bastón, un vínculo de alimentación te conecta con la esfera y el flujo magnético aumenta mientras el vínculo perdura
+	Con el flujo al máximo, la esfera se sobrecarga y azota con arcos pesados todo lo que se acerque
+	'''
+GsShadowbeamStaff.Desc: Reforjado: mantén para sostener un rayo sombrío que rebota en las paredes; el calor blanco añade un rebote y engrosa el rayo
+GsChargedBlasterCannon.Desc:
+	'''
+	Reforjado: mantén para canalizar; el plasma frío escupe virotes y el calor blanco emite pulsos de lanzas de arco concentradas
+	La carga nunca se detiene: llena el medidor y el cañón dispara el Aniquilador, una esfera de plasma enorme que lanza arcos contra todo lo cercano
+	'''
+GsLaserMachinegunLanceProj.DisplayName: Lanza Carmesí
+GsShadowbeamStaffHeldProj.DisplayName: Rayo Polilineal Sombrío
+GsChargedBlasterCannonHeldProj.DisplayName: Carga de Aniquilación
+GsChargedBlasterCannonOrbProj.DisplayName: Aniquilador
+GsMagicalHarpNovaProj.DisplayName: Onda de Choque de Acorde

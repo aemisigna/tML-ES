@@ -387,6 +387,11 @@ Pages: {
 				DisplayName: "[i:SpiritReforged/ZenithPotsItem] Escala de Maceta Zenith"
 				Tooltip: Multiplicador del número de intentos para las Macetas Zenith de un mundo zenith.
 			}
+
+			WaxScale: {
+				DisplayName: "[i:SpiritReforged/WaxPotItem] Escala de Maceta de Cera"
+				Tooltip: Multiplicador del número de intentos para las Macetas de Cera.
+			}
 		}
 
 		Presets: {
@@ -469,6 +474,21 @@ Pages: {
 			PotSpam: {
 				DisplayName: "[i:SpiritReforged/PotteryWheelItem] (Almacenamiento) Conteo de Macetas"
 				Tooltip: El número mínimo de intentos que las estructuras de cerámica tienen para colocar macetas.
+			}
+
+			EnchantedWorkbenchChance: {
+				DisplayName: "[i:SpiritReforged/EnchantedWorkbenchItem] (Casas) Probabilidad de Prensa de Cera"
+				Tooltip: El denominador (1/x) de la probabilidad de que aparezca una Prensa de Cera en una casa subterránea.
+			}
+
+			DisplayCaseChance: {
+				DisplayName: "[i:SpiritReforged/DisplayCaseItem] (Casas) Probabilidad de Vitrina"
+				Tooltip: El denominador (1/x) de la probabilidad de que aparezca una Vitrina en una casa subterránea.
+			}
+
+			MirrorRate: {
+				DisplayName: "[i:SpiritReforged/EnchantedMirrorItem] (Decoración) Tasa de Espejos"
+				Tooltip: El multiplicador de la cantidad máxima de Espejos de Regreso que aparecen en un mundo.
 			}
 		}
 
@@ -619,6 +639,71 @@ Pages: {
 				DisplayName: "[i:SpiritReforged/LapisDresserItem] Cantidad de Botín del Tocador"
 				Tooltip: El rango para el número de artículos en un tocador.
 			}
+
+			DebrisMinimum: {
+				DisplayName: "[i:3271] (Ruinas) Mínimo de Escombros"
+				Tooltip: La cantidad mínima de escombros aleatorios a generar.
+			}
+
+			DebrisRange: {
+				DisplayName: "[i:3271] (Ruinas) Rango de Escombros"
+				Tooltip: El rango de escombros aleatorios a generar.
+			}
+
+			TopPlatChance: {
+				DisplayName: "[i:SpiritReforged/BronzePlatformItem] (Ruinas) Probabilidad de Plataforma Superior"
+				Tooltip: La probabilidad de que aparezcan plataformas en la parte superior de una estructura.
+			}
+
+			BottomPlatChance: {
+				DisplayName: "[i:SpiritReforged/BronzePlatformItem] (Ruinas) Probabilidad de Plataforma Inferior"
+				Tooltip: La probabilidad de que aparezcan plataformas en la parte inferior de una estructura.
+			}
+
+			FlagpoleChance: {
+				DisplayName: "[i:SpiritReforged/FlagRingItem] (Ruinas) Probabilidad de Asta de Bandera"
+				Tooltip: La probabilidad de que se generen astas de bandera.
+			}
+
+			FlagpoleCountMinimum: {
+				DisplayName: "[i:SpiritReforged/FlagRingItem] (Ruinas) Cantidad Mínima de Astas de Bandera"
+				Tooltip: La cantidad mínima de astas de bandera a generar.
+			}
+
+			FlagpoleCountRange: {
+				DisplayName: "[i:SpiritReforged/FlagRingItem] (Ruinas) Rango de Cantidad de Astas de Bandera"
+				Tooltip: El rango de astas de bandera a generar.
+			}
+
+			FlagpoleHeightMin: {
+				DisplayName: "[i:SpiritReforged/FlagRingItem] (Ruinas) Altura Mínima de Astas de Bandera"
+				Tooltip: La altura mínima de las astas de bandera.
+			}
+
+			FlagpoleHeightRange: {
+				DisplayName: "[i:SpiritReforged/FlagRingItem] (Ruinas) Rango de Altura de Astas de Bandera"
+				Tooltip: El rango de altura de las astas de bandera.
+			}
+
+			PotMultiplier: {
+				DisplayName: "[i:SpiritReforged/PotsDesertItem] (Ruinas) Multiplicador de Macetas"
+				Tooltip: Un multiplicador para la cantidad de macetas a generar.
+			}
+
+			ChestChance: {
+				DisplayName: "[i:4267] (Ruinas) Probabilidad de Cofre"
+				Tooltip: La probabilidad de que se genere un cofre.
+			}
+
+			UncommonPotChance: {
+				DisplayName: "[i:SpiritReforged/BiomePotsDesertItem] (Ruinas) Probabilidad de Maceta Poco Común"
+				Tooltip: La probabilidad de que se generen macetas poco comunes.
+			}
+
+			AbovegroundPillarChance: {
+				DisplayName: "[i:SpiritReforged/RuinedSandstonePillarItem] (Ruinas) Probabilidad de Pilar en Superficie"
+				Tooltip: La probabilidad de que se generen pilares adicionales.
+			}
 		}
 
 		Presets: {
@@ -665,8 +750,8 @@ Pages: {
 			}
 
 			GlowflowerChance: {
-				DisplayName: "[i:4045] (Oasis) Probabilidad de Flor Luminosa"
-				Tooltip: Probabilidad de que una Flor Luminosa sea colocada.
+				DisplayName: "[i:4045] (Oasis) Probabilidad de Mariglow"
+				Tooltip: Probabilidad de que se coloque Mariglow.
 			}
 
 			PineappleChance: {

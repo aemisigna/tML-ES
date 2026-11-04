@@ -1,1 +1,24 @@
 HeadPrimeAI.SkeletronPrime_Text: ¡No intentes matarme con esa porquería! ¡Muere, organismo!
+
+WallOfFleshAI: {
+	CurtainDeathReason: "{0} fue tragado por la marea de sangre"
+	NetDeathReason: "{0} fue despedazado por la red del Hambriento"
+}
+
+EmpressOfLightAI: {
+	# Phase 3 transformation lines, spoken at fixed ticks; the seventh plays when the closing ring finishes and she can be killed again
+	Ascension_0: ...¿Eh?
+	Ascension_1: ¿Cómo es posible?
+	Ascension_2: He llevado mi luz al límite. ¿Cómo sigues en pie?
+	Ascension_3: ...No.
+	Ascension_4: No me inclinaré ante ti así.
+	Ascension_5: Si quieres esta pelea, te llevarás hasta mi último rayo de luz.
+	Ascension_6: Ahora. Te toca a ti.
+	# Concession monologue, one line per beat of the death performance
+	Farewell_0: ...Basta.
+	Farewell_1: Eres mucho más fuerte de lo que aparentas.
+	Farewell_2: Esas mariposas lo son todo para mí. Déjalas en paz, y este cielo seguirá siendo nuestro para compartir.
+	Farewell_3: La luz te recordará.
+	# Moon Shadow: death reason for a player caught outside the shadow cones during the whiteout
+	WhiteoutDeath: "{0} se evaporó en su luz"
+}

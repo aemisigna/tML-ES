@@ -1,0 +1,40 @@
+GsMonkArmor.EndowLine:
+	'''
+	Trueno Zen: permanecer dentro de tu propia Aura de Relámpagos activa el zen
+	Cada cuarto golpe cuerpo a cuerpo o de invocación durante el zen libera una onda perforadora de palma atronadora
+	'''
+GsMonkShinobiArmor.EndowLine:
+	'''
+	Trueno Zen, Shinobi: las palmas zen aparecen cada tercer golpe
+	Cada onda se divide en dos palmas laterales al primer impacto
+	'''
+GsSquireArmor.EndowLine:
+	'''
+	Baluarte del Juramento: recibir un golpe levanta el escudo del juramento durante 5 segundos
+	Los ataques cuerpo a cuerpo durante ese tiempo lanzan una lanza de juramento dorada desde tu hombro
+	'''
+GsSquireValhallaArmor.EndowLine:
+	'''
+	Baluarte del Juramento, Valhalla: el escudo dura 6 segundos
+	Cada golpe cuerpo a cuerpo durante ese tiempo lanza dos lanzas de juramento
+	'''
+GsHuntressArmor.EndowLine:
+	'''
+	Atrapa a la Presa: los enemigos atrapados en tus trampas explosivas quedan marcados
+	Los golpes a distancia contra presas marcadas invocan dos virotes de espina desde los flancos
+	'''
+GsHuntressRedRidingArmor.EndowLine:
+	'''
+	Atrapa a la Presa, Caperucita Roja: las trampas explosivas marcan a los enemigos
+	Los golpes a distancia invocan tres virotes de espina con punta venenosa desde los flancos
+	'''
+GsApprenticeArmor.EndowLine:
+	'''
+	Artes de Avivar: los golpes de tu torre de Estallido de Llamas acumulan combustible
+	Con 6 acumulaciones, el siguiente golpe mágico despliega un glifo de fuego sobre el objetivo y hace llover tres virotes de brasa
+	'''
+GsApprenticeDarkArtistArmor.EndowLine:
+	'''
+	Artes de Avivar, Artista Oscuro: bastan 5 acumulaciones para activar el glifo
+	El glifo se convierte en llama sombría, haciendo llover cuatro brasas sombrías que incendian a los enemigos
+	'''

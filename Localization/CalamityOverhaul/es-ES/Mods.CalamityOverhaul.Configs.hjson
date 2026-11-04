@@ -1,101 +1,15 @@
 CWRServerConfig: {
 	DisplayName: Configuración de contenido
-
-	WeaponOverhaul: {
-		Label: Overhaul en armas
-		Tooltip:
-			'''
-			Al activarlo, se modificarán la mayoría de las armas.
-			[c/FF0000:¡Para disfrutar al máximo el contenido de Calamity Overhaul, actívalo!]
-			'''
-	}
-
-	ScreenVibration: {
-		Label: Efecto de vibración de pantalla en ataques especiales de armas
-		Tooltip: Si se activa, al realizar algunos ataques, la pantalla vibrará, lo que podría intensificar la sensación de impacto.
-	}
-
-	MurasamaSpaceFragmentationBool: {
-		Label: Efecto de fragmentación de pantalla en el movimiento final de Murasama
-		Tooltip:
-			'''
-			Activado por defecto, el movimiento final de Murasama producirá efectos de fragmentación de pantalla para intensificar la sensación de impacto.
-			Desactivarlo deshabilitará estos efectos; puedes configurarlo según tu preferencia.
-			'''
-	}
-
-	DomainConciseDisplay: {
-		Label: Dominio en modo minimalista
-		Tooltip: Desactivado por defecto. Al activarlo, se ocultan la mayoría de efectos visuales dentro del dominio.
-	}
-
-	Headers: {
-		CWRSystem: Ajustes del sistema Overhaul
-		CWRWeapon: Ajustes de armas Overhaul
-		CWRUI: Ajustes de interfaz Overhaul
-		CWRWorldGen: Ajustes de estructuras Overhaul
-	}
-
-	LensEasing: {
-		Label: Suavizado de la cámara
-		Tooltip: Al habilitar, los movimientos rápidos a larga distancia suavizarán la cámara, evitando la sensación de desajuste por moverse demasiado rápido.
-	}
-
-	BiologyOverhaul: {
-		Label: Reforma biológica[c/06e33f:(experimental)]
-		Tooltip:
-			'''
-			[c/c20909:Incompleto]
-			Activado por defecto, modifica la IA de algunas criaturas, como la de los jefes en Modo Muerte.
-			Esto puede aumentar drásticamente la dificultad del juego; se puede elegir desactivarlo según las preferencias personales.
-			'''
-	}
-
-	MuraUIStyleType: {
-		Label: Selección de estilo de UI de Murasama
-		Tooltip:
-			'''
-			Estilo 1: Elegante - Flotante sobre la cabeza
-			Estilo 2: Elegante - Compacto
-			Estilo 3: Clásico - Flotante sobre la cabeza
-			Estilo 4: Clásico - Compacto
-			Estilo 5: Oculto
-			'''
-	}
-
-	MuraPosStyleType: {
-		Label: Selección de posición de UI de Murasama
-		Tooltip:
-			'''
-			Preajuste 1: Abajo a la derecha
-			Preajuste 2: Abajo a la izquierda
-			Preajuste 3: Arriba
-			'''
-	}
-
-	QuestLog: {
-		Label: Guía del diario de misiones
-		Tooltip:
-			'''
-			Al activarlo, el diario de misiones te guiará durante la partida
-			Puedes abrir la interfaz con el objeto diario, desde el inventario o con un atajo
-			Activado por defecto. Al desactivarlo, desaparece toda la guía de misiones
-			'''
-	}
-
-	DialogueBox_Scale_Value: {
-		Label: Escala del cuadro de diálogo
-		Tooltip: Ajusta el tamaño general del cuadro de diálogo
-	}
+	Headers.CWRWorldGen: Configuración de generación del mundo
 
 	GenWindGrivenGenerator: {
-		Label: Generar aerogeneradores
-		Tooltip: Coloca estructuras de generadores eólicos por el mundo
+		Label: Generar generador eólico
+		Tooltip: Coloca estructuras de generadores impulsados por el viento por el mundo
 	}
 
 	GenWGGCollector: {
 		Label: Generar puestos de chatarreros
-		Tooltip: Genera al azar estructuras hostiles de chatarreros. Solo tiene efecto en mundos legendarios
+		Tooltip: Genera al azar estructuras hostiles de chatarreros por el mundo. Esta opción solo tiene efecto en mundos legendarios
 	}
 
 	GenJunkmanBase: {
@@ -113,6 +27,50 @@ CWRServerConfig: {
 		Tooltip: Genera puestos de avanzada de elfos o guardianes del bosque en lo profundo del bosque
 	}
 
+	GenSHPCCradle: {
+		Label: Generar isla cuna de SHPC
+		Tooltip: Genera una isla celeste con una nave estrellada sobre el punto de aparición y la SHPC sellada dentro. Si se desactiva, el arma solo se puede encontrar en el laboratorio de Calamity
+	}
+
 	ConfigChangePrefix: Usuario
-	ConfigChangeSuffix: Se ha modificado la configuración del servidor
+	ConfigChangeSuffix: ha modificado la configuración del servidor
+}
+
+CWRClientConfig: {
+	DisplayName: Configuración del cliente
+
+	Headers: {
+		CWRWeapon: Configuración de armas
+		CWRDisplay: Configuración de visualización
+	}
+
+	ScreenVibration: {
+		Label: Vibración de pantalla de armas
+		Tooltip: Si se activa, la pantalla vibrará durante algunos ataques, lo que puede intensificar la sensación del impacto
+	}
+
+	DomainConciseDisplay: {
+		Label: Pantalla minimalista de dominios
+		Tooltip: Desactivado por defecto. Al activarlo, solo se reducen los efectos visuales de los dominios del Ciberespacio y del Mar. El Dominio Oni de Onikiri no se ve afectado, ni tampoco los efectos de armas y ciberimplantes, como desmembrar, omokage y Tiempo de Hackeo
+	}
+
+	HideOtherDomains: {
+		Label: Ocultar dominios de otros jugadores
+		Tooltip: Activado por defecto. Al activarlo, los efectos visuales de pantalla completa de los dominios abiertos por otros jugadores (el Dominio Oni de Onikiri, el Lago de Sangre de Kikasa, la Lluvia Fantasmal y el Sueño fantasmal) dejan de dibujarse en tu pantalla. Igual seguirán apareciendo si estás dentro de su lago, te arrastran bajo el agua o estás dentro de su sueño. Es solo algo visual, no cambia ningún efecto: tus propios dominios no se ven afectados.
+	}
+
+	LensEasing: {
+		Label: Suavizado de la cámara
+		Tooltip: Al activarlo, los desplazamientos rápidos a larga distancia ralentizarán la cámara, evitando la sensación de moverse demasiado rápido
+	}
+
+	AmbienceDensity: {
+		Label: Densidad ambiental
+		Tooltip: Ajusta únicamente la densidad de las partículas ambientales decorativas; las señales de advertencia y los peligros nunca se reducen
+	}
+
+	RarityTextEffects: {
+		Label: Efectos de nombre de rareza
+		Tooltip: Efectos animados en el nombre de los objetos para las rarezas de este mod (Lapislázuli, Jade, Cobre, Dorado, Plata estelar y las cuatro Leyendas). Si se desactiva, los nombres se dibujan en color plano
+	}
 }

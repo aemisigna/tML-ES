@@ -24,6 +24,12 @@ ItemDescriptions: {
 		Dealing damage temporarily reduces damage taken
 		Right-click to swing normally, damage dealt is increased if stabbed more than thrice
 		'''
+	DetachedBlaster:
+		'''
+		Fires a potent energy pulse that slowly empowers the further it travels
+		Right-click to fire an overcharged energy orb that homes into enemies
+		The energy orb has a 5 second cooldown before it can be shot again
+		'''
 	DreamWeaversHelmet: Maximum life increased by 60
 	DreamWeaversHood: Maximum life increased by 100
 	DreamWeaversTabard: Damage taken reduced by 20%
@@ -450,6 +456,7 @@ Projectiles: {
 	BubbleBomb.DisplayName: Big Bubble Bomb
 	BubbleColumn.DisplayName: Bubble Column
 	BubbleColumnOptimized.DisplayName: Bubble Column
+	BuccaneerBlunderBuss.DisplayName: Buccaneer's Blunder Buss
 	BuriedArrowE.DisplayName: Arrow
 	ChampionBomber.DisplayName: Magical Burst
 	ChampionBomberF.DisplayName: Magical Burst
@@ -470,6 +477,7 @@ Projectiles: {
 	Darkness.DisplayName: Darkness
 	DeathRain.DisplayName: Death Rain
 	DemonBloodSword.DisplayName: Demon Blood Sword
+	DetachedMegaBlast.DisplayName: Graviton Surge
 	DragonTooth.DisplayName: Dragon Tooth
 	DragonToothDragon.DisplayName: Dragon Tooth
 	DreadRazor.DisplayName: Dread Razor
@@ -507,6 +515,13 @@ Projectiles: {
 	GraniteCharge.DisplayName: Granite Charge
 	GraniteEnergyStormEffects.DisplayName: Granite Energy
 	GravitonOrb.DisplayName: Graviton Orb
+	HagFireball.DisplayName: Hag's Volatile Fireball
+	HagFireCharge.DisplayName: Hag's Fiery Charge
+	HagFlames.DisplayName: Hag's Lingering Flame
+	HagGlobule.DisplayName: Hag's Volatile Globule
+	HagMudChunk.DisplayName: Hag's Suspiciously Heavy Chunk of Mud (There are rocks inside)
+	HagSplash.DisplayName: Hag's Magic Splash
+	HagSong.DisplayName: Hag's Deathsong
 	HandheldRocket.DisplayName: Handheld Rocket
 	HeadHunter.DisplayName: Head Hunter
 	HeadHunterShard.DisplayName: Head Hunter
@@ -516,6 +531,7 @@ Projectiles: {
 	HighTide.DisplayName: High Tide
 	HighTideWave.DisplayName: High Tide
 	HitScan.DisplayName: Hit-Scan
+	HolySheath.DisplayName: Holy Sheath
 	IceAnomaly.DisplayName: Ice Anomaly
 	IceShard.DisplayName: Ice Shard
 	IllumiteBlade.DisplayName: Illumite Blade
@@ -570,6 +586,9 @@ Projectiles: {
 	SoulRender.DisplayName: Soul Render
 	SoulSnatcher.DisplayName: Soul Snatcher
 	SoulSteal.DisplayName: "{Mods.ThoriumMod.Projectiles.Boss.SoulSteal}"
+	SpearExtraElectron.DisplayName: Electron Spear Tip
+	SpearExtraElectronWave.DisplayName: Electron Spear Tip
+	SpearExtraSpore.DisplayName: Spore Tip
 	SpittingShroom.DisplayName: Spitting Shroom
 	SpittingShroomSpore.DisplayName: Spitting Shroom Spore
 	SpittingShroomSporeBurst.DisplayName: Spitting Shroom Spore Burst
@@ -610,10 +629,14 @@ Projectiles: {
 	VoidEyeF.DisplayName: Will of Coznix
 	ZephyrFeather.DisplayName: Zephyr's Feather
 	ZephyrsRuin.DisplayName: Zephyr's Ruin
-	BuccaneerBlunderBuss.DisplayName: Buccaneer Blunder Buss
 }
 
 Items: {
+	ADropRateTooLow: {
+		DisplayName: A Drop Rate Too Low?
+		Tooltip: By (Not) Una Nancy Owen
+	}
+
 	BandofCratons: {
 		DisplayName: "{$Mods.ThoriumRework.Items.BandofCratonsCosmetic.DisplayName}"
 		Tooltip:
@@ -696,15 +719,6 @@ Items: {
 			'''
 	}
 
-	DuelistSheath: {
-		DisplayName: Duelist Sheath
-		Tooltip:
-			'''
-			Swords strike critically for {0}% if held and not used for {1} seconds
-			Getting hit or landing a critical strike increases melee attack speed and critical strike chance for {1} seconds
-			'''
-	}
-
 	ChampionWarHorn: {
 		DisplayName: Champion's Warhorn
 		Tooltip:
@@ -765,6 +779,15 @@ Items: {
 			'''
 	}
 
+	DuelistSheath: {
+		DisplayName: Duelist Sheath
+		Tooltip:
+			'''
+			Swords strike critically for {0}% if held and not used for {1} seconds
+			Getting hit or landing a critical strike increases melee attack speed and critical strike chance for {1} seconds
+			'''
+	}
+
 	DukeFish: {
 		DisplayName: Duke Fish
 		Tooltip:
@@ -783,6 +806,11 @@ Items: {
 			Ignores 15 points of enemy Defense
 			"Give it a jar of pickled peppers"
 			'''
+	}
+
+	ElectronSpearTip: {
+		DisplayName: Electron Spear Tip
+		Tooltip: Spear weapons will release a plasmic shockwave that severely burns enemies
 	}
 
 	ExecutionersContract: {
@@ -876,6 +904,17 @@ Items: {
 			'''
 	}
 
+	HolySheath: {
+		DisplayName: Holy Sheath
+		Tooltip:
+			'''
+			Swords strike critically for {0}% if held and not used for {1} seconds
+			Landing a critical strike calls down a beam of light on your last hit target
+			The beam of light deals variably less damage on segmented targets
+			"Your opponents would be saying this item's name when they see what it does"
+			'''
+	}
+
 	ImpulseAmplifier: {
 		DisplayName: Impulse Amplifier
 		Tooltip: Electronic instrument projectiles are significantly faster
@@ -966,7 +1005,16 @@ Items: {
 
 	MagicalHarp: {
 		DisplayName: "{$ItemName.MagicalHarp}"
-		Tooltip: ""
+		Tooltip: Unleashes bouncing notes that differ in speed
+	}
+
+	NotSoLovelyLadies: {
+		DisplayName: (Not So) Lovely Ladies
+		Tooltip:
+			'''
+			"Hot singles in your area that want you! (Dead and ripped to pieces)"
+			By (Not) Una Nancy Owen
+			'''
 	}
 
 	Oneirophobia: {
@@ -1099,6 +1147,11 @@ Items: {
 			Summons a spore-spitting mushroom that attacks foes
 			Hides when enemies get close, causing a deadly explosion
 			'''
+	}
+
+	SporeTip: {
+		DisplayName: Spore Tip
+		Tooltip: Spear weapons will release a hovering spore tip
 	}
 
 	StarScoutReticle: {
@@ -1259,6 +1312,17 @@ Items: {
 	VampireCapeCosmetic: {
 		DisplayName: Vampire Bat Cape
 		Tooltip: ""
+	}
+
+	WhistlersHat: {
+		DisplayName: Whistler's Hat
+		Tooltip: Increases inspiration regeneration rate by 10%
+		SetBonus: Each unique empowerment you have increases your movement speed by 2%
+	}
+
+	WhistlersTunic: {
+		DisplayName: Whistler's Tunic
+		Tooltip: Increases symphonic playing speed by 5%
 	}
 
 	ZephyrsRuin: {
@@ -1685,6 +1749,16 @@ Configs: {
 				4 - GFB, Infernum, Masochist or Eternity-Death
 				'''
 		}
+
+		corpsebloom: {
+			Label: Corpse Bloom
+			Tooltip: Reworks Corpse Bloom to be less annoying to randomly encounter
+		}
+
+		hags: {
+			Label: Hags
+			Tooltip: Reworks hags to be proper mini-bosses and as well as making them less annoying
+		}
 	}
 
 	ItemReworksConfig: {
@@ -1722,6 +1796,11 @@ Configs: {
 
 		BuccaneerBlunderBuss: {
 			Label: "[i:ThoriumMod/BuccaneerBlunderBuss]Buccaneer's Blunderbuss"
+			Tooltip: ""
+		}
+
+		DetachedBlaster: {
+			Label: "[i:ThoriumMod/DetachedBlaster]Detached Blaster"
 			Tooltip: ""
 		}
 
@@ -2142,9 +2221,19 @@ Achievements: {
 		Description: Defeat all three of Star Scouter's cores in under six seconds
 	}
 
+	ElectricalSafetyTraining: {
+		FriendlyName: Electrical Safety Training
+		Description: Defeat Granite Energy Storm without making any contact with Energy Conduits
+	}
+
 	MyBatsAreKindaChamberless: {
 		FriendlyName: My Bats Are Kinda Chamberless...
 		Description: Defeat Viscount without letting a single Bitey Baby siphon life from you
+	}
+
+	OnEvenGrounds: {
+		FriendlyName: On Even Grounds
+		Description: Defeat the Buried Champion by only dealing melee damage in phase 1, ranged damage in phase 2, and magic or summon damage in phase 3
 	}
 
 	PreservationEfforts: {

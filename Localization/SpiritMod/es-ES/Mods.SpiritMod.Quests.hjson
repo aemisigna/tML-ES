@@ -1,8 +1,3 @@
-RecipeConditions: {
-	WarlockLure: Durante Una Tarea Profana
-	DurasilkSheaf: Obtén 3 Gavillas de Durasilk
-}
-
 # I'm very sorry to whoever's translating this. Best of luck, and godspeed. - GabeHasWon
 
 # This is actually only used for the Lifeform Analyzer's (Quest) <NPCName>.
@@ -21,17 +16,19 @@ QuestsFull: No puedes activar más misiones.
 StopQuest: ¿Estás seguro? [c/910000:Perderás tu progreso].
 Undiscovered: Esta misión no ha sido descubierta.
 # These are all used for minor parts of quests, such as "Catch 2 Fish" or similar.
-# The space is necessary. Formats to "Talk to the <NPC Name>" in-game.
-TalkToNPC: "Habla con el "
+TalkTo: Habla con {0}
 # Same as above. Used for "Explore <area>" in-game.
 Explore: "Explora "
-Retrieve: Recupera
-Catch: Atrapa
-Kill: "Mata a "
-Craft: Fabrica
-Capture: Captura
-Harvest: Cosecha
-OptionalGather: Opcional - Reúne
+Retrieve: Recupera {0} {1}
+Catch: Atrapa {0} {1}
+Kill: Mata a {0} {1}
+Craft: Fabrica {0} {1}
+Capture: Captura {0} {1}
+Harvest: Cosecha {0} {1}
+OptionalGather: Opcional - Reúne {0} {1}
+PluralSuffix: s
+Comma: ", "
+Or: " o "
 Objectives: Objetivos
 Activate: Activar
 Deactivate: Desactivar
@@ -120,6 +117,7 @@ QuestInfo: {
 
 	ZombieOriginQuest: {
 		Name: Una Tarea Profana
+		Client: Desconocido
 		Description: He encontrado un extraño pergamino de pared que enumera información importante sobre los Zombis y, potencialmente, sus orígenes. Creo que debería hablar con la Guía o la Dríada sobre esto. ¡Quizás podamos ponerle fin a esta vil nigromancia!
 		ShowGuideDialogue: ¿Encontraste ese pergamino misterioso ahí? Supongo que sí. Es una pista interesante sobre por qué han estado apareciendo estos zombis recientemente. Diría que necesitamos investigar más sobre quién está detrás del levantamiento zombi. ¿Quizás sea un científico loco, o algo así? Debería haber libros sobre el tema cerca de la Mazmorra.
 		TalkGuide: Habla con la Guía sobre el pergamino misterioso.

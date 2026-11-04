@@ -27,6 +27,7 @@ Records: {
 	Scrying: Revela una gran porción del mapa al ser destruido.
 	Biome: Contiene una mayor variedad de botín que las macetas comunes.
 	Boulder: Rueda por el suelo cuando se perturba.
+	Wax: Imbuido de potentes energías mágicas.
 }
 
 FablesGraves: {

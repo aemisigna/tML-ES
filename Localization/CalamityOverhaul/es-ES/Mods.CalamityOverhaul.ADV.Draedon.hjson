@@ -1,0 +1,189 @@
+ExoMechdusaSum: {
+	IntroLine1: Lo entiendes... este momento se ha esperado durante mucho tiempo.
+	IntroLine2: Me fascinan todos los aspectos de lo desconocido, pero nada me fascina más que tu propia naturaleza.
+	IntroLine3: Te mostraré mis creaciones, capaces de superar a los dioses.
+	IntroLine4: Y tú... tú me mostrarás tu naturaleza en combate.
+	IntroLine5: Ahora. Elige.
+	SelectionPrompt: Toma tu decisión.
+	BossRushLine: Toma tu decisión. Tienes 20 segundos.
+	ChoiceAres: Ares
+	ChoiceThanatos: Thanatos
+	ChoiceTwins: Artemis
+}
+
+ExoMechEndingDialogue: {
+	EndLine1: Una variable desconocida. Tú... eres una singularidad.
+	EndLine2: Eres una forastera de esta tierra y su historia, igual que yo.
+	EndLine3: ...Mis disculpas. Pero después de una «demostración» como esa, debo tomarme un momento para ordenar mis pensamientos.
+	EndLine4: La sangre derramada hasta ahora ha dejado este continente estancado y sin vida.
+	EndLine5: Has derramado tu propia sangre. Quizá sea suficiente para terminar esta era de desesperación... En cualquier caso, es un cambio que deseaba ver.
+	EndLine6: Ahora quieres llegar hasta el tirano. Por desgracia, no puedo ayudarte.
+	EndLine7: Esto no nace del rencor. Desde el principio, mi único objetivo fue observar esta batalla.
+	EndLine8: Pero ya has triunfado antes. Encontrarás la forma, tarde o temprano.
+	EndLine9: Debo respetar y reconocer tu victoria. Pero por ahora, mi atención debe volver a mis mecanismos.
+	KillAttemptLine: ...Tus acciones son... innecesarias.
+}
+
+DeploySignaltowerScenario: {
+	IntroLine1: Debo realizar un experimento crítico, y tú eres la persona disponible más adecuada para ayudarme.
+	IntroLine2: Hace cien años terrestres, una tormenta de energía atravesó la galaxia y destruyó la mayoría de mis instalaciones en este planeta.
+	IntroLine3: Todo estaba demasiado lejos. Cuando me di cuenta de que mi red de vigilancia en Terra se había apagado, ya había pasado un siglo.
+	IntroLine4: Después de aquella tormenta, los viajes interestelares se volvieron extremadamente inestables. Por lo tanto, debo reconstruir mis sistemas fundamentales en Terra.
+	IntroLine5: Necesito tu ayuda para desplegar la última matriz de entrelazamiento cuántico.
+	IntroLine6: Esta tecnología sortea las limitaciones de la velocidad de la luz y logra una comunicación instantánea que abarca la galaxia.
+	IntroLine7: Pero antes de aplicarla, este mundo necesita una cantidad suficiente de nodos de entrelazamiento cuántico.
+	IntroLine8: Esta es la torre de señales cuánticas que he diseñado. Su núcleo utiliza estabilizadores de entrelazamiento y amplificadores de energía de punto cero.
+	TechExplainLine1: Cada torre puede establecer un enlace de entrelazamiento cuántico con otros nodos, formando una red de comunicaciones que abarca la galaxia.
+	TechExplainLine2: En condiciones teóricas, la latencia de transmisión puede acercarse a cero.
+	TaskLine: Necesito que despliegues estas torres de señales por el mundo para establecer la red de entrelazamiento completa.
+	AcceptPrompt: ¿Y bien? ¿Aceptas?
+	ChoiceAccept: Aceptar el encargo
+	ChoiceDecline: Más tarde
+
+	Choice_Accept: {
+		AcceptResponse: Excelente. Aquí están los planos de las torres. Infórmame de tu progreso cuando termines.
+		L1: Este es el primer lote de materiales. Es limitado. Construye primero la estructura principal de la torre de señales.
+		L2: Cuando el primer nodo esté operativo, el enlace de comunicación comenzará a estabilizarse.
+		L3: En ese momento podré transportar continuamente más recursos a través del subespacio para realizar una construcción a mayor escala.
+	}
+
+	Choice_Decline.DeclineResponse: Entendido. Puedes volver cuando estés preparada.
+}
+
+FirstTowerBuiltScenario: {
+	Line1: El nuevo nodo de entrelazamiento cuántico funciona sin problemas. La señal es estable.
+	Line2: Bien. Este es el primer paso de la red. Continúa desplegando las torres de señales restantes.
+	Line3: Cuando el número de nodos alcance el estándar, podré realizar observaciones precisas en un área mucho más amplia.
+	Line4: Sigue manteniendo tu eficiencia.
+}
+
+QuestCompleteScenario: {
+	Line1: Todos los nodos cuánticos están conectados. La red funciona por completo.
+	Line2: La latencia de transmisión de datos coincide con los valores teóricos. Sin desviaciones.
+	Line3: Tu rendimiento fue más rápido de lo previsto. Merece reconocimiento.
+	Line4: Como pago, te concedo acceso a una selección de mis equipos y autorizaciones. Puedes usarlos como consideres conveniente.
+	Line5: Si necesitas ayuda, puedes contactarme directamente a través de la red de comunicaciones.
+}
+
+ExoMechHardDefeat: {
+	HardDefeatLine1: Tomar decisiones bajo una presión extrema. Estos son los datos que deseaba ver.
+	HardDefeatLine2: Tu capacidad para mantener la racionalidad bajo presión es... satisfactoria.
+}
+
+ExoMechQuickDefeat: {
+	QuickDefeatLine1: ...Este intervalo está muy por debajo de mis modelos predictivos.
+	QuickDefeatLine2: Parece que subestimé tu eficiencia actual en combate.
+	QuickDefeatLine3: Quizá sea hora de considerar... filosofías de diseño... más agresivas.
+}
+
+ExoMechSecondDefeat: {
+	SecondDefeatLine1: Interesante. Tu ritmo de adaptación supera mis proyecciones.
+	SecondDefeatLine2: Los datos indican que ya has realizado mejoras específicas desde el último enfrentamiento.
+	SecondDefeatLine3: Parece que debo reevaluar tu curva de aprendizaje.
+}
+
+ExoMechThirdDefeat: {
+	ThirdDefeatLine1: Rendimiento constante. Un componente de la perfección que persigo.
+	ThirdDefeatLine2: Has demostrado que tus capacidades no son... una anomalía estadística.
+}
+
+DraedonQuestLine: {
+	QuestCategory: Draedon
+	DeployTitle: Despliegue de la red de entrelazamiento cuántico
+	DeploySummary: Despliega 10 torres de señales en puntos designados por el mundo
+	TrackerNearestTarget: Punto designado más cercano
+	TrackerNodeName: Nodo de entrelazamiento #[NUM]
+	TrackerInRange: Dentro del alcance
+	TrackerDistance: Distancia
+	TrackerDeployProgress: Progreso de despliegue
+	TrackerQuestComplete: ¡Misión cumplida!
+}
+
+FirstMetTzeentch: {
+	Rolename: ?????????????????????
+	L1: Silencio... no mires atrás.
+	L2: Te he estado observando construir esos pequeños artefactos.
+	L3: Diez nodos cuánticos. Diez caminos. Diez futuros posibles.
+	L4: Una pequeña red encantadora. ¿Tienes idea de cuántas... *cosas*... atraerá?
+	L5: Ah, cierto. Debería presentarme.
+	L6: Algunos me llaman el Oráculo. Otros, la Pluma del Destino...
+	L7: Pero me interesa más saber cómo... *tú*... me llamarías ahora mismo.
+	L8: Adelante. Déjame oírlo.
+	Choice1Text: ¿Un... mago...?
+	Choice2Text: Un mentiroso.
+	Choice3Text: No. No te conozco.
+	Choice1_R1: ¡Ja! Un término tan... amable.
+	Choice1_R2: Qué lástima. No hago magia. Solo cambio los hechos.
+	Choice1_R3: Continúa. Por ahora pondremos «Mago» en la etiqueta.
+	Choice2_R1: Ah. Directa, brusca, sincera. Qué cualidades tan valiosas.
+	Choice2_R2: Pero me temo que nunca miento.
+	Choice2_R3: Simplemente te digo... lo que está a punto de ocurrir.
+	Choice2_R4: Lo creas o no... ya ha ocurrido.
+	Choice3_R1: ¿No me conoces? Excelente.
+	Choice3_R2: Todas las historias empiezan con esas palabras.
+	Choice3_R3: Es solo que... la mayoría de los finales no son muy agradables.
+	EndLine1: Bien, entonces. Nos volveremos a encontrar.
+	EndLine2: Pronto.
+}
+
+GalacticCrisis: {
+	CrisisIntro1: Ahora que la red cuántica está reconectada, hay cosas que debes ver con tus propios ojos.
+	CrisisIntro2: Esta es la sombra que devora actualmente los brazos espirales de la galaxia.
+	CrisisIntro3: Estas sombras están compuestas por el Enjambre. Antes de esto, desplegué millones de Exo Titanes para intentar interceptarlo.
+	CrisisIntro4: Los datos indican que esta es una guerra de desgaste que estamos perdiendo. Son interminables y mis recursos acabarán agotándose.
+	CrisisIntro5: Por lo tanto, he formulado el único plan con una tasa de éxito superior al 0%.
+	CrisisIntro6: Detonar los núcleos planetarios de todos los mundos desde el Borde Exterior hasta el Borde Medio de la galaxia.
+	CrisisIntro7: Al reducir decenas de miles de años luz a una zona muerta absoluta, puedo cortar las líneas de suministro del Enjambre y obligarlo a desviarse hacia galaxias vecinas por el desgaste extremo de la navegación.
+	CrisisIntro8: El hambre es la fuerza impulsora más poderosa del universo y la más fácil de calcular. Si reduzco los recursos de la galaxia por debajo del umbral crítico, esta galaxia no será más que un ataúd vacío para el Enjambre.
+	CrisisIntro9: Terra también figura en la lista de tierra quemada. Pero, como singularidad, tu esencia no debería extinguirse aquí. Te proporcionaré una nave estelar para evacuarte.
+	ChoiceRefuse: Debe haber otra forma.
+	ChoiceSilence: ......(Guarda silencio y aferras tu arma)
+	RebuttalLine1: ...Exactamente.
+	RebuttalLine2: Predije una probabilidad del 99% de que aceptarías la evacuación, pero esperaba con interés ese 1% de comportamiento irracional.
+	RebuttalLine3: Rechazaste el atajo hacia la supervivencia. Esa es precisamente la naturaleza de la singularidad que he observado.
+	RebuttalLine4: En ese caso, tengo un plan de respaldo: una operación que archivé por su tasa de éxito excesivamente baja.
+	MissionBrief1: El objetivo es el sistema Corto. Ya ha caído, pero el Enjambre todavía no lo ha digerido por completo.
+	MissionBrief2: En el manto de su tercer planeta se está formando una veta de material Exo de pureza extremadamente alta.
+	MissionBrief3: El Enjambre no debe apoderarse de ella. Cuando desarrolle la capacidad de utilizar materia Exo, la situación de la galaxia se descontrolará por completo.
+	MissionBrief4: Tu tarea es sencilla: atraviesa el mar de insectos, llega al núcleo planetario, detona la veta y destruye por completo ese planeta.
+	MissionBrief5: Si esta operación tiene éxito, demostrará que los individuos pueden desempeñar un papel decisivo en la guerra contra el Enjambre, y elaboraré una nueva estrategia centrada en ti.
+	AndroidReveal1: Antes de tu llegada, envié un equipo avanzado a esas coordenadas.
+	AndroidReveal2: Son androides tácticos construidos con mi tecnología más reciente: Altis y Apollia.
+	AndroidReveal3: Poseen capacidades de movilidad y procesamiento lógico muy superiores a las de los mecas antiguos, pero perdí sus señales poco después de que aterrizaran en Corto III.
+	AndroidReveal4: Las últimas transmisiones de datos indican que aún tienen signos vitales, pero están en peligro extremo.
+	MissionObjective: Dirígete al sistema Corto y confirma el estado de esas dos unidades. Si aún pueden luchar, haz que te ayuden a completar la misión. Si no pueden...
+	MissionObjectiveDark: Como mínimo, recupera sus datos centrales. No quiero que mis obras maestras se conviertan sin sentido en alimento para los insectos.
+	FinalSendOff: Coordenadas introducidas. Ve y demuéstrame una vez más si puedes superar mis cálculos.
+}
+
+FirstMetApollia: {
+	Line1: ......¿Humana?
+	Line2: Esa trayectoria de descenso atmosférico era demasiado obvia. Predije la zona de aterrizaje y vine a probar suerte.
+	Line3: Soy Apollia. Más te vale ser la guía de vanguardia de la Flota Exo, aquí para decirme que la fuerza principal está justo detrás de ti.
+	C1: (Entrega el chip de autorización de Draedon)
+	C2: ¿Cómo sé que no eres una trampa imitadora del Enjambre?
+	C2_R1: ......Los imitadores no exponen activamente sus posiciones ni corren hacia una cápsula de descenso.
+	C2_R2: El chip. Enséñame tu chip de autorización.
+	Line4: ......(Lee los datos del chip)
+	Line5: ¿Solo tú? ¡¿Qué demonios?!
+	Line6: ¡Aquí necesitamos una Legión Titán y un Exterminatus! ¡No enviar a otra persona a morir!
+	Line7: (Respira profundamente)......Mis disculpas. Ahora conozco los planes de la Fuente.
+	Line8: Apollia, antes de la Novena Legión, te ayudará a partir de ahora en todas tus operaciones en este planeta.
+}
+
+GargoyleWarningScenario: {
+	Line1: ......Un grupo de exploradores del Enjambre. Es muy probable que el enjambre principal esté justo detrás.
+	Line2: Te han visto, sin duda. Sígueme. Hay una fortaleza abandonada más adelante; podemos usar sus fortificaciones para contenerlos un rato.
+}
+
+DropPodCallScenario: {
+	Line1: Más fluido de lo previsto. El tiempo de tránsito de la distorsión fue negativo 43 minutos.
+	Line2: Tu constitución es excepcionalmente adecuada para la navegación subespacial.
+	Line3: Ahora estás en órbita baja sobre Corto III.
+	Line4: Ten cuidado y evita los restos de esos Exo Mecánicos.
+	Line5: Tras la guerra de clase Apocalipsis, la masa total de este planeta se duplicó. De ahí lo que ves aquí.
+	Line6: He grabado las autorizaciones en tu chip. Si encuentras unidades supervivientes, lo entenderán todo.
+	Line7: Estás a punto de entrar en el campo de escudos establecido por el Enjambre. Una vez dentro, toda comunicación con el exterior quedará cortada.
+	Line8: Si logras matar a la criatura nodal apostada en este planeta, el campo debería disiparse. Probablemente se encuentre cerca del núcleo planetario.
+	Line9: Por último, buena suerte.
+}

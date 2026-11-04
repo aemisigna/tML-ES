@@ -1,5 +1,6 @@
 EndlessDamageClassTextContent.EndlessDamageClass.DisplayName: Daño infinito
-Tools.RecipesLoseText: ¡No puedes fabricar este objeto directamente!
+MeleeMagicDamageClassTextContent.MeleeMagicDamageClass.DisplayName: daño cuerpo a cuerpo y mágico
+RangedMagicDamageClassTextContent.RangedMagicDamageClass.DisplayName: daño a distancia y mágico
 
 Biomes: {
 	TungstenBiome: {
@@ -138,17 +139,436 @@ QuickHack: {
 		DisplayName: Difusión viral
 		Description: Inyecta código gusano en la torre de señales, provocando ondas EMP cibernéticas que cortocircuitan todas las torretas a su alcance durante mucho tiempo.
 	}
+
+	MeltdownProtocol: {
+		DisplayName: Protocolo de fusión
+		Description: Bloquea los disipadores de calor del objetivo; cuatro segundos después se sobrecalienta y alcanza a los enemigos cercanos.
+	}
+
+	ProjectileHijack: {
+		DisplayName: Toma de control balística
+		Description: Reasigna un proyectil entrante y lo devuelve por el mismo camino.
+	}
+
+	ProjectileFreeze: {
+		DisplayName: Congelación balística
+		Description: Fija un proyectil en el aire durante cinco segundos y luego lo deja continuar.
+	}
+
+	DataPurge: {
+		DisplayName: Purga de datos
+		Description: Borra un proyectil entrante y todos los cercanos del mismo tipo.
+	}
+
+	BallisticOverclock: {
+		DisplayName: Sobrecarga balística
+		Description: Añade daño, penetración y tiempo de vuelo a uno de tus propios proyectiles.
+	}
+
+	Electrolysis: {
+		DisplayName: Electrólisis
+		Description: Hace pasar corriente por el líquido; los enemigos que se empapen reciben daño con el tiempo.
+	}
+
+	Cryostasis: {
+		DisplayName: Criostasis
+		Description: Congela una porción de líquido y la convierte en hielo sobre el que puedes caminar durante ocho segundos.
+	}
+
+	LiquidPurge: {
+		DisplayName: Purga de líquidos
+		Description: Drena el líquido circundante. También funciona con lava.
+	}
+
+	ItemRecall: {
+		DisplayName: Recuperación remota
+		Description: Arrastra un objeto caído hasta tus pies.
+	}
+
+	Reappraise: {
+		DisplayName: Reevaluación
+		Description: Vuelve a generar el prefijo del equipo que está en el suelo.
+	}
+
+	ArmorParse: {
+		DisplayName: Análisis de armadura
+		Description: Reduce la defensa del objetivo a cero durante seis segundos.
+	}
+
+	Exorcise: {
+		DisplayName: Eliminación forzada
+		Description: Marca al objetivo para eliminarlo; el quinto golpe que reciba activa un golpe pesado.
+	}
+
+	DataLeech: {
+		DisplayName: Drenaje de datos
+		Description: Mientras está activo, golpear a este objetivo restaura tu RAM hasta alcanzar un límite total.
+	}
+
+	SwarmLink: {
+		DisplayName: Enlace de enjambre
+		Description: Golpear al objetivo también inflige un treinta por ciento a hasta cinco enemigos cercanos.
+	}
+
+	MachineOverclock: {
+		DisplayName: Sobrecarga de máquina
+		Description: Alimenta la máquina con una cantidad fija de carga durante diez segundos y después la quema por completo.
+	}
+
+	GridBlackout: {
+		DisplayName: Apagón de red
+		Description: Usa la torre de señales para cortar la energía de todas las máquinas en un radio amplio.
+	}
+
+	PowerTransmute: {
+		DisplayName: Transmutación de energía
+		Description: Convierte en RAM la carga almacenada del objeto que sostienes y luego lo drena por completo
+	}
+
+	NeuralOverclock: {
+		DisplayName: Sobrecarga neuronal
+		Description: Golpea más rápido durante ocho segundos; la recuperación de RAM se detiene y tu salud arde
+	}
+
+	WraithForceDrive: {
+		DisplayName: Impulso de fuerza espectral
+		Description: Las acciones del espectro no cuestan nada durante diez segundos; después la erosión se profundiza y se duerme
+	}
+
+	IndexPreread: {
+		DisplayName: Prelectura del índice
+		Description: Lee todo el inventario de un contenedor sin abrirlo y marca la entrada más valiosa
+	}
+
+	LockBurn: {
+		DisplayName: Forzado de cerradura
+		Description: Abre este contenedor cerrado sin llave, a cambio de quemar un objeto de su interior
+	}
+
+	DielSkip: {
+		DisplayName: Salto diurno
+		Description: Adelanta el tiempo hasta el amanecer o el anochecer más cercano
+	}
+
+	StormInject: {
+		DisplayName: Inyección de tormenta
+		Description: Invoca una tormenta; los rayos solo golpean a los enemigos que tengan cualquier efecto de hackeo
+	}
+
+	GravityInvert: {
+		DisplayName: Inversión de gravedad
+		Description: Invierte la gravedad a tu alrededor; los enemigos y objetos caídos ascienden
+	}
+
+	SegmentDelink: {
+		DisplayName: Desvinculación de segmento
+		Description: El daño a este segmento solo se registra; un 60% se aplica al anclaje al expirar
+	}
+
+	LimbSeizure: {
+		DisplayName: Inmovilización de extremidades
+		Description: Vuelve esta extremidad contra su propio anclaje durante ocho segundos
+	}
+
+	CommandLinkCut: {
+		DisplayName: Corte del enlace de mando
+		Description: Corta su enlace con sus aliados; lucharán solos durante diez segundos
+	}
+
+	MunitionSwap: {
+		DisplayName: Intercambio de munición
+		Description: La torreta dispara munición de tu inventario e inflige tu daño
+	}
+
+	TurretMesh: {
+		DisplayName: Malla de torretas
+		Description: Enlaza las torretas cercanas en una sola descarga hacia tu cursor, con cuarenta disparos en total
+	}
+
+	BeaconForge: {
+		DisplayName: Forja de balizas
+		Description: La torre finge una llamada de auxilio y atrae enemigos de un área amplia
+	}
+
+	PrivilegeEscalate: {
+		DisplayName: Escalada de privilegios
+		Description: Los protocolos cuestan menos, se cargan más rápido e ignoran el alcance; la RAM deja de recuperarse
+	}
+
+	ItemSalvage: {
+		DisplayName: Desguace
+		Description: Descompone este objeto caído para recuperar aproximadamente un 60% de sus materiales
+	}
+
+	DataBrand: {
+		DisplayName: Marca de datos
+		Description: Copia el modificador de este equipo y estampa la copia en el siguiente objetivo
+		HudTag: Marca: {0}
+		DenyNoPrefix: No hay nada que copiar en este objeto
+		DenyIncompatible: El modificador registrado no es compatible con este objeto
+	}
+
+	EntityMasquerade: {
+		DisplayName: Suplantación
+		Description: Los enemigos interpretan este objeto caído como si fueras tú; atraerá sus disparos durante treinta segundos
+	}
+
+	TileConscript: {
+		DisplayName: Incorporación de bloques
+		Description: Arranca bloques cercanos y los convierte en ocho placas de armadura que orbitan a tu alrededor; se lanzan cuando se acaba el tiempo
+	}
+
+	VeinResonance: {
+		DisplayName: Resonancia de vetas
+		Description: Revela minerales coincidentes a través de las paredes; minarlos produce el doble, pero llama a los guardianes
+	}
+
+	StressInvert: {
+		DisplayName: Inversión de tensión
+		Description: Vuelve irrompible este terreno durante diez segundos; los enemigos que choquen contra él reciben daño
+	}
+
+	PressureSurge: {
+		DisplayName: Oleada de presión
+		Description: Presuriza este líquido; todo lo que se empape en él saldrá disparado hacia el cielo
+	}
+
+	MirrorSurface: {
+		DisplayName: Superficie reflectante
+		Description: La superficie se convierte en un espejo; los disparos enemigos que la atraviesan se copian en tu lado
+	}
+
+	DelayFuse: {
+		DisplayName: Fusible retardado
+		Description: Este proyectil deja de expirar y flota en el sitio durante treinta segundos como una mina
+	}
+
+	ProjectileTithe: {
+		DisplayName: Diezmo de proyectiles
+		Description: Este disparo absorbe el fuego enemigo cercano y después detona según cuánto haya tragado
+	}
+
+	ProjectileSample: {
+		DisplayName: Muestra de proyectil
+		Description: Analiza este disparo; durante veinte segundos, uno de cada doce disparos tuyos lo reproducirá
+	}
+
+	CompensationProtocol: {
+		DisplayName: Protocolo de compensación
+		Description: Adelanta un 10% de la vida del objetivo; mátalo en ocho segundos o paga la deuda tú mismo
+	}
+
+	PayloadRewrite: {
+		DisplayName: Reescritura de carga útil
+		Description: Durante diez segundos, los proyectiles del objetivo se vuelven tuyos e infligen tu daño
+	}
+
+	PhaseDesync: {
+		DisplayName: Desincronización de fase
+		Description: Separa el cuerpo del objetivo de su hitbox; ambos lados se vuelven más difíciles de golpear
+	}
+
+	LiveCellTap: {
+		DisplayName: Extracción de célula viva
+		Description: Fija al objetivo, lo vuelve inmune y convierte su vida en tu RAM
+	}
+
+	FirmwareRollback: {
+		DisplayName: Reversión de firmware
+		Description: Devuelve al objetivo a su fase anterior; después se vuelve frenético durante cinco segundos
+	}
+
+	ShellRequisition: {
+		DisplayName: Requisición de carcasa
+		Description: Los objetivos que mueren marcados se levantan de nuevo y luchan por ti durante quince segundos
+	}
+
+	PositionCast: {
+		DisplayName: Proyección de posición
+		Description: La posición de los enemigos será visible para todo tu equipo a través de las paredes durante quince segundos
+	}
+
+	GaugePollution: {
+		DisplayName: Contaminación de lecturas
+		Description: Corrompe su interfaz; las lecturas de salud y munición se alteran durante ocho segundos
+	}
+
+	LinkTraceback: {
+		DisplayName: Rastreo inverso del enlace
+		Description: Corta todas las cargas dirigidas hacia ti, quema a sus emisores y los marca
+	}
+
+	ForceUninstall: {
+		DisplayName: Desinstalación forzada
+		Description: Arranca un protocolo hostil de ti; no puedes arrancar otro durante medio minuto
+	}
+
+	MemoryScorch: {
+		DisplayName: Quemadura de memoria
+		Description: Quema tres unidades de su RAM al impactar; su recuperación permanece en cero durante diez segundos
+		SealTag: RAM SELLADA
+	}
+
+	BuffSiphon: {
+		DisplayName: Drenaje de mejoras
+		Description: Te roba la mejora que más tiempo lleva activa, hasta treinta segundos
+	}
+
+	CombatSiphon: {
+		DisplayName: Drenaje de combate
+		Description: Durante diez segundos, el daño que les infliges se convierte en tu RAM
+	}
+
+	BallisticTurncoat: {
+		DisplayName: Traición balística
+		Description: Sus tres siguientes disparos se dan la vuelta en pleno vuelo y persiguen a su dueño; mantener el fuego a salvo los protege
+		HijackCounter: SECUESTRADO {0}/{1}
+		DeathReason: El disparo de {0} fue desviado por {1} y volvió a casa.
+	}
+
+	MeltdownBrand: {
+		DisplayName: Marca de fusión
+		Description: Coloca un fusible visible de cuatro segundos que detona e inflige ochenta de daño; desinstalarlo desactiva la carga
+		FuseTag: FUSIÓN {0}s
+		DeathReason: "{0} fue despedazado por la marca de fusión colocada por {1}."
+	}
+
+	MapBlackout: {
+		DisplayName: Apagón del mapa
+		Description: Cubre su mapa de estática durante quince segundos, incluidos los marcadores y las marcas del equipo
+	}
+
+	ChannelScramble: {
+		DisplayName: Distorsión del canal
+		Description: Distorsiona su chat durante veinte segundos y borra de su pantalla los nombres de sus compañeros
+	}
+
+	StealthStrip: {
+		DisplayName: Supresión del sigilo
+		Description: Elimina toda su invisibilidad y sigilo durante diez segundos; su contorno brilla para todos
+	}
+
+	CooldownInject: {
+		DisplayName: Inyección de enfriamiento
+		Description: Ralentiza el uso de objetos un 35% durante seis segundos; añade cinco más al enfriamiento de pociones activo
+	}
+
+	CyberwareOffline: {
+		DisplayName: Ciberware desconectado
+		Description: Desconecta todo su ciberware durante ocho segundos
+	}
 }
 
 HackTargetType: {
 	ItemTargetType.DisplayName: Objetivo: objeto caído
 	NpcTargetType.DisplayName: Objetivo: PNJ
+	PlayerTargetType.DisplayName: Objetivo: jugador
 	ProjectileTargetType.DisplayName: Objetivo: proyectil
+	SelfRigTargetType.DisplayName: Armazón propio
 	SignalTowerTargetType.DisplayName: Objetivo: torre de señales
 	TileTargetType.DisplayName: Objetivo: bloque
 	TurretTargetType.DisplayName: Objetivo: torreta
 	WaterTargetType.DisplayName: Objetivo: líquido
-	WraithTargetType.DisplayName: Objetivo: espectro
+
+	BossPartTargetType: {
+		DisplayName: Parte del jefe
+		AnchorLabel: Anclaje
+		RoleLabel: Función
+		PartHpLabel: PV de la parte
+		AnchorHpLabel: PV del anclaje
+		InvulnLabel: Escudo
+		LinkLabel: Enlace
+		RoleSegmentFormat: Segmento {0}/{1}
+		RoleLimb: Unidad de extremidad
+		SharedLifePool: Compartida con el anclaje
+		InvulnYes: Inmune
+		InvulnNo: Rompible
+		LinkOnline: En línea
+		LinkSevered: Cortado
+		LinkDelinked: Desvinculado
+		AnchorHpFormat: Anclaje {0}%
+		DelinkTallyFormat: Registrado {0}
+	}
+
+	ContainerTargetType: {
+		DisplayName: Contenedor
+		ScanType: Tipo de contenedor
+		ScanLock: Cierre
+		ScanSlots: Ranuras usadas
+		ScanValue: Valor estimado
+		ScanTopRare: Rareza máxima
+		ScanTopValue: Más valioso
+		ScanCoord: Coordenadas
+		ScanRest: ...y {0} entradas más
+		ScanEmpty: Vacío
+		LockStateLocked: BLOQUEADO
+		LockStateOpen: Desbloqueado
+		StateIndexed: Índice en caché
+	}
+
+	WorldTargetType: {
+		DisplayName: Estado del mundo
+		ScanWorld: Mundo
+		ScanClock: Hora
+		ScanWeather: Clima
+		ScanMoon: Fase lunar
+		ScanBiome: Bioma
+		ScanEvent: Evento
+		ScanBoss: Jefes activos
+		DayLabel: Día
+		NightLabel: Noche
+		WeatherClear: Despejado
+		WeatherCloudy: Nublado
+		WeatherRain: Lluvia
+		WeatherStorm: Tormenta
+		EventNone: Estable
+		EventBloodMoon: Luna de Sangre
+		EventEclipse: Eclipse solar
+		EventPumpkinMoon: Luna de Calabaza
+		EventFrostMoon: Luna de Escarcha
+		EventSlimeRain: Lluvia de slime
+		EventInvasion: Invasión
+		BiomeForest: Bosque
+		BiomeDesert: Desierto
+		BiomeSnow: Tundra
+		BiomeJungle: Jungla
+		BiomeCorruption: Corrupción
+		BiomeCrimson: Carmesí
+		BiomeHallow: Bendición
+		BiomeDungeon: Mazmorra
+		BiomeMushroom: Setas luminiscentes
+		BiomeOcean: Océano
+		BiomeUnderworld: Inframundo
+	}
+}
+
+HackCircuit: {
+	CircuitNodeSpawner: {
+		TurretName: Torreta centinela
+		TowerName: Torre de señales
+		StatusLabel: Estado
+		IffLabel: IFF
+		RateLabel: Tasa
+		MunitionLabel: Munición
+		RangeLabel: Alcance
+		CoverageLabel: Cobertura
+		LinkedLabel: Nodos enlazados
+		SourceLabel: Emisión
+		StatusOnline: EN LÍNEA
+		StatusDisabled: FUERA DE LÍNEA
+		StatusHijacked: SECUESTRADO
+		StatusMunition: ALIMENTADO
+		StatusMeshed: EN MALLA
+		StatusIdle: INACTIVO
+		StatusVirus: EMISIÓN VIRAL
+		StatusBlackout: APAGÓN
+		StatusBeacon: BALIZA FORJADA
+		StatusUplink: ENLACE ASCENDENTE
+		IffHostile: Hostil
+		IffFriendly: Aliado
+		MunitionKinetic: Virote cinético
+		BeaconCount: Atraídos {0}
+	}
 }
 
 TileNameFallback: {
@@ -278,4 +698,124 @@ TileNameFallback: {
 	Tile192: Hojas de madera viva
 	Tile187: Malas hierbas
 	Tile352: Espinas
+}
+
+OniRainWorld: {
+	OniRainWorldSystem: {
+		InteractHint: "[Clic derecho] Mantén el paraguas bajo la lluvia"
+		DescendHint: "[Clic derecho] Mantén el paraguas bajo la lluvia profunda"
+		GrabHint: "[Clic derecho] Agarra el paraguas"
+		OniDeathReason: "{0} fue arrastrado por la lluvia por la cosa que había bajo el paraguas"
+	}
+}
+
+GodSmithMagicConduit: {
+	GsHeatRay.Desc:
+		'''
+		Reforjado: mantén para sostener un rayo abrasador; el calor blanco ensancha el haz y las acumulaciones fundidas detonan en la quinta
+		Clic derecho para expulsar todo el calor como una lanza de destello de corona
+		'''
+	GsMedusaHead.Desc:
+		'''
+		Reforjada: mantén para liberar un cono de mirada petrificante; las acumulaciones de marca pétrea petrifican brevemente y el calor blanco estrecha la mirada hasta convertirla en un resplandor concentrado
+		Clic derecho para expulsar todo el calor como un resplandor pétreo de ocho direcciones
+		'''
+
+	GsSoulDrain: {
+		Desc:
+			'''
+			Reforjado: un conducto de sanguijuela que ata hasta tres enemigos y los drena juntos; el calor blanco otorga recuperación de vida verdadera
+			Clic derecho para detonar la sangre almacenada en tu cursor; la sobrecarga rebota y te quita 10 de vida
+			'''
+		BloodPriceDeath: "{0} fue drenado por su propio conducto de sanguijuela"
+	}
+}
+
+GodSmithMagicMorph: {
+	GsClingerStaff.Desc:
+		'''
+		Reforzado: mantén brevemente el clic derecho para colocar un muro de enredaderas malditas de 260px a lo largo de tu puntería, en cualquier ángulo.
+		Sobrecárgalo y ambos extremos harán brotar muros verticales laterales
+		'''
+	GsCrimsonRod.Desc:
+		'''
+		Reforjada: la nube de sangre se convierte en un campo de lluvia sacrificial.
+		Las gotas acumulan Erosión sanguínea; tres acumulaciones estallan y los aliados dentro se regeneran lentamente.
+		El clic derecho desplaza el campo hasta tu cursor por una pizca de maná
+		'''
+	GsCrystalSerpent.Desc:
+		'''
+		Reforjada: los fragmentos de la explosión rebotan una vez más.
+		Mantén el clic derecho para cargar; suelta una gran pitón cristalina que serpentea en una onda sinusoidal y estalla en una lluvia de fragmentos más abundante
+		'''
+	GsCrystalStorm.Desc:
+		'''
+		Reforjada: mantén el clic derecho para cargar un vórtice de refracción en el cursor.
+		Tus fragmentos cristalinos que lo atraviesan se refractan, ganan velocidad y una penetración adicional
+		'''
+	GsFlamelash.Desc:
+		'''
+		Reforjada: el vuelo guiado gira un 25% más rápido.
+		Mantén el clic derecho para cargar; suelta una serpiente de llamas cuyas curvas siguen tu guía y prenden fuego a los enemigos
+		'''
+	GsMagicMissile.Desc:
+		'''
+		Reforzado: el vuelo guiado gira un 25% más rápido.
+		Mantén el clic derecho para cargar; suelta una descarga triple que escolta a tu cursor en formación
+		'''
+	GsMeteorStaff.Desc:
+		'''
+		Reforjado: los meteoritos dejan un cráter abrasador al caer.
+		Mantén el clic derecho para cargar; suelta para llamar una andanada de cinco meteoritos sobre el cursor
+		'''
+	GsNimbusRod.Desc:
+		'''
+		Reforjada: cuando ambas nubes están desplegadas, un corredor de lluvia las conecta, empapando y ralentizando a los enemigos dentro.
+		El clic derecho alterna lluvia cálida o tormenta eléctrica; la tormenta hace caer rayos a lo largo del corredor
+		'''
+	GsRainbowGun.Desc:
+		'''
+		Reforjada: mientras el arcoíris permanezca, tus proyectiles dentro de la franja sobre el arco infligen un 8% más de daño y el arco libera pulsos prismáticos teledirigidos.
+		El clic derecho retira el arcoíris y devuelve la mitad de su maná
+		'''
+	GsRainbowRod.Desc:
+		'''
+		Reforjada: los virotes guiados estallan en fragmentos prismáticos al impactar.
+		Mantén el clic derecho para cargar; suelta para levantar un puente arcoíris que daña a los enemigos que lo cruzan y acelera a los aliados que permanecen sobre él
+		'''
+	GsSkyFracture.Desc:
+		'''
+		Reforjada: las hojas desgarran un destello de fractura al salir.
+		Mantén el clic derecho para cargar; suelta para abrir tres abismos alrededor del cursor que liberan hojas convergentes
+		'''
+}
+
+GodSmithSummonWhips: {
+	GsCoolWhip.Desc: Reforjada: los copos de nieve nacidos de latigazos a tiempo crecen y atraviesan a un enemigo más; 4 cicatrices de escarcha sellan la marca y el siguiente golpe a tiempo la hace florecer en una explosión de escarcha que inflige Congelación
+	GsDarkHarvest.Desc: Reforjada: los saltos de energía oscura se extienden a enemigos cercanos por cada cicatriz de siega de la víctima; 4 cicatrices sellan la marca y el siguiente golpe a tiempo siega su alma, lanzando guadañas contra todos los enemigos marcados del campo
+	GsDurendal.Desc: Reforjada: después de tres latigazos a tiempo, cada golpe posterior libera una onda de espada dorada desde la punta del látigo; 5 cicatrices sellan la marca y el siguiente golpe a tiempo hace caer una hoja de veredicto sagrado
+	GsFirecracker.Desc: Reforjado: conserva la explosión clásica detonada por súbditos; los latigazos a tiempo cargan fusibles en el objetivo y, con 3 fusibles, la siguiente explosión encadena 3 explosiones adicionales escalonadas
+	GsKaleidoscope.Desc: Reforjado: tiene la ventana de ritmo más estrecha y un golpe fallido reinicia todo el tempo; cada cicatriz enciende un color prismático y, con cinco colores, el siguiente golpe a tiempo despliega un caleidoscopio de cinco tajos prismáticos, exponiendo a la víctima a golpes críticos garantizados durante 5s
+	GsLeatherWhip.Desc: Reforjado: encadena golpes al ritmo para acumular tempo y velocidad de latigazo; 3 cicatrices de látigo sellan la marca y el siguiente golpe a tiempo la rompe con un 200% de daño, después tus súbditos despedazan al objetivo durante 2s
+	GsMorningStar.Desc: Reforjada: cada golpe a tiempo estampa un terremoto en la punta del látigo; 3 cicatrices sellan la marca y el siguiente golpe a tiempo hace caer una maza estelar sobre la cabeza del objetivo
+	GsSnapthorn.Desc: Reforjada: los latigazos a tiempo hacen crecer cicatrices de espinas en la presa; 4 cicatrices sellan la marca y el siguiente golpe a tiempo la hace estallar en una explosión de espinas más 4 púas venenosas teledirigidas
+	GsSpinalTap.Desc: Reforjado: un barrido a tiempo que marca a 3 enemigos produce un eco óseo que alcanza todo lo que no golpeó; 4 cicatrices sellan la marca y el siguiente golpe a tiempo hace brotar una espina de hueso desde abajo
+}
+
+GodSmithAcc.GodSmithSharkToothNecklace.EffectDesc:
+	'''
+	+4% de daño
+	Los golpes desgarran la piel del objetivo y otorgan Desgarro: +1 de penetración de armadura por acumulación, hasta 8 acumulaciones, dura 3s
+	'''
+
+GodSmithEndow: {
+	GodSmithLegendaryEndow: {
+		EndowName: Eco del Santo de la Espada
+		EndowDesc: Los tajos tienen un {0}% de probabilidad de liberar una onda de espada dorada que inflige un {1}% del daño del arma
+	}
+
+	GodSmithWardingEndow: {
+		EndowName: Juramento del baluarte
+		EndowDesc: Reduce el daño recibido un {0}%
+	}
 }

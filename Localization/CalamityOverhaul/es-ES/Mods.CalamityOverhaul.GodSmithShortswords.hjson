@@ -1,0 +1,50 @@
+GsCopperShortsword.Desc:
+	'''
+	Reforjada: cada golpe saca una chispa del filo de cobre;
+	la cuarta chispa estalla en llamas en el punto de impacto y prende fuego a los enemigos cercanos
+	'''
+GsTinShortsword.Desc:
+	'''
+	Reforjada: encadena tus estocadas para subir la escala de estaño, con cada nota más alta que la anterior;
+	con el repique completo, cada estocada libera un pulso ondulante y muerde un poco más profundo
+	'''
+GsIronShortsword.Desc:
+	'''
+	Reforjada: la postura de recuperación mantiene una guardia que amortigua un 30% de los golpes entrantes;
+	bloquea un golpe para preparar una riposta y tu siguiente estocada durante un segundo acertará de lleno
+	'''
+GsLeadShortsword.Desc:
+	'''
+	Reforjada: el filo de plomo corroído envenena todo lo que toca;
+	golpear a un enemigo ya envenenado profundiza un 25% más la podredumbre
+	'''
+GsSilverShortsword.Desc:
+	'''
+	Reforjada: la plata pulida como un espejo absorbe la luz lunar, golpea un 25% más fuerte y un 10% más rápido de noche;
+	bajo una Luna de Sangre, cada golpe roba una pizca de vida
+	'''
+GsTungstenShortsword.Desc:
+	'''
+	Reforjada: un núcleo denso de tungsteno recompensa mantenerla brevemente antes de la estocada;
+	una carga completa se lanza a una distancia una mitad mayor, atraviesa la armadura y todo lo que esté en la línea
+	'''
+GsGoldShortsword.Desc:
+	'''
+	Reforjada: el filo dorado sacude monedas; uno de cada cuatro golpes hace sonar el cambio de la herida;
+	las muertes siempre derraman un puñado
+	'''
+GsPlatinumShortsword.Desc:
+	'''
+	Reforjada: la estocada supera a su propia luz y deja una imagen de platino suspendida a lo largo de la línea;
+	los enemigos que rocen la luz persistente reciben un 40% de daño
+	'''
+GsGladius.Desc:
+	'''
+	Reforjada: instrucción legionaria en tres tiempos: dos estocadas rápidas y luego un golpe pesado con paso de escudo;
+	mantén el ritmo y cada estocada llega más rápido, hasta 3 acumulaciones de tempo
+	'''
+GsRuler.Desc:
+	'''
+	Reforjada: la disciplina exige medir con exactitud; acierta con la punta misma para un golpe graduado de 1.6x;
+	los golpes imprecisos más cercanos a la empuñadura se reducen a 0.85x
+	'''

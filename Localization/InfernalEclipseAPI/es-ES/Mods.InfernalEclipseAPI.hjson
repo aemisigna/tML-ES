@@ -5,6 +5,11 @@ UI: {
 		LucidRetaliation: Represalia Lúcida
 	}
 
+	TitleLinks: {
+		Patreon: Patreon
+		Github: Github
+	}
+
 	NoVoidConsumable: ¡No tienes el apetito para eso!
 	RagnarokIconText: El Modo Ragnarok está activo
 	NoRespawn: Reaparición evitada: ¡Solo se permite una reaparición por jefe en multijugador {0}!
@@ -141,14 +146,8 @@ TimeFreezePrevention: {
 	Other: ¡Se evitaron los efectos de la incubadora!
 }
 
-BossCheesePrevention: {
-	TheDestroyer: No dejaré que destruyas mi máquina tan fácilmente.
-	Plantera: Fuerzas ancestrales te impiden usar este objeto en este momento...
-	Yharon: Fuerzas ancestrales te impiden usar este objeto en este momento...
-}
-
 ItemBalance: {
-	Modified: Modificado por Infernal Eclipse of Ragnarok
+	Modified: "[s:InfernalEclipseAPI/IEoRIcon] Modificado por Infernal Eclipse of Ragnarok"
 	Modified2: Mantén {0} para ver las modificaciones
 	DamageUpGeneric: "    Daño aumentado en [c/00A36C:{0}%]"
 	DamageDownGeneric: "    Daño reducido en [c/FF0000:{0}%]"
@@ -176,6 +175,7 @@ ItemTooltip: {
 	Contributor: - Objeto de Colaborador -
 	NamelessDowned: Debes superar la prueba
 	DisabledBossRush: Los efectos no funcionarán en el Boss Rush
+	JungleCurse: Ha sido maldecido por una poderosa criatura de la Jungla
 	SBeamUsage: Mantén clic izquierdo para cargar un rayo que inflige daño mágico mítico
 	NBeamUsage: Mantén Clic Izquierdo para liberar un Nebula Gigabam que inflige daño mágico mítico
 	MBeamUsage: Mantén Clic Izquierdo para liberar un rayo Exo Disintegrator que inflige daño a distancia mítico
@@ -314,14 +314,19 @@ ItemTooltip: {
 		'¡Glup!'
 		'''
 	SpiritGlove: Aumenta la velocidad de regeneración de vacío en un 5% y la probabilidad de golpe crítico cuerpo a cuerpo en un 4%
-	DiamondRingText: Aumenta el daño según la defensa, luego reduce la defensa en dos tercios del bono de daño
+	DiamondRingText:
+		'''
+		Aumenta el daño según la defensa, luego reduce la defensa en dos tercios del bono de daño
+		Aumenta el daño en un {0}%
+		Reduce la defensa en {1}
+		'''
 	EarthDrive: El bono máximo a la velocidad cuerpo a cuerpo es del 10%
 	SyntheticLiver:
 		'''
 		Aumenta el vacío recibido de comida en un 25%
 		Recibir la misma mejora varias veces aumentará su duración en lugar de reiniciarla, hasta el doble de la duración original
 		'''
-	MutantSkeletron: "[IEoR] El objeto no se puede usar hasta que Skeletron haya sido derrotado al menos una vez. Usa el objeto de invocación de Infernum en su lugar."
+	MutantSkeletron: "[s:InfernalEclipseAPI/IEoRIcon] El objeto no se puede usar hasta que Skeletron haya sido derrotado al menos una vez. Usa el objeto de invocación de Infernum en su lugar."
 	VibePotion: Aumenta la velocidad de ataque en un 10% mientras no te mueves y en un 5% mientras te mueves
 	BloodPotion: Aumenta la velocidad de minería en un 15%
 	FrenzyPotion: Aumenta todas las velocidades de ataque en un 5%
@@ -971,7 +976,7 @@ ItemTooltip: {
 		Un día esta suerte se acabará.
 		'''
 	NamelessRelic: Has superado la prueba.
-	NoxusRelic: Entonces, ¿hiciste trampa para conseguir este objeto o de verdad tienes instalado mi mod súper oscuro que ya ni siquiera está en el workshop? De cualquier forma, supongo que felicidades.
+	NoxusRelic: Eh... no se supone que veas esto.
 	DeviRelic:
 		'''
 		La más joven de los tres hermanos.
@@ -1000,32 +1005,17 @@ ItemTooltip: {
 	AstralCommunicatorInfernum2: El limo interdimensional aún tiene hambre...
 }
 
-Lore: {
-	DylanSoltan:
-		'''
-		Quien sea que esté leyendo esta nota, tenga cuidado:
-		Preveo que en el futuro surgirá una persona que responde al nombre de Soltan.
-		Muchos pensarán que es molesto, así que diseñé este chipnote para que te sea útil.
-		Para combatir su naturaleza molesta, el microchip adjunto a esta nota convertirá todo el
-		poder de invocación local en poder para otras fuentes.
-		Además, te da permiso total para molestar a Soltan.
-		Solo he hecho dos de estos, y se los di a los dos seres más poderosos que pude encontrar.
-		Si eres una de esas personas, o alguien más, usa este dispositivo con sabiduría...
-		'''
-	MysteriousDiary:
-		'''
-		Al pasar a la primera página, no ves nada excepto unas pocas palabras.
-
-		«¿Quién diablos soy yo, que aún tengo el privilegio de vivir?»
-
-		El resto de las páginas están en blanco...
-
-		[c/E3AF40:El libro se siente sobrenatural... quizás hay algo más grande que Yharim o incluso que la deidad ahí afuera.]
-
-		–¡Mantente atento al futuro de Infernal Eclipse of Ragnarok!–
-		'''
-}
-
+Lore.DylanSoltan:
+	'''
+	Quien sea que esté leyendo esta nota, tenga cuidado:
+	Preveo que en el futuro surgirá una persona que responde al nombre de Soltan.
+	Muchos pensarán que es molesto, así que diseñé este chipnote para que te sea útil.
+	Para combatir su naturaleza molesta, el microchip adjunto a esta nota convertirá todo el
+	poder de invocación local en poder para otras fuentes.
+	Además, te da permiso total para molestar a Soltan.
+	Solo he hecho dos de estos, y se los di a los dos seres más poderosos que pude encontrar.
+	Si eres una de esas personas, o alguien más, usa este dispositivo con sabiduría...
+	'''
 LegendaryTooltip.Base: Esta arma puede crecer en poder a medida que derrotas enemigos difíciles
 
 Items: {
@@ -1248,19 +1238,6 @@ Items: {
 				'''
 		}
 
-		LoreProvi: {
-			DisplayName: La Radiante
-			Tooltip: ""
-			Lore:
-				'''
-				Soñé con la paz una vez. No sé por qué lo hice.
-				Desde que recibí noticia de que había algo más allá de este mundo,
-				he sentido la presencia de esa mujer en nuestro mundo de vez en cuando.
-				¿Ahora qué quería Thorne de ella? Quién sabe.
-				Pero todo el poder está en tus manos ahora, Terrariano.
-				'''
-		}
-
 		LoreMirror: {
 			DisplayName: El Espejo
 			Tooltip: ""
@@ -1288,8 +1265,6 @@ Items: {
 				con uno de los ingredientes clave apareciendo ser un "Anillo del Sol Oscuro."
 				Quizás ese "Guía" podría ayudarte a descifrar mejor esta nota.
 				De todos modos, estoy seguro de que descubrirás cómo hacerlo.
-
-				–¡Mantente atento al futuro de Infernal Eclipse of Ragnarok!–
 				'''
 		}
 
@@ -1968,11 +1943,7 @@ Items: {
 			Reduce el daño en un {1}%
 			'''
 		# Opposite of Lust, Chastity
-		I6:
-			'''
-			Las mejoras no decaen mientras estés por encima del 90% de vida
-			Recibir un golpe por debajo del 90% de vida hace que la duración de todas las mejoras se reduzca a la mitad
-			'''
+		I6: Las armas infligirán un efecto negativo aleatorio al golpear
 		NormalTooltip:
 			'''
 			18% de aumento en el daño y 5% de aumento en el daño de flechas
@@ -2049,7 +2020,7 @@ Items: {
 
 	MenuMusicBox: {
 		DisplayName: Caja Musical (Título de Infernal Eclipse of Ragnarok)
-		Tooltip: Reproduce 'Teardrops of Dragonfire' de Peter Fung
+		Tooltip: Reproduce 'Teardrops of Dragonfire' de PFungi
 	}
 
 	Streetsign: {
@@ -2477,6 +2448,31 @@ Items: {
 		DisplayName: Caja Musical (Reina Slime - Modo Infernum)
 		Tooltip: Reproduce 'Crowned Before One's End' de PinpinNeon
 	}
+
+	CnidrionMusicBox: {
+		DisplayName: Caja Musical (Cnidrion)
+		Tooltip: Reproduce 'Seahorse Scrutiny (Rebirth)' de Brimston Premium
+	}
+
+	CodebreakerMusicBox: {
+		DisplayName: Caja Musical (Interludio del Descifrador)
+		Tooltip: Reproduce 'Arsenal' de TheTrester
+	}
+
+	ProvidenceNightMusicBox: {
+		DisplayName: Caja Musical (Providencia - Noche)
+		Tooltip: Reproduce 'Unholy Finality' de Brimston Premium
+	}
+
+	ThunderBirdMusicBox: {
+		DisplayName: Caja Musical (El Gran Ave del Trueno - Modo Ragnarok)
+		Tooltip: Reproduce 'Infernal Thunder Bird' de Techhy
+	}
+
+	VassalMusicBox: {
+		DisplayName: Caja Musical (Vasallo Despojado - Modo Ragnarok)
+		Tooltip: Reproduce 'Dead Kingdom's Champion' de Techhy
+	}
 }
 
 Projectiles: {
@@ -2883,6 +2879,16 @@ Configs: {
 				Activa o desactiva el tema del Interludio del Descifrador.
 				Este interludio sonará la primera vez que coloques el componente final del Descifrador.
 				'''
+		}
+
+		GrandThunderBirdRagnarok: {
+			Label: Tema del Gran Ave del Trueno en Ragnarok
+			Tooltip: Activa/desactiva si 'Infernal Thunder Bird' de Techhy suena durante la pelea contra el Gran Ave del Trueno en el Modo Ragnarok.
+		}
+
+		QueenJellyfishRagnarok: {
+			Label: Tema de la Reina Medusa en Ragnarok
+			Tooltip: Activa/desactiva si 'Mutant Majesty' de Techhy suena durante la pelea contra la Reina Medusa en el Modo Ragnarok.
 		}
 	}
 
@@ -3390,6 +3396,11 @@ Buffs: {
 		DisplayName: Blixer
 		Description: "'¡No diseñé ESTO! :('"
 	}
+
+	HormonalBlockade: {
+		DisplayName: Bloqueo Hormonal
+		Description: ¡No puedes acceder a tu Rabia ni a tu Adrenalina!
+	}
 }
 
 Tiles: {
@@ -3405,6 +3416,11 @@ Tiles: {
 	LastBattleMusicBoxTile.MapEntry: Caja Musical
 	PlanteraMusicBoxTile.MapEntry: Caja Musical
 	QueenSlimeMusicBoxTile.MapEntry: Caja Musical
+	CnidrionMusicBoxTile.MapEntry: Caja Musical
+	CodebreakerMusicBoxTile.MapEntry: Caja Musical
+	ProvidenceNightMusicBoxTile.MapEntry: Caja Musical
+	ThunderBirdMusicBoxTile.MapEntry: Caja Musical
+	VassalMusicBoxTile.MapEntry: Caja Musical
 }
 
 NPCs: {
@@ -3462,6 +3478,8 @@ BossName: {
 	ProvidenceNight: Unholy Finality - Providence (Noche)
 	Seahorse: Seahorse Scrutiny (Rebirth) - Cnidrion
 	Arsenal: Arsenal - Interludio del Descifrador
+	ThunderBird: Infernal Thunder Bird - El Gran Ave del Trueno (Modo Ragnarok)
+	QueenJellyfish: Mutant Majesty - Reina Medusa (Modo Ragnarok)
 }
 
 PetDialog.DoGDSPTip: ¡La cuadrícula láser aparece al mismo tiempo que él embiste! Enfócate primero en embestir al Devourer y luego muévete a un lugar seguro, ¡pero no olvides esas bolas de fuego!

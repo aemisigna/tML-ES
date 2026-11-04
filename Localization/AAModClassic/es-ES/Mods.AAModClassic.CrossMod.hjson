@@ -511,4 +511,94 @@ CalamityMod: {
 		Contempla mis obras, tal como son... Arruinadas. Nadie se atrevería a buscarme; caminar mi camino.
 		Nada los espera en este mundo cruel.
 		'''
+
+	DraeTalk: {
+		ChaosBiomes: {
+			Prompt: El Caos
+			Dialogue:
+				'''
+				Esas tierras no siempre estuvieron en el estado en que las has visto. Cuando comencé a inspeccionarlas, me encontré con las dos civilizaciones que alguna vez las llamaron hogar. Una se había construido en torno a una montaña y su principal oficio era la herrería. La otra rodeaba un lago y era una aldea pesquera.
+
+				Ambas eran singulares, pues no adoraban a dioses como tú y yo los conocemos, sino a los Antiguos de la Furia y de la Ira, respectivamente. Nunca habían conocido a esos Antiguos, ya que ambos dormían profundamente tras una gran batalla ocurrida mucho antes de mi época. Sin embargo, al despertar, los dos Antiguos destruyeron a sus adoradores. Su Furia y su Ira dieron origen a las tierras tal como las conoces, rebosantes de influencia caótica.
+
+				Fui testigo de todo esto a través de uno de mis drones de reconocimiento. Fue este suceso lo que me convenció de permanecer oculto un tiempo más. De haber revelado mi presencia entonces, no estoy seguro de haber tenido las defensas necesarias para repeler a esas bestias enfurecidas.
+
+				El estrecho enfoque de Yharim en los Dioses durante su Cruzada solo permitió que las fuerzas del caos crecieran en número y poder. Sin duda ya conoces a Ashe y a Haruka. Esos dos tenían la costumbre de importunar tanto a las fuerzas de Yharim como a mis propios laboratorios. Una variable irritante que he tenido que seguir tomando en cuenta.
+
+				Tus esfuerzos por sofocar la influencia que el caos ejerce sobre este mundo no han pasado inadvertidos. Es gracias a ellos que he llegado a considerarte un catalizador. Espero que continúes adelante y pongas fin a su especie de una vez por todas.
+				'''
+		}
+
+		Ancients: {
+			Prompt: Los Antiguos
+			Dialogue:
+				'''
+				Son una casta singular, por decir lo menos. A diferencia de los Dioses, sus títulos no son autoproclamados. Los primeros de su orden fueron designados hace mucho, incluso antes de la Era Dracónica, por los Equinoccios.
+
+				Los títulos que ostentan se han transmitido por sus linajes durante generaciones. Es su deber eterno gobernar los Ecosistemas en los que residen y, mediante ello, se mantiene un equilibrio en todo el planeta.
+
+				Sin embargo, en tiempos más recientes, no estoy seguro de quiénes entre su casta pueden considerarse verdaderos Antiguos y quiénes simplemente reciben el título por su fuerza. He oído que incluso la máquina que reside en el Vacío es llamada un Antiguo. Resulta verdaderamente desconcertante.
+
+				Además, parece que algunos de ellos poseen la capacidad de moderar los poderes que ejercen. Es posible que fuera un proceso intencional, o simplemente que sus habilidades menguaran al transmitirse de generación en generación.
+
+				No obstante, en tus batallas contra ellos, una cosa ha quedado clara. El poder sigue contenido en su interior y es capaz de despertar en los momentos más desesperados.
+
+				Yharim batalló contra los dioses y derrocó su orden. Ahora, parece que pretendes hacer lo mismo con los Antiguos. Las similitudes entre ambos son realmente fascinantes de observar.
+				'''
+		}
+
+		Fungus: {
+			Prompt: Influencia fúngica
+			Dialogue:
+				'''
+				¿Qué? ¿Realmente te preocupan las capacidades de los hongos de este mundo? Qué noción tan peculiar. Si bien se puede observar que son capaces de ejercer influencia sobre orgánicos simples, hay pocas razones para creer que puedan llegar a algo más.
+
+				Los enemigos más considerables que han logrado producir son criaturas más grandes habitadas por sus esporas, y esas dos... ¿criaturas? ... de hongo. Tú los llamas el "Monarca de los Hongos" y el "Hongo Feudal". 
+
+				Admito que he prestado muy poca atención a los hongos de este mundo en mi investigación, debido a sus lamentables resultados en la naturaleza.
+
+				En cualquier caso, como dije, hay pocas razones para preocuparse. Por lo que he observado, sus intentos de propagarse dan escasos resultados. Quizás si unieran sus esfuerzos podrían llegar a ser algo mayor que la suma de sus partes.
+				'''
+		}
+
+		Void: {
+			Prompt: El Vacío
+			Dialogue:
+				'''
+				Hay mucho que decir sobre la anomalía espacial a la que a menudo se llama "El Vacío". La datación por carbono de las muestras geológicas recuperadas indica que existía mucho antes de la formación de este planeta. La máquina solitaria que se hallaba en su epicentro fue mi principal objeto de investigación. En todos mis intentos, nunca pude hacer que se activara, y ni siquiera mi Artillería Exo logró atravesar sus escudos.
+
+				Tú, en cambio, lograste lo que yo no pude. La activaste e incluso conseguiste derrotarla. Observé tu batalla desde varios drones de reconocimiento, y fue fascinante ver activarse a la Unidad Cero. Su armamento era particularmente notable. Me parece evidente que fue diseñada para el combate, lo que plantea la pregunta de por qué permaneció en silencio todo este tiempo. ¿Por qué activarse ahora?
+
+				En cualquier caso, espero que sigas sorprendiéndome. Si mis escáneres funcionan correctamente, algo verdaderamente aterrador ha llegado a través del Vacío. Te has familiarizado con la cúspide de mi investigación. Equípate como sea necesario para lo que sea que aguarde dentro de ese abismo.
+				'''
+		}
+
+		Equinox: {
+			Prompt: Los Equinoccios
+			Dialogue:
+				'''
+				Los Equinoccios son un dúo particularmente antiguo que ha acompañado a este mundo durante siglos; desde antes de que la vida se formara en él. Fueron ellos quienes designaron a los primeros Antiguos hace mucho tiempo y los bendijeron con una porción sustancial de sus poderes.
+
+				He oído una gran cantidad de mitos sobre los Equinoccios. Uno que sé que fue de particular interés para Yharim cuenta que ayudaron a un gran héroe a desterrar a un poderoso hechicero que empuñaba todo el poder del caos. Yharim ha citado en incontables ocasiones al héroe de esta leyenda como inspiración para sus tropas.
+
+				Si bien es cierto que son responsables del paso del día y la noche en nuestro planeta, muchos entienden el proceso por completo al revés. El Sol y la Luna no orbitan nuestro planeta. Cualquier examen serio revelaría que los Equinoccios tienen la capacidad de emitir un poderoso aura gravitatoria. Con ella, son capaces de arrastrar el planeta alrededor del sol, y la luna alrededor del planeta.
+				'''
+		}
+	}
+}
+
+Fables: {
+	Nautilus: {
+		DesertDjinnActive: {
+			1: <m:SmallShake>¡Ay, qué alboroto tan estruendoso día tras día!</m><d:0.6> </d>¡Si aún tuviera un poco más de fuerzas, yo mismo habría echado hace tiempo a estos <c:F4A460>Genios</c> de estas ruinas!
+			2: <m:Shake>¡Ese <c:F4A460>Genio...!</c></m><d:0.8> </d>¡Hasta sus subordinados son una vergüenza, yendo y viniendo a su antojo para atormentarme!<d:0.6> </d>Debe de ser una pésima influencia para ellos... nada que ver con cómo crecí yo junto a <d:0.05><s:1.1><c:28dcdc>¡Signathion!</d></s></c>
+		}
+
+		DesertDjinnDefeated: {
+			First: ¡Cielos, qué favor me has hecho al echar a esos <c:F4A460>Genios</c> de estas ruinas!<d:0.4> </d>Por mucho que agradezca una distracción, <m:Empathis>¡simplemente eran demasiado!
+			Repeat: Sin duda me resulta más fácil partir sabiendo que el <c:F4A460>Genio</c> y sus gamberros ya no merodean mi antiguo hogar. <m:Empathis><s:1.1><d:0.03>¡Tienes mi más sincero agradecimiento!
+		}
+	}
+
+	Squilium: ¡Hola, soy squilium!
 }

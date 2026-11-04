@@ -1,0 +1,30 @@
+GsSlimeStaff.Desc: Legión de Gel: los slimes avanzan en formación de escolta; dos slimes distintos que golpeen a un enemigo en un mismo compás activan una explosión de gel y la orden de reagrupación los amontona en una masa pegajosa
+GsFinchStaff.Desc: Falange de Pinzones: los pinzones vuelan en formación de V; después del primer golpe, los picotazos posteriores contra ese enemigo acumulan poder y la orden de reagrupación forma una bandada giratoria
+GsAbigailsFlower.Desc: Alma Compañera: los golpes de Abigail dejan un anillo de luz de alma tranquilizadora que potencia a tus súbditos dentro; bajo la orden de asalto concentra su ira en el enemigo marcado
+GsFlinxStaff.Desc: Avalancha de Bolas de Nieve: los flinxes avanzan en una columna de relevos; el cuarto placaje contra un enemigo durante la ventana inflige la mitad adicional de daño y Quemadura por Escarcha, y la orden de reagrupación amontona un ventisquero
+GsHornetStaff.Desc:
+	'''
+	Red de Fuego de la Colmena: los avispones ascienden, se lanzan en picado a través de su presa y vuelven a subir, escupiendo una breve ráfaga de aguijones al fondo del picado
+	La orden de asalto hace que se lancen en picado con mucha más frecuencia y con una ráfaga más larga; tres aguijones contra un mismo enemigo hacen estallar una cápsula de veneno
+	'''
+GsVampireFrogStaff.Desc: Festín de Ranas de Sangre: las ranas te flanquean en dos filas; sus mordiscos pueden derramar una cuenta de médula que vuelve volando para curarte y la Luna de Sangre las lanza a un frenesí carmesí
+GsImpStaff.Desc: Batería de Fuego Infernal: los diablillos mantienen una línea de artillería trasera; bajo la orden de asalto, tres bolas de fuego contra un enemigo levantan una columna de pira debajo de él
+GsSpiderStaff.Desc: Caza de Telaraña: tres especies de araña mantienen una guardia triangular; los mordiscos coordinados atan a la presa en una telaraña que profundiza cada herida y ahora cada mordisco también envenena
+GsBladeStaff.Desc: Rueda de Hojas de Bagua: las dagas orbitan como una rueda de giro lento; el sexto golpe consecutivo de una daga contra un enemigo atraviesa su armadura y libera un tajo cruzado fantasmal con un 40% más de daño, mientras la orden de reagrupación levanta una puerta de hojas
+
+GsLegionBannerProj: {
+	DisplayName: Estandarte de la Legión
+	GuardTip: Guardia
+	AssaultTip: ¡Asalto!
+	RallyTip: ¡Reúne!
+	CommandHint: Clic derecho: asalta a un enemigo, reagrupa en un punto o apunta cerca de ti para retirar
+}
+
+GsRallyFieldProj.DisplayName: Terreno de Reagrupación
+GsGelBurstProj.DisplayName: Explosión de Gel
+GsVenomPodProj.DisplayName: Cápsula Venenosa
+GsImpPyreProj.DisplayName: Columna de Pira
+GsBloodSipProj.DisplayName: Cuenta de Médula
+GsWebBindProj.DisplayName: Telaraña Vinculante
+GsSoulSolaceProj.DisplayName: Anillo de Consuelo del Alma
+GsBladeStaffPhantomProj.DisplayName: Proyectil Fantasmal del Bastón de Hojas

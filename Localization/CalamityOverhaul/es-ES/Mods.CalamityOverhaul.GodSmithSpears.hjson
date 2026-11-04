@@ -1,0 +1,96 @@
+GsSpear.Desc:
+	'''
+	Reforjado: estocadas de instrucción en tres tiempos, cada una más profunda y rápida que la anterior;
+	el tercer tiempo se adelanta en el golpe como un veterano
+	'''
+GsTrident.Desc:
+	'''
+	Reforjado: cada golpe libera tres chorros de agua de mar desde la herida;
+	mientras estás mojado o llueve, sube la marea y los chorros vuelan más rápido y más lejos
+	'''
+GsThunderSpear.Desc:
+	'''
+	Reforjado: la punta se carga mientras la mantienes completamente extendida; acierta un golpe durante ese momento
+	y los rayos saltarán al enemigo cercano, o a dos enemigos si está lloviendo
+	'''
+GsTheRottedFork.Desc:
+	'''
+	Reforjado: golpes de dos tiempos, una estocada rápida y luego una compresión pesada;
+	el tiempo pesado exprime una masa de sangre de la herida que salpica en un charco corrosivo
+	'''
+GsDarkLance.Desc:
+	'''
+	Reforjado: mantén para alimentar la lanza con llama sombría devoradora y suelta para golpear más lejos y más fuerte;
+	un golpe completamente cargado hace brotar tres brasas sombrías de la herida
+	'''
+GsSwordfish.Desc:
+	'''
+	Reforjado: cada estocada te lanza hacia delante siguiendo el golpe, el doble de distancia bajo el agua;
+	mientras estás mojado, el pez espada está en su elemento e inflige un 15% más de daño
+	'''
+GsObsidianSwordfish.Desc:
+	'''
+	Reforjado: los golpes incendian a los enemigos y hacen brotar fragmentos de obsidiana de la herida;
+	mientras ardes o estás empapado en lava, el núcleo vuelve a calentarse e inflige un 15% más de daño
+	'''
+GsCobaltNaginata.Desc:
+	'''
+	Reforjado: trabajo de asta alternado, una estocada recta y luego un barrido amplio de cobalto;
+	el barrido traza un arco donde no llega la línea de la estocada
+	'''
+GsPalladiumPike.Desc:
+	'''
+	Reforjado: cada golpe almacena una carga de vigor en el borde tibio de paladio;
+	con cinco cargas, la lanza las libera y restaura 5 de vida a su portador
+	'''
+GsMythrilHalberd.Desc:
+	'''
+	Reforjado: trabajo de alabarda en dos tiempos, una estocada rápida y luego una estocada pesada y profunda;
+	el tiempo pesado libera una media luna de mithril de corto alcance que atraviesa dos veces
+	'''
+GsOrichalcumHalberd.Desc:
+	'''
+	Reforjado: cada estocada acertada hace florecer dos pétalos teledirigidos de la herida,
+	cada uno gira en busca de las presas cercanas
+	'''
+GsAdamantiteGlaive.Desc:
+	'''
+	Reforjado: el último cuarto de la hoja es el punto óptimo;
+	acertar con la punta exacta quiebra la armadura y aturde, mientras el asta solo da un pinchazo
+	'''
+GsTitaniumTrident.Desc:
+	'''
+	Reforjado: cada estocada lanza dos tridentes sombríos paralelos por encima y debajo de la hoja verdadera,
+	que recorren una distancia corta antes de disolverse
+	'''
+GsGungnir.Desc: Reforjada: una estocada señorial de tres tiempos coronada por un remate dorado;
+GsChlorophytePartisan.Desc:
+	'''
+	Reforjado: mientras la hoja permanece completamente extendida, se acumulan esporas en su punta;
+	al retirar la lanza libera una nube de esporas flotantes que caza y envenena
+	'''
+GsMushroomSpear.Desc:
+	'''
+	Reforjado: el segundo tiempo pesado planta una mina de esporas luminosas en la herida;
+	estalla unos instantes después, daña a los enemigos cercanos y devuelve 2 de vida al portador
+	'''
+GsNorthPole.Desc:
+	'''
+	Reforjado: las estocadas rápidas lanzan cristales de escarcha en espiral y el tercer golpe planta un pilar polar
+	en la herida que hace llover carámbanos; permanecer allí envuelve la punta en niebla helada
+	'''
+GsJoustingLance.Desc:
+	'''
+	Reforjado: mantén para apoyar la lanza; la velocidad acumula impulso y un golpe a toda velocidad inflige hasta x2.4 de daño;
+	cuanto más tiempo cabalgues a toda velocidad, más daño adicional llevará el siguiente golpe
+	'''
+GsShadowJoustingLance.Desc:
+	'''
+	Reforjado: cargar a toda velocidad deja brasas de llama sombría a lo largo de tu trayectoria;
+	los enemigos que toquen una brasa reciben un 25% de daño y quedan envueltos en llamas sombrías
+	'''
+GsHallowJoustingLance.Desc:
+	'''
+	Reforjado: a toda velocidad, una estrella prismática cae sobre el enemigo más cercano cada 0.7 s e inflige un 40% de daño;
+	los golpes a toda velocidad estallan con luz prismática sagrada
+	'''

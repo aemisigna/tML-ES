@@ -1,0 +1,143 @@
+GsWandOfSparking.Desc:
+	'''
+	Reforjado: lanzar al ritmo acumula resonancia y las chispas a tiempo encienden a los enemigos cercanos en cadena;
+	Con la resonancia al máximo, el siguiente lanzamiento estalla en un abanico de doce chispas sueltas
+	'''
+GsWandOfFrosting.Desc:
+	'''
+	Reforjado: los virotes helados a tiempo se refractan en fragmentos de hielo al impactar; una resonancia más profunda divide más;
+	Con la resonancia al máximo, el siguiente lanzamiento exhala un cono amplio de niebla helada que inflige Quemadura por Escarcha
+	'''
+GsThunderZapper.Desc:
+	'''
+	Reforjado: los virotes a tiempo zigzaguean como relámpagos verdaderos y pueden bifurcarse en cada giro; la resonancia acelera el gatillo;
+	Con la resonancia al máximo, el siguiente golpe marca al objetivo y hace caer un pilar de trueno
+	'''
+GsAmethystStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en fragmentos de amatista perforadores al impactar;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsTopazStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en fragmentos de topacio teledirigidos al impactar;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsSapphireStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en lanzas de zafiro veloces al impactar;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsEmeraldStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo estallan en un fragmento de esmeralda adicional al impactar;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsRubyStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en fragmentos de rubí que detonan en una pequeña explosión;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsDiamondStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en fragmentos de diamante que refractan dos rayos de luz;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsAmberStaff.Desc:
+	'''
+	Reforjado: los virotes a tiempo se quiebran en fragmentos de ámbar que persisten como motas de polvo urticante;
+	Con la resonancia al máximo, el siguiente lanzamiento dispara tres virotes de gema de tonos vecinos
+	'''
+GsVilethorn.Desc:
+	'''
+	Reforjado: las espinas a tiempo se bifurcan en púas viles donde muerden;
+	Con la resonancia al máximo, el siguiente lanzamiento también hace estallar un anillo de espinas a tu alrededor
+	'''
+GsWaterBolt.Desc:
+	'''
+	Reforjado: los virotes a tiempo rebotan más lejos y dejan ondas en cada rebote;
+	Con la resonancia al máximo, el siguiente lanzamiento se convierte en una gran marea que atraviesa todo
+	'''
+GsBookOfSkulls.Desc:
+	'''
+	Reforjado: los golpes graban a los enemigos en el registro y las calaveras a tiempo cazan a las presas marcadas;
+	Con la resonancia al máximo, el siguiente lanzamiento libera tres calaveras y tres marcas detonan en una explosión ósea
+	'''
+GsDemonScythe.Desc:
+	'''
+	Reforjado: las guadañas a tiempo se preparan más rápido y pueden volver como búmeranes con mucha resonancia;
+	Con la resonancia al máximo, el siguiente lanzamiento cruza dos guadañas sobre tu cursor
+	'''
+GsAquaScepter.Desc:
+	'''
+	Reforjado: rociar de forma sostenida se convierte en una ventana de oleada de presión acuática aplastante;
+	completa tres oleadas y el siguiente lanzamiento se divide en un abanico de golpes de marea
+	'''
+GsFlowerOfFire.Desc:
+	'''
+	Reforjado: las bolas de fuego a tiempo estallan en abanicos de lenguas de llamas al primer aterrizaje;
+	Con la resonancia al máximo, la siguiente bola de fuego florece en un campo ardiente donde aterriza
+	'''
+GsBeeGun.Desc:
+	'''
+	Reforjado: las andanadas a tiempo vuelan en formación de V y la resonancia cría abejas más grandes;
+	Con la resonancia al máximo, el siguiente lanzamiento libera una abeja reina que deja un enjambre vivo a su paso
+	'''
+GsSpaceGun.Desc:
+	'''
+	Reforjado: cada disparo a tiempo carga la bobina y la carga nunca desaparece al fallar;
+	cada cuarta carga se descarga como un pulso perforador amplio que atrae a los enemigos menores
+	'''
+GsGrayZapinator.Desc:
+	'''
+	Reforjado: el caos sigue siendo caos, pero las descargas a tiempo siempre alcanzan alto voltaje;
+	Con la resonancia al máximo, la siguiente descarga se sobrecarga en un rayo perforador hinchado
+	'''
+GsLaserRifle.Desc:
+	'''
+	Reforjado: cada tercer disparo a tiempo se divide en dos láseres paralelos;
+	Con la resonancia al máximo, el siguiente disparo enciende una explosión de sobremarcha que barre el área y luego el cañón se debilita brevemente
+	'''
+GsWeatherPain.Desc:
+	'''
+	Reforjado: los golpes dejan un ojo de tormenta; los lanzamientos a tiempo avanzan hacia él y se hinchan;
+	con mucha resonancia, los torbellinos se duplican y, con la resonancia al máximo, el siguiente lanzamiento invoca un gran coro de tormenta
+	'''
+GsCursedFlames.Desc:
+	'''
+	Reforjado: los virotes a tiempo plantan semillas de maldición; la tercera semilla se enciende en un anillo de púas malditas y un charco de fuego persistente
+	Con la resonancia al máximo, el siguiente lanzamiento libera una serpiente de maldición entretejida que deja charcos de fuego a su paso
+	'''
+GsChantFlameFieldProj.DisplayName: Campo de Flores Ardientes
+GsChantStormChoirProj.DisplayName: Coro de Tormenta
+GsCursedFlamesSerpentProj.DisplayName: Serpiente de Maldición
+GsCursedFlamesPoolProj.DisplayName: Charco de Fuego Maldito
+GsGoldenShower.Desc:
+	'''
+	Reforjado: los golpes graban icor fundido; la quinta capa estalla en una ráfaga de ocho direcciones y un racimo de icor que gotea
+	Rocía sin pausa para aumentar la presión: virotes más rápidos, corrientes más densas y doble grabado
+	'''
+GsCrystalVileShard.Desc:
+	'''
+	Reforjado: las lanzas a tiempo incrustan semillas cristalinas; cuando la lanza se quiebra, todos los enemigos sembrados estallan en una cruz de rayos de fragmento
+	Con la resonancia al máximo, el siguiente lanzamiento levanta seis lanzas cristalinas a tu alrededor
+	'''
+GsUnholyTrident.Desc:
+	'''
+	Reforjado: los lanzamientos a tiempo se dividen en un tridente de tres puntas que abrasa con Fuego Infernal
+	Con la resonancia al máximo, el siguiente lanzamiento levanta cuatro oleadas de tridentes infernales desde debajo de tu cursor
+	'''
+GsNettleBurst.Desc:
+	'''
+	Reforjado: las enredaderas a tiempo echan raíces donde muerden y dejan matorrales de ortigas urticantes (hasta tres)
+	Con la resonancia al máximo, el siguiente lanzamiento libera un gran dragón de enredadera que barre el campo
+	'''
+GsWaspGun.Desc:
+	'''
+	Reforjado: las avispas a tiempo clavan una marca de feromonas en sus presas; todas las avispas en el aire cazan primero al objetivo marcado
+	Con la resonancia al máximo, el siguiente lanzamiento libera una avispa reina que avanza sembrando cazadores a su paso
+	'''
+GsGoldenShowerDripProj.DisplayName: Racimo de Icor
+GsNettleBurstThicketProj.DisplayName: Matorral de Ortigas
+GsNettleBurstDragonProj.DisplayName: Dragón de Enredadera
+GsWaspGunQueenProj.DisplayName: Avispa Reina

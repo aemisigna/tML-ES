@@ -1276,3 +1276,8 @@ PortaProbe: {
 	DisplayName: Porta-Sonda
 	Tooltip: ¡Lleva contigo un pequeño robot buscador de vida!
 }
+
+SchematicWand: {
+	DisplayName: Varita de Planos
+	Tooltip: ""
+}

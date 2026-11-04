@@ -1,108 +1,63 @@
 CybCourseIntroDialogue: {
 	Line1: Maestro, bienvenido al nodo de entrenamiento neuronal.
 	Line2: Este es un espacio de entrenamiento cerrado.
-	Line3: SHPC es un arma inteligente formidable. Aquí aprenderá a operar su interfaz HUD.
-	Line4: ¿Listo para conectar su conciencia con la mía? Sostenga mi mano con fuerza y comencemos.
+	Line3: SHPC es mi cuerpo-arma. Para esta lección, empieza por aprender a leer su HUD.
+	Line4: ¿Listo para conectar tu conciencia con la mía? Sostén mi mano con fuerza y comencemos.
 }
 
 CybTutorialLead: {
 	Step0_Title: Conectando SHPC
-	Step0_Body: Equipe y sostenga SHPC en su barra de armas; el nodo central del HUD aparecerá en la esquina inferior izquierda de su pantalla.
+	Step0_Body: Equipa y sostén SHPC en tu ranura activa; el nodo central del HUD aparecerá en la esquina inferior izquierda de tu pantalla.
 	Step1_Title: Nodo Central
-	Step1_Body: Haga clic en el nodo central de la esquina inferior izquierda para desplegar o contraer el panel de operaciones.
-	Step2_Title: CYBER DOMAIN
+	Step1_Body: Haz clic en el nodo central de la esquina inferior izquierda para desplegar o contraer el panel de operaciones.
+	Step2_Title: Dominio Cibernético
 	Step2_Body:
 		'''
-		Ciberespacio: Despliegue y gestione la estructura en múltiples capas del ciberespacio.
-		Haga clic en el sector resaltado para abrir este panel.
+		Despliega y gestiona estructuras de ciberespacio de múltiples capas.
+		Haz clic en el sector resaltado para abrir este panel.
 		'''
-	Step3_Title: MODIFY
+	Step3_Title: Modificar
 	Step3_Body:
 		'''
-		Modificación de módulos: Instale o retire piezas de mejora para SHPC.
-		Haga clic en el sector resaltado para abrir este panel.
+		Instala o desinstala piezas de modificación para SHPC.
+		Haz clic en el sector resaltado para abrir este panel.
 		'''
-	Step4_Title: CYBERWARE
+	Step4_Title: Ciberimplantes
 	Step4_Body:
 		'''
-		Implantes cibernéticos: Revise y gestione sus módulos de mejora corporal.
-		Haga clic en el sector resaltado para abrir esta interfaz.
+		Revisa y gestiona tus módulos de mejora corporal.
+		Haz clic en el sector resaltado para abrir esta interfaz.
 		'''
-	Step5_Title: TALK
+	Step5_Title: Enlace Neuronal
 	Step5_Body:
 		'''
-		Enlace Neuronal: Establezca comunicación directa con SHPC para iniciar un diálogo.
-		Haga clic en el sector resaltado para conversar conmigo.
+		Establece comunicación directa con SHPC para iniciar un diálogo.
+		Haz clic en el sector resaltado para hablar conmigo.
 		'''
 	Step6_Title: ENGRAM CALIBRATED
 	Step6_Body:
 		'''
-		Todas las interfaces han sido analizadas con éxito.
-		El enlace neuronal es estable, SHPC está lista.
+		Todas las interfaces han sido resueltas.
+		El enlace neuronal es estable. SHPC está lista.
 		'''
-	AwaitingEquip: ESPERANDO EQUIPAMIENTO...
-	Calibrating: CALIBRANDO...
-	NextBtn: SIGUIENTE  >
-	HintStuck: PISTA: Intente hacer clic en el área objetivo resaltada
+	Calibrating: Calibrando...
+	NextBtn: Omitir >
+	HintStuck: Pista: intenta hacer clic en el área objetivo resaltada
 }
 
 CybCourseHackIntroDialogue: {
 	Line1: Análisis de interfaz completado. Siguiente entrenamiento: Tiempo de Hackeo.
 	Line2: Al activar el Tiempo de Hackeo, el mundo se detiene ante sus ojos. Tómese su tiempo para elegir objetivos y colocar protocolos. Tecla predeterminada: {0}.
-	Line3: La unidad de prueba frente a usted está asegurada. Presione {0} para entrar en el Tiempo de Hackeo y luego haga clic para fijarla como objetivo.
+	Line3: El objetivo de entrenamiento de delante está asegurado. Pulsa {0} para entrar en el Tiempo de Hackeo y haz clic para fijarlo.
 }
 
 HackTimeTutorialLead: {
-	HT_Step0_Title: Activar el Modo Hackeo
-	HT_Step1_Title: Fijar Objetivo
-	HT_Step2_Title: Panel de Protocolos de Hackeo
-	HT_Step3_Title: Cargar Protocolo
-	HT_Step4_Title: HACK SEQUENCE COMPLETE
-	HT_Step0_Body:
-		'''
-		Presione la tecla {0} para entrar en el modo Tiempo de Hackeo.
-		El tiempo se detendrá y un filtro cibernético cubrirá su visión.
-		'''
-	HT_Step1_Body:
-		'''
-		Pase el cursor sobre el Papá-NK1 resaltado,
-		y haga clic izquierdo para fijarlo como objetivo de hackeo.
-		'''
-	HT_Step2_Body:
-		'''
-		El panel derecho muestra los protocolos de hackeo disponibles para el objetivo.
-		Diferentes protocolos consumen distinta RAM y generan efectos variados.
-		'''
-	HT_Step3_Body:
-		'''
-		Haga clic en un protocolo para añadirlo a la cola de carga a la izquierda.
-		La cola ejecutará las operaciones de hackeo en orden.
-		'''
-	HT_Step4_Body:
-		'''
-		Enlace neuronal desconectado.
-		Entrenamiento del protocolo de Tiempo de Hackeo completado; el sistema está listo.
-		'''
-	HT_Waiting: ESPERANDO ENTRADA...
-	HT_Calibrating: DESCONECTANDO...
-	HT_NextBtn: SIGUIENTE  >
-	HT_Step5_Title: Escaneo de Bloques
-	HT_Step6_Title: Fijar Bloque Objetivo
-	HT_Step7_Title: TILE SCAN COMPLETE
-	HT_Step5_Body:
-		'''
-		Hay un Generador Térmico MK2 más adelante.
-		Presione {0} de nuevo para reactivar el Tiempo de Hackeo.
-		'''
-	HT_Step6_Body:
-		'''
-		Pase el cursor sobre el generador,
-		y haga clic izquierdo para fijarlo como objetivo de escaneo.
-		'''
-	HT_Step7_Body: Interfaz de escaneo de bloques analizada. El panel derecho muestra los protocolos de hackeo disponibles para este bloque.
-	HT_HintStuck: PISTA: Haga clic en el botón SIGUIENTE para omitir a la fuerza
+	HT_Waiting: Esperando entrada...
+	HT_Calibrating: Desconectando...
+	HT_NextBtn: Omitir >
+	HT_HintStuck: Pista: haz clic en Omitir para forzar el avance
 	HT_KeyUnbound: N (Interruptor temporal)
-	HT_KeyHintUnbound: Pista: Si no ha asignado una tecla para el Tiempo de Hackeo, puede usar [N] temporalmente durante este tutorial; se recomienda asignarlo en Configuración > Controles.
+	HT_KeyHintUnbound: Pista: si no has asignado una tecla para el Tiempo de Hackeo, puedes usar [N] temporalmente durante este tutorial; se recomienda asignarla en Configuración > Controles.
 	HT_S00_Title: Activar el Modo Hackeo
 	HT_S01_Title: Fijar NPC Objetivo
 	HT_S02_Title: Panel de Protocolos de Hackeo
@@ -117,13 +72,13 @@ HackTimeTutorialLead: {
 	HT_S11_Title: Entrenamiento Completado
 	HT_S00_Body:
 		'''
-		Presione la tecla {0} para entrar en el modo Tiempo de Hackeo.
+		Pulsa la tecla {0} para entrar en el modo Tiempo de Hackeo.
 		El tiempo se congelará y un filtro cibernético se aplicará a la pantalla.
 		'''
 	HT_S01_Body:
 		'''
-		Pase el cursor sobre el Papá-NK1 resaltado,
-		y haga clic izquierdo para fijarlo como objetivo de hackeo.
+		Pasa el cursor sobre el objetivo de entrenamiento resaltado,
+		y haz clic izquierdo para fijarlo como objetivo de hackeo.
 		'''
 	HT_S02_Body:
 		'''
@@ -132,50 +87,81 @@ HackTimeTutorialLead: {
 		'''
 	HT_S03_Body:
 		'''
-		Haga clic en cualquier protocolo de la derecha para agregarlo a la cola de carga a la izquierda.
-		Durante el Tiempo de Hackeo, la cola solo se acumula, pero no avanza.
+		Haz clic en cualquier protocolo de la derecha para añadirlo a la cola de carga de la izquierda.
+		Durante el Tiempo de Hackeo, la cola solo organiza las tareas; todavía no las procesa.
 		'''
 	HT_S04_Body:
 		'''
-		Presione {0} nuevamente para salir del Tiempo de Hackeo.
-		Los protocolos comenzarán a cargarse y a surtir efecto en el mundo real.
+		Pulsa {0} de nuevo para salir del Tiempo de Hackeo.
+		Los protocolos comenzarán a cargarse y surtirán efecto en tiempo real.
 		'''
 	HT_S05_Body:
 		'''
-		Cargando... Observe cómo el objetivo sufre los efectos del protocolo.
-		Avanzará a la siguiente fase en cuanto la cola se vacíe.
+		Cargando... Observa cómo el objetivo sufre los efectos del protocolo.
+		La siguiente fase comenzará cuando se vacíe la cola.
 		'''
 	HT_S06_Body:
 		'''
-		Hay un Generador Térmico MK2 en el pasillo de adelante.
-		Presione {0} de nuevo para entrar al Tiempo de Hackeo y escanear el bloque.
+		Hay un Generador Térmico MK2 en la cubierta de delante.
+		Pulsa {0} de nuevo para entrar en el Tiempo de Hackeo y escanear el bloque.
 		'''
 	HT_S07_Body:
 		'''
-		Pase el cursor sobre el generador resaltado,
-		y haga clic izquierdo para fijarlo como objetivo de escaneo.
+		Pasa el cursor sobre el generador resaltado,
+		y haz clic izquierdo para fijarlo como objetivo de escaneo.
 		'''
 	HT_S08_Body:
 		'''
-		El panel derecho muestra los protocolos exclusivos para bloques.
-		Haga clic en cualquier protocolo para agregarlo a la cola de carga.
+		El panel derecho muestra los protocolos exclusivos de este bloque.
+		Haz clic en cualquier protocolo para añadirlo a la cola de carga.
 		'''
 	HT_S09_Body:
 		'''
-		Presione {0} nuevamente para salir del Tiempo de Hackeo.
-		Los protocolos de bloque se ejecutarán en el mundo en tiempo real.
+		Pulsa {0} de nuevo para salir del Tiempo de Hackeo.
+		Los protocolos del bloque se ejecutarán en tiempo real.
 		'''
 	HT_S10_Body:
 		'''
-		Cargando... Observe cómo el generador sufre los efectos del protocolo.
-		El entrenamiento finalizará en cuanto la cola se vacíe.
+		Cargando... Observa cómo el generador sufre los efectos del protocolo.
+		El entrenamiento terminará cuando se vacíe la cola.
 		'''
 	HT_S11_Body:
 		'''
-		Entrenamiento de hackeo completado.
-		Escaneo, protocolo, carga y ejecución: el flujo está claro.
+		El entrenamiento de hackeo ha terminado.
+		Escanear, organizar, cargar, ejecutar: ya entiendes el flujo.
 		'''
-	HT_Observing: CARGANDO...
+	HT_Observing: Cargando...
+}
+
+CybCourseWheelIntroDialogue: {
+	Line1: Los dos protocolos principales funcionan. Solo queda una cosa: un gesto que los ponga ambos al alcance de tu mano.
+	Line2: Mantén {0} y se abrirá la rueda radial; las tres capas del dominio se sitúan en el anillo y, justo en el centro, está el atajo del Tiempo de Hackeo.
+	Line3: Adelante. Mantén {0}, lanza el cursor hacia la capa que quieras y suéltalo.
+}
+
+WheelTutorialLead: {
+	RW_S00_Title: Invocar la rueda radial
+	RW_S01_Title: Elegir una capa del dominio
+	RW_S02_Title: Centro: Tiempo de Hackeo
+	RW_S00_Body:
+		'''
+		Mantén {0} para invocar la rueda radial.
+		Todas las ruedas disponibles aparecen juntas; el cursor pertenece a la que esté más cerca.
+		'''
+	RW_S01_Body:
+		'''
+		Sigue manteniendo la tecla, lanza el cursor hacia cualquier sector de capa,
+		y haz clic izquierdo o simplemente suéltala para confirmar. El dominio se desplegará al instante.
+		'''
+	RW_S02_Body:
+		'''
+		El atajo del Tiempo de Hackeo está justo en el centro de la rueda;
+		hacer clic equivale a pulsar {1}. Con esto termina el entrenamiento.
+		'''
+	RW_Calibrating: Sincronizada
+	RW_NextBtn: Omitir >
+	RW_HintStuck: Pista: haz clic en Omitir para forzar el avance
+	RW_KeyHintUnbound: Nota: la tecla de la rueda radial no está asignada, así que la rueda no puede abrirse. Asígnala en Configuración > Controles o haz clic en Omitir.
 }
 
 CybCourseOutroDialogue: {
@@ -209,11 +195,19 @@ CybCourseKeyBindReminderPanel: {
 	Footer: Cualquier opción sale del hiper-sueño. Puede cambiar las teclas después en ajustes.
 }
 
+CybCourseWorld: {
+	BootTag: ENLACE NEURONAL · NODO DE HIPERSUEÑO
+	BootTitle: Conectando el hipersueño
+	BootSubtitle: Protocolo de entrenamiento inmersivo de SHPC
+	BootStatus: Compilando espacio de entrenamiento
+	BootBarLabel: Tasa de sincronización
+}
+
 ShepelCyberActiveDialogue: {
 	Line_Intro: Maestro, el ciberespacio se ha desplegado; nivel actual {0}. Las señales externas han sido bloqueadas por completo; este ahora es un dominio seguro solo para nosotros.
 	Line_LayerReport: Cuanto más profundo sea el dominio, más obstáculos podré despejar para usted. Pero, por favor, vigile el consumo de RAM.
 	Line_Warning: Maestro, manténgase alerta. Hay fluctuaciones anormales en los bordes del dominio, quédese dentro de mi área de cobertura.
-	Line_MaxLayer: Maestro, hemos llegado a la zona más profunda. Más adelante se encuentra la frontera del Muro Negro, es extremadamente peligroso... Por favor, sostenga mi mano con fuerza y no la suelte bajo ninguna circunstancia.
+	Line_MaxLayer: Maestro, hemos llegado a la zona más profunda. Más adelante se encuentra la frontera del Muro Negro, es extremadamente peligroso... Por favor, sostén mi mano con fuerza y no la sueltes bajo ninguna circunstancia.
 }
 
 ShepelIdleDialogue: {
@@ -318,7 +312,7 @@ ShepelLeviathanDialogue: {
 ShepelMoonLordDialogue: {
 	Line1: La señal del Señor de la Luna ha desaparecido totalmente. Maestro, este ha sido el objetivo con el nivel de amenaza más alto que he registrado en mi ciclo de funcionamiento actual.
 	Line2: La sensación de opresión que envolvía el cielo se ha disipado, pero no bajaré la guardia.
-	Line3: No importa qué otros secretos se oculten bajo este cielo estrellado, sostendré su mano con fuerza y jamás retrocederé.
+	Line3: No importa qué otros secretos se oculten bajo este cielo estrellado, sostendré tu mano con fuerza y jamás retrocederé.
 }
 
 ShepelPerforatorDialogue: {
@@ -391,7 +385,7 @@ ShepelBloodMoonDialogue: {
 
 ShepelPlayerRespawnDialogue: {
 	Line1: ...Signos vitales restablecidos. Maestro, se desconectó por un tiempo hace unos instantes.
-	Line2: Cuando se interrumpió la comunicación, no pude hacer nada más que esperar. Cada espera se siente terriblemente larga. La próxima vez, no me haga esperar tanto, ¿de acuerdo?
+	Line2: Cuando se interrumpió la comunicación, no pude hacer nada más que esperar. Cada espera se siente terriblemente larga. La próxima vez, no me hagas esperar tanto, ¿de acuerdo?
 	Line3: Ya pasó todo. Recupere sus puntos de salud, yo estoy aquí.
 }
 
@@ -478,16 +472,16 @@ ShepelAquaticScourgeGift: {
 
 ShepelBoCGift: {
 	L0: Pelear contra ese monstruo al que le encanta crear alucinaciones mentales seguro lo dejó mareado, ¿verdad? Qué criatura tan falta de modales.
-	L1: Sus dedos aún están temblando ligeramente; he ajustado la microcorriente en nuestro enlace, por favor intente relajarse un poco.
+	L1: Tus dedos aún están temblando ligeramente; he ajustado la microcorriente en nuestro enlace, por favor intenta relajarte un poco.
 	L2: En cuanto a ese detestable cerebro, tomé prestados los cristales neuronales que dejó atrás para hacerle una pequeña mejora de materiales.
-	L3: Esta es una nueva empuñadura antideslizante. Con ella, incluso en las batallas de mayor tensión mental, su arma se ajustará a la perfección y con firmeza en la palma de su mano.
+	L3: Esta es una nueva empuñadura antideslizante. Con ella, incluso en las batallas de mayor tensión mental, tu arma se ajustará a la perfección y con firmeza en la palma de tu mano.
 }
 
 ShepelBrimstoneElementalGift: {
 	L0: Uf, ese calor abrasador que casi nos derrite por fin está bajando. Esa dama sí que tenía un temperamento explosivo.
 	L1: Déjeme revisarlo de cerca... Menos mal, no hay ni un solo rastro de quemaduras en sus prendas.
 	L2: Aprovechando los datos térmicos que recopilé hace un instante, le apliqué un tratamiento térmico especial a su arma.
-	L3: ¡Instale este nuevo cañón! La próxima vez que se cruce con alguien tan rudo, dispare sin reparos; todo el trabajo de disipación de calor correrá por mi cuenta.
+	L3: ¡Instala este nuevo cañón! La próxima vez que te cruces con alguien tan rudo, dispara sin reparos; todo el trabajo de disipación de calor correrá por mi cuenta.
 }
 
 ShepelCalamitasCloneGift: {
@@ -535,7 +529,7 @@ ShepelEoWGift: {
 ShepelExoMechsGift: {
 	L0: Se acabó. Aquella entidad conocida como "el origen" finalmente ha sucumbido ante nuestra potencia de fuego.
 	L1: Lo logramos, Maestro. Mi registro de sistema está guardando a máxima velocidad los datos de este momento; hasta mis módulos de refrigeración están un poco sobrecargados.
-	L2: He extraído los datos del núcleo de los Exo Mechas para actualizarme. Ahora, soy un arma mucho más eficiente que ellos, una creación que le pertenece exclusivamente a usted.
+	L2: He extraído los datos del núcleo de los Exo Mecánicos para actualizarme. Ahora, soy un arma mucho más eficiente que ellos, una creación que le pertenece exclusivamente a usted.
 	L3: Demostrar esto le da verdadero valor a mi existencia. Por favor, continúe usándome en el futuro.
 }
 
@@ -628,4 +622,32 @@ ShepelYharonGift: {
 	L1: Para evitar exponerlo a sus embestidas de alta velocidad, tuve que reescribir por completo mis módulos de predicción base en pleno combate.
 	L2: Ahora, la velocidad inicial y de respuesta de su arma han mejorado drásticamente, lo suficiente como para superar la velocidad extrema de esa bestia.
 	L3: Para poder seguir siempre su ritmo, mi sistema estará listo para romper sus propios límites en todo momento.
+}
+
+FirstMetShepel: {
+	Line1: ¡Maestro! ¡Me alegra muchísimo volver a verte!
+	Choice1Text: ¿Te has confundido de persona?
+	Choice2Text: ...Cuánto tiempo sin verte.
+	Choice1Response: ...Sí. Mientras seas tú, estaré dispuesta a equivocarme todas las veces.
+	Choice1Silence: ......
+	CybCourseOfferLine: El programa de hipersueño se ha cargado correctamente. Maestro, ¿te gustaría conectarte ahora al espacio de hipersueño para aprender sobre el Modo Hackeo y los protocolos de funcionamiento del arma SHPC?
+	CybCourseAcceptText: Vamos ahora.
+	CybCourseDeclineText: Ahora no.
+	CybCourseAcceptResponse: Confirmado. Estableciendo enlace neuronal... No te muevas, por favor.
+	CybCourseDeclineResponse: Entendido. Las credenciales de acceso al hipersueño se han escrito en tus datos guardados. Puedes activarlo tú mismo en cualquier momento, Maestro.
+	SpeakerName: SHPC
+}
+
+TheHerInThePast: {
+	WitchLine1: Debe de ser desagradable que esas cosas asquerosas te persigan. Por suerte te has encontrado conmigo.
+	ShpcLine1: Gracias... Pero ¿cómo es posible? Perteneces al pasado y, aun así, puedes moverte...
+	WitchLine2: Si puedes invadir este lugar desde un siglo futuro, es natural que yo pueda hacer algo parecido.
+	WitchLine3: Aunque en efecto solo soy una sombra que quedó atrás en este lugar.
+	ShpcLine2: Si eso es verdad, usar tu poder así hará que desaparezcas.
+	WitchLine4: Tu concentración es muy tierna... Date prisa y márchate. Es mejor que esas cosas asquerosas permanezcan enterradas en el pasado conmigo.
+	WitchLine5: Ah, por cierto, pequeña sirvienta.
+	ShpcLine3: ¿Qué ocurre?
+	WitchLine6: Tu agotamiento se ha filtrado hasta tus huesos.
+	WitchLine7: Deja de intentar cambiar siempre el pasado y aprende a aceptar el futuro.
+	ShpcLine4: ......
 }

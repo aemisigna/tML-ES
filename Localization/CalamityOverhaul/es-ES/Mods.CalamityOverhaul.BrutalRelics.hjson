@@ -1,0 +1,291 @@
+FallenKingsCrown: {
+	DisplayName: Corona del Rey Caído
+	Tooltip:
+		'''
+		Inmunidad al daño por caída
+		Mantén ABAJO en el aire para convertirte en una inmersión de corona y precipitarte
+		Caer naturalmente más de 25 bloques también activa la inmersión
+		Los enemigos golpeados durante la inmersión quedan aplastados por la corona
+		Aterrizar libera una onda de choque de gel; las caídas más profundas golpean con más fuerza, hasta 40 bloques
+		La onda de choque se dispara como máximo una vez cada 1.5s; la corona se atenúa mientras se recarga
+		El impacto deja un campo de gel que ralentiza a los enemigos dentro y drena su salud
+		Agarrarse, montar o entrar en un líquido cancela la inmersión
+		«El día que cayó el trono, el peso se convirtió en el veredicto»
+		'''
+}
+
+BloodfogIris: {
+	DisplayName: Iris de niebla sangrienta
+	Tooltip:
+		'''
+		8% más de probabilidad de crítico
+		Pulsa dos veces IZQUIERDA, DERECHA o ARRIBA para avanzar en esa dirección como niebla sangrienta; al inicio eres brevemente invulnerable
+		Los desplazamientos tienen un enfriamiento de 1.25s; el brillo de la pupila se atenúa mientras se recarga
+		El desplazamiento termina en un estado de emboscada de 1.5s: te hundes en la niebla y atraes menos atención
+		Tu siguiente golpe durante una emboscada es un crítico garantizado
+		El daño letal te disuelve en niebla sangrienta; te reformas hacia el cursor, brevemente invulnerable y ya en emboscada
+		El renacimiento de la niebla puede ocurrir una vez cada 60s; durante 3s después de reformarte recibes un 15% más de daño
+		«La niebla no se ha asentado y la pupila no se ha cerrado»
+		'''
+}
+
+WorldEatersMaw: {
+	DisplayName: Fauces del Devoramundos
+	Tooltip:
+		'''
+		Todos tus ataques añaden una acumulación de Corrosión, hasta 10 acumulaciones; dura 6s y se renueva con cada golpe
+		Con las acumulaciones completas, la Corrosión elimina 15 de defensa y abrasa con 20 de daño ácido por segundo
+		Cuando muere un enemigo corroído, una cría de gusano devorador sale de su cadáver para luchar por ti, como máximo una cada 2s
+		Las crías excavan y emboscan a los enemigos cercanos, muerden por 2 acumulaciones y esparcen Corrosión alrededor de cada irrupción
+		Puede haber hasta 3 crías a la vez y cada una vive 7s
+		«Cada borde del mundo es una marca de dientes que dejó atrás»
+		'''
+}
+
+MirrorheartParadox: {
+	DisplayName: Paradoja del corazón espejo
+	Tooltip:
+		'''
+		Un corazón espejo flota a tu lado
+		Mientras el corazón espejo esté sólido, en cuanto recibas daño intercambias lugares con él, esquivando el golpe con una breve invulnerabilidad
+		Los latidos estallan en ambas posiciones del intercambio, infligiendo 90 de daño base y confundiendo a los enemigos durante 2.5s
+		Durante 5s después de un intercambio, los proyectiles que dispares son reproducidos por el corazón espejo con un 50% de daño
+		Las invocaciones, armas sostenidas y explosivos no se reproducen
+		Reacción paradójica: el siguiente golpe que recibas durante los 3s posteriores a un intercambio inflige un 25% más de daño
+		Los intercambios ocurren como máximo una vez cada 25s; el corazón espejo se vuelve translúcido mientras se recarga y emite una señal cuando vuelve a solidificarse
+		«En el espejo se rompe un latido antes que tú»
+		'''
+}
+
+SwarmVortexBeacon: {
+	DisplayName: Baliza de vórtice de enjambre
+	Tooltip:
+		'''
+		Golpear enemigos acumula Marcas de Abeja; con 8 acumulaciones el objetivo queda atrapado en un vórtice de enjambre
+		El vórtice tritura a su víctima durante 5s, aguijoneándola 4 veces por segundo con 18 de daño base cada vez
+		Los enemigos atrapados se ralentizan mucho; los jefes solo se ralentizan ligeramente
+		Aciertar más golpes a la víctima prolonga el agarre, hasta 8s
+		Solo se conserva un vórtice a la vez; cuando las marcas de una nueva presa se llenan, el enjambre se traslada a ella
+		Cuando muere la víctima, el vórtice también se transfiere a un enemigo cercano
+		Los aguijones del vórtice infligen un 25% más de daño mientras llevas un Paquete de Colmena
+		Quédate quieto y el enjambre volverá a ti, cristalizándose en una protección de cera sobre tu piel
+		La protección de cera absorbe hasta 30 de daño y dura 5s desde que empiezas a moverte
+		Una protección rota tarda 3s en cristalizarse otra vez
+		«La baliza de la Reina no invoca al enjambre: marca a la siguiente presa»
+		'''
+}
+
+SoulbindingArm: {
+	DisplayName: Brazo de ligadura de almas
+	Tooltip:
+		'''
+		Proyecta un dominio de maldición a tu alrededor; los enemigos dentro reciben un 8% más de daño de ti
+		Matar a un enemigo dentro del dominio cosecha un alma, hasta 8 almas almacenadas
+		Las almas orbitan a tu alrededor; cada una bloquea un proyectil enemigo en tu lugar y después expira
+		Los proyectiles bloqueados se convierten en orbes de llamas malditas que vuelven contra los enemigos cercanos e infligen 60 de daño base
+		Después de cada bloqueo, el anillo de almas tarda 1s en recargarse
+		Cuando el anillo se llena, se reúne brevemente y una mano espectral se abalanza contra el enemigo cercano más fuerte
+		La mano inflige 300 de daño base ignorando la defensa y escala con tus bonificaciones de daño
+		Los enemigos apresados reciben un 20% más de daño de todas las fuentes durante 5s; los enemigos normales también quedan fijados durante 1s
+		«El brazo seccionado aún cosecha almas; sus cinco dedos nunca han soltado nada»
+		'''
+}
+
+WhiteoutStormCore: {
+	DisplayName: Núcleo de tormenta de ventisca blanca
+	Tooltip:
+		'''
+		Reducción de daño del 5%; inmune a Enfriado, Congelado, Quemadura por Escarcha y Congelación
+		Recibir daño detona automáticamente una tormenta de ventisca blanca; dura 6s y tiene un enfriamiento de 20s
+		La tormenta inflige 120 de daño base a los enemigos cercanos, los confunde durante 3s y les provoca ceguera blanca durante 6s
+		Los enemigos con ceguera blanca se ralentizan mucho y reciben 10 de daño de Congelación por segundo
+		Durante la tormenta obtienes un 30% adicional de reducción de daño e inmunidad al retroceso, y el velo de nieve nunca bloquea tu visión
+		Los enemigos de clase jefe no pueden confundirse y reciben una ralentización mucho menor
+		Mientras corres por el suelo, levanta una fila de púas de hielo frente a ti cada segundo
+		Cada púa inflige 45 de daño base y enfría brevemente a los enemigos
+		«Dentro de la ventisca, la tormenta solo se aparta ante ti»
+		'''
+}
+
+GluttonousThroat: {
+	DisplayName: Garganta glotona
+	Tooltip:
+		'''
+		El 8% de todo el daño que infliges vuelve a ti en forma de gotas de sangre
+		Las gotas de sangre ignoran la enfermedad de poción, pero restauran como máximo un 2% de tu vida máxima por segundo
+		La sangre sobrante salpica el suelo; Mordida lunar sella la garganta y cada gota cae desviada
+		Cada 9s una lengua de carne agarra al enemigo más lejano en un radio de 68 bloques y lo arrastra frente a ti
+		Los enemigos mordidos sufren Sierra de podredumbre durante 5s: pierden 40 de vida por segundo
+		Durante 2.5s después de que un enemigo sea arrastrado hacia ti, tu siguiente golpe contra él inflige el doble de daño
+		El golpe ejecutor también detona cualquier Sierra de podredumbre restante como una explosión de daño adicional
+		Los jefes no pueden ser arrastrados, pero sí mordidos, serrados y marcados para su ejecución
+		«El extremo de la garganta no tiene fondo»
+		'''
+}
+
+RefractionWaltz: {
+	DisplayName: Vals de refracción
+	Tooltip:
+		'''
+		Aumenta enormemente la aceleración y los giros en el aire
+		Al coronar un salto, hacer un doble salto, invertir la dirección o desplazarte en el aire, condensa un cristal de refracción detrás de ti
+		Puede haber hasta 6 cristales a la vez; el más antiguo se rompe para dejar sitio
+		Los cristales se enlazan con haces prismáticos en el orden en que se crearon, cerrando el circuito al llegar a seis
+		El daño de haces, cristales y fragmentos escala con tus bonificaciones de daño
+		Cada haz corta al mismo enemigo hasta 4 veces por segundo e inflige 35 de daño base
+		Los enemigos que rompen un cristal reciben 70 de daño base y los fragmentos les golpean e infligen 40 cada uno
+		Los golpes infligen Refracción: el objetivo se ralentiza y tu probabilidad de crítico contra él aumenta un 8%
+		«Cuando la red de luz toma forma, quien baila al ritmo posee el salón»
+		'''
+}
+
+TwinPupilTether: {
+	DisplayName: Vínculo de pupilas gemelas
+	Tooltip:
+		'''
+		Invoca a Visión y Pupila Ígnea, un par de ojos mecánicos pequeños que orbitan; su daño escala con tus bonificaciones de daño
+		Visión dispara láseres contra enemigos de alcance medio: 140 de daño base por disparo, aproximadamente un disparo cada 0.7s
+		Pupila Ígnea exhala llamas malditas contra enemigos cercanos: 40 de daño base por descarga, cinco descargas por segundo
+		Siempre hay un vínculo cortante entre los ojos, que corta al mismo enemigo hasta 4 veces por segundo con 80 de daño base
+		Los enemigos cortados quedan desgarrados durante 3s y reciben un 25% más de daño de la pareja
+		Cuanto más rápido te mueves, más se separan los ojos y más se alarga el vínculo
+		Pulsa dos veces Abajo para ordenar una carga cruzada: los ojos flanquean tu cursor, se atraviesan y detonan en el punto de cruce
+		El impacto de la carga inflige 380 y la detonación del cruce 1100 de daño base, con un enfriamiento de 9s
+		«Una mirada cosida y el hilo que lo corta todo»
+		'''
+}
+
+ProbeMatrixCore: {
+	DisplayName: Núcleo de matriz de sondas
+	Tooltip:
+		'''
+		Despliega cinco sondas del Destructor en formación de escolta; buscan enemigos y disparan láseres teledirigidos
+		Los láseres infligen 55 de daño base; golpear al mismo objetivo acumula designación y 8 acumulaciones llaman un ataque orbital
+		El ataque deja caer un rayo de muerte perforador desde el cielo que inflige 900 de daño base por tic
+		Los objetivos atrapados en la columna reciben como máximo dos tics por ataque, hasta 1800 de daño base en total
+		La designación se reinicia tras cada ataque con un enfriamiento de 3s y el lugar del impacto conserva un calor abrasador
+		Las sondas derribadas por los enemigos se reconstruyen tras unos 2.5s; la formación no usa ranuras de súbdito
+		«La serpiente de hierro ha caído, pero sus ojos aún vigilan el cielo por ti»
+		'''
+}
+
+OverloadCommandCore: {
+	DisplayName: Núcleo de mando de sobrecarga
+	Tooltip:
+		'''
+		Golpear enemigos acumula carga iónica: +4 por golpe; la Sobrecarga Iónica se activa en 100
+		Deja de atacar durante más de un segundo y la carga se drena lentamente
+		La Sobrecarga Iónica dura 5s y aumenta la velocidad de ataque un 30%
+		Mientras estás sobrecargado, tus golpes encadenan relámpagos entre enemigos cercanos, saltando hasta 3 veces
+		Cada arco inflige un 40% del daño del golpe que lo activó y se debilita con cada salto
+		Cuatro brazos mecánicos fantasmales se despliegan detrás de ti y golpean al ritmo de tus ataques
+		Con un arma cuerpo a cuerpo, los brazos barren y cada golpe inflige un 24% del daño del arma
+		Con cualquier otra arma, los brazos disparan virotes iónicos y cada uno inflige un 20% del daño del arma
+		Cuando termina la sobrecarga, el núcleo se sobrecalienta durante 3s: velocidad de ataque reducida un 8% y no se obtiene carga
+		«Autoridad de mando transferida. Cuatro brazos a tu servicio, hasta la fusión»
+		'''
+}
+
+BloomNovaBulb: {
+	DisplayName: Bulbo de Nova Floral
+	Tooltip:
+		'''
+		+30 de vida máxima y +4 de regeneración de vida
+		Al recibir un golpe, azota con enredaderas espinosas al atacante o hacia la amenaza entrante, como máximo una vez cada 1.5s
+		Las enredaderas infligen de 220 a 330 de daño base según el Crecimiento y escalan con tus bonificaciones de daño
+		Los enemigos atrapados se ralentizan y reciben 80 de daño por segundo; los jefes solo se ralentizan ligeramente
+		Los enemigos atrapados que te golpean sufren una reacción de espinas: todo el daño infligido más 120 de daño base
+		La reacción de espinas se activa como máximo una vez cada medio segundo por enemigo
+		Luchar acumula Crecimiento: más enredaderas que atrapan durante más tiempo
+		Por debajo del 35% de vida, estalla una Nova Floral: una onda de choque de pétalos de 1200 de daño base barre y atrapa a los enemigos cercanos
+		La flor restaura al instante un 25% de tu vida, aumenta enormemente la regeneración durante 6s y consume todo el Crecimiento
+		Después te sigue una niebla de esporas durante 6s; los enemigos dentro fallan el 25% de sus ataques
+		La Nova Floral ocurre como máximo una vez cada 60s
+		«Cada herida riega la siguiente flor»
+		'''
+}
+
+SolarCoreFist: {
+	DisplayName: Puño del núcleo solar
+	Tooltip:
+		'''
+		Quédate quieto durante medio segundo para entrar en la postura Guardia de piedra
+		Mientras estás en la postura, el daño recibido se reduce un 50% y eres inmune al retroceso
+		Cada golpe recibido en la postura otorga 1 acumulación de Carga solar, más 1 adicional por cada 100 de daño bruto del golpe
+		La carga alcanza un máximo de 24 acumulaciones; las venas del caparazón brillan un nivel por cada 8 acumulaciones
+		Mantener la postura durante 5s fuerza un sobrecalentamiento de 2s: sin reducción de daño, sin carga y sin volver a entrar en la postura
+		Mantén ABAJO durante medio segundo en la postura para lanzar un puño a plena potencia hacia el cursor con una nova solar mayor
+		Moverte también rompe la postura y lanza el puño, pero con un 25% menos de daño
+		Lanzar el puño termina la postura sin sobrecalentarla
+		El puño inflige 500 de daño base, +12.5% por acumulación y 2000 con la carga completa; escala con tus bonificaciones de daño
+		El primer enemigo golpeado estalla en una nova solar que encadena seis explosiones de lava hacia ambos lados
+		Con 8 acumulaciones o más, la postura irradia un aura abrasadora que escala con tus bonificaciones de daño
+		«La gema solar del templo aún late; el caparazón de piedra es solo su guantelete»
+		'''
+}
+
+TidalFin: {
+	DisplayName: Aleta de marea
+	Tooltip:
+		'''
+		Pulsa [KEY] para desplazarte hacia el cursor; vuelve a pulsar poco después para encadenar hasta dos desplazamientos
+		Cada desplazamiento puede volver a apuntarse y eres completamente invulnerable durante él
+		Cada desplazamiento levanta un muro de tsunami persistente a lo largo del camino, que inflige 140 de daño base por golpe
+		Varios muros no acumulan sus golpes sobre el mismo objetivo
+		El muro empuja y ralentiza los proyectiles hostiles pequeños
+		El desplazamiento final levanta un tornado de marea estacionario en su punto final, que tritura e inflige 200 de daño base por golpe
+		El daño del muro y del tornado escala con tus bonificaciones de daño
+		Mientras llueve o estás sumergido, la cadena obtiene un tercer desplazamiento y todo el daño aumenta un 50%
+		La cadena completa tiene un enfriamiento de 12s
+		[c/2696A0:«La marea no ha olvidado a su duque»]
+		'''
+}
+
+RiteRing: {
+	DisplayName: Anillo del rito
+	Tooltip:
+		'''
+		8% más de daño, +40 de maná máximo y cada runa iluminada otorga un 1% más de daño
+		Atacar o lanzar hechizos ilumina runas a tu alrededor; con 8 runas el rito actual se activa automáticamente
+		Los ritos rotan en orden: Rito del Espejo, Láser de Llamalunar y Rito Estelar
+		Rito del Espejo: invoca 3 cuerpos de espejo pálido, cada uno dispara 3 descargas de los proyectiles del arma que sostienes con un 40% de daño
+		Las armas de invocación, de estilo sostenido y explosivas no pueden reflejarse; los espejos disparan virotes de runa
+		Láser de Llamalunar: un ojo lunar se abre arriba y barre el campo con un rayo de muerte
+		Rito Estelar: un pequeño anillo planetario colapsa y hace caer 16 estrellas sobre tus enemigos
+		Pulsa dos veces Izquierda o Derecha para gastar 3 runas y rasgar el velo con un parpadeo breve en esa dirección
+		«El rito comenzó hace mucho y estás de pie en el corazón del círculo»
+		'''
+}
+
+WingsOfInterference: {
+	DisplayName: Alas de interferencia
+	Tooltip:
+		'''
+		Conviértete en las alas de la Emperatriz de la luz: 3.5s de vuelo de día y 4.5s de noche; mantén ABAJO al volar para quedarte suspendido
+		Forma diurna: tus proyectiles de ataque trazan rutas de luz de interferencia mientras vuelan
+		Cuando se cruzan dos rutas de luz, la intersección detona una explosión prismática que inflige 200 de daño base
+		Forma nocturna: velocidad de movimiento notablemente mayor y tiempo de vuelo más largo
+		De noche, esquiva automáticamente un golpe una vez cada 48s
+		De noche, los proyectiles hostiles que se acercan arrastran estelas aurorales y revelan antes sus trayectorias
+		En cuanto llega el amanecer o el anochecer, una explosión de interferencia que cubre la pantalla inflige 1100 de daño base y elimina los proyectiles hostiles
+		«El día y la noche interfieren en la punta del ala; la luz colapsa donde se cruzan las rutas»
+		'''
+	FormDay: La hora es de día: la trama de interferencia está desplegada
+	FormNight: La hora es de noche: el vuelo auroral veloz está activado
+}
+
+BlackFlashSigil: {
+	DisplayName: Sigilo de Destello Negro
+	Tooltip:
+		'''
+		Atacar despierta el sigilo; un anillo de ritmo del Destello Negro se ilumina en tu pecho
+		En cuanto el anillo se contrae al mínimo, se abre la ventana de juicio con un repique agudo
+		Los golpes acertados dentro de la ventana activan un Destello Negro: ese golpe inflige 3x de daño y siempre es crítico
+		Cada Destello Negro añade 1 acumulación de Cadena de Destellos; cada acumulación añade otro 0.25x, hasta 6 acumulaciones para 4.5x
+		Las cadenas más altas aceleran el ritmo; la siguiente ventana llega cada vez antes
+		Dejar pasar una ventana vacía o acertar golpes fuera de ella elimina todas las acumulaciones
+		Con 4 acumulaciones entras en Sentido del Dominio; los proyectiles a tu alrededor parecen ralentizarse
+		Los súbditos actúan por su cuenta; no siguen el ritmo ni rompen la cadena
+		«Cuando el destello se vuelve negro, el instante reina sobre la eternidad»
+		'''
+}

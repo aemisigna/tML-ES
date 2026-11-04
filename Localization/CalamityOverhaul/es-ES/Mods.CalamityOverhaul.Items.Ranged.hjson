@@ -1,0 +1,298 @@
+AnnihilatingUniverse: {
+	DisplayName: Flecha de Aniquilación del Universo
+	Tooltip:
+		'''
+		Las flechas que impactan en los enemigos dejan una estrella brillante en el lugar.
+		Usa el botón derecho para destruir enemigos con el poder de un devorador de dioses.
+		'''
+}
+
+BarrenBow: {
+	DisplayName: Arco Estéril
+	Tooltip: Las flechas disparadas explotan en corrientes estériles al golpear al enemigo.
+}
+
+AvalancheM60: {
+	DisplayName: Avalancha M60
+	Tooltip:
+		'''
+		Usa bolas de nieve como munición.
+		Dispara una andanada de bolas de nieve,
+		la potencia de fuego aumenta a medida que disminuye la munición.
+		Cada 20 disparos activa una sobrecarga,
+		creando una pequeña avalancha.
+		"Denji, vamos a jugar una guerra de bolas de nieve."
+		'''
+}
+
+CrystalDimming: {
+	DisplayName: Atenuación cristalina
+	Tooltip:
+		'''
+		Usa bolas de nieve como munición
+		Dispara proyectiles de cristal que levantan picos glaciares del suelo en el punto de impacto
+		Los picos crecen más alto cerca de grupos de cristales ya existentes
+		Clic derecho libera una ola glacial que levanta una cresta de hielo cada vez más alta a lo largo del terreno
+		"La tierra recuerda cada helada"
+		'''
+}
+
+DarkFrostSolstice: {
+	DisplayName: Solsticio de Escarcha Oscura
+	Tooltip:
+		'''
+		Usa bolas de nieve como munición.
+		Dispara granizo y llamas polares,
+		cada 20 disparos activa una sobrecarga,
+		invocando una divinidad invernal en el cursor.
+		'''
+}
+
+SnowQuay: {
+	DisplayName: Víbora de Nieve M16
+	Tooltip:
+		'''
+		Usa bolas de nieve como munición
+		Mantén clic izquierdo para soplar una densa corriente de nieve contra los enemigos
+		Al soplar se acumula presión en la cámara de compactación
+		Suelta clic izquierdo con suficiente presión para lanzar una bola de nieve compactada
+		"La alegría del invierno empieza con una sopladora de nieve"
+		'''
+}
+
+NeutronBow: {
+	DisplayName: Cuerda de Roche
+	Tooltip:
+		'''
+		Lanza flechas gravitatorias que generan rayos gamma al impactar
+		Haz clic derecho para cargar hasta tres niveles; al llenar la carga, lanza tres poderosas flechas gravitatorias
+		'''
+	Lang1: Capturando la gravedad
+	Lang2: Haciendo ceder la gravedad
+	Lang3: ¡Listo!
+}
+
+NeutronGun: {
+	DisplayName: Cazador estelar
+	Tooltip:
+		'''
+		Lanza proyectiles gravitatorios que crean puntos de curvatura al impactar
+		Clic derecho para cambiar al modo francotirador y disparar balas gravitatorias más potentes que invocan rayos gamma al impactar
+		Cada disparo carga el arma; cuando está completamente cargada, el siguiente disparo provoca una explosión de estrella de neutrones en el cursor
+		"¡Dispara al sol!"
+		'''
+}
+
+MG42: {
+	DisplayName: MG42
+	Tooltip:
+		'''
+		Tiro continuo provocará sobrecalentamiento del cañón
+		Convierte las balas de mosquete en proyectiles perforantes
+		'''
+}
+
+SnowQuayMK2: {
+	DisplayName: Víbora de Nieve MK2
+	Tooltip:
+		'''
+		Utiliza bolas de nieve como munición
+		Refit militar con compresor criogénico que funde bolas de nieve en carámbanos de alta velocidad
+		Clic izquierdo dispara ráfagas de tres tiros; el último es un carámbano pesado que estalla en cristales al impactar
+		Clic derecho libera una dispersión de carámbanos de corto alcance por sobrepresión
+		"La Víbora de Nieve de segunda generación ya no necesita precalentamiento"
+		'''
+}
+
+Starship: {
+	DisplayName: Nave estelar
+	Tooltip:
+		'''
+		El fuego continuo acumula calor y aumenta la cadencia de disparo con el tiempo
+		Clic derecho consume munición y carga un proyectil cometa; el siguiente disparo lo lanza con gran daño e inflige hiperdesintegración
+		Al alcanzar el calor máximo, dos escoltas vuelan a tu lado disparando rayos estelares con seguimiento; periódicamente se arrojan planetas desde detrás
+		Al soltar el gatillo se desata el final: 14 meteoros con seguimiento que ignoran la defensa y una microgalaxia caen sobre el cursor
+		'''
+}
+
+DuneStalker: {
+	DisplayName: Acechador de dunas
+	Tooltip:
+		'''
+		Dispara una cabeza de gancho unida por cadena en lugar de consumir la munición directamente
+		El gancho desgarra a los enemigos a su paso y luego se recoge automáticamente al impactar o al alcanzar su alcance máximo
+		'''
+}
+
+Snowblindness: {
+	DisplayName: Ceguera por Nieve
+	Tooltip:
+		'''
+		Lanza bolas de nieve y rayos de frío extremo a alta frecuencia.
+		Cuando impacta a los enemigos, genera rayos EX de frío extremo a su alrededor.
+		"Perdido en la tormenta de nieve, esperando eternamente, mapa de dolor, adelantamiento en curvas,
+		lentes agrietadas, manchas de sangre secas, hielo rojo, castores llorando, sombras humanas en el hielo."
+		'''
+}
+
+RaiderGun: {
+	DisplayName: Asaltante
+	Tooltip:
+		'''
+		Convierte balas de mosquete en proyectiles de alta velocidad
+		Clic derecho para rodar y recargar el cargador
+		El primer disparo tras la rodada se convierte en una granada del Destructor
+		«Perfecto para rescates de rehenes en interiores»
+		'''
+}
+
+HyperionBarrage: {
+	DisplayName: Torreta automática Hyperion
+	Tooltip:
+		'''
+		Dispara misiles de crucero térmicos que detonan al impactar e incendian a los enemigos
+		Cada cuarto disparo lanza verticalmente una andanada de tres misiles que se abaten sobre tu punto de mira
+		«Aprovecha todo al máximo»
+		'''
+}
+
+RaiderGunEX: {
+	DisplayName: Asaltante EX
+	Tooltip:
+		'''
+		Convierte balas de mosquete en proyectiles de alta velocidad
+		Además dispara una andanada de misiles teledirigidos del Destructor
+		Clic derecho para rodar y recargar el cargador
+		El primer disparo tras la rodada se convierte en una granada del Destructor
+		«Bombardeo en alfombra»
+		'''
+}
+
+Dicoria: {
+	DisplayName: Dicoria
+	Tooltip:
+		'''
+		Dispara dos balas y puede cargarse
+		Al completar la carga libera un rayo térmico
+		«Por cierto, ¿no nos va a dar estrabismo?»
+		'''
+}
+
+BloodshotBomb: {
+	DisplayName: Bomba sanguinolenta
+	Tooltip:
+		'''
+		Enciende el fusible en cuanto la sostienes; el fusible atraviesa tres fases, de unos dos segundos cada una
+		Cuanto más corto sea el fusible, más rojo será el ojo, más feroz la explosión y más carne lanzará
+		Lánzala en cualquier momento con clic izquierdo; estalla al contacto, y solo morder carne hace que salgan trozos volando
+		Si el fusible se agota mientras aún la sostienes, explota en tu mano
+		«No soporta alejarse de ti»
+		'''
+	SelfBoom: "{0} miró una vez de más"
+}
+
+LaserPistol: {
+	DisplayName: Pistola láser
+	Tooltip:
+		'''
+		Consume energía para disparar láseres que perforan varios enemigos
+		«El rendimiento no es muy alto»
+		'''
+}
+
+HyperionBarrageEX: {
+	DisplayName: Andanada Hyperion EX
+	Tooltip:
+		'''
+		Dispara misiles de crucero pesados que al detonar estallan en seis misiles en racimo teledirigidos
+		«Más allá de su uso previsto»
+		'''
+}
+
+SporeBubbleBlaster: {
+	DisplayName: Cañón de burbujas de esporas
+	Tooltip: Dispara un chorro de esporas
+}
+
+FungalRevolver: {
+	DisplayName: Revólver fúngico
+	Tooltip:
+		'''
+		Convierte las balas de mosquete en proyectiles fúngicos
+		"Después de lavarlo, ya no sirve"
+		'''
+}
+
+Pallbearer: {
+	DisplayName: Portador del féretro
+	Tooltip:
+		'''
+		Mantén clic izquierdo para cargar y tensar; suéltalo para disparar un virote pesado casi instantáneo que atraviesa tu presa y deja una marca de sangre
+		Clic derecho para lanzar la ballesta y dejar que el aliento del ataúd se adhiera a tu invitado
+		Tres marcas en el mismo objetivo hacen caer el ataúd
+		«También conocido como el Portador del Ataúd»
+		'''
+}
+
+UniversalFrost: {
+	DisplayName: Escarcha universal
+	Tooltip:
+		'''
+		Usa bolas de nieve como munición
+		Clic izquierdo dispara rápidamente destellos de escarcha; cada disparo carga la cúpula glacial
+		Al llenarse, clic derecho despliega un telón auroral de escarcha sobre el cursor
+		El telón hace llover lanzas de escarcha sobre los enemigos debajo
+		«Cuando toda la creación cae en silencio, solo la aurora sigue fluyendo en el cielo»
+		'''
+}
+
+SneezingWyrm: {
+	DisplayName: Gusano estornudador
+	Tooltip:
+		'''
+		Dispara rápidamente proyectiles abrasadores de golpe de gusano
+		El fuego sostenido calienta más el cañón y lleva los trazadores del naranja al blanco azulado
+		Con cada aliento acumulado, el gusano expulsa un virote entrelazado y buscador de aliento de dragón por la línea de fuego
+		El humo le hace cosquillas al viejo hocico y provoca estornudos intermitentes que expulsan vapores espesos a los lados
+		«No te pongas en el lado de los estornudos»
+		'''
+}
+
+TiroFinale: {
+	DisplayName: Tiro Finale
+	Tooltip:
+		'''
+		Se beneficia de las bonificaciones de daño a distancia y mágico
+		Disparar consume munición y maná, tejiendo dos mosquetes fantasmales dorados en la formación que orbita a tu alrededor con cada disparo
+		La formación admite hasta ocho mosquetes; hasta que se llena, mantienen su posición sin disparar
+		Una vez llena, cada disparo hace que los dos mosquetes fantasmales más antiguos disparen hacia tu cursor justo después de que tú dispares
+		Cada mosquete fantasmal suena una vez y se disuelve en luz, y uno nuevo se teje en su lugar
+		Clic derecho para condensar al menos cuatro mosquetes fantasmales en un gran cañón y ejecutar el final; cuantos más mosquetes, más fuerte golpea
+		«Cuida tus modales y haz magnífico el saludo final»
+		'''
+}
+
+Undertow: {
+	DisplayName: Resaca
+	Tooltip:
+		'''
+		Convierte cualquier flecha en una espina abisal
+		Cuando una espina golpea a un enemigo, su estela colapsa en una pequeña burbuja de cavitación que vuelve a estallar
+		Mantén clic derecho para cargar; suelta con la carga completa para liberar una espina de presión abisal con 3x de daño
+		La espina pesada lo atraviesa todo y arrastra a los enemigos hacia su camino
+		Cuando por fin se detiene, detona una implosión de cavitación
+		«El mar no te empuja; te atrae hacia dentro»
+		'''
+}
+
+Thornstring: {
+	DisplayName: Cuerda espinosa
+	Tooltip:
+		'''
+		Convierte cualquier flecha en una flecha espinosa
+		Las flechas espinosas estallan en agujas cortas a ambos lados al golpear
+		Mantén clic derecho para tensar por completo y suelta una flecha espinosa pesada y perforadora con 2.5x de daño
+		La flecha pesada hace florecer un anillo de pétalos en cada golpe y donde aterriza
+		«La cuerda es una enredadera, la flecha una espina y el arco una flor que se niega a marchitarse»
+		'''
+}

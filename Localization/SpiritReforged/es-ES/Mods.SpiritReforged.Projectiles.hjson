@@ -94,3 +94,10 @@ SaltHeadstoneProjectile.DisplayName: "{$Items.SaltHeadstoneItem.DisplayName}"
 SaltTombstoneProjectile.DisplayName: "{$Items.SaltTombstoneItem.DisplayName}"
 SaltGravestoneProjectile.DisplayName: "{$Items.SaltGravestoneItem.DisplayName}"
 SaltGraveMarkerProjectile.DisplayName: "{$Items.SaltGraveMarkerItem.DisplayName}"
+Firefall.DisplayName: Cascada de Fuego
+WindBurstProjectile.DisplayName: Ráfaga de Viento
+SingularCollapse.DisplayName: Singularidad
+ShockGlyphLightningBolt.DisplayName: Rayo Eléctrico
+MariglowSeed.DisplayName: Semilla de Mariglow
+RageHit.DisplayName: Golpe de Rabia
+MirrorReturnPortal.DisplayName: Portal del Espejo de Regreso

@@ -455,6 +455,8 @@ WorldFrog: {
 	Reports: {
 		CavesAndClubs_0: Abracadabra - no te veas tan triste, ¡he llenado tus cuevas con macetas para saquear de nuevo!
 		CavesAndClubs_1: ¡Abracadabra te concedo macetas nuevas; si bajas bajo tierra las disfrutarás de verdad!
+		Spellbound_0: ¡Nuevas mesas para vincular encantamientos; estas herramientas en tu mundo hallarás!
+		Spellbound_1: ¡Ahora puedes disfrutar de espejos por doquier, esperando nuevas aventuras hacer florecer!
 	}
 }
 
@@ -688,4 +690,94 @@ BeetleTownPet: {
 		Ladybug14: Titania
 		Ladybug15: Tulip
 	}
+
+	Census.SpawnCondition: Usa una Licencia de Escarabajo [i:SpiritReforged/BeetleLicense], soltada por Scarabeus
 }
+
+Enchanter: {
+	DisplayName: Encantador
+	Entry: Siempre está cansado, pero es amable de corazón; el Encantador se ocupa de diversos hechizos y artes mágicas. Si alguna arma o herramienta necesita un poco más de chispa, ¡solo tienes que preguntar!
+
+	Names: {
+		0: Albion
+		1: Bertilak
+		2: Eango
+		3: Enki
+		4: Gil
+		5: Heka
+		6: Ilmarinen
+		7: Itani
+		8: Kokabiel
+		9: Mallyck
+		10: Mazdak
+		11: Morrigan
+		12: Myrrdin
+		13: Oeti
+		14: Ose
+		15: Sulyvahn
+		16: Tethra
+		17: Themisto
+		18: Vorv
+		19: Ywain
+	}
+
+	TownNPCMood: {
+		Content: Me tomo un momento y siento... que todo está bien.
+		NoHome: No creo que tengas un lugar donde pueda descansar mis cansados huesos, ¿verdad?
+		FarFromHome: Estoy bastante lejos de mi lugar de trabajo y de mi cama. ¿Podemos volver pronto a casa?
+		LoveSpace: Esta ciudad es muy pintoresca. Hay suficiente gente para una buena charla, pero no tanta como para que resulte abrumador.
+		DislikeCrowded: Me cuesta concentrarme con todo este alboroto.
+		HateCrowded: Aquí vive demasiada gente. Llevo días sin dormir bien.
+		LoveNPC: ¡El chocolate caliente de {NPCName} es para morirse! Ah, y sus trucos de salón son encantadores!
+		LikeNPC: No sé qué tipo de magia usa {NPCName} para iluminar así el cielo, ¡pero se ve espectacular! Aunque el ruido es una lástima; me dolió la cabeza durante tres días después...
+		DislikeNPC: "{NPCName} cree que 'mejorar' tu equipo a martillazos es una idea bárbara. ¿Cómo se supone que abollarlo con un martillo ayuda?!"
+		HateNPC: ¡Lo juro, si {NPCName} cuenta una historia más sobre masacrar kobolds durante el té de la tarde, lo convertiré en una oveja!
+		LikeBiome: Aquí, por encima de las nubes, me siento mucho más en sintonía con los flujos de la magia. ¡Y qué vistas!
+		DislikeBiome: Las abejas producen una cera de tan buena calidad, pero ¿por qué tienen que picarme? ¡Estoy cubierto de ronchas de pies a cabeza!
+		LikeNPC_Princess: "{NPCName} es una niñita tan dulce, pero apenas puedo seguirle el ritmo. ¿Cómo puede caber tanta energía en un cuerpo tan pequeño?"
+		Princess_LovesNPC: "{NPCName} tiene una magia como ninguna que haya visto antes. ¿Cuál será su fuente?"
+	}
+
+	Dialogue: {
+		Idle: {
+			0: No olvides detenerte a oler las rosas de vez en cuando. ¡Descansar te hará bien!
+			1: Es fácil perder la noción del tiempo cuando tienes el hocico metido en un buen tomo.
+			2: ¿Has venido a aprender sobre las maravillosas propiedades de la cera?
+			3: ¿Te gustaría una taza de té? Tengo té negro, verde, de hierbas, de manzanilla, de bayas, cítrico...
+			4: ¡Saludos! ¿Qué puedo encantar para ti hoy?
+		}
+
+		IdleNight: {
+			0: ¡La luna está alta y mis velas brillan más que nunca!
+			1: Las luciérnagas salpican el cielo como pequeñas llamas danzantes. Hay magia por todas partes.
+			2: Ya pasó hace mucho mi segunda hora de dormir. Te pido amablemente que seas breve.
+		}
+
+		BloodMoon: {
+			0: No puedo dormir en una noche como esta. Cuando cierro los ojos, solo veo rojo.
+			1: Mis velas arden con un espantoso tono carmesí. Algo maligno anda suelto esta noche.
+		}
+
+		Rain: {
+			0: No hay nada como el sonido de la lluvia repiqueteando contra las ventanas.
+			1: No volveré a salir. ¡Apenas conseguí secar mi sombrero de la última vez!
+		}
+
+		Graveyard: {
+			0: Normalmente me gusta la tranquilidad, pero el aire está completamente inmóvil. Es inquietante.
+			1: No consigo quitarme la sensación de que algo me observa.
+		}
+
+		Thunderstorm: ¡Es el momento perfecto para acurrucarse junto a la chimenea y compartir historias espeluznantes!
+		Eclipse: ¿Cómo se supone que voy a saber cuándo preparar el té de la tarde si no es ni de día ni de noche?
+		Party: Tus festividades humanas son fascinantes, aunque un tanto... estruendosas para mi gusto. Puede que tenga que retirarme pronto.
+		Goblin: Puedes pegar sellos a muchas cosas, pero {0} no deja de pedirme que encante sus diversos inventos. Normalmente no acaba bien...
+		Golfer: "{0} siempre me invita a jugar golf con los demás, pero siempre me quedo dormido... No me atrevo a rechazar sus invitaciones."
+		Stylist: Dejé que {0} me convenciera de encerar mis escamas, y no estoy seguro de cuál es el atractivo. ¡Brillo como un pez recién pescado!
+		WitchDoctor: "{0} tiene un aura tan misteriosa... Me gustaría conocerlo mejor. ¿Podrías... quizá presentarnos?"
+	}
+
+	Census.SpawnCondition: Sostén cualquier objeto encantado o Cera Cromática [i:SpiritReforged/ChromaticWax], o derrota a un jefe
+}
+
+SealedKnight.DisplayName: Caballero Sellado

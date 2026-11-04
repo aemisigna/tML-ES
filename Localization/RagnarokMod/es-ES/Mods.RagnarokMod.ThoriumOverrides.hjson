@@ -68,7 +68,11 @@ Buffs: {
 Items: {
 	AmberRing: {
 		DisplayName: Anillo de Ámbar
-		Tooltip: 3% más de daño de invocación
+		Tooltip:
+			'''
+			Aumenta el daño de invocación en 1
+			Aumenta el daño de invocación en 3%
+			'''
 	}
 
 	AmethystRing: {
@@ -78,42 +82,72 @@ Items: {
 
 	AquamarineRing: {
 		DisplayName: Anillo de Aguamarina
-		Tooltip: 3% más de daño radiante
+		Tooltip:
+			'''
+			Aumenta el daño radiante en 1
+			Aumenta el daño radiante en 3%
+			'''
 	}
 
 	EmeraldRing: {
 		DisplayName: Anillo de Esmeralda
-		Tooltip: 3% más de daño a distancia
+		Tooltip:
+			'''
+			Aumenta el daño a distancia en 1
+			Aumenta el daño a distancia en 3%
+			'''
 	}
 
 	OpalRing: {
 		DisplayName: Anillo de Ópalo
-		Tooltip: 3% más de daño sinfónico
+		Tooltip:
+			'''
+			Aumenta el daño sinfónico en 1
+			Aumenta el daño sinfónico en 3%
+			'''
 	}
 
 	RubyRing: {
 		DisplayName: Anillo de Rubí
-		Tooltip: 3% más de daño cuerpo a cuerpo
+		Tooltip:
+			'''
+			Aumenta el daño cuerpo a cuerpo en 1
+			Aumenta el daño cuerpo a cuerpo en 3%
+			'''
 	}
 
 	SapphireRing: {
 		DisplayName: Anillo de Zafiro
-		Tooltip: 3% más de daño mágico
+		Tooltip:
+			'''
+			Aumenta el daño mágico en 1
+			Aumenta el daño mágico en 3%
+			'''
 	}
 
 	TheRing: {
 		DisplayName: El Anillo
 		Tooltip:
 			'''
-			4% más de daño
+			Aumenta todo el daño en 2
+			Aumenta todo el daño en 4%
 			Aumenta la penetración de armadura en 3
 			Aumenta la probabilidad de golpe crítico en 4%
 			'''
 	}
 
+	DiamondRing: {
+		DisplayName: Anillo de Diamante
+		Tooltip: Aumenta la probabilidad de golpe crítico en 3%
+	}
+
 	TopazRing: {
 		DisplayName: Anillo de Topacio
-		Tooltip: 3% más de daño de pícaro
+		Tooltip:
+			'''
+			Aumenta el daño de pícaro en 1
+			Aumenta el daño de pícaro en 3%
+			'''
 	}
 
 	FlightMail: {
@@ -392,12 +426,8 @@ Items: {
 	}
 
 	NinjaEmblem: {
-		DisplayName: Emblema del Multiclase
-		Tooltip:
-			'''
-			10% más de daño
-			2% más de probabilidad de golpe crítico
-			'''
+		DisplayName: Emblema del Héroe
+		Tooltip: 8% más de daño
 	}
 
 	OlympicTorch: {

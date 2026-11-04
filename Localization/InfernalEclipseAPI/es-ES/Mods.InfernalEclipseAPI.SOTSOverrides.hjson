@@ -1,9 +1,11 @@
 VisionAmuletTextList: {
-	4: Aumenta el daño crítico en un 5%, y se mejora a 10% en el modo difícil
+	2: "[s:InfernalEclipseAPI/IEoRIcon] Aumenta la velocidad de ataque en un 8%"
+	3: "[s:InfernalEclipseAPI/IEoRIcon] Aumenta un 4% la probabilidad de ataque crítico, y se mejora a 8% después de derrotar al guardián del Inframundo"
+	4: "[s:InfernalEclipseAPI/IEoRIcon] Aumenta el daño crítico en un 8%, y se mejora a 12% después de derrotar al guardián del Inframundo"
 	6:
 		'''
 		Aumenta la vida máxima en 20
-		Aumenta el daño en un 5%, y se mejora a 10% en el modo difícil
+		[s:InfernalEclipseAPI/IEoRIcon] Aumenta el daño en un 5%, y se mejora a 10% después de derrotar al guardián del Inframundo
 		'''
 }
 
@@ -11,24 +13,30 @@ VisionAmuletTextList2: {
 	1:
 		'''
 
-		Reduce el costo de maná en un 20%, y se mejora a 25% en el modo difícil
+		[s:InfernalEclipseAPI/IEoRIcon] Reduce el costo de maná en un 15%, y se mejora a 20% después de derrotar al guardián del Inframundo
+		'''
+	2:
+		'''
+
+		[s:InfernalEclipseAPI/IEoRIcon] Aumenta la velocidad cuerpo a cuerpo y de movimiento en un 8%
+		Aumenta la velocidad de salto
 		'''
 	3:
 		'''
 
 		Otorga acceso a las estaciones de fabricación Banco de Trabajo, Horno y Yunque
-		También otorga acceso a la estación de fabricación Mesa de Alquimia en el modo difícil
+		[s:InfernalEclipseAPI/IEoRIcon] También otorga acceso a la estación de fabricación Mesa de Alquimia después de derrotar al guardián del Inframundo
 		Aumenta el maná máximo y el maná recibido de pociones en 40
 		'''
 	4:
 		'''
 
-		Aumenta todo el daño en un 10% de los aumentos recibidos a cualquier otro tipo de daño provenientes de otras fuentes
+		[s:InfernalEclipseAPI/IEoRIcon] Aumenta todo el daño en un 10% de los aumentos recibidos a cualquier otro tipo de daño provenientes de otras fuentes
 		'''
 	5:
 		'''
 
-		La eficacia de la defensa enemiga se reduce en un 5%, y se mejora a 10% en el modo difícil
+		[s:InfernalEclipseAPI/IEoRIcon] La eficacia de la defensa enemiga se reduce en un 5%, y se mejora a 10% después de derrotar al guardián del Inframundo
 		'''
 }
 
@@ -46,16 +54,16 @@ Items: {
 		'''
 	RockCandy.Tooltip:
 		'''
-		Aumenta el poder de picar en 4
+		[s:InfernalEclipseAPI/IEoRIcon] Aumenta el poder de picar en 4
 		Aumenta la velocidad de picar, la velocidad cuerpo a cuerpo y la velocidad de movimiento en un 5%
 		'''
 	HydrokineticAntennae.Tooltip:
 		'''
 		Usa hidrocinesis para extender el alcance efectivo de las armas cuerpo a cuerpo y otros objetos de bajo alcance, como los látigos
-		Reduce el daño cuerpo a cuerpo verdadero en un 15%
+		[s:InfernalEclipseAPI/IEoRIcon] Reduce el daño cuerpo a cuerpo verdadero en un 15%
 		'''
-	FrostArtifactHelmet.Tooltip: 15% de daño cuerpo a cuerpo y a distancia aumentado
-	FrostArtifactChestplate.Tooltip: 15% de probabilidad de golpe crítico cuerpo a cuerpo y a distancia aumentada
+	FrostArtifactHelmet.Tooltip: "[s:InfernalEclipseAPI/IEoRIcon] 15% de daño cuerpo a cuerpo y a distancia aumentado"
+	FrostArtifactChestplate.Tooltip: "[s:InfernalEclipseAPI/IEoRIcon] 15% de probabilidad de ataque crítico cuerpo a cuerpo y a distancia aumentada"
 
 	ElementalBreastplate: {
 		DisplayName: Coraza Elemental
@@ -67,32 +75,23 @@ Items: {
 			Tiene un tiempo de reutilización de 15 segundos, pero aumenta la velocidad cuerpo a cuerpo en un 40% durante la espera
 			'''
 	}
+
+	TwilightAssassinsCirclet.Tooltip:
+		'''
+		[s:InfernalEclipseAPI/IEoRIcon] Aumenta el máximo de centinelas en 1
+		Aumenta el daño de invocación y cuerpo a cuerpo en un 7%
+		Aumenta el vacío máximo en 50
+		Otorga un súbdito Holo Ojo para ayudar en combate
+		Presiona '{0}' para que lance un rayo desestabilizador que aplica 4 niveles de desestabilización, pero solo una vez por enemigo
+		Los enemigos desestabilizados obtienen un 5% adicional fijo de probabilidad de ataque crítico
+		Cuesta 6 de vacío al lanzarlo
+		Holo Ojo permanece activo en el inventario cuando es marcado como favorito o mientras se usa en las ranuras de vanidad, pero no puede atacar
+		'''
+	ChallengerRing.I6: Las armas infligirán un efecto negativo aleatorio al golpear
 }
 
 ArmorSetBonus.Earthen:
 	'''
 	Los golpes cuerpo a cuerpo tienen probabilidad de aplicar un desgaste acumulable y permanente en los enemigos, haciendo que reciban daño adicional de todos los ataques
 	Aumenta la velocidad de ataque en un 10%
-	'''
-TwilightAssassinsCircletText:
-	'''
-	Aumenta el máximo de centinelas en 1
-	Aumenta el daño de invocación y cuerpo a cuerpo en un 7%
-	Aumenta el vacío máximo en 50
-	Otorga un súbdito Holo Ojo para ayudar en combate
-	Presiona '{0}' para que lance un rayo desestabilizador que aplica 4 niveles de desestabilización, pero solo una vez por enemigo
-	Los enemigos desestabilizados obtienen un 5% adicional fijo de probabilidad de recibir golpe crítico
-	Cuesta 6 de vacío al lanzarlo
-	Holo Ojo permanece activo en el inventario cuando es marcado como favorito o mientras se usa en las ranuras de vanidad, pero no puede atacar
-	'''
-TwilightAssassinsCircletText2:
-	'''
-	Aumenta el máximo de centinelas en 1
-	Aumenta el daño de invocación y cuerpo a cuerpo en un 7%
-	Aumenta el vacío máximo en 50
-	Otorga un súbdito Holo Ojo para ayudar en combate
-	Presiona '{0}' para que lance un rayo desestabilizador que aplica 4 niveles de desestabilización, pero solo una vez por enemigo
-	Los enemigos desestabilizados obtienen un 5% adicional fijo de probabilidad de recibir golpe crítico
-	Cuesta 6 de vacío al lanzarlo
-	Holo Ojo permanece activo en el inventario cuando es marcado como favorito o mientras se usa en las ranuras de vanidad, pero no puede atacar
 	'''

@@ -1,0 +1,392 @@
+ExcavationBoosterModule: {
+	DisplayName: Módulo acelerador de excavación
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para acortar su ciclo de trabajo un 30%
+		Los engranajes recibieron dientes más duros
+		'''
+}
+
+PickPowerBoosterModule: {
+	DisplayName: Módulo potenciador de potencia del pico
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para aumentar la potencia de su pico un 60%
+		Permite que una máquina recubierta de estaño atraviese el mitril
+		'''
+}
+
+ChlorophyteDrillModule: {
+	DisplayName: Módulo de broca de clorofita
+	Tooltip: La propia broca está fundida en clorofita: mineral para extraer mineral
+}
+
+EfficiencyModule: {
+	DisplayName: Módulo de eficiencia
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para reducir al 60% el coste de energía de su ciclo
+		Por fin las bobinas dejaron de calentarse
+		'''
+}
+
+YieldBoosterModule: {
+	DisplayName: Módulo potenciador de rendimiento
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para aumentar un 35% la probabilidad de su tirada de rendimiento
+		El tamiz tiene ahora una malla más fina
+		'''
+}
+
+ProspectorModule: {
+	DisplayName: Módulo de prospector
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para triplicar el peso de los subproductos raros: gemas, fósiles, meteoritos y chatarra
+		Bajo la lente, hasta la gravilla tiene un orden de importancia
+		'''
+}
+
+SurveyArrayModule: {
+	DisplayName: Módulo de matriz de prospección
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para ampliar y profundizar su alcance de prospección un 50%
+		El eco llega antes que la broca
+		'''
+}
+
+VeinFocusModule: {
+	DisplayName: Módulo de enfoque de vetas
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para aumentar un 60% la influencia de las vetas reales en la producción
+		Sigue la veta; no discutas con la piedra
+		'''
+}
+
+DoubleLoadModule: {
+	DisplayName: Módulo de carga doble
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para dar a cada extracción un 25% de probabilidad de duplicarse
+		La tolva fue soldada con una abertura más ancha
+		'''
+}
+
+OverdriveCoreModule: {
+	DisplayName: Módulo de núcleo de sobremarcha
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para acortar su ciclo de trabajo un 45% a cambio de un 60% más de coste de energía
+		No piensa detenerse hasta que los cojinetes brillen
+		'''
+}
+
+ThrottleValveModule: {
+	DisplayName: Módulo de válvula reguladora
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para alargar su ciclo de trabajo un 50% y reducir el coste de energía al 45%
+		Lenta, pero toda la noche le pertenece
+		'''
+}
+
+ChestLinkModule: {
+	DisplayName: Módulo de enlace de cofres
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para depositar el rendimiento directamente en cofres cercanos; solo los deja caer cuando están llenos
+		Te ahorra tener que agacharte
+		'''
+}
+
+SmelterModule: {
+	DisplayName: Módulo de fundición en campo
+	Tooltip:
+		'''
+		Instálalo en una máquina minera para fundir minerales en lingotes con las proporciones de un horno antes de la salida, a cambio de un 40% más de coste de energía
+		Lingotes recién salidos de la boca de la mina
+		'''
+}
+
+MachineModuleText: {
+	TagText: Módulo de mejora de máquina
+	TargetsLine: Compatible con: {0}
+	HowToText: Haz clic derecho en una máquina compatible e inserta esto en su panel
+	SocketOnly: ¡Esta máquina no acepta ese módulo!
+	SocketDuplicate: ¡Ya hay instalado un módulo de este tipo!
+	SocketEmptyHint: Inserta un módulo de mejora
+	SlotLabel: Módulos
+	NameMining: Máquina minera
+	NameThermal: Generador térmico
+	NameWind: Turbina eólica
+	NameHydro: Generador hidroeléctrico
+	NameIncinerator: Incinerador
+	NameCrusher: Triturador de minerales
+	NameRecycler: Reciclador
+	NameMagma: Generador térmico de magma
+	NameBiomass: Generador de biomasa
+	NameTurret: Torreta de defensa
+	NameSolar: Panel solar
+}
+
+InsulationLiningModule: {
+	DisplayName: Módulo de revestimiento aislante
+	Tooltip:
+		'''
+		Instálalo en un generador térmico para reducir la disipación de calor al 55%
+		Tres capas de asbesto; el calor nunca encuentra la salida
+		'''
+}
+
+ForcedDraftModule: {
+	DisplayName: Módulo de tiro forzado
+	Tooltip:
+		'''
+		Instálalo en un generador térmico para quemar un 45% más rápido y caliente
+		Una bombeada del fuelle y las brasas se ponen firmes
+		'''
+}
+
+SlowBurnValveModule: {
+	DisplayName: Módulo de válvula de combustión lenta
+	Tooltip:
+		'''
+		Instálalo en un generador térmico para ralentizar la combustión al 60% y prolongar cada pieza de combustible
+		Aprieta la llama hasta hacerla fina y un carbón durará media noche
+		'''
+}
+
+HeatRecoveryModule: {
+	DisplayName: Módulo de recuperación de calor
+	Tooltip:
+		'''
+		Instálalo en un generador térmico para aumentar un 25% el calor producido por combustible
+		Dos curvas adicionales en el conducto arrastran de vuelta el calor que escapa
+		'''
+}
+
+AutoFeedHopperModule: {
+	DisplayName: Tolva de alimentación automática
+	Tooltip:
+		'''
+		Instálala en un generador térmico, incinerador o generador de biomasa para extraer combustible del almacenamiento cercano
+		La tolva solo responde a una ranura vacía
+		'''
+}
+
+ExtendedBladesModule: {
+	DisplayName: Módulo de hojas extendidas
+	Tooltip:
+		'''
+		Instálalo en una turbina eólica para aumentar la producción un 30%
+		Cada centímetro más allá de la antigua punta de la hoja es viento gratis
+		'''
+}
+
+LowWindGearboxModule: {
+	DisplayName: Módulo de engranajes para poco viento
+	Tooltip:
+		'''
+		Instálalo en una turbina eólica para aumentar el factor mínimo de viento de 0.8 a 1.3
+		Los engranajes de corte fino hacen girar hasta una brisa
+		'''
+}
+
+TallTowerModule: {
+	DisplayName: Módulo de torre alta
+	Tooltip:
+		'''
+		Instálalo en una turbina eólica para aumentar la producción un 15%; se acumula con las hojas extendidas
+		Diez metros más alta, un nivel de viento más fuerte
+		'''
+}
+
+FlowShroudModule: {
+	DisplayName: Módulo de cubierta de flujo
+	Tooltip:
+		'''
+		Instálalo en un generador hidroeléctrico para aumentar la producción un 30%
+		La boca acampanada reúne el agua suelta en un solo empuje
+		'''
+}
+
+QuickSpinModule: {
+	DisplayName: Módulo de giro rápido
+	Tooltip:
+		'''
+		Instálalo en un generador hidroeléctrico para triplicar la velocidad de arranque
+		Enrollado con fuerza; alcanza la velocidad de trabajo en cuanto toca el agua
+		'''
+}
+
+DeepBearingModule: {
+	DisplayName: Módulo de cojinete de aguas profundas
+	Tooltip:
+		'''
+		Instálalo en un generador hidroeléctrico para aumentar la producción un 15%; se acumula con la cubierta de flujo
+		El eje no desperdicia nada; la rueda lo aprovecha todo
+		'''
+}
+
+HighTempElectrodeModule: {
+	DisplayName: Módulo de electrodo de alta temperatura
+	Tooltip:
+		'''
+		Instálalo en un incinerador para fundir un 45% más rápido
+		Apunta las agujas entre sí y el arco supera al fuego
+		'''
+}
+
+EconomizerCoilModule: {
+	DisplayName: Módulo de bobina economizadora
+	Tooltip:
+		'''
+		Instálalo en un incinerador para reducir el coste de energía de fundición al 60%
+		Rebobinada con alambre esmaltado fino; ahora el medidor se comporta con educación
+		'''
+}
+
+TwinCrucibleModule: {
+	DisplayName: Módulo de crisol doble
+	Tooltip:
+		'''
+		Instálalo en un incinerador para obtener un 25% de probabilidad de duplicar la producción de cada lote
+		Un fuego, dos crisoles
+		'''
+}
+
+AutoEjectChuteModule: {
+	DisplayName: Conducto de expulsión automática
+	Tooltip:
+		'''
+		Instálalo en un incinerador para enviar los productos directamente al almacenamiento cercano
+		Conecta el conducto y el horno llenará las estanterías por sí solo
+		'''
+}
+
+CapacityCellModule: {
+	DisplayName: Módulo de célula de capacidad
+	Tooltip:
+		'''
+		Instálalo en cualquier máquina para aumentar su capacidad de energía un 50%
+		Todas las ranuras de la tienda aceptan estas placas
+		'''
+}
+
+TurretRangefinderModule: {
+	DisplayName: Módulo telémetro de torreta
+	Tooltip:
+		'''
+		Instálalo en una torreta de defensa para ampliar el alcance de fijación un 25%
+		Las torres de escudo y curación amplían su aura en su lugar
+		La lente ve al enemigo antes que el cañón
+		'''
+}
+
+TurretAutoloaderModule: {
+	DisplayName: Módulo de autocargador de torreta
+	Tooltip:
+		'''
+		Instálalo en una torreta de defensa para disparar un 30% más rápido
+		Las torres de aura no tienen ritmo de disparo, así que allí no hace nada
+		La siguiente ronda se carga antes de que aterrice la anterior
+		'''
+}
+
+TurretPowerSaverModule: {
+	DisplayName: Módulo ahorrador de energía de torreta
+	Tooltip:
+		'''
+		Instálalo en una torreta de defensa para reducir su consumo de energía al 75%
+		Cubre tanto el drenaje por disparo como el sostenido
+		Por fin el medidor se ralentiza durante un asedio
+		'''
+}
+
+CopperTinDrill: {
+	DisplayName: Broca de cobre y estaño
+	Tooltip: La primera broca que puliste hasta hacerla brillar
+}
+
+IronLeadDrill: {
+	DisplayName: Broca de hierro y plomo
+	Tooltip: La broca dura más que el mineral; eso es todo lo que necesita
+}
+
+SilverTungstenDrill: {
+	DisplayName: Broca de plata y tungsteno
+	Tooltip: Su filo está recubierto de una dignidad que se niega a oxidarse
+}
+
+GoldPlatinumDrill: {
+	DisplayName: Broca de oro y platino
+	Tooltip: Desarrolló gusto por los metales blandos
+}
+
+EvilOreDrill: {
+	DisplayName: Broca de mineral maligno
+	Tooltip: Templada en ambos males; cualquiera de los dos lados la reclama
+}
+
+MeteoriteDrill: {
+	DisplayName: Broca de meteorito
+	Tooltip: Lo que cae del cielo se encuentra con acero forjado en el cielo
+}
+
+ObsidianDrill: {
+	DisplayName: Broca de obsidiana
+	Tooltip: Un filo pulido donde se encuentran el agua y el fuego
+}
+
+HellstoneDrill: {
+	DisplayName: Broca de piedra infernal
+	Tooltip: La empuñadura aún está caliente
+}
+
+FossilDrill: {
+	DisplayName: Broca de fósiles
+	Tooltip: Los cepillos eran demasiado lentos
+}
+
+CoalDrill: {
+	DisplayName: Broca de veta de carbón
+	Tooltip: La sala de calderas la pide por su nombre
+}
+
+GemClusterDrill: {
+	DisplayName: Broca de racimo de gemas
+	Tooltip: Una mandíbula de diamante que solo muerde cosas brillantes
+}
+
+CobaltPalladiumDrill: {
+	DisplayName: Broca de cobalto y paladio
+	Tooltip: Todavía tiene fragmentos de altar atascados entre sus dientes
+}
+
+MythrilOrichalcumDrill: {
+	DisplayName: Broca de mitril y oricalco
+	Tooltip: Gira con un zumbido débilmente sagrado
+}
+
+AdamantiteTitaniumDrill: {
+	DisplayName: Broca de adamantita y titanio
+	Tooltip: Las duras entrañas de las profundidades son su especialidad
+}
+
+LuminiteDrillModule: {
+	DisplayName: Módulo de broca de luminita
+	Tooltip: Los restos lunares se minan igual que cualquier otra cosa
+}
+
+ProcessingFeedHopper: {
+	DisplayName: Tolva de alimentación de procesamiento
+	Tooltip: Instalada en un Triturador o Reciclador, la máquina extrae la entrada del almacenamiento cercano por sí sola
+}
+
+ProcessingEjectChute: {
+	DisplayName: Conducto de expulsión de procesamiento
+	Tooltip: Instalado en un Triturador o Reciclador, envía los productos directamente al almacenamiento cercano
+}

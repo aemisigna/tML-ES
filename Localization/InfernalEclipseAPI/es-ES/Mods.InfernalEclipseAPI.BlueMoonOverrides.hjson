@@ -47,3 +47,20 @@ Items: {
 			'''
 	}
 }
+
+Buffs: {
+	LunarEmpowermentBuff: {
+		DisplayName: Empoderamiento Lunar
+		Description: La luna te otorga parte de su suerte.
+	}
+
+	MintyFreshnessBuff: {
+		DisplayName: Frescura Mentolada
+		Description: La luz brillante de la Luna de Menta potencia tus habilidades. Infliges más daño y te mueves más rápido.
+	}
+
+	MoonsRingBuff: {
+		DisplayName: Armonía Lunar
+		Description: Estás bendecido por el poder de todas las lunas encantadas.
+	}
+}

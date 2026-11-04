@@ -92,11 +92,72 @@ Acquisition: {
 	GalaxyHeart: Soltado por Nebuleus
 	ShellShipInBottle_Shimmered: Transforma el Barco de Caracola en Botella con fulgor
 	WeatherBook: Combina 1 Libro, 50 Nubes, 20 Nubes de Lluvia, 3 Estrellas Fugaces y 5 Escamas de las sombras (cualquiera) en un Banco de trabajo
+	ErazorHeart: Se obtiene al derrotar a Erazor con un Glass Soul equipado
+	LunarianHeart: Se obtiene al derrotar a The Lost Siblings con un Glass Soul equipado
+	AraghurHeart: Se obtiene al derrotar a Araghur con un Glass Soul equipado
+	AbaddonHeart: Se obtiene al derrotar a Abaddon con un Glass Soul equipado
+	CorruptedSigil: Aparece al unirte al mundo por primera vez
+	GlassSoulChallenge: Se obtiene al transformar un Unstable Glass Soul con fulgor
+	ManaFruit: Crece en el bioma de Nieve tras derrotar a cualquier jefe mecánico
+	KiEssence1: Combina 20 Calm Ki Crystal, 30 Stable Ki Crystal y 5 Girasoles en la ZTable
+	KiEssence2: Combina 20 Prideful Ki Crystal, 30 Calm Ki Crystal y 1 Conejo en la ZTable
+	KiEssence3: Combina 20 Angerful Ki Crystal, 30 Prideful Ki Crystal y 5 Colmillos de araña en la ZTable
+	KiEssence4: Combina 30 Pure Ki Crystal, 20 Angerful Ki Crystal y 1 Célula de poder de lihzahrd en la Kai Table
+	KiEssence5: Combina 30 Pure Ki Crystal, 30 Angerful Ki Crystal, 30 Prideful Ki Crystal, 30 Calm Ki Crystal y 30 Stable Ki Crystal en el Manipulador Antiguo
+	KiFragment1: Se obtiene al derrotar al Ojo de Cthulhu
+	KiFragment2: Se obtiene al derrotar a Esqueletrón
+	KiFragment3: Se obtiene al derrotar a Esqueletrón mayor
+	KiFragment4: Se obtiene al derrotar a Plantera
+	KiFragment5: Se obtiene al derrotar al Sectario lunático
+	KaioFragmentFirst: Se obtiene al derrotar al Ojo de Cthulhu
+	KaioFragment1: Se obtiene al derrotar al Devoramundos o al Cerebro de Cthulhu
+	KaioFragment2: Se obtiene al derrotar a la Abeja reina
+	KaioFragment3: Se obtiene al derrotar a Esqueletrón
+	KaioFragment4: Se obtiene al derrotar al Muro de Carne
+	BukuujutsuVol1: Combina 100 Stable Ki Crystal, 3 Cristales de maná y 1 Libro en la ZTable
+	BukuujutsuVol2: Combina 50 Prideful Ki Crystal, 12 Almas de vuelo y 2 Libros en la ZTable
+	BukuujutsuVol3: Combina 250 Angerful Ki Crystal, 8 Almas de terror, 8 Almas de visión, 8 Almas de poder y 3 Libros en la Kai Table
+	TransmissionVanish: Se obtiene al derrotar al Muro de Carne
+	TransmissionTeleport: Combina 30 Angerful Ki Crystal, 5 Almas de visión, 1 Varita de la discordia y 1 Tomo encantado en la ZTable
+	TransmissionPura:
+		'''
+		Combina 20 Pure Ki Crystal, 1 Radiant Fragment, 1 Fragmento de nebulosa,
+		1 Fragmento solar, 1 Fragmento de polvo estelar, 1 Fragmento de vórtice, 4 Luminita
+		y 1 Tomo encantado en la Kai Table
+		'''
+	UltraKIScroll: Combina 5 Ultra Ki Crystal en el Manipulador Antiguo
+	UltraKIFragment: Combina 5 Ultra Ki Crystal en el Manipulador Antiguo
+	UltraFruit: Combina 10 Ultra Ki Crystal y 5 Barras de Luminita en el Manipulador Antiguo
+	GodSoul: Combina 10 Barras de Cosmilita y 35 Godly Ki Crystal en la Kai Table
+	PolterghastSoul: Combina 10 Almas Ruinosas y 35 Warm Ki Crystal en la Kai Table
+	WitchSoul: Combina 10 Cenizas de la Aniquilación y 35 Unlimited Ki Crystal en la Kai Table
+	GokuSenzuBean: Se obtiene al derrotar a Providencia, la Diosa Profanada, a El Viejo Duque y a Yharon; uno de cada uno, y solo una vez por mundo
+	KiEssence6:
+		'''
+		Combina 50 Warm Ki Crystal, 15 Fragmentos solares, 15 Fragmentos de vórtice,
+		15 Fragmentos de nebulosa, 15 Fragmentos de polvo estelar y 3 Plumas Efulgentes en la Kai Table
+		'''
+	KiFragment6: Se obtiene al derrotar a Polterghast
+	Zenkai5: Combina 15 Stable Ki Crystal, 5 Malahierbas y 15 Lingotes carmesí/Lingotes endemoniados en la ZTable
+	Zenkai10: Combina 25 Angerful Ki Crystal, 1 Fragmento de luz, 1 Fragmento de oscuridad y 15 Lingotes sagrados en la ZTable
+	Zenkai15:
+		'''
+		Combina 30 Shining Ki Crystal, 20 Fragmentos solares, 20 Fragmentos de vórtice,
+		20 Fragmentos de nebulosa, 20 Fragmentos de polvo estelar y 15 Barras de Luminita en la Kai Table
+		'''
+	LimitBreaker: Combina 20 Fragmentos solares, 20 Fragmentos de vórtice, 20 Fragmentos de nebulosa, 20 Fragmentos de polvo estelar y 35 Radiant Fragment en la Kai Table
+	KiEssenceS: Combina 30 Angerful Ki Crystal, 10 Almas de visión y 3 Mandíbulas de hormiga león
+	KiFragmentS: Se obtiene al derrotar al Gólem en Modo Experto o superior
+	EvilSaiyanItem: Se obtiene al derrotar al Ojo de Cthulhu
 }
 
 Difficulty: {
 	Fargo: Eternidad
 	Calamity: Revengeance
+	SoA: True
 }
 
-Categories.SOTSConduits: Conductos
+Categories: {
+	SOTSConduits: Conductos
+	SoA: Irreversible
+}

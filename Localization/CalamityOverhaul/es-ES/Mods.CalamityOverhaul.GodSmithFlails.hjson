@@ -1,0 +1,75 @@
+GsBallOHurt.Desc:
+	'''
+	Reforjada: gira para cargar el golpe; la bola voladora desprende púas flotantes a lo largo de su trayectoria
+	Un golpe completamente cargado hace estallar un anillo de púas sobre el objetivo
+	'''
+GsChainKnife.Desc:
+	'''
+	Reforjada: acertar un golpe de la hoja otorga Impulso durante 7 s
+	Cada acumulación acelera el giro y aumenta la velocidad de lanzamiento, hasta 3 acumulaciones
+	'''
+GsTheMeatball.Desc:
+	'''
+	Reforjada: un golpe completamente cargado estalla en un chorro de sangre
+	La explosión hiere todo lo cercano e inflige Sangrado
+	'''
+GsBlueMoon.Desc:
+	'''
+	Reforjada: los golpes cargados liberan hojas crecientes perforadoras que atraviesan al objetivo
+	Media carga libera una hoja; la carga completa libera tres
+	'''
+GsSunfury.Desc:
+	'''
+	Reforjada: la bola voladora deja marcas abrasadoras suspendidas a lo largo de su trayectoria
+	Las marcas persisten y queman con Fuego Infernal a quien las toque
+	'''
+GsMace.Desc:
+	'''
+	Reforjada: un golpe completamente cargado quiebra la armadura del objetivo y reduce su defensa a la mitad durante unos segundos
+	Cada golpe recibe un retroceso mayor
+	'''
+GsFlamingMace.Desc:
+	'''
+	Reforjada: girar la maza lanza brasas ardientes hacia fuera
+	Los giros más rápidos lanzan las brasas con más fuerza y distancia, incendiando todo lo que golpean
+	'''
+GsDaoofPow.Desc:
+	'''
+	Reforjada: los lanzamientos alternan entre Yin y Yang; un golpe Yin marca y ralentiza al objetivo
+	Un golpe Yang contra un objetivo marcado detona la marca en una explosión de luz y tinta
+	'''
+GsFlowerPow.Desc:
+	'''
+	Reforjada: los pétalos florecen alrededor de la cabeza mientras gira, hasta cinco
+	Acertar un lanzamiento envía todos los pétalos hacia el objetivo como hojas afiladas
+	'''
+GsDripplerFlail.Desc:
+	'''
+	Reforjada: con mucho giro y durante cada lanzamiento, la cabeza llora cuentas de sangre atadas a la gravedad
+	Las cuentas estallan en púas de sangre urticantes al entrar en contacto o aterrizar
+	'''
+
+GsKOCannon: {
+	Desc:
+		'''
+		Reforjada: un puñetazo recto y preparado; acierta tres golpes sólidos al mismo objetivo en cuatro segundos
+		El tercer puñetazo es un KO: doble daño, doble retroceso y un anillo contundente
+		'''
+	TipKO: ¡KO!
+}
+
+GsChainGuillotines.Desc:
+	'''
+	Reforjada: lanza ambas guillotinas a la vez, separándolas como un abanico durante el vuelo
+	Cuando las dos hojas se cruzan, seccionan el aire y liberan tajos cruzados entre ellas
+	'''
+GsGolemFist.Desc:
+	'''
+	Reforjada: los golpes sólidos acumulan calor (hasta 3, +8% de daño cada uno, desaparece tras 8 s); con el calor al máximo, el puño se vuelve fundido y los impactos lanzan 3 trozos de magma
+	Cada puñetazo que acierta a un enemigo o una pared libera una onda de choque pétrea
+	'''
+GsFlairon.Desc:
+	'''
+	Reforjada: la cadena exprime hojas de burbuja teledirigidas mientras se balancea y vuela (hasta 8 activas, 40% de daño cada una)
+	Un golpe con el giro completo hace estallar un anillo de seis hojas de burbuja alrededor del objetivo
+	'''

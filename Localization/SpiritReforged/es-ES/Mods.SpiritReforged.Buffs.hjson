@@ -78,8 +78,8 @@ GildedScarabBuff: {
 	Description: Defensa aumentada por {0}
 }
 
-PoolNoodleBubbleBuff: {
-	DisplayName: Mejora de Burbuja de Tallarín de Piscina
+Bubbled: {
+	DisplayName: Burbujeado
 	Description: ¡Encontraste el Códice Secreto de Espíritu Lore! ¡Mantente atento a nuestro superjefe Acero Oscuro, la Estrella Caída!
 }
 
@@ -146,4 +146,29 @@ ScarabLightPetBuff: {
 ScarabMountBuff: {
 	DisplayName: Montura de Bicho Bola
 	Description: "'¡Aguanta!'"
+}
+
+DivineStrike: {
+	DisplayName: Golpe Divino
+	Description: Tu próximo ataque está potenciado
+}
+
+RotDebuff: {
+	DisplayName: Podredumbre [{0}]
+	Description: "'Tu piel se está poniendo verde'"
+}
+
+SanguineStackingBuff: {
+	DisplayName: Energía Sanguínea [{0}]
+	Description: Aumenta un {0}% el daño
+}
+
+BlazeDebuff: {
+	DisplayName: En Llamas
+	Description: ¡Esto está bien!
+}
+
+RageGlyphBuff: {
+	DisplayName: Daño Iracundo [{0}]
+	Description: Daño almacenado: {0}
 }

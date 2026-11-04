@@ -1,0 +1,208 @@
+GsMinishark: {
+	Desc:
+		'''
+		Reforjada: mantén el gatillo y el tiburón saborea la sangre; la cadencia aumenta mientras la dispersión se descontrola.
+		Con el frenesí al máximo, cada cuarta bala se convierte en una mordida de diente de tiburón que desgarra la herida.
+		El cargador de 50 balas se cambia de una pieza; acierta el punto óptimo para comenzar el siguiente cargador con la mitad del frenesí
+		'''
+	Frenzy: ¡Frenesí!
+}
+
+GsPhoenixBlaster: {
+	Desc:
+		'''
+		Reforjada: cada golpe alimenta el nido de brasas y el arma brilla más; las muertes lo alimentan más rápido.
+		Con 24 chispas, el siguiente disparo renace como un fénix que se lanza en picado, detona y se divide en tres crías rastreadoras.
+		Recargar devuelve las chispas sueltas a la recámara; recargar en el punto óptimo otorga 8 chispas directamente
+		'''
+	Nirvana: ¡Nirvana!
+}
+
+GsBoomstick.Desc:
+	'''
+	Reforjada: cada cañón lanza 4 perdigones que convergen hacia tu cursor en vez de dispersarse.
+	Donde se cruzan, las fauces se cierran: una mordida retardada desgarra todo lo que se encuentre en el punto de mira.
+	Ábrela para recargar ambos cartuchos; acierta el punto óptimo para obtener +1 perdigón por cañón
+	'''
+
+GsHandgun: {
+	Desc:
+		'''
+		Reforjada: acierta 3 disparos al mismo objetivo y el 4.º se convierte en una bala de punto de presión;
+		impacta con un 80% más de fuerza e ignora 15 de armadura. La última bala acciona la corredera con un golpe adicional.
+		Los ejercicios con cargador de caja hacen que la recarga táctica sea casi instantánea y el punto óptimo sea generoso
+		'''
+	PointShot: ¡Punto de presión!
+}
+
+GsTheUndertaker.Desc:
+	'''
+	Reforjada: derriba a un enemigo o hiere a uno al borde de la muerte y el arma recoge una linterna de alma
+	que vuelve flotando para repararte una vez por cilindro.
+	La recámara final hace sonar la campana funeraria: una bala de sangre pesada con el doble de retroceso
+	'''
+
+GsRedRyder: {
+	Desc:
+		'''
+		Reforjada: los balines de cobre rebotan dos veces en los bloques y hacen sonar una campana con cada rebote.
+		Haz sonar al mismo objetivo cinco veces seguidas y el siguiente disparo será una bala de regalo
+		que estalla en metralla festiva. Carga un balín a la vez con la palanca; dispara cuando quieras
+		'''
+	Gift: ¡Bala de regalo!
+}
+
+GsPewMaticHorn: {
+	Desc:
+		'''
+		Reforjada: un cargador de siete notas, de do a si, con cada disparo teñido por su nota.
+		Acierta tres notas seguidas al mismo objetivo para formar un acorde: una explosión de pintura del color de la tercera nota.
+		Recargar reproduce la escala hacia arriba; acierta el punto óptimo en la nota alta para obtener acordes más grandes
+		'''
+	Chord: ¡Acorde!
+}
+
+GsSandgun: {
+	Desc:
+		'''
+		Reforjada: el disparo sostenido calienta la tolva; sigue disparando y la arena se fundirá en la recámara.
+		Mientras está fundida, las balas salen como virotes de vidrio que vuelan más rápido, atraviesan más y se quiebran en facetas afiladas.
+		Recargar vierte la arena en tres tiempos de traqueteo; una carga en el punto óptimo enciende la tolva al instante
+		'''
+	Molten: ¡Fundida!
+}
+
+GsBlowpipe.Desc:
+	'''
+	Reforjada: cada golpe al mismo objetivo enhebra una mecha venenosa; tres mechas estallan en una nube tóxica persistente.
+	Recargar es recuperar el aliento, un dardo por bocanada; permanecer quieto permite respirar un 25% más rápido.
+	Una bocanada en el punto óptimo envenena el siguiente dardo para que detone las mechas al entrar en contacto
+	'''
+GsBlowgun.Desc:
+	'''
+	Reforjada: una bocanada larga impulsa 5 dardos, cada uno volando con más fuerza y rapidez que el anterior.
+	El quinto dardo vacía los pulmones: un virote pesado que estalla en una amplia nube tóxica al impactar.
+	Recupera un dardo por bocanada, más rápido mientras permaneces quieto; una bocanada en el punto óptimo comienza con la fuerza del tercer dardo
+	'''
+GsHarpoon.Desc:
+	'''
+	Reforjada: el arpón sale disparado y vuelve enrollándose; la recarga ES el regreso de la cadena.
+	Clava un enemigo pesado para establecer un ancla y vuelve a apretar el gatillo para izarte hacia él.
+	Los enemigos ligeros son arrastrados hacia ti durante el regreso
+	'''
+GsFlareGun.Desc:
+	'''
+	Reforjada: un cartucho de cuatro colores, rojo, verde, azul y luego blanco; cada bengala se clava en la carne y sigue ardiendo.
+	A un enemigo clavado le infliges un 12% más de daño (16% con la bengala blanca).
+	Cambia de cartucho en dos tiempos; un cambio en el punto óptimo dispara dos bengalas en el siguiente tiro
+	'''
+GsFlintlockPistol.Desc:
+	'''
+	Reforjada: dos recámaras; el segundo disparo llega un 40% más rápido;
+	la última recámara dispara dos balas en forma de V desde una sola bala, con el doble de retroceso.
+	Acierta el punto óptimo al recargar para obtener +25% en el siguiente disparo
+	'''
+GsMusket.Desc:
+	'''
+	Reforjado: un verdadero cargador por la boca; cada bala perfora piedra, vuela más rápido y atraviesa a un enemigo adicional.
+	Recarga en tres tiempos: vierte, apisona, ceba
+	'''
+GsQuadBarrelShotgun.Desc:
+	'''
+	Reforjada: dispara un cañón a la vez en una cuenta rápida de cuatro;
+	el cuarto cañón ruge de una vez con 8 perdigones y te lanza hacia atrás.
+	Apunta hacia abajo para hacer un salto propulsado. Ábrela para recargar; acierta el punto óptimo para obtener +2 perdigones
+	'''
+GsRevolver.Desc: Reforjado: cilindro de seis recámaras; la última siempre impacta con un 40% más de fuerza.
+
+GsCandyCornRifle: {
+	Desc: Reforjado: el rocío clásico ahora cae en un dulce arco
+	ModeCandyRain: Lluvia de Caramelos
+}
+
+GsClockworkAssaultRifle: {
+	Desc: Reforjado: conserva la ráfaga clásica de tres proyectiles; el tercero muerde un 30% más fuerte
+	ModeGearBurst: Ráfaga Dentada
+}
+
+GsGatligator: {
+	Desc: Reforjado: conserva la dispersión salvaje, pero cada bala rebota una vez en los bloques
+	ModeSwampRiot: Motín del Pantano
+}
+
+GsMegashark: {
+	Desc:
+		'''
+		Reforjado: la cadencia aumenta cuanto más mantengas el gatillo
+		Acierta 50 golpes para sacar sangre: durante 3 s, cada golpe deja una herida sangrante
+		'''
+	ModeFrenzy: Frenesí Alimenticio
+}
+
+GsOnyxBlaster: {
+	Desc:
+		'''
+		Reforjado: clic derecho para cambiar la carga
+		Descarga de Ónix deja una mancha oscura persistente en la explosión que atrae a los enemigos
+		Carga de Singularidad dispara más despacio, pero lanza un enorme orbe de ónix: su explosión atrae todo hacia el núcleo y esparce tus balas en un anillo
+		'''
+	ModeVolley: Descarga de Ónix
+	ModeSingularity: Carga de Singularidad
+}
+
+GsSDMG: {
+	Desc: Reforjado: conserva la cadencia de disparo legendaria
+	ModeDolphinTide: Marea de Delfines
+}
+
+GsShotgun: {
+	Desc:
+		'''
+		Reforjada: seis perdigones caídos en un abanico amplio; acertar 3 perdigones de una misma ráfaga provoca una lluvia de plomo sobre el objetivo
+		Cada disparo sigue costando un cartucho
+		'''
+	ModeWideBore: Ánima Ancha
+}
+
+GsSniperRifle: {
+	Desc:
+		'''
+		Reforjado: pulsa el clic derecho para cambiar el modo de disparo y mantenlo para usar la mira
+		El modo Francotirador dibuja una línea de puntería perforadora; quédate quieto para estabilizar la respiración y el disparo estabilizado siempre será crítico
+		El modo Disparo Rápido cambia potencia por velocidad
+		'''
+	ModeSnipe: Francotirador
+	ModeRapid: Disparo Rápido
+}
+
+GsTacticalShotgun: {
+	Desc: Reforjada: dibuja el cono de dispersión para que sepas exactamente qué cubren los seis perdigones
+	ModeFan: Abanico Táctico
+}
+
+GsUzi: {
+	Desc:
+		'''
+		Reforjada: dispara un 30% más rápido con un patrón amplio
+		Cada 4.ª bala es un trazador ámbar: los golpes del trazador iluminan al objetivo y tus balas de Uzi penetran un 10% más en objetivos iluminados
+		'''
+	ModeAkimbo: Doble Empuñadura
+}
+
+GsVenusMagnum: {
+	Desc: Reforjada: después de un crítico, la siguiente bala atraviesa un enemigo adicional y la línea de puntería se ilumina durante esa ventana
+	ModeFocus: Concentración Magnum
+}
+
+GsVortexBeater: {
+	Desc: Reforjado: conserva la tormenta clásica; los cohetes buscan objetivos suavemente
+	ModeSweep: Barrido del Vórtice
+}
+
+GsXenopopper: {
+	Desc: Reforjado: hace estallar cinco burbujas que convergen y revientan en un fuego cruzado sobre tu cursor
+	ModeCluster: Explosión de Racimo
+}
+
+GsShotgunLeadRainProj.DisplayName: Lluvia de plomo de escopeta Gs
+GsUziTracerProj.DisplayName: Trazador de Uzi Gs

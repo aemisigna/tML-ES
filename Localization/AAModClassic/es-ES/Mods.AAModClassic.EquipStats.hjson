@@ -486,4 +486,5 @@ Effect: {
 		El chasquido tiene un recarga de 5 minutos
 		'''
 	DemonHelmetSetEffect: Un sirviente impio leal luchará por ti, sin importar la temporada o condición
+	MeleeSizeEffect: Incrementa el tamaño de las armas cuerpo a cuerpo
 }
