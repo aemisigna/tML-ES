@@ -72,6 +72,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Ancients Awakened: Classic | ✅ | v1.0.27
 | Calamity: Community Remix | ✅ | v1.3.14
 | Deterministic Chaos | ✅ | v1.14.95
+| Mod of Redemption | ✅ | v0.8.0.4501
 | Calamity Mod Music | ✅ | v2.1
 | Infernum Mode Music | ✅ | v2.0.1.8
 | AlchemistNPC Lite | ✅ | v1.9.9.3
